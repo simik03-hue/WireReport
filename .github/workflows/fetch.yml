@@ -1,1 +1,46 @@
+name: Fetch headlines
 
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the fetch script
+        run: python3 scripts/fetch_feeds.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "wire-report-bot"
+          git config user.email "actions@github.com"
+          git add data/wire_data.json data/archive.json
+          git diff --staged --quiet || git commit -m "Update headlines"
+          git push
+
+      - name: Deploy fresh data to Hostinger
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.HOSTINGER_FTP_SERVER }}
+          username: ${{ secrets.HOSTINGER_FTP_USERNAME }}
+          password: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
+          local-dir: ./data/
+          server-dir: ./public_html/data/
+          exclude: |
+            **/.gitkeep
