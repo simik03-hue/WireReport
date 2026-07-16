@@ -1,137 +1,146 @@
 {
-  "generated_at": "2026-07-16T16:52:16.253462+00:00",
+  "generated_at": "2026-07-16T20:15:20.711070+00:00",
   "lead": {
-    "text": "'Moment of joy' as Uganda discharges last Ebola patient",
-    "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates",
+    "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-07-16T16:50:57+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-16T20:15:06+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Bannon: White House officials leaking to MS NOW",
-      "url": "https://thehill.com/homenews/administration/5971987-bannon-accuses-white-house-leaks/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:47:56+00:00"
-    },
-    {
-      "text": "'Millionaires tax' repeal qualifies for ballot in Washington state",
-      "url": "https://thehill.com/homenews/state-watch/5972033-washington-repeal-millionaire-tax/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:43:25+00:00"
-    },
-    {
-      "text": "Short sellers load up against SpaceX as stock drops below IPO price",
-      "url": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+      "text": "Dow drops 100 points; S&P 500 closes lower as Alphabet and chip shares sell off: Live updates",
+      "url": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-16T16:42:50+00:00"
+      "time": "2026-07-16T20:15:01+00:00"
+    },
+    {
+      "text": "AG pick Blanche to meet with Epstein survivors after 2 GOP senators hedge on nomination",
+      "url": "https://www.cnbc.com/2026/07/16/todd-blanche-attorney-general-nomination-cornyn.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-16T20:07:00+00:00"
+    },
+    {
+      "text": "Here's why the housing market is hurting so much this summer",
+      "url": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-16T20:06:13+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Trump immediately fires new prosecutor; All eyes on primetime address",
-      "url": "https://thehill.com/newsletters/1230-report/5972045-trump-primetime-address-hegseth-testosterone-screening/",
+      "text": "Tesla driver in fatal Texas crash overrode driver assistance system: NTSB",
+      "url": "https://thehill.com/policy/technology/5972631-tesla-fsd-crash-texas/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:42:48+00:00"
+      "time": "2026-07-16T19:54:20+00:00"
     },
     {
-      "text": "Texas ICE facility detainees beaten, abused: Rights groups",
-      "url": "https://thehill.com/homenews/administration/5971827-migrant-abuse-fort-bliss-camp/",
+      "text": "House plans packed week of stopgap funding, reconciliation 3.0, stock trading ban",
+      "url": "https://thehill.com/homenews/house/5972571-house-stopgap-funding-reconciliation-3-0-stock-trading-ban/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:31:13+00:00"
+      "time": "2026-07-16T19:36:40+00:00"
     },
     {
-      "text": "Live updates: Leavitt returns to briefing room ahead of Trump address",
-      "url": "https://thehill.com/homenews/administration/5970909-live-updates-trump-address-iran-house-budget-maine-senate/",
+      "text": "Tillis shouts at Vought, tired of picking up 'DOGE s‑‑‑ because people did it wrong'",
+      "url": "https://thehill.com/homenews/senate/5972513-tillis-lambasts-vought-doge/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:10:56+00:00"
+      "time": "2026-07-16T19:15:34+00:00"
     },
     {
-      "text": "Advocacy groups sue to block Trump administration’s sanctions against ICC",
-      "url": "https://thehill.com/regulation/court-battles/5971860-human-rights-groups-trump-administration-icc-sanctions/",
+      "text": "FDA approves first daily pill to drastically lower cholesterol levels",
+      "url": "https://thehill.com/policy/healthcare/5972394-fda-cholesterol-pill-lipfendra/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T15:54:16+00:00"
+      "time": "2026-07-16T18:56:50+00:00"
     },
     {
-      "text": "Skills, not wages, measure what truly matters in the workforce",
-      "url": "https://thehill.com/opinion/education/5970513-measuring-competencies-modern-economy/",
+      "text": "Richard Gere: Trump 'a rogue personality who's destroyed so much'",
+      "url": "https://thehill.com/blogs/in-the-know/5972387-richard-gere-slams-trump/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T15:30:00+00:00"
+      "time": "2026-07-16T18:46:26+00:00"
     },
     {
-      "text": "Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894839/sen-cory-booker-on-why-he-believes-todd-blanche-shouldnt-be-confirmed-as-ag",
+      "text": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
       "source": "NPR Politics",
       "lean": "left",
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T10:44:23+00:00"
+      "time": "2026-07-16T17:10:29+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Lawler reveals 2012 drunken driving arrest",
-      "url": "https://thehill.com/homenews/house/5972000-lawler-reveals-dui-arrest/",
+      "text": "GOP fears Trump speech could boomerang if focused on 2020 election",
+      "url": "https://thehill.com/homenews/administration/5972555-gop-concerns-trump-election-rhetoric/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:42:07+00:00"
+      "time": "2026-07-16T19:53:05+00:00"
     },
     {
-      "text": "Faster growth is the key to tackling America's debt crisis",
-      "url": "https://thehill.com/opinion/finance/5971059-america-debt-economic-growth/",
+      "text": "Watch live: Trump gives primetime address with focus on elections",
+      "url": "https://thehill.com/video-clips/5972215-watch-live-donald-trump-primetime-address-election-integrity-midterms/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:30:00+00:00"
+      "time": "2026-07-16T19:30:18+00:00"
     },
     {
-      "text": "Ending Temporary Protected Status program is a moral and economic catastrophe",
-      "url": "https://thehill.com/opinion/immigration/5971022-supreme-court-trump-tps-ruling/",
+      "text": "Democrats dominate Senate fundraising, GOP holds own in House: 5 takeaways from new campaign filings",
+      "url": "https://thehill.com/homenews/campaign/5972383-democrats-republicans-q2-fundraising/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:00:00+00:00"
+      "time": "2026-07-16T19:14:26+00:00"
     },
     {
-      "text": "Zelensky ousts Ukraine's defense minister in surprise move",
-      "url": "https://thehill.com/policy/international/5971798-zelensky-ousted-defense-minister-fedorov/",
+      "text": "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
+      "url": "https://thehill.com/homenews/administration/5972459-trump-election-security-speech/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T15:51:57+00:00"
+      "time": "2026-07-16T18:54:30+00:00"
+    },
+    {
+      "text": "Trump, Mullin 'on same page' about resuming ICE traffic stops: White House",
+      "url": "https://thehill.com/homenews/administration/5972369-trump-mullin-support-ice-stops/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T18:36:48+00:00"
     },
     {
       "text": "Trump wants a permanent fence around the D.C. park known for White House protests",
@@ -141,53 +150,53 @@
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
       "time": "2026-07-16T12:13:23+00:00"
-    },
-    {
-      "text": "DHS pledged body cams for all immigration agents. Months later, that hasn't happened",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894825/body-cams-ice-shootings",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T09:00:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Tillis goes scorched-earth on SAVE America Act, threatening to stall it",
-      "url": "https://thehill.com/homenews/senate/5971999-thom-tillis-trump-save-america-act-voter-id-senate/",
+      "text": "2 men plead not guilty in alleged White House UFC attack plot",
+      "url": "https://thehill.com/regulation/court-battles/5972530-white-house-ufc-plot-pleaded-not-guilty/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:32:48+00:00"
+      "time": "2026-07-16T19:52:13+00:00"
     },
     {
-      "text": "Senate passes resolution saying Bankman-Fried shouldn't receive pardon",
-      "url": "https://thehill.com/policy/technology/5971943-senate-rejects-bankman-fried-pardon/",
+      "text": "More worldwide say their communities are good for minorities: Gallup",
+      "url": "https://thehill.com/policy/international/5972531-gallup-global-inclusion-survey/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:21:01+00:00"
+      "time": "2026-07-16T19:22:30+00:00"
     },
     {
-      "text": "Watch live: Leavitt holds White House briefing ahead of Trump primetime address",
-      "url": "https://thehill.com/video-clips/5971677-watch-live-white-house-press-briefing-leavitt-trump-elections-iran/",
+      "text": "US military unleashes strikes on Iran for sixth consecutive day",
+      "url": "https://thehill.com/policy/defense/5972472-us-military-iran-airstrikes/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T16:00:00+00:00"
+      "time": "2026-07-16T19:03:15+00:00"
     },
     {
-      "text": "Local district attorney disputes FBI claim of drugs in van of Houston ICE shooting",
-      "url": "https://thehill.com/homenews/state-watch/5971590-lorenzo-salgado-araujo-houston-ice-shooting-fbi-assessent-local-da/",
+      "text": "House GOP pulls military benefits bill that has divided veterans groups",
+      "url": "https://thehill.com/policy/defense/5972408-house-military-benefits-bill/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T15:47:07+00:00"
+      "time": "2026-07-16T18:54:24+00:00"
+    },
+    {
+      "text": "'Humiliating': Jon Ossoff grills Jay Clayton into silence",
+      "url": "https://thehill.com/opinion/lindseys-lens/5972353-jay-clayton-dni-confirmation/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T18:09:52+00:00"
     },
     {
       "text": "Todd Blanche faces tense questioning during confirmation hearing for attorney general",
@@ -197,15 +206,6 @@
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
       "time": "2026-07-16T10:44:27+00:00"
-    },
-    {
-      "text": "Bike lanes and speed cameras disappear from the DOT's list of proven safety measures",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T09:00:00+00:00"
     }
   ]
 }
