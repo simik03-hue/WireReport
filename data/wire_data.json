@@ -1,17 +1,194 @@
 {
-  "generated_at": "2026-07-16T21:05:40.955711+00:00",
+  "generated_at": "2026-07-16T23:43:07.281465+00:00",
   "lead": {
-    "text": "Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
-    "url": "https://thehill.com/policy/healthcare/5972792-senate-blocks-medicare-ai-pilot/",
-    "source": "The Hill",
+    "text": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
+    "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-07-16T20:51:17+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-16T23:41:18+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "SpaceX aborts Starship test flight, sending stock lower",
+      "url": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-16T23:31:34+00:00"
+    },
+    {
+      "text": "Ben Shapiro says Vance sounded like a Democrat on Rogan's podcast",
+      "url": "https://thehill.com/homenews/media/5973141-shapiro-criticizes-vance-rogan-interview/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:56:16+00:00"
+    },
+    {
+      "text": "Truth Social to launch Wall Street API",
+      "url": "https://thehill.com/newsletters/business-economy/5973153-truth-social-to-launch-wall-street-api/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:41:52+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Trump brings back rule allowing green card denials over public benefits use",
+      "url": "https://thehill.com/newsletters/healthcare/5973126-trump-brings-back-rule-allowing-green-card-denials-over-public-benefits-use/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:35:40+00:00"
+    },
+    {
+      "text": "Wall Street traders can soon pay for early looks at Truth Social posts",
+      "url": "https://thehill.com/policy/technology/5972998-trump-media-technology-group-launch-truth-api/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:25:26+00:00"
+    },
+    {
+      "text": "Election handicapper shifts California House seat to Dems, Maine seat to GOP",
+      "url": "https://thehill.com/homenews/campaign/5973017-crystal-ball-shifts-projections/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:10:33+00:00"
+    },
+    {
+      "text": "White House says ICE traffic stops will continue after deadly shootings",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-07-16T21:31:23+00:00"
+    },
+    {
+      "text": "GOP senator to introduce bill to sanction Canada over wildfire smoke",
+      "url": "https://thehill.com/homenews/senate/5972839-moreno-sanction-canada-wildfires/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T21:16:27+00:00"
+    },
+    {
+      "text": "President Trump to deliver prime time address on elections, though details are slim",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896195/president-trump-to-deliver-prime-time-address-on-elections-though-details-are-slim",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-07-16T20:12:37+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "US military boards oil tanker in Gulf of Oman",
+      "url": "https://thehill.com/newsletters/defense-national-security/5973065-us-military-boards-oil-tanker-in-gulf-of-oman/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:29:20+00:00"
+    },
+    {
+      "text": "White House teleprompter operator on unpaid leave after alleged bets on Trump speeches",
+      "url": "https://thehill.com/newsletters/technology/5973080-trump-teleprompter-operator-suspended/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:19:10+00:00"
+    },
+    {
+      "text": "5 takeaways from Vance's 3-hour Joe Rogan interview",
+      "url": "https://thehill.com/homenews/administration/5972224-vance-discusses-epstein-files-iran/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T21:48:57+00:00"
+    },
+    {
+      "text": "Nicki Minaj defends Trump adviser in feud with House Republican",
+      "url": "https://thehill.com/homenews/house/5972902-nicki-minaj-backs-trump-adviser/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T21:29:30+00:00"
+    },
+    {
+      "text": "More Pennsylvania voters in new poll say they are worse off financially than a year ago",
+      "url": "https://thehill.com/homenews/state-watch/5972840-pennsylvania-financial-worries-midterms/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T21:06:01+00:00"
+    },
+    {
+      "text": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-07-16T17:10:29+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "White House revives rule to deny green cards to migrants who use safety net programs",
+      "url": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:28:49+00:00"
+    },
+    {
+      "text": "Why is it so hard to open the Strait of Hormuz?",
+      "url": "https://thehill.com/newsletters/energy-environment/5972986-why-is-it-so-hard-to-open-the-strait-of-hormuz/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T22:13:03+00:00"
+    },
+    {
+      "text": "Railroad, airline labor mediator fired by Trump drops legal fight",
+      "url": "https://thehill.com/regulation/court-battles/5972904-trump-firing-power-scotus-ruling/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T21:33:50+00:00"
+    },
+    {
+      "text": "State Department considering $100,000 bonds on green card applicants",
+      "url": "https://thehill.com/homenews/administration/5972769-trump-green-card-bond/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T21:24:37+00:00"
+    },
     {
       "text": "After years of false claims on voting, Trump to give an address on election integrity",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
@@ -22,71 +199,6 @@
       "time": "2026-07-16T20:50:26+00:00"
     },
     {
-      "text": "Anthropic CEO gave $1M to AI safety super PAC",
-      "url": "https://thehill.com/policy/technology/5972753-anthropic-ceo-gave-1m-to-ai-safety-super-pac/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T20:47:49+00:00"
-    },
-    {
-      "text": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates",
-      "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-16T20:43:10+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Blanche to meet with Epstein survivors after Tillis ultimatum",
-      "url": "https://thehill.com/homenews/senate/5972722-blanche-epstein-survivors-meeting/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T20:35:43+00:00"
-    },
-    {
-      "text": "President Trump to deliver prime time address on elections, though details are slim",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896195/president-trump-to-deliver-prime-time-address-on-elections-though-details-are-slim",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T20:12:37+00:00"
-    },
-    {
-      "text": "2 men plead not guilty in alleged White House UFC attack plot",
-      "url": "https://thehill.com/regulation/court-battles/5972530-white-house-ufc-plot-pleaded-not-guilty/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:52:13+00:00"
-    },
-    {
-      "text": "More worldwide say their communities are good for minorities: Gallup",
-      "url": "https://thehill.com/policy/international/5972531-gallup-global-inclusion-survey/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:22:30+00:00"
-    },
-    {
-      "text": "US military unleashes strikes on Iran for sixth consecutive day",
-      "url": "https://thehill.com/policy/defense/5972472-us-military-iran-airstrikes/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:03:15+00:00"
-    },
-    {
       "text": "Trump wants a permanent fence around the D.C. park known for White House protests",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "source": "NPR Politics",
@@ -94,118 +206,6 @@
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
       "time": "2026-07-16T12:13:23+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Thune tees up bill to provide assistance to Ukraine, sanction Russia",
-      "url": "https://thehill.com/homenews/senate/5972749-senate-ukraine-aid-russia-sanctions-vote/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T20:35:18+00:00"
-    },
-    {
-      "text": "Tesla driver in fatal Texas crash overrode driver assistance system: NTSB",
-      "url": "https://thehill.com/policy/technology/5972631-tesla-fsd-crash-texas/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:54:20+00:00"
-    },
-    {
-      "text": "House plans packed week of stopgap funding, reconciliation 3.0, stock trading ban",
-      "url": "https://thehill.com/homenews/house/5972571-house-stopgap-funding-reconciliation-3-0-stock-trading-ban/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:36:40+00:00"
-    },
-    {
-      "text": "Tillis shouts at Vought, tired of picking up 'DOGE s‑‑‑ because people did it wrong'",
-      "url": "https://thehill.com/homenews/senate/5972513-tillis-lambasts-vought-doge/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:15:34+00:00"
-    },
-    {
-      "text": "FDA approves first daily pill to drastically lower cholesterol levels",
-      "url": "https://thehill.com/policy/healthcare/5972394-fda-cholesterol-pill-lipfendra/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T18:56:50+00:00"
-    },
-    {
-      "text": "Todd Blanche faces tense questioning during confirmation hearing for attorney general",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894875/todd-blanche-faces-tense-questioning-during-confirmation-hearing-for-attorney-general",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T10:44:27+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump exempts 20 more polluting plants from clean air regulation",
-      "url": "https://thehill.com/policy/energy-environment/5972750-trump-pollution-clean-air-rules/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T20:34:24+00:00"
-    },
-    {
-      "text": "GOP fears Trump speech could boomerang if focused on 2020 election",
-      "url": "https://thehill.com/homenews/administration/5972555-gop-concerns-trump-election-rhetoric/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:53:05+00:00"
-    },
-    {
-      "text": "Watch live: Trump gives primetime address with focus on elections",
-      "url": "https://thehill.com/video-clips/5972215-watch-live-donald-trump-primetime-address-election-integrity-midterms/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:30:18+00:00"
-    },
-    {
-      "text": "Democrats dominate Senate fundraising, GOP holds own in House: 5 takeaways from new campaign filings",
-      "url": "https://thehill.com/homenews/campaign/5972383-democrats-republicans-q2-fundraising/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:14:26+00:00"
-    },
-    {
-      "text": "Officials probe whether White House teleprompter operator profited off Trump's words",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T17:10:29+00:00"
-    },
-    {
-      "text": "Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894839/sen-cory-booker-on-why-he-believes-todd-blanche-shouldnt-be-confirmed-as-ag",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T10:44:23+00:00"
     }
   ]
 }
