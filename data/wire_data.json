@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T20:15:20.711070+00:00",
+  "generated_at": "2026-07-16T20:44:28.646690+00:00",
   "lead": {
     "text": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates",
     "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
@@ -7,152 +7,49 @@
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-07-16T20:15:06+00:00",
+    "time": "2026-07-16T20:43:10+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Dow drops 100 points; S&P 500 closes lower as Alphabet and chip shares sell off: Live updates",
-      "url": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
-      "source": "CNBC",
+      "text": "Blanche to meet with Epstein survivors after Tillis ultimatum",
+      "url": "https://thehill.com/homenews/senate/5972722-blanche-epstein-survivors-meeting/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-16T20:15:01+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T20:35:43+00:00"
     },
     {
-      "text": "AG pick Blanche to meet with Epstein survivors after 2 GOP senators hedge on nomination",
-      "url": "https://www.cnbc.com/2026/07/16/todd-blanche-attorney-general-nomination-cornyn.html",
-      "source": "CNBC",
+      "text": "Thune tees up bill to provide assistance to Ukraine, sanction Russia",
+      "url": "https://thehill.com/homenews/senate/5972749-senate-ukraine-aid-russia-sanctions-vote/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-16T20:07:00+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T20:35:18+00:00"
     },
     {
-      "text": "Here's why the housing market is hurting so much this summer",
-      "url": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
-      "source": "CNBC",
+      "text": "Trump exempts 20 more polluting plants from clean air regulation",
+      "url": "https://thehill.com/policy/energy-environment/5972750-trump-pollution-clean-air-rules/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-16T20:06:13+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T20:34:24+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Tesla driver in fatal Texas crash overrode driver assistance system: NTSB",
-      "url": "https://thehill.com/policy/technology/5972631-tesla-fsd-crash-texas/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:54:20+00:00"
-    },
-    {
-      "text": "House plans packed week of stopgap funding, reconciliation 3.0, stock trading ban",
-      "url": "https://thehill.com/homenews/house/5972571-house-stopgap-funding-reconciliation-3-0-stock-trading-ban/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:36:40+00:00"
-    },
-    {
-      "text": "Tillis shouts at Vought, tired of picking up 'DOGE s‑‑‑ because people did it wrong'",
-      "url": "https://thehill.com/homenews/senate/5972513-tillis-lambasts-vought-doge/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:15:34+00:00"
-    },
-    {
-      "text": "FDA approves first daily pill to drastically lower cholesterol levels",
-      "url": "https://thehill.com/policy/healthcare/5972394-fda-cholesterol-pill-lipfendra/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T18:56:50+00:00"
-    },
-    {
-      "text": "Richard Gere: Trump 'a rogue personality who's destroyed so much'",
-      "url": "https://thehill.com/blogs/in-the-know/5972387-richard-gere-slams-trump/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T18:46:26+00:00"
-    },
-    {
-      "text": "Officials probe whether White House teleprompter operator profited off Trump's words",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+      "text": "President Trump to deliver prime time address on elections, though details are slim",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896195/president-trump-to-deliver-prime-time-address-on-elections-though-details-are-slim",
       "source": "NPR Politics",
       "lean": "left",
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T17:10:29+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "GOP fears Trump speech could boomerang if focused on 2020 election",
-      "url": "https://thehill.com/homenews/administration/5972555-gop-concerns-trump-election-rhetoric/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:53:05+00:00"
+      "time": "2026-07-16T20:12:37+00:00"
     },
-    {
-      "text": "Watch live: Trump gives primetime address with focus on elections",
-      "url": "https://thehill.com/video-clips/5972215-watch-live-donald-trump-primetime-address-election-integrity-midterms/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:30:18+00:00"
-    },
-    {
-      "text": "Democrats dominate Senate fundraising, GOP holds own in House: 5 takeaways from new campaign filings",
-      "url": "https://thehill.com/homenews/campaign/5972383-democrats-republicans-q2-fundraising/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T19:14:26+00:00"
-    },
-    {
-      "text": "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
-      "url": "https://thehill.com/homenews/administration/5972459-trump-election-security-speech/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T18:54:30+00:00"
-    },
-    {
-      "text": "Trump, Mullin 'on same page' about resuming ICE traffic stops: White House",
-      "url": "https://thehill.com/homenews/administration/5972369-trump-mullin-support-ice-stops/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T18:36:48+00:00"
-    },
-    {
-      "text": "Trump wants a permanent fence around the D.C. park known for White House protests",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T12:13:23+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "2 men plead not guilty in alleged White House UFC attack plot",
       "url": "https://thehill.com/regulation/court-battles/5972530-white-house-ufc-plot-pleaded-not-guilty/",
@@ -190,15 +87,6 @@
       "time": "2026-07-16T18:54:24+00:00"
     },
     {
-      "text": "'Humiliating': Jon Ossoff grills Jay Clayton into silence",
-      "url": "https://thehill.com/opinion/lindseys-lens/5972353-jay-clayton-dni-confirmation/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T18:09:52+00:00"
-    },
-    {
       "text": "Todd Blanche faces tense questioning during confirmation hearing for attorney general",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5894875/todd-blanche-faces-tense-questioning-during-confirmation-hearing-for-attorney-general",
       "source": "NPR Politics",
@@ -206,6 +94,118 @@
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
       "time": "2026-07-16T10:44:27+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Tesla driver in fatal Texas crash overrode driver assistance system: NTSB",
+      "url": "https://thehill.com/policy/technology/5972631-tesla-fsd-crash-texas/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T19:54:20+00:00"
+    },
+    {
+      "text": "House plans packed week of stopgap funding, reconciliation 3.0, stock trading ban",
+      "url": "https://thehill.com/homenews/house/5972571-house-stopgap-funding-reconciliation-3-0-stock-trading-ban/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T19:36:40+00:00"
+    },
+    {
+      "text": "Tillis shouts at Vought, tired of picking up 'DOGE s‑‑‑ because people did it wrong'",
+      "url": "https://thehill.com/homenews/senate/5972513-tillis-lambasts-vought-doge/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T19:15:34+00:00"
+    },
+    {
+      "text": "FDA approves first daily pill to drastically lower cholesterol levels",
+      "url": "https://thehill.com/policy/healthcare/5972394-fda-cholesterol-pill-lipfendra/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T18:56:50+00:00"
+    },
+    {
+      "text": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-07-16T17:10:29+00:00"
+    },
+    {
+      "text": "Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894839/sen-cory-booker-on-why-he-believes-todd-blanche-shouldnt-be-confirmed-as-ag",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-07-16T10:44:23+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "GOP fears Trump speech could boomerang if focused on 2020 election",
+      "url": "https://thehill.com/homenews/administration/5972555-gop-concerns-trump-election-rhetoric/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T19:53:05+00:00"
+    },
+    {
+      "text": "Watch live: Trump gives primetime address with focus on elections",
+      "url": "https://thehill.com/video-clips/5972215-watch-live-donald-trump-primetime-address-election-integrity-midterms/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T19:30:18+00:00"
+    },
+    {
+      "text": "Democrats dominate Senate fundraising, GOP holds own in House: 5 takeaways from new campaign filings",
+      "url": "https://thehill.com/homenews/campaign/5972383-democrats-republicans-q2-fundraising/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T19:14:26+00:00"
+    },
+    {
+      "text": "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
+      "url": "https://thehill.com/homenews/administration/5972459-trump-election-security-speech/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T18:54:30+00:00"
+    },
+    {
+      "text": "Trump wants a permanent fence around the D.C. park known for White House protests",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-07-16T12:13:23+00:00"
+    },
+    {
+      "text": "Trump earned billions last year. Some Pennsylvania swing voters say they don't care",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-07-16T09:00:00+00:00"
     }
   ]
 }
