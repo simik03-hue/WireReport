@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-07-16T20:44:28.646690+00:00",
+  "generated_at": "2026-07-16T20:55:03.374871+00:00",
   "lead": {
-    "text": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates",
-    "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-    "source": "CNBC",
+    "text": "Senate Republicans block Dem attempt to end AI prior authorization in Medicare",
+    "url": "https://thehill.com/policy/healthcare/5972792-senate-blocks-medicare-ai-pilot/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-07-16T20:43:10+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-07-16T20:51:17+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "After years of false claims on voting, Trump to give an address on election integrity",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-07-16T20:50:26+00:00"
+    },
+    {
+      "text": "Anthropic CEO gave $1M to AI safety super PAC",
+      "url": "https://thehill.com/policy/technology/5972753-anthropic-ceo-gave-1m-to-ai-safety-super-pac/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T20:47:49+00:00"
+    },
+    {
+      "text": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates",
+      "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-16T20:43:10+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Blanche to meet with Epstein survivors after Tillis ultimatum",
       "url": "https://thehill.com/homenews/senate/5972722-blanche-epstein-survivors-meeting/",
@@ -21,26 +50,6 @@
       "sourceNote": "Congressional/policy coverage.",
       "time": "2026-07-16T20:35:43+00:00"
     },
-    {
-      "text": "Thune tees up bill to provide assistance to Ukraine, sanction Russia",
-      "url": "https://thehill.com/homenews/senate/5972749-senate-ukraine-aid-russia-sanctions-vote/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T20:35:18+00:00"
-    },
-    {
-      "text": "Trump exempts 20 more polluting plants from clean air regulation",
-      "url": "https://thehill.com/policy/energy-environment/5972750-trump-pollution-clean-air-rules/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T20:34:24+00:00"
-    }
-  ],
-  "col1": [
     {
       "text": "President Trump to deliver prime time address on elections, though details are slim",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5896195/president-trump-to-deliver-prime-time-address-on-elections-though-details-are-slim",
@@ -78,25 +87,25 @@
       "time": "2026-07-16T19:03:15+00:00"
     },
     {
-      "text": "House GOP pulls military benefits bill that has divided veterans groups",
-      "url": "https://thehill.com/policy/defense/5972408-house-military-benefits-bill/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T18:54:24+00:00"
-    },
-    {
-      "text": "Todd Blanche faces tense questioning during confirmation hearing for attorney general",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894875/todd-blanche-faces-tense-questioning-during-confirmation-hearing-for-attorney-general",
+      "text": "Trump wants a permanent fence around the D.C. park known for White House protests",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "source": "NPR Politics",
       "lean": "left",
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T10:44:27+00:00"
+      "time": "2026-07-16T12:13:23+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "Thune tees up bill to provide assistance to Ukraine, sanction Russia",
+      "url": "https://thehill.com/homenews/senate/5972749-senate-ukraine-aid-russia-sanctions-vote/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T20:35:18+00:00"
+    },
     {
       "text": "Tesla driver in fatal Texas crash overrode driver assistance system: NTSB",
       "url": "https://thehill.com/policy/technology/5972631-tesla-fsd-crash-texas/",
@@ -134,25 +143,25 @@
       "time": "2026-07-16T18:56:50+00:00"
     },
     {
-      "text": "Officials probe whether White House teleprompter operator profited off Trump's words",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+      "text": "Todd Blanche faces tense questioning during confirmation hearing for attorney general",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894875/todd-blanche-faces-tense-questioning-during-confirmation-hearing-for-attorney-general",
       "source": "NPR Politics",
       "lean": "left",
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T17:10:29+00:00"
-    },
-    {
-      "text": "Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894839/sen-cory-booker-on-why-he-believes-todd-blanche-shouldnt-be-confirmed-as-ag",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T10:44:23+00:00"
+      "time": "2026-07-16T10:44:27+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "Trump exempts 20 more polluting plants from clean air regulation",
+      "url": "https://thehill.com/policy/energy-environment/5972750-trump-pollution-clean-air-rules/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-16T20:34:24+00:00"
+    },
     {
       "text": "GOP fears Trump speech could boomerang if focused on 2020 election",
       "url": "https://thehill.com/homenews/administration/5972555-gop-concerns-trump-election-rhetoric/",
@@ -181,31 +190,22 @@
       "time": "2026-07-16T19:14:26+00:00"
     },
     {
-      "text": "Leavitt previews Trump's primetime speech: Election 'adjustments' coming",
-      "url": "https://thehill.com/homenews/administration/5972459-trump-election-security-speech/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-16T18:54:30+00:00"
-    },
-    {
-      "text": "Trump wants a permanent fence around the D.C. park known for White House protests",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
+      "text": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
       "source": "NPR Politics",
       "lean": "left",
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T12:13:23+00:00"
+      "time": "2026-07-16T17:10:29+00:00"
     },
     {
-      "text": "Trump earned billions last year. Some Pennsylvania swing voters say they don't care",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption",
+      "text": "Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894839/sen-cory-booker-on-why-he-believes-todd-blanche-shouldnt-be-confirmed-as-ag",
       "source": "NPR Politics",
       "lean": "left",
       "topic": "politics",
       "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-16T09:00:00+00:00"
+      "time": "2026-07-16T10:44:23+00:00"
     }
   ]
 }
