@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>THE WIRE REPORT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700;8..60,900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#faf9f6;
+    --surface:#ffffff;
+    --ink:#151412;
+    --ink-soft:#5a564f;
+    --hair:#e4e0d8;
+    --breaking:#a3271e;
+    --link-hover:#1d4e89;
+    --lean-left:#3468b0;
+    --lean-center:#7a7566;
+    --lean-right:#a3271e;
+    --lean-unrated:#b8a98f;
+    --sponsor-bg:#f3ede0;
+    --focus:#1d4e89;
+    --radius:3px;
+  }
+  html[data-theme="dark"]{
+    --paper:#121214;
+    --surface:#1a1a1d;
+    --ink:#ece9e2;
+    --ink-soft:#a19c8f;
+    --hair:#302f2c;
+    --breaking:#e05b4f;
+    --link-hover:#7fb3ff;
+    --lean-left:#6ea3e8;
+    --lean-center:#a19c8f;
+    --lean-right:#e05b4f;
+    --lean-unrated:#6e685a;
+    --sponsor-bg:#232019;
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Source Serif 4", Georgia, serif;
+    font-size:15.5px;
+    line-height:1.4;
+    transition:background .2s ease, color .2s ease;
+  }
+  a{ color:var(--ink); text-decoration:none; }
+  a:hover, a:focus-visible{ color:var(--link-hover); text-decoration:underline; }
+  a:focus-visible, button:focus-visible, input:focus-visible{
+    outline:2px solid var(--focus); outline-offset:2px;
+  }
+  .mono{ font-family:"IBM Plex Mono", monospace; }
+  @media (prefers-reduced-motion: reduce){
+    html{ scroll-behavior:auto; }
+    *{ transition:none !important; animation:none !important; }
+  }
+
+  /* ===== MASTHEAD ===== */
+  .masthead{
+    max-width:1180px;
+    margin:0 auto;
+    padding:18px 16px 10px;
+    border-bottom:3px solid var(--ink);
+    display:flex;
+    align-items:flex-end;
+    justify-content:space-between;
+    gap:12px;
+    flex-wrap:wrap;
+  }
+  .brand .siren{
+    font-family:"IBM Plex Mono", monospace;
+    color:var(--breaking);
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:2.5px;
+    text-transform:uppercase;
+  }
+  .brand h1{
+    font-size:40px;
+    font-weight:900;
+    letter-spacing:.5px;
+    margin:2px 0 0;
+  }
+  .masthead .clock{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:12px;
+    color:var(--ink-soft);
+    padding-bottom:6px;
+  }
+
+  /* ===== UTILITY BAR (sticky) ===== */
+  .utility{
+    position:sticky; top:0; z-index:20;
+    background:var(--surface);
+    border-bottom:1px solid var(--hair);
+    box-shadow:0 1px 0 rgba(0,0,0,.02);
+  }
+  .utility-inner{
+    max-width:1180px; margin:0 auto;
+    padding:10px 16px;
+    display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+  }
+  .search-wrap{ position:relative; flex:1 1 220px; max-width:340px; }
+  .search-wrap input{
+    width:100%;
+    font-family:"IBM Plex Mono", monospace;
+    font-size:13px;
+    padding:8px 10px 8px 30px;
+    border:1px solid var(--hair);
+    border-radius:var(--radius);
+    background:var(--paper);
+    color:var(--ink);
+  }
+  .search-wrap svg{ position:absolute; left:9px; top:50%; transform:translateY(-50%); opacity:.5; }
+
+  .chips{ display:flex; gap:6px; flex-wrap:wrap; flex:2 1 300px; }
+  .chip{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:11.5px;
+    letter-spacing:.3px;
+    text-transform:uppercase;
+    padding:6px 11px;
+    border:1px solid var(--hair);
+    border-radius:20px;
+    background:transparent;
+    color:var(--ink-soft);
+    cursor:pointer;
+  }
+  .chip.active{ background:var(--ink); color:var(--paper); border-color:var(--ink); }
+  .chip:hover{ border-color:var(--ink-soft); }
+
+  .right-controls{ display:flex; gap:8px; align-items:center; margin-left:auto; }
+  .icon-btn{
+    background:transparent; border:1px solid var(--hair); border-radius:var(--radius);
+    width:32px; height:32px; display:flex; align-items:center; justify-content:center;
+    cursor:pointer; color:var(--ink);
+  }
+  .icon-btn:hover{ border-color:var(--ink-soft); }
+
+  /* Lean legend */
+  .legend{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:10.5px;
+    color:var(--ink-soft);
+    display:flex; align-items:center; gap:10px;
+    padding:6px 16px;
+    max-width:1180px; margin:0 auto;
+    flex-wrap:wrap;
+  }
+  .legend span{ display:inline-flex; align-items:center; gap:4px; }
+  .dot{ width:8px; height:8px; border-radius:50%; display:inline-block; }
+  .dot.left{ background:var(--lean-left); }
+  .dot.center{ background:var(--lean-center); }
+  .dot.right{ background:var(--lean-right); }
+  .dot.unrated{ background:var(--lean-unrated); }
+
+  /* ===== LEAD ===== */
+  .lead{
+    max-width:1180px; margin:0 auto;
+    padding:22px 16px;
+    border-bottom:1px solid var(--hair);
+  }
+  .lead .kicker{
+    font-family:"IBM Plex Mono", monospace;
+    color:var(--breaking); font-size:11px; font-weight:600;
+    letter-spacing:2px; text-transform:uppercase;
+  }
+  .lead a.headline{
+    display:block;
+    font-weight:800;
+    font-size:clamp(24px, 4vw, 38px);
+    line-height:1.15;
+    margin-top:6px;
+  }
+  .lead .deck{
+    font-size:16px; color:var(--ink-soft); margin-top:8px; max-width:70ch;
+  }
+  .lead .meta{ margin-top:10px; }
+
+  /* ===== TIER 2 ===== */
+  .tier2{
+    max-width:1180px; margin:0 auto;
+    padding:14px 16px;
+    border-bottom:1px solid var(--hair);
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(260px,1fr));
+    gap:10px 24px;
+  }
+  .tier2 a{ font-weight:700; font-size:18px; line-height:1.3; display:block; }
+  .tier2 .row{ display:flex; flex-direction:column; gap:4px; }
+
+  /* ===== SOURCE META CHIP (signature element) ===== */
+  .meta{
+    display:flex; align-items:center; gap:6px; flex-wrap:wrap;
+    font-family:"IBM Plex Mono", monospace;
+    font-size:11px; color:var(--ink-soft);
+  }
+  .meta .src-tag{ position:relative; display:inline-flex; align-items:center; gap:5px; cursor:help; }
+  .meta .src-tag:hover .tooltip, .meta .src-tag:focus .tooltip{ display:block; }
+  .tooltip{
+    display:none;
+    position:absolute; bottom:130%; left:0;
+    background:var(--ink); color:var(--paper);
+    font-family:"Source Serif 4", serif;
+    font-size:12px; line-height:1.3;
+    padding:8px 10px; border-radius:4px;
+    width:220px; z-index:30;
+  }
+
+  /* ===== COLUMNS ===== */
+  .columns{
+    max-width:1180px; margin:0 auto;
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
+  }
+  .col{ padding:14px 16px; border-right:1px solid var(--hair); }
+  .col:last-child{ border-right:none; }
+  .col h2{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:12px; letter-spacing:1.5px; text-transform:uppercase;
+    color:var(--ink-soft);
+    border-bottom:2px solid var(--ink);
+    padding-bottom:6px; margin:0 0 10px;
+  }
+  .col ul{ list-style:none; margin:0; padding:0; }
+  .col li{ padding:10px 0; border-bottom:1px solid var(--hair); }
+  .col li:last-child{ border-bottom:none; }
+  .col li a.headline{ font-size:14.5px; font-weight:600; display:block; }
+  .col li.hidden{ display:none; }
+
+  /* Sponsored styling — visually separated, clearly labeled, never inline with editorial */
+  .sponsored-block{
+    max-width:1180px; margin:0 auto;
+    padding:12px 16px;
+    background:var(--sponsor-bg);
+    border-top:1px solid var(--hair);
+    border-bottom:1px solid var(--hair);
+  }
+  .sponsored-block .label{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:10px; letter-spacing:1.5px; text-transform:uppercase;
+    color:var(--ink-soft); display:block; margin-bottom:8px;
+  }
+  .sponsored-grid{ display:grid; grid-template-columns:repeat(auto-fit, minmax(220px,1fr)); gap:10px; }
+  .sponsored-grid a{ font-size:13.5px; font-weight:600; }
+  .sponsored-grid .src{ display:block; font-family:"IBM Plex Mono", monospace; font-size:10.5px; color:var(--ink-soft); margin-top:2px; }
+
+  /* ===== ARCHIVE / PREVIOUSLY ===== */
+  .archive{
+    max-width:1180px; margin:0 auto;
+    padding:16px;
+  }
+  .archive summary{
+    cursor:pointer;
+    font-family:"IBM Plex Mono", monospace;
+    font-size:12px; letter-spacing:1px; text-transform:uppercase;
+    color:var(--ink-soft);
+    padding:8px 0;
+  }
+  .archive-day{ margin:10px 0; }
+  .archive-day .date{ font-family:"IBM Plex Mono", monospace; font-size:11px; color:var(--ink-soft); }
+  .archive-day ul{ list-style:none; margin:4px 0 0; padding:0; }
+  .archive-day li{ font-size:13.5px; padding:3px 0; }
+
+  /* ===== EMPTY STATE ===== */
+  .empty-state{
+    max-width:1180px; margin:0 auto; padding:40px 16px; text-align:center;
+    color:var(--ink-soft); display:none;
+  }
+  .empty-state.show{ display:block; }
+
+  footer{
+    max-width:1180px; margin:0 auto;
+    padding:20px 16px 40px;
+    font-family:"IBM Plex Mono", monospace;
+    font-size:11px; color:var(--ink-soft);
+    border-top:2px solid var(--ink);
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px;
+  }
+  footer a{ color:var(--ink-soft); text-decoration:underline; }
+
+  @media (max-width:820px){
+    .columns{ grid-template-columns:1fr; }
+    .col{ border-right:none; border-bottom:8px solid var(--paper); background:var(--surface); }
+    .brand h1{ font-size:30px; }
+    .legend{ display:none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="brand">
+    <div class="siren">● DEVELOPING</div>
+    <h1>THE WIRE REPORT</h1>
+  </div>
+  <div class="clock mono" id="clock"></div>
+</div>
+
+<div class="utility">
+  <div class="utility-inner">
+    <div class="search-wrap">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="search" placeholder="Search headlines…" aria-label="Search headlines">
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filter by topic"></div>
+    <div class="right-controls">
+      <button class="icon-btn" id="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg id="theme-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="legend">
+    <span><span class="dot left"></span>Lean left</span>
+    <span><span class="dot center"></span>Center</span>
+    <span><span class="dot right"></span>Lean right</span>
+    <span><span class="dot unrated"></span>Unrated</span>
+    <span>— hover any source tag for outlet info</span>
+  </div>
+</div>
+
+<div class="lead" id="lead"></div>
+<div class="tier2" id="tier2"></div>
+
+<div class="columns" id="columns">
+  <div class="col" data-col="1"><h2>Top Stories</h2><ul id="col-1"></ul></div>
+  <div class="col" data-col="2"><h2>Politics &amp; Policy</h2><ul id="col-2"></ul></div>
+  <div class="col" data-col="3"><h2>World &amp; Business</h2><ul id="col-3"></ul></div>
+</div>
+
+<div class="empty-state" id="empty-state">No headlines match your search or filters.</div>
+
+<div class="sponsored-block">
+  <span class="label">Sponsored — clearly separated from editorial content</span>
+  <div class="sponsored-grid" id="sponsored"></div>
+</div>
+
+<details class="archive">
+  <summary>Previously on The Wire Report — browse the archive</summary>
+  <div id="archive-list"></div>
+</details>
+
+<footer>
+  <span>&copy; 2026 The Wire Report — template. <a href="#" id="rss-link">RSS / JSON feed</a></span>
+  <span>Not affiliated with any existing news outlet.</span>
+</footer>
+
+<script>
+/* ============================================================
+   DATA — replace with your own feed. Each headline can carry:
+   text, url, source, lean ('left'|'center'|'right'|'unrated'),
+   topic, time (ISO string), sourceNote (shown in tooltip)
+   ============================================================ */
+
+const LEAN_LABEL = { left:"Leans left", center:"Center / mixed", right:"Leans right", unrated:"Unrated source" };
+
+const leadStory = {
+  kicker: "BREAKING",
+  text: "REPLACE WITH YOUR TOP HEADLINE",
+  deck: "One-line supporting deck sentence goes here.",
+  url: "#", source: "Reuters", lean:"center", topic:"top",
+  time: new Date(Date.now()-1000*60*20).toISOString(),
+  sourceNote: "Wire service, editorially independent, widely used as a baseline source."
+};
+
+const tier2 = [
+  { text:"SECOND-TIER HEADLINE ONE", url:"#", source:"AP", lean:"center", topic:"top", time:new Date(Date.now()-1000*60*40).toISOString(), sourceNote:"Nonprofit wire cooperative." },
+  { text:"SECOND-TIER HEADLINE TWO", url:"#", source:"Politico", lean:"left", topic:"politics", time:new Date(Date.now()-1000*60*55).toISOString(), sourceNote:"Beltway-focused political coverage." },
+  { text:"SECOND-TIER HEADLINE THREE", url:"#", source:"WSJ", lean:"right", topic:"business", time:new Date(Date.now()-1000*60*70).toISOString(), sourceNote:"Business-focused, editorial page leans right; news desk is separate." }
+];
+
+const col1 = [
+  { text:"Story link one", url:"#", source:"BBC", lean:"center", topic:"world", time:new Date(Date.now()-1000*60*30).toISOString(), sourceNote:"UK public broadcaster." },
+  { text:"Story link two", url:"#", source:"Axios", lean:"center", topic:"top", time:new Date(Date.now()-1000*60*50).toISOString(), sourceNote:"Short-form, fact-forward format." },
+  { text:"Story link three", url:"#", source:"NYT", lean:"left", topic:"top", time:new Date(Date.now()-1000*60*80).toISOString(), sourceNote:"Editorial board leans left; news desk reports separately." },
+  { text:"Story link four", url:"#", source:"The Hill", lean:"center", topic:"politics", time:new Date(Date.now()-1000*60*95).toISOString(), sourceNote:"Congressional/policy coverage." },
+  { text:"Story link five", url:"#", source:"Bloomberg", lean:"center", topic:"business", time:new Date(Date.now()-1000*60*110).toISOString(), sourceNote:"Financial and markets focus." }
+];
+
+const col2 = [
+  { text:"Story link six", url:"#", source:"NBC News", lean:"left", topic:"politics", time:new Date(Date.now()-1000*60*35).toISOString(), sourceNote:"Broadcast network news desk." },
+  { text:"Story link seven", url:"#", source:"Fox News", lean:"right", topic:"politics", time:new Date(Date.now()-1000*60*60).toISOString(), sourceNote:"Cable news, opinion and news blocks are separate." },
+  { text:"Story link eight", url:"#", source:"Reuters", lean:"center", topic:"world", time:new Date(Date.now()-1000*60*88).toISOString(), sourceNote:"Wire service." },
+  { text:"Story link nine", url:"#", source:"NPR", lean:"left", topic:"politics", time:new Date(Date.now()-1000*60*105).toISOString(), sourceNote:"Public radio, nonprofit newsroom." },
+  { text:"Story link ten", url:"#", source:"New York Post", lean:"right", topic:"politics", time:new Date(Date.now()-1000*60*130).toISOString(), sourceNote:"Tabloid format, right-leaning editorial." }
+];
+
+const col3 = [
+  { text:"Story link eleven", url:"#", source:"CNBC", lean:"center", topic:"business", time:new Date(Date.now()-1000*60*44).toISOString(), sourceNote:"Markets and business news." },
+  { text:"Story link twelve", url:"#", source:"Al Jazeera", lean:"left", topic:"world", time:new Date(Date.now()-1000*60*66).toISOString(), sourceNote:"Qatar-based international broadcaster." },
+  { text:"Story link thirteen", url:"#", source:"The Economist", lean:"center", topic:"world", time:new Date(Date.now()-1000*60*90).toISOString(), sourceNote:"Global affairs, classical-liberal editorial stance." },
+  { text:"Story link fourteen", url:"#", source:"Local wire", lean:"unrated", topic:"world", time:new Date(Date.now()-1000*60*115).toISOString(), sourceNote:"Not yet rated in our source index." },
+  { text:"Story link fifteen", url:"#", source:"AP", lean:"center", topic:"business", time:new Date(Date.now()-1000*60*140).toISOString(), sourceNote:"Nonprofit wire cooperative." }
+];
+
+const sponsored = [
+  { text:"Sponsored placement one", url:"#", source:"Advertiser A" },
+  { text:"Sponsored placement two", url:"#", source:"Advertiser B" },
+  { text:"Sponsored placement three", url:"#", source:"Advertiser C" }
+];
+
+const archiveDays = [
+  { date:"July 14, 2026", headlines:["Archived headline from yesterday one","Archived headline from yesterday two"] },
+  { date:"July 13, 2026", headlines:["Archived headline two days ago one","Archived headline two days ago two"] }
+];
+
+/* ============================================================
+   RENDER
+   ============================================================ */
+function timeAgo(iso){
+  const mins = Math.max(1, Math.round((Date.now() - new Date(iso).getTime())/60000));
+  if(mins < 60) return mins + "m ago";
+  const hrs = Math.round(mins/60);
+  return hrs + "h ago";
+}
+
+function metaHTML(item){
+  const lean = item.lean || "unrated";
+  return `<div class="meta">
+    <span class="src-tag" tabindex="0">
+      <span class="dot ${lean}"></span>${item.source}
+      <span class="tooltip">${item.sourceNote || "No source note available."}</span>
+    </span>
+    <span>·</span>
+    <span>${timeAgo(item.time)}</span>
+  </div>`;
+}
+
+function renderLead(item){
+  document.getElementById('lead').innerHTML = `
+    <div class="kicker">${item.kicker}</div>
+    <a class="headline" href="${item.url}" data-topic="${item.topic}" data-text="${item.text.toLowerCase()}">${item.text}</a>
+    <div class="deck">${item.deck}</div>
+    ${metaHTML(item)}
+  `;
+}
+
+function renderTier2(items){
+  const wrap = document.getElementById('tier2');
+  wrap.innerHTML = items.map(item => `
+    <div class="row" data-topic="${item.topic}" data-text="${item.text.toLowerCase()}">
+      <a class="headline" href="${item.url}">${item.text}</a>
+      ${metaHTML(item)}
+    </div>
+  `).join('');
+}
+
+function renderColumn(id, items){
+  const ul = document.getElementById(id);
+  ul.innerHTML = items.map(item => `
+    <li data-topic="${item.topic}" data-text="${item.text.toLowerCase()}">
+      <a class="headline" href="${item.url}">${item.text}</a>
+      ${metaHTML(item)}
+    </li>
+  `).join('');
+}
+
+function renderSponsored(items){
+  document.getElementById('sponsored').innerHTML = items.map(item => `
+    <div><a href="${item.url}">${item.text}</a><span class="src">${item.source}</span></div>
+  `).join('');
+}
+
+function renderArchive(days){
+  document.getElementById('archive-list').innerHTML = days.map(d => `
+    <div class="archive-day">
+      <div class="date">${d.date}</div>
+      <ul>${d.headlines.map(h => `<li>${h}</li>`).join('')}</ul>
+    </div>
+  `).join('');
+}
+
+/* ============================================================
+   LIVE DATA LOADING
+   Tries data/wire_data.json + data/archive.json (written by
+   scripts/fetch_feeds.py). Falls back to the placeholder demo
+   data above if those files aren't there yet or fail to load
+   (e.g. you're opening this file directly instead of via a
+   webserver, or the automation hasn't run yet).
+   ============================================================ */
+async function loadLiveData(){
+  try{
+    const res = await fetch('data/wire_data.json', { cache: 'no-store' });
+    if(!res.ok) throw new Error('wire_data.json not found');
+    const data = await res.json();
+
+    renderLead(data.lead || leadStory);
+    renderTier2(data.tier2 || tier2);
+    renderColumn('col-1', data.col1 || col1);
+    renderColumn('col-2', data.col2 || col2);
+    renderColumn('col-3', data.col3 || col3);
+    console.log('Loaded live feed data, generated at', data.generated_at);
+  }catch(err){
+    console.warn('Falling back to placeholder data:', err.message);
+    renderLead(leadStory);
+    renderTier2(tier2);
+    renderColumn('col-1', col1);
+    renderColumn('col-2', col2);
+    renderColumn('col-3', col3);
+  }
+
+  // Sponsored links stay manually managed - never auto-pulled from feeds
+  renderSponsored(sponsored);
+
+  try{
+    const archiveRes = await fetch('data/archive.json', { cache: 'no-store' });
+    if(!archiveRes.ok) throw new Error('archive.json not found');
+    const archiveData = await archiveRes.json();
+    renderArchive(archiveData.length ? archiveData : archiveDays);
+  }catch(err){
+    renderArchive(archiveDays);
+  }
+
+  applyFilters(); // re-apply any active search/topic filter to the freshly loaded content
+}
+
+loadLiveData();
+
+// Refresh the page's data every 5 minutes without a full reload,
+// so it stays current if someone leaves the tab open.
+setInterval(loadLiveData, 5 * 60 * 1000);
+
+/* ============================================================
+   CLOCK
+   ============================================================ */
+function tick(){
+  const d = new Date();
+  document.getElementById('clock').textContent = d.toLocaleString('en-US', {
+    weekday:'short', month:'short', day:'numeric',
+    hour:'2-digit', minute:'2-digit', second:'2-digit'
+  });
+}
+tick(); setInterval(tick, 1000);
+
+/* ============================================================
+   TOPIC FILTER CHIPS
+   ============================================================ */
+const topics = ["all","top","politics","world","business"];
+const chipsWrap = document.getElementById('chips');
+let activeTopic = "all";
+
+chipsWrap.innerHTML = topics.map(t => `<button class="chip ${t==='all'?'active':''}" data-topic="${t}">${t}</button>`).join('');
+
+chipsWrap.addEventListener('click', (e)=>{
+  const btn = e.target.closest('.chip');
+  if(!btn) return;
+  activeTopic = btn.dataset.topic;
+  [...chipsWrap.children].forEach(c => c.classList.toggle('active', c === btn));
+  applyFilters();
+});
+
+/* ============================================================
+   SEARCH + FILTER LOGIC
+   ============================================================ */
+const searchInput = document.getElementById('search');
+searchInput.addEventListener('input', applyFilters);
+
+function applyFilters(){
+  const q = searchInput.value.trim().toLowerCase();
+  let anyVisible = false;
+
+  document.querySelectorAll('#tier2 .row, .col li').forEach(el=>{
+    const matchesTopic = activeTopic === 'all' || el.dataset.topic === activeTopic;
+    const matchesQuery = !q || el.dataset.text.includes(q);
+    const visible = matchesTopic && matchesQuery;
+    el.style.display = visible ? '' : 'none';
+    if(visible) anyVisible = true;
+  });
+
+  // Lead is always shown unless it fails the query itself
+  const leadEl = document.querySelector('#lead .headline');
+  if(leadEl){
+    const leadMatches = (activeTopic === 'all' || leadEl.dataset.topic === activeTopic) &&
+                         (!q || leadEl.dataset.text.includes(q));
+    document.getElementById('lead').style.display = leadMatches ? '' : 'none';
+    if(leadMatches) anyVisible = true;
+  }
+
+  document.getElementById('empty-state').classList.toggle('show', !anyVisible);
+}
+
+/* ============================================================
+   DARK MODE (persisted)
+   ============================================================ */
+const root = document.documentElement;
+const themeBtn = document.getElementById('theme-toggle');
+
+function setTheme(mode){
+  root.setAttribute('data-theme', mode);
+  try{ localStorage.setItem('wire-report-theme', mode); }catch(e){}
+}
+
+(function initTheme(){
+  let saved = null;
+  try{ saved = localStorage.getItem('wire-report-theme'); }catch(e){}
+  const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  setTheme(saved || (prefersDark ? 'dark' : 'light'));
+})();
+
+themeBtn.addEventListener('click', ()=>{
+  const current = root.getAttribute('data-theme');
+  setTheme(current === 'dark' ? 'light' : 'dark');
+});
+
+document.getElementById('rss-link').addEventListener('click', (e)=>{
+  e.preventDefault();
+  alert('Wire this up to a real /feed.xml or /feed.json endpoint once your backend is in place.');
+});
+</script>
+
+</body>
+</html>
