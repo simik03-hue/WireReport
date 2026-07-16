@@ -1,12 +1,15 @@
 name: Fetch headlines
 
+# Runs the RSS fetch script on GitHub's own servers, on a timer.
+# Nothing needs to run on your laptop at all — this workflow does it instead.
+
 on:
   schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch: {}
+    - cron: "*/15 * * * *"   # every 15 minutes. GitHub may delay this slightly under load.
+  workflow_dispatch: {}       # lets you also trigger it manually from the Actions tab
 
 permissions:
-  contents: write
+  contents: write            # needed so the workflow can commit the updated JSON back to the repo
 
 jobs:
   fetch:
@@ -35,12 +38,18 @@ jobs:
           git push
 
       - name: Deploy fresh data to Hostinger
+        # Requires three repo secrets, set under
+        # Settings -> Secrets and variables -> Actions in your GitHub repo:
+        #   HOSTINGER_FTP_SERVER    e.g. ftp.yourdomain.com (find in hPanel -> FTP Accounts)
+        #   HOSTINGER_FTP_USERNAME  from the same FTP Accounts page
+        #   HOSTINGER_FTP_PASSWORD  from the same FTP Accounts page
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.HOSTINGER_FTP_SERVER }}
           username: ${{ secrets.HOSTINGER_FTP_USERNAME }}
           password: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
+          protocol: ftps
           local-dir: ./data/
-          server-dir: ./public_html/data/
+          server-dir: ./data/
           exclude: |
             **/.gitkeep
