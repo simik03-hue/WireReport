@@ -1,17 +1,17 @@
 [
   {
-    "name": "Reuters",
-    "url": "https://feeds.reuters.com/reuters/topNews",
+    "name": "NYT",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "topic": "top",
-    "lean": "center",
-    "note": "Wire service, editorially independent, widely used as a baseline source."
+    "lean": "left",
+    "note": "New York Times homepage feed, long-running and stable."
   },
   {
-    "name": "AP",
-    "url": "https://rsshub.app/apnews/topics/apf-topnews",
+    "name": "Google News",
+    "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
     "topic": "top",
-    "lean": "center",
-    "note": "Nonprofit wire cooperative."
+    "lean": "unrated",
+    "note": "Aggregated Google News top headlines feed."
   },
   {
     "name": "BBC World",
@@ -19,6 +19,13 @@
     "topic": "world",
     "lean": "center",
     "note": "UK public broadcaster."
+  },
+  {
+    "name": "Google News World",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
+    "topic": "world",
+    "lean": "unrated",
+    "note": "Aggregated Google News World topic feed."
   },
   {
     "name": "NPR Politics",
@@ -42,10 +49,10 @@
     "note": "Markets and business news."
   },
   {
-    "name": "Google News - Custom",
-    "url": "https://news.google.com/rss/search?q=when:6h&hl=en-US&gl=US&ceid=US:en",
-    "topic": "top",
+    "name": "Google News Business",
+    "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en",
+    "topic": "business",
     "lean": "unrated",
-    "note": "Aggregated Google News search feed, replace the q= param with your own topic/keyword search."
+    "note": "Aggregated Google News Business topic feed."
   }
 ]
