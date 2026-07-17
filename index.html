@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>THE WIRE REPORT</title>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1537992327889781"
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1537992327889781"
      crossorigin="anonymous"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700;8..60,900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -344,10 +344,8 @@
 
 <div class="empty-state" id="empty-state">No headlines match your search or filters.</div>
 
-<div class="sponsored-block">
-  <span class="label">Sponsored — clearly separated from editorial content</span>
-  <div class="sponsored-grid" id="sponsored"></div>
-</div>
+<!-- Sponsored block hidden until real AdSense ad units replace the placeholder content.
+     See sponsored[] array below and renderSponsored() call further down. -->
 
 <details class="archive">
   <summary>Previously on The Wire Report — browse the archive</summary>
@@ -407,11 +405,9 @@ const col3 = [
   { text:"Story link fifteen", url:"#", source:"AP", lean:"center", topic:"business", time:new Date(Date.now()-1000*60*140).toISOString(), sourceNote:"Nonprofit wire cooperative." }
 ];
 
-const sponsored = [
-  { text:"Sponsored placement one", url:"#", source:"Advertiser A" },
-  { text:"Sponsored placement two", url:"#", source:"Advertiser B" },
-  { text:"Sponsored placement three", url:"#", source:"Advertiser C" }
-];
+const sponsored = [];
+// Real sponsored/ad content goes here once you have actual AdSense ad units
+// or direct sponsors — replace this empty array with real entries.
 
 const archiveDays = [
   { date:"July 14, 2026", headlines:["Archived headline from yesterday one","Archived headline from yesterday two"] },
@@ -470,7 +466,9 @@ function renderColumn(id, items){
 }
 
 function renderSponsored(items){
-  document.getElementById('sponsored').innerHTML = items.map(item => `
+  const el = document.getElementById('sponsored');
+  if(!el) return; // sponsored block currently removed from the page
+  el.innerHTML = items.map(item => `
     <div><a href="${item.url}">${item.text}</a><span class="src">${item.source}</span></div>
   `).join('');
 }
