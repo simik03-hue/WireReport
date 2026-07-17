@@ -224,6 +224,13 @@ def main():
     deduped = dedupe_items(raw_items)
     print(f"Kept {len(deduped)} items after de-duplication.")
 
+    # Diagnostic: show how many items survived per topic, so it's obvious
+    # if any single category is starved before it even reaches the columns.
+    topic_counts = {}
+    for i in deduped:
+        topic_counts[i["topic"]] = topic_counts.get(i["topic"], 0) + 1
+    print("Items per topic after de-duplication:", topic_counts)
+
     site_data = build_site_data(deduped)
     if site_data is None:
         print("No items fetched - check your feed URLs in config/feeds.json. "
