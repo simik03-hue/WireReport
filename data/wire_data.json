@@ -1,17 +1,138 @@
 {
-  "generated_at": "2026-07-17T03:16:48.538227+00:00",
+  "generated_at": "2026-07-17T06:18:13.927824+00:00",
   "lead": {
-    "text": "Lettuce supplier identified as potential source of cyclosporiasis outbreak - The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRlJTMUxXb0pCV2tOOVdjOU5oWmhBOW4zQzdBb0VyUUw5cGNoUGpfdGJiRUlvMEJVMVlkbE93TUtZNm1jb3RGcmVleWtCZ0hsS3ZQRUc5enVsYS11RjhodGQtcWFsZ0s5T1gxNTBDcTlYSUVrYUROdmxXRGd6NEZsQnUtQ0NVUGVXbDRndTExVFdrNF9NVjZ3S0NkNUhKV1R4bUZCamxOMG9kcEF1UWYyQUc5bWd0cXF3dDFUX25FVndtVjAxTEQw?oc=5",
-    "source": "Google News Business",
-    "lean": "unrated",
+    "text": "Stock futures slide as Asia sell-off poised to spread; Tech selling resumes: Live updates",
+    "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+    "source": "CNBC",
+    "lean": "center",
     "topic": "business",
-    "sourceNote": "Aggregated Google News Business topic feed.",
-    "time": "2026-07-17T03:12:06+00:00",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-17T06:16:52+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
+      "url": "https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-17T06:16:04+00:00"
+    },
+    {
+      "text": "Oil prices rise as U.S.-Iran hostilities threaten supply through Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-17T05:52:31+00:00"
+    },
+    {
+      "text": "A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0duWThEa201dXdMSDhGSGRCbi1iSlR3UVZ0WUUwS0dZNmVLTjMyTk5CSVRTaU9FSUFBN2RlOExKSVJHY0ZueFhlTWp6QWVQOTBOemx6X3dJamh5NmdMLWZhdTNRakxxaUpNNUlybVpTXy1JWTdvaUI4NllmUlFLcVltbG93MWZZcDFVRlFSUWVoTEd4SVRrZFd0cnBtc0ZzV19GTGZn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-17T05:50:15+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Xi Jinping says China must play leading role in AI - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-17T05:26:15+00:00"
+    },
+    {
+      "text": "Japan’s parliament enshrines male-only succession for the shrinking imperial family - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMktYczA0cTd0VkZwQXZpNnJSQkV5TFdfdV9HcXJUcGViRWc2amJQU29hUDlQd1NvcXZHMERFNE83cXNmc3ZnT1M1U29FejlQa2hpMFBlbXdQSjRJQmx3S0FFMXIyY2FqZVFld0Nlam5ocE9uTjBpcDlYUGZMNkJEYlBDcWJVdm95XzdFN2R0dWsyNHg1VG1MRG5tWjJSZ1FMQW1ZUjUzZG1pWlNrY3c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-17T04:49:00+00:00"
+    },
+    {
+      "text": "Kratos Recast After Ryan Hurst Tears Bicep Filming Stunt for God of War Show, Putting Filming on Hold - IGN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2NmMTRaOFgzR0xLaGM1VlNlN0RleDhaa1NSeUFkSnZEQnBHUVRjNEFralktNHZnNk9lQmc3MkJkZzZvS2dMSzNscXlYb0ZFTlFUa1E0c21OSWNvX1d6SU01LVVLNjh6OVlZdVBUTWhwVF9TbGgtSy1KSFBrS05Tc2NzQXVhbmFVYkxidUJJa3VGc1lfakJsQVV2NWhHVGJLVElST1V2TUlKQ0h6MnNtOQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-17T04:15:00+00:00"
+    },
+    {
+      "text": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
+      "url": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-17T04:00:34+00:00"
+    },
+    {
+      "text": "Iran says seven killed in latest US strikes, warns war ‘will spread’ - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFiQkZGcXRqQjFIbDdzVEVxUGV1dWR0WnlMb0JPanluS1pqckNsZXFkQmxvRHMzLTQwUVlJZ2laRDNmMGJRZEQ1N2d1S1N1dWFMdFdnRGQwT2ZBeEExVTFtd2F3SWdRSWNDNG95bU1NZlpsX2xLWmtFRjV4T1BiZlQ4SmJRVks2bGdmMnRKbHNoN3pyOUhKV1ZBcnFmb080TGNfSTc3UWFvd0Q1Q2fSAbMBQVVfeXFMTUNQS2ZSbGg0cVFyT2VCVTN4YWJrNnEtajdiSTVMN3k5MU1rRGRubTFic1YxR3gteUlBWko3MXlJb1V5WHNSYTlSdHNOVmYtTHF5NDF3WVNud24tX3duamlfYWYzZGJ5bC13QmQ4SlYwMmc0SnBoRnpXTjdpTHlTanJWU3VGNFg5d0VBN2pMTEk0Y3FZSXdIOXQwdTdPcWptTk9kU1FTR0g4aWd2OGNHaXNNaTg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-17T03:20:57+00:00"
+    },
+    {
+      "text": "Philippines condemns Chinese media depicting it as monkey in AI video - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GdFBJRk8wMUIzQlRxNENVRy1JOGp0Mml3dk9vMU5lcjVkUkM5Vk05dkw5dmU5VV9idTRzUng4Q0pFajFVQjhzLXNqdmpIWVN5VDFyb3lQV185dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-17T02:37:45+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Trump delivers primetime speech, claims declassified documents show US election vulnerabilities - CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aQnV3X1h2cy1mWnJXVm93OGhGOThLZWNtem82SUJ1cm1CV2FHNlV3X2pmMGRkOC13cDFnWUNkUXJWdEdWbkkzdUpyT3RKRzNEQW1RT2V6UFhQZEViLXpOMnpDTkE2VUpFMUlXZ3B1V2JnVmJzX0ROUzFDSQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-17T05:02:00+00:00"
+    },
+    {
+      "text": "A Trump Obsession That Carries a Cost for Democracy",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-17T04:34:44+00:00"
+    },
+    {
+      "text": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
+      "url": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-17T04:01:08+00:00"
+    },
+    {
+      "text": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzZQc0pQSWxFVUhpZ0V5TlR6dENhRFBsOFJnODNRblpweWNGNXYzaHpCS0FDV25PdjRMYUl0YWZLaFRscGtKNjRZUk83OGxVTUpvUDJqRHdwVWs3RmdLM010c3J2WVdCdGpVUTVqM2FZbGx4UE5MMUZfRmdPQll2czV4clZWSDZiZVQ0YXZYakdVX0x2ZENGUlRoR1FEa3E1SE5GY1lfM1BwZTBaT2hNZTNKTHNLdE9zeFpweXg4b2dMQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-17T03:53:14+00:00"
+    },
     {
       "text": "Manhattan Building’s Buckled Columns Probably Lacked Required Reinforcements",
       "url": "https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html",
@@ -22,33 +143,42 @@
       "time": "2026-07-17T03:11:53+00:00"
     },
     {
-      "text": "Democrats call 'bull----' on Trump's election interference claims",
-      "url": "https://thehill.com/homenews/administration/5973430-democrats-alarm-trump-election-fraud-claims/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-17T02:58:53+00:00"
-    },
-    {
-      "text": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-07-17T02:56:45+00:00"
+      "text": "Johan Guerrero, Maine ICE Shooting Victim, Relentlessly Pursued a Better Life, Partner Says",
+      "url": "https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-17T02:30:57+00:00"
     }
   ],
-  "col1": [
+  "col3": [
     {
-      "text": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzZQc0pQSWxFVUhpZ0V5TlR6dENhRFBsOFJnODNRblpweWNGNXYzaHpCS0FDV25PdjRMYUl0YWZLaFRscGtKNjRZUk83OGxVTUpvUDJqRHdwVWs3RmdLM010c3J2WVdCdGpVUTVqM2FZbGx4UE5MMUZfRmdPQll2czV4clZWSDZiZVQ0YXZYakdVX0x2ZENGUlRoR1FEa3E1SE5GY1lfM1BwZTBaT2hNZTNKTHNLdE9zeFpweXg4b2dMQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "The King of the North, Andy Burnham, Won’t Save Britain",
+      "url": "https://www.nytimes.com/2026/07/17/opinion/andy-burnham-britain-prime-minister.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-17T02:55:29+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-17T05:00:06+00:00"
+    },
+    {
+      "text": "Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference",
+      "url": "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-17T04:28:26+00:00"
+    },
+    {
+      "text": "How Andy Burnham Becomes Britain’s New Prime Minister",
+      "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-17T04:01:05+00:00"
     },
     {
       "text": "Cyclospora Linked to Taylor Farms Lettuce Sent to Taco Bell",
@@ -57,102 +187,8 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-17T02:48:28+00:00"
+      "time": "2026-07-17T03:29:05+00:00"
     },
-    {
-      "text": "Trump gives primetime speech on elections as White House alleges Chinese access to voter data - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUy1GdS1CWjY1N1dwWmhKNVhaZ1MtOVVsUGFxUXFiLVNPc0tmbWdvTnM0OFdzLVJLZVIwaVdoNXRXSHlmZzhmVG5LRVlQOWFXR0pSWjY1aGtKd09VcEg0bWhEODloY3FMNHBxRGEySGlKX1FZWU53U19IWXRtUDVleWln?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-17T02:15:00+00:00"
-    },
-    {
-      "text": "Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0hyNE9ucGs0MENHVVV1QXdVbThpaUVhX2hlYUlMTDJTb0xBTGN5TXVWWmJza2FFek14cndaclZGUWppdDhrUUVYc29tQmotNHlFYVhWT3BCSjhkSXlkODFsdE1hOUx3MUg3R2tma2VCUDNYaWtseU4xSEQ0VHFpMFI4a3B4aU9WQUdaWVB4RTh1b3R0djZUNFdyUVdUWjFXY1FFOHNDWExURHN1ZVMtUER1eTk3UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-17T01:06:17+00:00"
-    },
-    {
-      "text": "TSMC Just Announced Fantastic News for Nvidia Shareholders - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFRqS3VQcEcxaGV4V1FZU2FGRnB5cnVwcFo0dXZxeEZSbFlGcmxRWG84anRsZDBINFBGM3BmTHFSVHBKakJuSGo3ZlQ0R0d6XzNiNWVqZi1kaFBNTVpnUmpjak1lX0tPY3d0aUk3NThwWUdlN1VsdmE1NVduOGRfRzB0MmxBTDU3Q2hlUFlBLXhwTE9nM3lXZg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-17T00:38:53+00:00"
-    },
-    {
-      "text": "Bryson DeChambeau takes subtle swipe at Nick Faldo as Jackson Suber sets Open pace - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRm5kYTVKdmNLcGM3a0tCZXV5WVFDTVVObzhVSXEyUzA3OFNPcTh3dkM5c3lpZUphcFQ3LTlhRlA0Y2xEbkxzNlhpVEw5Q0IxalFZYjNpajItaVZoS1FyV29oaUFLNDVKUDd6R2FjOW5tQzN1YTM1RE1fUjJiLXhtNjJ4ZzljTmhlZzdnY0lSWktmcElaT3FhbEFwWFVsM1ZSZnE2MUJB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-16T23:37:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "US hits more bridges in Iran in an expansion of its airstrike campaign - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-17T02:54:00+00:00"
-    },
-    {
-      "text": "Johan Guerrero, Maine ICE Shooting Victim, Relentlessly Pursued a Better Life, Partner Says",
-      "url": "https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-17T02:30:57+00:00"
-    },
-    {
-      "text": "What to Know About Trump’s Attacks on Mail Voting",
-      "url": "https://www.nytimes.com/2026/07/16/us/politics/trump-mail-voting-elections-speech.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-17T02:13:38+00:00"
-    },
-    {
-      "text": "What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities",
-      "url": "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-17T01:02:04+00:00"
-    },
-    {
-      "text": "Wildfire Smokes Makes Air Hazardous for Millions in Midwest and East Coast",
-      "url": "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-17T00:11:16+00:00"
-    },
-    {
-      "text": "Houston ICE Shooting: Lawyer Says Bags Held Salt, Not Drugs",
-      "url": "https://www.nytimes.com/2026/07/16/us/fbi-search-drugs-houston-ice-shooting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-16T23:36:24+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "Trump Released Documents on China and the 2020 Election. Here’s What We Know.",
       "url": "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html",
@@ -160,7 +196,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-17T02:50:06+00:00"
+      "time": "2026-07-17T02:50:07+00:00"
     },
     {
       "text": "Trump Has Dismantled Election Security Efforts. Here’s How.",
@@ -170,42 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-07-17T02:16:06+00:00"
-    },
-    {
-      "text": "At least 2 dead in catastrophic flooding in Texas Hill Country - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTjVsbzVWMnh2c0xwSGNzTjA3c3BOTXNzc3FTZmxMVGxqaWpzUlNpN2hqREx1c2F4ZXYwVTd2cVhrLW03VFl2aGNOSTVQMy10WDVrUUR0dFpwNTZhTXVncmNPaXA5eWpPZ3BfQmlzZmFmekc0c1lydDNuWDVBNTBxdV9tNklfNWZHalY5dk0xb1VBQms?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-17T01:58:00+00:00"
-    },
-    {
-      "text": "Republican Senator Thom Tillis Demands Todd Blanche Meet With Epstein Survivors",
-      "url": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-17T00:41:28+00:00"
-    },
-    {
-      "text": "‘Today’ Anchor Craig Melvin Chases Intruder From 30 Rock as Show Airs - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWNSR1ZGOXNKY0VMWG9rQ2htVTNFZTRTV3BnclU2Zm9KRTQzX1VRMHdfV1pic1dyc1pDYTdGV21KdlZ3X1RxX0oxS2xpMlNLUXJPYnN3MmYxYi13ZGc3cEJzOTQtTFF5SUxMSzMweXQ2dEVGN0ZKTmh5bklTUFRHcg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-16T23:49:33+00:00"
-    },
-    {
-      "text": "SpaceX aborts Starship test flight, sending stock lower - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWx2MnlaQXRQQ2Q5TlgyeHlKaDRqV05FbkxYNm5tMTJIVnJ0WDFZUXJhUERvZUpEU3hRcENkcHM0cm03TjRCQkI3NDg2ZEhfZHZrY2pRZzlDVjVLSTYyZktjb19JTDlzdGVld1pIVjlLLTNKT2tJZUdTZWtxTDcxaNIBhgFBVV95cUxPRzNlUWZkQW5jN2xmX256RHFQcmFFLTlaaHR6Z2E2VGZHWF9ETDY4OW9hRzNCOEYxU0hqX0hXMFkzMXFGM0dabDVQcWZYWHE4NmVOVHItTGFzVE1ja3VRR2VwcUV0X09QWHJKRXVzMkpSbzdxX0pTYThhU2k4RjdMRUFjaWVXdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-16T23:21:01+00:00"
     }
   ]
 }
