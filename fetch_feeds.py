@@ -150,20 +150,34 @@ def build_site_data(items):
     tier2 = [clean(i) for i in remaining[:TIER2_COUNT]]
     remaining = remaining[TIER2_COUNT:]
 
-    # bucket the rest by topic, then round-robin fill three columns
-    buckets = {"top": [], "politics": [], "world": [], "business": []}
+    # bucket the rest by topic (each bucket stays in newest-first order)
+    topic_order = ("top", "politics", "world", "business")
+    buckets = {t: [] for t in topic_order}
     for i in remaining:
         buckets.setdefault(i["topic"], buckets["top"]).append(i)
 
+    # Round-robin across topics one item at a time, so a topic with lots of
+    # items (e.g. "top") can't fill every column slot before other topics
+    # ever get a turn. Every category gets fair representation.
     columns = [[], [], []]
-    col_index = 0
-    for topic in ("top", "politics", "world", "business"):
-        for i in buckets.get(topic, []):
-            if all(len(c) >= ITEMS_PER_COLUMN for c in columns):
-                break
-            # place in the shortest column
-            target = min(range(3), key=lambda idx: len(columns[idx]))
-            columns[target].append(clean(i))
+    cursors = {t: 0 for t in topic_order}
+    total_capacity = ITEMS_PER_COLUMN * 3
+    placed = 0
+    while placed < total_capacity:
+        progressed = False
+        for topic in topic_order:
+            bucket = buckets.get(topic, [])
+            idx = cursors[topic]
+            if idx < len(bucket):
+                target = min(range(3), key=lambda c: len(columns[c]))
+                columns[target].append(clean(bucket[idx]))
+                cursors[topic] += 1
+                placed += 1
+                progressed = True
+                if placed >= total_capacity:
+                    break
+        if not progressed:
+            break  # every bucket exhausted
 
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(),
