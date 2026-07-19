@@ -1,17 +1,120 @@
 {
-  "generated_at": "2026-07-19T18:46:28.092519+00:00",
+  "generated_at": "2026-07-19T21:37:23.942084+00:00",
   "lead": {
-    "text": "FBI will no longer investigate ICE confrontations, The New York Times reports",
-    "url": "https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html",
-    "source": "CNBC",
+    "text": "State Department issues warning to Americans living and traveling abroad",
+    "url": "https://thehill.com/policy/international/5977134-state-department-travel-warning/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-07-19T18:36:23+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-07-19T21:29:21+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Epstein survivor on Blanche meeting: 'We were gaslit'",
+      "url": "https://thehill.com/homenews/administration/5977111-epstein-survivor-blanche-meeting/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-19T21:15:47+00:00"
+    },
+    {
+      "text": "This week on the Hill: House eyes week jam-packed with major bills",
+      "url": "https://thehill.com/homenews/house/5975618-house-funding-reconciliation-ndaa-nominees/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-19T21:00:00+00:00"
+    },
+    {
+      "text": "High-profile Trump nominees pose test for outgoing Republicans",
+      "url": "https://thehill.com/homenews/senate/5975550-blanche-schwartz-clayton-confirmation-battles/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-19T21:00:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Misery in the Epicenter of Cyclospora: ‘A Baseball Bat to Your Abdomen’",
+      "url": "https://www.nytimes.com/2026/07/19/us/cyclospora-michigan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-19T20:44:26+00:00"
+    },
+    {
+      "text": "Earthquake in Peru leaves at least six dead - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEtHcFFZRGZfQ05ydUJGdjBZdGdJelo4aUVxRjRJOEhwWnBwMWVMZmpRYUNHNkhfaElTTnFScF85NEhWUml1X1RGX2xtM09TeXdxc2Q3WHIyUDBSVjJqWVhWaDQ5WWlNbXVlVzJyc0VKM0dIRW4zWGZMek9QZXl4ZTRLT3Mtek9pRENvMmV5aXpXWV9EWjIwYmpTZU91cjBpWHFpa2Qwd1FaQU80cDZScjJvR2c1b3BaVmlGa1Z3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T19:09:00+00:00"
+    },
+    {
+      "text": "FBI will no longer investigate ICE confrontations, The New York Times reports - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tTkcxcW52SFhHOEhuR2lvYW1YTFotSjlkQlRhRzhEZHkzVHdMYWVjdzRkWVM2NzhrYzV5d2pweW10MzZHSG40RTFYWkpVUDNad1dsdmZOUXFnNXloZ0FSbktsZURPckZmaUVN0gFwQVVfeXFMTnhCSmJhR0ZMalNqV3Jacm0xMUlMcjZBQi1VYmtTMm5jQkpwa2VYM3E0UVp6Wi1RNWliamFTQ3d1QTVpMllJV0lnQ3FQRTlsR09maGNKT0tnemNfZXQtT2dOa053bjJTRGRHMGlHVlZodg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T18:36:23+00:00"
+    },
+    {
+      "text": "Troy Jackson has effectively secured the Maine Senate Democratic nomination - Politico",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1lpNklmcFBpN2RwLXRPZnFrUTZod1hmSG1ub1NJU3JJNFRySXBqYTZIcjRxVVJYYkZzSUl2anZreTlFa1FvY0xKRDdsdDJLSHV1SmZFR184M0ZBU1BSQkVFbUJRYmo4QUtNODIxbXphUUlRQlBrTThLZDc4U1ZjWVlVZlV3bkZJT0MzYm42UUs2TVhzVGZiUnF4SEFBa0E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T18:31:00+00:00"
+    },
+    {
+      "text": "Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjB4Wkh0TDZITXAxRy1OUFBwck9CZGhzQzJ2QkVyV1lyWVU2ZzdHdTdNN3k1bnFrZzI5RWJmZC1EVVJESy1xUGxLVkVGeEdkLVFUdjBURzNZMEZRelJyNTZGdzVzMHdqcmNyeG82TWI0Q1JYV2xwbkZMWlJtbGZaWWtsTHB4aGd1LWfSAY8BQVVfeXFMTmxoN1dTdXpiOWpaaTk4ZEswejdNQTJaTTRXWHNPVkFPbFBmLUlURExLXzFkdmtqUDlWNmZ1dXhqUGtzeGJNM3piY0J0eEtidGlJS1BfR0ZybG5ud0o4eHJFZ2xudWVWcTRiZXUtUmZOMEkwSkNYcDloeEtmS3ItcXF2WWNvei1lZ1VtMTdKMDA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T18:21:01+00:00"
+    },
+    {
+      "text": "The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumes - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkJOTU5DR2pnVy1PY3lMVGh2VmxmOHlkcEQ4eVNpcWh0WWhxOGN4WFJXcWozSE1ibWZOV2xWdXI3NUpUS2hudTFEQTFUdzdNeTkzNk1RSmlQNnc5Q2o3dDlUc2xsRUswWGJDVjZkTzNKUmtMdFlnVUJIXzJvWUF6MzVuTTZ4T3hfaHBMemFJLWdYaEdqNnNHVlNYWTNRM3N5Zm1SSw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T17:51:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "The Open 2026 live updates: Leaderboard, scores, highlights, news from final round - Golf Channel",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkxlTHYtSmYyd3djdDc2eVpmVjd3cVNsbW1EazQ0N05iblJKMVBuQ1FDMWRmWWJORWdwSTVlNDZmWlJfUUtYLThHRDdDRHlGQlExcXBoQUY4UndUbmtJRzRWWDZfcWlzRHBubXpOeFh0d3J6NzR2V0xOOHRUaUlYQUY4OGRIMDhQSzd5TmFncndoR0RMVmVlZXd3UDNEMTVkYmxIR1ptT2Jmc0FwMzJfdWsyeUVzeTQtcWlQc3JCc0VuUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T20:11:00+00:00"
+    },
+    {
+      "text": "Tracking Cyclosporiasis: 30 more in Wake diagnosed with diarrhea-causing bug - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFg3dTFHOWpfQ1lDR2RpNVIyWVBxVGNTOFQ5Rk1VOEdEVGl1MXVqcHZySC16UnFtXy11YjF2N1oyVnhfZWxGbnpRQzJzeFpIcXBJWXNldnZUVWJCNkVOVDI1ZmlLMnpldElFaW5kR2lKdVZ5VjVIbU05WGxKdUkwXzVfVVh5UXM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T18:52:22+00:00"
+    },
     {
       "text": "A Billion Eyes. One Shared Experience.",
       "url": "https://www.nytimes.com/2026/07/19/opinion/watching-the-world-cup.html",
@@ -22,13 +125,60 @@
       "time": "2026-07-19T18:35:19+00:00"
     },
     {
+      "text": "How To Use Claude's Reflect Dashboard And Learn When It's Time To Touch Grass - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUl6STVtR1BXUXBjeVZVcDRLSnNDbnFuR0xEeVdqRk1BbkxMMlhWTEFoeHM3NHd1NWVscXQtWFJ4ZFhPdE9rSmRPeUgtN1JLOE5XMG5GN2ZXR0hLSmtpMzJCenBzbjZ6ZXNBam53WmxGRUR1d2M3YUZLUnZleG43Ug?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T18:30:00+00:00"
+    },
+    {
+      "text": "What to know about the Tate brothers, social media influencers facing rape and trafficking charges - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcThhZUhnekRqa2pFRmo2a3owS3NBVWRTLTFjc3FOYkpvSEQwRVJnTXdJblFmS08zQ2plNjlvUDNhZE5ZTXdpZmpBQTl5YlhCaDg4QnN2N3dEcTR4LUN0TXRVdTg3OGN6TGtaQXV4ck1YbExTclFoMTcwZURWTkhVNC1UNmxtNnBkMEZFRkFRc2kteDJHQmxHVWtzUkZfN3N6QVBNREF4WmxWdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T18:13:00+00:00"
+    },
+    {
+      "text": "Why Hawks Traded Former No. 1 Pick Zaccharie Risacher After Only Two NBA Seasons - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnpzM0M2azVpNERKSGVwYWdwWmdOX2Jzc1JNdjdZTnZuUHZPdlZ2ZnJ5eWstQWE5VUg3T1VXR1lCZkZtRXpDVXFaYmhkRU1tYmpjeVI4SWdobkFGcGRsN2JsUVNWcGxpS2g4S0FQaGUwRlBXZzJub29FVXp0X2IyRHRaTF80eTZ1dk9NLXh0ZVAwbkRDNmtvLQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T17:46:28+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Live updates: US military casualties raise fears of a wider war with Iran - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44bXlOcmpkb0k1N2ZtY2htQTFydkdHUXZ2THZMS3NGTEY3RXJKS1NiYVNuUUlKVGpzX0MzaElmbHZ5TDQ2MGhweGRPOWFnOHk2SWJiTThFVmluRjY3SGdFMGVKdzE1VFZNam5SdnNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T19:52:00+00:00"
+    },
+    {
+      "text": "World Cup final LIVE: Spain, Argentina face off in New Jersey - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1J5ZjFZZzR0QmJVSjZuY09tWnp3OVpPeU5rSDk2NGR1YnpacHlzN1F5dm8wX2tjXzlBZVlFLVR5UDBxTjMtZVpUa2NBVHc3TG1iUVQxbWU5TFNLMmlHaG11Vm1rRGhYSFEwMzQwNzF5Ykp0RUcwRm5fX3RuLWNOREt2ZFdFd21UMWpPMmxxUjNHbmVqb2tic1VpOWRsT3hQVnV6RVgzSlZnLVM3R0Y5Ri1uSnlPY0pUMk5yTE5LWTJOdGcxaHhvRy1lUGkzZzFINEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T18:49:00+00:00"
+    },
+    {
       "text": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-19T18:31:22+00:00"
+      "time": "2026-07-19T18:31:23+00:00"
     },
     {
       "text": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
@@ -38,17 +188,15 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-07-19T18:26:40+00:00"
-    }
-  ],
-  "col1": [
+    },
     {
-      "text": "World Cup Daily live: Final countdown as Spain, Argentina get ready to take New York - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1J5ZjFZZzR0QmJVSjZuY09tWnp3OVpPeU5rSDk2NGR1YnpacHlzN1F5dm8wX2tjXzlBZVlFLVR5UDBxTjMtZVpUa2NBVHc3TG1iUVQxbWU5TFNLMmlHaG11Vm1rRGhYSFEwMzQwNzF5Ykp0RUcwRm5fX3RuLWNOREt2ZFdFd21UMWpPMmxxUjNHbmVqb2tic1VpOWRsT3hQVnV6RVgzSlZnLVM3R0Y5Ri1uSnlPY0pUMk5yTE5LWTJOdGcxaHhvRy1lUGkzZzFINEE?oc=5",
+      "text": "Nine people injured in Arizona shooting; suspect shot by police - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zci0xXzNzbVFDeThoaGllcndJaWZ1OWg1M3VEVEVTVTNabGFvM1pBLXhZLWFlZERrMWphYzA0dDZWVWE2RXRQNjZjYkxMVEcyV251cUgtbmlxUVkxMEgwZzNWRXc1SHJOc0RkdkphczBIU0IxbERhYjFja3dIdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T18:19:00+00:00"
+      "time": "2026-07-19T18:00:01+00:00"
     },
     {
       "text": "In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly",
@@ -58,154 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-07-19T17:41:41+00:00"
-    },
-    {
-      "text": "Report: Risacher traded to Mavs, Hawks receive Dort, Ryan Nembhard - Peachtree Hoops",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWlHV1FuM0Z6MS1WYU1zcE41aGR3U2lrd1kwTTVUQjBEc3d3RHd3Yy1BazRuS2RPQnM4UDE2ckg1Z1k2V2EwNkZSXy1ZVnNUSFNCZ1l0bmtTUGZUYUFwV3lHRXhPWElhcUx5dGNqUjA1ZzlJeXAyV1pHRnBsZzRFa1FkM1dqbGQwT0JIZHdfZkdOWmJOSWoxSkl6MHV2VmREdmpqTGhmOVp6RkEyTExmWmtjX1FZZnY0YUdhY2pfWnp5VnEtNkVLWXRhTlBKOXlEQl9jOGVsYWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T16:42:56+00:00"
-    },
-    {
-      "text": "Second death reported in Legionnaires’ disease outbreak in New York City - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYnpNVzMzNXVpaFpYOVV0QjZqWTctTVFaeHJ3WUE2WmxheUdtT2x2UmNRMHo3clZhSTdWN0FCM2REd2lTNGF6YWRLRWhGbzBaUkxRaUpVLUgxajlFQWF6ZVlJdjgxMTB2cHBydkZuZzlMVFpyeTMyXzduSEpxcWRGSnFybGtETGtLUm9sNDROY2dFa28?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T16:08:00+00:00"
-    },
-    {
-      "text": "Federal Agents Were Told FBI Will No Longer Investigate ICE Confrontations",
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/fbi-ice-agents-investigations-shootings.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-19T15:57:21+00:00"
-    },
-    {
-      "text": "Multiple people shot in downtown Tucson officer-involved shooting - KOLD",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmdVYUFzak1zZlRtSWZXNU15UDZPQk5UYTQ1cHBHTEp4MXJIRlR3aXlVYU9QQTdfanF3SWJjZDRraXd3NzlWOG1SckVLTnlUR3pjRF9OZ0xBMS1VSm9nQ3JvU1JUWnpQTVkxRXkxa1M5eWNTc2tkRDlrQXJHWHpFVEo0SGRkNERyYy1NU3BXMnVCSnR5OTB0eTNobw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T15:30:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Troy Jackson has effectively secured the Maine Senate Democratic nomination - Politico",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1lpNklmcFBpN2RwLXRPZnFrUTZod1hmSG1ub1NJU3JJNFRySXBqYTZIcjRxVVJYYkZzSUl2anZreTlFa1FvY0xKRDdsdDJLSHV1SmZFR184M0ZBU1BSQkVFbUJRYmo4QUtNODIxbXphUUlRQlBrTThLZDc4U1ZjWVlVZlV3bkZJT0MzYm42UUs2TVhzVGZiUnF4SEFBa0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T17:58:00+00:00"
-    },
-    {
-      "text": "Sen. Warner says he won't vote to confirm Jay Clayton as DNI - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0F4dV80VHFmSXQ0WmdCclcyS2dYYjJhMnZEenFlbEFNdEczSTI1dmJ4VmpmaFpvRjQ3QVktRTJibGxpYVprX1VCRG9XYVlPel9nTFptdE9LaVRBN0NIempaOGI2REJNMldYM3k1QXhzZkZKQVNWNjE5MzhybVpWYllRYnUxR3RHVjZiM3NUb2bSAZYBQVVfeXFMTnJQalRfMmsxd3BuVmJmVDJoOE45NlJ6QUdUb0pRV0Zkdm5RQ1AyNGpydERaemtfLXVUSG9HRENfZE41b09RY09uUGZ6UnRHSUFDYUhSRkxIeWQtdDVaRnFkT3VkeEhaU0ZValA2clJkcUF1YXA0bnZsWmsyRTJ6b0ZkZzNRcTNES0NaZmZXbFR2MlJDejhB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T17:26:51+00:00"
-    },
-    {
-      "text": "‘The Odyssey’ Seizes $124M Opening in Box Office Triumph - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHh2NmNsZzQwY2N3ZzdYb0cyRS1KVjJBdzhvMzVwY0ZYcUJMVGtVWGpRVXN2WGNKN1hSMTNUN20xeDA2bVJ3OVdNbGZGcTFURVRiaWdOeEVCcEtUcFFJVW1mbmZVa2V5UVlHZXJTZ3FTenVMb3dTcDRRcEw3T1JkcHB1SmVWb0F2cW5jX3NWUEQ3WEF4S18zVkstN2FveTVOWWQ5QWo4R1RDQzhiVFJPb0p3RVNqdGx1aTVSUg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T16:40:56+00:00"
-    },
-    {
-      "text": "What to know about the Tate brothers, social media influencers facing rape and trafficking charges - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcThhZUhnekRqa2pFRmo2a3owS3NBVWRTLTFjc3FOYkpvSEQwRVJnTXdJblFmS08zQ2plNjlvUDNhZE5ZTXdpZmpBQTl5YlhCaDg4QnN2N3dEcTR4LUN0TXRVdTg3OGN6TGtaQXV4ck1YbExTclFoMTcwZURWTkhVNC1UNmxtNnBkMEZFRkFRc2kteDJHQmxHVWtzUkZfN3N6QVBNREF4WmxWdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T16:03:00+00:00"
-    },
-    {
-      "text": "U.S. and Iran trade strikes after two U.S. service members killed in Jordan - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T15:48:00+00:00"
-    },
-    {
-      "text": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQb2NlVFFXSy0zbkFPWkxBMHZRQ3JfemxvRUpFcDkwSFZJNlNBOXo0UVk5SHB0RVRNalVsRU5tVi0zcEJ1a3YxemhiSk16WlBORkZPZHdtWUtvQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T14:50:11+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "The Open 2026 live updates: Leaderboard, scores, highlights, news from final round - Golf Channel",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkxlTHYtSmYyd3djdDc2eVpmVjd3cVNsbW1EazQ0N05iblJKMVBuQ1FDMWRmWWJORWdwSTVlNDZmWlJfUUtYLThHRDdDRHlGQlExcXBoQUY4UndUbmtJRzRWWDZfcWlzRHBubXpOeFh0d3J6NzR2V0xOOHRUaUlYQUY4OGRIMDhQSzd5TmFncndoR0RMVmVlZXd3UDNEMTVkYmxIR1ptT2Jmc0FwMzJfdWsyeUVzeTQtcWlQc3JCc0VuUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T17:44:00+00:00"
-    },
-    {
-      "text": "Man Killed by Truck After ICE Encounter in Florida Was Visiting From Mexico",
-      "url": "https://www.nytimes.com/2026/07/19/us/florida-ice-death-mexico-visit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-19T16:45:36+00:00"
-    },
-    {
-      "text": "Russian attacks kill 6 in Kyiv and other cities and expose gaps in Ukraine’s air defenses - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV3ZwbTkzZS1DdDVUbGlBMG1vZDRUR05ORWFXaFRZWkpaU0M0RjN6Vm1Ib0YyTnpJYWxwemJxZVZkUlgzSmJZNE1YcGFIODdiUDZlMFJiMGhpRTdWUS1tNHNJbGpla2c4eUNJMnVRQUlhREhqZmkzd1pqNDl1QnEwcDVhNmdGNERSUXFCM0htYkVGS1IwRnZ2aWZDVUt1d1MwSlE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T16:28:00+00:00"
-    },
-    {
-      "text": "Who is Andy Burnham, the U.K.'s new prime minister? - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemJWZ3ROMjBmZnJOQUUzajVrLVRTeHFFcXIySVY2T1haY213dDRZLTVSNXMwM0xGTnFjVWdBM182TzZrSXBKWFkycncwMVpBaWw1Z0hjZVRUT2VGa1ZWX2RISy1GdGF1M0ZJVGpBTHU1N3VmY0hObGZSQnNoRHJsc2JTakJMT01OVnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T16:00:00+00:00"
-    },
-    {
-      "text": "Tropical depression forms off Florida. Storms possible in Tampa Bay - Tampa Bay Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM3FOTjJQTm9xanhLUEJSLUFLS294YVdHUWlmMndBMVE0NUtnSDBYMFRHUmhlSVVwMlZyajctNnl5aUNqZFBMcjd1dEsyekNVWEpIbXI0UXZhTnZweTFkel9KUThtMUFwRGMzekJnWFJGXzFQRWw1dWlSdjZQQTlGeW5DQVUyYmwyd3RZ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T15:44:06+00:00"
-    },
-    {
-      "text": "Don’t Let This Useless Debate Distract You, Democrats",
-      "url": "https://www.nytimes.com/2026/07/19/opinion/democrats-capitalism-socialism.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-19T14:47:24+00:00"
     }
   ]
 }
