@@ -1,17 +1,82 @@
 {
-  "generated_at": "2026-07-19T08:57:19.917038+00:00",
+  "generated_at": "2026-07-19T12:07:05.230586+00:00",
   "lead": {
-    "text": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
-    "source": "Google News",
-    "lean": "unrated",
-    "topic": "top",
-    "sourceNote": "Aggregated Google News top headlines feed.",
-    "time": "2026-07-19T08:38:00+00:00",
+    "text": "Politics chat: How much faith can you have in the country's election systems?",
+    "url": "https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems",
+    "source": "NPR Politics",
+    "lean": "left",
+    "topic": "politics",
+    "sourceNote": "Public radio, nonprofit newsroom.",
+    "time": "2026-07-19T12:04:18+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "The Beautiful Game",
+      "url": "https://www.nytimes.com/2026/07/19/briefing/world-cup-final.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-19T12:04:15+00:00"
+    },
+    {
+      "text": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+      "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-19T12:00:01+00:00"
+    },
+    {
+      "text": "Housing costs is the top political issue for young voters, CNBC survey finds",
+      "url": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-19T12:00:01+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling",
+      "url": "https://www.nytimes.com/2026/07/19/us/immigration-chicago-prosecutors.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-19T11:44:25+00:00"
+    },
+    {
+      "text": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-19T10:52:22+00:00"
+    },
+    {
+      "text": "Social Media Hacked Our Attention. A.I. Scares Me More.",
+      "url": "https://www.nytimes.com/2026/07/19/opinion/ai-attention-social-media-attachment.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-19T10:00:04+00:00"
+    },
+    {
+      "text": "Politicians Are Trying to Change What Chatbots Say About Them",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-19T09:00:38+00:00"
+    },
     {
       "text": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
       "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
@@ -22,137 +87,61 @@
       "time": "2026-07-19T08:37:18+00:00"
     },
     {
-      "text": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-07-19T07:47:02+00:00"
-    },
-    {
-      "text": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-19T07:27:59+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Ukraine’s Top General Becomes a Target of Protesters’ Anger - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbU5kRmlUNnJnTUZZN04wMEQyRzZqQWxyUXBtanVHbm50ODZ5NVh0emU3bkFBWXk5bFdDeWp5R3dYN3B1blJwbVZEaFdacGVRdUM4TkNyNVhYX3p5bkdZdjllN2QtSHF3SGRNUVlPMklCOGFSR2dqS2NpY0VQVlNVYVhxN1VZWG53bE1jLVlqbWlRQmtlaUtkZg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T07:13:00+00:00"
-    },
-    {
-      "text": "Horoscope for Sunday, July 19, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0tnQnFhejdvZEpybGEtQU43b0dlVEtWclMyNkdTRVZnenFMNC1NMU1tS0FBSDBPcERmQ2hrdWdPWUFPdkpXa1NiYWdFaDJOSUlTdXBCZy1Oblp1dTFBUVVFTUJXQXVnLVRlMkFvejZHaVZQVDBpMkg1QXhsaVRKdDh2a292MldkeS1UVnZ6dDY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T05:01:00+00:00"
-    },
-    {
-      "text": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html",
+      "text": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
+      "url": "https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-19T04:10:57+00:00"
-    },
-    {
-      "text": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWQ0TFVCcGRnSTA4Ujg2cHV4VjkySzR0WnFUUG9NbWRsbi1lNm9VWG5GZEdvaXlGVXdoZTI5Z1FPMTFZUUYzcnVMMXNYcmZOZXg1WHNCZXZ4ZEFMaG1UQVZ1d3kzNXZXMjJtTXdKVVNMWUo5dkhqU3pMSnNzQzhTTVphTFhxUzVVOGNJNTVZVmFvRUlfVWEwU2FJYjh6U0dHdGFPQUFzd19MWjJud1FNWm5SQmRfZ9IBuwFBVV95cUxQcllFeXZ3bUhFNkk2NzRQaGI3QjNHNTgtb1RmbTctUWNnUEtpOXhLMEQ0bC1tdzFmUjR1ODhwZVZoWEpabDFjWWJwQ1FaUG9wb1lFQVMwSjN4aUZRZi1tTzZxVm9vazJOeUJ5UHNnXzlYN0N6RzJRdjJrXzdwSTQtT2hlUWFYX1ZDQzBlM0RsWVZDUHdhaktwUmN4c1RPWDdnUjM1cGRTTWd0OUxFTlFaXzhKU1pXcC1fejJV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T03:17:45+00:00"
-    },
-    {
-      "text": "Vance Remarks on Epstein and Israel Echo Conspiracy Theories",
-      "url": "https://www.nytimes.com/2026/07/18/us/vances-epstein-israel-conspiracy-theories.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-19T02:12:43+00:00"
-    },
-    {
-      "text": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T01:24:00+00:00"
+      "time": "2026-07-19T07:00:08+00:00"
     }
   ],
   "col2": [
     {
-      "text": "NYC weather: Storms exit after flash flooding; air quality improves | Live updates - ABC7 New York",
+      "text": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "url": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-19T11:28:19+00:00"
+    },
+    {
+      "text": "Storm cleanup expected after flash flooding batters NYC, Tri-State area | Live updates - ABC7 New York",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGdkMjFEN21DWjNULXBTaF94VTMzMEduVHM0eEd5T0UzTndOaFVVLUI5WXZmWXJEOUFmRWJ6dXRpbk02SHpYbVNad0dsaE9SdXNuampzeHRNRXE1Mm1yR3RkXzdkVXlwVFlQSXAxc1UtU2pvYUR4UWVkNFZsekUzMXZQNmlQb09pUWhicktWWXhDSzRtQW1Xd2laWU1VZEZaTkRZVmo5WUJSbkkwaFBRdFlJNA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T06:12:00+00:00"
+      "time": "2026-07-19T10:38:00+00:00"
     },
     {
-      "text": "It’s No Longer So Much Fun to Be MAGA in Washington",
-      "url": "https://www.nytimes.com/2026/07/19/opinion/washington-dc-maga-trump.html",
+      "text": "Tate brothers arrested in US as further UK charges take total to 59 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sWkRBTmRJWEg3Rzg4WGRFcFFCX0RTbmwyYXFVcVA4WkdpT3B0eTlNM0M1WEx1ZWJveEhpQ1ctOTY1NHZQZTRZSDducjdzOHlSNWpqNzM1NlM2UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-19T09:37:32+00:00"
+    },
+    {
+      "text": "Sibling Therapy Is on the Rise. Could It Help My Relationship With My Brother?",
+      "url": "https://www.nytimes.com/2026/07/19/magazine/sibling-therapy.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-19T05:00:05+00:00"
+      "time": "2026-07-19T09:00:31+00:00"
     },
     {
-      "text": "Tate Brothers Arrested in Miami As U.K. Authorities File Sex Crime Charges",
-      "url": "https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-19T04:10:31+00:00"
-    },
-    {
-      "text": "Taylor Farms lettuce sample tests positive for Cyclospora as recall expands - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHdEdFY3YVhoclRXOFliUXVhbnNfbTVpR0tUUTBBeVlFX1FpcGVVLTVUWEM3bWhxNkN2Z1EzeVlkT0lYdnJuajlUbDlpV2syallQNTRoby1NTUUwenVRM1ZFYUdKbVAzUXA2V3RXR0JHRUw4MTduNmJnQ29SYnAwaXl2TEd1emJqNExSRkRZekJtRVNvUjRSRU1FX0pjR1Jqd29UcDNaQUNRZ9IBrwFBVV95cUxNaGprcHZLNDFpRmdJaHcwUnpNeEtleTJiYnJybmphQUExQ0dyZEgySEpOVHZJVlk5U0RmejJ4bl94NjJMQlg2cDIyM09zVzh6NlBVZXJmR09ZU1BNa0VBeFZLX3VFRzlqeVN0R0dlcEhzOXpWRklCSmhfUEk0Qk51YlZfbERaWVZNYldQRVRlWVhsVGdWeG5kd2VDSG41WHlhNWpoZGtSWk5nT01DRnQ0?oc=5",
+      "text": "Spain vs Argentina: World Cup final predictions, schedule, Messi news - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaEFhZGtiRHgwQ2lKaFdYLXB2YU9Yd1hkWVdqNDluYVRpeVFUNmhDbk9pcVdCbTQ3RHFEc3BPTkoxZTZhdVo4cmNwZ0FTbUpKWU94b0FPN1RFOUFSbm5OaTFObm1zWGhWMHAzYlA2TmMtRlVYQ2FORnlYTW9lSVNGOEN6X0UxSjBSWGxJUGF3eWY4SW9aZmJGXzZnbDFoOVZidHA1Y2tkb9IBrAFBVV95cUxQU09Cd01FbmY2bDVseTljUms4Mm93MEpYTnRPRjROMTZSMXptWWdlSXVGTTNfU3lPU1BsVWhpbnBQR2d4elJrV2hBWVpMUXZOa1czRjNldlgxaVlPd29JbmxqRmNudVVJcHc4ejhJMmRKYm5ab0QwV05nWmRKWFB2ZWJlRVlKbjRjR05LZ0JZSGhaeHlMMDFBekxSUDg4bzUxYnUzOHRJcGN0eGMy?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T02:18:00+00:00"
+      "time": "2026-07-19T08:30:33+00:00"
     },
-    {
-      "text": "'Ultimatum' Star Blake Robertson Arrested for Assault After Show Filmed - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazBSNW1aa2RYTnFrQmtlajlGazdqcGYtYVpTazdhZFd1QUdzUmtjZGFUb2VRR2tiX3o4R0F6S0RNQXpXRV9wb0c5SmhDRU9FSjVyMndWbXpqUG9PTFlwNy16WTBvT3ZwTF8xWWhZLWswOWtPT2JmbmdSclFZYlQzTFFycmlaTl9aX1Bz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T02:00:56+00:00"
-    },
-    {
-      "text": "Dodgers-Yankees Saturday game postponed; split DH Sunday - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemtoTURtOVFpcmdIUXZjNzhEYklFVkVDR3BTUk5rVkRHTUptMXl3bUZuZENURi04ZUROOGZ2dDl5Yl9Mc3hsZnh1eGxJREtYZUtRbzVFY0l0R1hnZlZJWHQ2MllLeTNkTDM4X01Pc0RVMlNpM1ZUSTYwZU1uT3NQQUxha0FSSUwzRVMxb0dvYWLSAZwBQVVfeXFMT0l5aEZTTEdzZkk0NjFudUJjYzZtQ1cySUFPblpDYnFoR2hYcWprUGtyMlFDQzNNS2RxTTZoNGtGWDlSajViZUkxVmRMUnh6b2RMVFg4S1VraEdXRXczZmk0RzJ2VUpqeTRFazRJU2xqd0tKZWlNaS1RYlM4MEFsajVEYWw4cTlRRWR4Q2Z3M18za3ZycC1nOUdCT25j?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T00:08:20+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
@@ -160,52 +149,63 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T06:11:40+00:00"
-    },
+      "time": "2026-07-19T06:53:51+00:00"
+    }
+  ],
+  "col3": [
     {
-      "text": "Tate brothers arrested in Miami as UK adds rape, trafficking charges - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWl0eVBDUURpeE05UnNLdjBSdmh6VmNkNDBMa2JLOGhFTTVyM2lheUV2NTZvQXV6ZFVqeDdqSmRSdEtCNm1sQUxEMy1pM1pfVnZpYk9NTDU2MG1BbEo5bi15Y2lkZm04UmQzOWxTVkVDa3VJanZEeXgzUWZCY3kyd3BBd1RGSENrR0ppblFPRXVaU0k4TFgzTVhVMjF1VVBJdHRSUXpaTWhUak5s0gGyAUFVX3lxTFBhUnZlbm1iRWh2UVFJV0FrMzRwWnNrZVZyRmF3V3hiMXdISmN2ZVFDS0M2ZnNPZlBNWjBZd1Q4eWZ4ZzlqOXRHLUFJc0NjOGhJZmhmWTQxaTd2N3MtRkJiTjZCeUIyelFvbW5lRE5KbDZ3OVlpdmJBMWFEYTExZ1FCQXo0RlkxQkZWb2VBelp5N0ZhTEVtSDVtRVJKQlZ0NEVpMzhVSzA3bkN2Qm1kM3ZpRFE?oc=5",
+      "text": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T04:58:27+00:00"
+      "time": "2026-07-19T10:57:00+00:00"
     },
     {
-      "text": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2dhWEM5T0FaZHBZb3ZNdUNQM1cxVi02bG5jZ0swb0RDUDNidkphbFpDdUoyMTh1ZjA0UUgzRWNkTmF1bXJaaWl1cmJXTlhUMEdSSFJFVzZLaTEyMm5ockJhR2g5MEdTcU5wZDJZRlZZSC1IWGRDUmFWTWNnTVFyMURGNlJJWEc2eEQ0?oc=5",
+      "text": "Burnham will be bolder but stick to Labour manifesto, deputy leader says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmLVFnYUkwVEJ1c2ZiaFllYU5POUV6eTJSOTJ0OURCeFBHQXh3N3BGWGdFdUNiN2kwMENyUFBFZlNzSnZkeUxzR2RqWkQwc1QtQXFDNEZnVFpYZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T04:01:05+00:00"
+      "time": "2026-07-19T10:29:14+00:00"
     },
     {
-      "text": "Hungary's president signs amendment ending his own term - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGJFa0JtMDhZTGNIMkNzd3VDLW5TTjR0dktCZGdVME5zNk94NjJVbi1ENmxTSTRKY05ET0NfOXN2T2dVY1haSk8yNk9rYm40NkVjZGFnMmhoQkVMUFQ0ek9mb19rZW5fQVpwV0FWQ3VvUjdjdC1FLUNRbDVGM0ZZZFAtQ1A5eXUta3FRMWpNQjHSAZABQVVfeXFMT3VnVWNIYnlSZFlhV2xOU0lPaEdVMld2d0dBMkw0eTQ4MlBjMmhpc2NWMF9FMGhXWlFXS01GQ2ZUeWJacWJ1ZlIzUmZYdF9Obm1PTDd0Z2tXRFBXNTFpeHk2ZjV4MGRGZGNYVTFVU0xwNnBIcmdLN3pUektsa1FnSFBPY1dPeG9YWVBtNFNIQXhN?oc=5",
+      "text": "D.H.S. Won’t Name Agents Who Kill. Local Police Agencies Are More Open. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBacTBVaTFkaDZzYTRTQnVWZUk3MEJRbnFhb3dCcHBlM1FEMFlpeU1SREU5RWRMaGE5VEEtdHZLLS05RDdzUW0tVXFiTGN3NE40QlFTSnZMOXBMWjM5LTQtT0hEQ1QzdDlYYWpkNkxFbEhrbTRkVE1Mc2RR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T02:12:53+00:00"
+      "time": "2026-07-19T09:01:03+00:00"
     },
     {
-      "text": "Troy Jackson, a former Graham Platner ally, well-positioned to win Maine Democrats’ nomination to face Sen. Susan Collins - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CWFY1ekY5a2xxNndidDQ4ODVudjg5N3BPY0F1azZtTEFmYkw3N0JrTkNueGkza2V0XzZtb1o0Ykc4dmVjUHVJelBKd2thSVpELTU0V3Rfel9EZE0ydHFBeEstdkNNbkJrbmlQMWp2ZHpuUkRWTnlzUG9lQjcwUQ?oc=5",
+      "text": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-19T09:00:13+00:00"
+    },
+    {
+      "text": "Russia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUZDcE1JNjYxRDZ4c1R1bUllb1FZR2RlYnlqakJBWkZ3Wkd6eFFYMm5wOUJyYk50V25wZ1BHSjdtc2I4cXlkNVp3WW1DX1d5Zk5LTVZaN2pDN0YycXBvb3pFQVQ4UTMtZU42Wm95LWgwX3htb3YwNXRSeEVySWw4ZVVUbHlGdEU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T01:50:00+00:00"
+      "time": "2026-07-19T07:00:52+00:00"
     },
     {
-      "text": "Can Burnham's casual style survive contact with No 10? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qYmNxa3ZSQUZaLXJxUzNZM29VWlFnbVFmNnA0cmRwLUczZWozb1llY3V2SGJLNFZhb2I5VVRLaXQzRHZUZTdDLURmN1BRa09OOU5ydGRCWGk1Zw?oc=5",
+      "text": "Second death reported in NYC’s Legionnaires’ cluster – but source of outbreak likely eliminated: officials - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0tPOVl4alJlY2I3MGo1Z3FwUnI1VkhzaVhZb3B2dWpXTEtUc1VhTzU3VlZ0Q2hYSkwwSzZFRjJFUXlBemVvSzc0TmFHS2lJLW1kZUJkZmRaRmc3WmxidWdZMktwUEVpaFZZR2ZFZEdyOHFkSE9VZkNmRW1DUjRUSVRxVW04cmhQaThSVEdyTERYRmp5Zm1OTVJLQ1k0clFkVDc4OElDRWlYMGh3NExQZjFiTFRLUWs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-19T00:08:17+00:00"
+      "time": "2026-07-19T05:51:00+00:00"
     }
   ]
 }
