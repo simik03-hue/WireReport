@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-07-18T21:08:52.887764+00:00",
+  "generated_at": "2026-07-19T00:14:49.058809+00:00",
   "lead": {
-    "text": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
-    "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-07-18T20:57:47+00:00",
+    "text": "Russians turn to cash, putting more strain on slowing wartime economy",
+    "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-07-18T23:59:26+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "What to Know About Fires Caused by Lightning in the Pacific Northwest",
+      "url": "https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-18T23:59:03+00:00"
+    },
+    {
+      "text": "Private jets flock to Montana - but locals can't afford the trailer park",
+      "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-07-18T23:44:04+00:00"
+    },
+    {
+      "text": "England top France 6-4 in thriller, avoid another shocking World Cup collapse: Kylian Mbappe sets goal record - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTNkLS1rc3hpMmEySi1tbjE3Q1dDa1BKc21qMDR3SGRzRGNVZG1BX3BrUkx0YURqak5fbkFCUnlNSG5TcUdwUGdPQTJfcGpjaWEtcHNZQjdTc0M0bkRTZEQtVjdMc2hYNWJ6NE9uckE5eDNiNHdicWNPQUMxUGpFUDlVZ1VBa3lxQ1E4cGtubTB2RExPaEpHaQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T23:12:00+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
       "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
@@ -19,140 +48,147 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-18T20:45:43+00:00"
+      "time": "2026-07-18T23:03:24+00:00"
     },
     {
-      "text": "Thunderstorms Bring Threat of Flooding and Strong Winds to Northeast",
+      "text": "LIVE! PFL Austin Results: Eblen vs. Kasanganay 2 - MMA Fighting",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYnpELUFzblFUZ1loTUM0QnlpVXcteFFHT1NQZm5kWl80NU1PRFo3Z0hXSC1lbTE0QlZQNXJTMVBMa0ppVk5nM2txcTRoRGMxTm9qQXZyMmxiMnh0WlZaNWFaUEtSeF91d1UwOHZBZWZhMHA3V1l6MVplSVMxZU9JOEsyc2Z3QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T21:38:00+00:00"
+    },
+    {
+      "text": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T21:21:00+00:00"
+    },
+    {
+      "text": "Nolan Wells Not First Person to Drown Off Horn Island Coast, Local Says - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHM2d2dRRVIyd3J4LVlFNDBjSDlnOVZ3MnFqNVpVQlk1Q0NSUFFhRW15YzdHYzVFWnRINENVMEFRWHR0MFRHdVpRT2JMbkN1N1h0d0RPZkpYbHU1SEpaZFlGdF9tZHBKbG1vQzlMbXhCYnBHOFRwSUlvTk1HbVBlLUoyY1h3RDBmbHRYWnF4enRBRE92WnctSERTOGZZX0VLR2ZYUWp5RQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T20:50:06+00:00"
+    },
+    {
+      "text": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JOGZCOXhtTlVfcGVZQVc4YUVOV1hBcDRiQ1RsdGZaTHAtbXc1cVpnNUwzR0xId1dpRHJPekdXR05WVHZsSzg1RmJhZ0lLUm5MalAwd3FDbUxqdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T20:15:26+00:00"
+    },
+    {
+      "text": "Google might not kneecap the Pixel 11a with an old processor - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yQUIzeXc0NEhfbUJQYUtBV281alpBc0Rpb1BqQXN5T29SV1FYUC02Ny1IajRfVDBBV2p4YUlfTVhwM0UwTGdObDFSSlZHQldCdzV5U01HeGFSZ1hoZHphbnAzMG5NWnpUTm9zNVZwdWZqS01ubzZF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T18:25:08+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Thunderstorms, Flooding and Strong Winds Sweep the Northeast",
       "url": "https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-18T20:33:31+00:00"
+      "time": "2026-07-18T23:01:31+00:00"
     },
     {
-      "text": "Two US troops killed and one missing in Jordan following Iran attack - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GSmY1MHcwblY5Y0NWNTJmOUotLUJ6bV92cXVHUXhMeWtNUWhFLVBORDlzM2F1QXlxakU5RGZOOURvRGVRM0hEeDBLTE5YejZ1M202a1ViTGtSZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T20:33:06+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Cyclospora cases prompt questions about produce safety; Utah cases not linked to national outbreak - KSL.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSWVxTi16d2VSNHZqTXNRZnlHVVE4MGs2QXpIQTEyS2pyR09hNXg3bFRtbGRlb3otN0Nwb1VXdTNITzVmUjFacXViQzY1ZGl6dlVWTURWQ3I0TEo4Z25uVDk1U29QcGpSa01lM0lYYUJ2dEJ3LVAtRHpveGNXREVva1pWU0FNZnRJNzd2UU5WSFR1S0ZSYW9QTTRhZkNxc25MZkFQZjh6RzUzQ29NelpRNUF3NmhJdDNIMmdIMGVfY3hiQ05hWVNURXJ1cC12Vm8?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T20:01:35+00:00"
-    },
-    {
-      "text": "Severe weather alerts are now in effect across parts of CNY - WSTM",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2JqSkFWaTk5b1BmVXYwVU5LZmM5TXhCalp3M2FoaTdVODU3cGVsdjdTR1RaVERYd0txcjdWMldrUWhITFNJMkJnY1NvdWxJYUlsWFNQVUNzUkwxeXdUYXI2Z1h4QjV6VGdGNGVXbjJkXzJla0Y0U0lTOGxialpBM2RublFHZ00xck8yNUs0MngtZHZKaGZURw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T18:33:45+00:00"
-    },
-    {
-      "text": "McIlroy accuses DeChambeau of trying to ‘hold the tournament hostage’ at British Open - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2M0cFItTzMtVkR2Yk1LSC1lXzlKZktQQk1IVzRPcDB6blJsWnhZRXJxSEV2U19vbVIwNGhNbmJ2RkotUWFpWGJDbjZEaVpjMGNobnk5aTd5bGEtYTg3NFRuMVpIRzNwWUhpM0RvWVlTZ3lYNUJxYjVzbUFaN2ZEN1JfTDBIOEV3cGY1eU83NXk5Mi03eUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T17:56:00+00:00"
-    },
-    {
-      "text": "MyPillow Founder Not Registered to Vote in State He Wants to Lead - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNk5CTURYejFDSHlCQVVXajdmb1BZYVBKdlhESkI5WVlYOUZNcXVqYlByeUdDS3ZOemJoVVNySE5KallRZUxyQTVCMzJpUEdtSnV3NnJDVWtrcWxCWGRtS0dENjhQVFkzdWhtU25GX09CanRqTHJ4cGJPaXpLOHdRVFFqR1lJdFA0aHNGYTRzNlBCQjdiN0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T17:08:41+00:00"
-    },
-    {
-      "text": "Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak",
-      "url": "https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html",
+      "text": "Mamdani Says He May Still Order Israeli Prime Minister Netanyahu’s Arrest in NYC",
+      "url": "https://www.nytimes.com/2026/07/18/nyregion/mamdani-netanyahu-interview.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-18T16:45:57+00:00"
+      "time": "2026-07-18T21:33:05+00:00"
     },
     {
-      "text": "What the US and Canada Can Expect from the Wildfire Smoke This Weekend",
-      "url": "https://www.nytimes.com/2026/07/18/weather/canada-wildfires-smoke-updates-today.html",
+      "text": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-18T16:15:48+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-07-18T20:57:47+00:00"
+    },
     {
-      "text": "World Cup live updates: France vs. England lineups, preview for third-place game - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
+      "text": "Britney Spears’ Son Broke His Silence On Rumors That She’s Actually A Clone - BuzzFeed",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmNGNTUtUm00eUlaZVROOENRSWdiM1lFSk5ZUzJnUVZqN2g5OFIxajJXVlhYakdnd08zYlpHX21fbmpnX19peFNmcWxCQ29pWU55bkV1UEN3OEM4SEdSUFVGblBHMVhNZ0Q4YkhLTzF3a0gwUEJqbkhsdUNWSGVkWmN5VHlncE82UzBz?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T19:58:15+00:00"
+      "time": "2026-07-18T20:45:42+00:00"
     },
     {
-      "text": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
-      "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-18T18:03:18+00:00"
-    },
-    {
-      "text": "‘The Odyssey’ Galloping to $120M in Muscular Box Office Opening - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDFTUkhiV0FUTFprZjZjeFFvUVp4ZlNaS1Zwd3ZtT1NVZU9qRXVpTUpQU1VySERaUWFHWnU3R0NUcUVRT0tyU2x1cEpfZ2xHcUI5STNtNk5tX2lfX1FlTG16OXQ3OExTaXViQUNNU09Ea0hSUU1FYWRVV2xkdi1VNGlROHNBT3pWSWt3eWs1TkN6ajYzSHV4QnRJWFREYzNHXzV3UjF6RnVSY3FuSF8xX1ZB?oc=5",
+      "text": "Rep. Ralph Norman launches campaign to replace Lindsey Graham in Senate race - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSENLV29YSVptMGRhNjFQVUFIMW0xVTcyRjRWNFd1aGFrU3JiYzdvZmZiQmU0M0hpQnE2WUdORVFLWF9mU1lybVFjSHZ2QkdRd2hkeFhMd193V1pVOHBybG9qc01pOFpkaktqb1BzUm5nUFJ0Z3JobjVndHF1bVAyQXpXVkt1MV9zenpjRGtoX2hPU0VMV05iRl93R0c3Y0JJd2ZqbEV1Tmc5ck5GTUw2ZjAzemxJTnlrWkE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T17:36:05+00:00"
+      "time": "2026-07-18T19:20:39+00:00"
     },
     {
-      "text": "US military targets Iran with latest wave of strikes - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRW1HM0tnNnRlejk2WUp0LURrTzA2RERyQUZvZ3g3SGRCeVJWQUtYUl8zbWZQSzlkSDc0WmdLWlY1VTFmTG1DejlFbnV0ejNGbFNkQ2tfdU96dTlsRHI4Z1RsbG9NM2R6TXlENU55RmVnZVR2Umk2Y3o0MWw3bUJnVXI0UmE1Zw?oc=5",
+      "text": "Sinister new threat in West Hollywood after water main break devastated city - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnVMUk1XTkZ4dE1KdDVxN1RVSEp1OE1Ta1luRWpjU2xpZVNWbDB0eHZ3NGl4SmlNNWFmaFdBLUdWREQ1Wjdia3NMR1cwMzFsajdBWFRRU21VZk95djRFZEdTNDhpUHZWYjBaWldfUlNjRTliQWRQcm9ha2xCTVg0d2xFZ1hCZWZaWTJSVTROQjc0U05GeGZreHFYdGpidWR0VUl3Z3lJbzhPSVVDT2RxX1NDRHVOMnZWNXU0UnNfa1lRRkpXTXdOdg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T17:01:47+00:00"
-    },
-    {
-      "text": "Murkowski slams door shut on supporting SAVE America Act - Democracy Docket",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmJMVDJiV292ZnhiY1BncUs2aGViVTU4TTRHcS1mVjJ1dEgtUDMwaXFqdGpRaGNRb1JCRjhPUW1WU2staUtMc1RKUzZJQjJpd01RT2puSm03elUwX05OaVQ0S1Y5UXJmdTk5dEZoZFQ5REJzTGoyUFZCODl2Q21ncnV2Q0NESzBBSDZXamRKNTRaOFRJRjV1eDIyUnlfalhHTkx3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T16:45:00+00:00"
-    },
-    {
-      "text": "F1 Belgian GP: Kimi Antonelli beats Max Verstappen to pole by 0.317s - Motorsport.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbllGMFE4d1VNOTJyX0lEclgycm91OFE5M3RkUGhFM2xOTy1qVnhmZHl5ZE1vS3VlczFMRXlKY3VGeVBfWHhxSlcxZDNmczJzeVhwRERaR0N3RzlraFdpbGRMVkd6VlJLQUNZY09RbzIxZzhVZXR2WElmbzhyNVZhanFB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T16:13:32+00:00"
+      "time": "2026-07-18T18:12:00+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "2 U.S. service members killed, 1 missing in Iranian attack on Jordan - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDhIaFk3Yi1tNnR6Y3Y3QlhhUjVKSEp2bWJrLVJGQ3kyZ00yUUVrZ3AtV2JRS0ZmN1dCU25CUGFwNFVYLTd6QVRRV3dzNlpHN3lPX0xSaWxpX2laSkNxWmdKQnhNU25BRmJFNXFHM1lHZFJIckZnVllzenNRS081NWhpR2xVQ0ZfT0NDXzV2M2FTdHlPUXpPTWdRdXBKR0xJOUdqWUwyYTN2Rlly?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T22:51:02+00:00"
+    },
+    {
+      "text": "Cyclospora: iceberg lettuce recalled in 27 states and more products may follow - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMllmSjZuUGxUczV3Z09MbVpqbWxLVDhheFN6NG9odVY4NEJveFVGampMMjNIWFJVa1FoRFgyczlCVE9lRzZnRXJYRTcyWkpKZXZOX01rMjl3SlFmNnk2YjBaLWJpUnhLeFNYeENQOVNVY09fbzF5Z3hhQ181T2J5WllDSkxsOHU0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T21:25:00+00:00"
+    },
+    {
+      "text": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 80 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQldSVzRUSldGOFFxMWdpb2FFdm9oZURyN1VNakRvcVpBVlA1QmJJT0E0RUJPOVYxRTc5NEkwZEk1b1Q1dGlIWGRFd1RxMEcyUWlXMngzYTJmQTVVd0tESmJJN2doOHFwYVlzcnpYaF93MUtseFR1dmpzQVRHdld0bnY5WHljRkdWWTdUUEVFbTBZeVZZUmlZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T20:52:00+00:00"
+    },
+    {
+      "text": "Doctors question evidence behind Pentagon plan for testosterone screening - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2tINkpGaVpTUGN0MDRDaEs3TmluR0dKaTEwYWZWX2Q2dXVCUDVGcXFKbUFUaHZqYTJwcVhuWG1iLU1obHp1OXhmc3RmLXpETzVaN0MyQWlhMDNzZUpZOWhsQzdRc0Fta29UTHZNbWxrOGpxSUVDLUtycDlVMnlwdlBTbXhTSVdneC04NzJueFM5cGMw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-18T20:43:00+00:00"
+    },
     {
       "text": "David Crowley reenters Wisconsin governor’s race with Evers endorsement - Politico",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVc4cXlpd2RGN0FWZmp0b3R3TFl5R1hGbDBrenZEUXFnbVJFTkhrUVJNcGY3Qk85S0U0WnlyNnUwUF9mUG5SZzFOT2MySV9TMl9PS1Njcm5pQnFhNzN6TjlWQUVNXzc4SEU0c0RzUDJ6MTFBNWVCaWZCRlpRYzJwTlFraEFvSUNxenB3SnEtNjNtci1qOVlwVlFKLXE1Z2R1WVJ2OEl4MkZOT1JOTncxLUtMVXNDaTRxQUREag?oc=5",
@@ -163,49 +199,13 @@
       "time": "2026-07-18T19:02:00+00:00"
     },
     {
-      "text": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T17:58:49+00:00"
-    },
-    {
-      "text": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
-      "url": "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html",
+      "text": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
+      "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-18T17:08:41+00:00"
-    },
-    {
-      "text": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-18T16:48:22+00:00"
-    },
-    {
-      "text": "Google is open-sourcing its 3D emoji - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85Q1BjS052a3NmQm0yZVFTV2s4cmN5TG41Wi1OaXdKLVRlN1NzenB2YkFob2tfU1g4RVFQa0tWWWNhRkxpZWhjd05QWUItV2Z5NXFtbk9iZkZBaFFWTTZVRG9JVHlVVFE4OUIwXzdzUER4NE53?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T16:40:55+00:00"
-    },
-    {
-      "text": "Tom Segura’s estranged wife, Christina Pazsitzky, breaks silence on their ‘really difficult’ split - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkxvRjFVdWs2eXJOS1NYYnYzZVVQclhHY2twN1lvaWtmMWlEVVFaUDFDOXAxY29mbWcyZmNJMjltVk95YkgtUldkeXZZQU1yekJMVjZmRVZiUFdaRjFRNTBsY1VxTkJLWXJJdmhsZDJpN08zZ2ZsRXMxN0x1cXZzV2t1LVd6Yk1qTGp0ckluSTRheXR1MVdUTGJOOTkxSXBZSXI1NkNtUDdIX3dFWENnZWhqMVQ1NUx1?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-18T16:04:00+00:00"
+      "time": "2026-07-18T18:03:18+00:00"
     }
   ]
 }
