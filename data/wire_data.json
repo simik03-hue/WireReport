@@ -1,102 +1,120 @@
 {
-  "generated_at": "2026-07-20T20:47:36.755910+00:00",
+  "generated_at": "2026-07-21T00:15:59.297624+00:00",
   "lead": {
-    "text": "Alphabet stock pops on report it's developing a more efficient AI chip",
-    "url": "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
-    "source": "CNBC",
+    "text": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+    "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-07-20T20:44:46+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-07-21T00:14:27+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "More Americans are taking out personal loans. Here's how to know if you should",
-      "url": "https://www.cnbc.com/select/is-a-personal-loan-a-good-idea/",
-      "source": "CNBC",
+      "text": "US military launches Iran strikes for 10th consecutive day",
+      "url": "https://thehill.com/newsletters/defense-national-security/5979563-us-military-strikes-iran-10th-day/",
+      "source": "The Hill",
       "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-21T00:11:54+00:00"
+    },
+    {
+      "text": "Trump imposes 50% tariff on Canadian imports",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-07-21T00:03:37+00:00"
+    },
+    {
+      "text": "New Boeing aircraft development hampered by backlog of existing orders, says CEO - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1ZkZDRXR0xCcWt1UXZ5UVZxRC1hZ1Rsb2lHcEI3Ql9BMmV1clgza0x3ZkxCNU9OYThlc2ptQk5GTXFBdk80cjZMTmh1WGhWbkRRdE5OQkNCQnY3SFBUVHZVSmRoTmM4c2JwUi1LcFFXVFlUdEJDbmdrZ3Z1Zm94VHA3VlZVWEx1WENKZDFKeGEwbGxubTBNcTVidHJFckVzWlF1Q2c1UVF5cUh1SVHSAbMBQVVfeXFMT2hDRnptUHozZTJ4ZWZZRG9pQmJyRlE4TVRWN3g1SU16ZkpNNDlRd0JOSTdiUlQxUXp1UDFhXzBYTExnUDlBVTBNYlByMkFzS2txbm9adDNGcktad3FZbHk2M1JJZ3hDOHF4NS1JdUN0WEk3NGo3a21lWTZPWjhQb3BJejU0cGNEamxSbnpsNkJDY2RocFRmSHQwNXlxQ2lqMVNCRjhleDc2OE1peGQ3RUJWVkE?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
       "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-20T20:44:35+00:00"
-    },
-    {
-      "text": "FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXgxNndmUjBPN3E0Vk8wTDZXZkFCUXNZdkhVY3VjOXhyQlNqTUFCaDBPQjRlbGFTM3pjZXpiMXpVOTUzQzFBQmFmUzV1eXlGVmNkMTNvS0tESUFoNmticHFnb3ZkbE5GbHNxdUp2bTRCdVBqSDlDUWs4eDBxd0I1TFFVRzdKOFprQVhsYUNCNm83UjBQZGFxVVo1ejJZT3U4QWE4ZHJpR201TGotZnl1dERFX3VyUi1mTEZZbGtsd1QyWVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T20:42:16+00:00"
-    },
-    {
-      "text": "US military says it’s carrying out its 10th consecutive night of strikes on Iran - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajNHTE9aUmxpa2RIMy1jNjZ4RmgzZlk2OXE3ZXBtRzdxaUpnQldzeUtxaHh6Z3VTQzZMUGNtZ1oxNE5lQzZwLVhnX3BTZWk1OVBVT1ZiNFFtMnoyRDhHbFBnV0pFdTdNcnBKdWVuT0RidVJoWXFCYkdlNDE2V1hmZ1VhUlZhLXExZTZjOHo1YmRYMm5ra1U4RE9DU29CMVU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T20:33:00+00:00"
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-07-20T23:39:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Iran War Updates: 3 U.S. troops killed, dozens wounded as repeat attacks on base in Jordan raise questions - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnl2blBxN3hkcHpRclhTUVh1aEtCSDRKcTBPQXV3UmZFTExfVnExVEcxTW5uZlVRcEQyZDg1MXJ4SXNVUTl6cEdjR2Fla1pRQ1dzSWhoa1dJSlVtell4TXZ2YXNGbFRYRXFsc3hReHJDS0d6V0Q4Yk9KdkRMTEJWVk1OTWR4QWJRVVEtTldRZjBkRGM?oc=5",
+      "text": "Pentagon Withheld Dozens of U.S. Military Injuries in Iran War - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeThlaHp1WlFJWWlZWmdKSUE1azhyc1dNZDlqQlFqd09VQXJ1RUlNLXF0OEJfeUhzdnZRYnl1REV5UjlUVmd5T2RKTFdnV3VCTlVGd3NzYTJTRkszMnhQUjY2SmdaSnBaSGFhU3V4bWo4dGlibHl3aUZ4c1g3a0NyRmxRMEp1VlNvekE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T20:32:00+00:00"
+      "time": "2026-07-20T23:26:16+00:00"
     },
     {
-      "text": "Wall Street holds steadier as AI stocks recover some of last week’s sharp losses - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORW43YVlhU1dNU0ZSTVNQc2tJRGpwLTNlY3FCcExTWDhOSWJ2ZC0tci10V0pYeUpMNTk5OFpReGVia2wzaHRqS09CNk56MkJzN3N2Nkk4UlNNVlFoamhFS0NrT3JjODhSRG9lSmdHRG5wald0UUtlTHpZRGlnWHJ6ZWthWnlKRkdTX0t3US1EejB1Rzg?oc=5",
+      "text": "Taylor Farms lettuce is still focus of cyclospora investigation despite false positive test, FDA says - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekpsZmx0WFE3NmM0b3JlZjB6UDFpS2VWY1p4SmZ6N0lYVWVqVTRkR0NuYXRGa2Rrd0ptN3dqZVVQNEF4UE8wNDZONmRJYUNLdUs4WWE1OGJQdkhIX3JtTlhrNy1LR3pQbE9EenJiLWp5ZmZRVmJ2Ym5QQTVVNUVYNHRn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T20:18:00+00:00"
+      "time": "2026-07-20T23:12:57+00:00"
     },
     {
-      "text": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
-      "url": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
+      "text": "Trump to Impose 50% Tariff on Many Canadian Goods",
+      "url": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T20:07:18+00:00"
+      "time": "2026-07-20T22:24:30+00:00"
     },
     {
-      "text": "Judge Tosses Justice Department Challenge to Minnesota Immigration Laws",
-      "url": "https://www.nytimes.com/2026/07/20/us/minnesota-immigration-lawsuit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T19:47:39+00:00"
-    },
-    {
-      "text": "Burnham’s Day 1 as Prime Minister: A Homeless Shelter, a Palace and Downing Street",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T19:35:10+00:00"
-    },
-    {
-      "text": "Darline Graham says she will run for a full term in Lindsey Graham’s Senate seat - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTlsZ25nNmRSQmhqNkduQkhZRGpHQ3NaZ0Ywa0VmOEdYQ2xPMXZBTmZVSFFSLXpNYkJPVGY0VlpCaEtZOF8wbElWdFZhQ1FsblkzWkFndmpocE1pNVBQUmgySzZxVC0wUEpBS1czWmtwVWpmMmNKSHJYRmxOQ2pGTlh1b1hpVkRyUmN4QUFMbTM5YzNrTjRaSVFVSFVuWTkyVXV0QmRtWG9Tdw?oc=5",
+      "text": "Douglas County officials report 'rapid' Cyclospora surge as Taco Bell emerges as top exposure - KETV",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmVuSjlRUjZ3cjFLMEo0SXNqNlRlYklKb0V6RXVzVFlTTzFiY3BYLV94QzBYcVJoY2gwQW53aHg3aXduM0tRWHN3S010WnBKa3J0ajdkTVJMU01WUmdPYllzY3dtRktOZVJfcDRXZHh1NnMtNnRiSEJFZW9VVzVaMTh1cGd5TlJ6ZHp0Zk1NWm9OcjVsV0tqQ19TZGgtNXNlcFE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T19:18:00+00:00"
+      "time": "2026-07-20T22:08:00+00:00"
+    },
+    {
+      "text": "Maine Democrats Are Replacing an Oysterman With a Lumberjack. It Might Just Work.",
+      "url": "https://www.nytimes.com/2026/07/20/opinion/troy-jackson-maine-democrats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-20T21:52:32+00:00"
+    },
+    {
+      "text": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-20T21:30:11+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "Trump to impose 50% tariffs on Canadian hockey sticks, milk, alcohol and other goods - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSS0ZQSHlWS2Zfd1h6Z3hJeDIwWk1NY1VxTTgybTlwS2NLV0FjS205OFRreDJZSTA0Vlh2RVlBS1lXSzFLbE03RW9TdWRIWVhlTWRHcUZQbXlyejdwZVpYdFQ2NDAtVTNmQmg2b2NvNW5jaEx3RVBmTW93?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-20T23:20:36+00:00"
+    },
+    {
+      "text": "Suspect in NYC Federal Plaza Attack Was Targeting ICE, Authorities Say",
+      "url": "https://www.nytimes.com/2026/07/20/nyregion/nyc-explosion-federal-plaza-manhattan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-20T23:03:31+00:00"
+    },
     {
       "text": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks - AP News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnQwZTRwYkFHa216RUhGUDBkaUVQQW8xeWk2S180OFo0ZUExYXJPcnZGUW5DQ21QSEpJRlQ1M05tcDNYZ2Z1MXRsNGRSbFFXREw1RWFUZGVhNnEtMnFBRlVsOGNvMk9Pd0NFM0hKRlkwWVhXNDRYY0U5bXd2QkZheTRfOUtLYi1kWXlvb3BsellRQQ?oc=5",
@@ -104,7 +122,16 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T20:29:00+00:00"
+      "time": "2026-07-20T22:19:00+00:00"
+    },
+    {
+      "text": "Trump Says Netanyahu Will Not Be Arrested in the U.S.",
+      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/israel-un-mamdani-netanyahu-arrest.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-20T22:06:47+00:00"
     },
     {
       "text": "Spain’s World Cup champions return home for royal welcome and parade in front of almost 2 million - AP News",
@@ -113,54 +140,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T20:18:00+00:00"
-    },
-    {
-      "text": "Army veteran arrested for setting off fireworks, igniting fire outside federal building in NYC, FBI says - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPekg5VU9RTVF6eDhXWDlTRXAwV2NuMmV2M2ozcldSUDBFZlJKc0MyLUlDYVI1cFd6RnZVbEhFd0E3TEktY1RnZ1pzZ1ZhM291cnpxSzF1RHJFWk03SnBiSDA2Y1dteno0Wmw3dklkcHV4YmVOT2tLajBGTEV5MURhOXlFWlR0c2NwT0dUYXVLRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T20:02:43+00:00"
-    },
-    {
-      "text": "I’m a Screenwriter. Hollywood Is in Trouble.",
-      "url": "https://www.nytimes.com/2026/07/20/opinion/paramount-warner-bros-merger-hollywood.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T19:44:56+00:00"
-    },
-    {
-      "text": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
-      "url": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T19:25:15+00:00"
-    },
-    {
-      "text": "How Google’s A.I. Search Is Imperiling the Open Web",
-      "url": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T19:06:27+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Suspect in NYC Federal Plaza Attack Was Targeting ICE, Authorities Say",
-      "url": "https://www.nytimes.com/2026/07/20/nyregion/nyc-explosion-federal-plaza-manhattan.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T20:19:32+00:00"
+      "time": "2026-07-20T21:51:00+00:00"
     },
     {
       "text": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
@@ -169,43 +149,63 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T20:07:45+00:00"
-    },
+      "time": "2026-07-20T21:26:50+00:00"
+    }
+  ],
+  "col3": [
     {
-      "text": "Despite ‘False Positive’ Test, Taylor Farms Is Still Focus of Cyclospora Investigation",
-      "url": "https://www.nytimes.com/2026/07/20/well/eat/cyclospora-false-positive-lettuce-taylor-farms-fda.html",
+      "text": "How Trump’s Immigration Crackdown Is Hurting Elder Care",
+      "url": "https://www.nytimes.com/2026/07/20/us/immigration-trump-senior-living-staffing.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T19:57:01+00:00"
+      "time": "2026-07-20T23:13:53+00:00"
     },
     {
-      "text": "Michigan athletic director Warde Manuel stepping down at end of year - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOHgzZzZFQ3RSalpiZWJjNzJ2Vjc5RHo2OWVCYU55MmxKYktwN3AwdGdLVGo2TGRGazZ0UlpfaFhKRXdGQ1F4azM3eHdjTXRjeHpCNGhBc1NBZTJpNEpXWHEwT1pSMXBwbjhsOUpaTExMaVNUa2k1ZzdMV0xIUmFaOWtSUGx4Y3BlaVRRTjhvYlM0YlBVMERwQjZDX0tXcnd6dERaRC1qV1RyZEVscWdoUUFMeTdFajY3Y0ZvMkwwY1JfOVlVTHRTbklFazc5Q2RhaGNyazV3aEQySy1US203Qi0zYy1MQ285MFZMclFtMExxTTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T19:40:00+00:00"
-    },
-    {
-      "text": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
+      "text": "Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/arizona-house-primary-lamb.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-20T19:24:33+00:00"
+      "time": "2026-07-20T22:28:12+00:00"
     },
     {
-      "text": "Tate brothers fight extradition to UK over rape and sex-trafficking charges - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdC1VdS1FRUw0WGtqZXhaRndyWmkxTmx0aU5zdDkzMEItTEYzcnJFd2ZYN0VYX2V3THRDanF1bWVsMm55RndkS0Q0c0ZjUlpLeXVzS0FPblJ6b2FIZ3UxaVIzNFRWU2JoU09LbnJGeUp3TndQZXl2dTZkQ1hyWmZYM0RhbHZ6aHk3QWx3UkE3M2tTcTQ2RnJSWQ?oc=5",
+      "text": "‘I’ve Been Scammed Left and Right’: Demand for ‘Odyssey’ Tickets Gives Rise to Sketchy Scalpers - Variety",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOal9EMmY2bmQyanlhQWR3Y0JhR2h1bTVuUllXSDAzRDM0Z0daZk5aSmpTSjFCTjc4QmR1cnljT0lETHpQVUdGejdFSHFaLUwxUXhoX2g3dExqVk1HdExjd2VIbzVtTGI3LUtMZjlnMmlmMXVmNjRaUVpjdEExbkpOcHU4X19hdFlYTHR5NzdRQUZ0Z0Z4bWl3WA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-20T19:01:00+00:00"
+      "time": "2026-07-20T22:09:00+00:00"
+    },
+    {
+      "text": "Exclusive | Icahn to Sell Auto-Service Chain Pep Boys to Mavis for $700 Million - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTk9pTmc1ZkNRTW5GcTdnVHBta1J4cWFfcEEyT2xCdTNSTmFBUXBBZEJGNlV6dlJ1OFpxZWRpZWVjaWRoUVpDZ2V1dDgxdFQyRGk5THZjWWV4VThxT2VydlY4RV9sVkNNMkZoSGNHa1lXdXR6NzhibmxFWFRqa2V0U1FOVHpLM1RGanNFWWlFNndXcnVJN3kxajJxTnBUc2dHZElneC1hN2d5QmlzcW80?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-20T22:02:00+00:00"
+    },
+    {
+      "text": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-20T21:43:14+00:00"
+    },
+    {
+      "text": "I’m a Screenwriter. Hollywood Is in Trouble.",
+      "url": "https://www.nytimes.com/2026/07/20/opinion/paramount-warner-bros-merger-hollywood.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-20T21:26:14+00:00"
     }
   ]
 }
