@@ -1,158 +1,167 @@
 {
-  "generated_at": "2026-07-22T00:10:06.373457+00:00",
+  "generated_at": "2026-07-22T09:38:15.716749+00:00",
   "lead": {
-    "text": "Zelensky sacks Ukraine's top army commander after days of protests",
-    "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks",
+    "url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-07-21T23:59:34+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-22T09:03:35+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Japan exports and imports grow at fastest pace since November 2022, beating estimates",
-      "url": "https://www.cnbc.com/2026/07/22/japan-june-exports-trade-data.html",
+      "text": "Joe McCarthy Lives!",
+      "url": "https://www.nytimes.com/2026/07/22/opinion/trump-red-scare-midterms.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-22T09:02:39+00:00"
+    },
+    {
+      "text": "Citizens United provision allowing foreign campaign contributions draws Democratic bill",
+      "url": "https://www.cnbc.com/2026/07/22/citizens-united-foreign-campaign-contributions-raskin-whitehouse-bill.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-21T23:56:16+00:00"
+      "time": "2026-07-22T09:00:02+00:00"
     },
     {
-      "text": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
-      "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T23:50:59+00:00"
-    },
-    {
-      "text": "U.S. soldier killed in Iraq during controlled explosion of Iranian drone named as Sgt. Michael Emmanuel Swinton - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWd4aUdZSVI3NVVxZ0s3TWR4SkVCcW1aQnphLThiNHQ3UlV0SkRqWjFUVVdRcy1FT0xyYVRDVVkyeFRSTS14SWxzRzlSa3QtQ1hYaHRkOU9hZld4ejFWMVh1UF9GUElndDFpT2pDcDZDTG55Nm9VTWNOUjdGaWtlTWZGXzVwZXI5bDJoZDNJVzhKbmtjZ0FjRzdMaEZkcTByT2xEMmJSR1YwSjkwbzZYdFpvWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T23:42:14+00:00"
+      "text": "Kalshi launches election hub for prediction markets ahead of midterms",
+      "url": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-22T09:00:02+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T23:39:36+00:00"
-    },
-    {
-      "text": "A Family’s Daring Escape From North Korea",
-      "url": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T23:03:28+00:00"
-    },
-    {
-      "text": "Tornado Watch Issued for New York and Other Northeast Areas as Storms Bring Heavy Rain and Winds",
-      "url": "https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T22:45:22+00:00"
-    },
-    {
-      "text": "Live updates: Hegseth says Iran war cost $37.5 billion so far as administration seeks more funding - CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WYjgtQWNmYVdvQVhUMnhaNHpfUVVfalROWG9wTnlxNi14aV9WTkFYWG5fU2NFQmY0aFRQbm5CWlFSQVBld0xiRGNoOUpWbldSeUxYTFdpQWw4a2RRX3dlNFN0RGRjdHNuUEY1b0pxY3lZY1E?oc=5",
+      "text": "US attacks Iran for 11th consecutive night - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVG9iYmRIcFFxcEZhd1dOd1VXdFlmRFozbWFuMWR1YVptOG03UUk2VkdhcEdLN29PUENuSUZMeDNNNVdHb1FEcGF6RVFPU1NabWx2QWRWcEFqQm5FQ2t4YUhlODAtOFo4dVhUUGZnZW1RNWRtUGVTNE5PTkZjTGNlbWJqejJCajV6VWl3NXV2SdIBlAFBVV95cUxOX1J5QUlCV1Y1aXAycjhJT3gtMFVQZDAtdE1JT0FpSlEtNlJzN2JfaTFCMDR6UGZMcEk0bVdFZ2VsejlhRlhiWnpsdVQ3WTVmOHZOSllmY192Z1VvSzgwWUlDOWY2MGhZbkF6Q2lhemFnRXU4dUNBdUFfdWNVc2dPVmhmckJDM1BIbVR2eVFrejQ2NWZF?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T22:13:00+00:00"
+      "time": "2026-07-22T08:06:51+00:00"
     },
     {
-      "text": "Meet Jimothy, the Seattle Raccoon Who Is Taking Over the Internet",
-      "url": "https://www.nytimes.com/2026/07/21/style/jimothy-raccoon-seattle-videos.html",
+      "text": "Tropical Storm Bertha impacting northern Gulf Coast. See forecast map and its path. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpdkY4eV9OWmJUWmdkUU5CUUszTUI0SGhLdldXV3BZQnZQZ01qb0ItbkMzbURheTJiM1o1LXhPb0gyVWNIYktrcl9LX0thNm9DRFlQMEJsWVUzNEVsMmRaM01VWUR2cldCREsxbWZoQVZTNy05MG91SDExblA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-22T06:43:00+00:00"
+    },
+    {
+      "text": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T21:52:56+00:00"
+      "time": "2026-07-22T06:03:38+00:00"
     },
     {
-      "text": "Troy Jackson Tightens Hold on Democratic Senate Nomination in Maine",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html",
+      "text": "Hollywood star Rebel Wilson wins defamation case brought by young actress - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeFhlelYtOGFzYmY4amlfeFB5c1g4TjVmQ043NDUxcTlIRXRJVTB2ZVZHZGFLUW1zQjJyMTNuekczeUFxRzNuYU5mbUdQbXBOZ1dqVjlqcTVFZGVpdlRiUW9HRktvaU5hN25oYTBvdFZzR0M4ajYxMExMc2pWWFRlQnpzRGFvYU90OEYw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-22T04:25:57+00:00"
+    },
+    {
+      "text": "Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRE1SN1NHbnFiMTh1SFd6LXRVY2dhWjRTUEZJNnhNTVlTc1FDMmRLWkNaaXJCUmFGa1VDR0N1YWRIcHRlZEZHMWVadmVSMmFNWGFwQXFCa0NiOU90VGFubEcwd1FrdE9JOE9sWl9sWTYyeC1oSG9BWlZseHZiY1NiLVJTODJKeEREcWF3eDM1VmgyQlpieEwyMlRmT0ViSFE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-22T04:05:55+00:00"
+    },
+    {
+      "text": "Election Denier Wins G.O.P. Nomination to Be Arizona’s Top Election Official",
+      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T21:42:09+00:00"
+      "time": "2026-07-22T03:22:21+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Cyclospora Cases in the U.S. Hit Record High",
-      "url": "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html",
+      "text": "Little Fire: Firefighter injured, evacuations ordered as wildfire explodes to 1007 acres near Pleasanton in Alameda County - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUV5YW5QaVpMZ09qWEtBZGRadEdwbXoxUllSYkF3MVVVWTlSd2hqTDh1QkhnM0Z2UFk3Vzl3NU1vWFJCVk5pQlNwS1JIRjE4dllCbUVxTDdkMUJ1YUNrMFd1LUNtUWF2VXdQckpmSGtqbjVYSjBnMWRnVUxkUndyX1BnRVVlcWtPUmFVcWlxOEFISlEtQ1RFZHVqM0N0VXd0c1JpNElCSEJCYl9jcFVF0gG0AUFVX3lxTFBGbkloSFhGTVpGR2lZM3IwN0ZGQk5yc3BZNXJJUTNpdmtKc29QVWMzOWZlN21HQXQ0cXVBOVNrWkVVWE5sVkJRTWpOQ3c1MlpqVUx2UFhkdWVrak9NdS1nQzRwOFhZNEtRU19WSGRNWXJVMEJ1cjdNbW9pWExuOFFjdEc3LUZfSHRlYXA0eGd4RFZZNHpObGh0LWRvUUZGWnZTTzBmWmVPeFNLTEk0c21lQ0tJNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-22T07:16:57+00:00"
+    },
+    {
+      "text": "Samsung Galaxy Unpacked Live: Z Fold 8, Z Flip 8 Expected - CNET",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTl6bk5VWU02b3RRNjNMZlg1ek9NV3FXX2w1THZ1eUNhQnlwUDJPSUZWSFRNSmVHVTFTX1RkSWRZVVdLcnJZQlVUWXBLdTFjdVFUZ3NfNzhqVS1uX2k0QTR4ZVZFNWU1ZGhDZG9sTkFqM1JJaU5vSjVUWkdsaGxEWmEtZW43WkpLVV9yZmJ6WEd4UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-22T06:27:45+00:00"
+    },
+    {
+      "text": "‘The Daily Show’ Tackles Trump’s Latest Move in His ‘War on Canada’",
+      "url": "https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T23:30:24+00:00"
+      "time": "2026-07-22T06:02:28+00:00"
     },
     {
-      "text": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzhOY2FHNFU5M2daTVBxNXJBWU9nR2NpcjlMekpFYWJfdTVNV3NybEJDMFA5c0tudVhzMkdaTXRzY2hPQmx0UzdBa1BRQVNaWDNuemNsSFJrSG41eVZQYWNlOG5Qc0M0S0lvQUc4S2RNODBySW5NeXg5M2Z6WEw5alFzSDFvS3FoQl9HNDFUQXRBcnI2U2gwS0xwYVlWRUs0NnhsTzZWTzJUS0dHTG5yMGNMV3g3VzUyODJLTlUxVnY?oc=5",
+      "text": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEZSWUM1OVg0aXp4TlozWktBWHBrZ2hXcDFRM3VTc3ZJMTVfVGJjV0dRWnhIU0d5SU9fVlpKVmFvYXdHd2hHNTZwUjIyUkhXMzFDUFdLV21JQkM2dDFkZFpPS2NOS3p1Nk1henN5cFFiSUVtTkVUM3RBUy1MTTc4QTV3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T22:56:00+00:00"
+      "time": "2026-07-22T04:18:00+00:00"
     },
     {
-      "text": "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’ - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb25yM0pqQi1FREpSajJzRkpsdkZReVczeWcwTDNHM0tRX1l4eDRhYnNMSDlWcC04eUFhZDQ4LVpTYldXdWtGNlV5UjRIVkpiM2FCNkhpN2xObllKN0hmTXh0em1nX3R6dklyUTFzTE1lYWpUU2JzRHplOC1idDBNWDl0TW5ITU9MSGRBbDZ4MTBoVVd5V0drRGhTQ1NicTFnaF9IVFh2MkU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T22:43:11+00:00"
-    },
-    {
-      "text": "Zelensky Removes Ukraine’s Top General",
-      "url": "https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html",
+      "text": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T22:01:29+00:00"
+      "time": "2026-07-22T03:49:08+00:00"
     },
     {
-      "text": "Caitlin Clark declines WNBA 3-Point Contest invitation, dealing major blow to All-Star Weekend and ESPN - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGtaMFpOWFBWUmNzYjJhWXp3cTVRSHlISlpxa2JqQzBQZi1tX1p0dWtSV0lfcElpamRqYjBVY3cyUzNPMnJJMjctUXVTUXpiemFBa1hYREMzdjNOU2k5OUZZMFlmcG9Ddk1DcnRCMVBwejQ1SWYxbU41aFJ3QTExcGZjRUh1NkxCMEdSZlhTeDBEdWRRMk1lUklOSmJNMHpXUEVNVkhscy1feVl1dWtQUlN4WGJHeV93Y3lqMHFrSUhwMkhJdHAwbVJxSmRvcmc?oc=5",
+      "text": "Rubio says US still willing to negotiate over Iran crisis - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T21:46:18+00:00"
-    },
-    {
-      "text": "Apple Upgrade program is coming next week with up to 36-month payment plans - GSMArena.com news - GSMArena.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUZvc3ZaaTlmWGhKMXN6ekxzSkVCdVZnc1ZrQ3RPdkd5blpENHdzNXZhcTBpaC1tc0lpaW1pNENYLUk3M3NFMXNlTG1xd3BnOE0yQVQxd1RTSVpWSEE3ZjJnd09qRlh0a21iczhRT0loSGJNZmhwZFR3R2Mzd21nUDkzMHN2M1ZjS0s5RUFMcTRuaUE5Q2EyQXhEbGxrMUVaYWlBQkIxX2lpQklWZFFncUFPZFDSAbABQVVfeXFMTmIydUVZQlNkamFBcHJTWmswTzE4bGdPYVRtRVFfSWliSUNkQzVIWm5HWW83NHFYU3NKcl9YWDZldTN2RVR5QmtoUk5FX0pPMUFjNzYzLWN3dXlFYWtVMDFzUS0xQXRUVzFRRkZOWHl2anNhUERpdUZmUzBvUjVBVHV5QkQySlVjWlA3VkE4ZWgtNXZ4S09lZmlMdFdDdjhScnpEZGdHUzB1UllMbDdfSXU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T21:41:02+00:00"
+      "time": "2026-07-22T03:21:00+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "Stock futures fall as investors gear up for more earnings: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnWVpRdDA3N19hRFZ5YXlwMFpUSV9YSFoySmxBZ0hpd3hwSjA5RVBxYzRLeHpnaVRIMG5kRXRQQy1vRzVobFNNOWZEVkw5Q0ZMNUlzek1tLXdIeEtXdUI3dmtUMjhOaUo3dzB4UWdMNi1ubE9YUXQ40gF8QVVfeXFMTm5PVndmalk3d08zMTFyTGxydGJRM0pnUmVhcGxFNkZoYWNEaDVqQ2lxRjlXLXJGSndsUjFKWlV2N09sQWVpRmR2cmIyODB3YjdVY2JBUHpHWGJ5ejRMM2stZ0RyT3NYWkNleF9MMXRmOXNtaDM3TkdXMWJVcw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-22T07:13:00+00:00"
+    },
     {
       "text": "U.S. measles cases hit 35-year record with months left in 2026 - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHA1ZlpjRnE2SEl5MHRKZlhTMy1aN0lRT1lKZ240bUt1YkJxLXN6WVN5OTBXa2lCSU9kU1JRQXFodWlDVGJwY1NhenZCcGVrMzlDY1VaMWNPeEc2QnBqQ1lxdFBfQXJWQWlYVFFhWnZwM3VYM25zWG1oV2JlZUk3aU01eDBVWFNiLUF1TVN4RS0tZzNJNDQxNkVVLWQ4QTc1WUlIdGJFRDNYR00?oc=5",
@@ -160,52 +169,43 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T23:29:54+00:00"
+      "time": "2026-07-22T06:18:37+00:00"
     },
     {
-      "text": "OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJYX1FDR1FiaU5Nblc3ellkQXd0Y1NvcnpVYlNudE5GSEt3UmZDU09zeFVJMWM5VXBMb1ZScEgyS1BWUEdXREJKSUozMHFGUURBdVZYc2dZb0FucTBBWlRJMkdRbUMtMmJnR095d1RwUEh0YlZrQkN0VkZYTlVabXZrOFZKUS1LNXB4a2pR?oc=5",
+      "text": "House passes bill to fund the government until after midterm elections - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWlQUDM0cHN3N0R2bUpZZ21sMEtXa1ZHVVpKVjJkeWJVMDlPc3daV1ZQV0Z1Um10NUZhVUZNd3NPTTBfanJSeVhHdm1IU2ZMS29zWEtJamJOUV9OZnBGZE9wV2lxWGJ5V2c3bGNZa1EtR1FjRzlYcFVMd3hiS3RURFdsNU9Tc3JHLWRoZGhVQWtDb0tOY3lyRzktb0lRZVppZGpxQng3eWJ0dXFuMmgyQ3hMRC11UQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T22:50:00+00:00"
+      "time": "2026-07-22T05:18:00+00:00"
     },
     {
-      "text": "Error Led to 400 Noncitizens Voting, New Jersey Governor Says",
-      "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html",
+      "text": "Heat say link for LeBron James presser posted by mistake - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGFjQnMzV2NLSjBKek1vVFlxOVd1RmUycTdMbFYweUQyYzd5NDllQ25ZdnlONmNqMDI5NXFnMVN0V1lMT0ZlVDJkS2I5bkpMYzBHSmJUbUJSUGtyMU1YbDBRSmZKVFRFMUxWandPTGlnZGdBTTRKX0J5TkZEWm9lNllwOUVsT3RTS0NBSlJPMEVCUlVJUmZZTi13?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-22T04:15:00+00:00"
+    },
+    {
+      "text": "Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T22:31:57+00:00"
+      "time": "2026-07-22T03:44:50+00:00"
     },
     {
-      "text": "6,600 noncitizens were registered to vote in N.J. because of a ‘software error,’ governor says - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlZ2aC14cERXTThqa0I5YVZFT0JXT196VUdtWmZKTVgzZEZEa2s5VEpiUFYxSWp5U1hFVVZTelRsejNQRXZXcGpvbkhPWDFyMjRaWnlzUUJ5ejRGSEZWZWp6eDV4Ri1taWVmRy00QVZUQmEyc2ZzUTJlM2FKdWNQNXJDOFVXNnd6NUg5WE1ZbWxXdjVHTkxIMHBDNlJWWnFWaDhjS28wNGxQNm5ncUlobE85clFQWmlON05kSURsaw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T21:56:50+00:00"
-    },
-    {
-      "text": "Child actor Kaylee Hottle killed in car crash - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1ZDWVJCT3pxMjZxMGFBNlRTRmJjMFpjbHVxMDlSYmJ2anV2RTBtRHhhS3BYWmZjSmhyVXlsdl9OS3VXRGFKUFByeE1Ld1NqV05OelZyOXdBY05MM0JWNGloeFZMMm5WZkpLMF9YOG95ZTA0VV9XVTRXSmloU25zUURReWdYZUg1bFBDRVNkWGdHVmJINm13YzQyLTFQWkpvVHRUT25wZVprQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T21:45:27+00:00"
-    },
-    {
-      "text": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
+      "text": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T21:31:12+00:00"
+      "time": "2026-07-22T03:10:17+00:00"
     }
   ]
 }
