@@ -1,81 +1,81 @@
 {
-  "generated_at": "2026-07-21T20:45:35.511507+00:00",
+  "generated_at": "2026-07-22T00:10:06.373457+00:00",
   "lead": {
-    "text": "Zelensky Dismisses Ukraine’s Top General After Protests",
-    "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-07-21T20:43:45+00:00",
+    "text": "Zelensky sacks Ukraine's top army commander after days of protests",
+    "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-07-21T23:59:34+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "US passport, once most powerful in the world, plummets in global ranking",
-      "url": "https://thehill.com/policy/international/5981759-us-passport-rankings-drop/",
-      "source": "The Hill",
+      "text": "Japan exports and imports grow at fastest pace since November 2022, beating estimates",
+      "url": "https://www.cnbc.com/2026/07/22/japan-june-exports-trade-data.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-21T20:40:58+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-21T23:56:16+00:00"
     },
     {
-      "text": "Trump blames Canada for wildfires, but scientists point to climate change",
-      "url": "https://thehill.com/policy/energy-environment/5981743-trump-canada-wildfires-tariffs/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-21T20:40:14+00:00"
-    },
-    {
-      "text": "Trump, Netanyahu and Putin Have All Blundered Into Dead-End Wars",
-      "url": "https://www.nytimes.com/2026/07/21/opinion/trump-netanyahu-putin-war.html",
+      "text": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+      "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T20:37:50+00:00"
+      "time": "2026-07-21T23:50:59+00:00"
+    },
+    {
+      "text": "U.S. soldier killed in Iraq during controlled explosion of Iranian drone named as Sgt. Michael Emmanuel Swinton - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWd4aUdZSVI3NVVxZ0s3TWR4SkVCcW1aQnphLThiNHQ3UlV0SkRqWjFUVVdRcy1FT0xyYVRDVVkyeFRSTS14SWxzRzlSa3QtQ1hYaHRkOU9hZld4ejFWMVh1UF9GUElndDFpT2pDcDZDTG55Nm9VTWNOUjdGaWtlTWZGXzVwZXI5bDJoZDNJVzhKbmtjZ0FjRzdMaEZkcTByT2xEMmJSR1YwSjkwbzZYdFpvWQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-21T23:42:14+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
-      "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html",
+      "text": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T20:25:29+00:00"
+      "time": "2026-07-21T23:39:36+00:00"
     },
     {
-      "text": "D4vd murder case: Prosecutors reveal gruesome photos of teen girl’s dismembered body - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmY5N3VFSnhydHI0ZE8yc3Q2QU1zdG1QYjY3V1hMRW56aS14XzNublYzcVNnYkdLOEFTU2MxdWY1Slo5eXIzb21IUXVpUllxZzZRaFBzSHIxanlxOGR0S19ORXRNcjFUbXRIRkNNZUhFUkFGa2FFbFdTcmFRNzg3VlNPaG1aOUxIUjl0dU1KdTdrSzdHZTFtblV2MDY5NGJkeWpkSHcyX3p1SjJVdmc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T20:15:00+00:00"
-    },
-    {
-      "text": "The Pentagon, sinking billions into Iran war, is quickly running short on cash - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0liS1RON3lYeXZ3SFdEejJMQXEzYTVHb29mTnJHWXVhRmZTZkxzcnh3dElKRmdCUmxTR3RXYjhERm1IeklUYndfTWdnYVgyTXNYcjlMSjBtNUgxb3kyUDdoeXpwdzl1UkxRWm5PWEZfdkZ2UHlLd2NfVDd5aTY3QXRiTUZFV0U4aDB1RldrZXFJaG82eGtPaGZ4dENNM1lTQ2J5SmV0QlBCc1Ntb0Fmb0lGUFRmdzB0UzViUkVKRi1oaVJY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T20:06:32+00:00"
-    },
-    {
-      "text": "Google Releases Three New Gemini A.I. Models",
-      "url": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
+      "text": "A Family’s Daring Escape From North Korea",
+      "url": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T19:38:58+00:00"
+      "time": "2026-07-21T23:03:28+00:00"
+    },
+    {
+      "text": "Tornado Watch Issued for New York and Other Northeast Areas as Storms Bring Heavy Rain and Winds",
+      "url": "https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-21T22:45:22+00:00"
+    },
+    {
+      "text": "Live updates: Hegseth says Iran war cost $37.5 billion so far as administration seeks more funding - CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WYjgtQWNmYVdvQVhUMnhaNHpfUVVfalROWG9wTnlxNi14aV9WTkFYWG5fU2NFQmY0aFRQbm5CWlFSQVBld0xiRGNoOUpWbldSeUxYTFdpQWw4a2RRX3dlNFN0RGRjdHNuUEY1b0pxY3lZY1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-21T22:13:00+00:00"
     },
     {
       "text": "Meet Jimothy, the Seattle Raccoon Who Is Taking Over the Internet",
@@ -84,27 +84,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T19:16:17+00:00"
-    },
-    {
-      "text": "‘Too Rare to Care’? A New Center for Rare Diseases Hopes to Change That",
-      "url": "https://www.nytimes.com/2026/07/21/health/gene-therapy-rare-diseases-epilepsy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T18:52:06+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9uMU51VFFmNFk1emNfOGZYdkhOcXVSWExZOE9JYVBFczA3OXhtdGhrQ2JtNEpqSVVzRG5tbnFYNVh5OXRUVFF3SE5pQl9SWmx1TUJWQ1luanBOb0JULWtOMGk5WS02eUg1X2FmVTBPQmktaTd2c1JnbXRaNnNIRlhFVFBBUTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T20:25:00+00:00"
+      "time": "2026-07-21T21:52:56+00:00"
     },
     {
       "text": "Troy Jackson Tightens Hold on Democratic Senate Nomination in Maine",
@@ -113,54 +93,92 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T20:10:13+00:00"
-    },
+      "time": "2026-07-21T21:42:09+00:00"
+    }
+  ],
+  "col2": [
     {
-      "text": "South Carolina Senate poll shows surprising frontrunner: Trey Gowdy - Politico",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVG1jbzdvT1VjY3JkazVTamdaVmRQdjl2Z2o4dF9WMXJNWm5YVzF3a1MtYzhvM0xkXzhEMENPOUU5WEN6dktpV09pWU43SlJrbklKMlZTZ0RUVnZDbWt3SnZzandIakVvdmZCOEZtZXZWcDRGaWo2cVJmbXZLZ0tNa1czOXQyODcwazJXMFYtdVE3dUdsZUh6Q2x3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T19:47:00+00:00"
-    },
-    {
-      "text": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
+      "text": "Cyclospora Cases in the U.S. Hit Record High",
+      "url": "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T19:35:16+00:00"
+      "time": "2026-07-21T23:30:24+00:00"
     },
     {
-      "text": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnJ0Q2x1Wmtoa1FXcjI1RjZwUU5FclB4Q0VST1NfVUZpdHFvUHF5UUpTRkhiclhBakRJY3VKRFhIclZFTnhLcUN3NFVCdm1BTlVBU2JNYVVLaERfYUJaOGFrVEtaTTdxSHFWRU5PX25WS0NjX0ZaRklIQktDbWVRLWNMTjdCbDJ5SEZFektfMDF6ci1aOGtZU3BmNFZMaDdyV1hrRjhYTXMtVTY4dE1KbQ?oc=5",
+      "text": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzhOY2FHNFU5M2daTVBxNXJBWU9nR2NpcjlMekpFYWJfdTVNV3NybEJDMFA5c0tudVhzMkdaTXRzY2hPQmx0UzdBa1BRQVNaWDNuemNsSFJrSG41eVZQYWNlOG5Qc0M0S0lvQUc4S2RNODBySW5NeXg5M2Z6WEw5alFzSDFvS3FoQl9HNDFUQXRBcnI2U2gwS0xwYVlWRUs0NnhsTzZWTzJUS0dHTG5yMGNMV3g3VzUyODJLTlUxVnY?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T19:02:39+00:00"
+      "time": "2026-07-21T22:56:00+00:00"
     },
     {
-      "text": "Samsung Galaxy Unpacked Live: Z Fold 8, Z Flip 8 Expected - CNET",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTl6bk5VWU02b3RRNjNMZlg1ek9NV3FXX2w1THZ1eUNhQnlwUDJPSUZWSFRNSmVHVTFTX1RkSWRZVVdLcnJZQlVUWXBLdTFjdVFUZ3NfNzhqVS1uX2k0QTR4ZVZFNWU1ZGhDZG9sTkFqM1JJaU5vSjVUWkdsaGxEWmEtZW43WkpLVV9yZmJ6WEd4UQ?oc=5",
+      "text": "Lizzo Is ‘That Grrrl’ In ‘Sports Illustrated’ Swimsuit Cover Debut: ‘My Newest Fantasy Is Feeling Good in My Body & Enjoying My Life’ - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb25yM0pqQi1FREpSajJzRkpsdkZReVczeWcwTDNHM0tRX1l4eDRhYnNMSDlWcC04eUFhZDQ4LVpTYldXdWtGNlV5UjRIVkpiM2FCNkhpN2xObllKN0hmTXh0em1nX3R6dklyUTFzTE1lYWpUU2JzRHplOC1idDBNWDl0TW5ITU9MSGRBbDZ4MTBoVVd5V0drRGhTQ1NicTFnaF9IVFh2MkU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T18:49:51+00:00"
+      "time": "2026-07-21T22:43:11+00:00"
+    },
+    {
+      "text": "Zelensky Removes Ukraine’s Top General",
+      "url": "https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-21T22:01:29+00:00"
+    },
+    {
+      "text": "Caitlin Clark declines WNBA 3-Point Contest invitation, dealing major blow to All-Star Weekend and ESPN - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGtaMFpOWFBWUmNzYjJhWXp3cTVRSHlISlpxa2JqQzBQZi1tX1p0dWtSV0lfcElpamRqYjBVY3cyUzNPMnJJMjctUXVTUXpiemFBa1hYREMzdjNOU2k5OUZZMFlmcG9Ddk1DcnRCMVBwejQ1SWYxbU41aFJ3QTExcGZjRUh1NkxCMEdSZlhTeDBEdWRRMk1lUklOSmJNMHpXUEVNVkhscy1feVl1dWtQUlN4WGJHeV93Y3lqMHFrSUhwMkhJdHAwbVJxSmRvcmc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-21T21:46:18+00:00"
+    },
+    {
+      "text": "Apple Upgrade program is coming next week with up to 36-month payment plans - GSMArena.com news - GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUZvc3ZaaTlmWGhKMXN6ekxzSkVCdVZnc1ZrQ3RPdkd5blpENHdzNXZhcTBpaC1tc0lpaW1pNENYLUk3M3NFMXNlTG1xd3BnOE0yQVQxd1RTSVpWSEE3ZjJnd09qRlh0a21iczhRT0loSGJNZmhwZFR3R2Mzd21nUDkzMHN2M1ZjS0s5RUFMcTRuaUE5Q2EyQXhEbGxrMUVaYWlBQkIxX2lpQklWZFFncUFPZFDSAbABQVVfeXFMTmIydUVZQlNkamFBcHJTWmswTzE4bGdPYVRtRVFfSWliSUNkQzVIWm5HWW83NHFYU3NKcl9YWDZldTN2RVR5QmtoUk5FX0pPMUFjNzYzLWN3dXlFYWtVMDFzUS0xQXRUVzFRRkZOWHl2anNhUERpdUZmUzBvUjVBVHV5QkQySlVjWlA3VkE4ZWgtNXZ4S09lZmlMdFdDdjhScnpEZGdHUzB1UllMbDdfSXU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-21T21:41:02+00:00"
     }
   ],
   "col3": [
     {
-      "text": "'Godzilla' actress Kaylee Hottle dies in Frederick County crash - WBAL-TV",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GUlZxM3BUSG5zUndpYjQ3a0RCdHh1a0dFRzRXNHVGb2FnTGJsMnJ3ZGVER0pwUnZvcGt1V0dvNWRjaGxtdXJYZVF5dEl4b2tOXzQ1dmlFcDFLMEpWeWZMRHIxWHgxdG02TUgybnpER1NvUnROWDl0WlNkOUJBdw?oc=5",
+      "text": "U.S. measles cases hit 35-year record with months left in 2026 - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHA1ZlpjRnE2SEl5MHRKZlhTMy1aN0lRT1lKZ240bUt1YkJxLXN6WVN5OTBXa2lCSU9kU1JRQXFodWlDVGJwY1NhenZCcGVrMzlDY1VaMWNPeEc2QnBqQ1lxdFBfQXJWQWlYVFFhWnZwM3VYM25zWG1oV2JlZUk3aU01eDBVWFNiLUF1TVN4RS0tZzNJNDQxNkVVLWQ4QTc1WUlIdGJFRDNYR00?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T20:16:00+00:00"
+      "time": "2026-07-21T23:29:54+00:00"
+    },
+    {
+      "text": "OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJYX1FDR1FiaU5Nblc3ellkQXd0Y1NvcnpVYlNudE5GSEt3UmZDU09zeFVJMWM5VXBMb1ZScEgyS1BWUEdXREJKSUozMHFGUURBdVZYc2dZb0FucTBBWlRJMkdRbUMtMmJnR095d1RwUEh0YlZrQkN0VkZYTlVabXZrOFZKUS1LNXB4a2pR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-21T22:50:00+00:00"
+    },
+    {
+      "text": "Error Led to 400 Noncitizens Voting, New Jersey Governor Says",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-21T22:31:57+00:00"
     },
     {
       "text": "6,600 noncitizens were registered to vote in N.J. because of a ‘software error,’ governor says - NBC News",
@@ -169,43 +187,25 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T20:07:00+00:00"
+      "time": "2026-07-21T21:56:50+00:00"
     },
     {
-      "text": "Zelenskyy replaces top Ukraine general in biggest military shake-up since 2024 - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM245Yk5ZN1RYRDRpZk5hZk40WWtUZVNMOWhxaW50cmlkQTZHYjRqcjFEU1o4NlRJSUhLZWxDX3NabWxiamtmNWllSGY0Zk5qekJ0R3l6cUduQVdUa1J6dHc4V1pzajloVkI1bDhiaGNHNEtqYk15dXlhblFzNHlFSDJBekY?oc=5",
+      "text": "Child actor Kaylee Hottle killed in car crash - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1ZDWVJCT3pxMjZxMGFBNlRTRmJjMFpjbHVxMDlSYmJ2anV2RTBtRHhhS3BYWmZjSmhyVXlsdl9OS3VXRGFKUFByeE1Ld1NqV05OelZyOXdBY05MM0JWNGloeFZMMm5WZkpLMF9YOG95ZTA0VV9XVTRXSmloU25zUURReWdYZUg1bFBDRVNkWGdHVmJINm13YzQyLTFQWkpvVHRUT25wZVprQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T19:42:20+00:00"
+      "time": "2026-07-21T21:45:27+00:00"
     },
     {
-      "text": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
-      "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html",
+      "text": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T19:19:21+00:00"
-    },
-    {
-      "text": "Trump’s Kiss of Death",
-      "url": "https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-21T18:54:21+00:00"
-    },
-    {
-      "text": "US pauses $1 billion in Medicaid payments to California, Minnesota - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEk0SjgzaUFZclJjdzl1V0hBYmZpQ1djbFNYcFhoaTBBS1gzR1U0Ti1ZYjR1UTNPdEtwZUt1YTdsOWs5M0M5UWFGMVU0VHV3alhaVFlxeTVjU0cxa3BpRTRjZW5VVjFlRXFmME8xbXJUaV91eThrWE4zWnhDeDlvSEJyLTRQZ1FNemgxNFktaDRGaEtzRm9uZnFlb0xBQnBWUmIyb0YyOUZYN0hKZ0wxR182QTl4LWJ4Snc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-21T18:43:59+00:00"
+      "time": "2026-07-21T21:31:12+00:00"
     }
   ]
 }
