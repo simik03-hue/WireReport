@@ -1,46 +1,73 @@
 {
-  "generated_at": "2026-07-23T09:14:36.732349+00:00",
+  "generated_at": "2026-07-23T16:03:34.243737+00:00",
   "lead": {
-    "text": "Iran, China, Canada? A Defense of Trump’s Grand Strategy",
-    "url": "https://www.nytimes.com/2026/07/23/opinion/us-defense-geopolitics-elbridge-colby.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-07-23T09:04:27+00:00",
+    "text": "Hunter Biden: Trump 'would have his claws into my family' without pardon",
+    "url": "https://thehill.com/regulation/court-battles/5986147-biden-pardons-son-political/",
+    "source": "The Hill",
+    "lean": "center",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-07-23T16:02:14+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Gen Z Has Lost Its Ambition. Maybe It’s Found Something Better.",
-      "url": "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html",
+      "text": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
+      "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-23T16:00:25+00:00"
+    },
+    {
+      "text": "Dow tumbles 500 points as Brent crude tops $100, Alphabet and Tesla drop: Live updates",
+      "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-23T15:58:20+00:00"
+    },
+    {
+      "text": "Protesters gather in Madison after man fatally shot by a police officer - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1l4QkFYNjdJRXg0aHB4QS02RUpoOHJPdW16ZzRKMmdBNDQzOWw5aU40dklKdnRiTTl1cEpZRVFpSV9Fb3U2em5ZeEpWemc4VS1XU2p1TFBDT09aN0poMXVfTFdETVNsNnNNZGtKOW0wSGtqN1l0cWgxRXJJYzBPSlVqU28yR3dMNTIzNWNVa2dXOVNQTmhzNEtyYUJqYUF1VzFULU1INFkxZllUeVgzd2I4WVdZQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-23T15:57:46+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T09:01:54+00:00"
+      "time": "2026-07-23T15:57:43+00:00"
     },
     {
-      "text": "How predominantly Black areas in 6 states have been split up by redistricting",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5896335/black-voters-republican-redistricting",
-      "source": "NPR Politics",
+      "text": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
+      "url": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
+      "source": "NYT",
       "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-23T09:00:00+00:00"
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-23T15:37:01+00:00"
     },
     {
-      "text": "'New York Times' alleges White House abuses legal system to intimidate reporters",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
-      "source": "NPR Politics",
+      "text": "Four Young Mathematicians Receive Prestigious Fields Medals",
+      "url": "https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html",
+      "source": "NYT",
       "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-07-23T09:00:00+00:00"
-    }
-  ],
-  "col1": [
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-23T15:12:06+00:00"
+    },
     {
       "text": "Alphabet Stock Falls: Google-Parent Reports Blowout Earnings - Barron's",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSjI0MGhTM2Yyb1hsTVJRT083ZWVMbDlIWjE0QU5wNTFCWjg3SFFUbmo0NTlPSVd6TWY0eW1WbEp4MUpNWTR5cWRLYnBIWnRhT2pwMEpTUUl1ZF9Sb2NLQ0UxSWYxM3VnUGtuTDhxM2s3SWhsOG5TS0JZcHFaUXBEOXRKYw?oc=5",
@@ -48,164 +75,137 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T08:31:00+00:00"
+      "time": "2026-07-23T14:44:00+00:00"
     },
     {
-      "text": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+      "text": "Iran War Live Updates: Oil Prices Hit $100 a Barrel After Attacks in Red Sea - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kY210ZGhPNy1NLS1haEJOQ2M1WkpiTzJkWnNkN2J3SVVmaUF2ZVhqVUZteHRpSWg4ZW1tc3BfLU5HVFFPd2NFVU1hTzR1RVNncGVOd2hvR1VieDl1ZDVoZVIyOG9zWHlNVU1PMlVRX0J0RW5nQTJVbEozVkk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T07:21:00+00:00"
+      "time": "2026-07-23T14:28:53+00:00"
     },
     {
-      "text": "Tropical Storm Bertha is fading, but its moisture plume is fueling a serious East Coast flood threat - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnVLMkxxVnRUVFEtczA0bDhxc0lIMmhRaVJsalVvY3kya1JHS3Azc0hiWG9HYkEzYjJPTDVxSlpZMmZWc1BsbE1mUnJQQnJFNFVuaUpIOUpNZ0NPTU4zVFByMXZ2czlfSmFjQ1k5ZWVDRG9kWU9Fa3c5MW9rU0Y1ZQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T06:11:56+00:00"
-    },
-    {
-      "text": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkpzSEhsbUE1cDB2WkpvZlp2QjN2V2FPSFQyTFJHUmNheldVS050ZmZPRlVVay0yVmRtcWNXZEtpNmVoSElZRllZQzhta3AwSVZpNG9SQ0dkN056TkpIX0FGSEE0RTQ3MnVBMHREMllmVXRxUDU5T3BRdk5lY1c5Qk1aM0NNWEFjMUh3aDBvRktUcXNnMXFmXy0zM0FVbWxQaENQeXRB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T04:58:00+00:00"
-    },
-    {
-      "text": "Amish Shah Wins Democratic Primary in Swing Arizona House District",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html",
+      "text": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months",
+      "url": "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T04:25:41+00:00"
-    },
-    {
-      "text": "Japan’s Leader Invokes Her Hero, Shinzo Abe, to Drive Nationalist Agenda",
-      "url": "https://www.nytimes.com/2026/07/23/world/asia/japan-sanae-takaichi-shinzo-abe.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T04:01:09+00:00"
+      "time": "2026-07-23T14:19:17+00:00"
     }
   ],
   "col2": [
     {
-      "text": "No, You Shouldn’t Avoid Fruits and Vegetables Due to Cyclospora - Consumer Reports",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWdEUHV5a2xOOXZlRHNIUC1yQVhtSnk4RzF5LURocnNiY3hPZzZOTU5jVXFIT3Z4NmRwOWVQNjNjdkxlQkZ3OWE2V0huV2NRM1FDMWJuYlVXWWN2cm82MTdBaWlOYmdEZE41bDF2dWE0bDh0d0VVNDlWdUpuNFo4S2NwU0sxcEVWSUlxUHd2dV9aVlFra0c2VVU2STg3bnVNWF82LUJnLUJpRVp2OENHZEkzN0xRU000eVRIMDFOYw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T08:16:18+00:00"
-    },
-    {
-      "text": "Man fatally shot by police officer in Madison, prompting protest in city - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1l4QkFYNjdJRXg0aHB4QS02RUpoOHJPdW16ZzRKMmdBNDQzOWw5aU40dklKdnRiTTl1cEpZRVFpSV9Fb3U2em5ZeEpWemc4VS1XU2p1TFBDT09aN0poMXVfTFdETVNsNnNNZGtKOW0wSGtqN1l0cWgxRXJJYzBPSlVqU28yR3dMNTIzNWNVa2dXOVNQTmhzNEtyYUJqYUF1VzFULU1INFkxZllUeVgzd2I4WVdZQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T06:55:00+00:00"
-    },
-    {
-      "text": "Late Night Rags on Trump and His Cabinet Joining TikTok",
-      "url": "https://www.nytimes.com/2026/07/23/arts/television/late-night-trump-administration-tiktok.html",
+      "text": "Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them",
+      "url": "https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T05:48:30+00:00"
+      "time": "2026-07-23T15:45:00+00:00"
     },
     {
-      "text": "U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHgya3BPS203QXhIQVVkOV9JNmZpQ2M4eG1jSjJJZkk2UXY3eV8wVEhKZUZhd3o2TFJJaExWNWVTSUkyTi1QMTBSTkhGTGdTdXhGVEdVbnB0VzFqRzA5Y1JzMDJiNGROU2Q2VktGc2w4T3hoY0M0U3lVY3IybzFsUVdZUTF3aUtsUC1RRFRHcWVYZDV0OW9Yc2psMnctTmw4cU5NTV9weUMxRlBR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T04:43:19+00:00"
-    },
-    {
-      "text": "FDA reviews peptide injections favored by RFK Jr. and wellness influencers - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFlTZ0lsWldkUm9LNG9qZ00zbUJaTnR4WkRkR1hsV3pua2hBZklhVUJ1UUtJOGNTV2FCMENMa2Y3S3JnQnFhYWNsVzVrUTNGbDk4TWxLRVF0ams0SERNU0hKZ1lTa3RSdGZXQmhIU2w1TE5DbUNYdnNpbkRudm9EeUppRkQ1Q0lZR2xTRmFKNFpydUZQUlNZMFhUOUgydw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T04:02:00+00:00"
-    },
-    {
-      "text": "How to Eat a 2,000-Pound Fish? These Orcas Choose to Pulverize It.",
-      "url": "https://www.nytimes.com/2026/07/23/science/orcas-sunfish-ramming.html",
+      "text": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
+      "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T04:00:06+00:00"
+      "time": "2026-07-23T15:28:15+00:00"
+    },
+    {
+      "text": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-23T15:11:40+00:00"
+    },
+    {
+      "text": "US House passes war powers resolution directing Trump to withdraw US military from Iran - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYzBLNk5peGFmRW1vWDZMUnl4UUtOU2FrNXhGSnBZUzVJblFhenkwb2lBMDB2WjJob0cyNmljbVpEc1YzSlJXX2p6QUpYcm1hbWlmR0wya3pmYnBZRzVlbW90dXNpaDY1TTJ4bGZ0b3BiYzNad0NGYU51Y0dIUEJKSDFGSlVaa1pUX3liRFpHdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-23T14:39:00+00:00"
+    },
+    {
+      "text": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
+      "url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-23T14:24:39+00:00"
+    },
+    {
+      "text": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and US allies alike - Politico",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMXBYb1RVN1JGdE1vNHRLaFdKQ1JwMHVQT2JoclVRbURoRHY1LVJjdkg5Yld4cm91RHZvOTU4Zy0zdHlCLUcyMVl2dW55TjZTOEd4SDZMMDRra3hZYjdfNTZIRXpCZzRUYjU1cE92MzVOYXNkNEhYTXVreC0ycmJKMS1TR2N0aHJSV2lCU1pZU25URkZhMFozenFBenZyMVc1Ymh0UjRNQTJ0bDl4Y2d4a2FZS3pOVWN1cklmWGxRVV9qWmRPcjNDSjZXRVFsdktfYng4bzdOSk1Pb2V0bFpReA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-23T14:16:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T07:34:00+00:00"
-    },
-    {
-      "text": "Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B0gF8QVVfeXFMUHJIVU9pa2lVQ1YxcGVuVXBIbFN4M1JJS1BCQ0dvTklEbmhlYjRrelFmVXNSbXVZLVhBZHVNZjcxZlU1OEtyNU1UaGo1Vjdua1p3MFUxa0dPYlo4ay1HN0k0eXBNcXlfU0ZRX1gtb3dPOXVhbC1IR3RWWlZNZg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T06:24:00+00:00"
-    },
-    {
-      "text": "Horoscope for Thursday, July 23, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYU5XSUVEenVQNDhTLVhKSlFxd1lXLW51bkl2ZjA1NzRySGs0LWVQS3ZlSU80UUNQeG9zcVRRRjNXWHVXcnpKaFk1UGNIdnFRN0pIWHFiRVQtWU55LV9RTHozVE9GSzdQOEtRVTNfM1dmbFRLRldrLWx4RmlOb3FBaF9URmR6UGFQdWxPS1UzenpyZjA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T05:01:00+00:00"
-    },
-    {
-      "text": "The fight for the future of foldable phones is here - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUozdXlIc09nWThHZ0hteHZ2TlRHM05RTXdSWjdpdUZxWHlYeC14cjJrSFcxVmtpQ255akpXYl9oREdDbDB2X0JHN0hjNVItTmkxNzN3Uk5zOVc1SHNsTXhHODBlSW1yc205VXI2Q2R0aXZGV3BtOTgxRkVHV1htSzF2cXFZaFo0TzRkbnkwYw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T04:30:00+00:00"
-    },
-    {
-      "text": "Diesel Crisis Puts Poor Farmers Around the World at Risk",
-      "url": "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html",
+      "text": "F.D.A. Announces New Cyclosporiasis Outbreak With 72 Cases",
+      "url": "https://www.nytimes.com/2026/07/23/well/eat/new-cyclosporiasis-outbreak-fda.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T04:01:17+00:00"
+      "time": "2026-07-23T15:43:13+00:00"
     },
     {
-      "text": "Red Sox's Historic Win Streak Snapped After Tying Franchise Record, Latest Box Scores and Highlights - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa2p4eXJ3N1FkZkZmcm1fek9jT1ZuRGxPdzdMYUh3MGlnb0JteDBaMDFTWU1VS2dfcUplbHNYSmVwa2pheDlmSUV5VXk1SmxHeGdpZGZKbzdMbjZWbUFuaUVJTWprVExBSGxNVmJMSWNWZjZaOHFNZ2kwYzZQVmVhOU45LV9qN0xodUh6Yk1hTzBwOGVPdXJLdWsxZWVDVmFQQ0lsMFJDMTFSd0NRNmFCLXAwLVU5Z3VhcnVzRFdXMGRiWHk0VEFVUnlmSmhzMUhQSF90RGoxd3I0VGM?oc=5",
+      "text": "Gen Z Fell Out of Love With Work. I Don’t Blame Them.",
+      "url": "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-23T15:21:07+00:00"
+    },
+    {
+      "text": "'Godzilla vs. Kong' star Kaylee Hottle's cause of death revealed - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNy1KNlU4bnhLRnRDZWh3ZElQbWhhczFxeTRNYTE0aFpaSGd1X3cwRzllZVJCN1ByWHZadDdTemREWm5MTGgzZ2R3S1FuMktPelR1eFhTU2g4a2phQjhXZ05RbXhJTENzNWdKdzJWMHB0Z0Z6dDR1dmNacmFKUXE2NXhGZ0lYR1Nic1JSczJCTlNzdEZOWmhwemd5SHNla09NZlJmek9qY2NjOGtKRmxPTEkwR1NZYVowaHJMZGRqTzRfbG1v?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T03:28:41+00:00"
+      "time": "2026-07-23T15:11:00+00:00"
+    },
+    {
+      "text": "Movie Theaters Embrace the Bewilderingly Lucrative Business of Buckets",
+      "url": "https://www.nytimes.com/2026/07/23/business/media/movie-theaters-popcorn-buckets.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-23T14:29:22+00:00"
+    },
+    {
+      "text": "‘The Odyssey’ Hired Their Viking Ship. They Say It Came Back Damaged.",
+      "url": "https://www.nytimes.com/2026/07/23/movies/the-odyssey-viking-ship-sweden.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-23T14:23:54+00:00"
+    },
+    {
+      "text": "10 teams with willingness, prospects to make moves at the Trade Deadline - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczNnbEF1ZXZFc05XQkxsVzhOaTVQcDBpUEE0Rl9NaEhGMEF0SHFINEpiazVHNlcwcm1VNGIxOUZvVEF1YXRrTmxCSnk0WVNEaXpzdVR0WTQzYW5ISEMyZ20zU19RRGFjc2JUTXp3SXBtcFpycW90ZFR5Rmg4dnFQNFZIZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-23T14:12:09+00:00"
     }
   ]
 }
