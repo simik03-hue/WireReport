@@ -1,193 +1,72 @@
 {
-  "generated_at": "2026-07-24T18:06:40.620920+00:00",
+  "generated_at": "2026-07-24T21:48:00.736340+00:00",
   "lead": {
-    "text": "Europe wildfires latest: More than 65,000 evacuated across France and Spain - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OVnBXanNudE5pMzFuT00tdC1ERGhJMXBmN2phb1BiMmJjbnBaWlFYaWN2aFBna1R3Wkd1WnRFdGxMQk0yUTBubGh6bUQ0YW5HVHJJSQ?oc=5",
-    "source": "Google News World",
-    "lean": "unrated",
-    "topic": "world",
-    "sourceNote": "Aggregated Google News World topic feed.",
-    "time": "2026-07-24T18:03:45+00:00",
+    "text": "Paramount Agrees to Delay Warner Bros. Merger for Months",
+    "url": "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-07-24T21:42:57+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stocks making the biggest moves midday: American Airlines, Coherent, SLB, Tesla & more",
-      "url": "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-midday-aal-cohr-slb-tsla.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-24T18:02:23+00:00"
-    },
-    {
-      "text": "Canada opens Gordie Howe bridge without US; Trump says that's ‘fine’",
-      "url": "https://thehill.com/homenews/administration/5988864-trump-canada-bridge-tariff/",
+      "text": "Live updates: Trump set to return to White House Correspondents' dinner; DNC panel picks SC to kick off 2028 primaries",
+      "url": "https://thehill.com/homenews/administration/5986971-live-updates-trump-iran-tariffs-white-house-correspondents-dinner/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-24T18:00:26+00:00"
+      "time": "2026-07-24T21:36:06+00:00"
     },
     {
-      "text": "1.5M cartons of eggs recalled in six states for possible salmonella contamination - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3BNLXpCSjdJRjFnVGlMV1VldnZzbHpIaE4zcGhRVTZiSnlOSS1xX0tyeVA1TTZVaWg2OVk4Zl9PSjUydVVqUG9rd1gxdVBRb28xei11eHF0SGhraDVXQURxYnRMZHUwSEJLeWZRRGVsd1h6akJCTHloUm1MS2U5bGxlcUtjNHJUcFhUX0UyRzZfV2ZYZGs5WnpHNjRCbmljN2RiUWUxcG1iQy1UUWwxZS1SVjREMmM?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
+      "text": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+      "url": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T21:32:37+00:00"
+    },
+    {
+      "text": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "source": "CNBC",
+      "lean": "center",
       "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-07-24T17:57:33+00:00"
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-24T21:24:09+00:00"
     }
   ],
   "col1": [
     {
-      "text": "6 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
-      "url": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html",
+      "text": "What We Know About the Police Shooting in Madison",
+      "url": "https://www.nytimes.com/2026/07/24/us/madison-wisconsin-police-shooting.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T17:55:16+00:00"
+      "time": "2026-07-24T21:21:48+00:00"
     },
     {
-      "text": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
+      "text": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him",
+      "url": "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T17:43:17+00:00"
+      "time": "2026-07-24T21:10:48+00:00"
     },
     {
-      "text": "DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUYzZXRpVWlrSy1EVHZFdVlwRTh6emM2N0twUXVhSm8zOWtvT0JoS2RpY25Kd25CaHNKcVRBOENPcGllMkR4M3d0VXlQckFmemNSa0VVZ1dwUGUzR2E0Y2FUV1VtUjVqazFWSHZfLWgyRlluUkROb1NiVHRGQXRuQ19sci11STZBbUN1Qjl0Wk40d1JpcTQ0cTN5bVdCdUpOVHZhWVhBd3pUN0hNd0FQQkZUWWVBa2NXd1JOQncyU05zdHVOM25j?oc=5",
+      "text": "ICC chief prosecutor removed from post over sexual misconduct allegations - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0JtbzVPR3F4aFBNRUUzREI3QzRTU2NBYjl0cHZvX19OTWVlRDQwMUx1dlZ1Vlh1TkhfRXFQSm1ja3cxNkN4amVZSzEyUG56S0diMWxFVzlNNmlTRTJXZU5ER1FOQ0o3MHFkcmV0VEIxOEJOc3lwTmJaZDhfc1d1RnBIb0JRXzVNZ25PWEcta2lDOV9jZExfRm1wRUZ1ZjNPZmpFUkZmaWhsdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-24T17:13:00+00:00"
-    },
-    {
-      "text": "‘Marvelous Mrs. Maisel’ set decorator slain, husband found dead in family already scarred by home killing - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGpWeU1TZGNycEVLblRVQWJIbEpLNlRPNUZLRlY1YmlIdmJHTE0yeURobFVSdXAydm4zZ0lldWRRbU5Cdk9nSW12U09UN3dYTzVBNzVMSGJ3azRaRXI2TU52WW15blpPRTdTaWhhNDdseFY0Qi1nU2xCZS11b1ZsbjlQdDdsVWMyTjlscGl2NE94dDMzLXc1NGk2bngxTTRCNHYtV3IwLVBRbVIwUjRtdElfSTLSAboBQVVfeXFMTzNKR0p6aXgwR282N2V4UVFabXJHY2tVTkRHSUw3TWFjVVdiSEh0bnA3czJCTkFyY1VZbkNBbjZpYkRyUW1fV1U5RFhaMy1HLTNoN1plS0JnSjM2RDdGNWQwQnkzZXpnckh4cjNxdmRaZXIxcFREemltZlFmXzBUeEE3RDNWWGlmUG5vZ2xiWUhPZDlTbktBdlRxaWFianpZWHpfdmJpWjdaVzdXLWxiYkxMdHphLXl6elln?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-24T16:28:55+00:00"
-    },
-    {
-      "text": "Sean 'Diddy' Combs involved in prison fight, sent to solitary confinement: Source - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTRRTTNPVm1HWVd0S3FadWplbjhuMVV1NWoya0dVZVBwdVpRWG1WNG4zRWtjdkg0T0g4UkMxcmQ5aUFNNVBSaE1SYkZtcUlOZmx3a3VaSWg3QUVSNEllYkhjS2NpWU5iODJZU1FaTFV3TEhaMjBnSktVX0pHQ3ZKVkx0Qzh6eUhUblQwbUtOYmMzTWpIOG1JNVJtRVk4MV95ZE82a3NXY1BUcTVNNkQ40gG0AUFVX3lxTE5QQnE1OXRWQUFGRTh5ZE1WUXphTExVeHd5Sk9kd1JGa3k1NUZsU2JKdXV2ZW1COHdyeTRFWGExOWVHZ1hGcTBSaGdmMVZ0d2hZc3ZfMHA1TVRFYXE3UW5QX25vUndJdW9EcXgwVlNsbFFxa1lXM1JjaTM5T2FQMHVDa2U0NnR3N1lYem9ITGtaeFgwSEFRMVZMbUppeFN1S3p6QUdtRUVYQ3NYX0hqQl9KYlNObg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-24T16:18:45+00:00"
-    },
-    {
-      "text": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T16:12:42+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Argentines Facing Surge of Criticism After World Cup Loss Have Something to Say",
-      "url": "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T17:52:11+00:00"
-    },
-    {
-      "text": "I’m Native American. Land Acknowledgments Are Infuriating.",
-      "url": "https://www.nytimes.com/2026/07/24/opinion/native-american-land-acknowledgment.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T17:36:56+00:00"
-    },
-    {
-      "text": "Live Updates: Iran targets American bases in Jordan and Iraq as raging war depletes U.S. interceptor stockpiles - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3lNZnhiOVFueGNzd0dnbGM3V0d5emVUZTZhaXRRNmVpXzhVaVNRcVlWQ29XcGZDUnkwM0hhN1BYRmhnWEZhQlhFU1ItX0x6R3k3enA3VC00LVpKQi1xMWJPeXJ3VmQ5WDRhbzIzLWZ3MUgwS25ScHZOOXRnWmxWMzFacTlvRWNC?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-24T16:53:00+00:00"
-    },
-    {
-      "text": "Evacuations near Madrid as wildfires advance with thousands already fleeing French tourist spot - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OVnBXanNudE5pMzFuT00tdC1ERGhJMXBmN2phb1BiMmJjbnBaWlFYaWN2aFBna1R3Wkd1WnRFdGxMQk0yUTBubGh6bUQ0YW5HVHJJSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-24T16:22:35+00:00"
-    },
-    {
-      "text": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0RiMV9FWWNlcnkxVENVbDh3T284aUhhOW9odDR6V0N0b2hSU1lWdHFqRTBUY3U0aGlpVlE1cUI2a2FUSmgwWGpfdEM5MUp0dm5FZEluaHNhTXNZdzhIVTlHYlhzWU1nMjZLZGxicjd1N3Fudzh5VEItR3lCQjVHVDJKaFozUnJpamZMZmdSbnBXWDE4ZEdTcEw4YnpyaFZ5LV9DNlpvSmVxalFERE1VQg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-24T16:18:14+00:00"
-    },
-    {
-      "text": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T16:10:17+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Small Businesses Sue Trump Administration Over Latest Tariffs",
-      "url": "https://www.nytimes.com/2026/07/24/business/trump-tariffs-small-businesses-lawsuit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T17:44:09+00:00"
-    },
-    {
-      "text": "Dispute Over Trump Tariffs Snarls Russia Sanctions Deal",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-tariffs-russia-sanctions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T17:36:14+00:00"
-    },
-    {
-      "text": "Live updates: Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkxtVmdOTnF3WDA3Z0xtYlp6Nnh1Y0FULVIzTXhxWW9TaVR0djBDXzY5dFBualk3cHBDLW9hamFUeXJIaHJWeFp6MXVzVzRFNGtuR2VPTzdUMm1keGl6MWw1TFNpQXNiMFVJOHpzamdBVGpkX0owdHBtS051VmhBOGx0OElzYlNKM19DNl93?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-24T16:40:00+00:00"
-    },
-    {
-      "text": "See stunning images in this year’s Astronomy Photographer of the Year competition - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbm9iTjBJcXBpX1dRRzZxTDhXR1E3ZzcyRnRXVXlQazFuVGIzQV9sa2xMcktyMWhaQzdpZnBMQ2JOcHhob05pOGhmWFdkS2NQdmt4MGpXX3dEZzhkcVQyQ0I4VW1xLWh6YndCcHl0MnhXX3ZyTEhPYlg5bEdjRzl5WHoxXy0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-24T16:19:16+00:00"
+      "time": "2026-07-24T20:58:00+00:00"
     },
     {
       "text": "Help! I Might Be a Tradwife!",
@@ -196,7 +75,92 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T16:16:41+00:00"
+      "time": "2026-07-24T20:46:11+00:00"
+    },
+    {
+      "text": "Gretchen Whitmer Endorses Haley Stevens in Michigan Senate Race",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/whitmer-endorse-stevens-michigan-senate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T20:19:45+00:00"
+    },
+    {
+      "text": "Car Condos Give Your Vehicle Luxury Housing",
+      "url": "https://www.nytimes.com/2026/07/24/style/car-luxury-private-garages.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T19:48:44+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T21:15:21+00:00"
+    },
+    {
+      "text": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T21:04:00+00:00"
+    },
+    {
+      "text": "Paramount Skydance agrees to halt Warner Bros. merger until next June - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0RCZ3RWQTBmZVJjaEZkb0hldnptOEtaZ004eFR0WDFZU3dTVUpGNk55OXFOdEJGQi1DMEkyd1RaVlpvakxhZVpNRkwzei1naTFkLUx2WDZlRUNyR1hQTVFXQXRTZlhEb1VfUmFDVDNqVlJlT3hMTlprenJVek95VFhLNnFkaHlmOEtiSHJfSkVnd21Udkc3aUwzTWtoeUhBbzd4eHI4aEIta1puVE1yUlJwQmdEZXJi?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T20:50:32+00:00"
+    },
+    {
+      "text": "Exclusive | Bahrain, Kuwait Warplanes Struck Iran in Rare Gulf Retaliation - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2tBdjIzSWNNMXZMd0hFNjRqS2l6YUdXS1NuajQ4S2RKRS1FTnRSRDFjVXZtd1U3TWVwNjNBYnhncm13N19QX0F0YVBMVV9GUy1XZlR0c3c5a0Y1ZU1qaHJjeUg2TFVDLVFYR0MtRUExdFE1MHNTVUtQdkMwakR0dHpnQmJoSUlmMXZvRm43Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T20:34:00+00:00"
+    },
+    {
+      "text": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0RiMV9FWWNlcnkxVENVbDh3T284aUhhOW9odDR6V0N0b2hSU1lWdHFqRTBUY3U0aGlpVlE1cUI2a2FUSmgwWGpfdEM5MUp0dm5FZEluaHNhTXNZdzhIVTlHYlhzWU1nMjZLZGxicjd1N3Fudzh5VEItR3lCQjVHVDJKaFozUnJpamZMZmdSbnBXWDE4ZEdTcEw4YnpyaFZ5LV9DNlpvSmVxalFERE1VQg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T20:02:41+00:00"
+    },
+    {
+      "text": "US measles cases hit 2,318 in 2026, surpassing last year's total: CDC - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZuTUtmMzdpUUJoenkwUW9ZYktuZ1dPVi1TbWJmRlpFbG5haHdmc3l0YnhFaHgtLUlQWF9zcTJFWEtLX3pKV2NKX2JNYVBJZlV4dFBsRk5JVzBtOXY3RG51ZlBOR2dLOXlfOHlxY0k0QTRuOFlDTlJOQ0JobkRXMFlCSHA3SHpGSkpNbllBdXhqOGttTW52WtIBngFBVV95cUxPbEhwaVNZS0hzYlBCT2JkdUNSbnhraV9faTlOMDdCWlVUZ29BMDdxWDg4Z2Q5UVk5Zm82NzR3X1NOZ1gyZURMVEdXOEFXODMzWUktQ2JlbWJZMFdNdXBIZnBTS1Y5TkZTUG5rRW42cHBVX3J4b1FEN2pJNk9NX1lRc01hZ3ZnYllqWUJXSUVzOVVwaTMyV3V1c2xia2VwZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T19:37:18+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekVNZHhVQkF4WWRNNm84S0JDZWJ1U3ZJRl85dFBtdV9DNlFSZGhtTGxIZll4aWRMZDVGd3JFX0hfWFR2SEwxUlVLOXR6NlNrQ3RPOUpBbm1qZERuVG1VM0FyY0NKNFZvZGtwV3VjU3BBSE5IeDV6dEpYYnYybnM3Zg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T21:14:58+00:00"
     },
     {
       "text": "C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States",
@@ -205,7 +169,43 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-24T16:06:02+00:00"
+      "time": "2026-07-24T20:59:28+00:00"
+    },
+    {
+      "text": "Dem panel taps South Carolina to hold first 2028 presidential primary - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWDN1c3NJYklpd3lSa2NaMHpkM0ZJMllsUVJrZjlQWENBMnFVVU5YTjFSaUttU1EwUjcyRG14QkRWZGNNTlNaS3Z1WU9nQ2UzS0xHc2g5SzlyX3FVSkd4UmpJUXdRRm5CYV9EeEVlYnVsZ3NvUGFXbXVvRV9NckVJMDI4anV2LVdHSWxj?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T20:46:17+00:00"
+    },
+    {
+      "text": "Small Businesses Sue Trump Administration Over Latest Tariffs",
+      "url": "https://www.nytimes.com/2026/07/24/business/trump-tariffs-small-businesses-lawsuit.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T20:25:55+00:00"
+    },
+    {
+      "text": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T19:49:56+00:00"
+    },
+    {
+      "text": "Europe wildfires latest: More than 130,000 evacuated across France and Spain - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OVnBXanNudE5pMzFuT00tdC1ERGhJMXBmN2phb1BiMmJjbnBaWlFYaWN2aFBna1R3Wkd1WnRFdGxMQk0yUTBubGh6bUQ0YW5HVHJJSQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T19:25:16+00:00"
     }
   ]
 }
