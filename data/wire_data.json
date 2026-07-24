@@ -1,46 +1,203 @@
 {
-  "generated_at": "2026-07-23T23:43:51.917552+00:00",
+  "generated_at": "2026-07-24T08:00:41.729451+00:00",
   "lead": {
-    "text": "FDA panel votes to add peptides to permitted compounding list despite opposition from agency scientists",
-    "url": "https://thehill.com/homenews/5987510-fda-committee-votes-peptides/",
-    "source": "The Hill",
+    "text": "Volkswagen CFO addresses plant closures, job losses as profits sink",
+    "url": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-07-23T23:38:26+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-24T07:56:12+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Iran War Live Updates: Oil Prices Top $100 a Barrel After Houthi Attacks in Red Sea - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kY210ZGhPNy1NLS1haEJOQ2M1WkpiTzJkWnNkN2J3SVVmaUF2ZVhqVUZteHRpSWg4ZW1tc3BfLU5HVFFPd2NFVU1hTzR1RVNncGVOd2hvR1VieDl1ZDVoZVIyOG9zWHlNVU1PMlVRX0J0RW5nQTJVbEozVkk?oc=5",
+      "text": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
+      "url": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T07:43:53+00:00"
+    },
+    {
+      "text": "Stock futures are mixed as traders look to recover from oil-driven sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-24T07:38:31+00:00"
+    },
+    {
+      "text": "US hits dozens of trading partners with new wave of tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-07-24T07:12:13+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Ukraine-Russia war latest: Trump aide says Putin is suffering ‘staggering’ losses of 5,000 troops a week - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHNQLS04cXpSQ1JNaDJiTXFEV3I0QTA2WjIycF8yd2doMml3czM1bW04QXh0dnlzRGZZVVBsclctR2hZbGV2RWwzZmh6anpnaUhQNTlTanBLeFBicWcwd1NpZklNNFpra2pLaHJ4SGgzaDlDTGVpbUtWUUJ0WHY2eGFIbWhkVDFNSGRKSWJRSWs5WVdYRlpNeERFUGlMVFg5bzJOU2R4QllNUmFUT0c5MEx4S1N4aUpWdEg3RzZVTnY?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T23:12:22+00:00"
+      "time": "2026-07-24T06:12:23+00:00"
     },
     {
-      "text": "Two Men Stabbed on Upper West Side in Possible Hate Crimes",
+      "text": "Jimmy Fallon Pokes Fun at Trump’s ‘Pinky Herman’",
+      "url": "https://www.nytimes.com/2026/07/24/arts/television/jimmy-fallon-trump-pinky-herman.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T05:34:03+00:00"
+    },
+    {
+      "text": "Modi Caught Off Guard as India’s Economic Failings Inflame Young People",
+      "url": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T04:52:34+00:00"
+    },
+    {
+      "text": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+      "url": "https://www.nytimes.com/article/trump-tariffs-trade.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T04:01:02+00:00"
+    },
+    {
+      "text": "Fatal police shooting of man with knife roils Madison, Wisconsin - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXBRWGFKV29hc08zaW5zOUJiUldGWnNRNDRjZlQ5LW9IalBWdnJTZEdRcFlwZnJiQlZmUFhuNkc1bnRJcy16UkYyQ1N6UFh6aXhid2FZandHV3ozdmdPZkxVd0Z3Vm9vb0h6ME1zMTdTbHhqSW1CSUNhdWZfY25Wb05ON0gxWnVxcy0tLUl5UkV4anU5eFlNTy1MRUdVbHdNWnJsOUZSWjZoXzRJX0x4dXJtUUNEWEk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T02:44:00+00:00"
+    },
+    {
+      "text": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFdpbnhRNGRZcTFJSnlNTFJFOFdDcmtGNkRCY1EtTUljRU8wVjVXRW9lNndwSTVEbUl4MHJHV0FObllHSzI4aDdtLVQybk9ScjlkQVhjX3IzTTFyNUFkR2psdmJPeXVERnRBY1VCYWltbXlxOWxiZUxYRlRxMXNaUkE0UnQyMHZfS0NBMDFGcWRzd2JVT1RVMFY1ekYxNUY0bkFtaU9ibkFoLUpQRWhGY0U4VUbSAboBQVVfeXFMT1RVUjNmdWphSkRKN2Z3QjBEZHZrN2VNOWo2RFh2T29EMTZVeXNpZjBRU2xvb01sYUU4Mm4wMU1uYnBWVDAyM2huSTdYVTVWYlJnekp6UXJtS212MG9xdDJCaG9OczdybkpSc3lFMV9fV3NfRFdhWmNrWl81NFRfQmU4d3JUSlN3X2RIUklDcDE1OFZmTzM3MEVwQTc4d21JR1RkLTgtU25nS1JpNUtDSmlsdEExeUVvcUJB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T02:14:30+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0RiMV9FWWNlcnkxVENVbDh3T284aUhhOW9odDR6V0N0b2hSU1lWdHFqRTBUY3U0aGlpVlE1cUI2a2FUSmgwWGpfdEM5MUp0dm5FZEluaHNhTXNZdzhIVTlHYlhzWU1nMjZLZGxicjd1N3Fudzh5VEItR3lCQjVHVDJKaFozUnJpamZMZmdSbnBXWDE4ZEdTcEw4YnpyaFZ5LV9DNlpvSmVxalFERE1VQg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T06:08:32+00:00"
+    },
+    {
+      "text": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTY2cVJHNnVRWG01TG14d1ZxTmUycTZWXzFmd3hEdnYwTUJtTzdiUDJOUXRUX05YMmFIcjVJTmRFWkFwaEJ2RXBEZnIxU3pITU1vbER1TlBvY0VqTW0za3RRRG1OQWI3ZHFDX2tOWDVsUjZDVU9tZkJUZEpCdlQxTGlDQ0Y2V1U0X2FBQThfSlEwampOWk14dWxKNE0xU2Ja?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T05:26:00+00:00"
+    },
+    {
+      "text": "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations",
+      "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T04:04:00+00:00"
+    },
+    {
+      "text": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T04:00:00+00:00"
+    },
+    {
+      "text": "Donald Trump says decision on ‘massive attack’ against Iran is close - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX080UG13UG5QNjJFR3RYaFRSc1dzSWxvNFRkYkdJZkYxcWNDaDRwSEtOd205MnpMZFVWYVpLd1FvM1hVdGFWV2RHc0pUSWd0M2JXQTZOVm5ZQTAxWnhfOHZ6TE1DaFl3NVNrNE43aURsb0pGSXVTWjJoSVpNUEY3MDh0cE9STXdkUjZIeHpSdnZEX1N6NmJBbE4tcDlST01zUWJRT2ZSSjNEdDBMdkpF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T02:42:00+00:00"
+    },
+    {
+      "text": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say",
       "url": "https://www.nytimes.com/2026/07/23/nyregion/nyc-central-park-west-stabbing.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T23:10:38+00:00"
-    },
-    {
-      "text": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-      "url": "https://www.cnbc.com/2026/07/23/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-23T23:08:57+00:00"
+      "time": "2026-07-24T02:08:27+00:00"
     }
   ],
-  "col1": [
+  "col3": [
+    {
+      "text": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHk2TTM1a1dPMXQtTDZXNHl0anFjcWpfWUNaOHFEb3ZfbjN6UmNrZXZNcUp4RUJ1QkdvZG9DY3JhcXFQbG1UTjBySWh0bExNMGJXMEFUQllHMmtaSjFFRUdPMVYyT0FIQ3IxeVRPWTB0MUVmZ3lpVzZlSEtTaWd2Qmo5UndmTHVsYk1uOHBrS0FSNHQ3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T05:46:11+00:00"
+    },
+    {
+      "text": "What to Know About Andrew Tate and Tristan Tate",
+      "url": "https://www.nytimes.com/article/andrew-tate-arrests-explained.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-24T05:24:47+00:00"
+    },
+    {
+      "text": "Trump imposes forced labor duties on 60 trading partners as 10% US tariffs expire - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcTlxTFMtLUhVcTNocVRYQ0t0NkdRamtCSUEySEhFbHE5N0FnNFlvMDNENWcyRVlHWUloTXRna3RlRVptLVFyZ0dfeG04cmhUZ1RSbkViNFNhM0FKZ0k5N29mUmY0UU9lUXlHMGw0ckJxVHFiZFJ3cjFhbFRQTUpSNEMzdFQ4U0REUzJlU2FFY2h3Q0U2UmxnS2lUbm90RnM0WUVfVEJiaFFEdUlGYWs2YXp4NzlRekdtQTEyZjYtMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T04:03:00+00:00"
+    },
+    {
+      "text": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUm5NdkpvWXk1YTMyNDNKUW1LSjh6b0Y1R3BJOUszSVJHNFQyeDVoTTFkT2dOYVdsdzlTMzU3QTc2M3JLS3RCOUFHRFNFcTFnbk1jWVFfX0NvUWEybTZVZC1pVFMwdGMxVExfbGNVb0hrQ1NSOExKNTNYWjFPVUplLURSMUNLMldLbnpZdmZiazU2R0RQajJmNXVrRllpNUVLdXlsTi1ERVlyeTk4WFFWanFfZVlDem0wbERnRXEzMHJrbkIxZUd5T1g0RHRfaWR3aS0za1Y2WFdtTjlNamlR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T03:03:00+00:00"
+    },
+    {
+      "text": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-24T02:23:17+00:00"
+    },
     {
       "text": "Los Angeles Homeless Population Grows Again, After 2 Years of Decline",
       "url": "https://www.nytimes.com/2026/07/23/us/los-angeles-homeless-increase.html",
@@ -48,164 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T23:05:46+00:00"
-    },
-    {
-      "text": "Trump Live Updates: U.S.-Saudi Nuclear Deal in Doubt as President Demands 'Normalizing' Relations With Israel - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5NHVvazE0X1MtWFVEU0RCY2p0V0wtN1ctamNpMkU2bi1qNWh4U3IwSWRFN3ExN1ZVa2dacFVPeElLam5JZ2xfZ3ZiWTI1c0ZkRVJSaGNLR3ppREVMN2JKdFZfNA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T22:36:44+00:00"
-    },
-    {
-      "text": "Gen Z Fell Out of Love With Work. I Don’t Blame Them.",
-      "url": "https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T22:16:17+00:00"
-    },
-    {
-      "text": "Did the World Cup Live Up to Tourism Expectations? Here Are the Winners and Losers.",
-      "url": "https://www.nytimes.com/2026/07/23/travel/world-cup-tourism-us-canada-mexico.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T22:05:14+00:00"
-    },
-    {
-      "text": "Rapid pace of interceptor and precision-guided weapons use worries Trump administration - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1M2STA2ajJYOTh2UWh1cEp3TVBub1ROY25tb3RoVGVJWUhlanZyeGc1YVNBaENpMk1qVXB0UnNrSDFxdWkwanVrb1drOWhUdXN3SVQ3S3ZjNVUtQVJPQlVVdlIxY0VsMHNjZ3ZuMkwzNUxRZ3NTT3BqOVRiaE9tY3JVb1Q0M3NTd0UwUW5vSnJpbkNqUEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T21:58:00+00:00"
-    },
-    {
-      "text": "Trump to Impose Tariffs on More Than 80 Countries",
-      "url": "https://www.nytimes.com/2026/07/23/briefing/trump-impose-tariffs-popcorn-buckets.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T21:54:50+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "U.S. Withdraws Subpoenas Issued to New York Times Journalists",
-      "url": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T22:56:42+00:00"
-    },
-    {
-      "text": "NYC stabbing attacks that injured 2 being evaluated as potential hate crime: NYPD - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1NlZmpmYlRHelBxY204Uzk2Z0tJQ1lnMExBNVN3OUpTTmNUZURfbk5nZ0Q4OGRSckliTW9mNkkxdHlHWTlBbllHeHc1Y3R3Vjg4aXNrZHVQX0NGWW1ENS1IcnlkSGxuR1BHWGhnbGJvQXFnMnNncU9WdVlkLVdGdkNHc1o0enBfX2xSem1UcEHSAZYBQVVfeXFMTjlnUEZXYWxJajNza01WaDFFTGpMeW9SXzBfdmt6bEhQRlVGV0s0LUxsNkFMcFhXUkwzTmF3YUtJa2FjNllmVXNKZFRYeGhqc1U1eEZwN0xheUlmRTZHeE12RUpNZkdLVGNMemwxc0tOTXMtQURuckVBMVJGLUxfZk51aVFITENENTU5TkdnTzVnaGhEN0Nn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T22:25:43+00:00"
-    },
-    {
-      "text": "Trade rumors: Slugging SS available, Cubs, All-Star LHP on the block? - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3VXdGI3YVpqVDB4TVMtU2MtSXVUR0JJZjFaZUdmeEhrbmg0ZnQ4NU1PRFVzNm41aUtkMzZjaXl6VXNPenM3UjBVMFl1QW1aZDJBdFFxMWd3YWNTVXk0UXVQa3BHVEE0N3V6ekhsR0pOdXFKTEtOVXlnb3NnaXh0aFpabHk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T22:07:33+00:00"
-    },
-    {
-      "text": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T22:03:50+00:00"
-    },
-    {
-      "text": "Bear Dies After Getting Stranded Atop Electric Pole in New Mexico",
-      "url": "https://www.nytimes.com/2026/07/23/us/new-mexico-bear-electrical-pole-death.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T21:57:58+00:00"
-    },
-    {
-      "text": "Trump and Thune Clash Over SAVE America Act",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/trump-thune-senate-election-bill.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T21:39:07+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump Administration to Impose New Tariffs of Around 10% on Over 80 Nations",
-      "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T22:42:02+00:00"
-    },
-    {
-      "text": "US threatens 'major military punishment' for Houthi attacks - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ0VGUjE0ZWFqSU93YnFhVmppdnM4RGQ1S3hBLWt6dGJyLU1UWS1XekdHNTIyMEsyR25fVmxWd1BSdHhMa1VLWTRsV0pLcEpScEEzQ05IOGFLRkp0N3MwdEZFQUVUV3RmQ0g3VUNvQ2cwdEFSNzlRUEpBV1JwT055ZFVHQ0dnR1B3VUFfVnJjcnNiQW1QeHpRXw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T22:24:50+00:00"
-    },
-    {
-      "text": "Trump to impose double-digit tariffs on dozens of countries - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqcWdJU0FnRnVWMmUwNnJtTDdCSGlmcVdHb2k0MlVUTl83V2l6RlFPT0NoR3dBcjlIVlo4S1RkMEdVaE4wbm5JdklsRXF4eUZ1QlpSdGYzU2xYZVA0R09RZmQydnJsNEVubjQ0YjRtRWp6bTVKMFZ5Z19B?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T22:06:50+00:00"
-    },
-    {
-      "text": "Kagan Says Supreme Court Has Stood Up to Trump in Key Cases",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/elena-kagan-supreme-court-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T21:59:39+00:00"
-    },
-    {
-      "text": "Democratic Voters Keep Defying the Party Establishment",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/democrats-dccc-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-23T21:57:06+00:00"
-    },
-    {
-      "text": "Trump-Thune Rift Intensifies Over Stalled Election Bill - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVENhVGFWVl9mZENaN0UyaDhENm40OHZPelBGbWdiQlJ4VlVxNVlnSDF1TzZ6ajBpRHZEbU1FTDFNektHWnJJRU1ua2FWd2otd01jd2hzLUo4Vm92Sno2MzRvekNKYjNiT3ZaT2EzSzVYdDhoYmhWZFkzZXl5SU9weTJDLTI0N0NJRnluWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-23T21:39:01+00:00"
+      "time": "2026-07-24T01:57:52+00:00"
     }
   ]
 }
