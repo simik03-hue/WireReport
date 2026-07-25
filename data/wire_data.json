@@ -1,34 +1,90 @@
 {
-  "generated_at": "2026-07-25T14:51:03.554373+00:00",
+  "generated_at": "2026-07-25T18:11:28.142635+00:00",
   "lead": {
-    "text": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-    "url": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
-    "source": "CNBC",
+    "text": "Katy Perry blasts White House use of song on Iran strike TikTok: 'Deeply appalled'",
+    "url": "https://thehill.com/blogs/in-the-know/5990408-katy-perry-criticizes-white-house-tiktok-iran-strike-video/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-07-25T14:48:15+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-07-25T18:08:12+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
-      "url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-25T14:46:05+00:00"
+      "text": "Wildfire Smoke Chokes Skies in Spain and France",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-25T18:05:45+00:00"
     },
     {
-      "text": "Some people are getting shut out when it comes to GLP-1 drugs. Here’s why. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX29NV25uRF9nTVhodC1qMnU4X2xhYXNEc0Z3Ym9JeUE3bGNvZmdub05Eblc0TXJxVHhmOXpOaEdTSWVNN3JJX2Nnb09nTExxVXJxV0p1NUFPYkswQVhyNnlFT2ItTkwxdWwya25Ocml1RmhZZnNob2kzUWNvbkhyYURSZ1N6bm5YRm9IeGp4SUtGZVpGc2RsRElYSU9VUGRPT1FMdWhKSi1TRWQxUUZEZ0RlMA?oc=5",
-      "source": "Google News Business",
+      "text": "Live updates: Troy Jackson takes Platner's place in Maine Senate race; Middle East conflict persists",
+      "url": "https://thehill.com/homenews/campaign/5989977-live-updates-trump-iran-warm-maine-democrats-senate-race-whcd/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-25T18:01:19+00:00"
+    },
+    {
+      "text": "India's 'cockroach' protest called off after education minister quits",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-07-25T17:44:46+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Democrats nominate Troy Jackson to replace Graham Platner in must-win Maine Senate race - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkFLY1l4ajBxOFZLZnZCeDdCcW9mdmpSb1ZVaV9CcUUyNzdvX1FJa1hFcXlyYThsY3lSbVFIVzh6YWV6bHVrQ0ktaDJ3SGw0Rm5IVG5wOG1CQTZTUHZWQTFBSGFGTlhhMGFhanpRclZ5bDBaSGFhWDJGSXoxZ3E1OFFLYmUwYVQxSG5oYndHWEhSUkVhcVQxMU9vYlJ5MUlQNXk5VG1QaU5KQ0FzeFNjXzk3cTlPV1lZOVRlUjVZQmxQcWk2OUgw?oc=5",
+      "source": "Google News",
       "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-07-25T14:36:30+00:00"
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-25T17:38:00+00:00"
+    },
+    {
+      "text": "UFC Abu Dhabi results: Ankalaev vs. Guskov - MMA Fighting",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQmxrNklkcHlqNWlkaFBFRHBNUjVmWFdPaElBcWp6bXIydEVHYjNtV0RmcnI0azhwdUh3UzNkNk9UTlFoTVlxT2FGdlBwZUhDY0hocG5DeWpnZlNLY21NeTgtX3RNWldHRGxQNmk2YnB1SlpCWnRYeHNUdHZ1Vi1kNEtZSHJBdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-25T17:06:14+00:00"
+    },
+    {
+      "text": "Trump ordered military not to conduct strikes in Iran Friday - Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJUU5fVlN1SHhzNTNqT1ZRdTZYR0lXOFh5UUE1UXMxNGlQNzNtUE5ON19NOWU5dzhGQktmOWVmT0xQSGlmSUlOWUx4aUxmQ25XUjQ5NEo3Tkc2OEpXSXN5eURfbXdPMC1LeGdrWTdCQ0xib0d4MmNVMjRRT3Q0NVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-25T16:55:01+00:00"
+    },
+    {
+      "text": "‘The Odyssey’s $84M+ Second Weekend Will Be A Record For Christopher Nolan, Besting ‘Dark Knight’ – Saturday Box Office Update - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMElSbFZTQkRKa0xIQ3lSeVBsc3UxV2QtS0ZEZEgyU1BzbXV5TTlzQUtDenk5Vm5FZ1F0am4xVV9faUFUb2tTTmV4TWdQSXluYi03Z1Z4Z20zZVN6ODV0b0VSdFJaYXF2LUxXenRWSWhxb19OeU9PTGQ0NjV3Mjl3U0FldkhXQW1GYnJDY3hoS0NlZWlTQ2NTc3I5Q2JpNjdUUEVn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-25T16:03:00+00:00"
+    },
+    {
+      "text": "Nolan’s Zero-Eros ‘Odyssey’",
+      "url": "https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-25T15:08:45+00:00"
     },
     {
       "text": "Inside the Rushed Effort to Get Trump His New Air Force One",
@@ -40,34 +96,63 @@
       "time": "2026-07-25T14:31:56+00:00"
     }
   ],
-  "col1": [
+  "col2": [
     {
-      "text": "From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html",
+      "text": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-25T13:58:49+00:00"
+      "time": "2026-07-25T17:32:39+00:00"
     },
     {
-      "text": "What to Know About the Wildfires Raging in Western Europe",
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
+      "text": "Katy Perry Erupts on Trump Administration for Using 'Firework' in Military Video - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObjNpX3lKdXZmb2hxamIweF9lUUFJQVRtS21tWmlISHNabWlPclRzalIyZkUxNEJZWnUzODBpTk82QTJmTXAxdGZuVTF1UWdjLUtxZEtyYThEb2kxclNSYTRuVlVrZGtKLU5rQnU5UkNDTHNQX25EM09VS3g0TFJtY0NvN294aHpjbklZUW0xSm1KTzlsM0JQdE56RU4yQmhsRmRn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-25T16:56:18+00:00"
+    },
+    {
+      "text": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+      "url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-25T12:53:41+00:00"
+      "time": "2026-07-25T16:47:34+00:00"
     },
     {
-      "text": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
-      "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "LeBron James taking tougher, more meaningful path by choosing 76ers - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmZsczRQRWVSYVZFZ2dLSEZWZGZsbl82R3Y0dmVqcTVFUUNyMFJRZWNnSXY5MGpvY00yNTlZemhZY3B3Sk9TR0xRYVpqcG5LSDBRNXprMU4tazZvNXdCcGdWYzl2aFVySFpIUV9za2NGMXpQYTFYeGxYbElOc3l2bE4zSUtTTEpocE9waWs5SjduckRfYzU0dW1JZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-25T12:11:26+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-25T15:25:34+00:00"
     },
+    {
+      "text": "Trump returns to WHCD with measured tribute and sharp attacks after April shooting - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2RNazlBcVpjZVBtc2Z0Qy1XWGxMNjk5RFRpZ3BHVG5Od3hrNlpwam4zajNoTmdJZzlTcUFfWU45UndCUTNHa2NGRk84aENTVmloVVp4bU1sb29tZ1M1VHNuY25OU2YwRkRHbjFFakdCTFgzYkJaZlh2c3p0N2g1eDU3OGhkVXRIYXlISmxyZDB5R21PWFdBdTVvMHBodXBsblljZDFjek9MV1pVU0dBRF9XNGtEMGJFclV5em1LTWRmZklSQ1pKb2RB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-25T15:01:00+00:00"
+    },
+    {
+      "text": "10 Desk Gadgets That Just Work - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ObGl0a0lpdjdZRjRzQ3ZiWkNhQ0pOTm1ZM2J4X2xMb2tlNllqbjN2cXBqQzBJSFJTSGNtZHhtSXkyVzhtaC1WYmdWN0NvRDdFSHk0Z1dQOU95WElGUlQzQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-25T14:02:00+00:00"
+    }
+  ],
+  "col3": [
     {
       "text": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
       "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
@@ -75,137 +160,52 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-25T12:03:43+00:00"
+      "time": "2026-07-25T17:08:30+00:00"
     },
     {
-      "text": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTk13M3pUcWJqOTl1dlJ0NVFVWVVJT2FMdUhQeFgtcWEzRFFhZmExUXhiZ1ZnUjZobXlpVFZTYzlEVG5meHUzb2VlanNOOEJlSlB2T2doM2M2TlhLYUs5RlZ3c2hWUGJwOGkxOTZuTHB2bUNKVmFPcFlLWjdoTGpLQThaZndBcmFYZmlMUDRFRV9wX1QtYkk3cXB4SklmVjRBaTVISXczVXF3dDVqU0HSAbMBQVVfeXFMTXg3aGk5ZGhnOHFVYmdpUVlKc1lmUXVWNzc1REJ3S2hfTUw1RWpETldjVkU3TFNPNTZOYk80cjdWRXBfOV9ibkVnbW04TFBYMHo4ZDhnR1RnMkpxcjRZMXNPYWdqeXJlN012Ti0wZHFZRk5oeE51aVB5X2h0d3VnU1lyN05FZmdVMndHaDZpUWlyVTRWc3lEaTFVVUxJdjQ3QlFxTkluNUtpcmFkbkFEdUQzM2s?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T11:18:17+00:00"
-    },
-    {
-      "text": "The New Tactic Trump Thinks Will Rally Voters",
-      "url": "https://www.nytimes.com/2026/07/25/opinion/trump-iran-socialism-communism-dsa.html",
+      "text": "Sally the Robot Was Coming to a New York School. Then the Plug Was Pulled.",
+      "url": "https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-25T11:00:26+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Wildfire Smoke Chokes Skies in Spain and France",
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-25T13:44:37+00:00"
+      "time": "2026-07-25T16:55:36+00:00"
     },
     {
-      "text": "More than 250,000 people flee their homes in France and Spain as wildfires burn - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFdwNENnTmc5a0NsRzY4cjVhZ3VKUDlzOHFPWjZZZ1BuZ3hsV0FkbVlHVEhYSS0yS3gxMk1fN2t4bFI5aDZGY3ptQmU0emEtVTlBUVcyQVctck9fam40Rm5VTTVaX2ZmMEUxY29WQ2NqYzY3Tm9sLWZ6TnByNVFORERLTEdjc0FzazJiVXBUWWJtUU0?oc=5",
+      "text": "Spanish PM warns of 'complex hours' ahead as wildfires displace 270,000 in Spain and France - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OVnBXanNudE5pMzFuT00tdC1ERGhJMXBmN2phb1BiMmJjbnBaWlFYaWN2aFBna1R3Wkd1WnRFdGxMQk0yUTBubGh6bUQ0YW5HVHJJSQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T12:24:00+00:00"
+      "time": "2026-07-25T16:25:58+00:00"
     },
     {
-      "text": "Plane crashes into house killing one as vid shows tail sticking out roof - the-sun.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96WmFkOXFMdWZJUmM5bFpuZ2RBVU1ZY1pCUDZJaElXSl9Qc3gzTXE2VFljVTZvS0FnSDBKS1hlQnhjcnZVOGdCNi1JamUxSmZ6dWRudUUzdVJyZTF5OENRMks5d3Z0Uk1HOTlGdHJyUDYxQkpRVURtZVFGQ1Vldw?oc=5",
+      "text": "4th firefighter dies from burn injuries in western Colorado blaze - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYlpoV2d0cFRIeUdhMWF5NGhFY1RZTEd3TVU5a2h5dlUtNlVWNzRfSFVMVEJLSE9nS2Rvb05ITjI1N3VOeWVWQnNwSnBMOTk2dnNnSVM0NWhVUVQwN0I3MERyNUxHT2hva1ZsTGZnbTI5ZFRuWkdfM3duelBLd0tQS1RSbUZYQkYzSm1xNU4zWjM4YklKdmtjT2NBR18xVlhwaXNJ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T12:07:24+00:00"
+      "time": "2026-07-25T15:18:00+00:00"
     },
     {
-      "text": "If another advanced civilization lived on Earth before us, would we know? - CNN",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTRBV3Q3Qk50MmJFSDlEb3pNTEFjaEIzcGFQajdORVdEclNPT1Q4bER0TkUxYlRwLXpPa3I2MG1KTEZnMk1PMU8xZHRvd2JTWVR3R0tTeEsyVTRkS0V5UGlGclVKOXg4dDl2emxUODlkM2pBWWZVSXpvNi0wTk81bmJaLTk2Mjd1a2sycU1oZVQzNzN4cEJzeg?oc=5",
+      "text": "A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENfeUV4XzV6bW1UNHZmU2VmZnVPVkgyTW1kckF5RG1FMWg4VlJiaEpKSlZvVDNIdUdobGRPYk5EazNOdFhfMzlaeHdRTjQtOVNiakRTRjdxTVdfa1JERWpBeHJGZUxLMzBkZDhvSk1YMWtfR3hVMF92MUdQcWtMa2xsNUFqMEFfczVhQzVSNV81R1pJSThoVVFobHd1MUhqamZz?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T12:00:25+00:00"
+      "time": "2026-07-25T15:00:00+00:00"
     },
     {
-      "text": "India’s Education Minister Steps Down, Handing Win to Protesters",
-      "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-25T11:06:44+00:00"
-    },
-    {
-      "text": "Nolan’s Zero-Eros ‘Odyssey’",
-      "url": "https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-25T11:00:21+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Hungarian Grand Prix qualifying: Formula One – live - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDVOZ2Q5eHM1bHE2UGVGRDh5UG9fZUc4aUhKX041cjNGUjdNRWQwOEh2TXlQMGEwbk5ZajY4UkFkejFndDJhX0xza2tqQ0NRbzRzTVNUS2FIbXV1TDFoaGFzanFmZUxmYnFzZGhqY0tveUk2aEo3YkJxb1BkeXBqbmo4MFZWMEF0U0RYVEhsZURQS04tR3lwdDczZXBVQTVz?oc=5",
+      "text": "Houthis fire missiles and drones at Saudi Arabia in response to strikes on a Yemeni city - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnV3Mm1rUEtJU2NZVURHalNWRVFISmJVZjQzNlFPdC1XVTY3NFcyZzVJd1phMk01RmlJdnIyTkF4RmNwWHk1dDlaNG1scmhlamo0RjZFbzZCU0hNRXE3T2FVNW94aTVMXzJVMWo4clpQY3Fnb2NMRXNsMUViOEZNX1JJdXFwOFZ0RTIwbTA4Z3dnNl9POVZqYk1lbnZITG8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T13:01:00+00:00"
-    },
-    {
-      "text": "Kevin Durant Defends LeBron James in Social Media Posts After 76ers Contract in NBA Free Agency - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVA3MXpDNnB3XzdBYjlIYXpqZkNCcEdXaUViNTJVRjRXVVN5bkVYaUhtZ240Sl9oNkdiOFhyeHlZZUNEQm12R1hVeTk2ckpXMWxuRmdOQVA1WmFQLTY5Zk55OHpJa1dzWlJ4dERHOHpEemp4TE9RZW5vcTZ3andybDFwWngtdldFTElkcmd5UWZsMkNRZXVoT2cyYjFVLXpaa0pYemJnQjh1dlJzLUhSQi04MU5JVmFDTGQ1MFcyRWRtWmotczFLVEduakRsYjQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T12:20:22+00:00"
-    },
-    {
-      "text": "A grandfather struggled with treatment for late-stage pancreatic cancer — until a clinical trial helped him beat the odds - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQm9HODEzdVRTNDl5MUdaa250U2Z2c1Z5VXpjTWVEZ1YyWmdnVmdkV0FiWW5UUGNkSE4yYjcwTlBYZWxOUkQ5OWljOGNOb3pIeDhXM3R3dVhOYkVncm1keDdubXRIZm9rbHJhYm10VVJEbUhWbi0wNEwxcFROT0ZoVmN6d1BUUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T12:05:18+00:00"
-    },
-    {
-      "text": "UFC Abu Dhabi live updates: Magomed Ankalaev vs. Bogdan Guskov results - MMA Junkie",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGViOFRXQ2o3WWoxWWFnbFRPdnI3eEtJR0owTFA2Sy0xUUJJQWF0ck5PQUdwSXlhOVFkQ2I4T1NEeW1BWmdwd3lSTlhOYUFXNW1pc3RmUlVYUW9nZHIyYjY3TDc4WGJaeXoxODVQT2pBNWQyMjgxSjI0Zm02VjE3U2YwM05ZNnNiMFQ4X0E5RzRUMGxUUUo4T1JNM3FXTHV1SXNaLWMxOVhqejJQcWpRV29MUmhGd2EwNUlNVWNNRVhOVlptRHV2b3RTd3MzcUFKVDdudDBrTTZYYkNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T12:00:00+00:00"
-    },
-    {
-      "text": "Trump’s insult-laden speech to press dinner draws mostly stunned silence - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXNLRFBVSWp6bVVQUTN0QmhReFA5QzhtLTN4aXMwZjQ3cDJtaXBGcWFEQm8tSEh0clZEb2dfQXQzb0doc3FMbktidy1qVXpXTGpFMlpqUllhLV82aGMwcUNNdFZNVU1jVjFpOUZmOXlzOUVjajFBYVQ2RE9YQ1ZsRkVEWkNwLXRZNXhIVHdBLXJjOW5ONUg4ekxNUjhLeEVIZWp1ejQzamd5S3BqOTItLVRfTm5UY1V3Snp2eUNVUmdtQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T11:02:45+00:00"
-    },
-    {
-      "text": "UFC Abu Dhabi loses fight hours before event - MMA Fighting",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzlzTjFMRVJSaGNNR1JPZHBOWUhKanhtZTZiUmZLdlNsYTZkUHRNbFlxT0FTVUlmNFh0QzJGRGJsVnZnUXRpRTJUUmVNYTNvcFl0SEZRSUZ1RkQyTWNkTUM1eVV6N2xmeFhmVE1pUmRXUFhXNHZyWVdNb1VubjRVcEk3cTliTWhuc1pj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-25T10:58:00+00:00"
+      "time": "2026-07-25T14:00:00+00:00"
     }
   ]
 }
