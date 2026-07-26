@@ -1,54 +1,119 @@
 {
-  "generated_at": "2026-07-26T20:16:43.893657+00:00",
+  "generated_at": "2026-07-26T23:46:16.184776+00:00",
   "lead": {
-    "text": "Live updates: Sen. John Kennedy says US should not 'cut and run' from Iran; Cyclospora tests Trump admin",
-    "url": "https://thehill.com/homenews/5990529-live-updates-midterms-jackson-collins-cyclospora-trump/",
-    "source": "The Hill",
+    "text": "Here's the tech stock to buy in a market losing patience with tech",
+    "url": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-07-26T20:11:46+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-26T23:39:46+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Suspect in Berlin Pride ramming attack shot and killed by police, authorities say - CBS News",
+      "text": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates",
+      "url": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-26T23:39:10+00:00"
+    },
+    {
+      "text": "NASA astronaut, 2 cosmonauts return to Earth after eight-month stay International Space Station - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlplbkI0UEFYajhQZ3JOZ29xRVNZYUV3SDBScDdNUzJZcmViVUwzU3kzSHJRZFh6S1kzaWlaNUpVdl9VRzYwU0hNQ2luNjJHLWNLTHVMVmtyT1JTMENfaXRHcjg2dmV4TENtNkJ6Z3U3Ny1iVXpwd2huQjRDN0FXbDB3OEJCeTNlOS0yVW1iYUc5YnhZUDhKWWZWaXo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-26T23:10:29+00:00"
+    },
+    {
+      "text": "Oil Prices Fall After U.S. and Iran Pause Fighting for a Second Day",
+      "url": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-26T23:06:43+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Netanyahu Accuses Mamdani of ‘Hate Speech’ After Mayor’s Video Address",
+      "url": "https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-26T23:00:49+00:00"
+    },
+    {
+      "text": "Meet Jeffrey Epstein’s Girlfriend, Who Stands to Inherit Much of His Estate",
+      "url": "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-26T22:37:32+00:00"
+    },
+    {
+      "text": "Industry star David Jonsson to play Black Panther in Marvel sequel - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEtrUkFsZWpJSTc4Z05xRUVTakhZOTZBRi03b2o5d0dMaEl4QXRDVHFYMTRoZlAtZ2h3YkJLMHhYdVk0VV83cG82WjBsc2VUNGpIUWh3QjZUa3Y4N2FJOHlMRk90RWNiMDdUZjBCZjVlSnNqTnZMSWk0ZGxxb2o4RnYxNVlKT1JlaTF4dndLS3JDeHg2NW1acjJrQkoyT2RlQWdrZ3NtSDhQeHdFSkw2Vw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-26T22:03:00+00:00"
+    },
+    {
+      "text": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
+      "url": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-26T21:25:31+00:00"
+    },
+    {
+      "text": "House Democratic leader Hakeem Jeffries kicks off 100 days till midterms with affordability agenda - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXFpUXVnZGRLdUcwZndteVJQT0pmQ25DYzZWSHVBZlI2enNBTzFDTGYwV1RFQy1TNXROX1BMVlFDVk5zSnF0dHhNRGtTaUdRYWM1RkJzRk5GUWRmY1hTYmZITTE5TmFBVm5zdGN3TnFpLWhoT25meGxnaGh4aXJTQURUNjNGcDA5ZnZMVUtPcjh0aFlrLWpjZ2pRN0lwekdtc1ZvYjR3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-26T20:55:00+00:00"
+    },
+    {
+      "text": "North Carolina woman missing in Grenada as husband heads to join search - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTRlZzFOMGVhZElvQy16d1M2ay1jWTJibFBkdGxiQ2c4N1lKcGxqdDc2TmhpbjNqT0pKaDZDQmxsN2VtQXFWZUhIUlJINmhrem1yVGtIa0RRZ21yNUJfZE1pTUVZSlV1T0F3NUlKekN6Z1EzRGZ1SlBGMmUya0wzakxMYUtqbkFBdjZzTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-26T20:01:34+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Berlin Pride attacker served less than 2 years in prison for wanting to join ISIS, prosecutors say - CBS News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDVJSkNBeVM4Sk9sQUtBbXd0S3BFTzUwNUtwdWJZMGRCWGttS3JoZVMxeFU2b0tkd1F5ai1JT0xtT0NhREUyazU1Nmc0ajdmWEhlRWdyT0Z2bXJlWkdsWUZXbm5GQ1h1Q3J4ZVEwYmdGTUlURVZpRnpNeXNDeGpyVW1mcDJDTmUtWXhKZTZVWGZzelhxbE9mVjk1YXFiSmdHRjJ2S09UU28?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T20:02:32+00:00"
+      "time": "2026-07-26T22:51:09+00:00"
     },
     {
-      "text": "Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVlVaXc1cnFqdHQ3bmlBUjVlRkhaa3pGRFhiYUpBRVZuV3QxNVNGR1FpcWJBbUVpcGlFRHFwWjhRQ1RUc0ZNazJPODFNRGlnWW1aa3F2eGxDdHlEQnJIUkRzY19lc2pPbUc0UThtalZ0MEd3U25ZOXZ6ZURxbEM5NU5iNzU1Z0c3LV9zdXZyb2xIUEgxakJ4UFBJbHVUVnZHQkd6cWJYcUJOTzBYZmpKanFVRFFLZkVGTnBYRHFuYUJ0amQ5ZEx4VEJpN0xNcFU2?oc=5",
+      "text": "On Hall of Fame Induction Day, here’s how Beltrán, Jones and Kent got to Cooperstown - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ01Hc2NIWlRjSHhrbXNBd3BmYnpvcnhjMmt5dHV3c1RGelF6QW1WbmlkcDFMdjJpMm04M1pWM1dLR1hfaXJkd2p3NUdycU5NdW5KMlVVN0J0eVl1M2FkWkNqLVRJcVVnNkQ3MU8xckhVSzhHZUphZk5ibE9RVnNmRThHalJUd3BCX3FLRk55MV9sbWZoS0tLLTB4SlA2eUpSMi1xS2Fn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T20:01:17+00:00"
-    },
-    {
-      "text": "GOP rep: Trump 'would be derelict in his duty' if Iran had nuclear weapon, despite war's unpopularity",
-      "url": "https://thehill.com/homenews/house/5991251-byron-donalds-defends-trump-iran/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-26T19:59:59+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Live updates: Battle against France and Spain wildfires is in a critical window as hotter weather looms - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVNaRWVlVU45MURpeGsyX3JUSGFZTEJmVTYtSEYxaEpTOVcxVjBpVHZ4RkE1bTJpWkdPc3Q0S2hLRXpuUk5xWlFPRGF4VFQyUmZsS1VFYkp6M1F0RDdSZzY0TTMzZjNwdlpCZlFvQk4ya2x4OFhnOGRuRXVMNTZCaU9feFJvZmNf?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T19:38:00+00:00"
+      "time": "2026-07-26T22:21:30+00:00"
     },
     {
       "text": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
@@ -57,155 +122,90 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T19:07:03+00:00"
+      "time": "2026-07-26T22:00:25+00:00"
     },
     {
-      "text": "Iran war casualty count eclipses 600 as Pentagon quietly changes accounting - CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KbmMzOXJnRkREa0ZhNjVKdHl2T2tObkZvN2dIQl90aEE3eUpQYzc3MlZkeWxkUmpfNHN5OFVZSjlvaFZYRFYyRG9kM05mNkVNMm5Sc3pNWk5BaWNfX05wb2hiTHBvYWNNbm9N?oc=5",
+      "text": "Tadej Pogacar confirms status as a cycling great with record-equaling fifth Tour de France title - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjNxaE1fbDFBdXliNlY4ZkU5RFM5ei15Vi1UR3liMHpnWW5pcklOb0pJTFVhc2dydGNIWFFJd1BPaFh4VGxMOWpYaUpXTkVEaXppOTk4cjVlRFVjeW0zeklHXzhrT3J4UlJKc0pHMGtHR0g4S3JtcXR4cWFOQURGUERfZXI5aDFaOUE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T18:02:11+00:00"
+      "time": "2026-07-26T21:23:00+00:00"
     },
     {
-      "text": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-      "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+      "text": "The Indian Diaspora in New York Joins the ‘Cockroach Party’ Protests",
+      "url": "https://www.nytimes.com/2026/07/26/nyregion/indians-nyc-cockroach-party-protests.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T17:47:40+00:00"
+      "time": "2026-07-26T20:25:58+00:00"
     },
     {
-      "text": "‘There is no enrichment envisioned’ in Saudi nuclear deal, Waltz says - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMnBhZHNlR1EwUFhyRmtONml4TGpmM180bTFfclFRamZTLTVzV0ZhYmxUc3dHODlEbzRfSTV4cFZMeU1QSm9nYmZWczFRZUlIX2pZVEtqNHY2emFfR1JNaFhxWS02Mkxxa1c3T3lQU0xvMkl2R1BHc0N2N1Vjb2owT09kYUdkajdLMm9VYXlYdw?oc=5",
+      "text": "Pentagon’s official Iran war death toll no longer lists 4 troops killed during renewed fighting - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0NWMkxKcnpoSHlpdzZEX1N3UlQ1Z3RmMV9RcnFJT09VemZrYW1nYUlib0gtM0U4bzhrbHd2eUpJLUNSU3d5b1VIOVNLcS1IbC16VHhqbXI3N3lCczlnMER5eWtqbjJ1WW1fY0lGZF9LemsxYjhYSGdOWlFUb0U5XzFQQ3EtMVM4RDcyV1lxblc1R0thazE2ZFFwWHZPQVRDQ0lKNw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T17:06:00+00:00"
-    },
-    {
-      "text": "Why 529 Accounts Make More Sense for Investing Than Trump Accounts",
-      "url": "https://www.nytimes.com/2026/07/26/your-money/trump-accounts-529s-investing.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T16:44:56+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "A Captain Calls This Yacht His Home. The Owner Is Selling It.",
-      "url": "https://www.nytimes.com/2026/07/26/realestate/a-captain-calls-this-yacht-his-home-the-owner-is-selling-it.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T19:30:52+00:00"
-    },
-    {
-      "text": "TikTok influencer who accused estranged husband of pedophilia found dead in possible murder-suicide - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVRGV2FOeW95ZXZvUWRVbmhOQkJMbHo4dG0zbEFDNldLMUh1M2lVM21YenkteFEwQkYwVDB3YkJvSWJoYTFPRnllLXN5MFdlM2pucGIxVDJxTW40bVdOUHdiZ3ZZSHBmdDFNSnZoX0xQWEJmZ3NXT1J1RUdGYUQ3TUFNYWYyZnJremd6UUZLM0RGaEpqNGh3OV9oTERpYmRtTnU0VFl6Tll1SmNLVGlNdThfQ2tWV3fSAbwBQVVfeXFMTU9OY1BDSER2TEQxYkE2TVlKdHFBcEtzSUxQcUZKM2xYMG4yTkFLRlJZYWxqQXNMVTM2cmJhYVRMNm5tdnQ2TnBaZHZ1TWNFMWQxeGhjcENKTWlMSFlNcTZDVFNDcDJpTHFteTNnYVpydmd2ektCUUZiMG1pU1ZSaU1aeXo1b1YzZ19BclBxa0hQMTBKeW9rakxrSW9jalczWVpwZE9FZG1ZQ1FDUXQtX28ySHFMeFlCTGdkbEU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T18:07:53+00:00"
-    },
-    {
-      "text": "New York Democrats face a generational reckoning - Politico",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHFBN29keGdRckgzNk9RZ2tBb3UyekNITFJrQWdRYXZjQU1kNVY2clVYRzdsaldFaklLWkhNWS1NWmd6N1F1Y1R3R0VURzVzaEtzOWhkVFZyRHI2amdLeEhrNGNfTDNFa3AxS0ZEaFhwRTRqbGpGdzlhUHdBcThYTlVnanVEckkxRUpISkx4Y1V3ZzZULXVwSEhaN3BpMGs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T18:00:00+00:00"
-    },
-    {
-      "text": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party",
-      "url": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T17:31:21+00:00"
-    },
-    {
-      "text": "Republicans see ‘scary’ lack of enthusiasm among core voters ahead of midterms - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTNxbzhwUXhZdWJkNzYwNE5uc2E1ekpXT2luUUllUERZTXQxYW1hOGlYUVljYlJWeDNRcUhtM2N0QVVQNDJUYW1CZmZHOEhVT21rYUhUelhJVjRjZGc4RFRwRVZkWmtjUHpqdzlBZUIzeU5NQUFNQ19HbS0wNlhwTFZvT3B1MzY1bDVDM2RtWlJmR3VMeVk3ZkRRM2ptM1NFVWlGUVpn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T17:00:00+00:00"
-    },
-    {
-      "text": "‘The Odyssey’ earns $87M in its second weekend, Christopher Nolan’s best second weekend yet - AP News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaVNULUFnSTR1NkEtZXBPZHZTRlpZYXVVUWEtMU5jMjY0cXZlUGN5RUZjTHZuaEpRSXRSMnhCYm9RbXNaZXBGa3hYanNGWVo0ZDhvaDF4N0w3d1l6SkJua2tHVDlUSXNkbDBJU01CUnd0RHk3SUVqb2RHVHk4UGkzMm9KUHE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T16:43:00+00:00"
+      "time": "2026-07-26T19:56:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Everyone expected a Bitcoin investing boom. Why it never came. - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDIzcUJEYTAwMmsydjhFeWpWQy1nRTlIc2RoWEY4ZGhGSkREWWVPNGpFM0gtYldqZjFhVTE0a05UYXNvWDdPWDJwQ1hCUXVZcDdWTG85TVM1SmVXVWhYVVhFbTdLd25qWkphTkY2eXcxNzV2Y29mNWtPQzdKeHdhTW1NdVBvNktBa1I0RU96bkxKSzN1VUVDYnczWnFTNDJBT2V0d2ZfYzItRUs3NExKT1o3Uzd0dVN6?oc=5",
+      "text": "Live updates: Trump administration signals that pause in Iran strikes will allow talks to progress - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yUGQyOU5oLVZvX0t4bWI3dVo0R3ZaSHNoS0t1SEl0bjZHLVNTejIyeEVXMnZraDhBUE5kanFxYkU0ZHR2c2JEVzc0ZUR0MV9GMkg0U0IyRHYxdEw1Wi1FYUkzMnU4c3N4T3JwbUNB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T19:08:00+00:00"
+      "time": "2026-07-26T22:39:00+00:00"
     },
     {
-      "text": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
+      "text": "Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tOVVIS2lYcXlWLW5oa3hLVUlfZnZ6dDQybFNhd3k3VldpTVB4TWJOMTZFRWNycUgwUGRjMnp6MWJUVF9aRFZfZVNqaGd4T0FaRl8tNlF4c0p5Zw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T18:07:19+00:00"
+      "time": "2026-07-26T22:08:32+00:00"
     },
     {
-      "text": "2 mosques in the West Bank are set on fire during a deadly surge in settler violence - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzI3VDROcXBHcjNGbGItN1htZVBjbXZodGRCdl9zU0psZmJ6RWVQVUtOQ2tQM21kQjNzbjE2QnFmVEhUUVEwNGllSWRYdjJ4ZXcxTWxtOWRhWWFmckhLVFgxT05LVzQ3blNGRm5PaU4tTWxIX0l1SUU5NWlOUDBLWFY2Z2FhMy1oMW9sRktFdTZVdm40MktlSEtrSXhGZ1dWYVJz?oc=5",
+      "text": "Sweltering heat wave grips central and southern US for a second straight day - AP News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3Nsd3djX3NRQmpjUTdQRDFheW9lRVNtQVpVUzhINFdFbzZJZjl6ZkpScUxUS29sT3h4WTMzSnJTRUJUOExNUjZrM2psaU1oejBaQ0Q5emVwT3IweUZoS3ZYQjBxbWs0ZnB0anh6NDMtcUF1TmVtYWMyZmR2T2Y5cko4bHRYRHc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T17:56:00+00:00"
+      "time": "2026-07-26T21:54:00+00:00"
     },
     {
-      "text": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjhoenJfZ0tKQVl5NUxxbVlzS3hPMnJMLXdaaHJ5TlNzNW9qUXRVelEtbTgySnVrZk8zZTBNa0VHZ1ZXZ1FjeEQ3Y1RnNWg3LWI5UllEbzB1S3VtRkhETEEzd1Z3blFhMTJ6U0V3TkFtQXFTelVOaVJzR2huLUdEdG5KRVk5ampPNU16cDl3ckViVTVvQTFJMnNUV2xqdnVQQzB3c1Ytbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
+      "url": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T17:10:44+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-26T21:04:45+00:00"
     },
     {
-      "text": "Comic-Con 2026 Trailers Are Here: Check Out Carrie, Reacher, Queen of the Damned and More - CNET",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZXFGeEVZekd6QW9nNGk2T2NaVm4teEhHOEVDMXRhNHkwbzB5S1lCTEdhNE5XLUlSQzN4dEIyNTRWa1dfQ3hHWWVrM2s5MHRkM18zc3Y2TFppWWkyT2dnMWJWNjRkZWg5SFJFdm40cWpzcS04aGx0Rm1uX3k?oc=5",
+      "text": "Red Sox Notes: Durbin, Trade Targets, Suarez - MLB Trade Rumors",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzQtektJLWJOaHpiSmV5UmZfM05lZi1pQWp3YnVVV3puaVZ6aUNjZkNISHFjR3ExeFVmOVlzQTV2TXQxZDMyWXdqaDlBejBaNXRod1ExcUpKZVh4b2I5ZmRMbC1TdnZEUTVITmFPbUo4NG94Y0pxRUQ0VTZoVnloTktIXzdDN052bXpVaWl3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T16:46:00+00:00"
+      "time": "2026-07-26T20:20:16+00:00"
     },
     {
-      "text": "'He's the guy': David Jonsson cast as Black Panther six months ago after 'secret meeting' (Exclusive) - empireonline.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk1GSzJoREhPZjR3MjdNeFpHbUxTaGRELU5ENkZuR3BVZ1p3c21XZUg3Q2NlZ3JJMzNmRnZmSk41TEltdGNqLWh1X1JHR3ZsNUViYTNHd291NEJCZTdCQ1EwbXZvYXhPSTZLbHpYZVlxaW5BZDgtSWFWQ2V0Tnh0OEpna0VnVENVVmZPa2FEMHRtc0xaU29CNk40bF91S2hyNm5ra2NHSUNvTlRWblRHR1UtUENueUU?oc=5",
+      "text": "Restricted eating hours may reduce cognitive decline in older age, researchers find - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T16:30:23+00:00"
+      "time": "2026-07-26T19:52:00+00:00"
     }
   ]
 }
