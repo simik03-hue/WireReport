@@ -1,17 +1,138 @@
 {
-  "generated_at": "2026-07-27T18:14:47.812060+00:00",
+  "generated_at": "2026-07-27T22:17:36.681069+00:00",
   "lead": {
-    "text": "S&P 500 falls despite Iran fighting pause as chip stocks tumble: Live updates",
-    "url": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "EPA: Data center power not subject to acid rain restrictions",
+    "url": "https://thehill.com/newsletters/energy-environment/5993023-epa-data-center-power-not-subject-to-acid-rain-restrictions/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-07-27T18:12:13+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-07-27T22:09:29+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Number of suspects in fatal Seattle food festival shooting rises to three",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-07-27T22:08:01+00:00"
+    },
+    {
+      "text": "Paul releases Fauci's diary entries ahead of hearing",
+      "url": "https://thehill.com/newsletters/healthcare/5993022-paul-releases-faucis-diary-entries-ahead-of-hearing/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-27T21:57:57+00:00"
+    },
+    {
+      "text": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-27T21:56:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Tornado Damage Reported in Wisconsin as Storms Unleash Heavy Rain and Winds",
+      "url": "https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T21:45:48+00:00"
+    },
+    {
+      "text": "Pentagon relabels U.S. casualties caused by Iran amid scrutiny of wartime transparency - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLW96eHBiZ0pvd19qVkZPaENNaFlmZ1BaLVhZQmQ5VGcteE1ZY2hEd2ZqSFdNWmo3UE8xaVBiS2VYTUxSQlBGZmdIcHBMeTVDcUdWN2JhcV9HcXJURHlZR01WQkhRYXI1X1BvRjNWV1BxcW00ZmtBdF9DeVlyc3JDdG0zdHhPcHd1dl9jU2IyQkY2MGlja3Z0czZzUmllOEdhSmJxc00tOTVZeF9OSGxzSFZsT0xYU0xJM1BWOGlnSkZ6TGpqbTFwZFZaMldHN0c5Rkw0ajZMQUo0QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T21:27:21+00:00"
+    },
+    {
+      "text": "Seattle Police Search for 2nd Suspect in Deadly Food Festival Shooting",
+      "url": "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T21:15:55+00:00"
+    },
+    {
+      "text": "Maine Democrats Have a New Working-Class Hero in Troy Jackson. Can He Deliver?",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/troy-jackson-maine-senate-democrats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T21:01:44+00:00"
+    },
+    {
+      "text": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmlyQkFMZnN6YUY2UzNCQ3ZPaGxiTjI4NWdkSUpYRmpsWmsyampCQjlLY1NZQ3lDbG1uX0YtMGhfMzNYNnNESEhyYlRIbUZGZDRsa2dYeWZDVlVEcWRYLWFHeDVpVFFtWl9wXzFDcUVqRE01MG9vSHRGejNHNjlJdVROLUFfbDZkY0U2NElnUXEzX0FFQ19sSHFaZXVUYjdOckRoYnk3cHVnNWtp?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T20:58:00+00:00"
+    },
+    {
+      "text": "Wildfire now nine miles from French city of Bordeaux, mayor warns - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ONXVmWjFBNTJjM2QzT09kOEVJN2xfYXFiR2RzMXEwbEp3RWhYS3cwWTZmM1NTRS1TNmdXUWZRS1Z5cEl4YVRWa3dpYjdqWHI2M09ub2JFOTNIQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T20:34:55+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Betye Saar, Artist Who Upended Black Stereotypes, Dies at 99",
+      "url": "https://www.nytimes.com/2026/07/27/arts/design/betye-saar-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T21:40:51+00:00"
+    },
+    {
+      "text": "Shot fired outside US consulate in Toronto for second time this year - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2ZkekJaWFBCLS1YUjZLNTZ2TmdzVE9PeEtQTG1tRi13NmdUMERzb19xNlZJcEx5NXNQSnk0NVl0aTdnc0dHNzlTNFpoSWZCeFN6Mk5MYzZsNnRuejRNcl9lRTBKQTJ3d3NlNXNjZ1lyU1VvXzE0eHF4THc5cnQ0LVVKYmFzOThPWmxBNERvVjQ1WFN2dDlrN0l1emJrQlAwT3dNYjRINjI3R2o2QWZWOVFn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T21:23:40+00:00"
+    },
+    {
+      "text": "Trump Live Updates: President Speaks About Economy in Michigan Ahead of Primaries - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pWmZ3MGVYWVBjNXRFVllPWVBrTDh4VzVBZTd5dW90cGVRYzFROV9YWGZaN09fMTN4U2c0ZkkzTXJGeHYzLTg0bF81c3d1SXFpYWUyc3ZCUk01RE00V205X1Z1RQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T21:11:42+00:00"
+    },
+    {
+      "text": "Chinese Start-Up Moonshot Details New A.I. Model",
+      "url": "https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T20:59:12+00:00"
+    },
     {
       "text": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
       "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
@@ -19,193 +140,72 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T18:10:43+00:00"
+      "time": "2026-07-27T20:57:07+00:00"
     },
     {
-      "text": "Stocks making the biggest moves midday: ASML, SK Hynix, SAP, Forte Bio, Brown-Forman & more",
-      "url": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-midday-asml-skhy-sap-fbrx-bfb.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-27T18:10:42+00:00"
-    },
-    {
-      "text": "Stock Market Today: Dow holds onto gains; S&P 500 and Nasdaq see red; Treasury yields and oil prices fall; investors eye Fed decision and big tech earnings - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmFtbGVFOUFlVTdtZGJaME5zSkEwLW1hclpldjN5MmJaQjlnTlVqMGtQSDVTQ3N1Vk4wSUJnNm1SRTNKRFFobkd1RUQtM0RBMlNoTjZjOThWeW9tZWNVOWN3UjB2dDZTczhOX0psell6X3FkNHJndkxndGVubW5INEExbWVLbFF1U2JsZzEyM2pkakR3S0twWTlfY0ZZQVh0b3FmZmlVcnNSby1BZlBSYzl2Rzh5X0NZT216NmY4NVU3Y0xURHBuQmVHTVRSMDZRc3hPc0JWWEw?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-07-27T18:07:00+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "McConnell Extends Senate Leave, Will Miss State Picnic",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html",
+      "text": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
+      "url": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T18:02:25+00:00"
-    },
-    {
-      "text": "Fetterman says Democrats were ‘horribly wrong’ to try eliminating Senate filibuster - Politico",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVBiTjB6aWk0a0tvclJHVk1sNTVha3ZmUXRsWVdFZWxEa3lJYm9hUVd4azN5Z1p1RWNBckFhMWRHWEpHWklURGpwaGhqSWZDSldLVEZjeTdWMjk5VXZDYlUxbFBHYnBwWXA0aEhtYVVfLXVDOTU4bTltRlFrTmxIZFJIMThDUDVlWm5WNzNXZHdfc1g0ZW5QalJSZDBDOWU4T250d2VmQ0Y2cWtubzE4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T17:04:04+00:00"
-    },
-    {
-      "text": "Police search for a second suspect following Seattle food festival shooting that killed 3 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTy11bk81UWJnWVdhRWR0cXRBRzVfYW5WUE9CdlJIelBZdkVaR2hBVE9uTF9YakRDSElFWG95LXRDTWhvR0RLZ0hpejNKbTZuNHdjS3RwSVFCZ3k2VlBrMlRFa214MllRQVRSUkN5b1lOaTFhQzhSTF9QTkZvWVM1YzhFRi03VzI0ZUlIU242T0hkb0hlYVpGV1ppSWRGYWNwSWNjNFJHVmd2M29ic0JF?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T16:57:00+00:00"
-    },
-    {
-      "text": "NBA Trade Rumors: Stephen Curry Leverage, Peyton Watson & the Big Board - heavy.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaVFxamR4cGtNdmhzczloNjRvZnpjNVlBaVFQSmdGMmRwUzZmWUpTZ2ZrNUw4dFNsQUhidklwYVF1MTZzUHNtLTJqbWtPY0Jqcm12b0dLSlAtbE40RVdVVk1TUGhLZjRxU3ZmSFo4RGg5aFNWUDktN2xoQU85dWYzS2dZUENfa3Q3SG8xNHp4OEEyUnBacGFCOUYwb19fWUx5X003ZmhSejc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T16:39:36+00:00"
-    },
-    {
-      "text": "If You’re Over 40, You’re Ready to Use A.I.",
-      "url": "https://www.nytimes.com/2026/07/27/opinion/teaching-kabbalah-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T16:30:33+00:00"
-    },
-    {
-      "text": "Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks",
-      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T16:07:45+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "How a Novelist of the American Past Recovered His Faith in Its Future",
-      "url": "https://www.nytimes.com/2026/07/27/magazine/colson-whitehead-black-history.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T17:47:25+00:00"
-    },
-    {
-      "text": "Pentagon Changes How It Reports Casualties in Iran War - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3BWdV9KblFFclh3eGpuSTlTVDVteGRzTV8zN2c3Ml9wV2FXLUhkbVBIck5saWlJdVJkR0N2WkpIWWJ1eVViWmRuV0J3bUQzamlJYnNPQjhWOWtTNnNOU0dHaTBLVkxzaWk0RUdCMjBSSzZIbTJLbnFaY2pwLU9ndUNMSHRLTXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T17:00:00+00:00"
-    },
-    {
-      "text": "Microsoft Unveils A.I. Cybersecurity Tools",
-      "url": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T16:51:15+00:00"
-    },
-    {
-      "text": "Live Updates: Lindsay Clancy trial in murder of 3 children begins, ex-husband Patrick takes stand - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWVVMW9FT0szVDgzX2pLLS1sQ0FRS3cycDhnaG8xZzdkZS1VNEFNcEhvbmhNYzlyWHQ3VGlMSkp6d3BLMFBwbTVGd0ctWUFuUjg3WnYwclRma1NBMFROUm9jUlhIcHZiaTAteXV6eFhyUnBrUVhDZDJpMk9QZGwxcFgxWV9wZ3V6STBENlBDOGJIVXFFNXk1WQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T16:39:00+00:00"
-    },
-    {
-      "text": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
-      "url": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T16:18:39+00:00"
-    },
-    {
-      "text": "David Ellison “Confident” WBD Deal Will Close, Thanks Staffers for Continued Patience - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBBanBEZVNWY1lzZDZyaUxOamZPRGJEZFM1VlA3Ujl4RFdON2k2anZIM1c3RFphLWZfWVNVbmdLRUV2SmcyUU1KTHNPVGNXZHVKZzJ1NXBPVlRBeXo5N09kOVFVLUhPT2ZiYWNibnlCY0hFV2NTa2dXTUdtOHdVWk1YcnBDcXRQT2wxeFFWVHVqUkhUODJmQXAzdlg5RG90MTdR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T16:06:00+00:00"
+      "time": "2026-07-27T20:34:32+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFF0bDJ2LTFHOG5uWXllRmJvZTFQbXpxc2U5ZnJfZ0JadU5HRTBXang0TExaekgyR1BDS1VINmFNU3FNRTZfUVNxekdzV0w3U3hqd3JEVWF2dVRqUHRpbERzOC11TnJhV2dWU3lvaTJ3VDBjTHI4cVh6dkc0MzlIVGF4eEp0RG12U1R1UW43X2RQMjRDTG9GVnBON1VySmlpci02UFAtV0VyQmRWRWM5ZTM4UXFsZw?oc=5",
+      "text": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXZGTnZ2RnhBekJ0YlhrVldXbTZWU3JBekE2MENuWWdUcVNwWS1QM3pKSGM4WEp0WXQwLWRBQWJpYThMY0gtSjR5aW5TSmtrR3poLW82SWpSN2FDYXFlbnZaNXB4WUNmV3ZXYnRDQlNOSlJjSWg0SnFvQzg3WmxPZzlHN2Zkb0xsOGJjMGNfa182SHhVdVd1dEJVTHBKOU95c1dnWHc4LS1GaG_SAbABQVVfeXFMTU15aEJwbVpFVThTVTZMQ3pCU2pxMG04anJ4M3BnRnN5cmVFWnh4ZEpnSGZFTnAzNHd6U3pMSndEZzJEZ1VWOGZ2U2NxNnRzczJMSWNSNVBGRkVPWW51Tjd5a0Z3N0J5WDdUakVhRS03TVFGSHJ4aFRpUkI1WlZPVS1OMGQwRVJKQjJabjJxOWFiN2dJMWhNLUhUNTMzUm51WndDWkpnd3FQXzV0R3FDRW8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T17:13:41+00:00"
+      "time": "2026-07-27T21:30:22+00:00"
     },
     {
-      "text": "Nvidia's $250 Billion OpenAI Guarantee Puts AI Capex Concerns Back in Focus - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjh3VFZ3QjlsM1dCcDZSNGlQM2VWWlRORVZwYWxmeG9nd24xRXVCZzNDSU4xem9JOE5obno5d0h6czdqUDJibjRRZFBuWmg3WU9XSEEzV2RoMDBIdFp1cU1xd0JEb183YWI5NkVHMjZVbWxIZmFyV194OEhGTzgxZkpxNUJPY1BXNk10QnoyYjJ6aGt2YVM3aTZFYThPdTFIVFBONE4yUVJ3TjF1c3d5MGxneThSTHJMSGU5SHFn0gHDAUFVX3lxTE8yYzh5azU0LUE2TzJwdHY0bmNLeDVIcENmbzF2a1R2cm9qWUg1NUs0MVMzZFZrazV1dmxkZTRpeE56MVNJZWtoUkxoNE5XbmhGSjFvOGowWlZjNWRaNnRKbE1IcGtoMElpRFRfU3RBU054NG9ZU3VxTndsTXFOLVB5T3p5QjFKc2htSGtaaG1peHJ0MWNqMUl5RDc0RmVPQWRPN3MyZ2hFVm9sa3M5UW1nYkZ0cmg2cjc2dTBlOHhYY2hPSQ?oc=5",
+      "text": "Judge rules singer D4vd must stand trial in killing of 14-year-old Celeste Rivas Hernandez - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFRwd3hOWVp2cVJsNUIzT1FLdndPYkRjWDZJUTVtMzUwWHNhQVlYaUhlVG52bWM0S1dLek5GTTBHallwR19Xa3dtYW1fNkc0OHV5eHprZlBNYnNYWk00VmFyeXhpYkllbzRoVlc3ZlFLWlZNRDVYWG9SQ1ZvdENFU1BNbDhwVFlDRUFTcW5aQVl2dEJ6RXZhQm9tOW56RnBoZHU5eA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T17:00:00+00:00"
+      "time": "2026-07-27T21:21:00+00:00"
     },
     {
-      "text": "Bryan Kohberger, Convicted in Idaho College Killings, Seeks to Take Back Guilty Plea",
-      "url": "https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T16:49:47+00:00"
-    },
-    {
-      "text": "Congress Budgeted Billions for Big Transit Projects. Trump Isn’t Spending It.",
-      "url": "https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T16:35:32+00:00"
-    },
-    {
-      "text": "McConnell releases health update, saying he’s not ready to return to work yet - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWg2UndLdUo1Y216VHVxUmFKeG04V1ItVHAyNnF6c2dzZGd3VVNRQTBBU3pMQnZUSjhxcTEtVHhEVk03X0k5NlJpYmx5ZGdyUXZ5eFQ3RjBIT3hOeG1KYVhLRnZ6cGd5MDZ6TGRfT1ZZSlV2YlpmUjByN2V2SXV3STRTMTFqVU5HZ1JaS1l4MHNHYlFJVFBxRFBWbDB1LVdvZnNpZE1WTXRxV00?oc=5",
+      "text": "Southern Delta Aquariids and Alpha Capricornids meteor showers will peak this week - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelpwRGcyYkhTbGtxazd4aEk3SVRRZ3VHcVBldFRRUEE4Umh1OVlta21XUlVlRm1hV1RpN3hoLVNBa1EwLUZnZXRENGpZYVA4eGFpcmcwQ3pYWEtsNnhGMDE1aW90bU4zdFhTZ3g1aXRpak9aWmNYRDduRkItMVdITUJHT1JEOXRyVGwtaFV4UmJHV2hxLWg2RjZTNHpGU3dkSm8xZndIVlbSAa4BQVVfeXFMT1hHdUhkSG81U2JfU0RNVFNuQmxaS0lpRi1qVXFoTzdHM3FwRmtVUWRmMW9IbEhTdTBZS1YzT3JjUXV2cHBsc3BhU2NCUVdDSURkQTdvTTlsemNwN1lUeWtuUjF2bGN0cGhmRjJFR3FYQmdYdkwyS2FwOEFlMkVialVhdEhadzUzTGpCTVJHS0VoY0luRlZvaHhFdDJMY2M1TG1vZWNWRmNqeXd6RENn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T16:12:12+00:00"
+      "time": "2026-07-27T21:08:19+00:00"
     },
     {
-      "text": "Heat From France’s Wildfires Creates a ‘Fire Cloud,’ or Pyrocumulonimbus",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html",
+      "text": "Court documents reviewed by AP say there were at least 3 shooters at Seattle food festival - PBS",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVN4TlJscTFtWERoR3ZQMWQ1VU5PaTkzMS02VHFpaFB5Rm4zRURSakt4cGl4VEJ2NS1FOU1PYjJtNEFWZzVuMC1IRGFqa0JpVG9zZjhWRW8wNkVOd2M4YmZSZXUzVUgzRExKcW5NZmIyQnh1WFpGb3Jiem82b1ZmYjBXQXc1cFM5T2RiMUhoR3dkSTRmYzJTQTZxY3NReGh0VEdudDRuVE1rUkJMZlp2UHNtQm9kOXYwVGFZcUROX1BlTnpzOUNYUWxhdXRDWmR2R1dR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T20:58:01+00:00"
+    },
+    {
+      "text": "Cracker Barrel CEO steps down a year after logo debacle that drew Trump’s attention - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTFNcDRtbG1hTTA1UzNiWkhvaEtKNVBGYWJ0a3FTUDI5Sk5jZnoxMmJWMlFEYW11dFJhWUFJcVpncThhaTVGUzRtWUt2VHhsUEJlcXhDb2VRdGJFcFhWdHp1cmwyTGZMZnZuUDAxVUdaZExfYzhCMDdqR1lOUEhxMVE5SUdFNWVfNHozSw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T20:40:14+00:00"
+    },
+    {
+      "text": "Case to Be Dropped Against Labor Leader David Huerta in L.A. Immigration Raid",
+      "url": "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T16:04:02+00:00"
+      "time": "2026-07-27T20:21:19+00:00"
     }
   ]
 }
