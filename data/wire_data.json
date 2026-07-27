@@ -1,72 +1,166 @@
 {
-  "generated_at": "2026-07-26T23:46:16.184776+00:00",
+  "generated_at": "2026-07-27T12:41:12.185927+00:00",
   "lead": {
-    "text": "Here's the tech stock to buy in a market losing patience with tech",
-    "url": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-07-26T23:39:46+00:00",
+    "text": "Election Denier Alexander Kolodin Seeks to Run Arizona’s Elections as Secretary of State",
+    "url": "https://www.nytimes.com/2026/07/27/us/alexander-kolodin-election-denial-arizona.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-07-27T12:37:04+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates",
-      "url": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
+      "text": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
+      "url": "https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-26T23:39:10+00:00"
+      "time": "2026-07-27T12:35:08+00:00"
     },
     {
-      "text": "NASA astronaut, 2 cosmonauts return to Earth after eight-month stay International Space Station - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlplbkI0UEFYajhQZ3JOZ29xRVNZYUV3SDBScDdNUzJZcmViVUwzU3kzSHJRZFh6S1kzaWlaNUpVdl9VRzYwU0hNQ2luNjJHLWNLTHVMVmtyT1JTMENfaXRHcjg2dmV4TENtNkJ6Z3U3Ny1iVXpwd2huQjRDN0FXbDB3OEJCeTNlOS0yVW1iYUc5YnhZUDhKWWZWaXo?oc=5",
+      "text": "How financial stress can affect the brain over the long term - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenJYOFA1Z0pSMTZtdTNIZ0UySER6cU1HMVRmNVo5RXlWU0VMMmw2MVFiUWZ0T0xueV9kZUY4V0xxeTVZendyblBaZWpLa3ItcFJIV3dXcmQ2Skc5WExBd21ULUxUcUxFT19hYVV6OURWWldwUWUtNzNzZU1DajYzWG5LeHMtOFBkTk5ySDJtMC1GWGE3SERFaVhXV1poVWlpb0FaTFZPaXpqZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T23:10:29+00:00"
+      "time": "2026-07-27T12:34:38+00:00"
     },
     {
-      "text": "Oil Prices Fall After U.S. and Iran Pause Fighting for a Second Day",
-      "url": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T23:06:43+00:00"
+      "text": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-07-27T12:33:40+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Netanyahu Accuses Mamdani of ‘Hate Speech’ After Mayor’s Video Address",
-      "url": "https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T23:00:49+00:00"
-    },
-    {
-      "text": "Meet Jeffrey Epstein’s Girlfriend, Who Stands to Inherit Much of His Estate",
-      "url": "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T22:37:32+00:00"
-    },
-    {
-      "text": "Industry star David Jonsson to play Black Panther in Marvel sequel - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEtrUkFsZWpJSTc4Z05xRUVTakhZOTZBRi03b2o5d0dMaEl4QXRDVHFYMTRoZlAtZ2h3YkJLMHhYdVk0VV83cG82WjBsc2VUNGpIUWh3QjZUa3Y4N2FJOHlMRk90RWNiMDdUZjBCZjVlSnNqTnZMSWk0ZGxxb2o4RnYxNVlKT1JlaTF4dndLS3JDeHg2NW1acjJrQkoyT2RlQWdrZ3NtSDhQeHdFSkw2Vw?oc=5",
+      "text": "Source of false Buttigieg allegation appeared ‘mentally unstable,’ records show - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEJLTldSM284TE5TQ3NpRmNRcWc1TWpDV0xjbTBfNXluOWNReWxON0o1NWdIek55UGtuNHc4TGNOMGdoNTJzcGFTcHh4b2ZFSjcyZC1XR3AwaUd5OGJlR0NmaEZldjBTR0Q5MU4yMUZ4bjZWM3pKMmhwdGo1dHQxYzEtNFdqc2pjd1BMQ2FVSEdiU3RIbDBaU2J5cU9mRGtUNUdjTnpMdXY0YkFwWGVhUW5GREZVUTExd2MzdnBjWVd2RVU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T22:03:00+00:00"
+      "time": "2026-07-27T12:22:38+00:00"
+    },
+    {
+      "text": "5 Things to Know About Meta’s Giant Data Center in Louisiana",
+      "url": "https://www.nytimes.com/2026/07/27/business/5-things-to-know-about-metas-giant-data-center-in-louisiana.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T11:32:25+00:00"
+    },
+    {
+      "text": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T11:08:50+00:00"
+    },
+    {
+      "text": "Shein slumps to loss ahead of planned Hong Kong listing - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTZVM3dNRWpvb3RlOV9GdzIyYkdXeVBLaVJaSjZYR0ZQa2xvMmVOemFES2IzZjItbWtSUF9Uc1ROVkJLd1NzbjVrLXVlWVFpdkZRb3Ywa2JQQXVTb1pjWVN2Y1l6bkRVanp1YzVzYklkMklkamUwRjFCM0QwTzZ6c1VhNkM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T10:41:15+00:00"
+    },
+    {
+      "text": "U.S. Pauses Iran Strikes Amid Growing Risks, and Measles Cases Hit a New Record",
+      "url": "https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T10:00:10+00:00"
+    },
+    {
+      "text": "Can a Progressive Win in a Purple State? Abdul El-Sayed Wants to Find Out.",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T09:05:25+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Wildfire Smoke Chokes Skies in Spain and France",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T12:05:03+00:00"
+    },
+    {
+      "text": "Shooting at Seattle food festival kills 3, leaves 4 wounded near Space Needle, authorities say - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Bb3dSWnlDSE00ZS0wRkMtazRCQzlQbVNvWWJ4WWhTcmtEVG1aTVV4X1lwOF8xTVk5SEc0SXp6QjlBcjhmS3RDN0NHMmp4TndlUk52Mld6WjVGUjRhRjNHVnVzQmFuVVhJSkZrYmRwWQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T11:24:00+00:00"
+    },
+    {
+      "text": "LeBron signing puts pressure on 76ers: NBA coaches, execs react - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3E5b2FUU25WQmlrb2FRRzVsOFhBZE1vX2xMblJhbzMtODlYTXhzcXhRbV9HNHBnMERkTWlTeU1CaHBtR0tVR0piU0RrRDg0RGZvbHo4S0VDYy1LXzFSSDY0M0dESVMwUXhkOXEtMk5UbjRoUzYwc1RDaWRoRG16NElXd2t2YmxqU2Jua1BSRGVwaTVqbHlLYUViejZ6RmtxWURoZ01OX0llQUtrcW9JLTBGU0NWNnVuaXB1dGxKbTh2ZlU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T11:00:00+00:00"
+    },
+    {
+      "text": "Protected No More",
+      "url": "https://www.nytimes.com/2026/07/27/briefing/end-temporary-protected-status.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T10:40:31+00:00"
+    },
+    {
+      "text": "FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQV8zTjd0aEtycHNTekJzR1JFVjVjMVd4UXc0UXhuY1JMVkd4MTVtWnQ0RUR0LTlfMHJ1bGxXZ09YUlFuN2wtaFBTNk9NY2tuWG9jcDAyRnFZVGhFa3g3dVZVVHZaZU9qRk9KMHBFejNZNDV6UG5PekpUUnN2UU9uVTUzSzRvUXdZVWFocFMtOUV6WXdwU2pYTlFSTk5DU1VUanpsVUlRWFcwRkp6WHZmNlJTTTBfelJNWEJPbmZoVlLSAcYBQVVfeXFMTmhZWGVUNU1rVUhjQ05aYVV4UnNLeHR4OUFVWHJHdTJ0Z2RzaUtNazBkOHZ6RkFGQlEwZG1OV3FxX3VrR1NvZ0xHRDNtXzFHdHBwVlo2UEh6Z2dqT1pkLXVkeVdOM2tOQWQ0U0FyU2JVbzdrWjIxclpNVVJMdGRDeHp0bFFnMURFWWhEMlJad3gyRnhnRGlHd1hBbUhMT3F0NUVoelhwb0dSbGJidGo2TVhKZ3VfdEltTkp5WFRiUUp6ZldhcHln?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T09:37:10+00:00"
+    },
+    {
+      "text": "How a Novelist of the American Past Recovered His Faith in Its Future",
+      "url": "https://www.nytimes.com/2026/07/27/magazine/colson-whitehead-black-history.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T09:05:17+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Carly Simon reveals she's been diagnosed with Parkinson's disease - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUd1bW9pMml6UmFaa0dVZWUza1g5YzBxSlF3dmMyUnhrRHVaQ01IWmxZTS12ZFNDTlFWcEp0U01YTXRrUDFWN2ZXeGw4Sl9zMXVLRlgwRGQ2YU1mZXZ6Tk5Ib2xGY3hOMDdYQXlEZ1J0MWoxN1dCd1NRYVlPV3c3ZWdCS2t5ajZBRlY2YkxPVWVnUUQzaThsamZ4WXp0a1RrM29jS3NQbDXSAa4BQVVfeXFMTUJTQ1UwVU9TTzZTTEc4dG45b1Rrb05FemYzZ2V2ZmZmbW5Ydm5ORTAwTzBjZmlSY3dVYmd5YVFKQ1B2em5NTms2bUZWeDJLSmlGZGlTSW9oWEgtWW9rLTFxZGNiXzRzN2RKUm1nTDhWeG1jTU5DdnRTVDVPQlVzX0pzUG9jOU9CdVhvSWxWY1dsbjNaVDZfRjVDZ3NQY1VSbGJ2c29maTM1dUdYT2ZR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T11:39:36+00:00"
     },
     {
       "text": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
@@ -75,137 +169,43 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T21:25:31+00:00"
+      "time": "2026-07-27T11:20:47+00:00"
     },
     {
-      "text": "House Democratic leader Hakeem Jeffries kicks off 100 days till midterms with affordability agenda - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXFpUXVnZGRLdUcwZndteVJQT0pmQ25DYzZWSHVBZlI2enNBTzFDTGYwV1RFQy1TNXROX1BMVlFDVk5zSnF0dHhNRGtTaUdRYWM1RkJzRk5GUWRmY1hTYmZITTE5TmFBVm5zdGN3TnFpLWhoT25meGxnaGh4aXJTQURUNjNGcDA5ZnZMVUtPcjh0aFlrLWpjZ2pRN0lwekdtc1ZvYjR3?oc=5",
+      "text": "Oil Prices Sink After U.S. and Iran Pause Fighting for a Second Day - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLZExhYmVYcUhlcWpaMFJvQ3hnM2FaQU9fUEtackVnMFZ3bkxJRmgzaUVRdTlhaXRvTTExVHFIMF95djhWQjl4RjF1Qy1Qdk9pZnZsN3FRalRHbHRtWEZnSzBSRTU3YWdrUFpPZmFpNFdOYXhHc0FtRllaZzJUZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T20:55:00+00:00"
+      "time": "2026-07-27T10:49:00+00:00"
     },
     {
-      "text": "North Carolina woman missing in Grenada as husband heads to join search - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTRlZzFOMGVhZElvQy16d1M2ay1jWTJibFBkdGxiQ2c4N1lKcGxqdDc2TmhpbjNqT0pKaDZDQmxsN2VtQXFWZUhIUlJINmhrem1yVGtIa0RRZ21yNUJfZE1pTUVZSlV1T0F3NUlKekN6Z1EzRGZ1SlBGMmUya0wzakxMYUtqbkFBdjZzTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T20:01:34+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Berlin Pride attacker served less than 2 years in prison for wanting to join ISIS, prosecutors say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDVJSkNBeVM4Sk9sQUtBbXd0S3BFTzUwNUtwdWJZMGRCWGttS3JoZVMxeFU2b0tkd1F5ai1JT0xtT0NhREUyazU1Nmc0ajdmWEhlRWdyT0Z2bXJlWkdsWUZXbm5GQ1h1Q3J4ZVEwYmdGTUlURVZpRnpNeXNDeGpyVW1mcDJDTmUtWXhKZTZVWGZzelhxbE9mVjk1YXFiSmdHRjJ2S09UU28?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T22:51:09+00:00"
-    },
-    {
-      "text": "On Hall of Fame Induction Day, here’s how Beltrán, Jones and Kent got to Cooperstown - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ01Hc2NIWlRjSHhrbXNBd3BmYnpvcnhjMmt5dHV3c1RGelF6QW1WbmlkcDFMdjJpMm04M1pWM1dLR1hfaXJkd2p3NUdycU5NdW5KMlVVN0J0eVl1M2FkWkNqLVRJcVVnNkQ3MU8xckhVSzhHZUphZk5ibE9RVnNmRThHalJUd3BCX3FLRk55MV9sbWZoS0tLLTB4SlA2eUpSMi1xS2Fn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T22:21:30+00:00"
-    },
-    {
-      "text": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-      "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+      "text": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T22:00:25+00:00"
+      "time": "2026-07-27T10:24:23+00:00"
     },
     {
-      "text": "Tadej Pogacar confirms status as a cycling great with record-equaling fifth Tour de France title - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjNxaE1fbDFBdXliNlY4ZkU5RFM5ei15Vi1UR3liMHpnWW5pcklOb0pJTFVhc2dydGNIWFFJd1BPaFh4VGxMOWpYaUpXTkVEaXppOTk4cjVlRFVjeW0zeklHXzhrT3J4UlJKc0pHMGtHR0g4S3JtcXR4cWFOQURGUERfZXI5aDFaOUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T21:23:00+00:00"
-    },
-    {
-      "text": "The Indian Diaspora in New York Joins the ‘Cockroach Party’ Protests",
-      "url": "https://www.nytimes.com/2026/07/26/nyregion/indians-nyc-cockroach-party-protests.html",
+      "text": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
+      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T20:25:58+00:00"
+      "time": "2026-07-27T09:33:36+00:00"
     },
     {
-      "text": "Pentagon’s official Iran war death toll no longer lists 4 troops killed during renewed fighting - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0NWMkxKcnpoSHlpdzZEX1N3UlQ1Z3RmMV9RcnFJT09VemZrYW1nYUlib0gtM0U4bzhrbHd2eUpJLUNSU3d5b1VIOVNLcS1IbC16VHhqbXI3N3lCczlnMER5eWtqbjJ1WW1fY0lGZF9LemsxYjhYSGdOWlFUb0U5XzFQQ3EtMVM4RDcyV1lxblc1R0thazE2ZFFwWHZPQVRDQ0lKNw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T19:56:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Live updates: Trump administration signals that pause in Iran strikes will allow talks to progress - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yUGQyOU5oLVZvX0t4bWI3dVo0R3ZaSHNoS0t1SEl0bjZHLVNTejIyeEVXMnZraDhBUE5kanFxYkU0ZHR2c2JEVzc0ZUR0MV9GMkg0U0IyRHYxdEw1Wi1FYUkzMnU4c3N4T3JwbUNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T22:39:00+00:00"
-    },
-    {
-      "text": "Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tOVVIS2lYcXlWLW5oa3hLVUlfZnZ6dDQybFNhd3k3VldpTVB4TWJOMTZFRWNycUgwUGRjMnp6MWJUVF9aRFZfZVNqaGd4T0FaRl8tNlF4c0p5Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T22:08:32+00:00"
-    },
-    {
-      "text": "Sweltering heat wave grips central and southern US for a second straight day - AP News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3Nsd3djX3NRQmpjUTdQRDFheW9lRVNtQVpVUzhINFdFbzZJZjl6ZkpScUxUS29sT3h4WTMzSnJTRUJUOExNUjZrM2psaU1oejBaQ0Q5emVwT3IweUZoS3ZYQjBxbWs0ZnB0anh6NDMtcUF1TmVtYWMyZmR2T2Y5cko4bHRYRHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T21:54:00+00:00"
-    },
-    {
-      "text": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
-      "url": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
+      "text": "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-26T21:04:45+00:00"
-    },
-    {
-      "text": "Red Sox Notes: Durbin, Trade Targets, Suarez - MLB Trade Rumors",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzQtektJLWJOaHpiSmV5UmZfM05lZi1pQWp3YnVVV3puaVZ6aUNjZkNISHFjR3ExeFVmOVlzQTV2TXQxZDMyWXdqaDlBejBaNXRod1ExcUpKZVh4b2I5ZmRMbC1TdnZEUTVITmFPbUo4NG94Y0pxRUQ0VTZoVnloTktIXzdDN052bXpVaWl3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T20:20:16+00:00"
-    },
-    {
-      "text": "Restricted eating hours may reduce cognitive decline in older age, researchers find - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-26T19:52:00+00:00"
+      "time": "2026-07-27T09:04:39+00:00"
     }
   ]
 }
