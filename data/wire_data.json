@@ -1,194 +1,17 @@
 {
-  "generated_at": "2026-07-27T12:41:12.185927+00:00",
+  "generated_at": "2026-07-27T18:14:47.812060+00:00",
   "lead": {
-    "text": "Election Denier Alexander Kolodin Seeks to Run Arizona’s Elections as Secretary of State",
-    "url": "https://www.nytimes.com/2026/07/27/us/alexander-kolodin-election-denial-arizona.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-07-27T12:37:04+00:00",
+    "text": "S&P 500 falls despite Iran fighting pause as chip stocks tumble: Live updates",
+    "url": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-27T18:12:13+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
-    {
-      "text": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
-      "url": "https://www.cnbc.com/2026/07/27/eisman-has-doubts-about-ai-big-short-investor-just-sold-key-tech-stock.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-27T12:35:08+00:00"
-    },
-    {
-      "text": "How financial stress can affect the brain over the long term - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenJYOFA1Z0pSMTZtdTNIZ0UySER6cU1HMVRmNVo5RXlWU0VMMmw2MVFiUWZ0T0xueV9kZUY4V0xxeTVZendyblBaZWpLa3ItcFJIV3dXcmQ2Skc5WExBd21ULUxUcUxFT19hYVV6OURWWldwUWUtNzNzZU1DajYzWG5LeHMtOFBkTk5ySDJtMC1GWGE3SERFaVhXV1poVWlpb0FaTFZPaXpqZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T12:34:38+00:00"
-    },
-    {
-      "text": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-07-27T12:33:40+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Source of false Buttigieg allegation appeared ‘mentally unstable,’ records show - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEJLTldSM284TE5TQ3NpRmNRcWc1TWpDV0xjbTBfNXluOWNReWxON0o1NWdIek55UGtuNHc4TGNOMGdoNTJzcGFTcHh4b2ZFSjcyZC1XR3AwaUd5OGJlR0NmaEZldjBTR0Q5MU4yMUZ4bjZWM3pKMmhwdGo1dHQxYzEtNFdqc2pjd1BMQ2FVSEdiU3RIbDBaU2J5cU9mRGtUNUdjTnpMdXY0YkFwWGVhUW5GREZVUTExd2MzdnBjWVd2RVU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T12:22:38+00:00"
-    },
-    {
-      "text": "5 Things to Know About Meta’s Giant Data Center in Louisiana",
-      "url": "https://www.nytimes.com/2026/07/27/business/5-things-to-know-about-metas-giant-data-center-in-louisiana.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T11:32:25+00:00"
-    },
-    {
-      "text": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T11:08:50+00:00"
-    },
-    {
-      "text": "Shein slumps to loss ahead of planned Hong Kong listing - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTZVM3dNRWpvb3RlOV9GdzIyYkdXeVBLaVJaSjZYR0ZQa2xvMmVOemFES2IzZjItbWtSUF9Uc1ROVkJLd1NzbjVrLXVlWVFpdkZRb3Ywa2JQQXVTb1pjWVN2Y1l6bkRVanp1YzVzYklkMklkamUwRjFCM0QwTzZ6c1VhNkM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T10:41:15+00:00"
-    },
-    {
-      "text": "U.S. Pauses Iran Strikes Amid Growing Risks, and Measles Cases Hit a New Record",
-      "url": "https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T10:00:10+00:00"
-    },
-    {
-      "text": "Can a Progressive Win in a Purple State? Abdul El-Sayed Wants to Find Out.",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T09:05:25+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Wildfire Smoke Chokes Skies in Spain and France",
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T12:05:03+00:00"
-    },
-    {
-      "text": "Shooting at Seattle food festival kills 3, leaves 4 wounded near Space Needle, authorities say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Bb3dSWnlDSE00ZS0wRkMtazRCQzlQbVNvWWJ4WWhTcmtEVG1aTVV4X1lwOF8xTVk5SEc0SXp6QjlBcjhmS3RDN0NHMmp4TndlUk52Mld6WjVGUjRhRjNHVnVzQmFuVVhJSkZrYmRwWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T11:24:00+00:00"
-    },
-    {
-      "text": "LeBron signing puts pressure on 76ers: NBA coaches, execs react - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3E5b2FUU25WQmlrb2FRRzVsOFhBZE1vX2xMblJhbzMtODlYTXhzcXhRbV9HNHBnMERkTWlTeU1CaHBtR0tVR0piU0RrRDg0RGZvbHo4S0VDYy1LXzFSSDY0M0dESVMwUXhkOXEtMk5UbjRoUzYwc1RDaWRoRG16NElXd2t2YmxqU2Jua1BSRGVwaTVqbHlLYUViejZ6RmtxWURoZ01OX0llQUtrcW9JLTBGU0NWNnVuaXB1dGxKbTh2ZlU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T11:00:00+00:00"
-    },
-    {
-      "text": "Protected No More",
-      "url": "https://www.nytimes.com/2026/07/27/briefing/end-temporary-protected-status.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T10:40:31+00:00"
-    },
-    {
-      "text": "FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQV8zTjd0aEtycHNTekJzR1JFVjVjMVd4UXc0UXhuY1JMVkd4MTVtWnQ0RUR0LTlfMHJ1bGxXZ09YUlFuN2wtaFBTNk9NY2tuWG9jcDAyRnFZVGhFa3g3dVZVVHZaZU9qRk9KMHBFejNZNDV6UG5PekpUUnN2UU9uVTUzSzRvUXdZVWFocFMtOUV6WXdwU2pYTlFSTk5DU1VUanpsVUlRWFcwRkp6WHZmNlJTTTBfelJNWEJPbmZoVlLSAcYBQVVfeXFMTmhZWGVUNU1rVUhjQ05aYVV4UnNLeHR4OUFVWHJHdTJ0Z2RzaUtNazBkOHZ6RkFGQlEwZG1OV3FxX3VrR1NvZ0xHRDNtXzFHdHBwVlo2UEh6Z2dqT1pkLXVkeVdOM2tOQWQ0U0FyU2JVbzdrWjIxclpNVVJMdGRDeHp0bFFnMURFWWhEMlJad3gyRnhnRGlHd1hBbUhMT3F0NUVoelhwb0dSbGJidGo2TVhKZ3VfdEltTkp5WFRiUUp6ZldhcHln?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T09:37:10+00:00"
-    },
-    {
-      "text": "How a Novelist of the American Past Recovered His Faith in Its Future",
-      "url": "https://www.nytimes.com/2026/07/27/magazine/colson-whitehead-black-history.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T09:05:17+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Carly Simon reveals she's been diagnosed with Parkinson's disease - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUd1bW9pMml6UmFaa0dVZWUza1g5YzBxSlF3dmMyUnhrRHVaQ01IWmxZTS12ZFNDTlFWcEp0U01YTXRrUDFWN2ZXeGw4Sl9zMXVLRlgwRGQ2YU1mZXZ6Tk5Ib2xGY3hOMDdYQXlEZ1J0MWoxN1dCd1NRYVlPV3c3ZWdCS2t5ajZBRlY2YkxPVWVnUUQzaThsamZ4WXp0a1RrM29jS3NQbDXSAa4BQVVfeXFMTUJTQ1UwVU9TTzZTTEc4dG45b1Rrb05FemYzZ2V2ZmZmbW5Ydm5ORTAwTzBjZmlSY3dVYmd5YVFKQ1B2em5NTms2bUZWeDJLSmlGZGlTSW9oWEgtWW9rLTFxZGNiXzRzN2RKUm1nTDhWeG1jTU5DdnRTVDVPQlVzX0pzUG9jOU9CdVhvSWxWY1dsbjNaVDZfRjVDZ3NQY1VSbGJ2c29maTM1dUdYT2ZR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T11:39:36+00:00"
-    },
-    {
-      "text": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
-      "url": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T11:20:47+00:00"
-    },
-    {
-      "text": "Oil Prices Sink After U.S. and Iran Pause Fighting for a Second Day - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLZExhYmVYcUhlcWpaMFJvQ3hnM2FaQU9fUEtackVnMFZ3bkxJRmgzaUVRdTlhaXRvTTExVHFIMF95djhWQjl4RjF1Qy1Qdk9pZnZsN3FRalRHbHRtWEZnSzBSRTU3YWdrUFpPZmFpNFdOYXhHc0FtRllaZzJUZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-27T10:49:00+00:00"
-    },
-    {
-      "text": "Berlin Pride Attack Suspect Tried to Join ISIS, Prosecutors Say",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T10:24:23+00:00"
-    },
     {
       "text": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
       "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
@@ -196,16 +19,193 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T09:33:36+00:00"
+      "time": "2026-07-27T18:10:43+00:00"
     },
     {
-      "text": "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
+      "text": "Stocks making the biggest moves midday: ASML, SK Hynix, SAP, Forte Bio, Brown-Forman & more",
+      "url": "https://www.cnbc.com/2026/07/27/stocks-making-the-biggest-moves-midday-asml-skhy-sap-fbrx-bfb.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-27T18:10:42+00:00"
+    },
+    {
+      "text": "Stock Market Today: Dow holds onto gains; S&P 500 and Nasdaq see red; Treasury yields and oil prices fall; investors eye Fed decision and big tech earnings - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmFtbGVFOUFlVTdtZGJaME5zSkEwLW1hclpldjN5MmJaQjlnTlVqMGtQSDVTQ3N1Vk4wSUJnNm1SRTNKRFFobkd1RUQtM0RBMlNoTjZjOThWeW9tZWNVOWN3UjB2dDZTczhOX0psell6X3FkNHJndkxndGVubW5INEExbWVLbFF1U2JsZzEyM2pkakR3S0twWTlfY0ZZQVh0b3FmZmlVcnNSby1BZlBSYzl2Rzh5X0NZT216NmY4NVU3Y0xURHBuQmVHTVRSMDZRc3hPc0JWWEw?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-07-27T18:07:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "McConnell Extends Senate Leave, Will Miss State Picnic",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-27T09:04:39+00:00"
+      "time": "2026-07-27T18:02:25+00:00"
+    },
+    {
+      "text": "Fetterman says Democrats were ‘horribly wrong’ to try eliminating Senate filibuster - Politico",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVBiTjB6aWk0a0tvclJHVk1sNTVha3ZmUXRsWVdFZWxEa3lJYm9hUVd4azN5Z1p1RWNBckFhMWRHWEpHWklURGpwaGhqSWZDSldLVEZjeTdWMjk5VXZDYlUxbFBHYnBwWXA0aEhtYVVfLXVDOTU4bTltRlFrTmxIZFJIMThDUDVlWm5WNzNXZHdfc1g0ZW5QalJSZDBDOWU4T250d2VmQ0Y2cWtubzE4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T17:04:04+00:00"
+    },
+    {
+      "text": "Police search for a second suspect following Seattle food festival shooting that killed 3 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTy11bk81UWJnWVdhRWR0cXRBRzVfYW5WUE9CdlJIelBZdkVaR2hBVE9uTF9YakRDSElFWG95LXRDTWhvR0RLZ0hpejNKbTZuNHdjS3RwSVFCZ3k2VlBrMlRFa214MllRQVRSUkN5b1lOaTFhQzhSTF9QTkZvWVM1YzhFRi03VzI0ZUlIU242T0hkb0hlYVpGV1ppSWRGYWNwSWNjNFJHVmd2M29ic0JF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T16:57:00+00:00"
+    },
+    {
+      "text": "NBA Trade Rumors: Stephen Curry Leverage, Peyton Watson & the Big Board - heavy.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaVFxamR4cGtNdmhzczloNjRvZnpjNVlBaVFQSmdGMmRwUzZmWUpTZ2ZrNUw4dFNsQUhidklwYVF1MTZzUHNtLTJqbWtPY0Jqcm12b0dLSlAtbE40RVdVVk1TUGhLZjRxU3ZmSFo4RGg5aFNWUDktN2xoQU85dWYzS2dZUENfa3Q3SG8xNHp4OEEyUnBacGFCOUYwb19fWUx5X003ZmhSejc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T16:39:36+00:00"
+    },
+    {
+      "text": "If You’re Over 40, You’re Ready to Use A.I.",
+      "url": "https://www.nytimes.com/2026/07/27/opinion/teaching-kabbalah-ai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T16:30:33+00:00"
+    },
+    {
+      "text": "Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks",
+      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T16:07:45+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "How a Novelist of the American Past Recovered His Faith in Its Future",
+      "url": "https://www.nytimes.com/2026/07/27/magazine/colson-whitehead-black-history.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T17:47:25+00:00"
+    },
+    {
+      "text": "Pentagon Changes How It Reports Casualties in Iran War - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3BWdV9KblFFclh3eGpuSTlTVDVteGRzTV8zN2c3Ml9wV2FXLUhkbVBIck5saWlJdVJkR0N2WkpIWWJ1eVViWmRuV0J3bUQzamlJYnNPQjhWOWtTNnNOU0dHaTBLVkxzaWk0RUdCMjBSSzZIbTJLbnFaY2pwLU9ndUNMSHRLTXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T17:00:00+00:00"
+    },
+    {
+      "text": "Microsoft Unveils A.I. Cybersecurity Tools",
+      "url": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T16:51:15+00:00"
+    },
+    {
+      "text": "Live Updates: Lindsay Clancy trial in murder of 3 children begins, ex-husband Patrick takes stand - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWVVMW9FT0szVDgzX2pLLS1sQ0FRS3cycDhnaG8xZzdkZS1VNEFNcEhvbmhNYzlyWHQ3VGlMSkp6d3BLMFBwbTVGd0ctWUFuUjg3WnYwclRma1NBMFROUm9jUlhIcHZiaTAteXV6eFhyUnBrUVhDZDJpMk9QZGwxcFgxWV9wZ3V6STBENlBDOGJIVXFFNXk1WQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T16:39:00+00:00"
+    },
+    {
+      "text": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
+      "url": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T16:18:39+00:00"
+    },
+    {
+      "text": "David Ellison “Confident” WBD Deal Will Close, Thanks Staffers for Continued Patience - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBBanBEZVNWY1lzZDZyaUxOamZPRGJEZFM1VlA3Ujl4RFdON2k2anZIM1c3RFphLWZfWVNVbmdLRUV2SmcyUU1KTHNPVGNXZHVKZzJ1NXBPVlRBeXo5N09kOVFVLUhPT2ZiYWNibnlCY0hFV2NTa2dXTUdtOHdVWk1YcnBDcXRQT2wxeFFWVHVqUkhUODJmQXAzdlg5RG90MTdR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T16:06:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFF0bDJ2LTFHOG5uWXllRmJvZTFQbXpxc2U5ZnJfZ0JadU5HRTBXang0TExaekgyR1BDS1VINmFNU3FNRTZfUVNxekdzV0w3U3hqd3JEVWF2dVRqUHRpbERzOC11TnJhV2dWU3lvaTJ3VDBjTHI4cVh6dkc0MzlIVGF4eEp0RG12U1R1UW43X2RQMjRDTG9GVnBON1VySmlpci02UFAtV0VyQmRWRWM5ZTM4UXFsZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T17:13:41+00:00"
+    },
+    {
+      "text": "Nvidia's $250 Billion OpenAI Guarantee Puts AI Capex Concerns Back in Focus - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjh3VFZ3QjlsM1dCcDZSNGlQM2VWWlRORVZwYWxmeG9nd24xRXVCZzNDSU4xem9JOE5obno5d0h6czdqUDJibjRRZFBuWmg3WU9XSEEzV2RoMDBIdFp1cU1xd0JEb183YWI5NkVHMjZVbWxIZmFyV194OEhGTzgxZkpxNUJPY1BXNk10QnoyYjJ6aGt2YVM3aTZFYThPdTFIVFBONE4yUVJ3TjF1c3d5MGxneThSTHJMSGU5SHFn0gHDAUFVX3lxTE8yYzh5azU0LUE2TzJwdHY0bmNLeDVIcENmbzF2a1R2cm9qWUg1NUs0MVMzZFZrazV1dmxkZTRpeE56MVNJZWtoUkxoNE5XbmhGSjFvOGowWlZjNWRaNnRKbE1IcGtoMElpRFRfU3RBU054NG9ZU3VxTndsTXFOLVB5T3p5QjFKc2htSGtaaG1peHJ0MWNqMUl5RDc0RmVPQWRPN3MyZ2hFVm9sa3M5UW1nYkZ0cmg2cjc2dTBlOHhYY2hPSQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T17:00:00+00:00"
+    },
+    {
+      "text": "Bryan Kohberger, Convicted in Idaho College Killings, Seeks to Take Back Guilty Plea",
+      "url": "https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T16:49:47+00:00"
+    },
+    {
+      "text": "Congress Budgeted Billions for Big Transit Projects. Trump Isn’t Spending It.",
+      "url": "https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T16:35:32+00:00"
+    },
+    {
+      "text": "McConnell releases health update, saying he’s not ready to return to work yet - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWg2UndLdUo1Y216VHVxUmFKeG04V1ItVHAyNnF6c2dzZGd3VVNRQTBBU3pMQnZUSjhxcTEtVHhEVk03X0k5NlJpYmx5ZGdyUXZ5eFQ3RjBIT3hOeG1KYVhLRnZ6cGd5MDZ6TGRfT1ZZSlV2YlpmUjByN2V2SXV3STRTMTFqVU5HZ1JaS1l4MHNHYlFJVFBxRFBWbDB1LVdvZnNpZE1WTXRxV00?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-27T16:12:12+00:00"
+    },
+    {
+      "text": "Heat From France’s Wildfires Creates a ‘Fire Cloud,’ or Pyrocumulonimbus",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-27T16:04:02+00:00"
     }
   ]
 }
