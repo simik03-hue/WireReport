@@ -1,175 +1,110 @@
 {
-  "generated_at": "2026-07-28T08:02:22.417992+00:00",
+  "generated_at": "2026-07-28T16:11:31.838800+00:00",
   "lead": {
-    "text": "U.S. stock futures slip, South Korea's Kospi plunges 10%: Live updates",
-    "url": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "Graham honored with memorial service at US Capitol",
+    "url": "https://thehill.com/homenews/senate/5994386-lindsey-graham-memorial-service-capitol-building/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-07-28T07:42:23+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-07-28T16:06:11+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "SK Hynix shares plunge nearly 15% in Seoul as chip sell-off deepens",
-      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+      "text": "How to Predict the Weather in Our Era of Freakish Storms",
+      "url": "https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T16:01:00+00:00"
+    },
+    {
+      "text": "BofA thinks ASML isn’t under threat from China, and that investors are overreacting",
+      "url": "https://www.cnbc.com/2026/07/28/bofa-thinks-asml-isnt-under-threat-from-china.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-28T07:30:11+00:00"
+      "time": "2026-07-28T16:00:52+00:00"
     },
     {
-      "text": "Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes",
-      "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+      "text": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
+      "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-28T07:23:55+00:00"
-    },
-    {
-      "text": "Chip Rout Deepens on Circular Funding, China Competition Fears - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHdSYUVPSG1jLVhiLU0yZW1mNXZlQWVGOWRTRTVDd3ZNNThKcWIxcUxEdjUzMHE3WF9tTlVUbE5xVXBoejU4WUtUNVlwaWhJSTBkX3pzb0JucjY2SnhrTlYzVlJyVFozVHpMVzRac2FrRDVXU18zQnhsaGJGWXlPVGlySkZ3RkVTOW9Na0ZEZUVYQ1dtUGFjalN1WktPajRpaGNOQzFuYU8wNjY3Mk15cDBYQQ?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-07-28T07:12:55+00:00"
+      "time": "2026-07-28T16:00:01+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Bryan Kohberger wants out of his plea deal. Here’s what experts say about his chances - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzVKV2FhMkdyanRqUkk4R0xsVGVXZmM5OWtMNGx6OFhlYjM0VTBLVHFuYUlXWlRfQzExODdHVVdwX1EyVDYxUnRUSjdEQVI0ZmZxMFZnUG5jZTY2TkxQc0tOeUxaQmVGNmxJWkxzcTRMbzU2Zk5LTjk1a3A1ZzJVNFpR?oc=5",
+      "text": "Live updates: Trump to meet Zelensky and Netanyahu separately at White House - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yLWlmM2RGa1ZNS2xfX3p5VzRhcnZ2TFlwSTVhMlJGMHI2b05Sb1NMOTBQR0M1NUdfNmQ2b0xtT2R5SWV3b2FsZXJHcFNLQnhjSlhRSQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T07:00:25+00:00"
+      "time": "2026-07-28T15:51:38+00:00"
     },
     {
-      "text": "A shootout that killed 3 at a food festival near Seattle's Space Needle may have been gang-related - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTy11bk81UWJnWVdhRWR0cXRBRzVfYW5WUE9CdlJIelBZdkVaR2hBVE9uTF9YakRDSElFWG95LXRDTWhvR0RLZ0hpejNKbTZuNHdjS3RwSVFCZ3k2VlBrMlRFa214MllRQVRSUkN5b1lOaTFhQzhSTF9QTkZvWVM1YzhFRi03VzI0ZUlIU242T0hkb0hlYVpGV1ppSWRGYWNwSWNjNFJHVmd2M29ic0JF?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
+      "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T06:34:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T15:19:20+00:00"
     },
     {
-      "text": "Trump administration asks Supreme Court to allow new limits on mail ballots - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTY5UGZuc1dkSkNfRmdndXpEY21EcXpUQmpONzVTd2NoNzRESE9fR2gxUU1kbENxZ0lJZlA4a01QcWY1VXJKNGhtUjlsU045RmhOeE1SMDVxdVhCT0x2NjlQZjBjRXhXT2pWeEJzaWp2NlNVa2dTa1l0aG1tb0tuVmQ0NEh1ZjQ5YzFLMVIxUmdqUGZzaFJJUXpobHZVU1pmYkFiSjYzTEdOUmpGdnJMUWE5MlpqZldwNGo3V0JR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience",
+      "url": "https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T05:45:57+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T15:08:00+00:00"
     },
     {
-      "text": "Sam Altman says the Hugging Face hack is a reminder that an AI power monopoly could lead to 'long-term disaster' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVAyZWpNYWNKZVQyUFNZRjdCc0xoaDRySjV2M2hnazM2SjZuaWc3WWdmb2toN0ZPRFUybGpfVmNXZFpobHdyb240alFuY2VaQng0TUhRR3NCR3ZSUVVTZ045eUliZjFBWkc1bjFwUHR1UTZEZUR5aUJvNkE0QVdZTEZPdDRUajE0eTZkUDZ1NDlkeGxLUUJfWjJKWmxVQ1psNlZB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Prediction Market Betting on Drug Trials and Approvals Sparks Concern About Undermining Research",
+      "url": "https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T05:27:12+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T14:41:19+00:00"
     },
     {
-      "text": "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi12NkpMUklNNDRVMElBT2ViOHRUMUEwRHN5STZ0N0ZyeXRXWlo1QVZRRE94RmVNQTIzOUpsdmZOU3dpMVl3Q1lVQVk2ZEtleTRsZ01aTFU5cWMwZWpFYWVlR1YzTmthbW9ZM0JXaWxYeVJ6cjRsZjhoZFU3Z0p1dWtQZE5BcExZU09oZV9maWVKNUpseHFYM1pkMUx0Y0s1ZjdyYXYtYWFLRmxEYk1SSNIBtgFBVV95cUxOdXdKeXZhYlBMclJKZ0VVcTlKXzhjY0ZoRjFGVFpKYkkyN1psNWMtZzA0NG9zQTZiaGpqYUJ4Mm00NlQyNUQxZ3JRT1NycDVybkZOcnlIaVhyOW1VbnJpcXA2UUg5eXZWd1RvWGZrYUVqTWdhdzhlZWV3V0lpTmgxZ0pZdy1GZEhyV3lUbk9RaXRMQkhhWFlWLVQyeThldmxPaDlTYXFiM3JZUGt4X1F6WXV0TkNtUQ?oc=5",
+      "text": "Micron, SK Hynix stocks sink as AI chip sell-off deepens - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTlZTTExZWhfVm5UV3dMWWJTaEVEeTFNYnp4MTIxR1FXRzNhUTV2c2hXeUVlenVtY1ZndmJGekt2by14UklrRFozRF9mekE1dTFNak5qeGx3OEJrSGFtZVQ5QlgySHRZMGJ5UWNwRzZheWVMWFVfUFZsakVqempLUVJqT09hY0pVODdxTkZMT21qTDdkMTZYcGN6Q1dFalIwT2xfSkhfb3A1THltNVhYcUlB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T04:19:18+00:00"
+      "time": "2026-07-28T14:12:00+00:00"
     },
     {
-      "text": "South Korea’s Kospi index sinks more than 10% on heavy selling of chipmaking stocks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmhRSG0xWTd4RkJwSnYtT1V3LUE0U0ZHVmFJZnNxMGZHQ3FQNG5pUHByVmZyUVBmNnF5cHRrMU8zekRhYlZZSUxqSmpxS01EOWpIU3pnc0tsOGtpNjJBMDVsTmJlRjR2QThkVGE1WjhndGkwdk1jU0VQOVp4TG8zOFFwUl8tQThPQVRlNk5TS2ZMY2x3UmFhS3NxajJsNTJ1QUd3?oc=5",
+      "text": "Speak or resign: Beshear ups demand for McConnell health status - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWHItSjYyejdfcVU1eld1bDdKVHZNOW11Z1hlZ1Fqb0U3aVo3R2pJejlMSUVGQ2xjcTE1UHhfWllKc0RXOWsySVBkS05JSGI4cnFaWmJRdjdzY0dDSk9GRDMtVldpNXpBcTZXUTd0aVd0U1RfSkhhSklOOHI2N2hMTXA4dmQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T04:06:23+00:00"
+      "time": "2026-07-28T13:45:10+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Late Music Producer Tay Keith Left Behind Massive Estate When He Died - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSC1OaDlFOFBTbmhDZlluZWR0OHhYdzNjbFdqZHVzU1d6a3J2UzNxODRFRC0xZGFWUzY0MWVvaFVSaDFlQmM0WkJJcmFKZE1xYnhvd1VaQ0NXWFBaY1lqTzc3VkNQYS1mOWpyRHEtYnNOS1RiRnlacW1PMG1aQWNmZ0hiZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T07:00:23+00:00"
-    },
-    {
-      "text": "Late Night Roasts President Trump’s Attempt at Comedy",
-      "url": "https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html",
+      "text": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T06:27:09+00:00"
-    },
-    {
-      "text": "‘Spider-Man: Brand New Day’ First Reactions: Tom Holland Has ‘Never Been Better’ in a Sequel That Ditches ‘Multiverse Tedium’ and Delivers a ‘Grounded Spider-Man Tale’ - Variety",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWpITkdGUzkwMDBucVNXWGpYN2hzNWtCcEhxWHZQem5iWEg3TktscmdRX0F0V2VDcXFNWnBMRzZfWkNiQktjTEEzcFBlcU02aWdnUkUwQTBXWGZGcElpNHNjdWswajNERVFzakM1SDdSZW5Cd0otekQtQjVCcmdreFpWYVZDV1FrNGdndi1Gd21MLWs0T0g4NFF5d0FaSkFr?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T05:35:00+00:00"
-    },
-    {
-      "text": "Tornado Damage Reported in Wisconsin as Storms Unleash Heavy Rain and Winds",
-      "url": "https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T05:09:14+00:00"
-    },
-    {
-      "text": "Will Brewers be aggressive? What's Mets' strategy? Your Trade Deadline questions answered - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45eE54cjh6aWYtelJzNmtwWjJ0N3Bpb092cEs2VTVNbXlFQkE0em9yUEhvME5TWWdWbFg3Z2F1RzdrUnFUd0ZuZEFDSl9sT0VlRGViTzg3Nk92aHVTc0dxWkdpb1BiTmcxVUhUQWZSZHnSAXxBVV95cUxOWjZHMFo1Q0ZMVUM3NTJSRDdCQ3BoRm9JUEdybDI5U1Jnc2Vzc3MzeFB5bEFSYTltSHFaZWZnMDRQU1FQM2IzSE03WVBtdHprWTV4T0JLTVdpOUJDV2oyTEx5ME5JVzI0b0VtdkNJT3dDVkNkd2UtTEJIemRz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T04:17:43+00:00"
-    },
-    {
-      "text": "Massive Wildfires Draw Close to Madrid",
-      "url": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T04:01:36+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Putin Saw a Gap in Which He Could Act With Impunity. Let’s Close the Gap.",
-      "url": "https://www.nytimes.com/2026/07/28/opinion/conquest-justice-putin.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T06:43:41+00:00"
-    },
-    {
-      "text": "Iran-Oman Talks Focused on Restarting Hormuz Shipping Traffic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNanBqclVxcTl0UnJkYjFmcDBSNGZvOVktTXlrMVpKRmVwMFA5NEV2dTVvR3huaGFpRENiS0UxbC1aYlhkWkJUbFJyVW1WQmVwWVNvUnlhWTI0RkgtYXBuTXN4YVBZbC1GRnBmTW1zTzhtUWlzaVdUSkF1NGVUZURiNWFueWttTkdSTm5KZlYzT0o2Y2Y1RnRMYU1LMzltWndHZUhSZTlGeFVETW0tajc2Zjhn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T05:57:00+00:00"
+      "time": "2026-07-28T15:46:30+00:00"
     },
     {
       "text": "‘You Aren’t Going to Like What Comes After America’",
@@ -178,34 +113,99 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T05:34:36+00:00"
+      "time": "2026-07-28T15:14:20+00:00"
     },
     {
-      "text": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ONXVmWjFBNTJjM2QzT09kOEVJN2xfYXFiR2RzMXEwbEp3RWhYS3cwWTZmM1NTRS1TNmdXUWZRS1Z5cEl4YVRWa3dpYjdqWHI2M09ub2JFOTNIQQ?oc=5",
+      "text": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUXdraDR2eURCMHg5ZGJkY3NhOHRYT0FPLVlOOXQ1S0ZTS0U5TFQ2M0o5V3haRWNacU9DcVJvLUh1dVJxOXB3ZWg1SWcza3lpb01fT2o0eGxwX1RrWFVlSE9tUGZfNVZEQ3VuckxoSnJCYm9lVmROcWZVTkJ5ajNBNXp6YWpTZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T04:51:27+00:00"
+      "time": "2026-07-28T15:02:53+00:00"
     },
     {
-      "text": "Recap: Lindsay Clancy trial begins with opening statements, ex-husband on stand - NBC Boston",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVRkY3lITFN0OVJCUXdjOXluZGxJZUIwYjFQWWZWTnMzSnVjeUJnNWxaNFRkZzRRdDFjWU1lOV95djJBaWlkbHFvd1dYbDE0NlRZd3U1Z0pGX2M1QW5DQjJSbGVMbWRHalhHZmhxZDJOcEU2OWJ6VGJBT3lsVVd2ZnpWeU5IM19jbExKQmY2UDB4ZUE1YVNXaFpHWUNpa0HSAacBQVVfeXFMTmdyb1dmZHpPaHV1eWpmQW4xVlZXcGdYdF9POTFGQ19nZms5T2o5WFY4TnZJcEZBYnQyVVZ0S2hMRGY0amR2MUt6YzhtZnhudEtOWjUzb0lJc1l5dVpaQk9jcVAwRmg5MnI1YmU3am9IZHJmaGE1Ny1QNFhUTzBORTRDNUFWM0hCcTczR0Y2WTBhSWdkcGNqMVRxYm1zcjcyQWt1VmFfQzA?oc=5",
+      "text": "US walks out on France at UN meeting to protest human rights criticism - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0xyN0hIZG90dEcxaE1ReENuQUU4VHRTTFRFSDdOckpkZ195NEpkeTB3SVpTc2M4RTlrY1NvTl9PRXZ4eF9pa3JBdXAxUGRDbjJVY3R0Q1NzQlNSVF9LMWVudU9SWFRQWVNfS3o2cXZ2SnhWYVp0R3Y0ZHJUU183dNIBhgFBVV95cUxOWWV5dzNzRjJhdXNteTVlTzdPMktjRFU5LV9zODFjUHN0YVZYbkpRVklfOGhyQ2NucDY2aGNEXy1hVElveHpKcmVIRXdLQWhYNG4teTRCSGI0N3RueEZuMTNOTzFrcHRwWDFYbDJjaGJILXU2SVZNY1VRY19XRnV3MmJVVzJLQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T04:13:58+00:00"
+      "time": "2026-07-28T14:29:00+00:00"
     },
     {
-      "text": "Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?",
-      "url": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
+      "text": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T14:06:36+00:00"
+    },
+    {
+      "text": "Kumamoto Castle, a Famed Landmark, Is Damaged in the Japan Earthquake",
+      "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-castle-damage.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T04:01:28+00:00"
+      "time": "2026-07-28T13:38:39+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Who Does JD Vance Think He Is?",
+      "url": "https://www.nytimes.com/2026/07/28/opinion/jd-vance-president-campaign.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T15:33:48+00:00"
+    },
+    {
+      "text": "Odyssey translator slams Nolan's film adaptation as 'gimmicky' with 'no sex' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FbXA5UzJBTi1uaHhSYURRaVdWakZEMHhfSzEwZzFmdmJhSXVkMllQRHhFY1NnSHFEZi03Z2FzeVAyUVZYV3VJcjZYS2JEVzBvazVHbDZlTWg2dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T15:11:28+00:00"
+    },
+    {
+      "text": "Grenada authorities give update on search for missing Cary woman - Raleigh News & Observer",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZTNIT3AyNDU1VlNLU01uekFVc05pWlN2VEtJNWp1djVCZzF6Q0tJMlV4N1dMVkkwX1M4UlJ4cFd6ckY0cWhhYTdPdE0tR3pNTlJNMVhHS1hmRGEzUHo1bXRCS1prRnNxaE5YZUg5Uy10MjZJNjluYTVqY2lFVVB1Q3RuQmtpLUQtNmfSAYoBQVVfeXFMT2Fvam5Qanc2LUJubEd2ck9JZWJoZzFtelNxWW9CYmdGVHVrVGs4enJQdWJiOHY5MHdZSlBYSm9DcEpqSHhDS3NiaWM4cjVRVVBxektBUHdyTVR2dVB0VnJIVEdBUTJQOVFBczMwLU9MaWxYV09SdGdfMTAwdXFpTTFYV0lJVUVLamtn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T14:44:00+00:00"
+    },
+    {
+      "text": "Conor McGregor calls for ‘Last Dance’ rematch with Max Holloway in 2027 - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1JLa1czZ1VHMS1uS1hBMER4TU9KQ0VKSE5sRlZfLVJsemRaUHVJclpLaTlhQ2plNVlBdWo4dmw3NXVxeG9SemFGemp6NVZwajAteEl5UGE4TXN4bU9VZE40Y2xDMTQyUFlZNUdpRzkzeklKR0NfNjZvQmRmaUlKaUZ3cXd3Rk0yVWJTRg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T14:26:00+00:00"
+    },
+    {
+      "text": "A Newsstand That Aims to Delight N.Y.C. Subway Riders",
+      "url": "https://www.nytimes.com/2026/07/28/nyregion/subway-newstand-west-4th-station-nyc.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T14:06:05+00:00"
+    },
+    {
+      "text": "Lindsey Graham’s death leaves Trump reflecting on his own mortality - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVhaa0libUdYb18ycmZjenNhcC1sT3doSEVtNlFnWnRpYXMtYVBDRU5pdlVPQTRqODRVZlNkWFg0QnFsS2hkZlBjNktKOGpQcGpSYTZjVTJ1aUVEMVpXc0J0dlk1bUM3QkpWNGFJMWJQaFAyNjRqcHgtYU5iaW05UkI5bF9WQ24wd0hiUnB4b3ZIczd6WGxrd3RsdHlyVGZ3SkRqcHd1d2Q4b21yc1Vz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T13:32:33+00:00"
     }
   ]
 }
