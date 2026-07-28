@@ -1,63 +1,72 @@
 {
-  "generated_at": "2026-07-28T16:11:31.838800+00:00",
+  "generated_at": "2026-07-28T20:46:23.775799+00:00",
   "lead": {
-    "text": "Graham honored with memorial service at US Capitol",
-    "url": "https://thehill.com/homenews/senate/5994386-lindsey-graham-memorial-service-capitol-building/",
+    "text": "Boebert guest hosts on pro-MAGA network show",
+    "url": "https://thehill.com/homenews/5995142-boebert-guest-hosts-on-pro-maga-network-show/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-07-28T16:06:11+00:00",
+    "time": "2026-07-28T20:39:44+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "How to Predict the Weather in Our Era of Freakish Storms",
-      "url": "https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T16:01:00+00:00"
-    },
-    {
-      "text": "BofA thinks ASML isn’t under threat from China, and that investors are overreacting",
-      "url": "https://www.cnbc.com/2026/07/28/bofa-thinks-asml-isnt-under-threat-from-china.html",
-      "source": "CNBC",
+      "text": "Trump, Senate give tearful goodbye to Lindsey Graham",
+      "url": "https://thehill.com/homenews/senate/5995165-trump-vance-honor-graham/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-28T16:00:52+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-28T20:39:17+00:00"
     },
     {
-      "text": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
+      "text": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
       "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-28T16:00:01+00:00"
+      "time": "2026-07-28T20:30:41+00:00"
+    },
+    {
+      "text": "Ford Posts Earnings Beat. Its Outlook Is Improving. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96UWY5VHVkbkxxMUU0RDRKLXl6ekc3VktBbDRoOWl5ai1CQXhubUJNNDhtNk1sOVlWOWVRS21LWEJmREtyaUMxdUhnRW14VTlud3ZrWHdpRTdWUWlxVXZNLXBGTkxweHhLWnc2bDdxQXRBWi1NUkE?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-07-28T20:25:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Live updates: Trump to meet Zelensky and Netanyahu separately at White House - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yLWlmM2RGa1ZNS2xfX3p5VzRhcnZ2TFlwSTVhMlJGMHI2b05Sb1NMOTBQR0M1NUdfNmQ2b0xtT2R5SWV3b2FsZXJHcFNLQnhjSlhRSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T15:51:38+00:00"
-    },
-    {
-      "text": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-      "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
+      "text": "Senators Forge a Deal on Graham’s Bill to Advance Russia Sanctions",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/senators-russia-sanctions-bill-graham.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T15:19:20+00:00"
+      "time": "2026-07-28T20:24:26+00:00"
+    },
+    {
+      "text": "In a day of tributes, Lindsey Graham is remembered as a tireless Washington mainstay - NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoN0ROMnFseXZCVV9LclJuRU5QMmZ3RlNtWHg3TzB6ZTAxVjd2cmpRMngxSWdfeWlhSFRINHF3MExhNDJVWHgwWFk0TzFVNjFpdHVldUpBYnVnRWp1Y0Ewa3RtZFh4NWFWQ2U3RF91R3RjNWs3ZkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T20:12:59+00:00"
+    },
+    {
+      "text": "Obama to Headline Democratic Redistricting Fund-Raiser",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/obama-fund-raiser-marthas-vineyard-redistricting.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T20:05:30+00:00"
     },
     {
       "text": "Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience",
@@ -66,46 +75,28 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T15:08:00+00:00"
+      "time": "2026-07-28T19:54:09+00:00"
     },
     {
-      "text": "Prediction Market Betting on Drug Trials and Approvals Sparks Concern About Undermining Research",
-      "url": "https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html",
+      "text": "'Spider-Man: Brand New Day' Eyes $425M Global Box Office Opening - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVE5STDMzVEt2SE1YYnBKMy05ZHM3ZW1lcWpyQUVLNXYtYUhfZ2RFRFRYVC1OanlVWHpMMnl3MWZOSE50MjNuZWNlbFF3TkMwVWdQTVZDMHFXUVNhTUl6SnRkU1E2Z3R4ZmdXeEtSYmpkSFl1aDd3ZlNaUndiQXpfQ2VCN2dyT2JMWVd2WlFwUEY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T19:36:00+00:00"
+    },
+    {
+      "text": "How A.I. Books Sneak Their Way Into Stores",
+      "url": "https://www.nytimes.com/2026/07/28/books/ai-bookselling-amazon.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T14:41:19+00:00"
-    },
-    {
-      "text": "Micron, SK Hynix stocks sink as AI chip sell-off deepens - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTlZTTExZWhfVm5UV3dMWWJTaEVEeTFNYnp4MTIxR1FXRzNhUTV2c2hXeUVlenVtY1ZndmJGekt2by14UklrRFozRF9mekE1dTFNak5qeGx3OEJrSGFtZVQ5QlgySHRZMGJ5UWNwRzZheWVMWFVfUFZsakVqempLUVJqT09hY0pVODdxTkZMT21qTDdkMTZYcGN6Q1dFalIwT2xfSkhfb3A1THltNVhYcUlB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T14:12:00+00:00"
-    },
-    {
-      "text": "Speak or resign: Beshear ups demand for McConnell health status - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWHItSjYyejdfcVU1eld1bDdKVHZNOW11Z1hlZ1Fqb0U3aVo3R2pJejlMSUVGQ2xjcTE1UHhfWllKc0RXOWsySVBkS05JSGI4cnFaWmJRdjdzY0dDSk9GRDMtVldpNXpBcTZXUTd0aVd0U1RfSkhhSklOOHI2N2hMTXA4dmQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T13:45:10+00:00"
+      "time": "2026-07-28T19:22:00+00:00"
     }
   ],
   "col2": [
-    {
-      "text": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
-      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T15:46:30+00:00"
-    },
     {
       "text": "‘You Aren’t Going to Like What Comes After America’",
       "url": "https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html",
@@ -113,99 +104,108 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T15:14:20+00:00"
+      "time": "2026-07-28T20:21:11+00:00"
     },
     {
-      "text": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUXdraDR2eURCMHg5ZGJkY3NhOHRYT0FPLVlOOXQ1S0ZTS0U5TFQ2M0o5V3haRWNacU9DcVJvLUh1dVJxOXB3ZWg1SWcza3lpb01fT2o0eGxwX1RrWFVlSE9tUGZfNVZEQ3VuckxoSnJCYm9lVmROcWZVTkJ5ajNBNXp6YWpTZw?oc=5",
+      "text": "Japan earthquake searches continue into night, with people missing in mall and collapsed factory - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjU3Y2N29LWjJaTGdhLVp3UTNtbXNpQzAwWlBNX1pNdDFZOVFUeGsxQkxSeGN3cTZ4MFU1UWw2ZXJYTnFLWndxQU1jc1pRVVdBaTRrVg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T15:02:53+00:00"
+      "time": "2026-07-28T20:12:55+00:00"
     },
     {
-      "text": "US walks out on France at UN meeting to protest human rights criticism - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0xyN0hIZG90dEcxaE1ReENuQUU4VHRTTFRFSDdOckpkZ195NEpkeTB3SVpTc2M4RTlrY1NvTl9PRXZ4eF9pa3JBdXAxUGRDbjJVY3R0Q1NzQlNSVF9LMWVudU9SWFRQWVNfS3o2cXZ2SnhWYVp0R3Y0ZHJUU183dNIBhgFBVV95cUxOWWV5dzNzRjJhdXNteTVlTzdPMktjRFU5LV9zODFjUHN0YVZYbkpRVklfOGhyQ2NucDY2aGNEXy1hVElveHpKcmVIRXdLQWhYNG4teTRCSGI0N3RueEZuMTNOTzFrcHRwWDFYbDJjaGJILXU2SVZNY1VRY19XRnV3MmJVVzJLQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T14:29:00+00:00"
-    },
-    {
-      "text": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T14:06:36+00:00"
-    },
-    {
-      "text": "Kumamoto Castle, a Famed Landmark, Is Damaged in the Japan Earthquake",
-      "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-castle-damage.html",
+      "text": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
+      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-hanging-protesters.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T13:38:39+00:00"
+      "time": "2026-07-28T19:59:06+00:00"
+    },
+    {
+      "text": "ICE Arrests Surge at Airports, Opening New Front in Deportation Drive",
+      "url": "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T19:47:50+00:00"
+    },
+    {
+      "text": "Asylum seekers could be sent directly to deportation under new federal rule - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS05PQTVEMlJ5Tnl5RmZCdXVXZmdfSnNJZHdkUVA0QkI5VzNpeVZfM0RJZDlndVFiaEhEYWY2YlZndUtqRWhRRHpNajRXelB5U3Vlem13SGtLbG43aVhCbnZKQWNOUFEyTWZ0Vm1YN0tfY3pVTUJpaDNvMVVsSFd1YVBkR1Zsc2ExNlNlVU95WUFkVVZPcjd4UThXXzZua0ZkRldBUnZ5Sk1RdkVEZGh1R3JHYUI1UTBUSmZ6N3VGeDVoNzZzZEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T19:33:37+00:00"
+    },
+    {
+      "text": "Top 50 Deadline Trade Candidates - MLB Trade Rumors",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWFDQ3YxRk9hVERlWVRPVS1YZUNfcmRDNjBranpUM1E3QTIyanlpbEpFQjBPS0JsR3JqYkFFUWRmbS1nc0JWQjVsVzRmRDFoRjEwM2gwajA1bFM1ZzZIZ2l0MEhOZXJFQXpJUFZ6MFJORWJvWlE1MkRLMEhjdl9xVUp3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-28T19:21:42+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Who Does JD Vance Think He Is?",
-      "url": "https://www.nytimes.com/2026/07/28/opinion/jd-vance-president-campaign.html",
+      "text": "Trump’s Spy Chief Spends Final Hours in Job Boasting of Mass Firings",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/spy-chief-bill-pulte-final-hours.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T15:33:48+00:00"
+      "time": "2026-07-28T20:16:22+00:00"
     },
     {
-      "text": "Odyssey translator slams Nolan's film adaptation as 'gimmicky' with 'no sex' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FbXA5UzJBTi1uaHhSYURRaVdWakZEMHhfSzEwZzFmdmJhSXVkMllQRHhFY1NnSHFEZi03Z2FzeVAyUVZYV3VJcjZYS2JEVzBvazVHbDZlTWg2dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T15:11:28+00:00"
-    },
-    {
-      "text": "Grenada authorities give update on search for missing Cary woman - Raleigh News & Observer",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZTNIT3AyNDU1VlNLU01uekFVc05pWlN2VEtJNWp1djVCZzF6Q0tJMlV4N1dMVkkwX1M4UlJ4cFd6ckY0cWhhYTdPdE0tR3pNTlJNMVhHS1hmRGEzUHo1bXRCS1prRnNxaE5YZUg5Uy10MjZJNjluYTVqY2lFVVB1Q3RuQmtpLUQtNmfSAYoBQVVfeXFMT2Fvam5Qanc2LUJubEd2ck9JZWJoZzFtelNxWW9CYmdGVHVrVGs4enJQdWJiOHY5MHdZSlBYSm9DcEpqSHhDS3NiaWM4cjVRVVBxektBUHdyTVR2dVB0VnJIVEdBUTJQOVFBczMwLU9MaWxYV09SdGdfMTAwdXFpTTFYV0lJVUVLamtn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T14:44:00+00:00"
-    },
-    {
-      "text": "Conor McGregor calls for ‘Last Dance’ rematch with Max Holloway in 2027 - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1JLa1czZ1VHMS1uS1hBMER4TU9KQ0VKSE5sRlZfLVJsemRaUHVJclpLaTlhQ2plNVlBdWo4dmw3NXVxeG9SemFGemp6NVZwajAteEl5UGE4TXN4bU9VZE40Y2xDMTQyUFlZNUdpRzkzeklKR0NfNjZvQmRmaUlKaUZ3cXd3Rk0yVWJTRg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T14:26:00+00:00"
-    },
-    {
-      "text": "A Newsstand That Aims to Delight N.Y.C. Subway Riders",
-      "url": "https://www.nytimes.com/2026/07/28/nyregion/subway-newstand-west-4th-station-nyc.html",
+      "text": "Graham and Netanyahu Worked Together to Denounce International Criminal Court",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/graham-netanyahu-documentary-icc.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-28T14:06:05+00:00"
+      "time": "2026-07-28T20:08:21+00:00"
     },
     {
-      "text": "Lindsey Graham’s death leaves Trump reflecting on his own mortality - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVhaa0libUdYb18ycmZjenNhcC1sT3doSEVtNlFnWnRpYXMtYVBDRU5pdlVPQTRqODRVZlNkWFg0QnFsS2hkZlBjNktKOGpQcGpSYTZjVTJ1aUVEMVpXc0J0dlk1bUM3QkpWNGFJMWJQaFAyNjRqcHgtYU5iaW05UkI5bF9WQ24wd0hiUnB4b3ZIczd6WGxrd3RsdHlyVGZ3SkRqcHd1d2Q4b21yc1Vz?oc=5",
+      "text": "Apalachee High School shooter Colt Gray sentenced to life without parole - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3hYNUxETDlJWUU3QURpZWF5TUs4VkhELTU2cWtUN25nLVdfcThYd3dvTU5FSU9lV3JEWUtuMjNzSlNhdXBkelZOVEdCazhMUXFJQnh5LXBRcmNiOHBsR3ExckxGbzcxcGs3RmtSLUtOZnd2ZVpra1diTVZETE1ZOUVJZUh5ZVdVeTIzZTJJNXRtZkZVZXJ2amhGVmpzTjhRaXNaQmFVdGtKUW9Vb0E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-28T13:32:33+00:00"
+      "time": "2026-07-28T19:56:00+00:00"
+    },
+    {
+      "text": "Gov. Sherrill in the Hot Seat After U.S. Demand for Noncitizens’ Names",
+      "url": "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T19:41:22+00:00"
+    },
+    {
+      "text": "The Iran War Just Put Another Key Oil Route at Risk",
+      "url": "https://www.nytimes.com/video/business/energy-environment/100000011050115/red-sea-blockade-oil-route.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T19:24:01+00:00"
+    },
+    {
+      "text": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer",
+      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-28T19:16:38+00:00"
     }
   ]
 }
