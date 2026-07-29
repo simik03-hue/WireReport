@@ -1,137 +1,175 @@
 {
-  "generated_at": "2026-07-29T16:05:47.878714+00:00",
+  "generated_at": "2026-07-29T20:16:46.511963+00:00",
   "lead": {
-    "text": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56",
-    "url": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-07-29T16:04:01+00:00",
+    "text": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-29T20:15:58+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts",
-      "url": "https://www.cnbc.com/2026/07/29/trump-media-djt-warren-schiff-wall-street-api.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-29T16:03:07+00:00"
-    },
-    {
-      "text": "While Washington is busy fighting, the rest of America is just asking for results",
-      "url": "https://thehill.com/opinion/campaign/5995420-polls-show-desire-results/",
+      "text": "Zelensky says he asked Trump for emergency package of Patriot missiles",
+      "url": "https://thehill.com/policy/international/5997863-zelensky-asks-trump-patriot-interceptors/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-29T16:00:00+00:00"
+      "time": "2026-07-29T20:13:23+00:00"
     },
     {
-      "text": "As Trump Squeezes Cuba, He Plans to Send Cuban Deportees to Uruguay",
-      "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-cuban-deportees-uruguay.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T15:57:35+00:00"
+      "text": "Meta's stock drops on earnings miss, light revenue guidance",
+      "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-29T20:11:08+00:00"
+    },
+    {
+      "text": "Fed meeting recap: Warsh says Fed won't hesitate to stop inflation, but bond market has doubts",
+      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-29T20:10:38+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html",
+      "text": "The Silicon Valley Health Trend Making Doctors Nervous",
+      "url": "https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T15:57:12+00:00"
+      "time": "2026-07-29T19:52:13+00:00"
     },
     {
-      "text": "Anthony Fauci invokes Fifth Amendment right not to answer questions at Covid hearing, calls Sen. Rand Paul ‘unhinged’ - nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3ZVSzVfNGVwSEkyMFlXLW5iYlEyS1RSWmgtaW5FQ2llamhfS3ZQQUZqcFVPcEtBUXNkTy1razdRYUtqTzJ1S2N3ZjE2RzB1ZHg4dXN5X2drRlREQnpScEhnRHNmN3lxdHFwRjJXV1BpUEdYZVlaMEtTS19hUkZLUG5wV2drSENyQ0lSOWNvanpqOXFzTVpOenB3VFk4bV9IRFpwRXJZWEN5YXE5MG5FQ09B?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T15:10:39+00:00"
-    },
-    {
-      "text": "Celebrini signs 5-year, $94 million contract with Sharks - NHL.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEptUjhJUVlXOG9qRmM4eGh0Y0NuQXhsYy1yT09RVGJQYTE4NjBsSWpBZVN5alhJUW1GcUprWFBLNzBvZmFxeEVYNzlib0xkbFRUbzRyUUJyR3ExNjgxZlUzOEdPQTBxWWJNNjRkd2swVmRkQUFHNGoySExESzVEVmdtb2dBLTFKUk80WGx0eUlCMGM5aGcxc1pqeksydjVj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T14:57:07+00:00"
-    },
-    {
-      "text": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVV1b2V2VWVhQk1UYWVreXhnOWJnQ2cyTGc3dUtwRWlJZ3cwQVdlVTRnMmhOV0gyTFJRcHdzUWJkMkQ3TW5uTHJhRzZPaERfMDZ5Z2c3SnY4TndEMFg1LVR0QkdpbnVLUWI4ZGxaOUFxOEpSSWxkbllYOHBUYlY1YlhRcW05TE91d1ZKQmhGalZ5MUp6Ry0xX3F6RXU3dzE2TkdhV2dUNVnSAa4BQVVfeXFMT2RzYlVEN3prcnBYaHQ3cFBrSTZlZGdmdnZGSFdCcmhvWXBvQ1FYVGE3dVRTM2h4RHFvQUlFeEEwWnR1S1gzYk1xWW1QMXlWM1c0dFRlT280RDNydFVoQTJZdmRsMFQzeGJmdnVJTmxlSUlCNWt0anVMbFpPT2lOOTlXOFZVZGM3N25ndUZLUVZjZ3o2V1pPbE1WQ1M4eWlLTkluM1ZqMldVSFVETTlB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T14:48:45+00:00"
-    },
-    {
-      "text": "Thousands in Spain return home but new heatwave raises wildfire fears - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VVpxZ0o2Szg4YUNBUHl6WXBFc21oQzZhcU80OHBzSVBfZnExRGcxNV83RUw0cFJLUUZQZVR5ZDJtM3ZiN3ZoOUh5dkNVQWVReUg0ODhkc1A3UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T14:27:13+00:00"
-    },
-    {
-      "text": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
+      "text": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers",
+      "url": "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T14:06:52+00:00"
+      "time": "2026-07-29T19:46:04+00:00"
+    },
+    {
+      "text": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T19:35:22+00:00"
+    },
+    {
+      "text": "Work Halted at Another Office Conversion in Midtown Manhattan",
+      "url": "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T19:23:11+00:00"
+    },
+    {
+      "text": "After the quake came the blast: Inside Japan's shopping mall disaster - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUlpWmt0VXRMT2dCakd5YVQ0QWMzMk5PdnFLNTJfZXJEdHp5eE5VdFZUY0RRYm5GSFdiX0c1OG8zMzkzN0xkV3JQUVh2VjV4OXIyWFphR01qR1pNNUJXOXVVZmIwWWVBQ2dBMVN0eU5jTzF2ZXBJcTQ4YkJPR2hJR1AtZmNGMzFSMDl1RGlpUVBhTElfTlJkVGM1amxFZ1pHdTBXRFdtLTcwaTJUSlA3WXZQU3Y?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T19:09:29+00:00"
+    },
+    {
+      "text": "With Blanche Nomination at Stake, Payouts to Trump Allies Continue",
+      "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T18:54:42+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Can Anyone Spare a Buck For Texas?",
-      "url": "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html",
+      "text": "Canada’s Answer to Trump’s Tariffs: More Energy Deals With Europe",
+      "url": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T15:24:35+00:00"
+      "time": "2026-07-29T19:48:49+00:00"
     },
     {
-      "text": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
-      "url": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
+      "text": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
+      "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/saudi-arabia-makes-a-reluctant-entry-into-the-us-iran-war",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T15:00:08+00:00"
+      "time": "2026-07-29T19:45:31+00:00"
     },
     {
-      "text": "Blanche nomination hangs by a thread as Cornyn stands by settlement ultimatum - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmxvaXhET3JUaGp2a1hjYXJFam1fZkR4WENUaDN6RkhDU1pnWEtsanFZV0l1Ym4xX3VJSDRvdVdWZl94azR4TUhjNzJrY3BIVHBJRDkxNmo2NF9SSGpjclVDaWZZd1NzakhGQUxTYUVmTXhEVTRqMTZPOC1sRnpCRDgtYW5MY1BZQnlvd04zUXF6ZkhSYVE?oc=5",
+      "text": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T14:56:28+00:00"
+      "time": "2026-07-29T19:31:06+00:00"
     },
     {
-      "text": "Trump Demanded Details of Agents’ Interview of Comey, New Filing Says",
-      "url": "https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html",
+      "text": "Fed leaves rates unchanged; three policymakers dissent in favor of a hike - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWE0UWlwemdYNE5CaEZPSVBqZVNuSmlVSmIxWHV6R1hXa3lua1RReGpYaTEtZGttNzZoTU1XT3VGbjZWUmxFSWxnN21mMGlHVW1fazREOXdRZVk1ek9ya1JVMVNWM0NoVEVzRHY2bWJSYy1JRUtrNElLb3BPSjJzNm9wWmpmYTU3OXRIQ0E1dG82TkU2emF4QVoxTEJJU01ydzF5cHZHRVlnbGp6T3JESUtzV0ZZYjZUc2c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T19:13:44+00:00"
+    },
+    {
+      "text": "Finance Democrats say they’ll demand vote on Trump audit immunity - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnNBcGtOU2tmRzBta2J4Tmxqd2pSalFGNE95YkJvOUFOLWFMbE5aSXhiZXBsaVJFeTBRV2JMdkNGZjE5d0RYaEFPRnZaVUJFbnB0UVgxNWo3dmdweHJyalpBeE5pVGRsam9xZlJUQ0JqZjJRdW1yeE9sYUxMZVNvZW1MWTQzZ25TenMwM1N6X0F0dzVYWHM4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T19:07:33+00:00"
+    },
+    {
+      "text": "What’s the catch with the Apple Upgrade program? - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96OXgyNDBLanVXUkZZbDRNRWN6dGw0SldBYmIyRXRQUnBMTVRORjl5THFfMHNnU0ZsNThvVmlUdDFrZl9VZThfNXYwUUIwNGRqYmE4Vl9UU1VEdUFCY0JTQWFjamZ5c3NiSVF6a29SRXI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T18:40:06+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T19:48:00+00:00"
+    },
+    {
+      "text": "Sanctions Bill Would Give Trump Sweeping New Tariff Powers",
+      "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T14:35:13+00:00"
+      "time": "2026-07-29T19:40:21+00:00"
     },
     {
       "text": "FIFA's Infantino sets deadline for $20M offer to members in Kushner-backed World Cup investor plan - AP News",
@@ -140,72 +178,34 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T14:24:00+00:00"
+      "time": "2026-07-29T19:26:00+00:00"
     },
     {
-      "text": "Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmZaS1lXNXVXM3BxTlZRZ181alZzT2V3a0FxOFg3VVR2MUcweEtTT29Zb0pLVUdYY295R1VyX3NSVUNweE9iSEpaMURSR3NiV0k5LTM4RTVFS00tZVBfTDB1S0xxV2gtTU1aYjR0RXE1MU5GM2FPbXpMRXUtWmpORkEyNTZTeWJvTGtFUk1kcWFtelBUbV9qa1o5elRpYXpLNlZXXzFWRjJZZ0tf?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T13:14:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Canada’s Answer to Trump’s Tariffs: More Energy Deals With Europe",
-      "url": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html",
+      "text": "Why Do We Tolerate Elon Musk’s Racist Commentary?",
+      "url": "https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T15:22:44+00:00"
+      "time": "2026-07-29T19:12:35+00:00"
     },
     {
-      "text": "Could Jettisoning CNN Save the Paramount Merger?",
-      "url": "https://www.nytimes.com/2026/07/29/opinion/cnn-paramount-warner-bros-merger-ellison.html",
+      "text": "U.S.-Iran Updates: Trump says Iran to \"get a beating\" as war expands with U.S.-Saudi strikes in Iraq - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzhpR0toZ18xYmxwc29MX194aW5QczB0M29GaTJBdFgzM0ViNWIzeUl4ZUZIM3Nfb1UwbFdOQ050NzZXMXVfUlFRNUpTa0d0WVdCSVpKeERzM0pKbjZ0QlNjU3ZZUFM5WjBqVnVTV21oVHVDQThOdEZxN1pmckswVFlwVDJmVThkaFpHNXVR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T18:56:00+00:00"
+    },
+    {
+      "text": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump’s IRS Deal",
+      "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T15:00:06+00:00"
-    },
-    {
-      "text": "Can This Man Stop the Mamdani Agenda?",
-      "url": "https://www.nytimes.com/2026/07/29/nyregion/mamdani-manhattan-institute-affordability.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T14:49:50+00:00"
-    },
-    {
-      "text": "Uncertainty creeps into Fed's rate decision as Warsh keeps his cards hidden - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWE0UWlwemdYNE5CaEZPSVBqZVNuSmlVSmIxWHV6R1hXa3lua1RReGpYaTEtZGttNzZoTU1XT3VGbjZWUmxFSWxnN21mMGlHVW1fazREOXdRZVk1ek9ya1JVMVNWM0NoVEVzRHY2bWJSYy1JRUtrNElLb3BPSjJzNm9wWmpmYTU3OXRIQ0E1dG82TkU2emF4QVoxTEJJU01ydzF5cHZHRVlnbGp6T3JESUtzV0ZZYjZUc2c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T14:35:05+00:00"
-    },
-    {
-      "text": "Florida executes 2 men Tuesday, a 1st in modern death penalty history - Tampa Bay Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEJ6SEs4MWtwd2VnNWIyQ1lPaGdubTdlMU9qaVhPTW56emw3aE85WTJwUDduNVVCek1Id1RyZTQ4VElmT28wU0xwNEtJckFhdURaVUh2WHBITFRQNWREQ3VjUS03bE9SemJJcGdHb0VsN3JFQlFnYVdIaFpJaXlVN1VsYlhfNnRPZHBWSW9hWm9vTUU4UXhQcF9kUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T14:18:57+00:00"
-    },
-    {
-      "text": "Framework Laptop 13 Pro Review: A Repairable Notebook At The Top Of The Class - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CWkE5OWNKMGVWOUQxM1QwNThPTXIwb0d6SFlVb2JsQkp2dG03QnF0R1c2eXNkSlg1NzVLbG1QNm1IaHAtUXd0UnI5TFNzNUlHOTNXVlFZXzJsQ3RQSWxoX2JqY2NzbEMyWFdwb2RQR0pPdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T13:00:00+00:00"
+      "time": "2026-07-29T18:19:31+00:00"
     }
   ]
 }
