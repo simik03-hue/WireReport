@@ -1,203 +1,46 @@
 {
-  "generated_at": "2026-07-29T20:16:46.511963+00:00",
+  "generated_at": "2026-07-30T00:07:17.689997+00:00",
   "lead": {
-    "text": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
-    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+    "text": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+    "url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-07-29T20:15:58+00:00",
+    "time": "2026-07-30T00:02:58+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Zelensky says he asked Trump for emergency package of Patriot missiles",
-      "url": "https://thehill.com/policy/international/5997863-zelensky-asks-trump-patriot-interceptors/",
+      "text": "Microsoft jumps 7% as it boosts capital spending plans, citing demand",
+      "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-07-29T23:54:22+00:00"
+    },
+    {
+      "text": "Man found guilty in federal terrorism prosecution tied to Salman Rushdie stabbing",
+      "url": "https://thehill.com/regulation/court-battles/5998412-hadi-matar-guilty-rushdie-stabbing-federal-terrorism/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-29T20:13:23+00:00"
+      "time": "2026-07-29T23:51:26+00:00"
     },
     {
-      "text": "Meta's stock drops on earnings miss, light revenue guidance",
+      "text": "Meta's stock drops on disappointing guidance, dwindling free cash flow",
       "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-29T20:11:08+00:00"
-    },
-    {
-      "text": "Fed meeting recap: Warsh says Fed won't hesitate to stop inflation, but bond market has doubts",
-      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-29T20:10:38+00:00"
+      "time": "2026-07-29T23:42:17+00:00"
     }
   ],
   "col1": [
-    {
-      "text": "The Silicon Valley Health Trend Making Doctors Nervous",
-      "url": "https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T19:52:13+00:00"
-    },
-    {
-      "text": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers",
-      "url": "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T19:46:04+00:00"
-    },
-    {
-      "text": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T19:35:22+00:00"
-    },
-    {
-      "text": "Work Halted at Another Office Conversion in Midtown Manhattan",
-      "url": "https://www.nytimes.com/2026/07/29/nyregion/midtown-manhattan-conversions-steel.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T19:23:11+00:00"
-    },
-    {
-      "text": "After the quake came the blast: Inside Japan's shopping mall disaster - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUlpWmt0VXRMT2dCakd5YVQ0QWMzMk5PdnFLNTJfZXJEdHp5eE5VdFZUY0RRYm5GSFdiX0c1OG8zMzkzN0xkV3JQUVh2VjV4OXIyWFphR01qR1pNNUJXOXVVZmIwWWVBQ2dBMVN0eU5jTzF2ZXBJcTQ4YkJPR2hJR1AtZmNGMzFSMDl1RGlpUVBhTElfTlJkVGM1amxFZ1pHdTBXRFdtLTcwaTJUSlA3WXZQU3Y?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T19:09:29+00:00"
-    },
-    {
-      "text": "With Blanche Nomination at Stake, Payouts to Trump Allies Continue",
-      "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T18:54:42+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Canada’s Answer to Trump’s Tariffs: More Energy Deals With Europe",
-      "url": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T19:48:49+00:00"
-    },
-    {
-      "text": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
-      "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/saudi-arabia-makes-a-reluctant-entry-into-the-us-iran-war",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T19:45:31+00:00"
-    },
-    {
-      "text": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T19:31:06+00:00"
-    },
-    {
-      "text": "Fed leaves rates unchanged; three policymakers dissent in favor of a hike - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWE0UWlwemdYNE5CaEZPSVBqZVNuSmlVSmIxWHV6R1hXa3lua1RReGpYaTEtZGttNzZoTU1XT3VGbjZWUmxFSWxnN21mMGlHVW1fazREOXdRZVk1ek9ya1JVMVNWM0NoVEVzRHY2bWJSYy1JRUtrNElLb3BPSjJzNm9wWmpmYTU3OXRIQ0E1dG82TkU2emF4QVoxTEJJU01ydzF5cHZHRVlnbGp6T3JESUtzV0ZZYjZUc2c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T19:13:44+00:00"
-    },
-    {
-      "text": "Finance Democrats say they’ll demand vote on Trump audit immunity - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnNBcGtOU2tmRzBta2J4Tmxqd2pSalFGNE95YkJvOUFOLWFMbE5aSXhiZXBsaVJFeTBRV2JMdkNGZjE5d0RYaEFPRnZaVUJFbnB0UVgxNWo3dmdweHJyalpBeE5pVGRsam9xZlJUQ0JqZjJRdW1yeE9sYUxMZVNvZW1MWTQzZ25TenMwM1N6X0F0dzVYWHM4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T19:07:33+00:00"
-    },
-    {
-      "text": "What’s the catch with the Apple Upgrade program? - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96OXgyNDBLanVXUkZZbDRNRWN6dGw0SldBYmIyRXRQUnBMTVRORjl5THFfMHNnU0ZsNThvVmlUdDFrZl9VZThfNXYwUUIwNGRqYmE4Vl9UU1VEdUFCY0JTQWFjamZ5c3NiSVF6a29SRXI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T18:40:06+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T19:48:00+00:00"
-    },
-    {
-      "text": "Sanctions Bill Would Give Trump Sweeping New Tariff Powers",
-      "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T19:40:21+00:00"
-    },
-    {
-      "text": "FIFA's Infantino sets deadline for $20M offer to members in Kushner-backed World Cup investor plan - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJua3VkNWFsOW96djl4VHJXUkdpS2R0SVdmY1k4Rlo1TlVNVl9PbzlGVFJ0ZVZBbnN2OGw0aUZqQjlDV2dJQTBvamhqWWcwWmFLOWtVV1doYWktRndXdEFZb1lZeFBsVmI4MUxjMGJHOTBkOHQwZHR1M194emx6Mkk1TWVnd3BCY29FMHVEUUFYZC1fUmFxaHg2OVlmZ3cxbkdkYXVhYmtlLTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T19:26:00+00:00"
-    },
-    {
-      "text": "Why Do We Tolerate Elon Musk’s Racist Commentary?",
-      "url": "https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T19:12:35+00:00"
-    },
-    {
-      "text": "U.S.-Iran Updates: Trump says Iran to \"get a beating\" as war expands with U.S.-Saudi strikes in Iraq - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzhpR0toZ18xYmxwc29MX194aW5QczB0M29GaTJBdFgzM0ViNWIzeUl4ZUZIM3Nfb1UwbFdOQ050NzZXMXVfUlFRNUpTa0d0WVdCSVpKeERzM0pKbjZ0QlNjU3ZZUFM5WjBqVnVTV21oVHVDQThOdEZxN1pmckswVFlwVDJmVThkaFpHNXVR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-29T18:56:00+00:00"
-    },
     {
       "text": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump’s IRS Deal",
       "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
@@ -205,7 +48,164 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-29T18:19:31+00:00"
+      "time": "2026-07-29T23:31:36+00:00"
+    },
+    {
+      "text": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
+      "url": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T23:17:34+00:00"
+    },
+    {
+      "text": "Wall Street closes down sharply after Fed holds rates unchanged - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T22:56:36+00:00"
+    },
+    {
+      "text": "Death of 15 elephants in Kenyan national park sparks outrage, investigation - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUG1Caks1VmhKQ3g4NWVNcXEyUDR0clRtUEQwVWFDMm80d0N1MnMwOGtqU0lzeS1mMTdTNmtZNW1yUjhiaE1rcFpwNVh5NkdnZkJtTHl0Q2w5NzFNLXFKcmlhQjBjalhQTlhrSXg5N2l2YVA3X205bGUyMzVodmltZWIxWlgzNmVVMDhwMHlwYkdIbndfcTUzU1ZGZkg3TFBfQmNzSjdyNkFxWUZLUEJlSGEwVjR1bUZC?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T22:45:36+00:00"
+    },
+    {
+      "text": "Lawyer Who Represented Trump Is Appointed U.S. Attorney in Manhattan",
+      "url": "https://www.nytimes.com/2026/07/29/nyregion/trump-attorney-james-mcdonald-manhattan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T22:29:03+00:00"
+    },
+    {
+      "text": "Trump Has Made Billions in Office. Will His Party Pay Politically?",
+      "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-personal-wealth.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T22:03:48+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "With Blanche Nomination at Stake, Payouts to Trump Allies Continue",
+      "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T23:29:23+00:00"
+    },
+    {
+      "text": "Microsoft Increases Spending on A.I. as Profit Jumps 31%",
+      "url": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T23:10:21+00:00"
+    },
+    {
+      "text": "Microsoft Profit Jumps 31% as Azure Cloud Sales Surpass $100 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDkyU1ptM2xGN2M5QUJtclpSMFJtQVd4VlZJeTJKbXJPb2Q4cW1VUlZubjVoQ291MnB3T3AwT1RQcENGTmtEVHB3bUNsTzBRRjlHTjQ0dGpabWpZM3pZTGlIcjNGcGRTdDlDc2tCc01QYUxtaXpHREFvSWV6VC1Nbw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T22:53:00+00:00"
+    },
+    {
+      "text": "Trump Encounters a More Determined Iran as War Widens",
+      "url": "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T22:40:28+00:00"
+    },
+    {
+      "text": "Meta Q2 earnings recap: Stock tumbles nearly 10% after profits miss Wall Street estimates - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczQ3akxPV3lFcU9XRVByWWp0NVF5Qkl3eFo0MkNRTjVYNlhvQW5Kdkk1NWhmWnItYVBxRmVZRUsxMkVHX3QxR202UlpGRkwyZmpfaEJDTmpSWVFpb1p3bFBYcjBkem9qS0lOTm5BWFFING14YjRFM0pGRHlnZWNHTEF3bVk2WWJSVVJDanUzNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T22:12:20+00:00"
+    },
+    {
+      "text": "The 44 days between a pedophilia allegation and an Oklahoma murder-suicide - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3JubGhYeUJ4R0dYcjNMR2xlZEZIVDAxSU5SNmtObzBHY2Q3dm8tbTJlOHJiMWprMHZvcWxWcVg2c1FWNGpXaUpQaXFZVFpjdjh4cURzTkxVdVQydGdULXZDMlVobUlLZ3FlZjlUVHJ6UlY5QlotbFVQelh6SmpHT1lYaTJXTkR3aW03cjdNQW9TbVJDRFFNdmVDcVpGVEU5YzFj?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T22:00:51+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Rollout of New York City’s Second-Home Tax Is Confusing Some Residents",
+      "url": "https://www.nytimes.com/2026/07/29/nyregion/new-york-second-home-tax-rollout-anxiety.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T23:29:14+00:00"
+    },
+    {
+      "text": "Legionnaires’ Disease Has Made a Home in New York City. Here’s How. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOC1VTV9EdWJZWnpScXhfVmR4UHcxUl9IYThBcUlVM1Zpa05wejFWNjJUUHVfbzFVXzVhb1BESE9wMVBQT2g5eGktM1FRSFJVeUlWNlJVMzhqdHNKYTQ4X2pSMWV1VmxVelpsd1NpWXA3VThIV3ZaSVpoSExFQjRiR3NEWW96MUhQVC1v?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T23:01:35+00:00"
+    },
+    {
+      "text": "Trump unveils Dulles makeover after months of personal edits - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV01DNU1hdTE1dWJYU2NGcGp3MXZWeWNjN1hkQTBSdm1jYUV1WHgyY1lVUTJ0UEEyVC1CREhuNTdLNy1XREtsQXpTLTItbFpKdUlSMlhRU09EX2xsanF0MTdxYUdjeko3aTZfc1k5bE5PcXpBeUJkSHBTWWtOdEVhNVJVLVJORWVndGM3c2Z6cElHazVpWEpVQXdDSE1jUlcybkwxbGNaemFORVp3Sl9vejhR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-29T22:46:14+00:00"
+    },
+    {
+      "text": "Salman Rushdie’s Attacker Found Guilty of Aiding a Foreign Terror Group",
+      "url": "https://www.nytimes.com/2026/07/29/nyregion/hadi-matar-salman-rushdie-terror.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T22:36:32+00:00"
+    },
+    {
+      "text": "Republicans Threaten to Block Blanche Nomination",
+      "url": "https://www.nytimes.com/2026/07/29/briefing/blanche-nomination-fauci-testimony-happy-cities.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T22:11:22+00:00"
+    },
+    {
+      "text": "What Our Epstein Outrage Has Obscured",
+      "url": "https://www.nytimes.com/2026/07/29/opinion/sex-trafficking-epstein-exploited.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-29T21:53:16+00:00"
     }
   ]
 }
