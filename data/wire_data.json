@@ -1,46 +1,73 @@
 {
-  "generated_at": "2026-07-31T13:20:39.360415+00:00",
+  "generated_at": "2026-07-31T18:49:06.794748+00:00",
   "lead": {
-    "text": "Jim Cramer's top 10 things to watch in the stock market Friday",
-    "url": "https://www.cnbc.com/2026/07/31/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
-    "source": "CNBC",
+    "text": "Senate Democrat declines to say whether Schumer should continue in leadership post",
+    "url": "https://thehill.com/homenews/senate/6002807-van-hollen-declines-to-say-schumer-endorsement/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-07-31T13:14:54+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-07-31T18:46:16+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
-      "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+      "text": "S&P 500 rises as Amazon surges, but broad market index heads for losing July: Live updates",
+      "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-31T13:14:20+00:00"
+      "time": "2026-07-31T18:39:00+00:00"
     },
     {
-      "text": "Novo Nordisk shares dive after heart medicine fails trial, dealing another blow to its  pipeline",
-      "url": "https://www.cnbc.com/2026/07/31/novo-nordisk-trial-results.html",
+      "text": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-07-31T13:14:05+00:00"
+      "time": "2026-07-31T18:33:23+00:00"
     },
     {
-      "text": "Vivek Ramaswamy Wants to Be the Future. First He Has to Win.",
-      "url": "https://www.nytimes.com/2026/07/31/opinion/vivek-ramaswamy-ohio-trump.html",
+      "text": "F-35 fighter jet crashes near San Diego",
+      "url": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-07-31T18:31:57+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Far-right politicians seize on Ceuta",
+      "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T13:13:58+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-07-31T18:30:29+00:00"
+    },
+    {
+      "text": "South Korea’s KOSPI Soars 18%",
+      "url": "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-31T18:10:06+00:00"
+    },
+    {
+      "text": "What to Know About Ceuta",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-31T17:57:27+00:00"
+    },
     {
       "text": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
       "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
@@ -48,164 +75,137 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T13:03:42+00:00"
+      "time": "2026-07-31T17:49:56+00:00"
     },
     {
-      "text": "Critics Say Historic Sites Are Endangered by Trump-Aligned Panel’s Plan",
-      "url": "https://www.nytimes.com/2026/07/31/arts/critics-say-historic-sites-are-endangered-by-trump-aligned-panels-plan.html",
+      "text": "Adam O’Neal Resigns as Washington Post Opinion Editor",
+      "url": "https://www.nytimes.com/2026/07/31/business/media/washington-post-opinion-editor-resigns-after-1-year.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T12:47:20+00:00"
+      "time": "2026-07-31T17:25:34+00:00"
     },
     {
-      "text": "In Trump’s Economy, Job Gains Go to Women. That’s Not an Entirely Good Thing.",
-      "url": "https://www.nytimes.com/2026/07/31/magazine/american-women-workforce.html",
+      "text": "FaceTime, Zoom and Ring Cameras Are Warping Our Reality",
+      "url": "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T12:35:39+00:00"
-    },
-    {
-      "text": "What Is the Board of Peace? The Trump-Backed Group, Explained.",
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T12:03:27+00:00"
-    },
-    {
-      "text": "This tattoo is permanent, pain-free, and might soon come in the mail - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3NRc3N5ckdUWkZVRmpEZjdGb0U5YXBhQ1pvb0JWdWZ1NTAtMkVKTEY0QUxDTlRnYU5hcmIyajR0dUZjejdLOE1Jbk10N0VSN0dLZzVna3hHdDFkU2JvT3N3MXFHVGc4YlQ3RXMzYkN6ZE5HVDhBTS02aEx5OEdZSWxqN1ZpY3h0S3BXeUk1TWc1QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T12:01:00+00:00"
-    },
-    {
-      "text": "Iran Says It Targeted U.S. Military in Kuwait With Drones",
-      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T11:14:34+00:00"
+      "time": "2026-07-31T16:59:38+00:00"
     }
   ],
   "col2": [
     {
-      "text": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-      "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+      "text": "State Dept. to Release 250,000 More Trump Passports With His Portrait",
+      "url": "https://www.nytimes.com/2026/07/31/travel/trump-passports-usa-250th-anniversary.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T12:57:23+00:00"
+      "time": "2026-07-31T18:30:19+00:00"
     },
     {
-      "text": "New York sues Kalshi, says prediction market is running 'illegal gambling operation' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFAzbi1FMnRMRDdLNmdvMXVwTmFyZk9oN1JhNlAyU09aVGgyNnRuZDRYTFlmdExvVjVsYVVla3RMVkIwdGM2UmFwb2NJLTBmZHlRaUNuTUJmOGxIZVp3NE9Oa2lrSmhfbkdzYjhfRjduRGdHeDhqRU1zY3FTOXA3QlVFWk5KVU0zMGVHN1RJenhmRHRSNzRfZWJBWl8xd9IBowFBVV95cUxOZXJSUWFKQ3pVMHpxQ3gtc291YzNmMlV5TGkzMlBiZ3NnYkFZc05tT0Fsc0JvTlpkOThKSDhNSE9zQmlXSVRIdUhMTnB5Mm8yMTUzXzdDNVFpMUltWjVMT25iU3pTdnBMNkloZ014U2hRMXo0bkx6ZXVGVGlkN2QxNFhMZy0zNFlYX0pGOXRhYVRUbThlc3JxM21xTEtsdG1MOUtJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T12:41:34+00:00"
-    },
-    {
-      "text": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
-      "url": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html",
+      "text": "Coast Guard Vows to Protect Crews From Brain Injuries Caused by Rough Seas",
+      "url": "https://www.nytimes.com/2026/07/31/us/31nat-coast-guard-brain-injury-boat-waves-surfmen.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T12:30:34+00:00"
+      "time": "2026-07-31T18:08:24+00:00"
     },
     {
-      "text": "Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUNJOEJab054ZTc0M0J6WXlJcTlEVS1XNDJJSG5HX0lFUVNneVZ2ZWlPZ2FGa3Z4R3VDY29nZ1Y1U1B4WWpJekV5OW1uM00wcnR1R01pUUd5MHQzcG02dF9FSzBnVVpYZFVFaFpublBLVnVfRm4wQ2VXLXNQOWFxeTZ6Q210cmJjQmk5VVlXaF9ZcXd5dmZLdFBHdGZ6Q3YxR0R4ajZWbHg?oc=5",
+      "text": "Ariana Grande’s ‘Petal’ Reviews: Why Critics Say It’s Her ‘Most Musically Accomplished’ Album - TODAY.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3NGd0N2LUpiVlhWRXMtMkNIOXlIZllPTVo2UG0zc1RQbktIYnQzTXVoQXJrUWFNRzVTbzhLNHh4TDZaSGxSRlhIV1l5d3pVNlNiTUJINDRvNFRxNUlTb1dRa1NsYkFrb045M1V2U2puZE9xUUE4ZndEUTU2Z0RSMV9Vd0ctbGhFRWVZ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T12:02:28+00:00"
+      "time": "2026-07-31T17:55:31+00:00"
     },
     {
-      "text": "Quake survivors in southwestern Japan sleep in cars in sweltering heat as death toll rises to 34 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUpKQU1iMmN1QTRnUjNmTGd6cEU1V01LR3NieTh3YzEwREpqdkZUc0d2ZzJDbGNWXzhZUkNuVlhyYllDcXkxR0h2SzBwNXAzdS1GZGFTd1JIUTVQSFNVTlJ5U0JPbUVoTnRINmszTmZXTUwxaEtLREhpcW02UlZ1RVpJODNzNlpiajZkTmZZNW9yZVlGZERKbGtMRnRCR0U?oc=5",
+      "text": "Stock Market Today: Dow, S&P 500 and Nasdaq turn higher as Amazon's gain helps offset Apple's loss - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUtUak1CSmR4OHRRMzdvSXdQckN0Ri1ReXFYVEZKWEZXVkZlYWl6ZGdQbjJ3NlFmTmxETi1Ld2hDUl9QS3pKWWZmSV84LVRGdlJMSGk4VG43bU9jQVR5dkhjTGVtTVlDV1RyRFZaOG5vN1Y4c2RFc3lQRUlFSHl0Y1F4UVhvM1FHYjNlT2l3NERXMVJCZ0k3aERZVEJDRF9pVkdiMDJpc0hZb0ZtTDhHSHBjeFRIc0FBVVRETFdtaGw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T11:56:00+00:00"
+      "time": "2026-07-31T17:46:00+00:00"
     },
     {
-      "text": "In the Surf",
-      "url": "https://www.nytimes.com/2026/07/31/briefing/in-the-surf.html",
+      "text": "U.S. investigating if Iran was behind cyberattack on water systems in 7 states, including Minnesota - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeERJcG8xQXRGamk1aHNPcW1HdllJeWhGSXlFOWIyemFlZmZkQW1IUllubnBZemtwYml5V01YeFJsNXdMOXpyVUVOMjIxUDc1OUstVnBYTWFZVHdrb2R1MnRSNmhwbWR3dUNJYXBOeUtBQlVOTmNsaGZyWXd1OHczWGdJOUZFcHpzUFNWTnhSZFo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-31T17:19:40+00:00"
+    },
+    {
+      "text": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T11:10:13+00:00"
+      "time": "2026-07-31T16:57:05+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Defying Trump, Cornyn Uses His Lame-Duck Power",
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
+      "text": "Companies Rush to Close Daring Deals Under Trump",
+      "url": "https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T12:49:14+00:00"
+      "time": "2026-07-31T18:21:11+00:00"
     },
     {
-      "text": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
-      "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+      "text": "Amid Talk of a Party Switch, Fetterman Vows ‘Never’",
+      "url": "https://www.nytimes.com/2026/07/31/us/amid-talk-of-a-party-switch-fetterman-vows-never.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T12:38:44+00:00"
+      "time": "2026-07-31T18:04:52+00:00"
     },
     {
-      "text": "Cocky Curt Cignetti called out the SEC, but he should Google Indiana's laughable schedule first - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEtMNE1kV0JoSnVCby12cHphX3BOMkpoNGRzSnRDdUs3SVNOeHJjd1VRdHBpb1FfamRZVG9PWGQ0MkIzeGxTdzctUVRadXNiSUtOS1pqUUlHU3VHLUQzTjBZWkYycTJBcXAwdi1JRk5iQzNBQ19xZHlLY3lQZUhFQmx3cW5mc2h6VXphZ3cwM1kya3l5dzFoa0F4aXNfMW92MmhOUkJFVWZzMEdYMThoNEJXa2FhRmZWSXowYQ?oc=5",
+      "text": "U.S. Raises Threat of Steep Water Cuts in Lower Colorado River Basin",
+      "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-31T17:55:10+00:00"
+    },
+    {
+      "text": "How Trump Has Changed, With Maggie Haberman",
+      "url": "https://www.nytimes.com/2026/07/31/opinion/ezra-klein-podcast-maggie-haberman.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-31T17:32:30+00:00"
+    },
+    {
+      "text": "Gavin Newsom and His Wife Made $1.4 Million in 2024, Tax Returns Show - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lc3p3aDVxZVY1TTFFZlhGWTJ2UENZQkdxWFViZnFmcjlCcmlEdUNIbUhaOU9tc2hYMTdpZVZBb2ZpSGtCclFhSTJxUzgxc0ZoRkdSNFVqZFNpVXNraFprYXREeWdHRTY4MExwVTBuc2NOX3d1VVE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T12:23:00+00:00"
+      "time": "2026-07-31T17:00:06+00:00"
     },
     {
-      "text": "Trump to meet cabinet at Camp David as Iran war drags on – US politics live - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREhrRzBwZjBtRk5YNjV4TTZNRlJRTjRxa01iSFRNaVE2YjFPNDE4QVhCZm9IMTFzcE5CMkZ5cXViSnV0OTFZcUVsMTlfcWxmdHNfTDhEZG1FZV9UMlAtU1hLUU1zdzRrUXpBOVEybm5hR1JPemVaWmlmYURJMF9nXzh1SkFWaFltSjFqTTFLYnVVUm1Fa3dwUWJlVXpHMjlOY2k1ckxhUWpqSmFtRmhRYkxhVTNKbHhpUU1HaERxWTc?oc=5",
+      "text": "DR Congo Ebola epidemic becomes world’s second largest outbreak - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTRLaEtTaDI5ZGwyZGF1WkQzNnZ6dVRBZW5WRHJiYW1uM2U2NzZxVmlFZGVrblM2c05jdGNPVW5wTFFJa2hUMGxkWFVjaVdqN2czMGw1dTBENzNkNTVDeDJvcHk0RmMwZzZYMDMwc19VNmtpQWs1YWFaVXZQeTNZME9YTXpLQ3RFaHpVenBrV2VuWTFxMmlGR1VrejBKVzZwS21RX0ZB0gGrAUFVX3lxTE03bV8tazhKZmswVHYxR2h2SjJPeGZnUG1IT0ZQQkREMm5jaDRlNThBT1ZialFLNWRHQTVmWFNVTDZ4SXVQWjctMzlFVEFkdnEySmVXdmRJcUp3alI3YUdaTWJyNjNaeTN4Q1NwaVlQZnZFR093RFlmQ01xTUxNZWxnMzdtSzZDZ2cxZmdRQnlDQkpaQktJQWdZM0FGMTZ3WTRFek9rT0poT01BRQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T12:01:05+00:00"
-    },
-    {
-      "text": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3pBTDJWZjJEWG92QjU0bmMtYTdYVFlBWWdyb0JySXNvbzVqdThLMXhnbDVDSUJteVFMODN2WkY0R1kxa0pqTkRUWlphbUJTV1hOLTVOcTRnYnlTS2xwR2lsTEV3RFAxRnU1WFRKMVRGcFg4anBhcTFXS3JxTzNuM0Jxa2dDVGtyM0pBaXMxbnM4V2lod19fNjhZeGN0UlNKM1BNdzlJZkMwWl9kRnlR0gG0AUFVX3lxTE9NV09rWWZ2d1FxenpNdGg4OW1qUTdpSHk1cUJNVjVvVmEzWGJ4ZmRBNTBFc3Z6WVB3NEpQcm1MRHhvdTlqY2NabUx2YVMzYWN0aXVrRWpDa05OOTBPdGZoOUpyVFB1TDBOS1VqRHo2ZW02M3ZxcVFUUnlscnYwYXVmQmVIRlFRb0JnRHdNaXR3YndJczJrSFhhSUJ6YWhYTFNFT0xSZlVweUJFaTJ1Nzg5SDJRbg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T11:47:08+00:00"
-    },
-    {
-      "text": "MLB trade deadline dominoes for 10 biggest names on 2026 market - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeld0ZTZVYnl3Y0pxSDhxVTEwZWppNTlkTTg5LVZBZjNCbWM5VkFJTURCVUxFcnhuZUwtYXFKTm1uWnhrRk10anpLN0xNY09NNDMxTlRhdjBPNHJBLVNwbkIxcUpKS2FRRlkwQUxkS0R1LXczeTRqSmlDR3ZLSFVFMHlpdGdNcmdROWc3Z0x2alZpZURtLS1XQTRfcjVzTVdpYUlaN0ZzM19fZFA3ZzZjQy1RWEdIaHFfUlY5VzFR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T11:00:00+00:00"
+      "time": "2026-07-31T16:56:15+00:00"
     }
   ]
 }
