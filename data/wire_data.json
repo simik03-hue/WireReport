@@ -1,158 +1,129 @@
 {
-  "generated_at": "2026-07-31T18:49:06.794748+00:00",
+  "generated_at": "2026-07-31T22:40:38.064559+00:00",
   "lead": {
-    "text": "Senate Democrat declines to say whether Schumer should continue in leadership post",
-    "url": "https://thehill.com/homenews/senate/6002807-van-hollen-declines-to-say-schumer-endorsement/",
-    "source": "The Hill",
+    "text": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+    "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-07-31T18:46:16+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-07-31T22:29:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "S&P 500 rises as Amazon surges, but broad market index heads for losing July: Live updates",
-      "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-31T18:39:00+00:00"
-    },
-    {
-      "text": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-07-31T18:33:23+00:00"
-    },
-    {
-      "text": "F-35 fighter jet crashes near San Diego",
-      "url": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/",
+      "text": "Fetterman: Trump has 'zero leverage' over lame-duck GOP senators",
+      "url": "https://thehill.com/homenews/senate/6003155-fetterman-trump-blanche-confirmation-gop-senators/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-07-31T18:31:57+00:00"
+      "time": "2026-07-31T22:26:46+00:00"
+    },
+    {
+      "text": "Charges to Be Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool",
+      "url": "https://www.nytimes.com/2026/07/31/us/david-hearn-reflecting-pool-vandalism-charges.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-31T22:24:05+00:00"
+    },
+    {
+      "text": "Nancy Guthrie Ransom Notes Released by Sheriff’s Department Searching for New Leads",
+      "url": "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-31T22:21:40+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Far-right politicians seize on Ceuta",
-      "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html",
+      "text": "Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.",
+      "url": "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T18:30:29+00:00"
+      "time": "2026-07-31T22:18:59+00:00"
     },
     {
-      "text": "South Korea’s KOSPI Soars 18%",
-      "url": "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "A new Colorado River plan requires water cuts for three states. Deeper cuts are still possible. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2ZraFBCbkNRdTZQWDJ0QjZydWkyQTZnTDduYnZUVzdJODc5ZU1QVjh0X2pvZE4xR3B5RGJfUnRKakJjc3lDQXQtTFNTeTdNR2FTLVRmWll0NkNGMFFZTHFqcVNWYW54ZnZjTFdZWUpCUDB2dEtNQWRrdHRNOVR6eDdfLUhQR2paNEJ5aWE0NkNSb3hKLThrR0YzOFZwdFgyTnFnZjNwRTVHWUIzdVFjNk5kdVFIcGxScG8wUFFNN1dWd2Ft?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T18:10:06+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-31T21:55:11+00:00"
     },
     {
-      "text": "What to Know About Ceuta",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+      "text": "Warsh Considers Reducing Frequency of Fed Policy Meetings",
+      "url": "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T17:57:27+00:00"
+      "time": "2026-07-31T21:11:16+00:00"
     },
     {
-      "text": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Tony Romo put on leave at CBS Sports following arrest - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0RmYnVQbU1OdVR0ZWVoQUlwbGpQR2xOTWF1VE5HSldDS1RYeEZUeURhVzZlVW9OVzhzTkZMbWhJTjJIUDBiZ0NOMmRqU1hXX3BUcXd2Z1VnNm9XOF9sVmlCTV9EdzdLeGZ6N05RM0RLYmI5VUVyM1pHTHd3dGtTYkYxcDIwY2JMd2gtV1EyMEUzQdIBlwFBVV95cUxPR0ZEckJWYjJHS250d3FQWkJSbGtoOVBZVGI1dnNxV0FWSGtkdHd1emt6YnhfTldZY3lsWHlXNkswRHU5cXNJU2FmSE41cGxmajNVRGFRcXQxTFN2YWozbXEyZ3hLbE9jb1VzVHFpM2hINmI5SEdyQVZmWjE2SEdsMDVKTmJYRW1EZ21vVkRqSDBIWDhzZHlB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T17:49:56+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-31T20:57:47+00:00"
     },
     {
-      "text": "Adam O’Neal Resigns as Washington Post Opinion Editor",
-      "url": "https://www.nytimes.com/2026/07/31/business/media/washington-post-opinion-editor-resigns-after-1-year.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Italy suspends Schengen with Spain over Ceuta migrant crisis, closes air and sea borders - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOczdQOUhVMVdUVmVOWVhPWDZJMVlpdV8tQlhXODhsa1A4STc4b08tUU1aWmQzZ0NxVmlLVDhqMzdVbWVOSGNJenJBdnZuQ3ZBc1U5bWdMcS1oc3RQcGhvbDRIZzZ4cWowTWdSb1ltVUdCN21OVmxkeVd4SlJ2Q2VXVEhSZ3g4Z1pmZXBNZVBMN2l6MEV6dGNwQnY3VlJpNGhkclpLMDRMM1lIUWFUa0VpTDZaX25fSlgtOEJZVGxxaDM0cFJidkpSUXhyOFY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T17:25:34+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-31T20:40:54+00:00"
     },
     {
-      "text": "FaceTime, Zoom and Ring Cameras Are Warping Our Reality",
-      "url": "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html",
+      "text": "Why Mitch McConnell Isn’t Giving Up His Senate Seat",
+      "url": "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T16:59:38+00:00"
+      "time": "2026-07-31T20:23:41+00:00"
     }
   ],
   "col2": [
     {
-      "text": "State Dept. to Release 250,000 More Trump Passports With His Portrait",
-      "url": "https://www.nytimes.com/2026/07/31/travel/trump-passports-usa-250th-anniversary.html",
+      "text": "Trump to Appeal Judge’s Ruling Denouncing I.R.S. Lawsuit as Exercise in Self-Dealing",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T18:30:19+00:00"
+      "time": "2026-07-31T22:13:09+00:00"
     },
     {
-      "text": "Coast Guard Vows to Protect Crews From Brain Injuries Caused by Rough Seas",
-      "url": "https://www.nytimes.com/2026/07/31/us/31nat-coast-guard-brain-injury-boat-waves-surfmen.html",
+      "text": "Trump administration drops Reflecting Pool case, blaming damage on ‘botched’ installation - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3ZydER1VF92QXhjc3RkNnNVdVlPNnB5eWZoTEpZWDBZRm93SVNDZ2cwV1ZQajhfOVA0YXpnZW9MQjl3LVVPRmpvVlJlQ3haSGV2TERsMy11UVBacGhFVnpVWTNWZmw5em9uTFBudEd0TmZIdmZsTjBJeHFQZ0xxREdESjduUFZ6d3E1WEllUGdaWXpkX3FUZHJBWTY4R0ZaZm5jd2hlLTh6eDBDcC1TWlBsZmdINnY3cGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-31T21:55:00+00:00"
+    },
+    {
+      "text": "Next Met Gala Show Will Honor John Galliano, Celebrated Designer Infamous for Antisemitic Rant",
+      "url": "https://www.nytimes.com/2026/07/31/style/met-gala-costume-institute-john-galliano.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T18:08:24+00:00"
+      "time": "2026-07-31T21:08:56+00:00"
     },
-    {
-      "text": "Ariana Grande’s ‘Petal’ Reviews: Why Critics Say It’s Her ‘Most Musically Accomplished’ Album - TODAY.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3NGd0N2LUpiVlhWRXMtMkNIOXlIZllPTVo2UG0zc1RQbktIYnQzTXVoQXJrUWFNRzVTbzhLNHh4TDZaSGxSRlhIV1l5d3pVNlNiTUJINDRvNFRxNUlTb1dRa1NsYkFrb045M1V2U2puZE9xUUE4ZndEUTU2Z0RSMV9Vd0ctbGhFRWVZ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T17:55:31+00:00"
-    },
-    {
-      "text": "Stock Market Today: Dow, S&P 500 and Nasdaq turn higher as Amazon's gain helps offset Apple's loss - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUtUak1CSmR4OHRRMzdvSXdQckN0Ri1ReXFYVEZKWEZXVkZlYWl6ZGdQbjJ3NlFmTmxETi1Ld2hDUl9QS3pKWWZmSV84LVRGdlJMSGk4VG43bU9jQVR5dkhjTGVtTVlDV1RyRFZaOG5vN1Y4c2RFc3lQRUlFSHl0Y1F4UVhvM1FHYjNlT2l3NERXMVJCZ0k3aERZVEJDRF9pVkdiMDJpc0hZb0ZtTDhHSHBjeFRIc0FBVVRETFdtaGw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T17:46:00+00:00"
-    },
-    {
-      "text": "U.S. investigating if Iran was behind cyberattack on water systems in 7 states, including Minnesota - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeERJcG8xQXRGamk1aHNPcW1HdllJeWhGSXlFOWIyemFlZmZkQW1IUllubnBZemtwYml5V01YeFJsNXdMOXpyVUVOMjIxUDc1OUstVnBYTWFZVHdrb2R1MnRSNmhwbWR3dUNJYXBOeUtBQlVOTmNsaGZyWXd1OHczWGdJOUZFcHpzUFNWTnhSZFo?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T17:19:40+00:00"
-    },
-    {
-      "text": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T16:57:05+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "Companies Rush to Close Daring Deals Under Trump",
       "url": "https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html",
@@ -160,52 +131,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T18:21:11+00:00"
+      "time": "2026-07-31T20:54:48+00:00"
     },
     {
-      "text": "Amid Talk of a Party Switch, Fetterman Vows ‘Never’",
-      "url": "https://www.nytimes.com/2026/07/31/us/amid-talk-of-a-party-switch-fetterman-vows-never.html",
+      "text": "Trump Administration Plans to Upend Head Start by Deregulating It",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T18:04:52+00:00"
+      "time": "2026-07-31T20:31:08+00:00"
     },
     {
-      "text": "U.S. Raises Threat of Steep Water Cuts in Lower Colorado River Basin",
-      "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T17:55:10+00:00"
-    },
-    {
-      "text": "How Trump Has Changed, With Maggie Haberman",
-      "url": "https://www.nytimes.com/2026/07/31/opinion/ezra-klein-podcast-maggie-haberman.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-07-31T17:32:30+00:00"
-    },
-    {
-      "text": "Gavin Newsom and His Wife Made $1.4 Million in 2024, Tax Returns Show - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lc3p3aDVxZVY1TTFFZlhGWTJ2UENZQkdxWFViZnFmcjlCcmlEdUNIbUhaOU9tc2hYMTdpZVZBb2ZpSGtCclFhSTJxUzgxc0ZoRkdSNFVqZFNpVXNraFprYXREeWdHRTY4MExwVTBuc2NOX3d1VVE?oc=5",
+      "text": "Sophie Cunningham fan who was confronted by Storm co-owner opens up on incident and facing trans athletes - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVliUVllTEQtcGEyR1N4RHRlTU5QU3JiNVdmRXlLNWU4RGE0ZHUzdEpHbVZJNHR6akctQ1JIMktldFpJWHZpREdGYWw5dUxSTHA3NmlaX3U4NV8ta3psMy1mZnJkMUl0S1l1c3lQN0VldjQ0RFgzaGl2MXZsM2dtekMydndVMUJGYUJ5RTN6STlYOU5fZHpseWtDRjFpeU1nVEsyeWtsZjcxNl9nVEtHTFZCMHNySUFzTlNhXy03dm0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T17:00:06+00:00"
-    },
+      "time": "2026-07-31T20:21:53+00:00"
+    }
+  ],
+  "col3": [
     {
-      "text": "DR Congo Ebola epidemic becomes world’s second largest outbreak - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTRLaEtTaDI5ZGwyZGF1WkQzNnZ6dVRBZW5WRHJiYW1uM2U2NzZxVmlFZGVrblM2c05jdGNPVW5wTFFJa2hUMGxkWFVjaVdqN2czMGw1dTBENzNkNTVDeDJvcHk0RmMwZzZYMDMwc19VNmtpQWs1YWFaVXZQeTNZME9YTXpLQ3RFaHpVenBrV2VuWTFxMmlGR1VrejBKVzZwS21RX0ZB0gGrAUFVX3lxTE03bV8tazhKZmswVHYxR2h2SjJPeGZnUG1IT0ZQQkREMm5jaDRlNThBT1ZialFLNWRHQTVmWFNVTDZ4SXVQWjctMzlFVEFkdnEySmVXdmRJcUp3alI3YUdaTWJyNjNaeTN4Q1NwaVlQZnZFR093RFlmQ01xTUxNZWxnMzdtSzZDZ2cxZmdRQnlDQkpaQktJQWdZM0FGMTZ3WTRFek9rT0poT01BRQ?oc=5",
+      "text": "Can a GLP-1 treat alcohol disorder? Veterans Affairs starts a study to find out. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWc4UTRDVEZPLVZzeENMdXlVUC1WSEJNUDY4Z09ETnYtUnhFUl9BOEtxdU9BRHhhR2dMenBGT1J4UXF1dGtPSkMyZ2tRSkR4bUdERzZRcXprNUJDbFJIYXFaT3BVdDhxX2k3cUR1Q2FBWUg5aUQ4Qkc0TlMyd3liM19QeWI5YTluUXA1ODhnOGQ5T05WVVlIZ0pSS3pad3VZajZiQ1hTaTc0TFhTZ0VYTTlKSXU0OU5NQjE5M19n?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-07-31T16:56:15+00:00"
+      "time": "2026-07-31T22:06:35+00:00"
+    },
+    {
+      "text": "Hunter Biden Blames Cancer for Joe Biden’s Disastrous Debate",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/hunter-biden-joe-biden-debate-cancer.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-31T21:14:14+00:00"
+    },
+    {
+      "text": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-07-31T21:02:54+00:00"
+    },
+    {
+      "text": "Trump says Iran not to blame for Minnesota cyberattack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcm5JeENGckR6azVYeXVLbU5qd0hJakxZdHRseXFxbzVFSVBQeldZVUpXcjJ1X1VxRnpzeWdCSmdET1llWXRRZUNFNEpOa3d3WEJ3bl9kUVZpb3pLczdoa1BYeV9sVWYydUFOWGZoZElWYTdpazdIdGNvNkFNc2RFazltMDBVNXJyaWY5T2JKbXkwMmRrM2ZkcQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-31T20:54:07+00:00"
+    },
+    {
+      "text": "Wall Street ends higher as Amazon soothes AI jitters - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-31T20:24:18+00:00"
+    },
+    {
+      "text": "Trump brokers Hamas disarmament deal as Saudi Arabia plans Houthi offensive - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YSGowSkVQeHRLVk9oNmp0UVJoVlBVVkRFZVdQMlBONi1ya2RFcTg1Y2s2bUROajZBUXlWZ0J2MVR2OUFkdFBZaUtxTGJIcDZ6cmhkbXVSN2o4ZDQ2OXpwZXlpNEp1bXRlQzhteWh4elZqaW5vNHJmUF90SQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-07-31T20:17:21+00:00"
     }
   ]
 }
