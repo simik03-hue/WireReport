@@ -1,17 +1,55 @@
 {
-  "generated_at": "2026-08-01T20:02:35.570295+00:00",
+  "generated_at": "2026-08-01T23:43:20.072550+00:00",
   "lead": {
-    "text": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-    "url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-01T19:54:48+00:00",
+    "text": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+    "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-01T23:19:46+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Burgum weighs in on alleged Reflecting Pool vandalism case after DOJ dismissal",
+      "url": "https://thehill.com/homenews/administration/6004017-burgum-insists-reflecting-pool-vandalism/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-01T23:17:54+00:00"
+    },
+    {
+      "text": "Trump says he will ‘push hard’ for payout fund, keep Blanche as acting AG - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONy11VlFtSGZ5NUJVLUJxVHhzeG9taHZfdUR6ekpGQnYxcHIzTnpJc3FjeXRLWnFLZXJWMlM4bHBTdENaVlFHejhFMzZ1ci1hMjhZdWZIRHVBSHhHZWxybGNaeVM4QjhSNjdzUDFwdkVrZDc1aU50eW9xOXp3M3QybjV4N1FBYTZ5UmdLTmlHRGJNYjZfR25DZFpmcTJqN0lpNEVXa01jcXpya0x4Yk04RlYwZENIdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-01T23:16:15+00:00"
+    },
+    {
+      "text": "Three dead, 2 injured in shooting in Twin Falls, Idaho - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZko0ZW1mVkptdXF3ZXdEZEkyRzNGOGdYWHhiSzB6Z2lpQUlnTXNwZ3pNVEhOcXpRR3NvTm0yRVBCTXhWSGM4ajZpLUlaVWV5YTBBUFhGU0I1SFlvMTZzZ3NSdHpKZ1ZRM3pDaWZDUjlJUXk4ZE01cTFaYU50emFkQU1VbnE5M2dZRUpLYkVxdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-01T23:07:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "N3on Live Stream: Golf Cart Carrying Star Seemingly Runs Over Woman - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GS096d29hN2FsM1h6cjUtVENLV3VEMkh5eFhFaUNvNTJoWWhfa09OUk1aUnREVHVtMjJlV19zcWJJbV9remp6SDZXTElKQnBJbTZZdTZWTkVhQmdPc2RYXy00OFRTZldrS1JjWGVsNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-01T22:59:49+00:00"
+    },
     {
       "text": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
       "url": "https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html",
@@ -19,28 +57,17 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-01T19:52:51+00:00"
+      "time": "2026-08-01T22:49:51+00:00"
     },
     {
-      "text": "Three killed in Moscow restaurant explosion",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-01T19:34:09+00:00"
+      "text": "Fighters react to Uros Medic's 30-second TKO of Daniel Rodriguez at UFC Belgrade - MMA Junkie",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUG1FeS1RMlJuT2p0Yk5pVlJDMGE2MlZLRmZjTEYxMFpKc2s0UnF5dXE5LUN0QXZIcXc3M1NKMzJBNkVURjB4UFVjOTNhWDJPd1ZJOFVILVlzS1l2a0NWc0FjdV95QlhUSTRtMW5aNkZEd2RUUVB3MnBqZ0o1TnlhS19FaXEtWU1GSDJJMHN1WWJwVlBHVF9lM01ZZGp3ME80MlV0eTF5dkdQaGlyUTNIay1abmR0Z2dfbG9Db2owT2RQWkZseDBuRDBuQ1ZaeFo5bHFkWExpY2puOHBPdzF3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-01T21:28:00+00:00"
     },
-    {
-      "text": "CNN's Jennings defends Olympian after DOJ tosses Reflecting Pool case: 'He ought to sue'",
-      "url": "https://thehill.com/homenews/administration/6003886-jennings-says-hearn-should-sue/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-01T19:33:04+00:00"
-    }
-  ],
-  "col1": [
     {
       "text": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
       "url": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
@@ -48,137 +75,110 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-01T19:16:49+00:00"
+      "time": "2026-08-01T21:15:36+00:00"
     },
     {
-      "text": "Trump dings longtime ally Jeanine Pirro for dropping Reflecting Pool vandalism case - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2FfUVZIQlQ1TFl1TXI0bm54am5RY21yTTZvc0pSMGFPWjBxWXBUOGVPQ29oMmVxNVJyVWxSdGZPNFltZUxmTWEzMFU4UVBzTS1pTlo4REFtMkxoaENpM1ZzMmtWSGxPN3ZlX3RPMFN0bEc2RkQ5NVNzMnBsZGVQSUJFZEhxZU12V3dtT3Jn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T18:53:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-01T20:14:09+00:00"
     },
     {
-      "text": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUExMOVJvcHFVdU1haTFjWHdYeV80d0w5elNoWkhDWDlZdVY4OURQWUhKUnNqUzJDLWVXLXk1QmY3RTB5dUJEZGxIMmhiZ3VGV1VyZkwzbXYtQ1czRVFoNHo1TmlBVlF0TXFYMk55aE1BbFZ0c09NWG5NZFdWTmVBTXRyWUhIRjdHZVlDMTd4ZW96YWlmcUdFeFRxVG5xMFhrVS1oeXlQbDlxN0N5SlHSAbMBQVVfeXFMTmxuZndHb0QtaE5MVjk5VU9QdEwxalpiUWNkMkwwbERMZm1vOWJZdl9vUVY0RjJ3Uk1qYy1HREpYVmgtYk15RW9UMVlGZnBVRlhBYmp3M01PRzJFak1nUWhrY2pRN3RVUm1kRnRRT3BXMl8zOGllZTZ4NHllUnkzTm5uaWdBeWpOeFNaZzFvaDZianRyb3ZRdU1CMjBoR3BOSFNiMGUxN1dGNTNmUHZoVzlOWDg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T18:00:00+00:00"
-    },
-    {
-      "text": "Troy Jackson launches his first general election ad in Maine Senate race, criticizing Susan Collins - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenp6cWFLNTFFOXozd0VXR1g5S21HSWRoWFRxejVyVG1SZWlkNjMxQ1hPcDA0VWZTa0RCNnZQVGx0Z05JazVXT3VzdWk0MzdTcElPVTVnNTNzWUZKSkhOOTRGMk5aYW5SaWd4NDk4QXZBZzNPQWQwamdsOWVDcEcycXNfS2VBeU1LbDdacWJ6alQ5b0JReFI1Um1HNFVBTVhZWHZRcWxUUWEyQW1QSXhOSU5teGFZektSSGswbWYwMmxlbTd5?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T17:17:30+00:00"
-    },
-    {
-      "text": "Europe’s wildfire crisis eases in west as danger shifts east to Greece - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkZBc2EyUTBGNGVvb05KazlBQVpWNWNrcFktRGdNN0F3SkpfdlRVTzhLLV9EM1hWQkdqaS1Wd2Jsc0wzWWkwbV9jcVppcTZ0WHIzQlBpcmVqZV93QTVhaHlHMUh1NjA0clR6VVBjTlhLdTdBZ0hOWEtTcUV4NHZ5aG9fTjk1eEpwamc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T16:42:00+00:00"
-    },
-    {
-      "text": "Discarded SpaceX rocket is on high-speed collision course with the moon - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHQxTFpRRkxPdDdDbjhlX2s2ZDZDSlFzeVFQZElzU1BHNS1uUHpycW9FM0FHdnVsc2dvYmFDcFNrN3RKR1N5eDZoREE2VU5odUZ0dG5vOUt5czgySGhBS1pLdmxfRUQzbld3Yy1faWg5WjhoQlZwTS1VMHdMb3BKd0ZqdkUzUW44cDMzU0ZvaG9jTGZqcHfSAZsBQVVfeXFMTktNRHI3bnVWV2g2M2pxVC1BTHZPN1Z6V2F3NWdxX0ZLQmNUdGdqdFgzX3ZwNGhaXzhsbmFkaFpLTWR6RXhnNFExSENjbkNhYWpGZ3lPSDZXa1dpWkdKc1Z0cXZBNmh5ZVc2VEE4c0VqUmdFTlBNSU91MDR5blBHSzdud3g2bTRKU1ZrLWRBa2JJMHMzcEZfR1dPc1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T16:05:14+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-01T19:54:48+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Shemar Moore's Home Visited By Woman Who Was Allegedly Catfished - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IVXZyNkFuaDQwYTRiVEcxWTByb1hGVWFEaTAwZHRYcUNGODFZa3JPQmM4MHNoaksxV21rV1p3NTk1TklGU3puRHExUm9faHhqY3ZLYVg3UVZMWEhYdFNnME5MNmZyaWJlbHdQUHY0VXVhV3FyTkhUVU96REpwZw?oc=5",
+      "text": "Mitch McConnell, Still Hospitalized, Misses Signature Kentucky Political Picnic",
+      "url": "https://www.nytimes.com/2026/08/01/us/mitch-mcconnell-kentucky-republicans.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-01T22:59:45+00:00"
+    },
+    {
+      "text": "3 people killed, at least 21 wounded in Moscow restaurant bombing, Russian officials say - Politico",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUVZGYVF3UGxKVi1iRUtiZmhwaUo2eldxY3FGZlRmNVlQdHBpdTZmZks2UDJXV2NST2VqRVAtdHRMQjRwakNMMng2ZG5UVzlGYXdsRkVrQ0F4eUpjTzRNQUVyUGFHZ18zb2xtRzVuLV9VbUJzWXpYaGFNLXVOUzVTcDcxX3ZhUjRKMFEzaENnZFdQU0xkQUU2aTQwM2hPaS11ZHRLUms0WDhlbjBuMkZ1dnpzOTBBMEJ3TjNqSDN6UXRKU29IcnlMdXZxVDZTSjZ5SlE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T19:15:03+00:00"
+      "time": "2026-08-01T22:11:00+00:00"
     },
     {
-      "text": "In Trump Gaza deal, Hamas disarms, Israel withdraws. Neither wants to go first. - The Washington Post",
+      "text": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+      "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-01T21:23:42+00:00"
+    },
+    {
+      "text": "US urges its citizens in Middle East to be ready to leave in case of escalation in region - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90NlpYdG53SS1QYWJ0VVdDejlVam9NOTlTbEhTSnFGZkNKaGpiQjcxUVNXREZ3cVZ2eDdqM3ZWV21nQ3AwMmNCbjhsZ21YYmZKcUxMZzZYaG1PQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-01T21:05:54+00:00"
+    },
+    {
+      "text": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-01T20:14:08+00:00"
+    },
+    {
+      "text": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-01T19:37:49+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Vincent Pastore, best known for his role in \"The Sopranos,\" dies at 80 - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HRHFYOFkybldWQ05nMGRPbXBGN0JqLTBqZWxONVo5cHBFcDFUbGh3LWpfaURuR2s1VTVqNWVJSF9PR3lfYk9mcmVRbUExWkdXVmsyQTNtV3BUVXpNY3ZDdHNRXzhFd3YweFFESE81dDRQNF9QZjF6Yg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-01T22:57:26+00:00"
+    },
+    {
+      "text": "Pixel 11 specs and price leak with no surprises - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53cHhhVHJjZ1FtSWM2dGhzZDhMUnU4WmdqOE5WZFVVT1JXeFpRVHlRTldienR6RWgzWl9GTlV2akNmaGJoUTd5ckRHSV9ocTJJUjZNcE5wRFRMTUFyeHpTV1ZtZFdfbEZaOElEV3lab0NoUzdI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-01T21:31:24+00:00"
+    },
+    {
+      "text": "In Trump Gaza deal, Hamas disarms, Israel withdraws. Neither wants to go first. - washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2tiWk1QM2V2TW5jR2N6UkZOdktDclY3WkR2aHowRDhKaEJ3T2NDbWQxdUVlNmhINVJQT0xKNFJyMjdnbHFHcGNJODlRbzRaTkhtQXFlOFZUZTNRNWFYNnZRZVNLWnA4QmUyalppRjhWeGVScEMteTlvYkc5a0xsTTl5NHZPNU1rdXJtUnRtN0ctZWVKeUNkRmpUSkZUM0h2SEJCRVpBdGNEYjN4UDV1elNXM05qNGotZHc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T18:49:17+00:00"
-    },
-    {
-      "text": "Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0xoeDV0cU1GNDlvUjNYcHpmWldoUjBGWjJrRnZkUGxnNExyOGJtNUw4Z19YdkE2SDFnSHlWYVZqMFVGVEl1TXVzT2dwdnFoNk56NFI4dl9kNmZWbW9XcUdaVFNoOGtMRngxNVRhdGdBOS1CV1h0X2thSllObS0xWGhUTnlFOTBJZFlPaU04OXJTM09YaU4zak1keFdfVWFuTjQ4UDdWVHAtVkZu?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T17:49:00+00:00"
-    },
-    {
-      "text": "49ers WR Ricky Pearsall to have season-ending knee surgery - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOS1rdklUZXZ0Z0RTU2tJZGtpTEdrRkVmaHkzX1hDeGE4ZlktTVdkSDBBY3BjeXhqZDNCUjAwN1B2TDNfVVNOTnhnUzliYlpkNXVkX1lYZXZwS2lrWFRVcWRER0dyTXdHZ3lGYmhBd1hwTENYYjZuNzVTZW9Rc0g1TXYwUG1OUmZxM0txUHA5MjdielE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T17:14:00+00:00"
-    },
-    {
-      "text": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
-      "url": "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-01T16:32:22+00:00"
-    },
-    {
-      "text": "Democrats see a chance to flip a US House seat as abuse claims mount against Ohio Rep. Max Miller - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEEyRml2OU5Uem9hQ2tpRGMwQVROX2o3dGQyeTFQTFJJNUQ4UTN3NnlpSm5TeFpsdlB3aDZNei1YNUp2ekNWODJxcTFmR3VUNFpCdXFYZ0JmWk4wNU9LbW1vQ0dtVDV5dXZHTWpINk00Vm9SLUJIVmlMWkt0UTJLQ1Z3SVp6TzVCNlZIUUdXUGQ4cURxaEpMNmRwa0VLLUhCVFk5OFRMaW1Nb0t3WXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T16:01:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan - AP News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T19:07:00+00:00"
-    },
-    {
-      "text": "UFC Belgrade results: Medic vs. Rodriguez - MMA Fighting",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0NGcTNZTGk5cHR1aXZhS0NHMC1GMEY4d1dZSnhUY2o2YlUzNTRFWGtzeEhmdlhUZ0JjOWpCTkhIZG9veHNtNXlGLUxRY1NJRGxfU3l1TE5uSFlPakRNUlR4dHdsVnU2d3dYbXZPYklGVmlSN1NDV3o4X3BjVm10LUVfN0w?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T18:03:36+00:00"
-    },
-    {
-      "text": "Trump offering early access to online posts in move seen as corruption - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtjdGg0TXZraHJrMW4xckFMUFd6dFlPeGpJMEY4MUFvaU0zRjFWQmxkSElmS05yZ1RQX0JuTDFwZDVwNGFxdGZuOVNtUHJETENqTEZTS0U4Ny11cGtQUm1JUlVNWm9ZOWwyY1Q3WGV6WjB1QkRmSDI3TEZDR2dJWFA0cEJEQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T17:29:00+00:00"
+      "time": "2026-08-01T21:16:32+00:00"
     },
     {
       "text": "Iran Plotted Wider War With Help of Its Proxies",
@@ -187,25 +187,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-01T16:42:34+00:00"
+      "time": "2026-08-01T20:26:35+00:00"
     },
     {
-      "text": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlRXMTFSYkpLaDdURzA5cnF3V2p3U2hkcVNvejdaMjlhZkszb3NHd3RlTXoxSlk1cDV3dGdaTE1FX2J6TmtrdlRVS0tWQnJ2d0thY21UdXV3UQ?oc=5",
+      "text": "Trump threatens more strikes on Iran. Tensions from Hormuz to Kuwait and Gaza lead to more warnings - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T16:16:16+00:00"
+      "time": "2026-08-01T20:14:00+00:00"
     },
     {
-      "text": "At least 11 wounded by Colombia car bomb days before presidential election - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWhZTmhVNVJoQ0Q0UWNSYVA5cXpjUWItd0RCakR4dThmRW45OHNtSUZtdjZNMDRyelVqMkEwRWIyZ1hTQlRZdktDNTUzdTdzX0toY1dOLXkwNXBybkpLb1pFNzNzaWNmTVpkN1R5N1ZVUzJ6MkFhS0FvOGtuODlfeXg1QnRlN09JN1otaFR0cVNwaVZpb1c0Y0RvMW9QZnNlWVVvUk1TV1dURXVmQ3NibkVTQmrSAboBQVVfeXFMT1pUV21uRWFMb2IxVlFFWGN1eW5TQ21BUndNOHNBcXExSkdiOG53WHJuMHpoMlA3ZjlHSW94VVgwZkFUYV9rVDRHWWV5OFpNQXBNUjMyLWNSdGpXczJHNlVqMk8ybEktTnJLZFl3WV9PMnBZbDQ3TlBqSDhYRXZ0bEJfNmFZcWRtZTVTai1Tc1NweC1uMzJjazVSRkFkV3R6ZXBXLXY5S2xPN3NJT080UTRYQnU4aXM5aldn?oc=5",
+      "text": "FBI investigates as Michigan joins Minnesota in reporting cyberattacks on its water systems - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejV5NEdoc3dyRHhtTTZXUVlOQXI0a0JIMjhOOWtGZ2xvNzlPS2h6WnJ0d25LejIwNDB4TzFYZWRFNk1CaUVQVXp1ZTdpXzNieFFRVUFYUHNfa2tKRGwzRWwwbElHa0dDcmc4Xzl1Y2hfN1JjYkpoVEhsZ2dEbkQweWk0RUxueW5JcW1ybGY0RUZUUFhGRzNadXJ5WQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-01T15:58:47+00:00"
+      "time": "2026-08-01T19:30:00+00:00"
     }
   ]
 }
