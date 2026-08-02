@@ -1,175 +1,25 @@
 {
-  "generated_at": "2026-08-02T11:46:18.520075+00:00",
+  "generated_at": "2026-08-02T15:47:27.836008+00:00",
   "lead": {
-    "text": "Japan to announce that Tokyo and Washington took joint action to support the yen, Reuters reports",
-    "url": "https://www.cnbc.com/2026/08/02/japan-to-announce-tokyo-washington-took-joint-action-on-yen-reuters.html",
-    "source": "CNBC",
+    "text": "John Kennedy: Would not give Trump 'a blank check' on anti-weaponization fund legislation",
+    "url": "https://thehill.com/homenews/senate/6004304-trump-anti-weaponization-fund-clash/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-02T11:21:33+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-02T15:45:23+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Self-Help Influencer Nicole LePera Faces Litigation",
-      "url": "https://www.nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T11:16:19+00:00"
-    },
-    {
-      "text": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2VtOEVjWF9TREttVVRmd2Ftc2VtUmV1dXF1QzM0TURGdDk3VUlQZzJIeDhXS1NrazVBQXFNZFNQcVpTUVdUSmFaYXRNeHFmZEtCUXVScmJMUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T11:12:00+00:00"
-    },
-    {
-      "text": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
-      "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T11:05:56+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Christopher Nolan Stared Into Elon Musk’s Soul",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T11:02:19+00:00"
-    },
-    {
-      "text": "Family to sue after woman released from ICE custody froze to death - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ3BhY2VkX1RoN1ZUenM0VGR4SzU4U2lwQTdRZTJYZ0VIN3ByNElPUHRyU29waVJPa0FYbnhwb296S0ZMZVcyNHJWak44clFhaWFzZ3E5anB5a3NYSkh2YzYxRFlGQ2hpRXhmRUIyQTVDdTNLSndBOFFGVmJqcThFR1dobVlJSEVveVdlRDQyaGE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T10:01:00+00:00"
-    },
-    {
-      "text": "Trump, Paul Weiss and the Capitulation of Big Law: 5 Takeaways",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T09:01:05+00:00"
-    },
-    {
-      "text": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T08:49:09+00:00"
-    },
-    {
-      "text": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T07:30:02+00:00"
-    },
-    {
-      "text": "Democratic Maine Senate candidate fathered 2 sons with his second cousin: reports - KOMO",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaF9WTWtTQmoxNDczaUkzQ2tkOGk3V0RBOXluX3VXOWh5TjBjcEFQbUlyVXQ5b0RRaFhxalBtUGJSX0JoRFU1Y0VQd1J4b3M3VTdYOUMtTFJJamJuc1F3UkpwaTgtdm9qMnlwYmRNa01ETXpOOGF4LTdraTl4UFExd19yWFpWelBXeDlVMmY3NTdxczBZRGRmY2F0bmxVOE1Mcl9PZTk3UFUtX1NFeWRGaTYtR01HZTRHZTdzOHhQMERjR1B6SnFuSW9mcWxTX3lUaXFqMGZTRnZkMmJQMWd4cmR3cDBXTlNWZmRPSmM2NzVweXRORVVIUGpDTmYzbF9JSXBuaEpnTDBfdXNvTkMxVm9XUXM3RFZRRElnTGQtUE5tOWczWXp5MmYteG04LUl2SVgxeURWUXBZbVI0N0xteFV4ZmZ0c2RsSVcwanpvbUZaQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T05:01:12+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Iran’s demands leave Trump with few good options - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFdndlA4MVhFZGRUdmlUSWlrMi1ycEhyeThiU24xWVI5bVpoV2NaNlpxYnRuM2ozTXJLNmszVEpYLUViUXVPWG1wbGNmZG84S3FwWk5kMVRvTTd5Qk5qMnF6cW9pekpnYTNHUlJoYi1QVm8weGZhVVFfTFhJbVlzcm9CcEVrX19nMmIwTEdCOTdtV1l0dFpV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T11:00:00+00:00"
-    },
-    {
-      "text": "Can Democratic Socialists Agree on Anything? They Say That’s Not the Point.",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T09:01:54+00:00"
-    },
-    {
-      "text": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T09:00:28+00:00"
-    },
-    {
-      "text": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says - NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajVKZFYxbHpYXzZJVXRxZ2IxRW9lWFF6cm1LUEZiTEJXT0ZpaElKallTUDQtYzJMSDdHU1FxS0FIVm92SXl1MktVVXMzd01RcDlhdUxIVDNCLWdHYXZFTnlYbGwyNFJhS2o0S29IUExSUmxiaEJnalhvdzRFTHJveFJBUU1NeTNtYnl5OVNFZVk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T08:01:27+00:00"
-    },
-    {
-      "text": "Canada's WestJet airline flight attendants go on strike - can I get a refund? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkVmVrenFIbjdQMUw0eTliWlRYRnVNY1FjS284RTliY0R1THBZdzdndEZtX1V6cUdiNTdHczNKaHRsZDY4aUpTbFdWeTNNLWhQMEZLVjk3WG5XZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T06:38:20+00:00"
-    },
-    {
-      "text": "Horoscope for Sunday, August 02, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPamZTd21BV1dvTHZPblFuZ05QaXo0OVRPdHVfQ3M0Yzc5YmJvMXJGcmJ5el9ncDJ4ckJrajVtTEpMWDFxd250cUVwa3BXRXRCLS14ZHE1MkpqWjdNNUdXRlFqNjlDODBuYUZFektma3BPbk91WHBDeEhIek8tdHhsYUlNNVBlT1lKcDMzdzdiM1dTc0U?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T05:01:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T10:30:34+00:00"
-    },
-    {
-      "text": "Five Big Moments in Michigan’s Democratic Senate Primary",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T09:01:40+00:00"
+      "text": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
+      "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-02T15:43:33+00:00"
     },
     {
       "text": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
@@ -178,34 +28,184 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T09:00:06+00:00"
+      "time": "2026-08-02T15:22:14+00:00"
     },
     {
-      "text": "Ray J Says He Will Keep Boxing After Knockout, Hospital Stay - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2xLU1Y5ZzROQUNabHI2ZWtQUXRraExCYnBmbEpwUXZ4T2NCX1dGRzNHS1RWVUxhMzNBd0luaXhqR1ZtdmlQcEJ0cnltdExGUE9PYnQwV1V4OFBxeDVwanBxbjI5Ni1ySDNMLThiMDF1T3pza2dYYi1pUVVWekQzRzIyelVFaXNo?oc=5",
+      "text": "Helicopters fighting Greece wildfires collide in mid-air",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-02T15:21:56+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T08:00:20+00:00"
+      "time": "2026-08-02T15:11:00+00:00"
     },
     {
-      "text": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ19adVVFZ2hWV2R1X3djN25IMGczbkFPbXRweTlqamRJYmRPaWpIazlFYUIwNE1zZmZBVXFDbXBjRkZnWnk1d2Rhb3RwSC1XUFBudWNJdnZTdG1MY3ZOV21sdHhVQno5ZllJQ3dnR19UZ20zNTJVeFJPb2JYRms2RkxqOGVqcnVzcUpIemlUNllMT25BakRSNGJ0Z1M2SVh4Vmg3YXpn0gGrAUFVX3lxTE96V2pjZk5iM3lyOTcxV2l3TXlreTNvd2xLYm5BdDZSM0ZWWnJGek9iS2t0RlhMZlBLc2FFVzZBNjZPbktUSDkzNWVjejNpbUkxYlFUdUgxLUJrWFFkVjduam5qZDQ0M0VMYU1NMDJ1cTU5NVhoZkFsNk5CWDNrakZMNnFSVC12cTMtU2VWMEl3VDRQSmllTUlyMmpEcGFqdDBUb1duRVBsZDJBSQ?oc=5",
+      "text": "'Spider-Man: Brand New Day' Opens to $355M, 2nd Best Start at U.S. Box Office - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0djZWRJUHFQVUlCWnpzRUNKR0xSMEFCNWVEQ3otQVN1Y3pXZUR2R09fckFtU0ZFZHNkVlNVLXRuNjB0NU1pRDdxXy1XaDl6MmVhZUhhZTlMY2NSU1JMTm54amU3WlFsUGV5N1hleWF4R1NrTUJPclVzYmxNeG5iRXdR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T06:28:16+00:00"
+      "time": "2026-08-02T14:55:00+00:00"
     },
     {
-      "text": "Eating less protein could slow aging, major review finds - ScienceDaily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuNDlGUVFuUEhxTzdTdjNMY2tCOXZOWGVJRk1kQWx5ZmpKYXNGUG9TQS1aOFRqNHVPSE1YcWVQa1lzemdnU25LSmpjclR1M0hyWC1hUXBxbmluVkphSVBnX1BRMHl6SWd4VU9fdTl0Zw?oc=5",
+      "text": "GOP Rep Max Miller pushes back against abuse allegations: ‘I have nothing to hide’ - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHQxdFhIN00tcGpXbDBXb2c3dGNkS3Qwc2VjNXpKcEhiSGJoU290a25NQWhSRDJvVWZScVlDNDdrYjVVWU1qajY1RUNPQVVsSW4xWW1zdFp1Z3FUdWdwZ2tlaE1pVUg0Z0tJSDVkYTVuNVVpMmhNWUJRYUl1SXAwWUJnRENEU3dLTkp2S0l3YnZOeTdob0VRRDgzZjZOeS1sX19ramkzVVVNNmfSAbABQVVfeXFMTnNEVEI4UzRNM3dEbUZIdU56dkNPTXlNZGFYSzBlOVRHV2dYVm41ZndWaFBMSnAzRWNJNTZzN0p6VG1MZjM5ajR6M0pSaVg0SmNWVkNnaHFFdFZVUXUzQ3R5TWY1NG5iQ3dQdTc5dk5OMkNzNWpRTU4tcVVVTE9PSTBHRExqN0c3R2p0Z2RwTG16aGxOelVpRzZnMlFkZ3EwZDdnVUtXR1poVXRjU2JmOWs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T04:53:49+00:00"
+      "time": "2026-08-02T14:24:02+00:00"
+    },
+    {
+      "text": "Live updates: US-Iran war news; Trump calls off strikes subject to deal being ‘rapidly’ reached - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T13:56:00+00:00"
+    },
+    {
+      "text": "Thousands of people under evacuation order from wildfires in Spokane, Wash. - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakw1Vjk0MC1ydDY4TVFoNVVHdWJZOWRMdkNXRnZVYnVXa1djOFFUMnMtUzFIQ0djMEUwcnkwZ0NOQ3ZJb2twUkdTRDZYZUJsbG81QnpRTTA1eVNhaW9pTmJvNE9TTENtMFlITWtfWlVSYldCZTRjZEs0X1NwbTliX2REeWt6cFZsaEdqRzFMcHRPdFBtQk0tOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T13:35:43+00:00"
+    },
+    {
+      "text": "Self-Help Influencer Nicole LePera Faces Litigation",
+      "url": "https://www.nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T12:16:37+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Can Democratic Socialists Agree on Anything? They Say That’s Not the Point.",
+      "url": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T15:10:00+00:00"
+    },
+    {
+      "text": "Jared Leto and Hollywood’s Open Secrets",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/jared-leto-hollywood-secrets-abuse-metoo.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T14:51:35+00:00"
+    },
+    {
+      "text": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
+      "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T14:03:24+00:00"
+    },
+    {
+      "text": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+      "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T13:50:27+00:00"
+    },
+    {
+      "text": "Christopher Nolan’s Trojan Horse",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T13:20:42+00:00"
+    },
+    {
+      "text": "Raising Cane's to open 7 new restaurants. See locations - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHcxUXc5SDB2SkU3NlVxNWhTcjRWR1BvTFI0UG1ZS3dYZ2NHZm5HOUNKbUZNc01tbmtoZkpQMFQtVHB3eXgyZFotcUZ5MS1uUmo1Tlp4eURnbUN3N25FVFpCMkFtODBhcmtPTVZONFp2R0dkdExmUk45c29DR2xxaGdPT2tvUlBjUXZYdndrODFVSy1rZDZJYnJHSDBYRkJuSnhnbmxRQ2NjRXZjZV96YlFqM3MxQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T12:11:11+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T14:59:22+00:00"
+    },
+    {
+      "text": "Kelsey Plum heads to Phoenix Mercury in blockbuster deal hours before WNBA trade deadline - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEdpaDQzbXJyZFM0NXI0R2VNWkVXa0hsUHlwMDM5aFRWUFVXMHJ0ckhtVTdWLVZLN0NUVTg1QjFlSW0xQkFuLXNmX0pfV01SSnE5Z0Y5VnpNM3NySVJyd19NZUpCanFfbU44czlaWk05cHVmZl9sR20xd3d0YnpzaWp6Y3hYY2p6VU5teW9UMjdTMXAzTWh1eDh2UnFHZTZaMDRSenotRW1JVzU5M1d2T2NCYW_SAboBQVVfeXFMT1dQSlNSZ1lua2c2d1FpNGNEa2pRZThjd0hoQU0yb2dGWlZKR0Y2UVJsTllFSjh6MGQ4WlJ6dTM1ZlZUMnFTSGROOUswQkllR3hoaTcwbld2TzZmcUVaLWVENWtEbHhXYUd4aXVobk4zRXlycml6cWxmOC1abDhCU1lYbktndEc4MG13c1lMSkFYX2xBcUNnbWt3TXBBNlBDel9sRDhCODFIWVFHS2ZYZ0x3cDF1aHRpSU1R?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T14:27:47+00:00"
+    },
+    {
+      "text": "Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?",
+      "url": "https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T14:03:03+00:00"
+    },
+    {
+      "text": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T13:42:07+00:00"
+    },
+    {
+      "text": "Dodgers land Cy Young ace Tarik Skubal in a blockbuster deadline deal - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFJ4bmh0Ynd3dXh1Y3phUDBOVE8xZkgtUDdJMFRwTEEzMDhleVhIYzZieGpJNXU4VlhVMlI0UUpkeE1JeTREVVdhVmVaTUJvai10ZVBJWTg0OGlJXy1uUnl4eTdKNldJelF2ZE9aN01Sb0lHTkFJY0hyRVRhcjgtNW9rdnlVZTN6MkFnYXc1ajdxakdxMHNBNlpCYm1FcHFCTXdicFpCMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T12:45:00+00:00"
+    },
+    {
+      "text": "What internet posts and public records reveal about a Michigan family’s life years before they were killed - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3lUOXBwR050bzJNZW1wOEc5YmlsSGgxeFMzVHA4ancyODhWeUI1RDdKdktZSHl4c2p4OUV1T2w3VDdzdHJ6WFppZERqTGlodFEzX3RnaWhVQ3UtM2I3aHJacGh1VzFEV0VjZXpudGoxUFRuX3FscUJiX1ZxWlRzOVVCYVpRUi1TUkwxbHFSMHdlZlNadTh2eDVwZnJiMDVmRHdLVmFTcE02SWt3YmxxcmdwbS1tLWZsaGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T12:03:00+00:00"
     }
   ]
 }
