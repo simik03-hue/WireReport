@@ -1,55 +1,17 @@
 {
-  "generated_at": "2026-08-02T20:14:48.158100+00:00",
+  "generated_at": "2026-08-02T23:44:26.324560+00:00",
   "lead": {
-    "text": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
-    "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-02T20:12:41+00:00",
+    "text": "What We Know About the Shooting at an In-N-Out Burger in Idaho",
+    "url": "https://www.nytimes.com/2026/08/02/us/in-n-out-shooting-idaho-victims-suspect.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-02T23:41:22+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
-    {
-      "text": "Sanders argues El-Sayed can appeal to working-class Republicans in Michigan",
-      "url": "https://thehill.com/homenews/campaign/6004527-michigan-senate-primary-el-sayed-stevens-sanders/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-02T20:01:53+00:00"
-    },
-    {
-      "text": "RFK Jr. says Trump 'certainly' wants him to investigate any link between autism and vaccines",
-      "url": "https://thehill.com/policy/healthcare/6004477-rfk-jr-autism-vaccine-investigation/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-02T19:48:18+00:00"
-    },
-    {
-      "text": "U.S. Rep. Marcy Kaptur hospitalized after car crash, sources say - Toledo Blade",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3Vqcnl0ZnkyT1dSYVhabGtGUTFheHBUVlUtWU5ieXY3dUJ1SnkxRV85MGxTalNKR0ZURXR1UjdrVmhxeERTSVpSWEM5OWpjemVYcVVSNm5EYjNjUWllMXprWFpwZkFfcS1oRXk5THJpZ0NKMDFZTFFJUGI4LU0zZ2Jhd0Z3d2hTR0VFSEVuYmVUWWZuamhGMWNlRE9NUkpfY0NWSVFNMzhqVjk4cHVBQ0tvc2NWS1o0bW4wckxhR1NlYktrbU9GUV9uU3ViNHJiX3p2Nw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T19:38:12+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
-      "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T19:33:30+00:00"
-    },
     {
       "text": "Ohio Senator Calls Former Son-in-Law Accused of Abuse Unfit for Office",
       "url": "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html",
@@ -57,43 +19,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T18:54:04+00:00"
+      "time": "2026-08-02T23:36:37+00:00"
     },
     {
-      "text": "AstraZeneca holds talks with Bristol Myers Squibb on pharma megadeal - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5",
+      "text": "Oil drops over 4% after Trump calls off planned strike on Iran",
+      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-02T23:33:07+00:00"
+    },
+    {
+      "text": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
+      "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T23:32:38+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
+      "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T23:30:13+00:00"
+    },
+    {
+      "text": "Live updates: Fresh uncertainty surrounds Iran war talks after Trump calls off strikes - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T18:30:03+00:00"
+      "time": "2026-08-02T22:47:00+00:00"
     },
     {
-      "text": "Multiple people dead after shooting at In-N-Out in Idaho - KCRA",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zVlI1a0NscHBfc09iM1NJTzB6TFAwVUdjdjJpV2l6U19YQlUyeXFqcjRKU3NoUERkZ0hobVMyaE5Lb29RN3Baemp3a3lTYkFpSGVuMlhpUGMwY1VCYkQyVEN0XzZWdjI2amJFbEVB?oc=5",
+      "text": "‘Comradely’ Talks and a ‘Deer Leader’ Mascot: Scenes From the D.S.A. Summit",
+      "url": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T22:30:06+00:00"
+    },
+    {
+      "text": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDZXcXlCclB1VmpxU0VWUl9uTmtBZDNLWjNCUm5GXzAzOHoxY2k4eUVtRWtfZ3BKMzVTRHpwclBzZ0JFbHNfZm10MVA1bUttWmVYVnNOb3NHNGU0VGJJQW9lMW9kTGxXUXdKblVYVUJpRU5nb3VTNkM4SDZ1RnpObFdtQ1RMeVA5cThHOXIyNjF1S0JsYWZUeTBRSVRGNzlTV2E1amVNQzlMMms?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T18:11:00+00:00"
+      "time": "2026-08-02T21:11:00+00:00"
     },
     {
-      "text": "WestJet strike cancels more than 300 flights across Canada - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkVmVrenFIbjdQMUw0eTliWlRYRnVNY1FjS284RTliY0R1THBZdzdndEZtX1V6cUdiNTdHczNKaHRsZDY4aUpTbFdWeTNNLWhQMEZLVjk3WG5XZw?oc=5",
+      "text": "2026 MLB trade deadline rumors, news, live updates: Dodgers acquire ace Tarik Skubal from Tigers; Mets deal Freddy Peralta to Rays - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ1REblktVTJoUGd5NExCMVgzNng4SVU3MlR3NTdZZVlOX1ZobXBxUWRFdzVGcl9pZmNVQVprSWtFczM3RzlPYi1LOUxzcXlzVG4yVlZfOUdLS3BLRkZnb2pXQUc0WEQ1aXVOaDFtRkF0c2JvaXNVWWdVcUlhQW5TcXNfVnlSaXJIZFRuNTA2ZlVTdHgzMUQ5YmpPLXJKcEM5RUtEY09iRlRpWHdPbFpDODE4ODc0ZGEzQWl1QWV1dTRIeExFajZ3ZmhaeGp1V2dOS1B4bG9DVkk0ODVyejdKY2tvQ09nWTFuai1rLVE3cXh4azhyT050bXBxVTVFOHFBY1k5TURB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T16:39:57+00:00"
+      "time": "2026-08-02T20:30:32+00:00"
     },
     {
-      "text": "2026 WNBA trade deadline grades: Report cards for every deal - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNenNFMnktTzVLMkl5SnFyLUxLbUpXZk9YZ0FtQ0NxVDRsSDQwbGJkQzE5Z25zejNtUXpjaERpbUNYUHJwWks5MS01T09hdXpHbjZtMDNkWDA5eU96TjY5YTFQU3VWLTVOSDVScmpuRGJ0R1FDMUxkMlJiMVJsMDgwdG14THFDSFpmREJQNnNYcnF4N01KaWFMYnhneFJwNVItYzZaRzZ1LVFBc084bllNSUUzSUJtSHlIU3JuMl9BQQ?oc=5",
+      "text": "Senate finalizes funding patch that would block Trump’s grant overhaul - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUEhDZnBsakhWbWJRZnhqZXVEQmg1aHNiMlpLTDkzSlljVEZaU1hzcG1jVTNwMC0zWFlWSHdfZ2U5akx1SjkxRWRXT0dfWWRINVlUY3VqXzkxcGVINFdUcVRVc3pkN25UNUVFTkhBTzFOYXJFclpYUVFCNEdXMUl3WTlfWlpRcWVIOURrdEc2WkI0UkpOSzdRaXFEUmZFcFBJT2JXdFRGSHlrSzIybXdWb3dRTnVPWnhRVEdr?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T16:30:00+00:00"
+      "time": "2026-08-02T20:00:00+00:00"
     }
   ],
   "col2": [
@@ -104,108 +104,108 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T19:19:38+00:00"
+      "time": "2026-08-02T23:28:31+00:00"
     },
     {
-      "text": "Live updates: US-Iran war news; Trump calls off strikes subject to deal being ‘rapidly’ reached - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRm9ldjJOd2ZubDZtNFZ2YTdlLVJ4QWxpTEwtek1weGtPdW02blI1Mlpsa0hLUFRpeGRKaTN6bmlacldaSzVodG5ieVRpMC15RG9SWXNROHZ5eTBBb3llUnV5aVhEOXBEMHd3YnJB?oc=5",
+      "text": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T18:39:00+00:00"
+      "time": "2026-08-02T22:43:43+00:00"
     },
     {
-      "text": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
+      "text": "U.S. Rep. Marcy Kaptur ‘active, alert’ after crash; person involved at large - Toledo Blade",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3Vqcnl0ZnkyT1dSYVhabGtGUTFheHBUVlUtWU5ieXY3dUJ1SnkxRV85MGxTalNKR0ZURXR1UjdrVmhxeERTSVpSWEM5OWpjemVYcVVSNm5EYjNjUWllMXprWFpwZkFfcS1oRXk5THJpZ0NKMDFZTFFJUGI4LU0zZ2Jhd0Z3d2hTR0VFSEVuYmVUWWZuamhGMWNlRE9NUkpfY0NWSVFNMzhqVjk4cHVBQ0tvc2NWS1o0bW4wckxhR1NlYktrbU9GUV9uU3ViNHJiX3p2Nw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T18:28:00+00:00"
+      "time": "2026-08-02T22:28:50+00:00"
     },
     {
-      "text": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece - bbc.com",
+      "text": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T21:06:00+00:00"
+    },
+    {
+      "text": "Israel says it has serious concerns with Hamas disarmament deal - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUU5CY216dkdHTXZGZUZYUmt6WXRhZWlSMTVmc2xydFZwb3ZCQ2Vfbk0wRzI1aWxNRHpkUTgyUks3aHNGZ2dkS2RvSWhGbXFoNERoZGs0a1FOSVUwUi1YTVlLVXBTek5YRzcxb0FMQlIxdjRQeFIyNlA5Szh1MFhnVHhUZ1RFUk1Gdi1yUFRUcS1HSmhzLTFESGh3N1BRVG9EVTBqLWFJdUxwTXN0UUlpN2R0QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T20:15:00+00:00"
+    },
+    {
+      "text": "Ariana Grande Exits West End’s ‘Sunday in the Park with George’ Revival Amid “Ongoing Public Scrutiny” - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3NBeTY0RUxuQzFobGFrY3hCakZMOHZSUXExUzhnMjFJQ3NiSkwySkNSanRLY0lwWDhabmtSbEh2SmlOQXhLNGNtb2hPT1l0Rk54RWk2YzdTWXYzS1VQeVJOa0ZFUDNvOEtzemVvaTJpMElITWJmSUtLbkUwREJnLUw1dXVYX2tKczZTbVF6dnBGVmdIMnJBUkVCMjd3TFlzdlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T19:51:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Flight attendants at Canada's WestJet go on strike in dispute over pay - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHNxY0lBNXJlNHBrRXBkWnJnZTViVnUzRExPX2dDUm41U2tKTzZ6OWNwMzVoSjAzVzVxcExHeWEwX1hScnRWem1ib1JSdDVpaHZqb0wxdUFfcjlXWWF4Nm1nWVZKd0s3bW5iRXFuRFRnWG5US2VnbHJrcThsOFNneTZDOHRtSG1SaEU0M0hMaGVkR1pVSzNSWjVQQ3ZIMmVxMXBF0gGoAUFVX3lxTE1hQ1dHRWppNzhfMEs0SWZpLWM2c1Rmd251RlZfMXNTR2R1ekt2UE8wOXpSUmpDLXVaTXFxSDhQVTZjWTVVRWw0RkZiWlh2S1B6LXJZVGZCcFBXakpQOWt0dl9YV3lyS3ZvOEdMalJHMmszQjBDenRDRVRpbVFoUmJibFI3WXB6TEloZjRhX25keEw5X3YzaFBmQlEyLU10VFp0dWpTV2Z2Rw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T22:48:16+00:00"
+    },
+    {
+      "text": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXJRcHV2OU9RcTRicmZrWm9KeHdEenFPd1l1bHJLdzNBY2JBUEY3OGwxenBmT2x2ZkJuNUhLUnJrOXRHWTVaUXh4UVFWUWRmT05iOWlnZmtCcGtGMDdUZmxXOXFUVFg5ZnlkUFB0NEFVZGt4OXk0bGV6Z2s1cEhSb19vbENOR0R6V0lhSHZTWGVhaU9wTE41a212VFAxTVlfQmRLdjJ3Mmd4WWhhc3R4anhwWlRxRWxPdmVZ0gHAAUFVX3lxTE41amNiX0ItTmlZVXlXTUhrWXRoSzRSN1VmU3FNU2pxQ2JQMUZHM25GZnZQNGtqWm1rTENRcEdtSFZUYVlKYkowLUd2V0lra19QSXJoaHh4YU9icVN4dWZyc29WajRWNXBUaVUwbXByOUNsZTNoUF85ZEZPbC10ZlZTS1p4bGxQXzM0NkRLNTdZZjdzN2NGN0Fhd3NyZjRtaE5mem5mVnlUMk5FcDQ4eW9TNm9Iby1mY0pvOEpDYzZBUw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T22:32:00+00:00"
+    },
+    {
+      "text": "Armed bystander distracted gunman in fatal In-N-Out shooting - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPME9BUWlqcUw2WEF3Z0NIU25zalJfR25Sb3M1azhUQnpOSVo3QXdOY1RURFplcGt1UHBlTzVGUnNlVS14MGlMdzZyV3ZIZlZWc2tRdDJZXzlWekFBcW96TjlIbEJaVmVBb1VUUDdCd244QXNFMlowWWp5S1VtSl9YaGhhZ2dwemhnQUIzME9LMldycTZBR3dRR1Z6QnlHN2c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T22:20:20+00:00"
+    },
+    {
+      "text": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUnFxTXdNTjQwQllpRElDT051a1VwckJtSS12NnBFeEJHVzBNdjdzd0xxQ3pwR1R1aWxQUzYtUzRvZGUycEVmM09FLVpKZEZYejNpVmNjM3N6Zw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T18:04:44+00:00"
+      "time": "2026-08-02T20:36:37+00:00"
     },
     {
-      "text": "GOP senator on Trump’s Reflecting Pool vandalism claims: ‘He grows anxious when he has an unexpressed thought’ - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTZyWUU0NEwwczdOdk9FUE5rSG42eGZ5X2hobnVqYXhTV1o5WjZ2QU0wWEl1MkZESndvdWFna2RFdlQxNTBteUYwdDl2RWtqdUxlSUdCRU5qWm9yVWJpZVJrRXUtN2NRb29nNmU0M3Bydm4tbXBjQ0hUeUlXYzU0OFV30gGHAUFVX3lxTE94YVNEUzdELWNQZ0JkbUtYakZUMGRGd0g1alNKNzQxaUNJTzBXOWZvd3RZSmlmTGh0cFRXUms3SGhDSjY4NlVsZ1hmLXJmVjRnNGVla0lYaTdyZ21GeVByUmJLdHlWdU1vMUxTcldLSmdkU3B3NVdsZF9HSC1BSktuZVVuTklQSQ?oc=5",
+      "text": "Pass rusher Jadeveon Clowney reaches deal to reunite with Texans - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1c5ZlF6VDVVbmZESWxnX0h0NldQaFRaSHpwcWZZZE9sTzVNYnp0N1haUDdCOG9jM3lsdlR2Vk1ESzhheWdsb2FBN29OWjJrNU11a2V5UlBmVGJsUTZQc0RUWTdrNTZTN19mV2tucFVhbzUwdzF3aUZPYmxITE9TQVVSdHA3MVc5MmZVclhBa01JelhmNUNpME04UFlnUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T16:35:00+00:00"
+      "time": "2026-08-02T20:08:00+00:00"
     },
     {
-      "text": "Spitting Attacks Show Rise of Anti-Christian Hate in Israel - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkV4a0dIa3JhLWRqUHp4TkFFYTZVbUxGc1lvUUZQeTN5VllSX21aeWM5d2tnYi0zVU1jbm54bjJhTWszRVZUb2RJT0puUkxzUjQ5Z0dSbkV6WmkzTU5RV2tWRXByZGlfUzlqQkR5UVlaaWJvSWxGdnk3UFFpdlZ0NDNNWm9pNzk5MTNsN1E4MURSNTlvdE1sTWtPZG5iMThhOW95cXZGdjJmUQ?oc=5",
+      "text": "For a Day, Google Made It Easy to Spoof Satellite Imagery - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmU5anFqYUlQeWhKdWZWQ19NTl82Ymk3WGQ2bDJnXzVXQnVKbnZaWjNwUDdiQUs0VWJjSDlrWDVDTGhiMlhVTnZQdFIzaVlYM3BOUHpIblBnbHQ1ZWk5d2xqeUxjX1kzTGptYXBjSG9FWXBoUFpPWTZRcmlPdU5Ib0p5Vkg0bzJmZHZR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T16:24:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Christopher Nolan’s Trojan Horse",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T19:13:16+00:00"
-    },
-    {
-      "text": "Rep. Max Miller denounced by Sen. Bernie Moreno, his former father-in-law - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lUaXduTTNpSU83V1Rua3JPekhYRzFVMWcwQjhudVg0U0FNaE5FSjkzSjFFTkFIVXlHVEVjVm5ibXMtelNEY1U1MWVRQzl2emF3ckowUUp5WkJoWWZYLV94T18tRTZrYnE4RXNUalNiMlNXbFZqdHpQcFh5eVFmR3Y2OHRrTXNzNnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T18:31:00+00:00"
-    },
-    {
-      "text": "2026 MLB trade deadline rumors, news, live updates: Dodgers acquire ace Tarik Skubal from Tigers; Mets deal Freddy Peralta to Rays - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ1REblktVTJoUGd5NExCMVgzNng4SVU3MlR3NTdZZVlOX1ZobXBxUWRFdzVGcl9pZmNVQVprSWtFczM3RzlPYi1LOUxzcXlzVG4yVlZfOUdLS3BLRkZnb2pXQUc0WEQ1aXVOaDFtRkF0c2JvaXNVWWdVcUlhQW5TcXNfVnlSaXJIZFRuNTA2ZlVTdHgzMUQ5YmpPLXJKcEM5RUtEY09iRlRpWHdPbFpDODE4ODc0ZGEzQWl1QWV1dTRIeExFajZ3ZmhaeGp1V2dOS1B4bG9DVkk0ODVyejdKY2tvQ09nWTFuai1rLVE3cXh4azhyT050bXBxVTVFOHFBY1k5TURB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T18:14:18+00:00"
-    },
-    {
-      "text": "Rays To Acquire Freddy Peralta - MLB Trade Rumors",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzb2ViUEdxMlR0M3Z0YTJyYjRMcEZ5T1BoeE5LMW5ERFlJX0NoUzJ6Z25SSVNBSU5jUjJsd2tReVhBZXd5Y0hxTnNMcnZuUmZfVVhWdjY2OVBhZVNPVThwX2Y1QWJYQnBCalNTNEtHQ1NjdzBmRTdPMmNzSWJ0bGs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T17:50:42+00:00"
-    },
-    {
-      "text": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVk11Q045ZmRfR1F4QjZPVHA3WGNfS3dXTDNsalh4UjdJOWdaZzJLSk5fSk1hbk5ETXpwTC14UzFlUXVDd3ZxdzRWNWluTHVVWjBiRnR0Q1BLV1V5c20xYjI4WW04Zzh6eW0wOUl4NDVCU29heGdNVEJrMjlURVVqTnd5M2Zobm5uMktaNTd5YlE5RGp2ZnUwS0VpRHlfNzNmQjBVUGNPYmhJWDlHOTRaTVA0LWR1QnpfU3V0ZW4xaw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T16:30:00+00:00"
-    },
-    {
-      "text": "Xbox prices are increasing by up to €200 or £170 - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NHh4SHVjR1ZVRW9oMHFWckItQjQtMFFyeGNnOFB5d25mV3B5Y2RtdDczYjJSVDFpSHY2ZnhMdTNVOVAzSnI2b0I1WHFuSFRtVHh6eXh2dW1tN09fdmR6Mm5VZFlWdDg5VlpzLUNMWkN1cXI1QTFDQUhB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T16:14:20+00:00"
+      "time": "2026-08-02T19:25:56+00:00"
     }
   ]
 }
