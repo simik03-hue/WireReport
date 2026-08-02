@@ -1,72 +1,110 @@
 {
-  "generated_at": "2026-08-02T15:47:27.836008+00:00",
+  "generated_at": "2026-08-02T20:14:48.158100+00:00",
   "lead": {
-    "text": "John Kennedy: Would not give Trump 'a blank check' on anti-weaponization fund legislation",
-    "url": "https://thehill.com/homenews/senate/6004304-trump-anti-weaponization-fund-clash/",
-    "source": "The Hill",
+    "text": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+    "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-02T15:45:23+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-02T20:12:41+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
-      "url": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
-      "source": "CNBC",
+      "text": "Sanders argues El-Sayed can appeal to working-class Republicans in Michigan",
+      "url": "https://thehill.com/homenews/campaign/6004527-michigan-senate-primary-el-sayed-stevens-sanders/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-02T15:43:33+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-02T20:01:53+00:00"
     },
     {
-      "text": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
-      "url": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "RFK Jr. says Trump 'certainly' wants him to investigate any link between autism and vaccines",
+      "url": "https://thehill.com/policy/healthcare/6004477-rfk-jr-autism-vaccine-investigation/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-02T19:48:18+00:00"
+    },
+    {
+      "text": "U.S. Rep. Marcy Kaptur hospitalized after car crash, sources say - Toledo Blade",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3Vqcnl0ZnkyT1dSYVhabGtGUTFheHBUVlUtWU5ieXY3dUJ1SnkxRV85MGxTalNKR0ZURXR1UjdrVmhxeERTSVpSWEM5OWpjemVYcVVSNm5EYjNjUWllMXprWFpwZkFfcS1oRXk5THJpZ0NKMDFZTFFJUGI4LU0zZ2Jhd0Z3d2hTR0VFSEVuYmVUWWZuamhGMWNlRE9NUkpfY0NWSVFNMzhqVjk4cHVBQ0tvc2NWS1o0bW4wckxhR1NlYktrbU9GUV9uU3ViNHJiX3p2Nw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T15:22:14+00:00"
-    },
-    {
-      "text": "Helicopters fighting Greece wildfires collide in mid-air",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-02T15:21:56+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T19:38:12+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
+      "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T15:11:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T19:33:30+00:00"
     },
     {
-      "text": "'Spider-Man: Brand New Day' Opens to $355M, 2nd Best Start at U.S. Box Office - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0djZWRJUHFQVUlCWnpzRUNKR0xSMEFCNWVEQ3otQVN1Y3pXZUR2R09fckFtU0ZFZHNkVlNVLXRuNjB0NU1pRDdxXy1XaDl6MmVhZUhhZTlMY2NSU1JMTm54amU3WlFsUGV5N1hleWF4R1NrTUJPclVzYmxNeG5iRXdR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Ohio Senator Calls Former Son-in-Law Accused of Abuse Unfit for Office",
+      "url": "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T14:55:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T18:54:04+00:00"
     },
     {
-      "text": "GOP Rep Max Miller pushes back against abuse allegations: ‘I have nothing to hide’ - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHQxdFhIN00tcGpXbDBXb2c3dGNkS3Qwc2VjNXpKcEhiSGJoU290a25NQWhSRDJvVWZScVlDNDdrYjVVWU1qajY1RUNPQVVsSW4xWW1zdFp1Z3FUdWdwZ2tlaE1pVUg0Z0tJSDVkYTVuNVVpMmhNWUJRYUl1SXAwWUJnRENEU3dLTkp2S0l3YnZOeTdob0VRRDgzZjZOeS1sX19ramkzVVVNNmfSAbABQVVfeXFMTnNEVEI4UzRNM3dEbUZIdU56dkNPTXlNZGFYSzBlOVRHV2dYVm41ZndWaFBMSnAzRWNJNTZzN0p6VG1MZjM5ajR6M0pSaVg0SmNWVkNnaHFFdFZVUXUzQ3R5TWY1NG5iQ3dQdTc5dk5OMkNzNWpRTU4tcVVVTE9PSTBHRExqN0c3R2p0Z2RwTG16aGxOelVpRzZnMlFkZ3EwZDdnVUtXR1poVXRjU2JmOWs?oc=5",
+      "text": "AstraZeneca holds talks with Bristol Myers Squibb on pharma megadeal - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1c2VzVRdTFOdkVORXlPXzBrd01pa0F6SjdycHk5U1VGQmoxWUFsXzNMTVVHWUNrdGl0RE1Pcm9JNHJ2d0hhM0pwSjVDc1dDRjA3OTQ3b0wzMDNqQUdOUFhrQXkyaTZiV2VKdTRnYUNVZ0dBSWFuQ0Q2TXBLOC1yVGNYSWQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T14:24:02+00:00"
+      "time": "2026-08-02T18:30:03+00:00"
+    },
+    {
+      "text": "Multiple people dead after shooting at In-N-Out in Idaho - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zVlI1a0NscHBfc09iM1NJTzB6TFAwVUdjdjJpV2l6U19YQlUyeXFqcjRKU3NoUERkZ0hobVMyaE5Lb29RN3Baemp3a3lTYkFpSGVuMlhpUGMwY1VCYkQyVEN0XzZWdjI2amJFbEVB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T18:11:00+00:00"
+    },
+    {
+      "text": "WestJet strike cancels more than 300 flights across Canada - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkVmVrenFIbjdQMUw0eTliWlRYRnVNY1FjS284RTliY0R1THBZdzdndEZtX1V6cUdiNTdHczNKaHRsZDY4aUpTbFdWeTNNLWhQMEZLVjk3WG5XZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T16:39:57+00:00"
+    },
+    {
+      "text": "2026 WNBA trade deadline grades: Report cards for every deal - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNenNFMnktTzVLMkl5SnFyLUxLbUpXZk9YZ0FtQ0NxVDRsSDQwbGJkQzE5Z25zejNtUXpjaERpbUNYUHJwWks5MS01T09hdXpHbjZtMDNkWDA5eU96TjY5YTFQU3VWLTVOSDVScmpuRGJ0R1FDMUxkMlJiMVJsMDgwdG14THFDSFpmREJQNnNYcnF4N01KaWFMYnhneFJwNVItYzZaRzZ1LVFBc084bllNSUUzSUJtSHlIU3JuMl9BQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T16:30:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "The War That Could Swallow the World",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-02T19:19:38+00:00"
     },
     {
       "text": "Live updates: US-Iran war news; Trump calls off strikes subject to deal being ‘rapidly’ reached - CNN",
@@ -75,64 +113,46 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T13:56:00+00:00"
+      "time": "2026-08-02T18:39:00+00:00"
     },
     {
-      "text": "Thousands of people under evacuation order from wildfires in Spokane, Wash. - NPR",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakw1Vjk0MC1ydDY4TVFoNVVHdWJZOWRMdkNXRnZVYnVXa1djOFFUMnMtUzFIQ0djMEUwcnkwZ0NOQ3ZJb2twUkdTRDZYZUJsbG81QnpRTTA1eVNhaW9pTmJvNE9TTENtMFlITWtfWlVSYldCZTRjZEs0X1NwbTliX2REeWt6cFZsaEdqRzFMcHRPdFBtQk0tOA?oc=5",
+      "text": "RFK Jr tells US families to vaccinate children against measles amid outbreak - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMU9OZ2liMWJPUmUwLUlpZUVwVkRRbTBCOEg0ZXBpQ05kZDVsQVdnMTBaby1tM0kyWG1jTjd6N05VT09BREVVT1NGbkZIbkJUb0FoUmxTTFNsT0czNTVfWjlXR0tQOGg4MzFjdVpDWmRyZ00tbmxERFR6VXE5SGM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T13:35:43+00:00"
+      "time": "2026-08-02T18:28:00+00:00"
     },
     {
-      "text": "Self-Help Influencer Nicole LePera Faces Litigation",
-      "url": "https://www.nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUnFxTXdNTjQwQllpRElDT051a1VwckJtSS12NnBFeEJHVzBNdjdzd0xxQ3pwR1R1aWxQUzYtUzRvZGUycEVmM09FLVpKZEZYejNpVmNjM3N6Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T12:16:37+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T18:04:44+00:00"
+    },
+    {
+      "text": "GOP senator on Trump’s Reflecting Pool vandalism claims: ‘He grows anxious when he has an unexpressed thought’ - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTZyWUU0NEwwczdOdk9FUE5rSG42eGZ5X2hobnVqYXhTV1o5WjZ2QU0wWEl1MkZESndvdWFna2RFdlQxNTBteUYwdDl2RWtqdUxlSUdCRU5qWm9yVWJpZVJrRXUtN2NRb29nNmU0M3Bydm4tbXBjQ0hUeUlXYzU0OFV30gGHAUFVX3lxTE94YVNEUzdELWNQZ0JkbUtYakZUMGRGd0g1alNKNzQxaUNJTzBXOWZvd3RZSmlmTGh0cFRXUms3SGhDSjY4NlVsZ1hmLXJmVjRnNGVla0lYaTdyZ21GeVByUmJLdHlWdU1vMUxTcldLSmdkU3B3NVdsZF9HSC1BSktuZVVuTklQSQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T16:35:00+00:00"
+    },
+    {
+      "text": "Spitting Attacks Show Rise of Anti-Christian Hate in Israel - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkV4a0dIa3JhLWRqUHp4TkFFYTZVbUxGc1lvUUZQeTN5VllSX21aeWM5d2tnYi0zVU1jbm54bjJhTWszRVZUb2RJT0puUkxzUjQ5Z0dSbkV6WmkzTU5RV2tWRXByZGlfUzlqQkR5UVlaaWJvSWxGdnk3UFFpdlZ0NDNNWm9pNzk5MTNsN1E4MURSNTlvdE1sTWtPZG5iMThhOW95cXZGdjJmUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-02T16:24:00+00:00"
     }
   ],
-  "col2": [
-    {
-      "text": "Can Democratic Socialists Agree on Anything? They Say That’s Not the Point.",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T15:10:00+00:00"
-    },
-    {
-      "text": "Jared Leto and Hollywood’s Open Secrets",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/jared-leto-hollywood-secrets-abuse-metoo.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T14:51:35+00:00"
-    },
-    {
-      "text": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T14:03:24+00:00"
-    },
-    {
-      "text": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-      "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T13:50:27+00:00"
-    },
+  "col3": [
     {
       "text": "Christopher Nolan’s Trojan Horse",
       "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
@@ -140,72 +160,52 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T13:20:42+00:00"
+      "time": "2026-08-02T19:13:16+00:00"
     },
     {
-      "text": "Raising Cane's to open 7 new restaurants. See locations - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHcxUXc5SDB2SkU3NlVxNWhTcjRWR1BvTFI0UG1ZS3dYZ2NHZm5HOUNKbUZNc01tbmtoZkpQMFQtVHB3eXgyZFotcUZ5MS1uUmo1Tlp4eURnbUN3N25FVFpCMkFtODBhcmtPTVZONFp2R0dkdExmUk45c29DR2xxaGdPT2tvUlBjUXZYdndrODFVSy1rZDZJYnJHSDBYRkJuSnhnbmxRQ2NjRXZjZV96YlFqM3MxQQ?oc=5",
+      "text": "Rep. Max Miller denounced by Sen. Bernie Moreno, his former father-in-law - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lUaXduTTNpSU83V1Rua3JPekhYRzFVMWcwQjhudVg0U0FNaE5FSjkzSjFFTkFIVXlHVEVjVm5ibXMtelNEY1U1MWVRQzl2emF3ckowUUp5WkJoWWZYLV94T18tRTZrYnE4RXNUalNiMlNXbFZqdHpQcFh5eVFmR3Y2OHRrTXNzNnc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T12:11:11+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-08-02T18:31:00+00:00"
+    },
     {
-      "text": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
+      "text": "2026 MLB trade deadline rumors, news, live updates: Dodgers acquire ace Tarik Skubal from Tigers; Mets deal Freddy Peralta to Rays - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ1REblktVTJoUGd5NExCMVgzNng4SVU3MlR3NTdZZVlOX1ZobXBxUWRFdzVGcl9pZmNVQVprSWtFczM3RzlPYi1LOUxzcXlzVG4yVlZfOUdLS3BLRkZnb2pXQUc0WEQ1aXVOaDFtRkF0c2JvaXNVWWdVcUlhQW5TcXNfVnlSaXJIZFRuNTA2ZlVTdHgzMUQ5YmpPLXJKcEM5RUtEY09iRlRpWHdPbFpDODE4ODc0ZGEzQWl1QWV1dTRIeExFajZ3ZmhaeGp1V2dOS1B4bG9DVkk0ODVyejdKY2tvQ09nWTFuai1rLVE3cXh4azhyT050bXBxVTVFOHFBY1k5TURB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T14:59:22+00:00"
+      "time": "2026-08-02T18:14:18+00:00"
     },
     {
-      "text": "Kelsey Plum heads to Phoenix Mercury in blockbuster deal hours before WNBA trade deadline - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEdpaDQzbXJyZFM0NXI0R2VNWkVXa0hsUHlwMDM5aFRWUFVXMHJ0ckhtVTdWLVZLN0NUVTg1QjFlSW0xQkFuLXNmX0pfV01SSnE5Z0Y5VnpNM3NySVJyd19NZUpCanFfbU44czlaWk05cHVmZl9sR20xd3d0YnpzaWp6Y3hYY2p6VU5teW9UMjdTMXAzTWh1eDh2UnFHZTZaMDRSenotRW1JVzU5M1d2T2NCYW_SAboBQVVfeXFMT1dQSlNSZ1lua2c2d1FpNGNEa2pRZThjd0hoQU0yb2dGWlZKR0Y2UVJsTllFSjh6MGQ4WlJ6dTM1ZlZUMnFTSGROOUswQkllR3hoaTcwbld2TzZmcUVaLWVENWtEbHhXYUd4aXVobk4zRXlycml6cWxmOC1abDhCU1lYbktndEc4MG13c1lMSkFYX2xBcUNnbWt3TXBBNlBDel9sRDhCODFIWVFHS2ZYZ0x3cDF1aHRpSU1R?oc=5",
+      "text": "Rays To Acquire Freddy Peralta - MLB Trade Rumors",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzb2ViUEdxMlR0M3Z0YTJyYjRMcEZ5T1BoeE5LMW5ERFlJX0NoUzJ6Z25SSVNBSU5jUjJsd2tReVhBZXd5Y0hxTnNMcnZuUmZfVVhWdjY2OVBhZVNPVThwX2Y1QWJYQnBCalNTNEtHQ1NjdzBmRTdPMmNzSWJ0bGs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T14:27:47+00:00"
+      "time": "2026-08-02T17:50:42+00:00"
     },
     {
-      "text": "Chicago’s Mayoral Race Is Taking Shape. But What About the Incumbent?",
-      "url": "https://www.nytimes.com/2026/08/02/us/chicago-mayors-race.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-02T14:03:03+00:00"
-    },
-    {
-      "text": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
+      "text": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVk11Q045ZmRfR1F4QjZPVHA3WGNfS3dXTDNsalh4UjdJOWdaZzJLSk5fSk1hbk5ETXpwTC14UzFlUXVDd3ZxdzRWNWluTHVVWjBiRnR0Q1BLV1V5c20xYjI4WW04Zzh6eW0wOUl4NDVCU29heGdNVEJrMjlURVVqTnd5M2Zobm5uMktaNTd5YlE5RGp2ZnUwS0VpRHlfNzNmQjBVUGNPYmhJWDlHOTRaTVA0LWR1QnpfU3V0ZW4xaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T13:42:07+00:00"
+      "time": "2026-08-02T16:30:00+00:00"
     },
     {
-      "text": "Dodgers land Cy Young ace Tarik Skubal in a blockbuster deadline deal - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFJ4bmh0Ynd3dXh1Y3phUDBOVE8xZkgtUDdJMFRwTEEzMDhleVhIYzZieGpJNXU4VlhVMlI0UUpkeE1JeTREVVdhVmVaTUJvai10ZVBJWTg0OGlJXy1uUnl4eTdKNldJelF2ZE9aN01Sb0lHTkFJY0hyRVRhcjgtNW9rdnlVZTN6MkFnYXc1ajdxakdxMHNBNlpCYm1FcHFCTXdicFpCMA?oc=5",
+      "text": "Xbox prices are increasing by up to €200 or £170 - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NHh4SHVjR1ZVRW9oMHFWckItQjQtMFFyeGNnOFB5d25mV3B5Y2RtdDczYjJSVDFpSHY2ZnhMdTNVOVAzSnI2b0I1WHFuSFRtVHh6eXh2dW1tN09fdmR6Mm5VZFlWdDg5VlpzLUNMWkN1cXI1QTFDQUhB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T12:45:00+00:00"
-    },
-    {
-      "text": "What internet posts and public records reveal about a Michigan family’s life years before they were killed - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3lUOXBwR050bzJNZW1wOEc5YmlsSGgxeFMzVHA4ancyODhWeUI1RDdKdktZSHl4c2p4OUV1T2w3VDdzdHJ6WFppZERqTGlodFEzX3RnaWhVQ3UtM2I3aHJacGh1VzFEV0VjZXpudGoxUFRuX3FscUJiX1ZxWlRzOVVCYVpRUi1TUkwxbHFSMHdlZlNadTh2eDVwZnJiMDVmRHdLVmFTcE02SWt3YmxxcmdwbS1tLWZsaGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-02T12:03:00+00:00"
+      "time": "2026-08-02T16:14:20+00:00"
     }
   ]
 }
