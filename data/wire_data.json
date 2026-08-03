@@ -1,34 +1,128 @@
 {
-  "generated_at": "2026-08-03T18:59:29.494025+00:00",
+  "generated_at": "2026-08-03T22:37:41.072071+00:00",
   "lead": {
-    "text": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
-    "url": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
-    "source": "CNBC",
+    "text": "Manchin on supporting socialist candidate with 'good ideas': 'Are you crazy?'",
+    "url": "https://thehill.com/homenews/campaign/6006820-manchin-rejects-socialist-candidate/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-03T18:58:10+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-03T22:36:48+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "More tech millionaires are using donor-advised funds for tax savings and giving",
-      "url": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-03T18:56:51+00:00"
-    },
-    {
-      "text": "Republican Holdouts Say They’ll Back Blanche After Assurances on I.R.S. Deal",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html",
+      "text": "Immigrant Has Died at Delaney Detention Center, New Jersey Officials Say",
+      "url": "https://www.nytimes.com/2026/08/03/nyregion/ice-detention-center-death-delaney-hall-nj.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T18:55:33+00:00"
+      "time": "2026-08-03T22:34:40+00:00"
+    },
+    {
+      "text": "As Haitians brace for end of TPS, some Republicans rejoice",
+      "url": "https://thehill.com/policy/international/6006801-haiti-tps-trump-immigration-ice/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-03T22:32:20+00:00"
+    },
+    {
+      "text": "California Democrats Want to Tax Billionaires. They Can’t Agree on How.",
+      "url": "https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-03T22:31:50+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "N.Y. Law Barring ICE Agents From Wearing Masks Is Blocked by Judge",
+      "url": "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-03T22:17:01+00:00"
+    },
+    {
+      "text": "After Colleges Reject ‘Compact,’ Trump Officials Try a Letter",
+      "url": "https://www.nytimes.com/2026/08/03/us/trump-mcmahon-colleges-letter.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-03T21:51:44+00:00"
+    },
+    {
+      "text": "Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-03T21:30:00+00:00"
+    },
+    {
+      "text": "Ethics panel urges censure of Rep. Chuck Edwards over sexual harassment violation - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTdab1pTNmdpMlhCbVRvMG5KMEd0R0tSeXdqTUZCVkZSTjczWDl2aEg2WFAxb1RUZ1lQU3N0MVRPRURiMW50bVluZC1nU0haMUYyemFEVWV2SFdqYzdibjl4Vm1tMHFZcVhSdlk4bHA4Q1ZabmU5aExXWWFTcjZsQTFHNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-03T21:22:30+00:00"
+    },
+    {
+      "text": "Washington state fires destroy hundreds of buildings and force Spokane-area residents to evacuate - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-03T21:09:00+00:00"
+    },
+    {
+      "text": "Trump’s Meddling in Justice Dept. Causes Problems of His Own Making",
+      "url": "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-03T20:56:52+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-03T22:11:32+00:00"
+    },
+    {
+      "text": "Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data",
+      "url": "https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-03T21:45:25+00:00"
+    },
+    {
+      "text": "Education Dept. to Wipe Out Student Loans of 170,000 More Defrauded Borrowers",
+      "url": "https://www.nytimes.com/2026/08/03/business/student-loans-borrower-defense.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-03T21:24:02+00:00"
     },
     {
       "text": "How Democratic Socialists Are Wrestling With Their Next Moves",
@@ -37,36 +131,54 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T18:49:48+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-03T21:14:51+00:00"
+    },
     {
-      "text": "Documents Undercut Trump’s Claims About Bears Ears National Monument",
-      "url": "https://www.nytimes.com/2026/08/03/climate/trump-bears-ears-monument-recreation.html",
+      "text": "House Ethics Panel Finds Rep. Chuck Edwards Likely Violated Sexual Harassment Rules",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/chuck-edwards-harrassment.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T18:43:44+00:00"
+      "time": "2026-08-03T20:58:51+00:00"
     },
     {
-      "text": "Padres To Acquire Robbie Ray - MLB Trade Rumors",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcG40bGd2djBITjYwOWg3TDA4S2wtMGU3dDloY3hBcUNGRVhWdGRMTkNhcEhSOXJaVWNMZWNJVVlCbkt3Q0RUNEt0Nk4yRFJ2cTRxTjlCS3RqNGU3U2pIVzhhQ2tnZ0VUUzMzUkpQWEFZaEdvbVppRkFiNW5JaFU?oc=5",
+      "text": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczNuRWhUUXBDa293TExfUlRGWnZLMnM2NjlDbEFNQ2p0WTVvNjdXNWw3YlZOc2FzY0RxY3ZBSXFPT1BETERybVgzR2FDWlQ5MElqcnNFc2dMUWhlOWlOQWthYWRuUnljZ09DeWpFMkx5MXV4WXA1VXJqR19mVWJRbFhPbkV5bGpBaDVLX2ZPeDk1clk2V3FzdWJCdkFaeGdkcHpFNDc5Y1MwOTFQeWlkeDlwRjNEWTlCb1E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T18:01:47+00:00"
+      "time": "2026-08-03T20:53:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Wildfires Force 60,000 Evacuations in Spokane",
+      "url": "https://www.nytimes.com/2026/08/03/briefing/spokane-cyclosporiasis-blanche.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-03T21:56:06+00:00"
     },
     {
-      "text": "Live updates: Almost 65,000 people evacuated as Spokane County wildfires cause ‘heartbreaking’ devastation - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44VzlrYzNmRUZobWN6QndOZGJDY1dhcTlBSjZFUkhuY004TzdQSC1rak10N0xWQVJzZm53Z1Y2X0M1RUV2Tmgxd3RWV3FMR0ppN09zbExpMTlidThlZUNHYXpFcGNZQlV1bEtGQ0hKaHk0ZVNON09LTlVVbGQ?oc=5",
+      "text": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T17:53:00+00:00"
+      "time": "2026-08-03T21:37:30+00:00"
+    },
+    {
+      "text": "Palantir Lifts Guidance as Revenue Nearly Doubles - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPblhBSU5ndlFUZTBqbDR5RmFXbXRHUHh6VnI0cjlRN29nMFAtMWMtVXBDMnRDZE82RTlyUk9FZm9zbGJHNXY0U25ablU5V3M0eXpfVzZjT0dkU0xkTnVSR25sZkxMeGJycThFSGtlOENQM2JQblNFMTBQaEFkdFdNZVRjdEhhMllxNElQeThyQmhyc19DMTNVQTFpNGE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-03T21:24:00+00:00"
     },
     {
       "text": "Brown’s President Will Resign after a Tenure that Included Trump Deal",
@@ -75,137 +187,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T17:31:55+00:00"
+      "time": "2026-08-03T21:14:49+00:00"
     },
     {
-      "text": "Russia says seven killed and 40 injured by Ukrainian drone hitting beach - live updates - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVUV2NDN6eUVla2ZGa1FNVVFYVDl2TEpUZVk0NTJZVlJDdHpoS2h5OHFUZW5zdHBON1BLei1JNERpT2FXQ1FWYnpOS0o0WkwyOTh6Uw?oc=5",
+      "text": "25 states sue over Trump’s new tariffs, calling them ‘pretext’ to replace his old ones - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1dVOXhnRXI2M3NoSHgwTFZTUnFzZDdfdEM1ZkpnQXQ2cS1ycXJtNkFkQkN4R3hRVUdjWnpKWTZ5cUF3TFRQT3FGaGx6YkhNejZpem9hcTdlVzhPRFdhSUVJbFRSWEFsaGtQQUxKTGVuQ0E1cFYxZElnSlJZRnhiRnl6ay10Nk1GWXFDYmtKeGtWaEFEREpFclhPYU9wdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T16:47:19+00:00"
+      "time": "2026-08-03T20:57:00+00:00"
     },
     {
-      "text": "First deaths reported in cyclosporiasis outbreak - CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sNXBLT1NDMXp6RnA3YzdaRG5jRVdXb2VvV2R3M19EeWZPQWlFSTZCU2ZsdzdhRkw1eDdxSUJBNXBCMUdsTmFvbjNfQ29kdTlwbm1tclM4NlNMVFo3Q0JhemtCMGJmZ2tnU2hRYm0xUWY1Zw?oc=5",
+      "text": "US stocks rally near a record as falling oil prices ease Wall Street’s worries about inflation - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTMweFRadm51ZDBCVG5fZlAzdEFVZGZpZ2dVcVdsb0dfRHI4M3VzTWI4YllxTDBQUzJNUDQwLXFjZnVMMG43aW0zbnJ1ZmxyODhmdk1zeXhIVmdxc2F4OUlPNWZ6MFFZRTlKNnduenlqcjJDQ3JNWHpuZFBpejZmTXVva3ZwTWg1cnduR2hhMTJQYmVVZ3JacklNYw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T16:27:45+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T18:34:00+00:00"
-    },
-    {
-      "text": "Jay Clayton Sworn In as Director of National Intelligence",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/jay-clayton-national-intelligence-director.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T17:55:53+00:00"
-    },
-    {
-      "text": "Meet the Bee Vet, Now Making Hive Calls",
-      "url": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T17:37:52+00:00"
-    },
-    {
-      "text": "Two Deaths Linked to Cyclospora Outbreak in Michigan",
-      "url": "https://www.nytimes.com/2026/08/03/well/eat/cyclospora-deaths-michigan.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T16:55:49+00:00"
-    },
-    {
-      "text": "FAA clears smallest Boeing 737 Max to fly after years of delays - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zRGI2c1A2SHF1Yzd6LWRmQ2Qza09qanNLeVpkcUk5M3EtWUY2ZlBBZzkxLXNMWDZhZEFMZFFkdXpNVnNIV0R6d2M2ZDlsVUctQWhzOENEc3g5Qm9LdmlOeHpCWkFabmNwLVdOSTh1UWd6blo3ci0yb9IBfkFVX3lxTE5XMjhubVV6SHlNTlhYeTZ3Q3dpaGRkN09Zcy14Y0dETGJwcVBQX1BfWVJMdnJSam1hTnZ4NTNoQ1RRUkp4ZGhBOVFVRk1UNXZyVmIzamczbFUyYTBJOFMxenJYR2xQUHRJRzU3Z1YwQk9MN0hITThPN3FnMW9CUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T16:38:21+00:00"
-    },
-    {
-      "text": "Rhine falls to record low levels as drought strains Europe's rivers - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSnN1U21sR0JiWU5yZno0cmQzUUo1NGFPMGFiYzlmV1VrRnZEaFR5c0V4NmFkWTJ6MC1EN09wSU9jS2loS0s3YklOV21hUlctUlRlXzVrX2hTdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T16:27:43+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T18:26:52+00:00"
-    },
-    {
-      "text": "For Trump, the Year Is Always 2020",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/trump-2020-covid-fauci-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T17:53:28+00:00"
-    },
-    {
-      "text": "Michigan Looks Left",
-      "url": "https://www.nytimes.com/2026/08/03/briefing/michigan-senate-primary-race.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-03T17:35:12+00:00"
-    },
-    {
-      "text": "States sue to shield anti-poverty program data from DHS - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFl3OXN3YkFYNmVIdlc3NkZpQ2ZWZ18tTUktLUd1WW15VWl0U1p6aVdNWW1HSXFsQ1dNcGc1eHFMLXhGZ0U1Nnl1aFlUYVlBQ0R2MjhGeU9FMUV2OXBFSlhzT3o4ZV9kUHlTbTh1Ymc5WjV1OTRoTXBLQ0s2ZUdaUkI5WW9FZlBLV1p1TG1Bdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T16:50:00+00:00"
-    },
-    {
-      "text": "Stock Market Today: Major Indexes Soar to Begin August Trading as Oil Prices Sink; Dow Adds 500 Points - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWtqZm0yX3I4RUVkak1JSzczQjY5UGtLU1RHNGIzUlR6MjQ1LVNRSEhzUHMyNndISEpBdHoteTVJRUxsRXRDblpSSU9nbzZHajhabEFiNGtLQmdRZFN3N1Ffd0N3T0ZCNUI5R1ZYSjkzQ0l3cTd5dmtxRTBvaGpyamljc21MdjJnMFI1VDhhWmw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T16:36:04+00:00"
-    },
-    {
-      "text": "Zac Brown Band gives Fenway fans free cruises - WCVB",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRU5JMzNxWGh5NkpJajNDSlMyMjQ0SjYta0RYeExYUmo0bi1qbkw4YjhHbElvRlUzYlhDcTJVc21IQlR3UDlPZnhDbEotSk9sZ1RPc2hlQU1HMHktR0J6QlBFU1R6RGgtbS1Sd2lrNncweGMwc1VWaV8yLXZfZ0N1UHh6ei1LZ0hC?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-03T16:27:00+00:00"
+      "time": "2026-08-03T20:53:00+00:00"
     }
   ]
 }
