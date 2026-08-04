@@ -1,46 +1,64 @@
 {
-  "generated_at": "2026-08-04T08:08:24.293804+00:00",
+  "generated_at": "2026-08-04T16:23:38.333943+00:00",
   "lead": {
-    "text": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-    "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+    "text": "More than 170 migrants rescued after boat catches fire in Channel",
+    "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
     "lean": "center",
     "topic": "world",
     "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-04T07:42:56+00:00",
+    "time": "2026-08-04T16:21:43+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
-      "url": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T07:31:44+00:00"
-    },
-    {
-      "text": "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’",
-      "url": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-04T07:27:26+00:00"
-    },
-    {
-      "text": "Stock futures rise slightly after rip-roaring rally leads Dow to record closing high: Live updates",
+      "text": "S&P 500 hits record, Dow surges 900 points after Bessent says Hormuz deal is near: Live updates",
       "url": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-04T07:21:44+00:00"
+      "time": "2026-08-04T16:21:34+00:00"
+    },
+    {
+      "text": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
+      "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-04T16:17:23+00:00"
+    },
+    {
+      "text": "What we know about the Spokane arson suspect",
+      "url": "https://thehill.com/homenews/state-watch/6007611-washington-spokane-arson-suspect/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-04T16:15:32+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Ronald Lauder, a Billionaire G.O.P. Backer, Closes His Wallet",
+      "url": "https://www.nytimes.com/2026/08/04/nyregion/ronald-lauder-republicans-donor.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-04T16:12:03+00:00"
+    },
+    {
+      "text": "Zay Flowers, Ravens agree to four-year, $140M extension - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTkljeG5JUHdGa1FNRHRoaWZvNGppR2ZIV1RtZ0RzemFTN3lFS2ZRWnZFUFd4RHdLZHpLbzZpMlpZLVlhX3NLekppWVpnWDlHUWZyLU9TQWdlMnhqVkxfMno0cldBOWRpSGZWM2xodEdPMHB3N1RkYnV6OWUxS0Nnc2FoUlVRb2xVY3FQTmlFZHNwbXZuX3ZqMUNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-04T15:57:00+00:00"
+    },
     {
       "text": "Man Arrested on Suspicion of Arson in Spokane Wildfire",
       "url": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
@@ -48,164 +66,146 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T06:57:11+00:00"
+      "time": "2026-08-04T15:47:56+00:00"
     },
     {
-      "text": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
-      "url": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
+      "text": "Pacific Palisades Shopping Center Set to Reopen Following Palisades Fire",
+      "url": "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T06:36:06+00:00"
+      "time": "2026-08-04T15:30:31+00:00"
     },
     {
-      "text": "JPMorgan Again Entangled in a Soccer Fiasco",
-      "url": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html",
+      "text": "Warsh Wanted ‘Regime Change.’ Markets Are Demanding a Reset.",
+      "url": "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T05:33:26+00:00"
+      "time": "2026-08-04T15:11:05+00:00"
     },
     {
-      "text": "China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTNSMlpYc01vYXl0SENzTVVTYThoYjA1ZDlkOGtyb1djUlBfV3MxbTR6MjZXUGc4bmN5anFzRXF1UXZNMlhEeFRidDN0ejg0MnoyM3dwSlR6bTNOUy15dG9JTm9semZVYXI5QkNaUlRhNXNtaXEyQmVLYldKdHpjeVRLTEVoU1FudTdZcWZaX09aUC1wQlpxLXhxc1kwQVNGYTJpVnZESjBxYVZBQXdXQjNn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-04T04:47:06+00:00"
-    },
-    {
-      "text": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
-      "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
+      "text": "Stressed? Overwhelmed? Have You Tried Being Jack Johnson Instead?",
+      "url": "https://www.nytimes.com/2026/08/04/style/jack-johnson-summer-surfilmusic.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T04:01:09+00:00"
-    },
-    {
-      "text": "Pakistan’s Kashmir Problem",
-      "url": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T04:00:13+00:00"
+      "time": "2026-08-04T15:00:13+00:00"
     }
   ],
   "col2": [
     {
-      "text": "‘A War Zone’: Spokane Wildfires Leave a Devastating Trail of Destruction",
-      "url": "https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html",
+      "text": "Talks With Iran to Reopen Strait of Hormuz Make Progress, Officials Say",
+      "url": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T06:56:47+00:00"
+      "time": "2026-08-04T16:07:38+00:00"
     },
     {
-      "text": "Live updates: Arson arrest made in connection to Washington wildfire as officials race to contain flames - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44VzlrYzNmRUZobWN6QndOZGJDY1dhcTlBSjZFUkhuY004TzdQSC1rak10N0xWQVJzZm53Z1Y2X0M1RUV2Tmgxd3RWV3FMR0ppN09zbExpMTlidThlZUNHYXpFcGNZQlV1bEtGQ0hKaHk0ZVNON09LTlVVbGQ?oc=5",
+      "text": "McDonald's posts strong second quarter profit, names new leader for US market - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXJXakJ6SVlSYXllRVI3NWctNFMyLW9GeEFmTnlPQmpiSC12MmpRcm0tUHpfenVrRy1OVDdjaVhUcWZtVkhqSUdsWjlLWEhHenI2aUg2OUo5MFNySFVhcHJGUFVpWnNwX2Y2TVNKS1Bma1pJUl8wVmp4MWZ2VDNsUmxIX1RIRE5LZ3lkdEE4aEJwNmh6eFVaLWZWSjJMVXFRY05vbdIBqgFBVV95cUxNalNMOEVoNm9HaFpRU1RYTUpwV3FBcXhwUmVNaG1SVEtxazdYNUJ1NmRSUElKMm1KS1JjRmw1dHFPXzJ1MFZkbUp4R2hpY09SYzZnY2FyNkZEbHMtU3Ywa2dJd09Mcm1GZkRzSkVqVTlXMFBmR2VkVGt3RUtqNUlLTm9NcU5UUUJncW1IV3oySWM5VV8yZnNRWmJDYmd2bVdhTkRSMVZnVGwxUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-04T06:16:31+00:00"
+      "time": "2026-08-04T15:53:49+00:00"
     },
     {
-      "text": "Late Night Reacts to Trump’s Latest Iran Deal Comments",
-      "url": "https://www.nytimes.com/2026/08/04/arts/television/late-night-trump-iran-deal.html",
+      "text": "These Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster.",
+      "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T05:20:01+00:00"
+      "time": "2026-08-04T15:47:22+00:00"
     },
     {
-      "text": "Trump raises concerns over campaign in call with Rep. Max Miller amid abuse allegations - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16Sm5nUUxKcmt4VmRKZVZNYkgxbmotSTNlQ2czV0M4YWJoTW95WWlheFFyOWd5SXFTWnVCYld6R2RwUlJyNm5NOFVDYUs5LUM4ZWZ1aHMwMGR1OFpSc1VIcWR1Rkd1aHNiRnU5eXByVmxNQ3NlSlg5Yg?oc=5",
+      "text": "Spokane wildfire arson suspect had prior manslaughter conviction; blazes leave some residents with nothing - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EVHNyV0lKQk95YWNia01kOS1ubnItWmpzZ1VsY3l5MVp4d3lwNEhFWXlOZ09iUkI1eFZLU2ZMelVfaXVhVjNNbnFMMXMxVFo3OWlkLUxkWEtoVWVicVhCU3ljempDcnBFSWk1NXFxTk5ZalI1VDQ0enJnSG0wVlU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-04T04:01:44+00:00"
+      "time": "2026-08-04T15:30:30+00:00"
     },
     {
-      "text": "Runaway online rumors sparked frantic rush by migrants to the Spanish enclave of Ceuta - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZk1VZl9JbEszX1lWSXNPT0pCV244XzV4bVNXOWV6MEFWNkpnRDdfaUd6SEZUQlE0SDNZb3JvOEJDWmkwTkhXWndic2NBeVkxOHFJUlRienlGLWJqdEVMcUZMeVlMNDQ4SkwzSFF2TEh3dE9lR2JnYVljNTNPSGRlR0hXRGo5X1lyR0xpY25GbXQxOTA?oc=5",
+      "text": "Trump administration claims Hormuz deal is close as Iran denies negotiations - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS3pHS3hBZFk1RUVqUE92R21Cdl8wME1BUF9zTkZ3MkhkbEVTal9RWFNaOUJnTVUzNGdOQ1hudC14R3pCclJpQ2tOSGNvZ1dPUFQ4amZUZkVuZVZOUC1iWTJTNWV0dk8zY0VSMEQzMFFZTC1oZzNvTEt1bjR3bVdDY0d0RUdrLXRWbnBzMVh2NmJRUTNjMGptN0ZZV3Y2LThjMnl0dkVnNDVCYy1mTUdNQW44SzNSeF9rVUVmSnQ0UHpsN21ZQncw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-04T04:01:00+00:00"
+      "time": "2026-08-04T15:04:17+00:00"
     },
     {
-      "text": "Nauru, the world’s 3rd-smallest country, changes its name to Naoero - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOTdtLXhRZzdxbUNrTGNoLUljb2JINkFYOW1aY2RXN0VPTmdNMzNLT1BnaGQ0RE14WUpyemhKcUh5c3pxd01ZejJTR2ozSnJDd0Fnc2toRTM3M1MtblR1S1B2dWRPNVMwOVA5aXV4cklmRWUwSzBxYnRtSmh0NHRmamZiTEU2Szk4OF9kU0pyVjFNU0pzb01WZnNjQU91aGw2?oc=5",
+      "text": "SpaceX rocket booster is on a 5,400-mph collision course with the moon - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FSWhjOHRRMFZobWYyUDVILUZZU2pYcDR3cVVQaFdNdEduc3k3ZENuRzBNQkg5RDZ2d21oeU1ReW1OblNLYVJaNlVWMzJFQlVLazh6Rzd4R0VTaW41TW1qTnVxc19kbW1QalE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-04T03:54:00+00:00"
+      "time": "2026-08-04T14:54:12+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Scott Bessent’s yen intervention signals new era of US ‘currency activism’ - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDhQblNJaDRoYUVyMXpGUXNMeGZMd3JSMThHRVAzZWxhdmVLeUVVT1hHQ0hWYnVlR1ZpRFdueDVqdURmellaeWc5NnF6MVBzajZhNE9QZVdaS3VJNXIwTnJ2TW9lTGxKQWViTlVnWHhSTDlYRlRJN2NkdWZXNTNmX3VvTXA?oc=5",
+      "text": "Ariana Grande and the Debate Over Health, Privacy and Celebrity",
+      "url": "https://www.nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-04T16:01:55+00:00"
+    },
+    {
+      "text": "U.S. Trade Deficit Dips in June Along With ‘World Cup Effect’",
+      "url": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-04T15:49:32+00:00"
+    },
+    {
+      "text": "An Invasive Mosquito Is Spreading With Alarming Speed, Threatening Africa’s Cities",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/mosquito-africa-anopheles-stephensi.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-04T15:37:08+00:00"
+    },
+    {
+      "text": "David Ellison: In Defense of the Paramount-Warner Deal",
+      "url": "https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-04T15:23:10+00:00"
+    },
+    {
+      "text": "Todd Blanche clears Judiciary Committee hurdle on party lines - politico.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXd4V2NNU3Axd0xQbzVWLVhOYXBreU11LUFJNGZ5cnNOT25xUGVNaUhWV0JzbXN5VFJhUl95RjBzbHBJLVB5WGNnaFhTbV81SHEteXh5VlJkeEMyRk5IQUpoVWVKMDhud2t3YUFGUnVmSjRFdVFJZmlnNDZtMl9JNE55QjlFSnlHZGh4TERSVmVkbE14bXl0SGNEd2s?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-04T06:56:15+00:00"
+      "time": "2026-08-04T15:03:36+00:00"
     },
     {
-      "text": "Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2xQcmR3d0h3bmJDMlRnNkhpWExiZ2FETUNmNUREa3RkNzhfU3BYUTlGNEh2b2M3QWJwbEozNUJOa1U5T0JCbnhRR3hEb1Q2TU5aM0VtcENuN28wLW4zd19kUWVhZWg3M19hdVNKV0gxQVd1dWNtdlpFdUZNQm9wZzFCR3R0VHZGbVNvM2JOdENrQWh0V2RKWmMyZkxMX3QzVGw3Y21YbXc?oc=5",
+      "text": "US Job Openings Edged Lower in June as Layoffs Remained Limited - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUFMMkNhOWdPSUpEd1MtTy1adlkySUstdnZJbU9POG5vekRkOW93OVRXRkk4N2dOendOV1FQeHdfcGZYMlRqdFZQTlVES1V5NU5ibkJmVlFFS1J3V3RvSGNBcWtnbDVZX3NnaDI3YnNnMlJ1MzJjZU9JY2YtTnU1S2dsSjBNNkNpX2w3VHprSUZEcHFuVzUyVFh0OXFYVTltNGxTWHRWd0NlbmJvT1VvSEpqQkI?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-04T06:11:00+00:00"
-    },
-    {
-      "text": "What Do Dictators Fear Most? Just Ask Nicaragua.",
-      "url": "https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T05:00:04+00:00"
-    },
-    {
-      "text": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
-      "url": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T04:01:19+00:00"
-    },
-    {
-      "text": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
-      "url": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T04:00:14+00:00"
-    },
-    {
-      "text": "Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.",
-      "url": "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-04T03:41:43+00:00"
+      "time": "2026-08-04T14:54:06+00:00"
     }
   ]
 }
