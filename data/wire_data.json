@@ -1,72 +1,137 @@
 {
-  "generated_at": "2026-08-05T12:28:12.988372+00:00",
+  "generated_at": "2026-08-05T18:09:35.705540+00:00",
   "lead": {
-    "text": "AMD sinks 8% in premarket trading despite beating expectations",
-    "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
-    "source": "CNBC",
+    "text": "Democratic Women's Caucus leaders call on Max Miller to resign",
+    "url": "https://thehill.com/homenews/house/6011419-democratic-womens-caucus-max-miller-resignation-house-ethics-probe/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-05T12:27:14+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-05T18:08:19+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
-      "url": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-05T12:26:28+00:00"
+      "text": "Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution",
+      "url": "https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T18:05:54+00:00"
     },
     {
-      "text": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-05T12:26:26+00:00"
+      "text": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T18:00:01+00:00"
     },
     {
-      "text": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
-      "url": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
-      "source": "CNBC",
+      "text": "For Babydog, it’s time to help the greyhounds",
+      "url": "https://thehill.com/opinion/congress-blog/6011510-justice-greyhound-protection-act/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-05T12:16:52+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-05T18:00:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+      "text": "Abdul El-Sayed Thinks Progressives Have a Way to Win. I Hope He’s Right.",
+      "url": "https://www.nytimes.com/2026/08/05/opinion/abdul-el-sayed-michigan-democrats.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-05T12:05:18+00:00"
+      "time": "2026-08-05T17:59:36+00:00"
     },
     {
-      "text": "Rep. Chuck Edwards Drops Re-election Bid in North Carolina After Ethics Rebuke",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-north-carolina.html",
+      "text": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
+      "url": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-05T11:34:06+00:00"
+      "time": "2026-08-05T17:36:33+00:00"
     },
     {
-      "text": "Ukraine fails to stop any missiles overnight, after Zelensky says no interceptors remain - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTlRBaGt5YW5uYkExWHZWVWc4OUk5Zi1QblJmRTNjUG8tVFlnOWFQWVJkVVEtQlVTNWk5TDNxa2tiVEZoYW5sTDI1Y0I1TER4MUR4SDJlRm81dXJGVFdxZllSTzVVa3B4ZnZyemtBUXZpYi1ZcFd6dlhDbHZxaHNzRUlSLVo1bERwQ0tZUXQ2SXRhZS1nZGE5YUdRT2xMUzZYTlFlTGMzaG5jYTJaRjljSXpOTVhsNHFSdC04a0RYWTJXQnNiMURJMQ?oc=5",
+      "text": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamh6Wi15cnNtQ2dJZ3BZV1A1YTRsaG5MbHNWcW9nZi1qVm5lVGpYdlVqTE1JLWZ3VGZtNzBSTTJERXh3a0QzSmFHdnVua3htUDNhbF9WdVVwMUgwRUhxWUFvZUVDbHktb0lnaTBVeTIyVVhiZ21zREtaZkQ3eFFMUTdxSzJsQ05GRkhrMzNLMUlWNzJQdlJLeGJVcVI3MFNjWS1MMk9tYTlIbEpQOUMtYkg0N3NoT051cldQcHh4cmlMRUtN?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T11:11:03+00:00"
+      "time": "2026-08-05T17:28:19+00:00"
+    },
+    {
+      "text": "Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcm4wTWJvdk8tSU5TcE51eDdzQXBVNUUtbzhoR1M5eGJZUDlQSUZjd19RMWlUZWJBZGxEM2pyR0hJeDh5VmNpaEctQWotUU1WM0pzVW5sZ1lIdDNXdU5wdk5DT1ppLWtOZlVYcE51M0tnbkJISEJNc09OM1ExTHZSSm1XTnR0V1NtV3Rray1BSFRtbGxRVTZuLTRR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-05T17:10:00+00:00"
+    },
+    {
+      "text": "See detailed plasma whirlpools in new video of the sun’s surface - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0RDdGtwdUdqNG1Idml4TV9hN0s4eGpLSVRsSnY2QVJ1SGxWdHR5SVdJakYyM3lTLWpHaFA3OHhlTWxwd2t3TW5MSzJBY0w4NEVmRkNzY1hZTTNGeXpaVUc3T1lUYVRScXpGUU5vQ3JHV2t0c2plYi1ZWlVoN0dwbjF2QmFZcjlNMW9JNFYyTHpSYUR4MGxJVGRzZkNxQi1LaFRJQUVFcw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-05T16:31:54+00:00"
+    },
+    {
+      "text": "Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T16:26:49+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "A Four-Ton SpaceX Rocket Stage Hit the Moon, but No One Saw It",
+      "url": "https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T17:40:21+00:00"
+    },
+    {
+      "text": "Blanche Defends Pirro but Says Trump Can Fire Her at Any Time",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T17:35:45+00:00"
+    },
+    {
+      "text": "Windy Weather Could Worsen Pacific Northwest Fires",
+      "url": "https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T17:18:36+00:00"
+    },
+    {
+      "text": "Iran Says It Is Nearing Final Agreement With Oman on Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T17:08:46+00:00"
     },
     {
       "text": "The U.S. Relies on Family Caregivers. Millions of Them Are Kids.",
@@ -75,137 +140,72 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-05T10:54:29+00:00"
+      "time": "2026-08-05T16:31:25+00:00"
     },
     {
-      "text": "Popular social media influencer shot dead during livestream outside restaurant in Mexico - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSEY0T0RBQzNCT3FfbVBicW9sNnJpUE9TVGdYQnVqLU9xZkZwbEU4b0tkMVFJTlJtYjktcHBZb183ZmhOLU8zRk1mbnQtSXExUlUwYTUzVV9IQWlFUFYzVW1IcUNtX2w2UUJrZXBXUkdoUmhxWFpCTVZaVnFqWFhHYzFWR2NLQUk?oc=5",
+      "text": "Perez Hilton hospitalized after reports he livestreamed self-harm, sheriff’s officials say - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnFIRUMtbjBIQWFWYTRic1FuOUtCUjhSNVZKQ1lFWkJPTkhNejlhdnVLeEZKRldOY2NrOC1lQXJiU1hwUWVWSDA4XzdOakIwc05WdWxMNG9IOWZNUHBrTWNucG94a0tJaEgzTU5hVDBlb3B2SmpzRDVpUHhnWmdDQlpZbmtVOHRjbnBfeW44WHZjRWFRbDV2aVc2TDZhdk5FZS1hbA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T10:46:00+00:00"
-    },
-    {
-      "text": "Disney’s Strong Parks Results Contrast With Universal’s Gloomy Outlook - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0NGYllWSVE0STgwOUU2aGtrMHN2VGhiRzJsdHYxcERwUzctV3pxYWktOXlYVEQyN1Q1dE9zb2hTd3d1cEpYWWIzY2NSWnI4NGJFc0llbmEwOFFTRTVLbjdjc244TldHNlV4aXZ2RDY3TDFKMzVrX25NSmZPelV1dFQ4VQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T10:30:04+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-05T12:02:12+00:00"
-    },
-    {
-      "text": "Mike Johnson breaks his silence on Max Miller, calls for ‘process to play out’ - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2ZoOTJOQkQwZ0FOd1VMYVplQmZwQzBLbnJ4cVl1WVJnTVdsZjB5ZlRRTkQ2N0J2WWdrOUR1MDBROFozOHlUV3hBcWZpem5YcVI4SlV5OTE5THlETVhMaGtlVkZZLU5udVFBWnlLZElmby1UaXZqTEJQWjZRLW1JVE5GSWhUeGxiVWM0cl94VlFpUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T11:27:00+00:00"
-    },
-    {
-      "text": "Gene-edited beagles may offer a future option for people with dog allergies - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenNvbFRSTkFJaDJROTlhR2o3LWxpSVQwaUR5NkhQVGNTenVjT25tMkR2LXYtZ29SdmtHZV9yd2M5ekRxNnVkQm40d285ZUppNFhCUDVSd1dyb1R3Y29YSGg3a0xzZTFjSVRLS2pvR2Z5QWg4VWFGUDdaVElOTmJTSWR4RjFwTmhseXJHeEU1Z3ItbENsYkVQTFhxTlhMWm9mSGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T11:05:00+00:00"
-    },
-    {
-      "text": "A Nail-Biter in Michigan",
-      "url": "https://www.nytimes.com/2026/08/05/briefing/michigan-democrat-senate-primary.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-05T10:52:37+00:00"
-    },
-    {
-      "text": "Lilly reports second-quarter 2026 financial results, raises full-year guidance, and highlights continued growth and pipeline progress - Eli Lilly and Company",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUNBZmcyVlNrWHFPWGY4c1FCM25xR3dhV19kbG9ZamRJcG0tOEV3SzE3eW0zTjliT182OXNtNDl1YXJKRUxGbkIxM1JpVkEyZjF4dzFEX3hXcjN2d0lGSnkwVDJyZF94aU82Nkx1TFNmNEFJT1hKV2MzVDVBWU1DNlRETV9BbGxZNHhJbmVCYmVBQmpkMnFpaXRIdWNYZk9peHJqLXFoRVZmanZRZkJWdnhNOFNEM3pubTRTZ1dSZGU3OVk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T10:45:45+00:00"
-    },
-    {
-      "text": "Eli Roth Admits ‘Ice Cream Man’ Features Generative AI After He “Mispoke” About Using The Technology - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0JUQzBSNkFvcGdXNDdCYm5JazEtZV9OWGo5UjM2MldVeXRmNFl5eUYtaHNtbERiZGxDRXVBU1RuZDZFemtpdzVRRzR2S1o2SF9vWTEtbEJXRHNZY0pLTXpUQy04bGZ1cDBrZmNsczZQZXhSOG93VXBraTBGQm1LMzc0WURUR2NIOS1MUGxQbnA4cFk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T10:11:00+00:00"
+      "time": "2026-08-05T16:24:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Court records detail troubled past of Spokane fire suspect - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0d0d25Ta182eWhUYUttMGtBUGxEVklzcGtHM0d0Z0hvUVhFaFQzb1E2OTN5LUNrUlBBVW1vMWxXNnlPSmpGa3NBZ1ROSkRmTDMzcWJmeVQwTDh1S2g5UjZ6UWZ2TkprY1BSU3p1OUlzeU5uWG9QaEVJNXpVRnBSY0x2d3Rqb1RKOGxWMTA1ZHZpWDBEb1FmSjFweVRoX0U?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T11:40:00+00:00"
-    },
-    {
-      "text": "Stock Market Today: Dow Futures Tick Up, SpaceX Stock Slides After Earnings — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXBFbFF6bHV5ZWdJTzNFVERZczNwWDU5UjNCdS12Rm05ZW0wekxPYml1UUhhUmhSUl9jaHZBOWxWbkZiNmlXSzR6MlJKTkhMcXN5NjRGQnJlcWthMUNQQWZ6WlB3YmFZMk5wbTB3cmhRaWdBZEJIZ3lpTUlDWC1Yd0ctLWhNajA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T11:21:00+00:00"
-    },
-    {
-      "text": "‘Ted Lasso’ Draws Fans to Richmond, a Bucolic London Suburb",
-      "url": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-richmond-locations.html",
+      "text": "Perez Hilton Is Hospitalized After Appearing to Harm Himself on Livestream",
+      "url": "https://www.nytimes.com/2026/08/05/us/perez-hilton-live-stream-tiktok-self-harm.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-05T10:55:25+00:00"
+      "time": "2026-08-05T17:39:09+00:00"
     },
     {
-      "text": "Michigan Election Results Live Updates: El-Sayed Holds Narrow Lead Over Stevens in Senate Primary - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkMzeXN5RWNSU3JyUGxpZXJZNngwc3RaOVZjR1JKb2tkRU9zN3ZRVUZ2MDlOVzdZNVRmQVdBUEgxbHF3VWtLbG9Fci1PS19NR1dPX3h4QnkzZDdnQ09Fd3kxbzQtUW1lcmplUTlJQ0xYOWE3RS1lXzJ6SjZock5FOC1R?oc=5",
+      "text": "The War That’s Happening Above Russia and Ukraine",
+      "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T17:28:32+00:00"
+    },
+    {
+      "text": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan",
+      "url": "https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T17:11:22+00:00"
+    },
+    {
+      "text": "El-Sayed’s Michigan Senate Primary Win Sets Up the Left’s Biggest Test of the Fall",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-05T17:08:09+00:00"
+    },
+    {
+      "text": "Live Updates: Trump says Strait of Hormuz deal could happen today or tomorrow amid Iran-Oman talks - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-05T10:49:44+00:00"
+      "time": "2026-08-05T16:30:00+00:00"
     },
     {
-      "text": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Rep. Chuck Edwards drops re-election bid after censure recommendation over harassment claims - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXhTSjRpak5MZHpqTlBZci0yYUVfNTVkZ3RpbHRmRHlkLWhvc1ZhaWhOaXJkXzdiQUk3SzZVd0Y5UGxKMFpLMklUMHJ4cVVETjRZaV9qY1A4Rk9JeWtlQzREQkdyVWlYS3lnbzl2RFczUmhEMTMtT2hrS2lacGs5b0htWTF4SzAzVXJ1aGhBLWJyalQtcExjaXJONXRFMjRJek5MdlY0TjZOdTJrMW1QM3BIeDM2LUFxOW5VaUNMZlU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-05T10:41:55+00:00"
-    },
-    {
-      "text": "Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-05T10:09:52+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-05T16:13:47+00:00"
     }
   ]
 }
