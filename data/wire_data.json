@@ -1,46 +1,120 @@
 {
-  "generated_at": "2026-08-07T09:43:14.475572+00:00",
+  "generated_at": "2026-08-07T12:07:49.734785+00:00",
   "lead": {
-    "text": "Wildfire costs are surging — but much of the damage in Europe isn’t insured",
-    "url": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-07T09:26:05+00:00",
+    "text": "Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom",
+    "url": "https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-07T12:02:45+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Meta fined $567m in largest child safety ruling against social media giant",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-07T09:22:03+00:00"
-    },
-    {
-      "text": "Yen rally fades a week after U.S.-Japan intervention as focus shifts to policy",
-      "url": "https://www.cnbc.com/2026/08/07/us-japan-intervention-yen-unwinds-gains.html",
+      "text": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-07T09:18:47+00:00"
+      "time": "2026-08-07T12:00:02+00:00"
     },
     {
-      "text": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
-      "url": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
-      "source": "CNBC",
+      "text": "Republicans can't just commie-punch their way to victory",
+      "url": "https://thehill.com/opinion/campaign/6014612-gop-needs-election-socialism-messaging/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-07T09:02:59+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-07T12:00:00+00:00"
+    },
+    {
+      "text": "Whole Hog Politics: What we learn on vacation",
+      "url": "https://thehill.com/newsletters/whole-hog-politics/6015360-politics-gettysburg-partisanship-sincerity/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-07T12:00:00+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Luigi Mangione Is Facing Two Trials. Isn’t That Double Jeopardy?",
+      "url": "https://www.nytimes.com/2026/08/07/nyregion/luigi-mangione-double-jeopardy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-07T11:55:44+00:00"
+    },
+    {
+      "text": "Trump Targets Birthright Citizenship Again, and Activists Describe Abuse in Israeli Custody",
+      "url": "https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-07T11:33:20+00:00"
+    },
+    {
+      "text": "Residents of London’s Barbican Are Battling a New Tower",
+      "url": "https://www.nytimes.com/2026/08/07/world/europe/barbican-london-redevelopment-tower-block.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-07T11:27:02+00:00"
+    },
+    {
+      "text": "Curious Minds",
+      "url": "https://www.nytimes.com/2026/08/07/briefing/reader-questions-answered.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-07T10:59:15+00:00"
+    },
+    {
+      "text": "The State of Iran’s Three Key Nuclear Sites",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-07T10:46:29+00:00"
+    },
+    {
+      "text": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ea2JGMWFDRGVjQy1Lc3o5ZW44OWVvODlkc05aWElPSHFCQlRkclI2ZzJnQkdpSE9mckE0TzFQRnlrdWR6VEVORExUek1oM21jREtjbGc0WFNudw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-07T09:50:54+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Drought and Aging Pipes Plunge Puerto Rico Into Another Water Crisis",
+      "url": "https://www.nytimes.com/2026/08/07/us/puerto-rico-water-crisis-drought.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-07T11:48:05+00:00"
+    },
+    {
+      "text": "Avoiding these 3 risk factors might buy you 13 more dementia-free years - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcURyekVELWpPYzdRRFg4TjJqYjRxaVFYQ3d6dnpYYUlFbkRsSUtrNTdOcklkMy1VM0xWajFITTBYNVBYbHdDcVZCWmg5Z3VZeHA2MjI3ZGpta1hwSkJudnM1MWVNby1JRFJiNGRTWXZRSzNNczhNVGVLZkQydGpfc0VyZlBMTlZUZ1l3MkM5UjNfaHZxSTI3azc2ZVRhNmRwYzZKbVpaQWNBakNDZlNERGNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-07T11:32:44+00:00"
+    },
     {
       "text": "What Black Voters in Georgia Want and Aren’t Getting",
       "url": "https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html",
@@ -48,55 +122,55 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-07T09:02:30+00:00"
+      "time": "2026-08-07T11:26:35+00:00"
     },
     {
-      "text": "Total solar eclipse Aug. 12, 2026 live updates — 5 days to totality - Space",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlNUWHNIMGxUU0J5N2JWdmFRUjJWOUNCUmZoejBBNGxZbE52VlZLeEJuMTk3UlZrUjNmczlCQUU0dWQ3QTROZTl4TVdTVTFBSFRVQzNXYkFvT3RaLWplQUpnQ0lUZmtvQVlXMFpESm5oUEN1cmZmSDN1RUxOMGVyWXl5RDZxZ2dQZ2NOOVNYSHltdUxuZGNaOXVGMmlrWE0?oc=5",
+      "text": "Jobs Report Today: Stock Futures Tick Higher, Oil Slips— Live Updates - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T08:40:01+00:00"
+      "time": "2026-08-07T10:53:00+00:00"
     },
     {
-      "text": "China’s Export Boom Rolls On Despite Trade Backlash",
-      "url": "https://www.nytimes.com/2026/08/07/business/china-trade-exports.html",
+      "text": "Lisa Murkowski says she will oppose Blanche , endangering his confirmation - Politico",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUwycDlHRVVqaVh3NGRjazlKaGQyMFJKMjRtSGdiQzBiODgtMmZfWUJ1LWJqalhadEtPTllBR1VYRXFRdk5oblJ3dDRqYzJoejg4eGE5cmRBcC1TTXNseExiLWFEOEQ3WVFUbnljWU9ra2lyWmNwQlg2cG5ySElkbDBHYlhpc3RtUWdoeTlhZVhQdEJHMVBWdkdZQXJVODA3SzdMOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-07T10:23:22+00:00"
+    },
+    {
+      "text": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
+      "url": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-07T07:20:24+00:00"
-    },
-    {
-      "text": "AI used to create viruses not found in nature for first time - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU0RkOThVZFpyWElkRkk2TUY3eFNJdE81eG9ZV2dlVUstdGV4TlVTS3h4b2hINE5xZm41d2tyNDhOSW5TSXFSSDZjLUpsQV96OVg0b0lGOHdFME5JTWJkYzV0ZWtsNGhrVGtoMUNTNGNuR25vUTN6akdzeF8xZkxYdVRJWjRXeERjOWR1UHNXUjNvZUtUTEdyWkFnNEVwVi1KWXd0eXNR0gGrAUFVX3lxTE5xSVk0ZGxCeVg4X0wzb0VmYWh2aTIySWVqWVpPV1JjX3dRYlNuTGZMNV83bGxVS21TQnhnN0NyMXZPcFpYV1R6RE5jYjd1RUNEVDVUU2VESzdiQXh4TUhGRDhMaVpJUk0taE9jSXo0NnUxMTdvV3RuZnptYkZERlRoMllhbV9HME5pM0RVTTUweERkU2hKcWxBbERkQTE4UTBkQzR5Z2hSM3dXQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T06:14:41+00:00"
-    },
-    {
-      "text": "Detectives say Spokane fire suspect confessed to planning 'powerful, beautiful' blaze weeks in advance - spokesman.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2h1ZFFzZ3ZJOUJJclAwS3ZGX1M1QlJWYXJQMTU4NmN3WUxqQ2NXRldwblNfNDFPNXNMTlZZTHRIMDdiOWRGSktFTDloNEhKRkxCeHRtc0NaR2hvSkVFQ0tkZk9VeWppdUszWFhDbGJ3YXk4VDRfczZjdzY0ejBHY21VUFZtRTNMTktPbVJfR3EtT0FxaFhMSW5ZeVpsUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T05:19:58+00:00"
-    },
-    {
-      "text": "Yen Surrenders Nearly Half Its Gains From US-Japan Intervention - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYlJydERna0xiMTZxMXh2Ui1FcmNmQzVLX1A3ZlF4TVJFQXhpcm5JMkJ4Y2htX0hSM2NBVFg1aF91ZVZuUlY5T2lnb25PYTM0NDhza3V3ZXpDNDhiUmZha2U1dkVRTDVsekRiM3hYYVZ0RmM3MFB2N3I3V2JucUtGYWRJZVRMY0ttZThPZTRQLXdmZWpaalVRM005d0V1WjdEZjlCUXVieENWVFFCdFB5UlhQbmY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T04:43:00+00:00"
+      "time": "2026-08-07T09:50:23+00:00"
     }
   ],
-  "col2": [
+  "col3": [
+    {
+      "text": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-07T11:40:45+00:00"
+    },
+    {
+      "text": "Live updates: Teen gunman dead after killing students and teachers in Thailand’s worst school shooting in years - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjT3l5UUtOczJUcE1OcEgyRnZnX1p1NVdlZmM1Mi1rODg4MnVwZnNRbWI5cFpaa0o1RzN2YUtjdjBTMXJ5VTBUR1dVNjg2LUlMcVpaamhhcjZqZk45TjI4UEV3QUZJMGpSSzJQek1ZVDg4ODktRnlPdEkweWcyZEFFNW40eTA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-07T11:31:00+00:00"
+    },
     {
       "text": "A Generation on Antidepressants Searches for the Exit",
       "url": "https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html",
@@ -104,7 +178,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-07T09:01:54+00:00"
+      "time": "2026-08-07T11:12:02+00:00"
+    },
+    {
+      "text": "Carson Beck shines in Cardinals preseason debut - NFL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR3UtNkxCZUxlX2JmZWpPcVV3S0NMZHJ1THE0Wk8taXRKS24zd0xnMWhHMnc3SjRsb1FTSkZJT0FtMG5oa2pwWExCT0lJdVlkSUFvRU40ZVFjYjFNSDNqU3p6Z0k4U0RjakNLMnJRYmdmZHd2Q2NvV1RjRHN0M1RQYjRaZ0MzbkFUSWd3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-07T10:48:57+00:00"
+    },
+    {
+      "text": "Louisiana reporting at least 5 deaths from flesh-eating bacteria in seawater - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVV6Wmxvem5uU1pFbkdSSUJYU1VqTnl3Y0RwSHlVN3B6d1NIVnJuUlBZTTk0QmhBUVF0a2tUWmVLZHNoVmdhOWtIUi1oR0laSVZmTkpQMnNGdHQxdjFpVXp4Z2Yxc2lVVWhqUW9Ibk04T1JRNExrZGZEMExhM1M4RWw3NEdsMmZZWWZmRGZvcTNtMjRMbjlGNHZ1S0JzOGtSZGJF0gGoAUFVX3lxTE5RR1BOeExBMWtaRTU1M2tldlFhdjlHWFBDTzlpY2xpdjVSNmhlVk5vOEswaFNHbVJXZ1Z4ZnN3Q3F4NkRoTkxha1h1ejlYdzVBSW5QT0xMVGJUeWhFRjJRX19HaHRsUXU0dTVsejZYaFdLTnFfMG01d2Zjdm50YWhCMXg1Y1pTSV9Ba214TDBDWl9BYTU1Vm8zeXI4TFRGYm5fLXdoVjZQaA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-07T09:52:17+00:00"
     },
     {
       "text": "Thailand School Shooting Leaves at Least Eight Dead",
@@ -113,99 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-07T08:25:21+00:00"
-    },
-    {
-      "text": "Lionel Richie, Earth, Wind & Fire concert at San Francisco's Chase Center postponed last-minute due to medical emergency - ABC7 Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVnJkOUFPZFFXMnZLTGhjb2FKZUhaZldZN2dkVzNfQ0FpVGxhWk9hUnY2MDdqOWlQUXNnbUNJdmZlQ1pMemJyRkl6LTNGWVVJZHBvRlZsYjVSb2R6a01yNGtGTUhqSzdjTG43V3VRYmZmSTR6TFFSRlJMZ0ZtVXBBQVpBQlhkWUE2RTExUVNBbkpUNXJlWXhsZ1RIbjFqVVJFT1NkcmtrMmZXazNMUGhYR3ZHbmdvaEtWTXRZSjRQeEFFcEVDbHZhbGNtb9IB0AFBVV95cUxOcVdRb3lJSU1CcTk1VWZkcm1xU0ZzdjlHOExfOWpHLTVWSENxNGs2QzYxWVZwZVZ3SExNMzRTLXBYQW1XYzVVNjFjcG53a3pxSHpiUFUwUElucVNqYXhRUjBxeXNGUnJaZGxEa2wyUGY4YXJBRFdxSXo2MXdSNjBKMlFuTzgtUTdrc1NENWc4Rmk3UUNxQUwzd3A4Nko2Z2pQOGhaYXRGdFpuUlNuUFBwbGlKaTVJbkJ1Tm5uUzNxLTFRbWZDNllYV18xWjlGc2Q4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T07:02:07+00:00"
-    },
-    {
-      "text": "Live coverage: Tennessee’s August primary election - Tennessee Lookout",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3Y2TXpQazFWRVZYZVAxcUZrSng3cGQ5T1YtN29CQVB3VXNkLXBKMjJBZjA0bHZYUEpoeHBjd3VBSHAwQUxXM0R0T0hHcjZZZWVpOFhXcm9SOTJzZ3pvY3hjZ25CU1UzOEdLbnMxM3JNOF9GM3FBZkVpOXU0N2xvRw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T05:33:43+00:00"
-    },
-    {
-      "text": "Rookie QB Carson Beck delivers efficient debut for Cardinals - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JNNnR2ajBLSnVrTXN3TVljemFqTXFGWk50eHkyS1h1bHpab0NkSXk1em93ZEV6eEJPUlNUcGVRZUZueU5UbFVyOXdNbXNTVVZrUjJIWi1lMFYyZ2RTbU5vdVAya2NLOFd3QXllODBYWGZSZkVET0J2akExTUp2UmxnX1JiZFZzZ01jTEh2LXVRemFQSjQ1anFqeE1jLXFzaVVv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T05:19:00+00:00"
-    },
-    {
-      "text": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFVjUWlQRWxQVk1KR2xvem0zOEJkUFVGcjBaNjdCU3dxQkU5Wml4VURmVDRHcVgxekM3ejFLa1Utc1YzRlhhaVJCd0FqWEJGaEQwRGwxbGpYTjdUejlxbXBhQ3hHMmUxaFgyTEgtOEh1LWhhZ2xRQW9oaVBDdUY3TEhpQkxRNjEzdExucFBIWms5OTlqYjlQaWlXcTZ4eThjZHg2MmxlMlA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T04:27:40+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-07T09:00:40+00:00"
-    },
-    {
-      "text": "Meta told to pay another $567m in New Mexico child safety lawsuit - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PcVZNdlI1bk1HbW9uLTQ5Z0JraFlic2hnUHJ1WFNSZXNXc1dEbUtIQXp0NHVoaEUzTk9rWm9lZHYyRnQ2TWpqdDljMjIzSmFSTU5pcndBMHJadw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T08:06:40+00:00"
-    },
-    {
-      "text": "Astronomers capture highest-resolution image ever of the Sun’s surface - Physics World",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnpNVk9oQUFYSUhzcVFMT0pjYkJBdUtlWW1ndGZ2X2NqZXFGNDR3eEhEdHdwU2RJRzNxSHdpTFpxejV3UXdBQnFaelRVWW85Wm1tVl9WaS11ODdMcEVfVGNaMVVDNWhmcDVmZHNGY2x3M0JtcjJKaGpEUFZTQWk5eElNUFIxR1REbExoSDRZMTlFMWVRV0VCM3RjS3hKZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T06:46:36+00:00"
-    },
-    {
-      "text": "Congo's Ebola outbreak surpasses 4,000 cases - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVhWeWRET1VjWk10bkh2aUxENXFrN1lzcWFYQmFBeGZ0aGYwV2FGbzB4N1lEbGswZkNFcVk1bnNFeVpDV0gwWVdBRE9LUlk5SjMxdHd5SjFhNzctN192Z3JOSkhDWExxTVRtSldEY1V0RkxSLUNqSzg3UXg0MlFlaWZFckxlOEJTWGRoNEpoZDFvRzNjOFhVY195SHNuY2FRZkY2SWx0ZjJWT0t0MlVfdzZzUV9UWGxOTDdJOW9rU0lUZkhRd1NNNzBKWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T05:33:00+00:00"
-    },
-    {
-      "text": "McConnell discharged from rehab center, will continue recovery at home - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnI4OVBnUTVDVXR0VmxDWnZfdFdLTHE2c0lYX2VHX2RxaUdzMVE3X2dfcTFCVklLS25OVUYzdUtFcVVlX3hlVHRhQWpSWHR5VXFyM3I3TDRPMDB4S0NyTkdxTjR0cF9ON1Izcl9CaTZ6c3dqZDRhWmMwYWNvQ0x3b1RwSFdLbXBuMlM0SUppUnc1N3Z5VUZ2UDY5VmdYeGRQcTdXalo4TTBTZVI5Vk1RZG9xRG0wc28?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T04:50:26+00:00"
-    },
-    {
-      "text": "Anti-Muslim US Congressman Andy Ogles loses Republican primary - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdEYyc1JobzJtbEp3cHJaWlloWHgwVHp4OXFfSW1HOWFQTUw0LVFrZzNwTTZMTm05d1FvSzhHelRvNGRCSEx6cTlyUnhuY0pRLU5EWlNwaUdMdXgwdXRvVDlWd19qS1JCTDF5WDVTenhxZHdhVmVuNnc3SGtLUmtUemV5V1lyT181TXJBeXA4NVFSN2t5TnV1TFQzRlluekZEUTU0QkZrTFnSAa4BQVVfeXFMT2VRaVJNNTdYbTlaRnZ4OEZxSktvTUp5Ty1TczVDa2p6UUp4aVpMNnRmZlFtTzROeWk1Tm1WSWUxYmdUcm1peDd1MmFXQ2tlT2NDdWFleElkemJqdnQySUY5cUI5cERndU1PU016NEltRTBFRXZxQnE4TUN0MHEwa29FNFl6UHI3ZmZBVDFHYmNYZVo4MENaWktUMUo5blBCdDM0U3BfS2lOTl9XOFpB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T04:14:24+00:00"
+      "time": "2026-08-07T09:49:53+00:00"
     }
   ]
 }
