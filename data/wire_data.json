@@ -1,72 +1,90 @@
 {
-  "generated_at": "2026-08-08T19:09:36.880262+00:00",
+  "generated_at": "2026-08-08T20:53:40.428481+00:00",
   "lead": {
-    "text": "Live updates: Senate hits recess button; Iran signals Hormuz deal close but demands remain",
-    "url": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/",
-    "source": "The Hill",
+    "text": "Paris tells e-scooter riders to wear safety gear or face fines",
+    "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-08T19:07:56+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-08T20:18:28+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T19:04:40+00:00"
-    },
-    {
-      "text": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-08T19:00:22+00:00"
-    },
-    {
-      "text": "Vance warns US still ‘in the middle of the game’ with Iran despite talks",
-      "url": "https://thehill.com/homenews/administration/6018727-vance-iran-negotiation-progress/",
+      "text": "Acting ICE chief knocks AP for ‘misleading’ report on body cam policy",
+      "url": "https://thehill.com/homenews/administration/6018782-ice-chief-david-venturella-ap-bodycam/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-08T18:51:37+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-08T20:14:14+00:00"
+    },
     {
-      "text": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "text": "Senate Bows to Reality, Leaving Trump’s Voting Bill Undone",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T18:17:02+00:00"
+      "time": "2026-08-08T20:12:51+00:00"
     },
     {
-      "text": "'My Ray of Light': Madonna remembers acclaimed producer William Orbit - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NNl90MmEwWjdxM3ZTMG1DM016bGdHWDh1LXhyTVBZQ043VnFpV2g2T0NkYllQaHBTMzdlbTdTMmJYa18tdkFsZUhMcElYZFRNTERHYUd3SFM2dw?oc=5",
+      "text": "4 major celestial events to dominate the night sky next week - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbV9UZlBzM0ZJQi1leWxyWUVUcnFCUVd4MFpMRE93TEUta1V4Vjkwb0F5dVBCRmpMLUI1VHphV2RpUWRzUW91TDFuYjJpbm8ta3RndDNWNFh1WkRWTEpaSktGc3FXbktMTUFtUHFDN3hLTDBJRGMzcUMzZE5SdV9TcTJLdlZUYWJQNUw2aGJBY1R1QmlHVFZzUDRfT2RlVTNN0gGmAUFVX3lxTE1RX0I2UHd0aGRLOHZUVzlOSktrRkRudXBCaF9iS0pzUHkyaFVVUlRtOTRaeTNNcXRPSXV0c24wWFhhWkFtdzJrYTZzQXBZa1RjdEZ3Q3Y4U3NxSWZESXlYdXFWWlZCWklaZlQxeHZLc1VhbnA4TUxLNU5Bb3NGZk1tWjZBMHNRamp4NEw4OWprVHNFQlhSbUJTYjZSUnRlSnY5SmYxakE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T17:23:31+00:00"
+      "time": "2026-08-08T20:11:02+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "SpaceX West Coast launch surge continues with Starlink mission - Spaceflight Now",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU1DVjRzOUFZSXl4UlZkVU53V2NIN1g1bGxJaGk1ZHVpYXlzUVlWYlNmREN2YWtLWkgxY2NpRzlxZjZGNnZmaTJnRE05SktRSVQ2TVZxbGpJS0thUlBvWTMtTmhVb05CRGVhdWtOMlNOd3pmZnhTRVJkS3ppY3JRVHpTMl9ZZS1UbmpGVmI3SU81aW5Id2I3VEN6cWFpYnRQb0o0TmZCTnU4NWtKV0QycWwwMmpBQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T20:00:48+00:00"
     },
     {
-      "text": "In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Drew Brees’ Hall of Fame speech focused on Sean Payton, city of New Orleans - nbcsports.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGw0N1l6eHFwaDd0ZEpFVXNrN2FQSl9FeG9kWnJZTXhnUTQ3X3VYb3BwUWZaMFpvVE11d3doVFNBME9lOEwxNmxsaUY1bFZVci1YaERoT2kxN1VWZllFSU1xVXBxWDE3VzJ0MnkxODZrZDFUeVp2WHdQRHZtUVYzMnNrZS1TRUU0VWhwclViLThFeHdINlZ3WXJ2NFBsSDhudnhHa0hFQ0hSMC1JSkpXV3loRWpRMkN5UFctYUY1UVBKdkZiUXNvVkxrMmFJSzh1?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T16:28:57+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T19:05:25+00:00"
+    },
+    {
+      "text": "Pro Football Hall of Fame 2026 induction ceremony live updates: Five retired stars receive highest honor - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVMwVmo2TXpGU1VZd05FblRuMmxJQzRTVGhkRndGR3NCSl9RMXczWlFQMk1SV1RMOF9xRUxiX3N0WW9iWTdQSGJNS3p4cnI1MjRYdjV5ZlFXM2Q2MVd0X0lrbVpLZkQtWFliV2ZqN2lvUWg3QWhUWFVCdEkyczZTVjlFazdjLUExYU1iWWlrNm9zM0V0TEpiU01DYi1ETC1JX1J1TGFfclZ1UnkzMTBwblJtaw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T18:56:00+00:00"
+    },
+    {
+      "text": "Why you should buy iPhone 17 Pro now instead of waiting - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rUEowY216cmNuZTFzT3M1SGdqRkZYUENqcFhZdC1JbFdxTnYtaXVhQkpsVllreGlRXzBDQXBZUWhjNTU0VkdKVnU2aFQzSlU0V3FMajhXY3VGakhaM3lWZ00wS0ZaRzhBZ28zcUY4T2JzaVZN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T18:13:00+00:00"
+    },
+    {
+      "text": "The sneaky kind of cholesterol that may be threatening your heart health - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakZTV1F1aktpRXZHUkEwYnh1ZnZtMVgxdDRMRnJ1azZ4M1VCTi1wajk3SVJUUHNNckdwaDZpU2tWZ0YybE5RZk1iaVNQQ0wxSjJwS1lXMTI5WjU4V0g2YjNQQl82c0REb3V4UlZIY25SRGJjeklQa2ZXRjJjU2VUbnlib0FROTBpMGNOcTNaTEEzZWpGLUluZy1oMUhLblRpd01TWTBpZlFZV0czeEJycw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T17:00:01+00:00"
     },
     {
       "text": "One Casualty of Taiwan’s War Drills: A Slower Internet - WSJ",
@@ -75,36 +93,36 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T16:00:00+00:00"
-    },
-    {
-      "text": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T15:22:02+00:00"
-    },
-    {
-      "text": "Google’s Pixel Watch 5 takes notes from the Fitbit Air in latest leak - 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0tjTDRlbm9IMFZHNGdOR2hUNWhYOGJ0SnZNdk1MYTllbGh5S0NTSUxGRVZzUU91UC1HR0o5cWs2Z055WmQ4N09jUmxabVJaMWFCZnNaVDNPYnI2RDMtSUhWNmdEVEMyWEVodXpvSUZqOVZhbFlOdE8tNExrNzRER2ZLZ2lybFllWFlTNjctRXp4czlnNHRGQV8tMW9zUUs2b1BHZDhR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T14:45:00+00:00"
+      "time": "2026-08-08T16:00:51+00:00"
     }
   ],
   "col2": [
     {
-      "text": "US offers $1bn to Colombia on new right-wing president's first day of office - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rYzgzeDU3YTJoVHRLOGpuZUtnZ1dvN3BLV3BLUmI3bmJsZWIyM1J5eGdfcUJYVmwyTGVRcGpXZmg5cG5abWJhZlpOTURqRXJMb0cxSXpGanNyZw?oc=5",
+      "text": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T19:56:38+00:00"
+    },
+    {
+      "text": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T19:04:41+00:00"
+    },
+    {
+      "text": "New Hall of Famer Roger Craig reveals dementia diagnosis - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaC1WQlBSVXVzUThseXpXMFU3ZDNRYnZvcUdNVzJUSHhGbHRULWNhNnR4WEtQa3Z2Mk52VDhCeEhWNEdXMWtWT203cjc1NXdsY3pDdUxfcXotR2JpRFBVZmF4ODVfY09rU2J2Wi1kQlF5N3AxUEtqdGNKbnU5V3ZUM3VFVlBET2hxOGlYSHE4RFFEUUowVHB3OEJzcl9XaUU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T17:58:42+00:00"
+      "time": "2026-08-08T18:40:00+00:00"
     },
     {
       "text": "Outbreak of Vibrio Vulnificus, a Flesh-Eating Bacteria, Kills 5 in Louisiana - The New York Times",
@@ -116,69 +134,13 @@
       "time": "2026-08-08T17:16:43+00:00"
     },
     {
-      "text": "Pirro, Trump’s longtime champion, is on the outs over Reflecting Pool move - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0F0TUV3RlpITW4wUXA5OXJOMGtsVE54VHlQZWZhN1FuMTk0R2dSRlFBeHFrdExpUDd4b20xNFZkcVBHMDIwLU5WVnpQNzU5SjZJWDBwbXpOSVlKa19XdEhhT0RBRmxPMjJYdDdudzlqOVk0Wkk0cUgwR2FiNUtPanVRb3ZZdjNTR0xpQXdlNUVrM1Bpakt6RWVKQVJRbjliOFBZOHNjUXZWRXYzcnhKUU01dHdyb2VXeEQ5eXJyaXM3OWM?oc=5",
+      "text": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T16:17:53+00:00"
-    },
-    {
-      "text": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYVFp1enFwWWNaVnNtQi1PYlRBalNPYVhkN3NERDhCTHRiRnpoS19fTWpxZjBWVEQ1eU1MYlFmZjdUSFUzX2dmVmp5SDlxVlhJVDEzbVJJN2JpZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T15:56:39+00:00"
-    },
-    {
-      "text": "2026 Pro Football Hall of Fame ceremony: Where to watch, TV, live stream - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmgxQlpkdFRuemlDdVFCRTljMnlsUGQ4OGVHSDhCWHBOa1llLXZxQUhlMVlIR2RER25NU0ZaYzhtbGhkMzkxcmZscjIzMjVQRVI4b2FlaExoeHF5Z2dNY2JaRUlhb0d6R1ZzSXkwYi14algwdTM0Y05scE1sVkZyWmp5ZFhoRWZONEV5U09uc2JBM1Zya0hFd2ExSVdJTlJhV3I0TFRHcVM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T14:58:00+00:00"
-    },
-    {
-      "text": "2 drones spotted flying over German military base after drone with explosives found at cargo airport - AP News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMmlaYU5Yc2ZlZTBMd2ctX0lFdDlMTWpQMHJvdlNIT3lKVWkyWGZfeWljUm5CeElsRElBMG1uZ05wTGlZTHY2ajVhUWVmSk9WOUVQalhlR2tjcy02ZUVqVFNGSU1TS1NMcUEwR21nY3JSRC1pbG9mQ2pDN2U4REU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T14:37:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’ - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBGTGxPR3NET1lCbk9abm9fMzBjV3J0UmtUQl8zZ1JsNm96WWQ5X21sS1djVmstVmtqR3ZIZ2NXZ2ptemNORWl3dnJJeWdQdFJ6N3R0Z2NzaWx1dkhkVEpaTmwta01ycWpSa29iVnVxT0ZDclJtRWNpM3BBQkpNdl8yWnNYVjFfaEZJakktQW8zTnJ5aFlJQUdERy1vMTJzcDZQaWluVdIBrAFBVV95cUxPaFoxVUgyVkJyTVZkcWtFcGQxV1pCb01zM3N5a0Q4d093cjNyM21lUVJKQnRPbzdGbDNmaVlucjI2aEtPNU9MWFFxMU9CZDBSLTlyNzhCNE1kdkhYMUNoajYtMEdoMUJsUGlPcms2UVRpenJpSEdjRmxHSG9QOFJQWXN5YV91MGJROUN2eHFLSlZQM2RSaGhzMlVmby01bmk3dzdxU3ZzOHAxOWVC?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T17:25:25+00:00"
-    },
-    {
-      "text": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T16:59:56+00:00"
-    },
-    {
-      "text": "Blake Lively shares rare glimpse of family life with Ryan Reynolds, their 4 kids during NYC soccer match - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaUNkamFFYU9PaHB2TDJocndQMUtSa01MSWxld1liN2lNVGwwSzZXRDVYNG1vM3FadlV3N2d2YlF3cXRUN0t0eDVXWUQ4Nm1xMVNfS3hVTXUzU0R3OTBRejZzZWxiaUstTXhFc25DdTBTQ0VvZWkwd25QLV9laVFYdkdFbDlUUkNFNHJQZVpLV21tRmV6TkN3VFI1dUZaTnpxM2xCeVltVXhiSUdoeXVkdkk2SmNlXzB3OWFjcV9fMG5EX0pPNkRmVW5QeGlzeHhqMXhkS0FyYw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T16:04:00+00:00"
+      "time": "2026-08-08T16:45:44+00:00"
     },
     {
       "text": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday - Variety",
@@ -188,24 +150,62 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-08T15:50:00+00:00"
-    },
+    }
+  ],
+  "col3": [
     {
-      "text": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
-      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T14:57:24+00:00"
-    },
-    {
-      "text": "New affidavit reveals possible motive after 17-year-old accused of killing 2 men in DeLand - WESH",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXJfeTE0XzFMQ1REeUEyU0lPWlFmTC1qeHNkOTlYeDJLazJHbFduZTlVVUJIbGd3MDlSMFM0RXA1QmZWTUVWNnFNUXpNTFFkS1NqMHpyWDE5cVpHZWhWVkc1ZGp2cU05YXlhajZRLTRRTE9oZFc4a0tkUTdNdWEwRkxIemhOaUVPbGd4V3ZCYw?oc=5",
+      "text": "John Goodman runs into famous fan ahead of big-screen comeback - Entertainment Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3ZjeVFkLUNJRVlrY2V6bEsyX2dPRC0yX2pBY19VWVR6ZDZDZEt3S2dPRWI4b2dFeHJLeF8xZ1p0VmFMb3VfbXlnanZ2QmpSekQ3S0dHbDhHTFdHMWlVRnhDbldnRmdmd0xDVHc0amNUQ3JXYUY4VE9CRE9hb01IeGlWV3hoaEdic0E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T14:26:00+00:00"
+      "time": "2026-08-08T19:09:10+00:00"
+    },
+    {
+      "text": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDI5dEtOWXVGUXBXR3Z1LXpJQy0tcWJuX1RyZ3ZwMXB0MjdfUDBlamplVDJOMGhHVTdzMFd4bkxreDV4MnJCZllaNWJod0VER05lRGFKZ1A3NEFMcFF4dnNqNmpBbzI1SlFDNnVUX2Q5R2FpT3dYbEd2MUxVZGtZRGJ2eXo4MmZwdFU2VDNWeDRFYU5hbTVsRTRxbGdwZ25FZTBPTDFzTXF1Rk3SAbABQVVfeXFMT3lKZTktd3VXd2hTVkdxLWI4T0Jkanl1cXc3UU4zUDd5ZW5VQUJGMzNTd3REMng1Y1lnam81MGxUVFl2LVlJa0p5UW54SVZLRGJWYWl2V3UzX0N5VjJrMTFORU5HbUhsemNZdHBZZjkxUDZpX0VJNExaZWZmZ3JSZFowZHZFV1hBQlEyOGlBZVhWR0dNR1FIcDlIcVNMUG04VkpYMk5Qd1NGTGpsODBDS0s?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T18:58:53+00:00"
+    },
+    {
+      "text": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T18:17:02+00:00"
+    },
+    {
+      "text": "Pirro, Trump’s longtime champion, is on the outs over Reflecting Pool move - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0F0TUV3RlpITW4wUXA5OXJOMGtsVE54VHlQZWZhN1FuMTk0R2dSRlFBeHFrdExpUDd4b20xNFZkcVBHMDIwLU5WVnpQNzU5SjZJWDBwbXpOSVlKa19XdEhhT0RBRmxPMjJYdDdudzlqOVk0Wkk0cUgwR2FiNUtPanVRb3ZZdjNTR0xpQXdlNUVrM1Bpakt6RWVKQVJRbjliOFBZOHNjUXZWRXYzcnhKUU01dHdyb2VXeEQ5eXJyaXM3OWM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T17:00:01+00:00"
+    },
+    {
+      "text": "In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T16:28:57+00:00"
+    },
+    {
+      "text": "How ‘Spider-Man: Brand New Day’s’ Climactic Fight Scene Secretly Evokes Jean Grey’s Phoenix - Variety",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUhscXBXTzEzWk9EVWtlMlo1V2xqSm9JMGFTRlB4NjdHME52Ml9KbGJtZkJ1VDBIaG1TcEVoWnpKckhibjBPNGZiRVpVMU1mSXV5TGViaDFQQms5SUpfX0x0WDAydVV2TXloajV6TnktOGdPenpkeGRJNzV2Z3BNVklCV2ltVUJ1QVk2bWZQS2J3ZnZYUjNpV1FOaGZGMElFNk9HUk1Zd08?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T15:30:00+00:00"
     }
   ]
 }
