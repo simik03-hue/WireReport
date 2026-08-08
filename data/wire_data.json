@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-08-08T04:32:14.675166+00:00",
+  "generated_at": "2026-08-08T07:36:43.985203+00:00",
   "lead": {
-    "text": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
-    "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+    "text": "Reading Scores Drop for N.Y.C. Students Amid Revamp of Literacy Program",
+    "url": "https://www.nytimes.com/2026/08/07/nyregion/nyc-student-reading-scores-drop.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-08T04:01:50+00:00",
+    "time": "2026-08-08T07:04:56+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Student kills at least 7 people at a high school and a home outside Bangkok, officials say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T06:45:00+00:00"
+    },
+    {
+      "text": "Child among three killed in Russian missile attacks near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-08T06:12:56+00:00"
+    },
+    {
+      "text": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+      "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-08T05:21:12+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
       "url": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
@@ -19,7 +48,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T04:01:39+00:00"
+      "time": "2026-08-08T05:21:06+00:00"
     },
     {
       "text": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
@@ -31,6 +60,53 @@
       "time": "2026-08-08T04:01:31+00:00"
     },
     {
+      "text": "Senate eyes the exit after GOP-Trump deal - Live Updates - politico.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEZieEtDMzlDbmNCWUFXa2dfQmxXaEJKRmNpNl93V2JOblA2UmRZa1lIZTNHWXl2bmpjMjJydW5SMU9UckhnMnFVdU5vVThFeWJpVWloTVY5YXVBcU1XUDQ4TnZRS09qY0pWNzZkTmloaWo1Ql91XzNZTEt6Sk1lTVhUazNmRGVBU3hTVlNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T03:53:43+00:00"
+    },
+    {
+      "text": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’ - politico.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUMyWkc4S3RuYmwzeVZmYzBSSDFSZ1QwSGdUdjY1S0RTVDVmVTk1czRGV2VYdEFqckZ6QXgza1NZdU1oVm5oWGpNN09tV2RNSkdIaTdBM2J5dy0zUl9ub0V2UEk5WlY3N3MxVFN2Q1pDcGFjQlpqdHRjRVpqY2loR2pqcjVobmQ0dS1naDI1YUhoRUUxM0E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T02:10:00+00:00"
+    },
+    {
+      "text": "New York City Hall Dismisses Haitian Workers After Loss of Protected Status",
+      "url": "https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T01:33:56+00:00"
+    },
+    {
+      "text": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
+      "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T00:50:19+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T04:33:00+00:00"
+    },
+    {
       "text": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
       "url": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
       "source": "NYT",
@@ -38,9 +114,7 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-08T04:01:17+00:00"
-    }
-  ],
-  "col1": [
+    },
     {
       "text": "Cassidy backs Blanche for attorney general, appearing to clear way for confirmation - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3VhXzB1WWt6V01LY2xSdllURVBSeUFDZ1ZRck1PWURsSTRZVTJYUnVKcl9qSmExY3c5UzAyM2laNno0Ml83VEhlcVBDR0FIaDBPUFc0eEd1U0hXdnZIejUyU3hzNEZZTWdmRGVjUWUyeTQ1WEFNUVpsM1R4ZHJ1YmlRS01VbkJrOVZhX2RVcE1aLVQwdkpRaWl3MW9DRjNqUjFMVUxUcnBCd204dUhaSXF2YTlXOWNoM05TWg?oc=5",
@@ -60,13 +134,33 @@
       "time": "2026-08-08T01:47:00+00:00"
     },
     {
-      "text": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
+      "text": "What could the Mecca defence pact mean for the US role in the Middle East? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlNPeVhxVy15TERxU2RmdmJLekxwVnBKamxndFg4aXdKTEd5dlpRajhpQWZWa1ZjdFNfTHl0TFJJLW9NLWtUbGtqRldqQkZaY2YzUDljbm9DT3loeFdEM1hJOTgzX3B6a19FMXN1Q0EyTjdUUHQxb2ZmMWZkcW1Wc0Nib1Y0NllaMUR6MkZSSG5qbGphenl1N0RVUHN2U1lVX08zOTZOR2dITm9kZGpMRlU2VdIBuAFBVV95cUxOUXc0eU53M1JGNmVicS1ZUzdYaGlzS3RieFRkMktqTEtnT3VUa0hMaGdVY0VEUU9ad09nWWYtQmNkZEliekZhMUZxa2JhODFaZlQ0WXZnRUhRV1RNRFM3RHN4TEk0Xy0zMmVsb25RUUU4dGFMeEtldmtTX3NXLTczWFdLdXc1Zk9sYWhDbm1WVlpGWW9ESjdNTHRwbEFlNWluUmt1RENlMU5IbzVrY3RNZzI0YU56dHJ2?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T01:31:35+00:00"
+    },
+    {
+      "text": "Coroner: Brandon Clarke Died Of Accidental Overdose - hoopsrumors.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmpKRTVlaEFxbGVGaHpmbjRTSVBnbWVHUmU2SEJBWUphczZOME8tSmJwVUxsbHVUNW1WLTZuRXFZWlBRM2pwbDVFYWQ2Z1VOTEpVNVFsM0VWa0ZhakpUM19vOC1aWDlvN3JtdGdpVktHSDE5UkRZSC1sX2hlbFBaZGJzN1A1MHBJaG9SMmNUMjVOaDRuU2c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T00:24:01+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+      "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T01:06:56+00:00"
+      "time": "2026-08-08T04:01:50+00:00"
     },
     {
       "text": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown - Al Jazeera",
@@ -75,28 +169,8 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T00:40:22+00:00"
+      "time": "2026-08-08T04:00:04+00:00"
     },
-    {
-      "text": "Reading Scores Drop for N.Y.C. Students Amid Revamp of Literacy Program",
-      "url": "https://www.nytimes.com/2026/08/07/nyregion/nyc-student-reading-scores-drop.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-07T23:54:22+00:00"
-    },
-    {
-      "text": "Mamdani Faces Lawsuit Over Rollout of Second-Home Tax",
-      "url": "https://www.nytimes.com/2026/08/07/nyregion/mamdani-lawsuit-home-tax-pied-a-terre.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-07T23:02:19+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "Can Netflix Save a Summer Slump With a Stunt on Sunset Boulevard?",
       "url": "https://www.nytimes.com/2026/08/07/business/media/netflix-billboard-marketing-strategy.html",
@@ -107,22 +181,22 @@
       "time": "2026-08-08T02:56:32+00:00"
     },
     {
-      "text": "New York City Hall Dismisses Haitian Workers After Loss of Protected Status",
-      "url": "https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T01:33:56+00:00"
-    },
-    {
-      "text": "Trump says agreement with Iran to reopen Strait of Hormuz ‘could be soon’ - foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVpFZkU5VW1nOG03enRqc3FQYUoyOC1Bd2FveG92VlAwYW1oSmY5VWFVbDZiSGpOczJsRmw4a2xWQ1A2ejVGaXJWcEJLMWt4WklZLTlCTlo1ejZ0TG41NnVTaFZpWTBER0xETU9LNTExQ1JaWlNSakl1UjV0NUkzdk9VQnZnQQ?oc=5",
+      "text": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup - variety.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjFwaF9Ebmk3Szktb0o5c3Y2YTRPZTBFcWdobEI4clh4ZGRkRFFCLWt5V1c3T0ZoZVdhNnpLQXF4cDlBbngxdmdLN3NHWW9KY0pXaUVpTThwQTBfVndPT1M3aFhuM1RsaW1uRERoc2JRUXBIXzFjbGV3bzBpbnk1MVF3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T01:05:35+00:00"
+      "time": "2026-08-08T01:35:00+00:00"
+    },
+    {
+      "text": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T01:06:56+00:00"
     },
     {
       "text": "A Spurned Schumer Reaches Out to the Left",
@@ -132,80 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-08T00:04:56+00:00"
-    },
-    {
-      "text": "Max Miller Continues to Resist Pressure to Drop Out as Deadline Looms",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/max-miller-gop.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-07T23:19:26+00:00"
-    },
-    {
-      "text": "‘Spider-Man: Brand New Day’ Eyes Third-Best U.S. 2nd Weekend With $135M-$140M+ – Box Office Update - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHhQUHpLbU1mNHpSRWl3V0xyenloQzdMaXp0b254S3NNRkItTVBxUEprdlFHMWRFQXhpWVJkNmVsYzcyU2MtWElMWXVMVnNidGpVY0RYQ2JIVHFENTFPYnA1WjE2M2o1eFdPbGphYVhrRWdFc2l6b09hc2U2Mjg1RVJ4WHlvSEVEamRaUmJoOWNBWWwwRkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T22:46:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’ - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUMyWkc4S3RuYmwzeVZmYzBSSDFSZ1QwSGdUdjY1S0RTVDVmVTk1czRGV2VYdEFqckZ6QXgza1NZdU1oVm5oWGpNN09tV2RNSkdIaTdBM2J5dy0zUl9ub0V2UEk5WlY3N3MxVFN2Q1pDcGFjQlpqdHRjRVpqY2loR2pqcjVobmQ0dS1naDI1YUhoRUUxM0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T02:10:00+00:00"
-    },
-    {
-      "text": "What could the Mecca defence pact mean for the US role in the Middle East? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlNPeVhxVy15TERxU2RmdmJLekxwVnBKamxndFg4aXdKTEd5dlpRajhpQWZWa1ZjdFNfTHl0TFJJLW9NLWtUbGtqRldqQkZaY2YzUDljbm9DT3loeFdEM1hJOTgzX3B6a19FMXN1Q0EyTjdUUHQxb2ZmMWZkcW1Wc0Nib1Y0NllaMUR6MkZSSG5qbGphenl1N0RVUHN2U1lVX08zOTZOR2dITm9kZGpMRlU2VdIBuAFBVV95cUxOUXc0eU53M1JGNmVicS1ZUzdYaGlzS3RieFRkMktqTEtnT3VUa0hMaGdVY0VEUU9ad09nWWYtQmNkZEliekZhMUZxa2JhODFaZlQ0WXZnRUhRV1RNRFM3RHN4TEk0Xy0zMmVsb25RUUU4dGFMeEtldmtTX3NXLTczWFdLdXc1Zk9sYWhDbm1WVlpGWW9ESjdNTHRwbEFlNWluUmt1RENlMU5IbzVrY3RNZzI0YU56dHJ2?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T01:31:35+00:00"
-    },
-    {
-      "text": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
-      "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T00:50:19+00:00"
-    },
-    {
-      "text": "Appeals court rules Trump can’t build White House ballroom without congressional approval - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T00:02:00+00:00"
-    },
-    {
-      "text": "U.S. intelligence agencies warn Putin could test NATO by authorizing provocative actions - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHpoTHhYa203RV9tLUFCb3RXYS1SNzY0Z25WclU1YmZFY2E4YVNNaDZKQUFpbHVVZzhwVVhEYzFRNGJMbGl1cm0ySHVERnlxMU1valNCZE5BWjZ1c3RqX3RzZ1kzR0N6MEQzUXNDVzdTbU5UVGdkSTR0RTUyUnFFcFVQOVI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T23:05:00+00:00"
-    },
-    {
-      "text": "Judge orders Virginia county to replace Confederate names it restored to schools in 2024 - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRlVEdEV5OUpFQXRCNVlBSmNmY1BDc1RCRXExb0Y4Nk1Za0RnZV9UVWc3Wkw5RGhkb1V0bE5DQW9GOUg4Uy03TmZ0REx1MUQ3WmlWdGtBbV81RzlPUmdLaFQwaHFPcGdaSERfOFZ2cDR6eWJaNDQwMGFkWXprTnZ2dXRYbVpXOWkycnJnT0hMUmNnQ2xoaDNRWDBwUTBTLTFyOFlMV2RBMTlvbWI0cUx1d0VXU21JR0R0c3lnMWstcF94UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-07T22:45:30+00:00"
     }
   ]
 }
