@@ -1,110 +1,81 @@
 {
-  "generated_at": "2026-08-08T07:36:43.985203+00:00",
+  "generated_at": "2026-08-08T09:57:08.761639+00:00",
   "lead": {
-    "text": "Reading Scores Drop for N.Y.C. Students Amid Revamp of Literacy Program",
-    "url": "https://www.nytimes.com/2026/08/07/nyregion/nyc-student-reading-scores-drop.html",
+    "text": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
+    "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-08T07:04:56+00:00",
+    "time": "2026-08-08T09:38:06+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Student kills at least 7 people at a high school and a home outside Bangkok, officials say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T06:45:00+00:00"
-    },
-    {
-      "text": "Child among three killed in Russian missile attacks near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
+      "url": "https://thehill.com/homenews/senate/6018324-senate-adjourns-funding-blanche-budget-save-america/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-08T06:12:56+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-08T09:00:31+00:00"
     },
     {
-      "text": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
-      "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+      "text": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-08-08T09:00:00+00:00"
+    },
+    {
+      "text": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+      "url": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-08T05:21:12+00:00"
+      "time": "2026-08-08T08:48:40+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
-      "url": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T05:21:06+00:00"
-    },
-    {
-      "text": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
-      "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T04:01:31+00:00"
-    },
-    {
-      "text": "Senate eyes the exit after GOP-Trump deal - Live Updates - politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEZieEtDMzlDbmNCWUFXa2dfQmxXaEJKRmNpNl93V2JOblA2UmRZa1lIZTNHWXl2bmpjMjJydW5SMU9UckhnMnFVdU5vVThFeWJpVWloTVY5YXVBcU1XUDQ4TnZRS09qY0pWNzZkTmloaWo1Ql91XzNZTEt6Sk1lTVhUazNmRGVBU3hTVlNB?oc=5",
+      "text": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUVXaVpmeE9NWWMyRldDZzJucnRjREZvaXZacWtxb3dxN2k5Z1lfdWI5QXJudlhhQS1xQ09Qb0plTkNqNnJPcGFtU3dXUjg0c2xOUmpxc296am9fZ2phcV9OSjczMVV1TjRuS2FPTFNEOExTcU1HbTZzbU9FMUxqMDNkNEppMnVqdU05cnEwY2lvdkU0cjEyUXZZVm1PdEtIdGNnb0F1R1ZOaWxfODd2b1BGOUFHOEtFSUg5V0dESGlwQjRv?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T03:53:43+00:00"
+      "time": "2026-08-08T08:33:00+00:00"
     },
     {
-      "text": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’ - politico.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUMyWkc4S3RuYmwzeVZmYzBSSDFSZ1QwSGdUdjY1S0RTVDVmVTk1czRGV2VYdEFqckZ6QXgza1NZdU1oVm5oWGpNN09tV2RNSkdIaTdBM2J5dy0zUl9ub0V2UEk5WlY3N3MxVFN2Q1pDcGFjQlpqdHRjRVpqY2loR2pqcjVobmQ0dS1naDI1YUhoRUUxM0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T02:10:00+00:00"
-    },
-    {
-      "text": "New York City Hall Dismisses Haitian Workers After Loss of Protected Status",
-      "url": "https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html",
+      "text": "Reading Scores Drop for N.Y.C. Students Amid Revamp of Literacy Program",
+      "url": "https://www.nytimes.com/2026/08/07/nyregion/nyc-student-reading-scores-drop.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T01:33:56+00:00"
+      "time": "2026-08-08T07:04:56+00:00"
     },
     {
-      "text": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
-      "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T00:50:19+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5",
+      "text": "Horoscope for Saturday, August 08, 2026 - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVc2RC0tdXhhZzdsVzlDTklxQkFLdld2WUxoLV83eUpqQ3V3Y3NCS2N3djl3bmpselJoWUQ2RTNsN1NQYUJhamw0Rm1BYmExbTdyRnl5M0NnQjdwV1MzcURycWtJWmJpYjMwU1FtcTBRN3JKNzFlY0dXZzh6aXhja05nbDJSbXNJN3Nkd3BkQUZ4bUFOekE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T04:33:00+00:00"
+      "time": "2026-08-08T05:01:00+00:00"
+    },
+    {
+      "text": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFhQRTZQRThHZlhpTGJwRE5Db3pueVV5U2F1VEs2MU1VQkRKcGljT0JkMndGNk1HN1ZwU3NRaFRCSFRTTHh3LWVHNlk4LU5BRm11ZGhWMTd2Wnd1ei1LZUd2cUdTR0drRmc0NnNET1A4X1VaRTVKNU95VGxWV1QtUEs2amFMZ0NzWFZCRkRoX2tWZnZBVE9QUGR2M1hZUkxxRG01ZUd5cXdrR0FvT1lnM3ZMSEV6QWtNWFY0RjIyV1ppWGN4M011Nlp0Z2R5LWVST0FtWWh0TQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T04:08:00+00:00"
     },
     {
       "text": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
@@ -116,15 +87,6 @@
       "time": "2026-08-08T04:01:17+00:00"
     },
     {
-      "text": "Cassidy backs Blanche for attorney general, appearing to clear way for confirmation - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3VhXzB1WWt6V01LY2xSdllURVBSeUFDZ1ZRck1PWURsSTRZVTJYUnVKcl9qSmExY3c5UzAyM2laNno0Ml83VEhlcVBDR0FIaDBPUFc0eEd1U0hXdnZIejUyU3hzNEZZTWdmRGVjUWUyeTQ1WEFNUVpsM1R4ZHJ1YmlRS01VbkJrOVZhX2RVcE1aLVQwdkpRaWl3MW9DRjNqUjFMVUxUcnBCd204dUhaSXF2YTlXOWNoM05TWg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T03:19:01+00:00"
-    },
-    {
       "text": "Hegseth Strips Security Clearance From Biden’s Air Force Secretary - WSJ",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2otMTJDQmxtdGJwLUFYcHhMejBfaW50b0hRS010SEdqbHZhOWVXRmo1Q0xaa0FISWkzY0NSSlRQVlVtMnM4d1BMMkdQM0IwVUFFTUREQUgtWkNTTzFIX09NaTFFMDR4eXZUWVlhM0xRc0RrZTZPc0phUVlNVEI1dWpRbHl3TDN1SDFvLVNhUVJIdnNLQkQ1N05jMWtqUkVwSGJwRmd3?oc=5",
       "source": "Google News",
@@ -132,27 +94,36 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-08T01:47:00+00:00"
-    },
-    {
-      "text": "What could the Mecca defence pact mean for the US role in the Middle East? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlNPeVhxVy15TERxU2RmdmJLekxwVnBKamxndFg4aXdKTEd5dlpRajhpQWZWa1ZjdFNfTHl0TFJJLW9NLWtUbGtqRldqQkZaY2YzUDljbm9DT3loeFdEM1hJOTgzX3B6a19FMXN1Q0EyTjdUUHQxb2ZmMWZkcW1Wc0Nib1Y0NllaMUR6MkZSSG5qbGphenl1N0RVUHN2U1lVX08zOTZOR2dITm9kZGpMRlU2VdIBuAFBVV95cUxOUXc0eU53M1JGNmVicS1ZUzdYaGlzS3RieFRkMktqTEtnT3VUa0hMaGdVY0VEUU9ad09nWWYtQmNkZEliekZhMUZxa2JhODFaZlQ0WXZnRUhRV1RNRFM3RHN4TEk0Xy0zMmVsb25RUUU4dGFMeEtldmtTX3NXLTczWFdLdXc1Zk9sYWhDbm1WVlpGWW9ESjdNTHRwbEFlNWluUmt1RENlMU5IbzVrY3RNZzI0YU56dHJ2?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T01:31:35+00:00"
-    },
-    {
-      "text": "Coroner: Brandon Clarke Died Of Accidental Overdose - hoopsrumors.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmpKRTVlaEFxbGVGaHpmbjRTSVBnbWVHUmU2SEJBWUphczZOME8tSmJwVUxsbHVUNW1WLTZuRXFZWlBRM2pwbDVFYWQ2Z1VOTEpVNVFsM0VWa0ZhakpUM19vOC1aWDlvN3JtdGdpVktHSDE5UkRZSC1sX2hlbFBaZGJzN1A1MHBJaG9SMmNUMjVOaDRuU2c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T00:24:01+00:00"
     }
   ],
-  "col3": [
+  "col2": [
+    {
+      "text": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T08:04:22+00:00"
+    },
+    {
+      "text": "Nitecore’s latest power bank is the lightest and most compact yet - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVVOa2FNcW5vQVByazBreXIwT1VlaHpsdDFRcWRqV0J1eWxyVjltUjdQRno1MVpZWkF6Y0VUOGFFOVdZVEg5V0ZrSHV4SUdJLVNEOFVKT0JTTGhESHJNcjQ2ek5fMm9rR0ZxZlowazRsSUV6TnltRXF6M0ZPWHNxWVVUdW1qRGo2NHZn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T07:00:00+00:00"
+    },
+    {
+      "text": "Why a prosecution of Anthony Fauci could face challenges in court - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUW1neGNwQmgteHA4aDE3eGxMdUtwTTV6dEJ2SkFEWTE1ODVzVGFpZTBWX1BuSDRoTmhFMU1yeEN1dTFsZjBzUXJGQml3MnJLUkxZV2NCQ1RHMFZFaDczZlRtVlF2TWNHdHZCV2NmXzRVNEpTb3k5QS1RaHpZTmplNndqQ2tpWUxlcG55ekU2b0hocndtTEFYcE50MDhJZWlvWG9wb0pfVGxndUN4SFp3azEzWkNfT3lxYi13bTlhQThNMEJxbkVUY2V3V0s0bEpMeWdBSnEycw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T04:36:46+00:00"
+    },
     {
       "text": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
       "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
@@ -163,13 +134,60 @@
       "time": "2026-08-08T04:01:50+00:00"
     },
     {
-      "text": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQm1DS01Va0pId2VlaTljcTZBQkNKajFTZjRSV3BzRDZ4M2VYX0VXNnhjWFdxb3pDS1Awem9sRmhqSGlpblFGVHBWT2prVjlzSnR2NnA1NzVCRFZPdUQ0ZGZPUVgwV2poMmR1Wm5QVExZRTJ3STMxVUI3dy1uYzA2MFJXbGRGWGdDYlMtREFqVExVNXNaenROcG9vWDd3MGd2WEE1NHpsM2xpQTZ3NDJQN25xOEzSAboBQVVfeXFMUHFkczZZWXJDVjNoRXlKYXRpY0RDdkRMMFZaZ05US3c5ZHliSjhEcDk0dFR4OXh5d3NaNXhEVTNBY0RDSEh6VW5zaXpYWmJWSnV5bUJNNzU1OXF3b1dJZUxtdHNob1RId3BublZJbkhETURqbkxOaWdaMEE4aTlMNENHY2UzM0FGMFlBV0dXX2xFVnVUWS1lZWZqeVNMeHducDY0dnp4ZTE0T29LaG90TmdYR3FsRUoyVmlB?oc=5",
+      "text": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjRFMkl1WHF4eHdvSTEtM2JhalhCS2JrZUx5TTlJZjlQOUhOZ1p4OV9yQ0VmY3pFblpWZjhmWDN6QVU2Tl9XaG1GREMwcWc1UzZ0dmR6aFhLVkFDTGZ6X2RsaVBsT0tYTUk2OHgwR1F5Um8tNEtkcVlsRk9lbWxsUUIwWXNLRWs3U2dDRGFESlVqd9IBlwFBVV95cUxNMi1uLVNzVzJiWkJySG40OFExcjM2bXZsZWhkZVZSeTRlaHpWWU9ZclVZaFJYT3RHUURfQTJGajZvbmx1R2lQNmlyeU9zb3RrcWpYV3JoQkFPeUNNSHFsdXZ2TDB4VEN4N3dXdFNxLW5zdHJzWGp1cExiUE9NQ1JtdGlrVlBJMWdGSXRaOE1ISlZJa1l1TzYw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T04:00:04+00:00"
+      "time": "2026-08-08T03:17:00+00:00"
+    },
+    {
+      "text": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup - Variety",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjFwaF9Ebmk3Szktb0o5c3Y2YTRPZTBFcWdobEI4clh4ZGRkRFFCLWt5V1c3T0ZoZVdhNnpLQXF4cDlBbngxdmdLN3NHWW9KY0pXaUVpTThwQTBfVndPT1M3aFhuM1RsaW1uRERoc2JRUXBIXzFjbGV3bzBpbnk1MVF3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T01:35:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Student kills at least 7 people at a high school and a home outside Bangkok, officials say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2xvZUJwYnNoTkpuRXVMM056cXZBRzFadUIySTRTRFBENlBOa2plYkQ5M0pBZkFOVGdnMk1ieV9qT2hMYlotSk9LQng3UktZTy1nQmJ3b04zVFZPd1FWMkFvbW9TaW5SV29RcVRmVEV6LVFUTzlSd193RDJLN1B6Z2U3b2hvRldZNWU3YkgtM1FMMnp1WWdqTTB0WQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T07:26:00+00:00"
+    },
+    {
+      "text": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
+      "url": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T05:21:06+00:00"
+    },
+    {
+      "text": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T04:33:00+00:00"
+    },
+    {
+      "text": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-08T04:01:31+00:00"
     },
     {
       "text": "Can Netflix Save a Summer Slump With a Stunt on Sunset Boulevard?",
@@ -181,31 +199,13 @@
       "time": "2026-08-08T02:56:32+00:00"
     },
     {
-      "text": "Behind the Scenes of Obama’s Acting Cameo in ‘Life, Larry’: Blaming Larry David for His Tan Suit Debacle, Improvising Lines and Ranting About Ketchup - variety.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjFwaF9Ebmk3Szktb0o5c3Y2YTRPZTBFcWdobEI4clh4ZGRkRFFCLWt5V1c3T0ZoZVdhNnpLQXF4cDlBbngxdmdLN3NHWW9KY0pXaUVpTThwQTBfVndPT1M3aFhuM1RsaW1uRERoc2JRUXBIXzFjbGV3bzBpbnk1MVF3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T01:35:00+00:00"
-    },
-    {
-      "text": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
+      "text": "New York City Hall Dismisses Haitian Workers After Loss of Protected Status",
+      "url": "https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T01:06:56+00:00"
-    },
-    {
-      "text": "A Spurned Schumer Reaches Out to the Left",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T00:04:56+00:00"
+      "time": "2026-08-08T01:33:56+00:00"
     }
   ]
 }
