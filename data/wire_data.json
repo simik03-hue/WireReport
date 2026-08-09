@@ -1,17 +1,138 @@
 {
-  "generated_at": "2026-08-08T23:48:25.724981+00:00",
+  "generated_at": "2026-08-09T04:47:02.054628+00:00",
   "lead": {
-    "text": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
-    "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-08T23:14:00+00:00",
+    "text": "Ukraine-Russia war latest: Zelensky warns North Korea could send up to 50,000 troops to Russia - The Independent",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjFOOF9pZzhYSkw4RV9pdTVBUXAzaFFWTVUtVHdXdWxULXNUczZucGFjSUNMcEZYTTBNTHdMRDZYazdjTGhsYXFfTHZyT1RjczcxN2hOMUZaMmFES3UzandBQVdOOWRkY2cxSmJoMy03SDR4T2VJdDk1dTNfTDNHREs3UWxWWlM4aldIUDl6OVAwUWtDbzE4Znp1T3QyRWY2ejJ3VlB5V1J4aENqQTdMNloyVDk?oc=5",
+    "source": "Google News World",
+    "lean": "unrated",
+    "topic": "world",
+    "sourceNote": "Aggregated Google News World topic feed.",
+    "time": "2026-08-09T04:34:54+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Perez Hilton faces long recovery after self-harm livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-09T04:32:06+00:00"
+    },
+    {
+      "text": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
+      "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-09T04:01:14+00:00"
+    },
+    {
+      "text": "When does daylight saving time end in 2026? As early as possible",
+      "url": "https://thehill.com/policy/energy-environment/6011868-when-does-daylight-saving-time-end-in-2026-as-early-as-possible/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-09T04:00:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFhQRTZQRThHZlhpTGJwRE5Db3pueVV5U2F1VEs2MU1VQkRKcGljT0JkMndGNk1HN1ZwU3NRaFRCSFRTTHh3LWVHNlk4LU5BRm11ZGhWMTd2Wnd1ei1LZUd2cUdTR0drRmc0NnNET1A4X1VaRTVKNU95VGxWV1QtUEs2amFMZ0NzWFZCRkRoX2tWZnZBVE9QUGR2M1hZUkxxRG01ZUd5cXdrR0FvT1lnM3ZMSEV6QWtNWFY0RjIyV1ppWGN4M011Nlp0Z2R5LWVST0FtWWh0TQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-09T03:19:00+00:00"
+    },
+    {
+      "text": "Quillan Salkilld snatches rear-naked choke to finish Mateusz Gamrot in first round in UFC Vegas 120 main event - MMA Fighting",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYUpVUTRtWmwyQnREdEpKeGlMaldLSnRTek5IRU40MVMwMElTaTVWVUo2c2JRQmI1UVZLNHVxR0cxYjl5LV9uNU1WY3pNMm1fSk8weGR1LVJZLWVGaVZQRUQza2hTaWlVUzBIc2NJU3J4V21UXzg5TU9FV3gwYndzYVA0ckJGMC1PWFhUc3YzWHlRTjNza2xRQVIxaGowUEpmVTU0QVp5VU16QUxyemcyQ0VCcEUtRGNDaGFmVmE2dmV4TTBCUC1LWFVkVDRGczJ0YkF6WUxYSmpGbUVpWTU3c3lxcw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-09T02:48:00+00:00"
+    },
+    {
+      "text": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-09T01:34:42+00:00"
+    },
+    {
+      "text": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-09T00:20:55+00:00"
+    },
+    {
+      "text": "Perez Hilton’s Condition “Serious But Stable” Amid Hospitalization, Will Require Surgery - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHBYREljS0gtUjkxYVBlRjM5VFdJSm1SRXU4RnhuWmZwNzFNVVMya0VXVmNQUXlIc1A0ekxDaXlwOGhWN3pDcU85bUxpTFk3QklpNkVBOXdnRG11ejJlanpEVTI5Um1abWRzZUZGUnB3T05pUUhkTFJlVVZhbncyeGZpY3dlZlRWMThSTE9hNHpYZ0dKNExtbE9EVk5DaWdleHZlWGhoSFk3V2piTmlOeW1QaEo4WENI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T22:56:27+00:00"
+    },
+    {
+      "text": "Does the Galaxy Z Fold 8 owe its success to the iPhone Ultra? - PhoneArena",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3FmNEhPVU96MjVtbC05bkZ5R0VaSm9FSWtSblRmbHotUXU2NXR2Z2NsRlIwVG8xTTNnYmo0VmRpRnIxU2lnekc4NUVRVFdUbXZ2VzFqZWpVNF9IQWRzVldNZWthUElJYlJ1UmlBTHlSZkhpNEExR1pWeUZtbllkMWtFVlREM3Q0dHhtR2hoYw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T22:18:32+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Winning Powerball numbers drawn for $863 million jackpot, the largest of the year - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHYwQWpKVXBnc0hVbDBOU2o1UTQ2R3ZMaXZuSGh0WXRfY21EM1MwVC1yLS0xc0VNM1U1bkpJaTJLSWpYMV9FNDlnQkY4VTBQbzl6V2tWaE12NlVoS3lld0VReVY5bVp5Uy1xT3htZkxJeTBkakd3UkVFejZsNWJROWVRUENyQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-09T03:16:34+00:00"
+    },
+    {
+      "text": "Hunter Biden Says His Father’s Cancer Is Worsening",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-09T02:44:42+00:00"
+    },
+    {
+      "text": "Solar eclipse to occur next week. Here is what to know - npr.org",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HV0hSVER2N1c2bjNqTmNyVzlQMG9yMUpSekJsQm9QaHZJZVlxOFhrS2tqWXVEdnBNUXlmTjhyWk4yOTRYYnNOVEZvcG15WXhKb1dJaUNmS0F6ZmdUNWcwYUpSdTQtYjQtREdLeHBBSWJydFpHN3pMZWVR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-09T00:56:21+00:00"
+    },
+    {
+      "text": "Raiders suspend Kirk Cousins and Maxx Crosby from team drills after practice fight - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU21SX0FhODNfQ0VxLWVsaWdVSUFDUDlDUW01TWV3c2ZYeTc5SDI0VFVhNjZ3OXZ0cDhweUhZTXFhQjNqSGxNYXplOTl5ZXk0VWZld2tiaE5VU2l2NkZfM1ZhaDFZWmJ2OGQzR0dxcHdwS2JkUjFwLVlBMHhDN3QxODdROHZjZEVpUTRnbkhNNnoxajVMWUtrLUs5dVI0Yk9VZ1JFQnZobmg1QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-09T00:07:15+00:00"
+    },
     {
       "text": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
@@ -22,89 +143,60 @@
       "time": "2026-08-08T22:54:58+00:00"
     },
     {
-      "text": "Consumer alert: Hannaford recalls deli and produce items over salmonella risk - wmtw.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWE1dWJxb1dnZkl5QlQ0Y1RncHVYZHM5MjEtOUxaSU9RSG9HaVA2UktnYTIyR04wdFQ4NGR0YWdfUTNSaExNLS10bmFiOTdZaTJ0c0VCSjlWdzVaazZIZE1TazJsTXpJVlcwNGZ4X2E3V3dLV0p4ajN4NkVGNTZ4WE5DOTJwMlRzOXRRZ0pzRm5tMHNzc3J3RDI4eE5NR3dtcndoTklRZHBSRjlaTmtoYnQ4U20?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-08-08T22:53:00+00:00"
-    },
-    {
-      "text": "Two Killed in Firefighting Helicopter Crash Near Utah Wildfire - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0xVOHVhNkxVWkYyY2ctd2U0aWxxczZXVVFCNlRHWlU2bnhHZExzMmVYT2VhdElMc2FVSV9xRTlyQmFiUlc1emlmWF82bm5vaHNYc3JwWGFOZVZhQUxGTFVjRG5QUXpLYXY4R2tRRU5sZGRGbGVpcENWSzFJbnlJaXYtanIwUQ?oc=5",
+      "text": "Warren Buffett's successor is finally spending the huge cash pile he built at Berkshire Hathaway - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakVhUExfNTkyZUhWLVkxV3NKMjlXMm5ocVotYXNXaGpNeUpQY1EyQW1Ba1QtQVAxT1RSdEJ1U2ZtNy1VamNpZW1BUzNmOWRWbnkzVmR0U0lMUDNONWdkVWdaREpBN2RvSGFWYUlYdjF1dTg3d0haeUdBcFdyQklUYmR2TnJBbThIQ2FNUEdKMkVobGhpSnNWLTYwYmRXVnNoaVZR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T22:47:04+00:00"
+      "time": "2026-08-08T21:40:00+00:00"
     }
   ],
-  "col1": [
+  "col3": [
     {
-      "text": "Perez Hilton 'Will Require Surgery' After Live Stream Incident - Variety",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWhJQWxiUGlyNWk2WUtMQXlIQVJNajcwNmJzb0Y0am1jNUNpRjVDSHhrSG56c3JPZ3RiZERNN0RqcEFMdHVpc2VPcldRWG5ramFaRWpYaElVQzJ6Y2FBbDJ6dEhLckc3bVoxWUNBdG9DMG5sVThuSUZpWWZUX1NZbWFWOFBCMzNsM3JKWU1rb3BfOUtyRDJPaGhjVUdtVjh2WmZvamJB?oc=5",
+      "text": "Helicopter crash kills pilot and crew member amid Utah wildfire battle - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0dqU1pINDRibDJ1WmpsRDVzRWdLc1Rpbl9laWxQU3Fpd2FhWWNhX1BjbjgwSVFPazBMYXBjcHZrSGlvcFdybFhpaXc1czNjM1IwTmZNeE4wS3ZRRkNrYy16NU1heXZjWXhkQzFBYnlYaEhpOHBpcXFhc3BjUEpyMWxYSDJtanF5T0JraFhaUFhGNkJoUUY5YkJBUkQ0STE1NlJhX2xPbzJhWkZuX0VF0gG0AUFVX3lxTE82LVA0em5fUnNGbXRXRUpJekFJOFZ1Ykp1dHduZnJiSVBWQ2FwUDBRaFpVd2EzdG45NnlTdnpOMm9HbDdQeFZndVdTUm5mRG1kNmpuMGFPQTRTQ2tNOFRhcVpwd3RUd1Y2aEZ4NGE4aXo1NXFmcHl6NWNUd0RaUnZoVHFfZXNEN2VPS0JEMXVCd2NnQjhiTEVxU2F3bmRvRENVM0hyVWFUM1NseE1VNHdXeEh1cA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T22:47:00+00:00"
+      "time": "2026-08-09T03:10:43+00:00"
     },
     {
-      "text": "Hunter Biden Says His Father’s Cancer Is Worsening",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T22:11:30+00:00"
-    },
-    {
-      "text": "El-Sayed faces ‘risky bet’ with Michigan’s Black voters - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNV9ucldnc09mQ0JFNG5uU3NzR0NDMHFMRXNHbXB0aDJIX21YUE1NbFo0ZVFTaGIwOEdmbkxVX2hXdl84U1VxS05kcGsyUkUyaTR6eFotcVZtaVJxYWJrVE80MUJQWEdvb3U5b083TmZBY0E3aG91REVucklVR1VfNnlLUW45VkZKNWEza9IBkgFBVV95cUxOS0NJNXVOMkt5QmFJeFY2OVEzMXY0Z0ItWmlMaEtNbXpwTm5kanZqcUVidEt5SnRKTENLRDZ1LWx4cFRBcjlHOUllNDk0cGhvTEtoZmtOZ2EtTXdYcUs1SXptSGtXcXZOSWZNck1HV2lWSEF4M2tPQ0NGR3NibWtJeDBsdkJ0MkYyclpGZ3Q0aG8ydw?oc=5",
+      "text": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYXVmUnZrUE9mb3VibFV0Y1l2V3B3QzlDV053NzhzYjBUWjNUNjNGUGMxZ093dWlzUXFLUHpSZF9ma1ZHUE5fLWlYdGpYVmdiY1ZHWFE2ZHFTdzRKMXVMc2o2bElFTXNLenVTR3NqX2Q?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T21:00:00+00:00"
+      "time": "2026-08-09T02:01:22+00:00"
     },
     {
-      "text": "Senate Bows to Reality, Leaving Trump’s Voting Bill Undone",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T20:12:51+00:00"
-    },
-    {
-      "text": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T19:56:38+00:00"
-    },
-    {
-      "text": "Louisiana warns against flesh-eating bacteria after five deaths - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWpGajIyMGhwMjJDZGk4cFJOeU9IOHpEak5IVmYzZXFVUm9YLURUMlBqVGFPb1dPb2ducEJ4N3VQVzNBc1dpN3IweERCM1A1MnN4Z19JX0Z5QzlweVUzY3J5aHlvQ3ltT1N0dU9uTWFsejVfZ294Zlo5NHh0bU85TFV4d2JpWGFfNG1ZVjJobGthdw?oc=5",
+      "text": "Sophie Cunningham speaks out against DiJonai Carrington after flagrant foul and 'White privilege' post - foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjh6UGg0c0l2M19WNkJGbFR3Q2t2WnRQbnRmNGNJb3haU2ZESXFGTVV2V0QyT25oSW4yYTVBMlcteEJWTmFSMV9YX29xdzdra1dLcUZjRVRKNDVEWUVYZ2JvNl9ORlZHQ2ZVd1AxMlI2bzYxSWdfN1NDaVBZRUZfTkZfZHgwLVdnOXhzMU1HTHZIcHVRNHIyZ3RrMXdaNFJhQnF5OXp3SDg2bnVockJ0enhSU0JmVV9DMjJFN0dYNTllSXdLa3ZLbQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T19:35:18+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-08-09T00:50:05+00:00"
+    },
     {
-      "text": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
+      "text": "The Wild History of the Russian Online Retail Giant Being Bombarded by Ukraine - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1FITkNGYWg1R0FfWlZmUGZiYThTN1BMTGlhMTdsdnpKekE0OGVpelBtWmE4Nm1mSlpTWi1RSmljSEcxWEVtOGRQejJETFl0aGVmNEltblU5QktiQktrcmoxQ0hnT3g3WHB2VWZiUkVUOUdXMzRpbGd2Y3FESVl2NnZJOEhZUlVhQzVqSVJSTDBFX1pqb3dFU2FYR3BZQ2dvWmFXcmpTZm9DZU9aNlFmOVdtVG9qNTRqTm4wUg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T22:34:42+00:00"
+      "time": "2026-08-08T23:31:26+00:00"
+    },
+    {
+      "text": "‘One Night Only’ Director Understands The “Sex Purge” Comparisons - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWlfTm9FVW85QlBSWjlPWFlZel9zMjVPVmNwZkJHN2NuYkRVbHJ2cE1BUVdTZEZxc2tzNG9FMWUtWWt0cnFLMEg5OGdGWGF6eFQ1dkJCejhVNlA0aWZvdV9yUTFUblFQN05mYW1aeXJlSUZ1MHZCTjk5NDF0WHFvR3V1a0xQN2JZYU1TeGd4bzhTblBwdE9Yd281emQtWkU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-08T22:49:00+00:00"
     },
     {
       "text": "Jorge Messi, father of soccer legend Lionel Messi, dies at age 68 - NBC News",
@@ -114,98 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-08T21:16:58+00:00"
-    },
-    {
-      "text": "‘REVOKED’: Hegseth’s revenge for Qatari Air Force One leaks is revealed - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlAxTm11RE8yckUwM1RyT1FpdmhYQjdCY0RsUnZ3T0ozYVdyVkNNSnhmb2RuYTktQ2ZvazdtS25DdzBiVFRaZlp4U2pCYnh2TnRWanVYYmFpTGtPVjNsbUY4ZG1PeUZVV3FzLWFFTDRfek9nWTJMdEpXV3djYXVUQ0dqcWU1U3JrSVRXdEdyMU9vZnRsV3BlbGd5bURhTEppNEVWbE4tdTlOb1Bm?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T20:27:00+00:00"
-    },
-    {
-      "text": "SpaceX West Coast launch surge continues with Starlink mission - Spaceflight Now",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU1DVjRzOUFZSXl4UlZkVU53V2NIN1g1bGxJaGk1ZHVpYXlzUVlWYlNmREN2YWtLWkgxY2NpRzlxZjZGNnZmaTJnRE05SktRSVQ2TVZxbGpJS0thUlBvWTMtTmhVb05CRGVhdWtOMlNOd3pmZnhTRVJkS3ppY3JRVHpTMl9ZZS1UbmpGVmI3SU81aW5Id2I3VEN6cWFpYnRQb0o0TmZCTnU4NWtKV0QycWwwMmpBQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T20:00:48+00:00"
-    },
-    {
-      "text": "Costa Rica's recently discovered \"coffee frogs\" sing in plantations, but pesticides threaten them - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04YWpDcjNLekFHWkRHTUh2OGJxcEpIcVFWazBmVUlsZ2FoaGhHLXZkRVdHaFRxeWlXNWVDYmYwZDJlSlI4ODFCUndVN3IyakwyazhpY2lXVUtiel95OURYTGZvMjg1TE9CUktldnNneGN6Q3A0bFdWVVV3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T19:48:58+00:00"
-    },
-    {
-      "text": "John Goodman runs into famous fan ahead of big-screen comeback - Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3ZjeVFkLUNJRVlrY2V6bEsyX2dPRC0yX2pBY19VWVR6ZDZDZEt3S2dPRWI4b2dFeHJLeF8xZ1p0VmFMb3VfbXlnanZ2QmpSekQ3S0dHbDhHTFdHMWlVRnhDbldnRmdmd0xDVHc0amNUQ3JXYUY4VE9CRE9hb01IeGlWV3hoaEdic0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T19:09:10+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-08T22:30:07+00:00"
-    },
-    {
-      "text": "Sky's Carrington tossed after hard foul on Fever's Cunningham - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWQ1NDVFVFpoYnJPUzFFTkJsN3JTaHVndU9hNi1keUFPazJvZThkLVlQMEhxdmZQZGpaV0hWMk94ZklDZjlqTWZRTEhRYmJyX2FibE9DSFNoVzVJdklmcGc1ejhvUWpjd0NtVGVsb1dwaWVQQTQ5dm1fR2I4aG1SV1lhMjMzcnVqVjdLX3A2VU52dG14enNkakZB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T21:01:00+00:00"
-    },
-    {
-      "text": "US Senate advances landmark crypto bill before heading on August recess - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T20:24:41+00:00"
-    },
-    {
-      "text": "DEI dispute delayed wildfire grants for area engulfed in blazes - Politico",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGhZSTJPdzJZZG1QLVhkN2Q2RURnTXdHYzJpYWJQUnVkVm5JOXhOWWRNbF9pUkg2VU1zUGoyaG4yMzhZaXZEZGhfNmNKNUNTaXBHZG9kZEJUc1ZYWU5BZTJmQ3p4SFU2bzQyVDB5UG5wSExOWkljbTdFR2F1TGtESVdnVTZtVTVwSnk3UkpoMTg3NDBfaXE5amRn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T20:00:00+00:00"
-    },
-    {
-      "text": "Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3NIUlkzWUlFSl81MHNjQUFKQkFiQk12VmNTRHhJcTE1YUoxa2Y0OU03dG5GcTVlNjM5Y2N6S3NfZF9xUkp0ekxOMVBpTm1GU0dDOFFhdUVKU3RKSHJzSEtmeFFETTR3UmJlbGRCMlBiU2pYRUdJWVJybzJCM05Vaks4Z1MxbHBhNHfSAY8BQVVfeXFMUDlyLVlYTXBFRzN4VFdRT1BYbk8xQ3prWXpVUVI1cU14aTQ1MzZKb2FCdWlweFlFWmp6SWtUNXJPSDFxU29oODFlcnNwOWlnQ2MzNUZWV2NZNXcxbjZ6MVZXdDViZ3ZaY01Ca29MM2JGdHVuSjAxTmd0NnRKNmU4Z3c2T1dOX2FwTXBvZnpzUzA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T19:45:00+00:00"
-    },
-    {
-      "text": "Drew Brees’ Hall of Fame speech focused on Sean Payton, city of New Orleans - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGw0N1l6eHFwaDd0ZEpFVXNrN2FQSl9FeG9kWnJZTXhnUTQ3X3VYb3BwUWZaMFpvVE11d3doVFNBME9lOEwxNmxsaUY1bFZVci1YaERoT2kxN1VWZllFSU1xVXBxWDE3VzJ0MnkxODZrZDFUeVp2WHdQRHZtUVYzMnNrZS1TRUU0VWhwclViLThFeHdINlZ3WXJ2NFBsSDhudnhHa0hFQ0hSMC1JSkpXV3loRWpRMkN5UFctYUY1UVBKdkZiUXNvVkxrMmFJSzh1?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-08T19:05:25+00:00"
     }
   ]
 }
