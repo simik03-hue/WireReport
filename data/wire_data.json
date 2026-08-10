@@ -1,166 +1,81 @@
 {
-  "generated_at": "2026-08-10T20:06:59.961760+00:00",
+  "generated_at": "2026-08-10T22:20:00.120806+00:00",
   "lead": {
-    "text": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-    "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+    "text": "Judge Pauses Rollout of N.Y.C. Second-Home Tax, Dealing Blow to Mamdani",
+    "url": "https://www.nytimes.com/2026/08/10/nyregion/mamdani-second-home-tax-ruling-nyc.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-10T20:04:23+00:00",
+    "time": "2026-08-10T22:18:59+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
-      "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
+      "text": "Trump Media posts $238 million second-quarter loss as crypto declines",
+      "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-10T20:03:39+00:00"
+      "time": "2026-08-10T22:15:05+00:00"
     },
     {
-      "text": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
-      "url": "https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T20:01:53+00:00"
-    },
-    {
-      "text": "S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower: Live updates",
-      "url": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
+      "text": "Stock futures are steady as investors weigh Iran, Hormuz deal prospects: Live updates",
+      "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-10T20:01:07+00:00"
+      "time": "2026-08-10T22:13:17+00:00"
+    },
+    {
+      "text": "Cooper maintains 7-point lead over Whatley in NC Senate race: Poll",
+      "url": "https://thehill.com/homenews/campaign/6021249-cooper-leads-nc-senate-poll/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-10T22:11:20+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Can Rob Sand Break the Republican Grip on Iowa?",
-      "url": "https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html",
+      "text": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+      "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T19:54:38+00:00"
+      "time": "2026-08-10T22:04:50+00:00"
     },
     {
-      "text": "A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments",
-      "url": "https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html",
+      "text": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
+      "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T19:28:41+00:00"
+      "time": "2026-08-10T21:47:14+00:00"
     },
     {
-      "text": "Medical Breakthroughs Are a Thrill. Then Comes the Hard Part.",
-      "url": "https://www.nytimes.com/2026/08/10/opinion/medical-cures-trump-patients.html",
+      "text": "Homeland Security Intensifies Pursuit of Noncitizens on Voter Rolls",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T18:58:57+00:00"
+      "time": "2026-08-10T21:38:11+00:00"
     },
     {
-      "text": "Lilly's weight-loss pill gets UK regulator's nod - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T18:50:16+00:00"
-    },
-    {
-      "text": "Benjamin Netanyahu’s rejection of US deal for Gaza is risky move - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1hic1BkYklRd2s3SE9vVVNHdTNuN1lRTkNjQmJfTmR3MGZqN0VVekN1UlFFc1NzOERlRXpPcTNBRHl5R3lYdVA5eXFTalViMTFpUFRmcDJjNGoxd244MVh4MFFsMnRhdzg4WW1kZnBFT2RDR2pYQ2lhaTdkVmZCNk1JM05XX1Z1MW9iY2xtMGRsS3p0TnlMaUNwLURmdUNkY1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T18:28:00+00:00"
-    },
-    {
-      "text": "Jury selection begins for ex-gang leader charged with Tupac Shakur's 1996 murder - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRExTWkVOT3Z2WjAtQTFxWnd4Wk5WUVVDbGhtX28tOEx1VTBJQ1A5a2lSWkFOUVU3VDBpOEdPeGs3a2UzMFZWcXVDamhjVnBmMjh5ajJIMzBvd1dZdy1nRTFMY3FZb2JnejVKSmdOUl9kdUpGU3hSVXIzUVJPUkRfd1dUNDkteG45NzJ4bkFSQy01cFFYUGUzSEhiaWZuX2dFR1lBM3A4U1R5ZEdaMTMxZE5Ha0dId3JhVFE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T17:54:09+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Trump signs executive order calling for spacing out childhood shots - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU05teTUxck9vNEhwYXl1UGRVYnJjb0xLVkc1bjdhXzktckFicDlCaUc5T0ZvVlA3U3B4ZV8tUjE1Vkk2Y1d2U0hmOHpoeUlSNFBTaDVUMEZtbTQ5NERyU0cycGFiM1gyNWRoSlU5U2hTaGZDOVQwQ041Y29LU0ZWTExyOXVVdjdEeVZTUWN0OE5zU2RZLVBOaVUzc3RObUpWaWxR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T19:34:00+00:00"
-    },
-    {
-      "text": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
-      "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+      "text": "Italian Diver Discovers Hundreds of Ancient Amphorae in Sicily",
+      "url": "https://www.nytimes.com/2026/08/10/world/europe/sicily-shipwreck-discovery.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T19:14:20+00:00"
-    },
-    {
-      "text": "Louisiana warns beachgoers amid surge in flesh-eating bacteria infections - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHN1V29FcFMyZjVHYjVHU3FYWWc1NHpGSXFxWmV3czI0SXo3QkNYYUxJbE5sZXI1M3BDOXNVdG1WdDZ1TWNaNVV2aUFLOTh0UU4xbkxvZ3RVMVN4N3A5WDEtME01Z1VKYlQtSEFJQi10WV85Rlc1clF3MjZlbGR6Q0xDMlZIUXo3TS04S3FYWTdZbHlOQUlQemV3a0xTdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T18:53:00+00:00"
-    },
-    {
-      "text": "Taylor Farms recalls foods made with jalapeños over salmonella concerns - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUZzWnZRTWllV3ZkZWpJbnBjaE1SVTFHcTM1THpNaTlhbnlKdmxkNXB4SHFiRGRBbWVJMGdqX3Z0MzI4ek0tTkNJLTVEQzNvX09sUmFiOFdyNnVGa01QMzhiUklwMTJOT3Rtcl9PcUgwUElFQzJNTjg0YzNkRTBvOVhmMUFZZ1lEZndBWVlqN09YT2N5eTBTNzNXMnlWcWRkMUV6eG1KRW9ZdmdLcXQ0THlHQXdGNW51Y19vcQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T18:38:01+00:00"
-    },
-    {
-      "text": "The Subway Is Sweltering. Is There a Way to Put That Heat to Good Use?",
-      "url": "https://www.nytimes.com/2026/08/10/nyregion/subway-mamdani-mta-heat-geothermal.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T18:05:00+00:00"
-    },
-    {
-      "text": "Ebola started in DR Congo earlier and officials are playing catch-up, WHO warns - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMVI4elFiMFNRS3hiMGxadWxzclFpOVl4YUQ4NDBUMkJkdkpyRTdFRTBtM1FIWTl0Vnc0MlQ2SEhBeFV1REhTTmVvT3I3NDNPQ1NUdkZGWUlVdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T17:50:29+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "At least 111 killed after powerful earthquake hits western Colombia - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T19:32:36+00:00"
+      "time": "2026-08-10T20:19:31+00:00"
     },
     {
       "text": "One Source of Paxton’s Wealth: A Cell Tower at a Hospital He Knew Well",
@@ -172,40 +87,125 @@
       "time": "2026-08-10T19:01:44+00:00"
     },
     {
-      "text": "Todd Blanche, Trump’s former personal lawyer, sworn in as US attorney general - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFd0TEIxNExseTBLNHJqY3RNR2hLZDlvSDd3eVQwVjdaRktzM3ZqVGhXWEJyVFlieDZiZl8wOFcwdm5FclFJNGV6OW81VXpXRXY1RExMVl9iTUY4MkpMTktCbjNzYjgxMGIwX3Zfb2tabjYxYnROQzM4ZE12S3MxaUhKSS1rcE5XaGxUX1U2VQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Muggy Heat and Storms Continue to Grip the U.S., but an End Is in Sight",
+      "url": "https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T18:51:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T16:24:11+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Images Emerge From Quake-Battered Colombia",
+      "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T22:04:02+00:00"
     },
     {
-      "text": "Here’s what’s new with iOS 27 beta 5 - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yd3VDSy1oZHhHNEJuUmlfYlVtcl8yRzdQT2FDZERwMTFSOVR5S2hiUnRSX2VuOXpScGZPVGl2b1NhbWVYUGRuNU5WT2tRMnBFR215STRteEVUY2JCQ3RPU1lzcERmM1hXUFVfN0xvb0VPUW1O?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Takeaways From Jason Arday’s Memoir",
+      "url": "https://www.nytimes.com/2026/08/10/books/review/jason-arday-memoir-takeaways.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T18:30:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T21:42:12+00:00"
     },
     {
-      "text": "Jon Hamm to become first-time dad at 55, expecting baby with wife Anna Osceola - Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnhWZkhTSEZBTV8zZWZCSUpqbUNFbDVldTNhcjhHWkNrbjc0TmxQUFlHdmp1S3BlQzg2U3pzQVFrcTgzVnVXT1Uwc1M3c1RsZ1FkbHV3TjdqQWVQWVhqeHZyT3RIeVZsd0ZHNkEyeXF5bFJNbEt0TmhFV2QzNmhoVC1fb0pOdzVR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T17:59:57+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T20:42:38+00:00"
     },
     {
-      "text": "Ukrainian drone strikes 750 miles inside Russia kill at least 13, authorities say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkVrQ2Q0MERpaVZuQWJZNXV2SEZPOElTdWVPRXRpMmNmSXQ1VDFyU2tNUDRjTjI5M3NiQ0hYQzVmRmhiVmJzVGlkTVgyWXA0VzFUR19BTFNQMmVIZkZ4ZVJCdF9JOGVpT0xocDZNdWNVRDh2QmcxZV9ReXNwZjlJVg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Can Rob Sand Break the Republican Grip on Iowa?",
+      "url": "https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T17:38:01+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T19:54:38+00:00"
+    },
+    {
+      "text": "The Subway Is Sweltering. Is There a Way to Put That Heat to Good Use?",
+      "url": "https://www.nytimes.com/2026/08/10/nyregion/subway-mamdani-mta-heat-geothermal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T18:05:00+00:00"
+    },
+    {
+      "text": "How Shania Twain Won Over Gen Z",
+      "url": "https://www.nytimes.com/2026/08/10/magazine/shania-twain-gen-z.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T09:00:45+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+      "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T22:00:49+00:00"
+    },
+    {
+      "text": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T21:38:26+00:00"
+    },
+    {
+      "text": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
+      "url": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T20:37:37+00:00"
+    },
+    {
+      "text": "A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments",
+      "url": "https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T19:28:41+00:00"
+    },
+    {
+      "text": "Will Wisconsin Voters Think Francesca Hong Is Too Radical? Here’s Where She Stands.",
+      "url": "https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T17:00:47+00:00"
+    },
+    {
+      "text": "When Hobbies Come Before Romance",
+      "url": "https://www.nytimes.com/2026/08/09/style/single-dating-hobbies-hobbyamory.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-09T16:18:58+00:00"
     }
   ]
 }
