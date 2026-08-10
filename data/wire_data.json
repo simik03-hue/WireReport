@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-08-10T17:39:39.994054+00:00",
+  "generated_at": "2026-08-10T20:06:59.961760+00:00",
   "lead": {
-    "text": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
-    "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-10T17:33:34+00:00",
+    "text": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+    "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-10T20:04:23+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "SpaceX stock rebounds to near $135 IPO price",
-      "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
+      "text": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
+      "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-10T17:20:14+00:00"
+      "time": "2026-08-10T20:03:39+00:00"
     },
+    {
+      "text": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
+      "url": "https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T20:01:53+00:00"
+    },
+    {
+      "text": "S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower: Live updates",
+      "url": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-10T20:01:07+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Can Rob Sand Break the Republican Grip on Iowa?",
       "url": "https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html",
@@ -28,119 +48,63 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T17:17:15+00:00"
+      "time": "2026-08-10T19:54:38+00:00"
     },
     {
-      "text": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-      "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "text": "A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments",
+      "url": "https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T17:14:40+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-10T19:28:41+00:00"
+    },
     {
-      "text": "Live Updates: Trump says U.S. only \"semi-negotiating\" with Iran after Tehran sets demands to reopen Strait of Hormuz - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVR5TzZOblVGaldmaERTUlk2Sk5XSEhfYWNiTWMyRVhwNXdZamp5LVhBX2JKMTdxSlFlZHQ4WFc3Vk1OakI0VFlNMThrS3ZPdzB6LUxCSThSSmtvbW5ISkJYSWN3WUNDaTFUTXl1QnFoXzlCV3UtdW9CNjJodTc2VGhWTG0?oc=5",
+      "text": "Medical Breakthroughs Are a Thrill. Then Comes the Hard Part.",
+      "url": "https://www.nytimes.com/2026/08/10/opinion/medical-cures-trump-patients.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T18:58:57+00:00"
+    },
+    {
+      "text": "Lilly's weight-loss pill gets UK regulator's nod - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T17:11:00+00:00"
+      "time": "2026-08-10T18:50:16+00:00"
     },
     {
-      "text": "Muggy Heat and Storms Continue to Grip the U.S., but an End Is in Sight",
-      "url": "https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T16:24:11+00:00"
-    },
-    {
-      "text": "RFK Jr. is targeting a decades-old loophole allowing chemicals in food supply - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXA4UGNQMVlzS3Fzc3A4enZQVmV2SXAzaE43VUhPMUFMUy02QkkzUFRLeHVtT3g4R3RKNUt6eEswVVZoSnY5V084RHJqMlh3RDdkV2NmR1A3a3NXZUpZclYzR0U4UkZtZVZYOG0xeS1IVVlUU05lRWdBN2R4QUZPeE1wLTVtUXg5aUU2bHBvalR3RFlDNWU4N3JuV1NzakhnNGlRYzV6b1Vpa1pFcEx1VXZ4bFZQcEtTM19uSmR2LVV0a0RFYV8w?oc=5",
+      "text": "Benjamin Netanyahu’s rejection of US deal for Gaza is risky move - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1hic1BkYklRd2s3SE9vVVNHdTNuN1lRTkNjQmJfTmR3MGZqN0VVekN1UlFFc1NzOERlRXpPcTNBRHl5R3lYdVA5eXFTalViMTFpUFRmcDJjNGoxd244MVh4MFFsMnRhdzg4WW1kZnBFT2RDR2pYQ2lhaTdkVmZCNk1JM05XX1Z1MW9iY2xtMGRsS3p0TnlMaUNwLURmdUNkY1E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T16:23:03+00:00"
+      "time": "2026-08-10T18:28:00+00:00"
     },
     {
-      "text": "Why Are So Many People Upset About Flock Cameras?",
-      "url": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T15:58:27+00:00"
-    },
-    {
-      "text": "In rural Wisconsin, frustrations over Trump ag policies heat up House race - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTJZX0ZnQWw3aVlsYmM2N1RfYTZzUDFSeEQxaXJFNFdVcTE3Z2ZWN2lyVU4xR3FYSlFSdGVsemRpaUtnSm9BcUEzdHlpRVB2c1lhV2tQZWtBV19zaldEdUFULWhxVmhJcDZuWldlanJKNm1odTdxM2ZnZk9ha3lFZVJtTU8xN0ZSLUlFS093UTFHNHlYQnNhVjlkdWVvRG1IampNU3hsZFBjdzUzUEt3X2k2bG54Zw?oc=5",
+      "text": "Jury selection begins for ex-gang leader charged with Tupac Shakur's 1996 murder - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRExTWkVOT3Z2WjAtQTFxWnd4Wk5WUVVDbGhtX28tOEx1VTBJQ1A5a2lSWkFOUVU3VDBpOEdPeGs3a2UzMFZWcXVDamhjVnBmMjh5ajJIMzBvd1dZdy1nRTFMY3FZb2JnejVKSmdOUl9kdUpGU3hSVXIzUVJPUkRfd1dUNDkteG45NzJ4bkFSQy01cFFYUGUzSEhiaWZuX2dFR1lBM3A4U1R5ZEdaMTMxZE5Ha0dId3JhVFE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T15:49:36+00:00"
-    },
-    {
-      "text": "Traffic to Trump’s Truth Social Falls Sharply This Summer",
-      "url": "https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T15:43:14+00:00"
+      "time": "2026-08-10T17:54:09+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Mike DeWine: Only Trump Can Pull Off Immigration Reform",
-      "url": "https://www.nytimes.com/2026/08/10/opinion/trump-dewine-immigration-reform.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T16:59:22+00:00"
-    },
-    {
-      "text": "Taylor Farms recalls jalapeño products at Walmart and Target over salmonella risk - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnVUS1d6QmRPdmlHblJGd0V3ekJlc0JtVXlDNUJFaUR4YnVpcThVTW9mNm5nNXU2REhWNVNzd1hqYVNJUDRQZ2Y2RWI5LWc3N0QzbjFISW1CUHVRbkdFOXE5VVowX2xCa0ZtcXlkU19XN2I3UHhhYzZYTHNSdWJzNXBuM0g?oc=5",
+      "text": "Trump signs executive order calling for spacing out childhood shots - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU05teTUxck9vNEhwYXl1UGRVYnJjb0xLVkc1bjdhXzktckFicDlCaUc5T0ZvVlA3U3B4ZV8tUjE1Vkk2Y1d2U0hmOHpoeUlSNFBTaDVUMEZtbTQ5NERyU0cycGFiM1gyNWRoSlU5U2hTaGZDOVQwQ041Y29LU0ZWTExyOXVVdjdEeVZTUWN0OE5zU2RZLVBOaVUzc3RObUpWaWxR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T16:23:24+00:00"
-    },
-    {
-      "text": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T16:20:13+00:00"
-    },
-    {
-      "text": "Ukrainian drone attack on an oil hub deep inside Russia kills 13, officials say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T15:52:00+00:00"
-    },
-    {
-      "text": "Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious",
-      "url": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T15:48:18+00:00"
+      "time": "2026-08-10T19:34:00+00:00"
     },
     {
       "text": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
@@ -149,27 +113,54 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T15:40:38+00:00"
+      "time": "2026-08-10T19:14:20+00:00"
+    },
+    {
+      "text": "Louisiana warns beachgoers amid surge in flesh-eating bacteria infections - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHN1V29FcFMyZjVHYjVHU3FYWWc1NHpGSXFxWmV3czI0SXo3QkNYYUxJbE5sZXI1M3BDOXNVdG1WdDZ1TWNaNVV2aUFLOTh0UU4xbkxvZ3RVMVN4N3A5WDEtME01Z1VKYlQtSEFJQi10WV85Rlc1clF3MjZlbGR6Q0xDMlZIUXo3TS04S3FYWTdZbHlOQUlQemV3a0xTdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-10T18:53:00+00:00"
+    },
+    {
+      "text": "Taylor Farms recalls foods made with jalapeños over salmonella concerns - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUZzWnZRTWllV3ZkZWpJbnBjaE1SVTFHcTM1THpNaTlhbnlKdmxkNXB4SHFiRGRBbWVJMGdqX3Z0MzI4ek0tTkNJLTVEQzNvX09sUmFiOFdyNnVGa01QMzhiUklwMTJOT3Rtcl9PcUgwUElFQzJNTjg0YzNkRTBvOVhmMUFZZ1lEZndBWVlqN09YT2N5eTBTNzNXMnlWcWRkMUV6eG1KRW9ZdmdLcXQ0THlHQXdGNW51Y19vcQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-10T18:38:01+00:00"
+    },
+    {
+      "text": "The Subway Is Sweltering. Is There a Way to Put That Heat to Good Use?",
+      "url": "https://www.nytimes.com/2026/08/10/nyregion/subway-mamdani-mta-heat-geothermal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-10T18:05:00+00:00"
+    },
+    {
+      "text": "Ebola started in DR Congo earlier and officials are playing catch-up, WHO warns - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oMVI4elFiMFNRS3hiMGxadWxzclFpOVl4YUQ4NDBUMkJkdkpyRTdFRTBtM1FIWTl0Vnc0MlQ2SEhBeFV1REhTTmVvT3I3NDNPQ1NUdkZGWUlVdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-10T17:50:29+00:00"
     }
   ],
   "col3": [
     {
-      "text": "How Small, Independent Newspapers Are Still Finding Readers",
-      "url": "https://www.nytimes.com/2026/08/10/business/media/small-newspapers-success-chronicle-glen-falls.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "At least 111 killed after powerful earthquake hits western Colombia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T16:43:06+00:00"
-    },
-    {
-      "text": "Trump Concedes There Was ‘Some Contractor Error’ in Reflecting Pool Renovations",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T16:23:07+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-10T19:32:36+00:00"
     },
     {
       "text": "One Source of Paxton’s Wealth: A Cell Tower at a Hospital He Knew Well",
@@ -178,34 +169,43 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-10T16:06:57+00:00"
+      "time": "2026-08-10T19:01:44+00:00"
     },
     {
-      "text": "Colombia earthquake kills at least 22 as buildings collapse in several cities - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
+      "text": "Todd Blanche, Trump’s former personal lawyer, sworn in as US attorney general - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFd0TEIxNExseTBLNHJqY3RNR2hLZDlvSDd3eVQwVjdaRktzM3ZqVGhXWEJyVFlieDZiZl8wOFcwdm5FclFJNGV6OW81VXpXRXY1RExMVl9iTUY4MkpMTktCbjNzYjgxMGIwX3Zfb2tabjYxYnROQzM4ZE12S3MxaUhKSS1rcE5XaGxUX1U2VQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T15:50:38+00:00"
+      "time": "2026-08-10T18:51:00+00:00"
     },
     {
-      "text": "Total solar eclipse Aug. 12, 2026 live updates — 2 days to totality - Space",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpkWFU3RW1tNldsVTBJWkdXM0ZkUG9MV0E1Wmc0el9iVFVkXzB1dzFRNVMwdFpOZURzUUpfdk9mdVFpV0MtcDl3RWRRelRVdDdkNWIzeFR4THdBWE14TUVnNFlIekE3LTVhdS15amI3alhWa3lVdWdITWswdDBKT1Y5cU41NTJ5X2VreXVXWVhwMTVWQnJWbmVuU251bzA?oc=5",
+      "text": "Here’s what’s new with iOS 27 beta 5 - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yd3VDSy1oZHhHNEJuUmlfYlVtcl8yRzdQT2FDZERwMTFSOVR5S2hiUnRSX2VuOXpScGZPVGl2b1NhbWVYUGRuNU5WT2tRMnBFR215STRteEVUY2JCQ3RPU1lzcERmM1hXUFVfN0xvb0VPUW1O?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T15:45:49+00:00"
+      "time": "2026-08-10T18:30:00+00:00"
     },
     {
-      "text": "Perez Hilton’s Mother, Sister Will Seek Custody of His 3 Children Amid ‘Mental Health Crisis’ - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHdrekFLLXpoMkdjcHBMekRqQjVrOEl0bUJyNTlRMWhWLVBrb0ZUbFJMd3V4N3lMdXhXbWFBVEtfWmR6MGVrV2F1dzlqZFdDSDZBUkxIZE5lbktjSjAzZl9PN3hSUXZzOWhVLUxTWFhBd21zbnBpRGQ1d1NlQ0JzUGthQTNUSFc0QXFlS0VnSmtDWEhFUTlzMFpyR3Y5YUFqVFlZ?oc=5",
+      "text": "Jon Hamm to become first-time dad at 55, expecting baby with wife Anna Osceola - Entertainment Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnhWZkhTSEZBTV8zZWZCSUpqbUNFbDVldTNhcjhHWkNrbjc0TmxQUFlHdmp1S3BlQzg2U3pzQVFrcTgzVnVXT1Uwc1M3c1RsZ1FkbHV3TjdqQWVQWVhqeHZyT3RIeVZsd0ZHNkEyeXF5bFJNbEt0TmhFV2QzNmhoVC1fb0pOdzVR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-10T15:28:53+00:00"
+      "time": "2026-08-10T17:59:57+00:00"
+    },
+    {
+      "text": "Ukrainian drone strikes 750 miles inside Russia kill at least 13, authorities say - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkVrQ2Q0MERpaVZuQWJZNXV2SEZPOElTdWVPRXRpMmNmSXQ1VDFyU2tNUDRjTjI5M3NiQ0hYQzVmRmhiVmJzVGlkTVgyWXA0VzFUR19BTFNQMmVIZkZ4ZVJCdF9JOGVpT0xocDZNdWNVRDh2QmcxZV9ReXNwZjlJVg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-10T17:38:01+00:00"
     }
   ]
 }
