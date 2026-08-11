@@ -1,34 +1,137 @@
 {
-  "generated_at": "2026-08-11T11:31:05.808945+00:00",
+  "generated_at": "2026-08-11T15:28:24.199462+00:00",
   "lead": {
-    "text": "Stock futures are little changed as investors weigh Iran, Hormuz deal prospects: Live updates",
-    "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "ACLU targets Trump's new birthright citizenship order in court",
+    "url": "https://thehill.com/regulation/court-battles/6022546-aclu-challenges-trump-birthright-citizenship/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-11T11:24:03+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-11T15:26:14+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stocks making the biggest moves premarket: Riot Platforms, Hims & Hers Health, Intel & more",
-      "url": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-premarket-riot-hims-intc.html",
-      "source": "CNBC",
+      "text": "Thailand suspends new gun permits after mass shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-11T11:19:54+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-11T15:11:54+00:00"
     },
     {
-      "text": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "text": "Ukraine war sparked race for countries to build spy satellites, space-tech CEO says",
+      "url": "https://www.cnbc.com/2026/08/11/iceye-satellite-fleets-defense-europe.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-11T11:15:16+00:00"
+      "time": "2026-08-11T15:09:49+00:00"
+    },
+    {
+      "text": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
+      "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-11T15:08:48+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "G.M.’s ‘Car Guy’ Talks Electrics, China and Nepotism",
+      "url": "https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T14:50:03+00:00"
+    },
+    {
+      "text": "Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy",
+      "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T14:19:20+00:00"
+    },
+    {
+      "text": "Trump Picks Project 2025 Co-Author for Role That Would Oversee Any Reflecting Pool Review",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/dennis-kirk-trump-interior-reflecting-pool-project-2025.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T13:46:18+00:00"
+    },
+    {
+      "text": "Rabbis Plead With Mamdani to Tone Down His Anti-Israel Messaging",
+      "url": "https://www.nytimes.com/2026/08/10/nyregion/mamdani-rabbis-meeting.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T12:53:18+00:00"
+    },
+    {
+      "text": "Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T11:36:44+00:00"
+    },
+    {
+      "text": "Three Political Tests",
+      "url": "https://www.nytimes.com/2026/08/11/briefing/three-political-tests.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T10:45:15+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
+      "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T14:43:17+00:00"
+    },
+    {
+      "text": "What to Know About the Cuban Mafia in Quintana Roo",
+      "url": "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T14:19:10+00:00"
+    },
+    {
+      "text": "Robots That Walk and Talk Are Coming to Car Factories",
+      "url": "https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T13:45:34+00:00"
+    },
+    {
+      "text": "Can Nebraska’s Definitely-Not-a-Democrat Candidate Crack the G.O.P. Hold on Red America?",
+      "url": "https://www.nytimes.com/2026/08/11/opinion/dan-osborn-nebraska-independent-democrats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T12:28:34+00:00"
     },
     {
       "text": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
@@ -38,9 +141,54 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-11T11:11:16+00:00"
+    },
+    {
+      "text": "Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole",
+      "url": "https://www.nytimes.com/2026/08/11/podcasts/the-headlines/evacuate-trump-fda-food-safety-loophole.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T10:00:11+00:00"
     }
   ],
-  "col1": [
+  "col3": [
+    {
+      "text": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
+      "url": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T14:32:07+00:00"
+    },
+    {
+      "text": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+      "url": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T14:07:26+00:00"
+    },
+    {
+      "text": "New Evidence Shows Federal Agents Using Racial Slurs During Immigration Sweeps",
+      "url": "https://www.nytimes.com/2026/08/11/us/videos-ice-agents-racial-profiling.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T13:14:20+00:00"
+    },
+    {
+      "text": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T11:43:18+00:00"
+    },
     {
       "text": "What We Know About the Earthquake in Colombia",
       "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
@@ -51,15 +199,6 @@
       "time": "2026-08-11T10:52:24+00:00"
     },
     {
-      "text": "Wisconsin considers democratic socialist for governor amid US wave of progressive wins - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzJwUG01dDRieFMwUjNQaXpYMW4xTzZYQ0ZLQW5NVWkzOWVjbi1RNTRPb1g0SlRzTzV5VzJLMjRhZzd4SkllbUo4bnpYUVdNekU0UDlGa25YMWt0aHI4MFE5X2NiSTB4UUZJUzZqY1c2bzRpTGI4ZnFva1ktTFhEdjJBQ1lhMkVUMUE3LXpOZVMyZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T10:15:00+00:00"
-    },
-    {
       "text": "Muggy Heat and Storms Continue to Grip the U.S., but an End Is in Sight",
       "url": "https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html",
       "source": "NYT",
@@ -67,145 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-11T09:58:33+00:00"
-    },
-    {
-      "text": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:29:13+00:00"
-    },
-    {
-      "text": "Ross Douthat: The Exit Interview",
-      "url": "https://www.nytimes.com/2026/08/11/opinion/ezra-klein-podcast-ross-douthat.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:04:19+00:00"
-    },
-    {
-      "text": "Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge",
-      "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:03:49+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Three Political Tests",
-      "url": "https://www.nytimes.com/2026/08/11/briefing/three-political-tests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T10:45:15+00:00"
-    },
-    {
-      "text": "Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole",
-      "url": "https://www.nytimes.com/2026/08/11/podcasts/the-headlines/evacuate-trump-fda-food-safety-loophole.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T10:00:11+00:00"
-    },
-    {
-      "text": "Stock Market Today: Dow Futures Waver as Oil Forges Higher — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUtoTDkwbmJ3LWNlRFFfYVppTVRCVjA5QUVFMjM3WHp5aUhfMTR0ejN2eHNTbjJSbnB3aWN0eUo3b1JCcFg5c1ZxNTZtMVFIWGc4NnlSRV9yenZUTTA1QVhRSFFUNHV1LW5MYUMxbGdkUHNzUjlUVnRyRERGdDZQTXZnUDE0Tlk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T09:43:00+00:00"
-    },
-    {
-      "text": "August 10, 2026: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T09:24:00+00:00"
-    },
-    {
-      "text": "Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/democrats-plan-new-push-to-defeat-max-miller-in-ohio-after-abuse-accusations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:04:10+00:00"
-    },
-    {
-      "text": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
-      "url": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:03:41+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
-      "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T10:42:26+00:00"
-    },
-    {
-      "text": "Trump signs order to limit childhood vaccines and split MMR shots - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nS0FWUjM1QzMtNlZ6T0t2anBSS1lKalMzRU9lVzkycmo5RXgycmZpLVkyTlI2SGpJd0lOR1FORnBmRVpDN1ZtVnAzX2lNUS1FRlNSWXIzUDZqdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T10:00:04+00:00"
-    },
-    {
-      "text": "How We’re Covering an ‘Identity Crisis’ in Politics",
-      "url": "https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:40:18+00:00"
-    },
-    {
-      "text": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
-      "url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:05:49+00:00"
-    },
-    {
-      "text": "In a Summer of Climate Misery, Businesses Confront the Need to Adapt",
-      "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:04:05+00:00"
-    },
-    {
-      "text": "What to Know About the Cuban Mafia in Quintana Roo",
-      "url": "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T09:02:44+00:00"
     }
   ]
 }
