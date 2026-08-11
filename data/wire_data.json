@@ -1,46 +1,82 @@
 {
-  "generated_at": "2026-08-11T21:28:10.498997+00:00",
+  "generated_at": "2026-08-11T23:27:23.954545+00:00",
   "lead": {
-    "text": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
-    "url": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-11T21:24:46+00:00",
+    "text": "Russia releases former US Marine reported in poor health",
+    "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-11T23:21:57+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
-      "url": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-after-hours-smci-crwv-hrb.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-11T21:18:44+00:00"
+      "text": "A Timeline of the Fight Over the Elizabeth Street Garden in Manhattan",
+      "url": "https://www.nytimes.com/2026/08/11/nyregion/elizabeth-street-garden-timeline-new-york.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T23:18:29+00:00"
     },
     {
-      "text": "Ken Paxton demands protection for surrogate and unborn child with birth defect",
-      "url": "https://thehill.com/policy/healthcare/6023406-ken-paxton-texas-surrogacy-birth-defect/",
+      "text": "Millions of Americans lack adequate access to prenatal care: Report",
+      "url": "https://thehill.com/policy/healthcare/6023785-march-dimes-maternity-deserts/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-11T21:15:51+00:00"
+      "time": "2026-08-11T23:14:12+00:00"
     },
     {
-      "text": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-      "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-11T21:15:01+00:00"
+      "text": "Primaries Live Updates: Wisconsin, South Carolina and Minnesota Elections Pose Test for Progressives and Trump - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFN6ZFl1dFNXbVZUOURmNmI1MllKNk9aV0dualdfNGJ1bEloMllSbHRBaG5EcWNmUFNLVWk3eW5UXzNfQ2hkUndKQUxyTUpiV0tLVXh1SnZGSDdiWjdzM2lOZUlfTmlTWk5BQ2NKaS02UEZjQkY3Qk5NMUhEZlBZZ29udw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T23:10:27+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Severe weather pounds Illinois and Indiana, knocking out power as tornado sirens blare - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGRDbGhWcVhLSmJRcXdOSDhuc2ZIR1hrX05MeEFDRkZ3dHZGcGp5bU1NVk1EWmV5Z3RwTk1DdVdUU2tuVVhIMUVPaTdpQk1ZaDFodEV5Tkl3dE9lWloteVhTdXFGWEc2YjBkZ0tYWldCZUpNQkdBMndYNFRPbGlEc0lwekRjWk9CQ3gtazdBYXhyUVlnQ3cwbUNxYkN2dGU1?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T22:54:00+00:00"
+    },
+    {
+      "text": "The Evening: Primary Voters Go to the Polls",
+      "url": "https://www.nytimes.com/2026/08/11/briefing/primaries-air-force-one.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T22:02:54+00:00"
+    },
+    {
+      "text": "Gamer Posts Pic of New Controller They Bought and Reddit Is Convinced It's a Leaked Xbox Elite Series 3 Prototype - IGN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2FxczBMOElhNUgtVUFaWGtiYjdMTXB0bDFHMjhXS2tUcWNTQlBEQS1kZTlCMHJXV3pGQ0RaVTBTYXphdkZWaVdrZnBzZS1kbEQ4X0ZsdUM3dDhGam14clByLWc5OGtNb1pITzljV1IzMkotWEtvU3BBbjIyQTBjQkUxNVo1cE5faHJLdDJNenRWZGRrcXBWN3luTFc4SWJ3dktQODZjRUh0Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T21:30:30+00:00"
+    },
+    {
+      "text": "CoreWeave Shares Jump 12% as Revenue Doubles From Year Earlier - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04SGRISzdlWlUwMF9UYWc0VURaWkczN085SnlRN2xLczlrZUdqVVktXzlNaWFiY0dmNms4V2dpakZHRy1lQU1DOVpkVFdTaHU2dWRfbEdTYWx3NkFmNTlHLW9mdkZWaGFpUDNCeEVJMGFCM2wzUl9kYlhxaUxJZnM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T21:11:00+00:00"
+    },
     {
       "text": "Exclusive | U.S. Fires on Ship Breaking Its Blockade of Iran - WSJ",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDhFeHNmTTdEYjl4RHZoSEVKRlV5X0dxVnBQWWgxX2NkUWlSaUJvWHFnbEt4bkNVV2lULVJPcnRvQUcxRWVWbmZreVNFa0FsWUdIUEloT29sWW9wb1BtU2Y4R2NEdnEtVFFidFoxOVJpTm43cERCYVoyVXZpTHlUX3Y5bEVBZTU1VVdKS1hVYkFpbnJlUG45QTBB?oc=5",
@@ -51,22 +87,24 @@
       "time": "2026-08-11T20:57:00+00:00"
     },
     {
-      "text": "CoreWeave stock pops 11% as revenue doubles on accelerating AI infrastructure demand - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclpXaXMyMThmdzRpVzZvNlpmNEVBLUMtOGlDTXEtdGxxTnJHQkttQl9RanRkOXZBS1VqTnNOS2ktTTdGZXI1YzliTDFQYU5rekpWaUtEUmpCMG5PcFc3RFE4Z0JLaHhHeUZPbWIySVZiZUJHc0pkRXc0ekpsME9HddIBhgFBVV95cUxQZ3p0QWgxUlZWaFVJM21SenVENE1QT0NWSUhKZVM0Zzd5QVhnblI5SWVqUHZwM0JWYnRId2FfSk9kUVpHbWlhYkIzczQ3RFNhdGZGMHFFZXVqaE5HVWdTNUZic2ZROW1HYlZIdk13YXBaalRwUXlzTmcyMEdxZnpJRGNzd2xmdw?oc=5",
+      "text": "Ebola deaths surpass 2,000 in Democratic Republic of Congo - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTAyRlJaeDRnUXFhVVlPZnZtTXB0THJsVUs4ZDFxTnIxSkJwUHh5QW5uSmctbkdCRllIMWZaT2F3ZVZXZk13cDdGMXU1SXRMWUc1TUlKMXJQcndkVV9zcnp1dnVoeElVaC1QWHdENkJybEZFWUJqX3RIcl9wNnNxWEZTLVVzZmRKSFkzT1BsejlOVUlCQ21QdEVlT1Vzc3NIekRSQlRiVWtWV09MU0REZA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T20:22:56+00:00"
-    },
+      "time": "2026-08-11T20:25:38+00:00"
+    }
+  ],
+  "col2": [
     {
-      "text": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-      "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Hormuz to stay closed unless US meets Iran's conditions, Iran official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T20:11:24+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T22:52:43+00:00"
     },
     {
       "text": "Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
@@ -75,28 +113,26 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T19:44:00+00:00"
+      "time": "2026-08-11T22:01:00+00:00"
     },
     {
-      "text": "A year after D.C. takeover, Trump says crime has plummeted. It’s not that simple. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazNSVlZhbTFEWW11aUlhSXRKanNPRnMwdkt2TklVUnRaNkpQdEk1YUtHQ1pXcmVvLVo1bGdNa04wWExiRWNpekZyNmM0QmdKZ1JzRVplTTlpTUFpQk8xbFEyWmlkcmM5eGlJamwtOUxTYmQtSHNnMXJMcUxEY1ozbFBYQ0xqWHA2U0hTaUxMZ0FhWHVENFBzS1dVQVBOSG5JT0RGcC1VM3Jrdw?oc=5",
+      "text": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T21:24:46+00:00"
+    },
+    {
+      "text": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0VvWlNYREV0aUpYX1JNR3JJbVZ6b1daR1B4bnZaZjRkTFQ4ZGxWd2p6NkNTdWhSX2hmVHJvdWNZdmtHU1NVOVk0Sm03Y0QwSVVlb1hfZ1ZadndFOU54anVTV0J5RG4zN2FxZWpQeUpNT2xQVGhyempQRHR1cVJoazNPczNxVEN4RFBVb2o2aV9UVGsyWVlZ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T19:14:32+00:00"
+      "time": "2026-08-11T21:05:00+00:00"
     },
-    {
-      "text": "The most dramatic meteor shower of the summer peaks the day of a solar eclipse - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZGZuemZlSkRDeVN1NmdMSkFGdnhCZ2lWVGtIa2VDU3BzZmRzUTd5YVAxbXd4ckFtRDlYWV9mdHdMUG92TG5RaUhkdHFuaFBoMkRJS3BlUFR6QjJSSFBVMUpoTjdkQnZIaDBqaUVlS0FvcnRSRFdKdkRjVk1nLXl3T0NzRGROTktHa1VRamxRNXVBTFRCdEt2VHdmMXhmUi13UGlLQ254VnRJRGhLVXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T18:53:29+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "Mamdani to Abandon Plan to Replace Elizabeth Street Garden With Housing",
       "url": "https://www.nytimes.com/2026/08/11/nyregion/mamdani-elizabeth-street-garden-housing.html",
@@ -114,98 +150,62 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-11T20:22:49+00:00"
-    },
-    {
-      "text": "Trump warns new Hochul, Mamdani pied-à-terre tax could accelerate NYC wealth exodus - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOck1WOEx1VXJTLUgyYmF4eWlXb0ZNZ01Lazl1M0E2N2hJWDIwYnhzRGtxcC1ZUjdpWWZTMnFsM0REdGI2SmdKdDdObHFzMExGQ25yam11V1FGRjV5UG9wYkpYMndySXh0RFJ3V0QzNVhzeXgyZXpaV1pTSzgwYm51RUd1Y3NtX3hkc0wyVnBQMHBPWUFZcDVBZjVhSzdxNmc1NDIyU3N4YWZKY3RfRGZ1NERDdEdxUGZEOHVF?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T20:10:00+00:00"
-    },
-    {
-      "text": "University of Michigan Will Ease Up on Grades for Student Mental Health",
-      "url": "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T19:37:47+00:00"
-    },
-    {
-      "text": "Luigi Mangione appears in court as questions remain in case ahead of murder trial - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DVk4zdEpJYzBxS0pNeG5zeDNaN3hsWGxGcWQ5ci1GOG01MzIzVW5OY2VfR1N5dmZYVndTWTlyNlphdFpZOFFNYUZQclR1Tl8wQVBGUzNEa3pzUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T19:12:54+00:00"
-    },
-    {
-      "text": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T18:43:28+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Ebola deaths surpass 2,000 in Democratic Republic of Congo - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTAyRlJaeDRnUXFhVVlPZnZtTXB0THJsVUs4ZDFxTnIxSkJwUHh5QW5uSmctbkdCRllIMWZaT2F3ZVZXZk13cDdGMXU1SXRMWUc1TUlKMXJQcndkVV9zcnp1dnVoeElVaC1QWHdENkJybEZFWUJqX3RIcl9wNnNxWEZTLVVzZmRKSFkzT1BsejlOVUlCQ21QdEVlT1Vzc3NIekRSQlRiVWtWV09MU0REZA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T20:25:38+00:00"
-    },
-    {
-      "text": "El-Sayed’s Winning Path in Michigan",
-      "url": "https://www.nytimes.com/2026/08/11/opinion/abdul-el-sayed-michigan-jews-israel-mamdani-aipac.html",
+      "text": "How the Bayeux Tapestry Got to the British Museum",
+      "url": "https://www.nytimes.com/2026/08/11/arts/design/bayeux-tapestry-british-museum.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T20:16:59+00:00"
+      "time": "2026-08-11T22:03:15+00:00"
     },
     {
-      "text": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0VvWlNYREV0aUpYX1JNR3JJbVZ6b1daR1B4bnZaZjRkTFQ4ZGxWd2p6NkNTdWhSX2hmVHJvdWNZdmtHU1NVOVk0Sm03Y0QwSVVlb1hfZ1ZadndFOU54anVTV0J5RG4zN2FxZWpQeUpNT2xQVGhyempQRHR1cVJoazNPczNxVEN4RFBVb2o2aV9UVGsyWVlZ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T19:49:00+00:00"
-    },
-    {
-      "text": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T19:20:00+00:00"
-    },
-    {
-      "text": "What We Know About the Earthquake in Colombia",
-      "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
+      "text": "With El-Sayed’s Victory Comes a Wave of Islamophobia",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T19:05:14+00:00"
+      "time": "2026-08-11T21:46:42+00:00"
     },
     {
-      "text": "Francesca Hong aims to ride progressive wave in Wisconsin primary for governor - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzJwUG01dDRieFMwUjNQaXpYMW4xTzZYQ0ZLQW5NVWkzOWVjbi1RNTRPb1g0SlRzTzV5VzJLMjRhZzd4SkllbUo4bnpYUVdNekU0UDlGa25YMWt0aHI4MFE5X2NiSTB4UUZJUzZqY1c2bzRpTGI4ZnFva1ktTFhEdjJBQ1lhMkVUMUE3LXpOZVMyZw?oc=5",
+      "text": "Nicholas Hoult Joins ‘Harry Potter’ Season 2 As Gilderoy Lockhart - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlk1Y3pPNHdvcGtPaXRuM1J4YUk3R3ViQUYtNDNFWE9oM0c4Z0l1cFFtSUtEc3Zoa2hDdTJpTEhDYzltT3d6U3M3ZHdGeVM3NHJjQWRreVFvQUt3M0lCY1pQTEVXWndpek5IWVNXQlZHblRjOGpQZlpGZDZjRFowSFRMREloYXNHT2NRdk5LYV9oRjBOMjNXWVRlZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T18:40:00+00:00"
+      "time": "2026-08-11T21:22:00+00:00"
+    },
+    {
+      "text": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T21:01:13+00:00"
+    },
+    {
+      "text": "Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0tSQnFnVVBKMkRKMlFlZlE1UTNpQ0xiNTkzSlBDMWNvV2FMcFE4dm9sUFZVamdNZEE2MkpGYVJqYUpMeElhSzJLYzc4MTJkcm96TUFUMU4xa0N3QXY5ejhLOUJjMnJKOUF6RWFVV3dVM05oYVp2clZobDc1ZnFrZkNsOVp2bnNaUGJhc09INjZrQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T20:39:22+00:00"
+    },
+    {
+      "text": "5 questions parents may have after Trump's latest vaccine move - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmkyQlhqN0VKQTBISGRLNDZlRnN6RkZYUjB6ZHoxZVlfSXJOb1pzTDE5c3pLMU5udGhfbVdpNE9LUHFCeFZsLTlSUDBvemc5akRjMUI2QVBFa0M1eFFOTzdsdWNxbWtkNm5hZkhwX3l2LWsxLTJqdDRUSHAzQTNoQ2tib1BtWkJtRld1Qk9jdHNKRzluWTl2YXpoc21Eb29pTENZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T20:20:25+00:00"
     }
   ]
 }
