@@ -1,81 +1,34 @@
 {
-  "generated_at": "2026-08-11T08:31:47.781140+00:00",
+  "generated_at": "2026-08-11T11:31:05.808945+00:00",
   "lead": {
-    "text": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/a-year-in-thousands-of-armed-troops-have-quietly-become-a-fixture-of-d-c-life",
-    "source": "NPR Politics",
-    "lean": "left",
-    "topic": "politics",
-    "sourceNote": "Public radio, nonprofit newsroom.",
-    "time": "2026-08-11T08:29:28+00:00",
+    "text": "Stock futures are little changed as investors weigh Iran, Hormuz deal prospects: Live updates",
+    "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-11T11:24:03+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
-      "url": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
+      "text": "Stocks making the biggest moves premarket: Riot Platforms, Hims & Hers Health, Intel & more",
+      "url": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-premarket-riot-hims-intc.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-11T08:24:22+00:00"
+      "time": "2026-08-11T11:19:54+00:00"
     },
     {
-      "text": "Live updates: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia - cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T08:14:00+00:00"
-    },
-    {
-      "text": "What We Know About the Earthquake in Colombia",
-      "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T07:48:34+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Ex-Florida Cop Who Allegedly Tracked Actress He Met on Vince Vaughn TV Show Avoids Jail - tmz.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNlJ5RUVGUmIzQzkwZEJoM3pIVWxydDNMcWlXbmljWlhVOUhKb2QtdTFnc3VaQVRodG9faTNUOTJKS3pMQ3B2RTl1LUlJWjhjZlJYNDBMNEJ4akY5aHBVWElVMTNmZk1aLW90a0lpYTgxYm5wcUxtS2dzSDNPcnItcFZMcWNoX1VOejI1OHR0aWt0Ry02ZGtFZURYZzVqUFFCSEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T07:00:55+00:00"
-    },
-    {
-      "text": "Late Night Wonders if Trump Got a Wig",
-      "url": "https://www.nytimes.com/2026/08/11/arts/television/late-night-trump-hair.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T05:19:30+00:00"
-    },
-    {
-      "text": "Farage vs. the Man With the Trash Can on His Head",
-      "url": "https://www.nytimes.com/2026/08/11/opinion/nigel-farage-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T05:00:11+00:00"
-    },
-    {
-      "text": "Jake Whisenant, Who Raced Up Yosemite’s El Capitan at Record Speed, Dies in a Fall",
-      "url": "https://www.nytimes.com/2026/08/11/us/jake-whisenant-climber-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T04:19:38+00:00"
+      "text": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-11T11:15:16+00:00"
     },
     {
       "text": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
@@ -84,128 +37,175 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T04:01:30+00:00"
+      "time": "2026-08-11T11:11:16+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "What We Know About the Earthquake in Colombia",
+      "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T10:52:24+00:00"
     },
     {
-      "text": "Trump demands compensation from Iran as talks on Strait of Hormuz continue - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0lyVTFPaXNpRFZZbXdLc3dUcFgtclNId3YtTVl0OFhhdzFENzQ4d0FZMTNPWF9VZWpXNnRpZllXS2I4SlNxY1VMSkl5V1otd1F4RVpoeG82SDhtMHI1ckN5TlkwR3JDTUxGV1M4S2hqRlBDdTNqeGVRcTZCRW10SHlFSUhDTE9ON09kcnRabFhDTDB0M0diNGZOQ0htMjc4dmFYQ2xPUzd2RWdLVEtSVC04dW5VUdIBuwFBVV95cUxQeF92R3l5aEluWUpEWFJsb2NwUy0zOHVzMFdMSDViWXI1OFRUSXk5WF9hUEdnU0RPM2Nxbl9IMkk1T2toZDB4QVJvd3ZfSm5Mb2N1MnFPMVpscDN2UlpjVGhjQkx4QU1YVGxmMVFOUnM0YXU1V2g2SUFRTGVvOUdRVVlGbGZRNFhYMjhyeERhSThyYnFvcWtZUmF4eF96MFZ6Ym1EYTNUYjJXV2gyd2lreUF5VHpNNmJWT2lV?oc=5",
+      "text": "Wisconsin considers democratic socialist for governor amid US wave of progressive wins - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzJwUG01dDRieFMwUjNQaXpYMW4xTzZYQ0ZLQW5NVWkzOWVjbi1RNTRPb1g0SlRzTzV5VzJLMjRhZzd4SkllbUo4bnpYUVdNekU0UDlGa25YMWt0aHI4MFE5X2NiSTB4UUZJUzZqY1c2bzRpTGI4ZnFva1ktTFhEdjJBQ1lhMkVUMUE3LXpOZVMyZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T02:45:30+00:00"
+      "time": "2026-08-11T10:15:00+00:00"
+    },
+    {
+      "text": "Muggy Heat and Storms Continue to Grip the U.S., but an End Is in Sight",
+      "url": "https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:58:33+00:00"
+    },
+    {
+      "text": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:29:13+00:00"
+    },
+    {
+      "text": "Ross Douthat: The Exit Interview",
+      "url": "https://www.nytimes.com/2026/08/11/opinion/ezra-klein-podcast-ross-douthat.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:04:19+00:00"
+    },
+    {
+      "text": "Spain’s Complex Ties With Morocco Fuel Speculation Over Ceuta Migrant Surge",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:03:49+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Trump Media reports $238m loss as crypto falls - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQ2dzN2xtLWlYbWhNZlktMmczZW0yNmswNEhfcUJBX2hkS0ZhRWNGQ0dmYkFweTg0UlhIdG9xNC1PQzJFQnhMZWRBbHNBcHZJLUpWUnVPQ0EwZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T06:55:32+00:00"
-    },
-    {
-      "text": "House of the Dragon star says they’re ‘honoured’ to be killed off in season 3 finale - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkdEVFQ3UHB4UlNXaTFVTmNNUTFLR1VQVWdTM1dCNXVDdXczSGZIY0ltVEJQaXIzSTNRcWtHM2dZVlNtaU91U0N2eXU0X1doekFGRzJGb3dzVFBjYzc3VnNhNjExQk9mWmdqM1owOEVFWmtqSXlGV0tEREszSFFfd3p1XzNocERfZjBxekNJUU1YdG9scE01OUJBWkhYRGNGRUxJYzZBY0JoSFVmSFJlOXVHM1pNYjRJM3F3ZDRiX3FZcVlrOWkyZE1B?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T05:13:00+00:00"
-    },
-    {
-      "text": "Trump signs executive order to split up MMR vaccine - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55NWtEemlWQ2ZEeDhlU29CX0F0a0NGTGttQ2hKUVYteVB6NmFsc3YyeHpobzFHSG04MzJjd1dhMnhBcEpFLXhmTmdZS0JGSFlyRURIR1lSSWZyMlVvaFlFLWdVSkdrYXRQUEwzbjN5c0JlYTA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T04:44:56+00:00"
-    },
-    {
-      "text": "Louisiana warns of rise in flesh-eating bacteria infections - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1pzUzZpMXkzNHBVM29OTVAzODJlN0NGa3ZMUEg3Q29LY2hrZ1RSdHgxMjRUMlg3RF82aVhXQWk4NDZsVnZBSTM4UXRrYnpfcUpqVFp6Zy13b1NHSVF0SHBZV3BhRW03aDdLYmd4c2tOTWZzdUxMOVlNRHZyUWxVaTZ5cWw3a05DbXBpdkxPb1FmQnNGbm8yamltQ1BzeGdCNlVGdmlMQnk5VnBDalpR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T04:10:41+00:00"
-    },
-    {
-      "text": "In a Sweltering Summer, These Italians Want Romans to Curl",
-      "url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
+      "text": "Three Political Tests",
+      "url": "https://www.nytimes.com/2026/08/11/briefing/three-political-tests.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T04:01:06+00:00"
+      "time": "2026-08-11T10:45:15+00:00"
     },
     {
-      "text": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
+      "text": "Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole",
+      "url": "https://www.nytimes.com/2026/08/11/podcasts/the-headlines/evacuate-trump-fda-food-safety-loophole.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T02:34:23+00:00"
+      "time": "2026-08-11T10:00:11+00:00"
+    },
+    {
+      "text": "Stock Market Today: Dow Futures Waver as Oil Forges Higher — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUtoTDkwbmJ3LWNlRFFfYVppTVRCVjA5QUVFMjM3WHp5aUhfMTR0ejN2eHNTbjJSbnB3aWN0eUo3b1JCcFg5c1ZxNTZtMVFIWGc4NnlSRV9yenZUTTA1QVhRSFFUNHV1LW5MYUMxbGdkUHNzUjlUVnRyRERGdDZQTXZnUDE0Tlk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T09:43:00+00:00"
+    },
+    {
+      "text": "August 10, 2026: Death toll rises to 132 following 7.4 magnitude earthquake in Colombia - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2E0OE5yZGJtT1ItYXF5SU9URXp2SzRFcWFIR0tvUmFFei1jcVFxUG4yVTZCb0F3N1hVZXMtalpjUEc0RmhNblhIN0F1ZXhJTHI1b3YyNnFmZE84T0FpWkdjdUVKWEVQb09MV0p2VllfYTJsVGpCMnk3WV9xdHM2dnJBWlc3ZExLSmp5SnlVUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-11T09:24:00+00:00"
+    },
+    {
+      "text": "Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/democrats-plan-new-push-to-defeat-max-miller-in-ohio-after-abuse-accusations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:04:10+00:00"
+    },
+    {
+      "text": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+      "url": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:03:41+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Total solar eclipse Aug. 12, 2026 live updates — 2 days to totality - space.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpkWFU3RW1tNldsVTBJWkdXM0ZkUG9MV0E1Wmc0el9iVFVkXzB1dzFRNVMwdFpOZURzUUpfdk9mdVFpV0MtcDl3RWRRelRVdDdkNWIzeFR4THdBWE14TUVnNFlIekE3LTVhdS15amI3alhWa3lVdWdITWswdDBKT1Y5cU41NTJ5X2VreXVXWVhwMTVWQnJWbmVuU251bzA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T06:51:15+00:00"
-    },
-    {
-      "text": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ19xNGhGZ0JaLTNDVWtsdmQxLW1WU0xOeG5iLTJjZ1QxUDdrYWZGMGR6TnJycWF2SkRzRHFlYzM4c2didkgwZjYzY2RPcmJENjR0bDl0VFlaSDBDR2xNQ3NuVENTalV5ei10eGpmZzVrbDBzTUtCOTZBSjh5V1RBOFN1emNPaVpkYXQxWGgzZEsxdkoyNVNMSk5VRTI1VXY1VUhrQlVuNkVrMDNBRFJYd0dya3RMNnd6amdLdlQtQWk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T05:07:09+00:00"
-    },
-    {
-      "text": "Rule check: Red Sox-Blue Jays delayed for unusual run-scoring play - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jVzkyb1U3Rk9LcHZyVHYwVzl4WURKWHhaUDFSWThtamtodkRNb0JaSlU3UEFFMWJNM3J1OFR6Z1lFbnV4VHRpazEzQmotdHdITEVlOWthOENxdFIwWEMyUF8wWjNfd1Z4V1ZmMjExQkFYaWs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T04:20:51+00:00"
-    },
-    {
-      "text": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - AP News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm1US05CR2dscjFVYXVxckszQzlrZUJMQ2N5TUJCb1Vka21vclZwRGdweDlDWE52UWtaWkhsMnlvX2lBVkdoWnhDS2oxeVdRdmtsUFZjdEZwYy01bVpxeFNOU2R6MGFsd1RxdFFxbkUyNlBxMU44eGh0ZUFGWGxUcTg2U0hjSkk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T04:02:00+00:00"
-    },
-    {
-      "text": "Rabbis Plead With Mamdani to Tone Down His Anti-Israel Messaging",
-      "url": "https://www.nytimes.com/2026/08/10/nyregion/mamdani-rabbis-meeting.html",
+      "text": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-11T03:36:20+00:00"
+      "time": "2026-08-11T10:42:26+00:00"
     },
     {
-      "text": "Stock futures are steady as investors weigh Iran, Hormuz deal prospects: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VmlwRjZlNm9iOXNSRXMtN2ZFN3ozMFYyd3RmX0lBa0NvbHVscFNFWURwMzNOejVPMGlRejgtamhCNzF2WF9UTTBxdGhMV2tkZDc2bGtvRWVNSDRjOUtzNnFMS0laRzlLMTI1eGpId1ViU1JNXzRB0gF8QVVfeXFMTlhUUHFmWm9NbFBpS2M5SW14N0FfUzBac3FBYldQWS12NEFra3BpZ1p3dVRYaWZmQ2lndW1Fdzk4dWlJaC1BYmpfN3dnUThEUTJUMVgwVjZicmZGTThZcGVJZWpsemp5bEs5SUlGUHZHSVI0Ylh0ZlkzcFE1bQ?oc=5",
+      "text": "Trump signs order to limit childhood vaccines and split MMR shots - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nS0FWUjM1QzMtNlZ6T0t2anBSS1lKalMzRU9lVzkycmo5RXgycmZpLVkyTlI2SGpJd0lOR1FORnBmRVpDN1ZtVnAzX2lNUS1FRlNSWXIzUDZqdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-11T02:14:20+00:00"
+      "time": "2026-08-11T10:00:04+00:00"
+    },
+    {
+      "text": "How We’re Covering an ‘Identity Crisis’ in Politics",
+      "url": "https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:40:18+00:00"
+    },
+    {
+      "text": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
+      "url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:05:49+00:00"
+    },
+    {
+      "text": "In a Summer of Climate Misery, Businesses Confront the Need to Adapt",
+      "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:04:05+00:00"
+    },
+    {
+      "text": "What to Know About the Cuban Mafia in Quintana Roo",
+      "url": "https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-11T09:02:44+00:00"
     }
   ]
 }
