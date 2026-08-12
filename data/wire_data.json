@@ -1,63 +1,146 @@
 {
-  "generated_at": "2026-08-12T05:18:44.659828+00:00",
+  "generated_at": "2026-08-12T09:43:13.817791+00:00",
   "lead": {
-    "text": "Stock futures inch higher ahead of Wednesday's big inflation report: Live updates",
-    "url": "https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html",
+    "text": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
+    "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-12T05:13:23+00:00",
+    "time": "2026-08-12T09:15:43+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership",
-      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-12T05:10:36+00:00"
-    },
-    {
-      "text": "Iran war latest: Trump claims control of Hormuz as assassination threat revealed - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T05:03:53+00:00"
-    },
-    {
-      "text": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
-      "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-12T05:00:01+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "CoreWeave narrows Q2 losses, stock climbs 8% - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUlQSzZ1dGQyU1RtcGxiZXRkaHIyNUdFeHc3bXJYSlFuRlNCMmg4QVFNVTFlZ29nMm5rQldCdnAzNm5UWGVfTXRWSi1SLUF2RkZUYTFEd1p5aXE5cGJhU0M4NUItTjRscXpfcGl5TXBrODdXenRUdW9FMTZRb1p5NU9WX1BSbnZFaGxubXZ5MnBObERyZGZLWkx2RWlxWXdrVnREdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T04:51:00+00:00"
-    },
-    {
-      "text": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-      "url": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
+      "text": "Does My Face-Lift Make Me a Bad Feminist?",
+      "url": "https://www.nytimes.com/2026/08/12/opinion/face-lift-feminism-plastic-surgery.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-12T04:01:06+00:00"
+      "time": "2026-08-12T09:03:52+00:00"
+    },
+    {
+      "text": "I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health.",
+      "url": "https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-12T09:00:15+00:00"
+    },
+    {
+      "text": "8 Takeaways from Tuesday’s Primaries",
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-12T08:58:32+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Live updates: Tight primary race for Wisconsin governor - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakUyUnprRl9EZ254QmpoSVdSeldRdUJaUEN1T0hfMURRaE5sSjFnMlRBWC1vcXg5bXNsb2Q2LVBIel80SlNvUUplMGd2c2ZQQXg3NWM0bkFxeDZOeEhEUExhbnNWcVMzZzZGQURnblFkY1NidlNwOERDbUVVeXNKSC1sNUlCT0dScC1VWg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T08:44:00+00:00"
+    },
+    {
+      "text": "Rod Stewart calls off US tour after 'routine' heart procedure - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82Y3d5Mk5lc1ptMlZleXdTMThJeURJZlNkZXplWTFqZnd5eTlCN1hLckhKWWtaRG5yY1hPVkZfdUJLc2x3OThOOXJMUVZId2V1VW9BQmtWekU5Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T07:29:45+00:00"
+    },
+    {
+      "text": "Stock futures inch higher ahead of Wednesday's big inflation report: Live updates - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CSHNyNUIweUU5SmU5MmxjdEg3SXpaNGRpNE9EakxRVmVVRTBfLVBZb2txZ1NKa1pySEtGWUVUemVRaGRKdWdrNUpTWXRFM3ZOb2V6NUNIcXN5U1ppYzU4OUhmUDVydXcyclJLcndQZVJ5aVNCbW5R0gF8QVVfeXFMTmhFcWg1MDU1aEFqcHFBZUlUdnJqT1pHVy1mbWl1MU5TMGlfSFhOMmxDMmJ2QXlTZTF4bGtJSFdzMVR4VURwUDdLUmtBbHJEQ2Y2OFpKNlpKZkx6cTN6LW5PeDR2MjZrWHctVWZaSy1SdE1ndE5KaWdzS2hzXw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T06:18:56+00:00"
+    },
+    {
+      "text": "Horoscope for Wednesday, August 12, 2026 - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTBCMmxJa0xBR0dpQzZzeWZRZ1lSMU5zTElCSDdnNzlUcjJmNjJQaHZSRUhnQ1FtaFpONzk5cWpzbzlmcy1Ta213Z1lLR0RaVlo2OFFhOE1WbjZGa2lvcXFfel9XNWRBZkxtcENjNGxOMDlJT3REQlpqQzFxejdUMUV6a1ROX3QxckJTS0tfRHp1eDFBWE93?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T05:01:00+00:00"
+    },
+    {
+      "text": "President Trump appears, and briefly stars, at his Patriot Games - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnpFRk05V0wwZDB0dGg3anp4cnRDcW5jblpIVXlkSEgxMy05bjlVRUNneUhGU19xU3B5V1NaaVRhV1lnT0lzTDg4SXRrNVcySkMydTk5aDc3WW96azVjU1V6YTZnVUJycDdxU2NyeDhoTmtHMzdCaThfR0ZLd3ViNnU1N1VmdXYycGVyYjhuMDYzT1IxY2FzYWdMUFBuSWdDcU1lM0NGUjZ4dEk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T04:15:00+00:00"
+    },
+    {
+      "text": "How Nigel Farage Ended Up Running Against a Man Dressed as a Trash Can - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjZWNjA3ZE9HWGNsaGt1clpXWlMwZG9XRTBMTHQ2bkdVN1Npc3pGQUN4UFdjQmxPV2RQWXdjVFZwaDBOdzlHdXYyQXZBeDlnVFZLWXl2c3BjX1BBa3Q4VjFpdlJFWVVwMjNFbnlVUHFaZ0YwMmY1OGZfcGRNVXdjeklOMmFCemxGa0NzN3JqWnk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T04:01:07+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-12T08:43:46+00:00"
+    },
+    {
+      "text": "When and where to see the solar eclipse in Wales - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rMUpJTEYyZ1BER2lsRGNPZExUR2pJZFh1RFc4TWhlczF5WmZELUpsd3Byd2Z1bERNWDFtOUUwUVl5R3pxQlBUTl9JWTRLaDlncldsQW1PX2lPdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T06:50:08+00:00"
+    },
+    {
+      "text": "A whisper from the rubble led to baby’s rescue after Colombia earthquake - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXM0em93d0x3aXY5Uk5XOHVEMW4yWmFOREJkM3pWOWVmMWh0LUxMUW9pUW9sRnA5alB0M0dibG9TMUxnM0dmeERFWFJvbDI0Z2lFeHVnbTk0amdWQU9lZFp3amYtQWo5RS05QjRLb19DNEk1UFVvZHdqNXNlMUFpWlNPbzlYaWM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T05:21:30+00:00"
+    },
+    {
+      "text": "Mike Lindell Fails To Win Republican Nomination For Minnesota Governor - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT2hHRDBVT1FNN2xnZHl2QUZTbThfNTBVb2YySVVuX2pmbzJEZzg4X0daYVJCUTN4SjNyTXlMUEFVQ0NaSnhZYjBlTjVmRVE5TkZRSUw5QlZrNzZxeFZYdFBPakZrQnJwaTQta2Y5QTRRN2lZRHJJWWRHci03bFh6NEY0QzREX2JDNDItODduLUNQOVRkb3dISEpUczN3R2g1OHVRdmFtdGpJOUd3dWZXa3k0VkJjVnMwMmRiM3ZBSjkzMHd1WlNTd3dpZkRRckc5WjZMVFQtMEo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T04:47:31+00:00"
+    },
+    {
+      "text": "The Trump administration claims oil is flowing normally again. There’s just one problem - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QT3lNdHNWUGUzcU50SkVSWDlaTFlLempFQUFGZ19PNU9jS2ZXTlpxSkV5QzMxd3EwaERuamQ0cmpSd1RwWkR1dDF0LXNTY3F5WlN1TGRVWm5fbWxoREZmUDJjOEJ1NnFtVDl0NTl1MU83a3lNdzZnUEdB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-12T04:01:29+00:00"
     },
     {
       "text": "Lisa Demuth Wins Republican Primary for Governor of Minnesota",
@@ -67,109 +150,53 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-12T03:32:23+00:00"
-    },
-    {
-      "text": "Powerful ‘Derecho’ Storms Tear Through Midwest",
-      "url": "https://www.nytimes.com/2026/08/11/weather/storms-midwest-derecho.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-12T02:15:40+00:00"
-    },
-    {
-      "text": "Rep. John Larson, a Longtime Lawmaker, Loses a Primary in Connecticut - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjc2WmxCVk5IaTFYSW5ZNWdDSGtfczN2Q1c5cVQtZW9xSzBNRzhYR1RMR2xId3hOSWlHLUxTdkNtVDBNd0Utb3p3aFpmNTZVMTRfc2hCM3Vyc0VOWkdWWk5qbDUyMzRJeE5DbHQxdjFjQThjS3I5cFFYQTZiQ2tFczBQUWNTV0JxcG9NN0dNSXlEU0cyRWQyMQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T02:07:19+00:00"
-    },
-    {
-      "text": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWFGOFhweUJhMFZ2UEZ1MktEQjZSQ09qMVp4T3FOeVhZbmF3aUlHel95Z0dwRVRRdVJfeHRLN2JQTUNtRE40Vy1QSEs0X1hzVzJzMHNoTUNPcHF4XzlPX0ducVp4RENzSmdZaUU5N0ZyajdMSlJKZk1iazJ1WEJ4eTZzdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T01:55:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Live updates: Democrats Francesca Hong and David Crowley locked in tight race for Wisconsin governor - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakUyUnprRl9EZ254QmpoSVdSeldRdUJaUEN1T0hfMURRaE5sSjFnMlRBWC1vcXg5bXNsb2Q2LVBIel80SlNvUUplMGd2c2ZQQXg3NWM0bkFxeDZOeEhEUExhbnNWcVMzZzZGQURnblFkY1NidlNwOERDbUVVeXNKSC1sNUlCT0dScC1VWg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T04:50:00+00:00"
-    },
-    {
-      "text": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-12T03:50:46+00:00"
-    },
-    {
-      "text": "ICE to spend up to $20m on gloves that can deliver painful electric shocks - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05dUcxUEhyOF85Y0FrZGpjbm1oQjd2bU81M29CQVZUcW5kdXAzODVVREtjUE9FWnVSaFZrODhacDBrREo3Z1FHSGpQWjV3UlZxUFl3b0dZcFdTQUdobWsyOWlIaDJFTGw4RFJvZEh1dFVyZ2E0dTFRWF9hTGhGQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T03:27:00+00:00"
-    },
-    {
-      "text": "Iran Said to Have Known Details of Trump’s Stay at NATO Summit",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-12T02:09:20+00:00"
-    },
-    {
-      "text": "Cracker Barrel’s CEO Was Plotting a Turnaround—but Opened the Door to Her Own Exit - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVlHTk0xanNPWmhRTFVWSHZCejhzVlVnZDZBQnJzSGdTSzhIOGliSVdISGluX1FUcjJaakVFS0x2bGpaMnNheEhpUXBxOHp2c1JHRms2ejZ0NjN2dGtvTWM4emRnSkFDNFdMOEV2eXNQRnNhWDhURjZUZjhyYlNUY3pjWGE1UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T02:00:00+00:00"
-    },
-    {
-      "text": "Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T01:53:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "In Europe, the Total Solar Eclipse Is Hours Away",
-      "url": "https://www.nytimes.com/2026/08/12/world/europe/eclipse-preview.html",
+      "text": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+      "url": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-12T04:01:12+00:00"
+      "time": "2026-08-12T07:59:50+00:00"
     },
     {
-      "text": "Trump says he switched planes after Nato summit because of possible threat - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rcWVHSndOalZNOExnTy1NN0dGclYweE9HN1l1cGRMeEpwMGo5OVA4VWp1RDc3Vi1YdjA4aVI5R2t2Yk5Od0tKYWJwSlZrRHdLMXUwSWVWdkRNQQ?oc=5",
+      "text": "Jimmy Fallon Recreates Trump’s Catering Container Escape",
+      "url": "https://www.nytimes.com/2026/08/12/arts/television/late-night-trump-catering-container-air-force-one.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-12T06:26:23+00:00"
+    },
+    {
+      "text": "Peggy Flanagan, a Progressive, Wins the Democratic Senate Primary in Minnesota",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-12T05:17:21+00:00"
+    },
+    {
+      "text": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB - Spaceflight Now",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1Y5Q0wwZGRWTkFpVGdhUm9SNXp3VTg3dWlLYWFhLUlMLTdQRHJKblhYUnVaekVHWWctd1RmNE9TZXJqclRfZmRmTkdHOGNlU0ZCOWs3c3JRRTd1cWwtY0lmQThydnpyRTRqQ3hDUndOVUJZOElBQ1p3eUZPVFUxdFNkaUcyY0RIRldISy1xMHlIYUJtNXhNTXY0QnpCMDR3blZ3c3RWbnI4OVBIekx1VVpiZS1WRXhXOWFWNDNLTG8yMDIxUEhVQkdQZ3Jna1U?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T03:44:55+00:00"
+      "time": "2026-08-12T04:28:32+00:00"
+    },
+    {
+      "text": "In Europe, the Total Solar Eclipse Is Hours Away",
+      "url": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-12T04:01:13+00:00"
     },
     {
       "text": "See How Trump’s Secret Air Force One Swap Unfolded",
@@ -178,34 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-12T02:51:56+00:00"
-    },
-    {
-      "text": "Friend of Malcolm-Jamal Warner’s widow starts GoFundMe amid estate battle, says it will ‘honor’ late star’s wishes - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONG1QeWd0R1pBWWlHV2RuWEVLNGY3QWhCOU1hUUd2cWo4Tk95dzhnUTFRaTBoVno3NFp0b096by13V1JZSWZybHdXc3MtRGl1YnRuTVBiNklRUjFWTThfU2NNMlNSUWV6UGlFVGFBNENobkE1U3VqaldBRGpmWHktMWJpRmZmWUtuQjZkTEw2RDhKUF9YZVFVVVZEZGNFNFdNMmdpUy1QWlhuNjlwTUk4M1FfVktWd29TVDFJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-12T02:09:00+00:00"
-    },
-    {
-      "text": "Darline Graham Advances to the Republican Senate Runoff in South Carolina",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/darline-graham-runoff-south-carolina.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-12T01:56:42+00:00"
-    },
-    {
-      "text": "It Started as a Hot Tub Harbor Cruise. It Became a Rescue Mission.",
-      "url": "https://www.nytimes.com/2026/08/11/nyregion/nyc-capsized-boat-passengers-help.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-12T01:33:09+00:00"
+      "time": "2026-08-12T02:51:57+00:00"
     }
   ]
 }
