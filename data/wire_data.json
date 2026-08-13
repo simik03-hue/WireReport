@@ -1,46 +1,185 @@
 {
-  "generated_at": "2026-08-13T15:37:32.230534+00:00",
+  "generated_at": "2026-08-13T18:41:30.535117+00:00",
   "lead": {
-    "text": "Maine Democrat Jackson acknowledges 1988 assault, denies pushing longtime partner",
-    "url": "https://thehill.com/homenews/campaign/6027615-jackson-denies-assault-allegations/",
-    "source": "The Hill",
+    "text": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+    "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-13T15:32:35+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-13T18:41:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Oil prices fall as investors weigh falling demand against Middle East tensions",
-      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-13T15:31:20+00:00"
-    },
-    {
-      "text": "Person fined after using foghorn to wake sleeping polar bear",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-13T15:30:57+00:00"
+      "time": "2026-08-13T18:36:02+00:00"
     },
     {
-      "text": "In This State, an Intense Fight in the G.O.P. for Control of the Right",
-      "url": "https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html",
+      "text": "Hamas Has No More Cards to Play",
+      "url": "https://www.nytimes.com/2026/08/13/opinion/gaza-hamas-israel-disarmament-palestinians.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T15:30:22+00:00"
+      "time": "2026-08-13T18:35:53+00:00"
+    },
+    {
+      "text": "Board votes to close Kennedy Center during renovations",
+      "url": "https://thehill.com/regulation/court-battles/6028133-kennedy-center-voted-renovation-closure/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-13T18:22:14+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T18:22:07+00:00"
+    },
+    {
+      "text": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T18:08:37+00:00"
+    },
+    {
+      "text": "$1 billion Powerball jackpot has a winner - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzE5NUlLVTI4Z1Y2bG9oRG5Pb1FvdnVIVFg0UVhlVlEyUXBSVktxZXJnWW9sdVZ4REIxazRYYmFubXg4RzZLWnU0NDdsbWNBOU43elFiU005cjBVNkdkaUpSN3BybDdHaGJVUmxyWjc3dnY0ZnUtVmw1aEVfdVNrMWtJY1dqMnctb1I0Ykw4NHFKQUNQUXJ3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T17:53:40+00:00"
+    },
+    {
+      "text": "‘Life-threatening flooding’ possible in Hawaii this weekend from forming tropical storm - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm9fRGN4OHVkLVlzU294ZlNQNkZjbWVpVzdXX1lFYzNLU2dsaHRlUlRmT3pXVUlWdlc0djg5eHlUNE54MFZGT3FxM2Rjdm56NVNxN2czLTROMWFsdkxkQ2MwVVVrUEQyOHl3V3BLcS1sRVpBQzNZcVFtM0pDdTYyZWgtWDdELVVDSWxrNGVWZGRJQzRDTTZuNTE5Y0gtMTNQWVVzZVJCWUtyUHJEUmpiSGh3LWRvOW5MRHNlSFljTm9Ub3dEUEtN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T17:39:19+00:00"
+    },
+    {
+      "text": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
+      "url": "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T17:12:20+00:00"
+    },
+    {
+      "text": "FREE TO READ | Free food distribution across the Region in wake of storms - nwitimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMThCZ3NXREZfSG5HUXpuQVVqVkVzS0ZhVjhacjhLNmstck40Z2ZaMWJQR3lGdGJxellfckwwcW00WkxxM2JwSjIydVFLXzBmNFc4VXZRRS10T3dNZUkySU5oUUhHZ1RqLThFWW9qeEhSanoxQ0VINm9MMTg2RVFwaEFmQ2cyT3lSRkxpa3lDVWYybVk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T16:29:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T18:15:50+00:00"
+    },
+    {
+      "text": "Iran-backed Houthis clash with Yemeni forces and other Mideast developments - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2xURUdxd3E4WWRRZkVmOFBCOWIzaXNSLTJZbTkyRVVHNXlXaEd5Sk4yQ3VHcFBFNjR5YW9wOUZMSkpRYkpJZHQwNzNUQ0dQUjZfS25iUTRFY1FFbHRBQWtZb0pVenFRZC1UNG0wZjR2aUZ5cEwzWGc2SjFJLUh4Ym16eTJhVG5JLU4xNVdhRUc3NnRsWHdjMGgtZ09UaHRLMjMzM2tvTDRzblNZd2c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T18:00:00+00:00"
+    },
+    {
+      "text": "Putin angers Japan with visit to islands seized by Soviet Union in WWII - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMG9Db0NuSV84Qkg5Y2N1WEt2c1NLMnU5clJLVzBrbjJYYmkwbGxjcEhzMVJuNUNac1BOcTRJZmRsWWpvaE9OVDNhQ0ZxaVYxSjJ0S2hVelVvLWoxbGJhRmVLTVFZNHRIaVFpcnpuTVd0NHB2MVc4VzlKVXlDdGNNcnZNNDNQMkUwZkhXcnltbjRpTm81MHAtUHEwMWdFUDd6bnh1alR5ZVNnNlMtVVROSDRUTW0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T17:50:49+00:00"
+    },
+    {
+      "text": "Tennessee executes death row inmate Darrell Hines for 1985 murder of Catherine Jenkins - WZTV",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQeEQxb0hXRUg4enk1cmN5alNTOVVndUJZbF9vR003dF9QMlBBMW5oMDJ5bUUtUW5vaGlhTmpETnVhay1kN09CZ3hpZjBNaHBuaWhuTVcyNVNXOXFKMHVGeEVHMG9QNk1TcTZoNHpkTVJPX1d5QjlOWWJ3MWN1d3FtTWx0Z2hiQno4bDdJMnNGVkhNbmloenBQeld5UVhMdWVwalBrTE9SMDljWGJNS1V2S05tblJicFBSNS0tM2pWeGRkRlM4Um5kNUFLazl6Yk9DbUJfVTQxV2xlYTlkTnFPT2dQOTB2M3BGLVY3YVI5TFpoNWxQZEZ2UElrN2xEeXhKbGlLdkNtRzhNbDM2dEFtblRYR21MUjVXMkFsQ3ZWMTNrQk13SXF1eTVBeWd5QTRN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T17:37:30+00:00"
+    },
+    {
+      "text": "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWx5dzhtUklpMTBzSnBHWGFXUm4xRlpYTE5jTFhGcmthaXdaeGh2UDYyYm0yUWc5NnBsRDg0ck84Zmt4RVJlM01uOGtFelpqWWhtQXRQZ1c3eTBxZmtYUzk2Zkw0M2stcnp2bERmT3gyelJwX19XN2ZTbHRBSzFrN0FkY2g4dFpKOHE4Nl8tcEd3ZjFHN1RBU3M5c3k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T17:12:00+00:00"
+    },
+    {
+      "text": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdldid3hscmhZOXFQb3hJWkw0Zzg3SDdvbjZzRmRKMW5VdGgwX3drNjlvRmsxWEJaRjItQ1NCQVlGOEFNcGQxcHhkOWlkanB6eFRSUFBoa1llc2FXS3U1NnZnN0xCazd3WVNRQmZlVlRKT3JYUG9iYU5vekhLQ25TMWhvU1RNUTd5a3A1Ug?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T16:17:33+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier",
+      "url": "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T18:14:28+00:00"
+    },
+    {
+      "text": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
+      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T17:56:54+00:00"
+    },
+    {
+      "text": "How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T17:40:07+00:00"
+    },
     {
       "text": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
       "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html",
@@ -48,164 +187,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T15:30:06+00:00"
+      "time": "2026-08-13T17:31:48+00:00"
     },
     {
-      "text": "This is Instagram’s new logo - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tYkxiN2hFLVdYUUxBb0xsUlVoN0puSDRSNWtHR2UxLUtSZURPT1lrc2Y1M2RSdlhBN0Rfbldmdnd5TmpGV1BHb21YZjd4Q2ZicktxQmY4UnRUOFJoYmpGMkFfRHo1U0xBTjQ5QmxCb1p4Zw?oc=5",
+      "text": "Selena Gomez, mom sued for allegedly duping investors as mental health company secretly crumbled - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQU9ERXV4eFZFNDBuRFYxbkVNZFdMLWJnQVItbkNtQmVrb2xsU3RCQy12TmFUZFRuWDhKeXpNZzFXV3R0Z3FJa2c3X1NWVDlMbHpGNkdOS0RQYXJabE83bHRhNk1kdkFwdDVaY25Yam9FVC0wWVRMdWtDeXpZYVljNHBUTTlUNkdqTTVmSHRmaWUtQkVoSGZtQzBWX0JzVHNFVy10eDdIVzJKSzhVZ19jeC0teFNaUWJNWDhKbHJnOWVEZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T15:00:38+00:00"
+      "time": "2026-08-13T16:58:00+00:00"
     },
     {
-      "text": "Ebola outbreak caused by new ‘animal transmission’: What that means - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUExzVXFVZkFvamhRU0JlMlU0VjBsZ3M1TmlRQzJPWmJRbUF2UHJBYW5LcVhMWDdBekl2cnRhclpZUVZNcEZzNVRyN29OVDdHdmhJSEhjSlR4TjZqejN4dzFBcUdSa0FEYmk0ZEtRTVFLaVlFV0Z4MUpjOFhkazZvZ2Exa09FVVEwLTA2YkVVcmtFbG5uTW5DSkhtRXRRSzNEQ3h4TFZKUDHSAa4BQVVfeXFMTzhpekVSR3pnMUMtdFNCa202Y3dSb1M3cHhuMzU3T2NxdjV1UVVieE9sWGpkWHZwQU53WFNRZ1hiZFZhay1ibzU0MlJHVFYxWmZTNmZvQTI1RHl6SHpWX0dwRVo3eFZiR1V1ZjJ4dkFaXzJ5M1VuTDZCOXJURGlxSUtaWklKekpaY0VWSW5odmZjSUN1ZVBhVXpleHBxLTQyUDhfNGY0cGQyQWRjckZ3?oc=5",
+      "text": "DJ Pickett’s father responds to Jayden Daniels’ cease and desist letter to LSU over jersey No. 5 - NOLA.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSHBiNzBSZEd1a2dGalQ3em95LUYwaGk4ODFhbWtRU0RIYjJZZU1COEMxQXRPSHExN202UHJ3VXFJa08zVFpYbWlyNlBjdDVYRjdhTUJYTzJNZGJNMkNnWFlubmd5YnBZVDlrY1ZVdFpwUHJZak0zaFZBd0RnV09Ha2lyYzRVMk5jYmlHLVItUEpMNVdsWjlrRFgzeUxMV1V1X1Y0ZEdGR09kNFR5Qm8yUHdDSk9vVTNRa29KZTZaSExCY3ctVGVlREVGVGhhZUNsYmNGSTVB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T14:30:01+00:00"
-    },
-    {
-      "text": "How a Covid-Era Scramble Transformed Supreme Court Arguments",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T14:12:37+00:00"
-    },
-    {
-      "text": "DJI Mic Mini 2S Review: The Best Tiny Mic Now Offers A Pro Experience - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsblVpQVFJR1VGYU5SNk96Z01vczgzNnlKWnJKZVVUYXZyTVdoSGZUekxWTFJwS1FNUUg3c3JQOW9fQlhYMUxDOEI0MWxiMmh6TXlNZG9sakp0WFBSblpONER0RDRqRVU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T13:30:00+00:00"
-    },
-    {
-      "text": "Travis Barker shares harrowing details about plane crash: ‘65% of my body was burned’ - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREtPVkRud1Qwb09TSzZtMUZ1eTNpS21QcUhSa3JPTDgxRW93Vzh2Qnhxb0dsSEEzVGNDUmFjRzFiWS1iWTJLZ0JBajY1d2V3V0Y5clpyOTBRU1gzQnRVZVNCSEZYUm81LW0zQ0tqX0ZQaTd0MXpGVlBtSnRzTmU3UFVlRnhkX0JncHZ2VEpXdlFQN2F6MUVZa0xqN1JXQ2JmODJYaFl6RVJ5V3BIcVFMOGxOc2pZVGs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T13:18:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "In a Chinese Leader’s Death, Mourning for a More Hopeful Time",
-      "url": "https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T15:19:57+00:00"
-    },
-    {
-      "text": "Effects of Record-Breaking El Niño Are Happening on 3 Continents",
-      "url": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T14:53:22+00:00"
-    },
-    {
-      "text": "New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices",
-      "url": "https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T14:26:29+00:00"
-    },
-    {
-      "text": "Outdoor Dining Is Expected to Resume Year-Round in New York City",
-      "url": "https://www.nytimes.com/2026/08/13/nyregion/outdoor-dining-is-expected-to-resume-year-round-in-new-york-city.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T14:08:39+00:00"
-    },
-    {
-      "text": "How Thanksgiving Became Political: Francesca Hong’s Tweets Explained",
-      "url": "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T13:28:51+00:00"
-    },
-    {
-      "text": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T13:12:44+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "How Bob Iger and Joshua Kushner’s Bromance Led Them to Lakers",
-      "url": "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T15:02:27+00:00"
-    },
-    {
-      "text": "Selena Gomez and Mom Sued for Allegedly Defrauding Investors as Business Fell Apart - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2E4V09JNVRTYnFQMmQ5QU5YYTZVNG9pRHFQZnNUUE43RzFYaFpLTjlEVVNzc2NVUkItVGFpRll4eFVQOG1GekUyS2cwOWZZTGt5SEVRMEo1NEJrXzJuRWgxM1U1Ul91VmtBMW82WmdoWUhlckxJMXlZQ3oyamliMmdYNERhRllrc25ZMW1n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T14:44:40+00:00"
-    },
-    {
-      "text": "Bryan Johnson’s Blueprint for a 150-Year Life: Is It Worth It?",
-      "url": "https://www.nytimes.com/2026/08/13/opinion/interesting-times-bryan-johnson.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T14:20:29+00:00"
-    },
-    {
-      "text": "Europe Is Once Again In the Grip of Extreme Heat",
-      "url": "https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T13:52:49+00:00"
-    },
-    {
-      "text": "Trump’s vaccine plan would require millions of individual shots last used decades ago - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2R1Y21OR1lSdTNjcVZSNUpUUzlJVEFPcHY3Wjg4QmMwQTZ5V2ZjQ3hnVlkwMXY0c052UXlrSFBSTXZVZXVtNnpnUTdNQVlIT3VYbXR3cDR6ZjRVeDJZb3RUV1FWZ1d1ZVNyQ2g4VFhSb09GRjBBMFBfdjlYcktuZWVlbzJRRkJVeDA3QXJKaEg2UXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T13:28:00+00:00"
-    },
-    {
-      "text": "Former Trump spokesman ‘very surprised’ Leavitt leaving without replacement - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnFqTXdVbVNPZmc2ekFkM1BoREozMHdZY3AxVW1iYTdmd1RXR0FVN0RjdGpNZ3BlRGNpUy1DMUpDTlA2UXl6WXlzNGgzTmJKd21WN1RZbXVVS3p3T1drOU50VEEyQlV0RktTRWpNRUdhMHdPZnUxTVlhU3dhQnJ1R2lMYVMxVGtqRGpuZDE5endVQdIBlwFBVV95cUxPZl85ZkFycU5TLVg4NFQ1TTFxa0h1R2tZejg2SnFscWp0RmtVSWtIV05adHFXOXNuVElSNFNqM1NOaUg2SlExVGJLRDBiOXNPS0pVSHlSUG1yMzI2QndSXzZzLVA1SEhmU3p6b2oyWUtHV3dPRUVUM19iRGZyZHdSS1JRVmNMZ2VacVRVdFRfbkFkSUt2U2Fv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T13:08:00+00:00"
+      "time": "2026-08-13T16:13:00+00:00"
     }
   ]
 }
