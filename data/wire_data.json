@@ -1,46 +1,194 @@
 {
-  "generated_at": "2026-08-13T05:19:31.674727+00:00",
+  "generated_at": "2026-08-13T09:43:28.416561+00:00",
   "lead": {
-    "text": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
-    "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
-    "source": "CNBC",
+    "text": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+    "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-13T05:07:55+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-13T09:40:18+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "We’re at a Tipping Point on A.I.",
-      "url": "https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html",
+      "text": "‘An English Summer Is Not the Same Anymore’",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T05:00:07+00:00"
+      "time": "2026-08-13T09:32:41+00:00"
     },
     {
-      "text": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-08-13T04:58:00+00:00"
-    },
-    {
-      "text": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Shipping giants warn ports and trucks could hold up deliveries and push up prices",
+      "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-13T04:55:58+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-13T09:17:39+00:00"
+    },
+    {
+      "text": "An 8 P.M. Bedtime, Oxygen Chambers, Blood Tests Galore. What Would You Do for a Longer Life?",
+      "url": "https://www.nytimes.com/2026/08/13/opinion/interesting-times-bryan-johnson.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T09:05:38+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Kansas Put a Bounty on Trans People",
+      "url": "https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T09:03:05+00:00"
+    },
+    {
+      "text": "KOSPI exits bear market as tech rally returns; Nikkei gains, China slips - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdU1zd2NMVTdVNzdxUGs5cmtnOHRya1VtcW1yMjdKRGwtVnpCd05FYmt6ZWc1SkxSQU9WS0xXRVZoUXRkSHB2Yld0R0JCQ3RZZS1xSzdBN1I3M05ldDhWMTlRb2cwazdDUTRRUDNxOGx6bERrUUlLRnMwS3F0dm12SEtsOTM4N3hlTWZIeFY5ZE1HaWFYVlJLaFVrZVltb0h3YUpVWWRfOWl1Z0NJUDVPX3FTb3RHTmw5SnNhNG50NjBrand6dWVCZnZB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T07:41:42+00:00"
+    },
+    {
+      "text": "Stock futures are little changed as traders await more inflation data: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2T1BEeXVKNFJWUVhMSHpRTWdPV3BaaUJfMDZsX2QwMHRoQUZuZlpSY0FTSmhNLWRoemJFeWtmendXVGRMYy1tUmFWVU90YjBOVGpwVEpDRVRncUdZRlZLVUJyX19nblVVYVUwRHRMX3Rlc2ZsNDU40gF8QVVfeXFMTzFHZ1NJdVJ0NzRTTnBBNFJyUDVjSkNXUy1XMDRLWjlSdndzbzlPV0dndHBmSWFDX09RYmhSdU9PWFpMV0tET3BBODk5ZVJKVEJLX1FJRVZGYlFodXMzSDVkc25PbGQ2cEdoV1U5dEZtM1BCc1R0SXFKTUtCeA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T07:04:05+00:00"
+    },
+    {
+      "text": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T06:18:55+00:00"
+    },
+    {
+      "text": "2026 Pan Pacific Championships: Day 1 Finals Live Recap - SwimSwam",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1VVYk12eWs4TE4zRGZzanRtbVhsdHhpMldlOTZRbVNfcW0xM24tMXZfVTZscXNmcHFjdmFFN2ZwR3dxTWpadkhtbDBGN2R0Q25OdC1ucUZZTHJCRFNHTlhwbHFSVXBkUy00c2ZyYnJVYXQ1MmhiYUEyTldzc3EyOHZn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T05:25:46+00:00"
+    },
+    {
+      "text": "Trump Administration Lets Parts of the National Firearms Act Lapse",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T04:07:39+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T08:18:06+00:00"
+    },
+    {
+      "text": "California couple’s surrogate gives birth in Texas after judge orders life-saving care - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiTDl1WnktYTJvUlRkT044RzBLSU5IRGN2b1NSQ3RaVEE3ME1fZDZreWk4cXlZMHlqZE9JVG5yUFcycEoxRmlvNTBkazRnYUF4YVc1X0gtY2k3Wm5LTExfajItLUF2SG1JUS1uNVJtSWl5SWtKR0E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T07:38:37+00:00"
+    },
+    {
+      "text": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
+      "url": "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T06:22:11+00:00"
+    },
+    {
+      "text": "See the 2026 European Solar Eclipse, in Photos and Videos",
+      "url": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T06:11:44+00:00"
+    },
+    {
+      "text": "Horoscope for Thursday, August 13, 2026 - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdGJDS1I2Q096cU5mTFEyMXNnQjZBYmZrTm1zSEFMRHk0QWFLZG5mV0hCYmMxT1VhMDhqTEg0ck16NGtOU19uYXVOV0ZSZWtqenVTZ2pxOGFYNUU5M3JNS25ib1F0SllKWGh2QmZmWTI3aDNoRFZrYmdfbnhnTDVLd3BNOGE4RnpOS2hUZzR2ZV9mVU1udVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T05:01:00+00:00"
+    },
+    {
+      "text": "This 236-Million-Year-Old Fossil Just Rewrote the Story of Live Birth - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmlnZVltM0oxMjk4eG4wcGh6cmxIZWp4ckxjZ1hlVzZsbkY1dEF2aUhDT3N6YmhNNmVEbmh3d2gtd3d1Wnp3Q3hSWTZKNlVEaFNCSUllaEFJTmYzU3E3dDBwcXlsRHluQmJMX0JRWVlfb2pVejV5WGNwckFwdmk1eUdlWURvUUJsQWo3Y3JodnNtZVg2VWVQMkM2Y2NFZkhRUlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T04:00:46+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Live Updates: Trump says U.S. has \"total control\" over Strait of Hormuz and might \"keep it\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNOYzlIQUFzd2ZmNXU5eEJzS0g1ZHNwcVo0Nm1HeUExa2RJQzNQSGJpSWFfZWdoSmxYLVZBMlkzMG10T0R0WWN1dWM1VG5fbjFkcGlBQUZtSWxzVTd4dEJtVUwzdVBRTTNMZWhURWF1Ry1SLW93aGxVX25kcFZtNldkV1REcW91ZGZ3YzZkak9wZTJWOG9HVEx3UUg0RURheVZyZWpFZkpFV1dqUmdWZQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T07:57:00+00:00"
+    },
+    {
+      "text": "Twitch faces backlash over Amazon using content to train AI - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucDkzNFlkcW1keXY5bVFlYkJsRzFNcmltZ0ZOWDRBN0dpV0t6R3ZwQ3dmbzNUdmxWdzVNVlprM1hCcXE0OUFVVXFiLXdvV0ZlTWpDT0ZQYUVvdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T07:32:07+00:00"
+    },
+    {
+      "text": "New indictment alleges Nick Reiner was lying in wait before killing his parents - NPR",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tRzJxRmFpM3dGRFltOEkwbmRvM3FFVHFKeTJhYTZDVDJNcjEwOGdxVjUzQzFCM1BBd0VDVzZmam5HcjJQY2RwdUhOekdHYlh2Y1B2OHVwa3JYX1dOQlE0MTJpTGdKcUYtV1lHdA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T06:21:25+00:00"
+    },
+    {
+      "text": "Powerball player in Illinois wins $1 billion jackpot - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2FhOUQyanpVcHBCaDJJQmNScjBfci1vMzBwSjZxbUhmSmRicWZBZmtNTDJtX2pTTU12cXdrbmlITEZadm5yMHRIc0FvbUEtdjJRWEFrRjd0RnRnU1dSdFpLeXNVbzdkUDJwaTZ0ZGRyZDVaXzVtNEtuOGk0OUljeDU0MkQwa0p5OGdIR2I5QXVyUjJJ0gGaAUFVX3lxTE5CMUhBUTdfbHNqZ3ljeUJ0VGc5dHJBQl9hY25Ic3ViZEdWZml4cjdmeGxxb3lheWJMNDY4MVVZTFUwbzhkM283R0VJNHUtUXBsRXlKM2FQcmNPaVhTVHdLaG1CakgzVDRWN1U0NFBTRGhNaG1NemFpWlduaFR6YzNBd05FRnY5WWlWd1kyN0VIcnYtcEN6TU01WXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T06:07:30+00:00"
+    },
     {
       "text": "Police: 2 adults, 1 child dead in suspected murder-suicide at Hopkins daycare; case linked to Burnsville homicide - 5 EYEWITNESS NEWS",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGxwNXRiR1dOSGdfZV9LU1JKX3RLUmlDbDlwRzVoQzFoeld0dkZCUnUteEM1ZmtRd2Y4THhoOWFXVF9JaTl4R3pzUnljeVZnMFU3QXprNUpxRnA5R293dmRvbUVxYmR5Mjg1RkxHLWg0cG91YkFLSHpqWG12eF80UXd2UnBHUzBmeGVLdHJNOXJOQXl6RUt3MG9NRnA1c2dySHR4UGNMc0dKS0U?oc=5",
@@ -51,161 +199,13 @@
       "time": "2026-08-13T04:33:59+00:00"
     },
     {
-      "text": "‘An English Summer Is Not the Same Anymore’",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T04:00:05+00:00"
-    },
-    {
-      "text": "ICE Agent Who Pushed Activist to the Ground Near Chicago Pleads Guilty",
-      "url": "https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T02:28:49+00:00"
-    },
-    {
-      "text": "Donald Trump loses his favourite press secretary as Karoline Leavitt exits - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGkzOXFSZldlMjVsLVhOVmZPM0NPUDM2dU9jZllDRGdaTEVxOGlCSmgyZ3NuM2tQbDBPLUdBQ3lWdm5YLWpBaVdBVlZoODhCVFM0VDY5TXNBSUlQZTlhOWJYdGI4Y25ybExNRGVHNUVwZzgtTzRKVXNTankyTENuRHJocGo?oc=5",
+      "text": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T01:05:58+00:00"
-    },
-    {
-      "text": "Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
-      "url": "https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T00:48:12+00:00"
-    },
-    {
-      "text": "Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker",
-      "url": "https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T00:43:39+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Trump Administration Lets Parts of the National Firearms Act Lapse",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T04:07:39+00:00"
-    },
-    {
-      "text": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWng0Yy10eHlZdTNFcVMtZHA3d2pjTUExY0htX3R1eC1OaEdlaTZqdUNpMFpSVDZrZ3ItNVhDMlFPaHRDMHJWdlVOeWJoanZMLXlHdi16RF9mUU9tSkg0Q0MzNzVhQWxxVzd4ZzJrSkRnRXEyR0RQSnZ4ZmRXMGh1WVJHbXVrS3dLWGUyLXJyN29za2t0YWlHQ3hIemFyRi1ZaFRzay1PT19tRlBpNndaM1hpOFVpcHR4MWRWa0N3dGRoVzBvVnZxUHZ6SlVxeWs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T03:51:05+00:00"
-    },
-    {
-      "text": "Photos: See the best photos from the solar eclipse : The Picture Show - NPR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTM5RWlDOEpkWHBuSk1OOVl0VlhnM0U1T3czWlNsaTBvb3FzQ3FueTAxYW1fR3prYnBnQnlZQVlMamdCMFZ5YXFDWkxzTEFqa0g1NHQ3OW9yMWVsNzdRTElsR2NfNkZvNkZkdFBablVpdUVyOUlwOWpCbnNua2VMcEhhNkpkTm9rRS02NVpLM2drcEx6Tnk1Rm5jZzJOd1psalptalBINDF6Z1pQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T01:38:01+00:00"
-    },
-    {
-      "text": "Settler Siege of Palestinian Homes Highlights Growing West Bank Chaos",
-      "url": "https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T01:01:06+00:00"
-    },
-    {
-      "text": "A Third Immigrant Detained at Delaney Hall Dies After Medical Emergency",
-      "url": "https://www.nytimes.com/2026/08/12/nyregion/delaney-hall-immigrant-death.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T00:47:40+00:00"
-    },
-    {
-      "text": "California Pressured By Two Hollywood Unions to Settle Paramount-Warner Bros. Lawsuit - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdS16Y0tMMGE4VmdZVGdGazZYclpXVm0yTWI5SU1wQUxTQ1BjcmlpMzZhb0lHQnptR3ptUWtzT2lZdXplWW1xbERhMHFla2hzREJ6US1UMnNBUURSbDkzdjBucjc5NkZBcFBnaHZfcEphRjZXUmJfU1BoOXV3blZQRmFkaXEzcExkNUFvN0lMLUoxNEdQTTl5VHR4UWtCSzRBbzhDTGRSZzJralJHQmhMNlVRXzNhNlNabnBzYWFkZmJLYkNU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T00:41:33+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T04:01:08+00:00"
-    },
-    {
-      "text": "A Fight Over Abortion and Surrogacy Ends With a Baby Born in Texas",
-      "url": "https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T03:06:53+00:00"
-    },
-    {
-      "text": "Ebola outbreak on track to be deadliest ever, WHO chief says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Ml84WmN0dzlBUlBWbEdjZlYwby12SkljazdLcnlSNnNjSjNFaS1wZXhib0NCSTNnWDViODV1NmhPMW9RMXBXNkNGZ2FwVEdvT012bTQwcHZBdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T01:31:21+00:00"
-    },
-    {
-      "text": "Stock futures are little changed as traders await more inflation data: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2T1BEeXVKNFJWUVhMSHpRTWdPV3BaaUJfMDZsX2QwMHRoQUZuZlpSY0FTSmhNLWRoemJFeWtmendXVGRMYy1tUmFWVU90YjBOVGpwVEpDRVRncUdZRlZLVUJyX19nblVVYVUwRHRMX3Rlc2ZsNDU40gF8QVVfeXFMTzFHZ1NJdVJ0NzRTTnBBNFJyUDVjSkNXUy1XMDRLWjlSdndzbzlPV0dndHBmSWFDX09RYmhSdU9PWFpMV0tET3BBODk5ZVJKVEJLX1FJRVZGYlFodXMzSDVkc25PbGQ2cEdoV1U5dEZtM1BCc1R0SXFKTUtCeA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T00:48:59+00:00"
-    },
-    {
-      "text": "Who Is Joshua Kushner, the New Lakers Co-Owner?",
-      "url": "https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T00:46:04+00:00"
-    },
-    {
-      "text": "ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemFmMEthNUtmc04tdGtkVV9pZ2J5UFh2YlpaX0tPYnR0dlUybEZLV2FpVGxRRkoxaU5WTVNlVm03WmNMYnpwczFFR3lSYXNfdU1SNGFnTjNjTXRnbDVBUkJtV1dEVDBDUGJsUmhzaTFKRVk1aUZNVEJtS0l1c1ZoeWo3TDA4OGlCdHVwbjVB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T00:23:00+00:00"
+      "time": "2026-08-13T03:28:56+00:00"
     }
   ]
 }
