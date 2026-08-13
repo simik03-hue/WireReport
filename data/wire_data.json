@@ -1,146 +1,119 @@
 {
-  "generated_at": "2026-08-13T12:11:15.866255+00:00",
+  "generated_at": "2026-08-13T15:37:32.230534+00:00",
   "lead": {
-    "text": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-    "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
-    "source": "CNBC",
+    "text": "Maine Democrat Jackson acknowledges 1988 assault, denies pushing longtime partner",
+    "url": "https://thehill.com/homenews/campaign/6027615-jackson-denies-assault-allegations/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-13T12:09:54+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-13T15:32:35+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "S&P 500 futures move higher as oil falls, traders await more inflation data: Live updates",
-      "url": "https://www.cnbc.com/2026/08/12/stock-market-today-live-updates.html",
+      "text": "Oil prices fall as investors weigh falling demand against Middle East tensions",
+      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-13T12:06:09+00:00"
+      "time": "2026-08-13T15:31:20+00:00"
     },
     {
-      "text": "Three men will be executed on the same day as death penalties rise in US",
-      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+      "text": "Person fined after using foghorn to wake sleeping polar bear",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-13T12:04:44+00:00"
+      "time": "2026-08-13T15:30:57+00:00"
     },
     {
-      "text": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T12:01:26+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark",
-      "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T11:29:26+00:00"
-    },
-    {
-      "text": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T11:21:58+00:00"
-    },
-    {
-      "text": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T10:22:18+00:00"
-    },
-    {
-      "text": "‘An English Summer Is Not the Same Anymore’",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T09:32:41+00:00"
-    },
-    {
-      "text": "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T09:03:43+00:00"
-    },
-    {
-      "text": "Outdoor Dining Is Expected to Resume Year-Round in New York City",
-      "url": "https://www.nytimes.com/2026/08/13/nyregion/outdoor-dining-is-expected-to-resume-year-round-in-new-york-city.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T07:00:20+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.",
-      "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T11:25:30+00:00"
-    },
-    {
-      "text": "What’s Happening in Kansas Should Alarm Us All",
-      "url": "https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T10:52:29+00:00"
-    },
-    {
-      "text": "Hegseth Is Pressed to Clarify Lawyer’s Role in Promotion Decisions",
-      "url": "https://www.nytimes.com/2026/08/13/us/hegseth-jason-crow-military-promotions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T10:01:05+00:00"
-    },
-    {
-      "text": "An 8 P.M. Bedtime, Oxygen Chambers, Blood Tests Galore. What Would You Do for a Longer Life?",
-      "url": "https://www.nytimes.com/2026/08/13/opinion/interesting-times-bryan-johnson.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T09:05:39+00:00"
-    },
-    {
-      "text": "In Wyoming, a Primary Fight Between the Right and the Far Right",
+      "text": "In This State, an Intense Fight in the G.O.P. for Control of the Right",
       "url": "https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T09:01:47+00:00"
+      "time": "2026-08-13T15:30:22+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
+      "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T15:30:06+00:00"
+    },
+    {
+      "text": "This is Instagram’s new logo - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tYkxiN2hFLVdYUUxBb0xsUlVoN0puSDRSNWtHR2UxLUtSZURPT1lrc2Y1M2RSdlhBN0Rfbldmdnd5TmpGV1BHb21YZjd4Q2ZicktxQmY4UnRUOFJoYmpGMkFfRHo1U0xBTjQ5QmxCb1p4Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T15:00:38+00:00"
+    },
+    {
+      "text": "Ebola outbreak caused by new ‘animal transmission’: What that means - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUExzVXFVZkFvamhRU0JlMlU0VjBsZ3M1TmlRQzJPWmJRbUF2UHJBYW5LcVhMWDdBekl2cnRhclpZUVZNcEZzNVRyN29OVDdHdmhJSEhjSlR4TjZqejN4dzFBcUdSa0FEYmk0ZEtRTVFLaVlFV0Z4MUpjOFhkazZvZ2Exa09FVVEwLTA2YkVVcmtFbG5uTW5DSkhtRXRRSzNEQ3h4TFZKUDHSAa4BQVVfeXFMTzhpekVSR3pnMUMtdFNCa202Y3dSb1M3cHhuMzU3T2NxdjV1UVVieE9sWGpkWHZwQU53WFNRZ1hiZFZhay1ibzU0MlJHVFYxWmZTNmZvQTI1RHl6SHpWX0dwRVo3eFZiR1V1ZjJ4dkFaXzJ5M1VuTDZCOXJURGlxSUtaWklKekpaY0VWSW5odmZjSUN1ZVBhVXpleHBxLTQyUDhfNGY0cGQyQWRjckZ3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T14:30:01+00:00"
+    },
+    {
+      "text": "How a Covid-Era Scramble Transformed Supreme Court Arguments",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T14:12:37+00:00"
+    },
+    {
+      "text": "DJI Mic Mini 2S Review: The Best Tiny Mic Now Offers A Pro Experience - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsblVpQVFJR1VGYU5SNk96Z01vczgzNnlKWnJKZVVUYXZyTVdoSGZUekxWTFJwS1FNUUg3c3JQOW9fQlhYMUxDOEI0MWxiMmh6TXlNZG9sakp0WFBSblpONER0RDRqRVU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T13:30:00+00:00"
+    },
+    {
+      "text": "Travis Barker shares harrowing details about plane crash: ‘65% of my body was burned’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREtPVkRud1Qwb09TSzZtMUZ1eTNpS21QcUhSa3JPTDgxRW93Vzh2Qnhxb0dsSEEzVGNDUmFjRzFiWS1iWTJLZ0JBajY1d2V3V0Y5clpyOTBRU1gzQnRVZVNCSEZYUm81LW0zQ0tqX0ZQaTd0MXpGVlBtSnRzTmU3UFVlRnhkX0JncHZ2VEpXdlFQN2F6MUVZa0xqN1JXQ2JmODJYaFl6RVJ5V3BIcVFMOGxOc2pZVGs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T13:18:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "In a Chinese Leader’s Death, Mourning for a More Hopeful Time",
+      "url": "https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T15:19:57+00:00"
+    },
+    {
+      "text": "Effects of Record-Breaking El Niño Are Happening on 3 Continents",
+      "url": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T14:53:22+00:00"
     },
     {
       "text": "New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices",
@@ -149,63 +122,90 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T07:00:07+00:00"
+      "time": "2026-08-13T14:26:29+00:00"
+    },
+    {
+      "text": "Outdoor Dining Is Expected to Resume Year-Round in New York City",
+      "url": "https://www.nytimes.com/2026/08/13/nyregion/outdoor-dining-is-expected-to-resume-year-round-in-new-york-city.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T14:08:39+00:00"
+    },
+    {
+      "text": "How Thanksgiving Became Political: Francesca Hong’s Tweets Explained",
+      "url": "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T13:28:51+00:00"
+    },
+    {
+      "text": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T13:12:44+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
-      "url": "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html",
+      "text": "How Bob Iger and Joshua Kushner’s Bromance Led Them to Lakers",
+      "url": "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T11:24:27+00:00"
+      "time": "2026-08-13T15:02:27+00:00"
     },
     {
-      "text": "A Celestial Wonder",
-      "url": "https://www.nytimes.com/2026/08/13/briefing/solar-eclipse-photos.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Selena Gomez and Mom Sued for Allegedly Defrauding Investors as Business Fell Apart - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2E4V09JNVRTYnFQMmQ5QU5YYTZVNG9pRHFQZnNUUE43RzFYaFpLTjlEVVNzc2NVUkItVGFpRll4eFVQOG1GekUyS2cwOWZZTGt5SEVRMEo1NEJrXzJuRWgxM1U1Ul91VmtBMW82WmdoWUhlckxJMXlZQ3oyamliMmdYNERhRllrc25ZMW1n?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T10:43:34+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T14:44:40+00:00"
     },
     {
-      "text": "ICE’s Plan to Give Officers Electric Stun Gloves, and a Siege on Palestinian Homes",
-      "url": "https://www.nytimes.com/2026/08/13/podcasts/the-headlines/ice-electric-stun-gloves-palestinian-families.html",
+      "text": "Bryan Johnson’s Blueprint for a 150-Year Life: Is It Worth It?",
+      "url": "https://www.nytimes.com/2026/08/13/opinion/interesting-times-bryan-johnson.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T10:00:11+00:00"
+      "time": "2026-08-13T14:20:29+00:00"
     },
     {
-      "text": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
-      "url": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+      "text": "Europe Is Once Again In the Grip of Extreme Heat",
+      "url": "https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T09:04:41+00:00"
+      "time": "2026-08-13T13:52:49+00:00"
     },
     {
-      "text": "So You Want to Build an A.I. Star?",
-      "url": "https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Trump’s vaccine plan would require millions of individual shots last used decades ago - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2R1Y21OR1lSdTNjcVZSNUpUUzlJVEFPcHY3Wjg4QmMwQTZ5V2ZjQ3hnVlkwMXY0c052UXlrSFBSTXZVZXVtNnpnUTdNQVlIT3VYbXR3cDR6ZjRVeDJZb3RUV1FWZ1d1ZVNyQ2g4VFhSb09GRjBBMFBfdjlYcktuZWVlbzJRRkJVeDA3QXJKaEg2UXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T09:00:20+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T13:28:00+00:00"
     },
     {
-      "text": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
-      "url": "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Former Trump spokesman ‘very surprised’ Leavitt leaving without replacement - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnFqTXdVbVNPZmc2ekFkM1BoREozMHdZY3AxVW1iYTdmd1RXR0FVN0RjdGpNZ3BlRGNpUy1DMUpDTlA2UXl6WXlzNGgzTmJKd21WN1RZbXVVS3p3T1drOU50VEEyQlV0RktTRWpNRUdhMHdPZnUxTVlhU3dhQnJ1R2lMYVMxVGtqRGpuZDE5endVQdIBlwFBVV95cUxPZl85ZkFycU5TLVg4NFQ1TTFxa0h1R2tZejg2SnFscWp0RmtVSWtIV05adHFXOXNuVElSNFNqM1NOaUg2SlExVGJLRDBiOXNPS0pVSHlSUG1yMzI2QndSXzZzLVA1SEhmU3p6b2oyWUtHV3dPRUVUM19iRGZyZHdSS1JRVmNMZ2VacVRVdFRfbkFkSUt2U2Fv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T06:22:11+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T13:08:00+00:00"
     }
   ]
 }
