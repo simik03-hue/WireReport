@@ -1,158 +1,26 @@
 {
-  "generated_at": "2026-08-14T09:42:15.824065+00:00",
+  "generated_at": "2026-08-14T12:02:26.479807+00:00",
   "lead": {
-    "text": "Stock futures choppy after S&P 500 sets record above 7,800, heads for winning week: Live updates",
-    "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "Whole Hog Politics: Hyperventilation over Hong",
+    "url": "https://thehill.com/newsletters/whole-hog-politics/6028380-wisconsin-primary-results/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-14T09:30:52+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-14T12:00:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Ocasio-Cortez Can Run. Can She Win?",
-      "url": "https://www.nytimes.com/2026/08/14/opinion/aoc-president-woman-egg-freezing.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T09:03:56+00:00"
-    },
-    {
-      "text": "Nintendo shares pop 7% after 'Pokémon Pokopia' sales top 5 million",
-      "url": "https://www.cnbc.com/2026/08/14/nintendo-shares-pokemon-pokopia-switch-2.html",
-      "source": "CNBC",
+      "text": "US-Japan moves to bolster the Yen set a precedent for currency interventions",
+      "url": "https://thehill.com/opinion/finance/6028150-us-japan-yen-intervention/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-14T09:03:34+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-14T12:00:00+00:00"
     },
-    {
-      "text": "Extreme Heat Is the New Normal",
-      "url": "https://www.nytimes.com/2026/08/14/opinion/extreme-heat-arizona-climate-change.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T09:00:06+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Parliamentary investigation resumes into Nigel Farage hours after he wins Clacton by-election - live updates - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DM01uYmNNNllRVGpSZ2oxUE94OTEyS2lrTElMZG9iZXRTNnZIeXp5TGdOeUxvVU1hQm5pUGtGMGJUYmJHbU00M2cxaVB2dW1LQWp1cQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T08:26:15+00:00"
-    },
-    {
-      "text": "Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2h0ekZRS25id1lPRXExRkZNc2hmZnEtdzVwb3BEWkNscy1oLVF5MkhwWG9YYzhrNHVBQjB6YWM4b0c3MUFueV9ON1p1UnBydFhGdkpZVnVkTGVvdkJaY3dQTEhPdE04eU00TVFaa09uNHlQbG0tcmxFS1FlUk90R2sxV1JjVVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T07:02:22+00:00"
-    },
-    {
-      "text": "Jimmy Fallon Reacts to Karoline Leavitt’s White House Exit",
-      "url": "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T05:34:38+00:00"
-    },
-    {
-      "text": "Horoscope for Friday, 08/14/26 by Christopher Renstrom - SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVVLZmFzbzhjUDVsTTBpNUR6ZWV3VjBuWmtVUkZFRFR5NVo4V2hkaC1TX2VMeVhfZGlnajViMnNnbUlVR2NVaTVsOF80YU1HQXlMRTVuM3BQbEg5X0VkaUFFZXY5am5MZUtnZGFGZlB1a2dQaDFUT2NoVmlzOS1VV2ljZ1dkWG8ydU9IMDBoNXhJQl9NdVNTd0tzRXVxU3hFWFE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T05:11:36+00:00"
-    },
-    {
-      "text": "American Missionary Kidnapped in Niger Is Said to Be Released From Captivity",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T04:25:38+00:00"
-    },
-    {
-      "text": "Ennis Rakestraw, Isaac TeSlaa struggle in Lions' preseason loss to Bengals - Detroit Free Press",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdG5ERTlyRW05eDhqS3JzdllNRUk0Nzd5QXVDYXV5UGREYnk4ZXpKR0JZWW5XdDhPbE9wNE1oM3lOY1RJRW1qeGJSemVxNEVsSTh0bnpqOTJyc3kyQzNuemh1VzNVTlI3NGVEOEdrVUVYVUFIVk95d3E3RWQtRUstMjAwd09QbmVNT2RYLW52WmNUWHRZMXFOZ2p6RkxCM0QwaC1Ed1VB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T03:20:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Drake Dating Show 'Goth Baddie' Pinkchyu Reveals Another Celeb Barked in Her DMs - tmz.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkR4cmpuT2JkQWpTTnB6T25USWVjWHkyeHdPeXJPMEFkVVpjZFZSSkRDMTBhZUhudGNOSWFoSE1FLUp0R3JJdkpXS01paHFYWUNqUUJiTzhlX2hfVmkwWFptUDEzS3pIN2hhd3gxRUVYaUVsYlY5NzBiWmRINGNCYUdaRVV0YnBLd3dGMk54TWljYVRWTzJETW05VmduM1VN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T08:00:54+00:00"
-    },
-    {
-      "text": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - NPR",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcUJxM0VpYjVHTnVrdDVkRksyM2ROTlZnUVphRUJMVU9SQ2tqNmN3VjZHc1VSNnhOeTVXVFl5MUoyMUI5RWhHQ1gyRjluWTV3blVIZWs0UGNSZFFHM3FGdmxzNDZZWVk2Y05HWFAwcUpSMEJBUE5kYTllM1RzRXhtcmxJV2lfZGZadndDemxaaXMyTnFLZG1PN3VuSDQ3UTdueFFUUGxVTWxoQ3lUeFJnaGlwQWUzNVlMS0xrazZ2b3MxQkR4QXFuUUY4X2lkME1ySmVnZ2VR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T06:31:29+00:00"
-    },
-    {
-      "text": "Ust-Luga Ablaze Again as 54 Ukrainian Drones Hit Russia’s Key Baltic Oil Port - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iaUpIN0FudFVIazAwX3h0el9mRXhXOEo4a0FUaHppdFBvVy1HVHllTUgyR2haM1h4YlZUcTNjMjZBbHJJa3Z4dG1Zdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T05:33:14+00:00"
-    },
-    {
-      "text": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T05:08:37+00:00"
-    },
-    {
-      "text": "Read the Full Credits to Phoebe Bridgers’ Lost Weekend - Pitchfork",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGdKOTJnYUxya0xCVGVhS0lvNGdpaVBMWGp5RVNsTTJOUUgtUmFCWDY2d2ZJMkJaRUVCcHRUcEo1WVdyakF1S19jdlNseWF5eVJvWEFrTmdzYmFaZ2lkbVJhZFMzNUdrQm5wYnpNanpPM0pKNkF2ejR4WmdIbjZKdDhTTEYyTERBaXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T04:07:53+00:00"
-    },
-    {
-      "text": "Asian stocks head for strong weekly gains as US rate hike bets fade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T02:32:00+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
@@ -160,52 +28,184 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T07:35:29+00:00"
+      "time": "2026-08-14T11:56:55+00:00"
     },
     {
-      "text": "Kennedy Center board votes to inscribe Trump’s name on building - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODEtSlpzdkFGY0JXTmZDcDdmZzYxNmpxM3F2bzRqeTFOeFJwX3dWcWd4QVJ1TGtsR3F6Nkk1U3RPV3NNLUZRNkViQWV3N0lENmJYN2twWTdpbENaZVMtMUkxUDBCcUtRa3dRWkJwT2t0YXFLamdfbVY2N29MQ3NGRlBwZENDanFWUUpfeDdvZ1NDc3hLdHVaelJOc293LUt0MWtoU29ZZTFZdWZBa2Yw?oc=5",
+      "text": "S&P 500 futures are little changed after benchmark sets record above 7,800, heads for winning week: Live updates",
+      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-14T11:54:08+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are \"goal number one\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2FwQzRGRnQwTjFNbTRBTHNFY3JtRTRNZkZ5T1VYbFBlbzVhNnZqTTlrWEZaN3VzTWpySWVhOFdNNmhmTzdpWnZkY1NVNzFOWUxvakM4RkJmU1JMSWlpN3BTNFA3UHdUbXNiSjVDbjJWdjhQa0p3WFUyNGRXNzZzS3k2SnBWNlRsN1hCN0swYVR4MW5GbDFXM3VZSGF0QjlHbXZyMVZibFdyd3c2Q1Bv?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T05:49:31+00:00"
+      "time": "2026-08-14T11:33:00+00:00"
     },
     {
-      "text": "Raiders rookie Fernando Mendoza throws for 97 yards in 4 drives - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXpTSFk3UFRJYURpYWNlY0hySTNjT2tsckNwLTlWeDFnUzBFS2dBbTZRS2xuZXNfTXNDOFpjQlRDVTRoMk1zWVpqZ1V2M2JDVGh1NHpCTTMtWDVqV3lqWG9Rdi1iRHRpZnc5a0NpOWZKZVg5TFY0dWl3ZVJ2S3VRUFJQaUJyWHJSNkVXSkxXUk5PMkZuTWlsZFVwSnZpZGk1UHpz?oc=5",
+      "text": "Stock Market Today: Dow Futures Waver — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZlNXl2WnpFQzhWOVFVV0RoVjJMX21NVDVxZlMtVXFoRXBsZzZGZXVEVDNjYjlobi1Nanh5VDd4RndxYWM3OWUzN2FMUG5HY0pxWkFhNVZBQmJpQUJtMmpsZHo1bENNYjdpVzNHSFh1UzR0QlpJblRqQTlETUNuZG5jR1BrWEk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T05:17:00+00:00"
+      "time": "2026-08-14T11:08:00+00:00"
     },
     {
-      "text": "‘Unprecedented’ rain kills four in Japan as thousands stranded at airport - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlBxdXdab3JybzFnc0dJSWhBdU15MjJ0MnBpaTJjZUFTWEh3VzVoSHBCUDFBSl84SmIwOC1zQTRBcFhjaGRCQnRoUjhBZmJaeEJKNGI3N0g0RFlEVDFpUWhlRlpqRnp3ei1SQTZjbDZiLXVoN0ZDdGZROXJyS2FmVE1vS0ZnOXYxZUtSS1Q4SDNFb1h3ZnhMY2dTeGYzTjd5OFA1bzBOdHBsNHdkTXpqa2JuMXprUQ?oc=5",
+      "text": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TDM4djU3aHFDbmsyVUdtUVZPOWpTV0lUUW1pZ3dCUXBzbXQ4d3UyNW9hMHFEaEt6YTB5dDVyamN1bEJBRm9mc1dNZnFZSFEwMG01MHV3bmxLNFQ0QnlybmotdTnSAWpBVV95cUxOTDlac0tFMVFiM3V3eElfdVRqSGVxYWQxSzM4TDd2STBsS0RpNVNqUGlKZzkxX0hocjJ6WWJoWG9HRUY2cXM1bFVjMnRqUmxVQ2d1dFRvdkk4dDJLTlRDMFFKaDJOaC05VUx3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T04:33:00+00:00"
+      "time": "2026-08-14T10:46:33+00:00"
     },
     {
-      "text": "Joe Burrow has no thoughts about the LSU, Jayden Daniels number fracas - nbcsports.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVzJ4WC0xRmcxaVktN2RvbWcxdF9CY2pVNVZ1VkNvOHF3SWJOU0tDZjRodjZwcVN6U0hGb0pUTHItb2JVTElrQ1FfSi1XaDBzNHk3M09mTmdmSnFQUHRCdlMzcm8yRHpLSnoxSkF5bDlMdktuQ2JjM3EyY2c4d3VoM3VMS2tObkp3RGVzU1ZNVlo4bUZTdXViY2dGS20zSl96VEd5S1J5WW8zbkNnTGstX2RCTVltVFBGRGlveWxYdTNNLWVxelN1NmtVQQ?oc=5",
+      "text": "The FDA approved the first mRNA flu vaccine for use in older adults. Here’s what to know - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aQXM5elExaVF3UWREbF9QakVfVmlHTkwyZUtQVVlab3lPN0VfTkd6YlJJQVJPeVB5X0YyMy1pcmxHYUtCNXRVdndlb3dkUmcwdUJHMkh0d0xNeU0wei1xSVBZZlhiLVVrV3E5Qg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T03:47:49+00:00"
+      "time": "2026-08-14T10:00:30+00:00"
     },
     {
-      "text": "Three inmates are executed on same day in US for first time since 2010 - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlJWOWpIQ21yVjhoSDF0cTFyYzdMMGJxQjljZVBSZVJKM3RJcWM1WHVDSHhoOXZzR3VQcWtKeDNfX040bnJQXzg3UlpTdDQweC1NZXZFU0dKTWtDSUxqNElNaXpOWUlwRHJ1anV0NnhkRHhLQTZJbzdNdXk3UEhTSFdoNVRZb1JYaTdsa2VjQnRtdlQza0NPQmRLdDM5bTlJLW5PMEVQR20xeERJZ2JZ?oc=5",
+      "text": "Bill Ackman's latest bets, including Netflix and Visa, mark major portfolio overhaul - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVVnUUE3MWx0Q1Bfd25KT19YNUM3b0JtblhTX0Vlb2oxSktZMHprVWtSUGlTMmxXTWZYTDVFMlM0UGc0UWY5UXpTVkcxQWh2aHFSZTkxdkdGVnBWY3RiU3ZjR1pyODl5RDN2cE9SNHRocEdkQ2x4aUROT2IweWNUNUZPOEJNLXdWVHhrMg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T01:48:00+00:00"
+      "time": "2026-08-14T09:48:11+00:00"
+    },
+    {
+      "text": "An Unlikely Emergency Appeal to the Supreme Court from a Dog Named Bruce",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T09:03:47+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Extreme Heat Is the New Normal",
+      "url": "https://www.nytimes.com/2026/08/14/opinion/extreme-heat-arizona-climate-change.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T11:28:35+00:00"
+    },
+    {
+      "text": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T10:57:03+00:00"
+    },
+    {
+      "text": "Gone in 20 Minutes: Half-Off Sushi Draws Throngs to New York’s Japanese Markets",
+      "url": "https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T10:42:20+00:00"
+    },
+    {
+      "text": "American Missionary Kidnapped in Niger Soon to Be Reunited With Family - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1NBSkZvQi1WVm8xcVRjUnVXbk5LaDhVQ2laRm9KN19tellvUTg0RGtIcnJONldjYVhHeEtWYUZvWjdueVVYWU5acDJ3eUhqbm5qUldocVkwcEp5OC1KYVF3eXlKMnVFeW5Ic0VRcnhYckF1QjZkU2JrcjR5WWltVUVmajEwcmVYTzJydFE1U0haWkRaNFY2Vkw5TQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T10:00:20+00:00"
+    },
+    {
+      "text": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0NXREk1M2c0WmFMQmF4YnNtYktlMmdpQms2NDE0RFppYkw2VlVsRzdRa2VmS3NXMTNaQlIwRlBHZ3hTRVBKZkRSdkRtNml2YlMzY0dBQTF4Z2tpeU1fRS0wR1Y4Y0hCVjF3V0lfdXZTN3NXNEtmRFJIUHZKbkZ3a1dYcl9nd3ZtLVhqSGt1blhWd1dPNy1fZERjdjFXUEEya1pXTHF2VlNVQ0hS?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T09:40:21+00:00"
+    },
+    {
+      "text": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T09:02:49+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Is Ocasio-Cortez Ready for the Glass Cliff?",
+      "url": "https://www.nytimes.com/2026/08/14/opinion/aoc-president-woman-egg-freezing.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T11:18:18+00:00"
+    },
+    {
+      "text": "Are Political Polls Accurate?",
+      "url": "https://www.nytimes.com/2026/08/14/briefing/are-political-polls-accurate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T10:47:16+00:00"
+    },
+    {
+      "text": "More Wildfires and Extreme Heat Roil Europe, but Relief Is on the Horizon",
+      "url": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T10:38:20+00:00"
+    },
+    {
+      "text": "Concerns Grow Over Conditions on Aircraft Carrier, and Trump Pushes New Hacking Effort",
+      "url": "https://www.nytimes.com/2026/08/14/podcasts/the-headlines/aircraft-carrier-trump-hacking-effort.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T10:00:15+00:00"
+    },
+    {
+      "text": "As Europe Gets Hotter, Its Transportation Systems Struggle to Cope",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T09:07:25+00:00"
+    },
+    {
+      "text": "Federal Job Cuts Are Making Wildfires Harder to Fight",
+      "url": "https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T09:02:09+00:00"
     }
   ]
 }
