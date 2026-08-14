@@ -1,34 +1,110 @@
 {
-  "generated_at": "2026-08-14T21:03:59.207928+00:00",
+  "generated_at": "2026-08-14T21:58:14.236245+00:00",
   "lead": {
-    "text": "The 5 Congress Members Whose Families Trade the Most Stocks",
-    "url": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
+    "text": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
+    "url": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-14T20:51:31+00:00",
+    "time": "2026-08-14T21:49:49+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-08-14T20:51:05+00:00"
+      "text": "Ian Frazier Wrote ‘Coyote v. Acme’ in 1990. Now It’s a Movie.",
+      "url": "https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T21:46:45+00:00"
     },
     {
-      "text": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-      "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+      "text": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+      "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-14T20:47:41+00:00"
+      "time": "2026-08-14T21:45:19+00:00"
+    },
+    {
+      "text": "Luigi Mangione Pleads Guilty",
+      "url": "https://www.nytimes.com/2026/08/14/briefing/luigi-mangione-pleads-guilty.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T21:40:28+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T21:34:18+00:00"
+    },
+    {
+      "text": "Trump officials ask Supreme Court to let ballroom construction continue - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMURpRHk3OURBQTlENnlxM1g4Sno3STU5WGgzMkdvLUhsd0ZuVWk4MVBTMmRvcEJSbHVqam5hQjZTVzNnN043Yk5fTUUxY2JnNHNvSjVkUXpSaUFQYkhhb1gyRzNnY0had3hoVWJuSVc4elBOVGJ4dHBHbG41c1BWOVZkX0NuRFJ1RUVXRTdIRDNWSXRzdUZFRkVkUWptejJXaWhteVkxYVA3VTNnRWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T21:09:42+00:00"
+    },
+    {
+      "text": "The Warring Visions of American Power",
+      "url": "https://www.nytimes.com/2026/08/14/opinion/ezra-klein-podcast-linda-kinstler.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T20:32:24+00:00"
+    },
+    {
+      "text": "Stock Market Today: Dow, S&P 500 Slip; Reddit Stock Jumps — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZlNXl2WnpFQzhWOVFVV0RoVjJMX21NVDVxZlMtVXFoRXBsZzZGZXVEVDNjYjlobi1Nanh5VDd4RndxYWM3OWUzN2FMUG5HY0pxWkFhNVZBQmJpQUJtMmpsZHo1bENNYjdpVzNHSFh1UzR0QlpJblRqQTlETUNuZG5jR1BrWEk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T20:16:00+00:00"
+    },
+    {
+      "text": "Afghanistan marks 5 years under the Taliban with safer streets but pleas for jobs and education - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnpsYnVPYThvem1YRHJaM0ZNZk43OWlhcXZtVlBEOVg3d1VfY012d3V2bVFCRkJ1ajRwNGtCdG9IbW4wSW9uM1RVWDB0RlVCUVMzaEpvRWhXalQ4WnY2bnRrTjdNTmg0ZklfRUVIeTBhS1YtUkF0RWV1R0F3VmtMN0lzd0JpOGJGYmhLU3ZpRlF6YnNGdlpSTml2SWFxdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T20:08:00+00:00"
+    },
+    {
+      "text": "Falcons edge rusher James Pearce suspended 8 games by NFL - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWY3MTRkYmFEb0JsNDFBb1oxUHoxcGg5Y2N1dzNrakZCU2VkVm1mb2x0MFZIbF9qUFhRQ3prRzczZVVxS2xDSXB2UlRXTGRONFNMZ2RVVUw5V3hJUEM4c0hzUXJBcUdIaVRyMEp2aHloUVBNd2M1bjhhVUYzSlNQNUQxUmtZMWstUWtjdHBlU1ZvX2VKRFo3ckxYSHhvSzBu?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T19:28:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Live updates: Luigi Mangione pleads guilty in federal case - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2JKbWVWeko0WHVvY2ViNU1IdnNMR0RxOVZ5cG1iY0FBX01JRmxIVWFiXy1wZFFGSGNmZF9UemFFLTVHcW5UbDVWRHA5OXJnWHJteC1OeFVsUWtVS2FXSUFUM2ZHSEM1bVNFb0gwd2I1ZXcyeTR3cVA3eEs1WjJEcXNhYzZWNGZYUnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T21:16:00+00:00"
     },
     {
       "text": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
@@ -37,66 +113,17 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T20:37:39+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
-      "url": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T20:23:38+00:00"
+      "time": "2026-08-14T21:01:21+00:00"
     },
     {
-      "text": "Jason Arday: Former Cambridge university professor found dead - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1venFieWtMbnpMdTF6TVgtX0c3VzlpRktTb2dEUnZSRW9DZmZvTFdBSUdJTkNLTWdzMkJKVkp0Y2ctNzFFTlVDZGs3ZDlGSUtWUmRKbnhVc1gydw?oc=5",
+      "text": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjVxb1MwU1Y1amdmY2xMd3ZibTZRbjRhc09GcmhET3NFRzNDMWpKaDU2cTkzVS1RUUZhSzJOREszWS1SYks4UWdDbEQzVmpfTEttTFhUeTJld292aHZDdkxhdGZyTThIS2pHRk9HTy1lTVVtUHNIMkRVTnUwcExtS0c3TkU4dktV?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T20:02:02+00:00"
+      "time": "2026-08-14T20:26:31+00:00"
     },
-    {
-      "text": "Live updates: Luigi Mangione pleads guilty in federal case - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2JKbWVWeko0WHVvY2ViNU1IdnNMR0RxOVZ5cG1iY0FBX01JRmxIVWFiXy1wZFFGSGNmZF9UemFFLTVHcW5UbDVWRHA5OXJnWHJteC1OeFVsUWtVS2FXSUFUM2ZHSEM1bVNFb0gwd2I1ZXcyeTR3cVA3eEs1WjJEcXNhYzZWNGZYUnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T19:51:00+00:00"
-    },
-    {
-      "text": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
-      "url": "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T19:20:46+00:00"
-    },
-    {
-      "text": "Klint Kubiak considering giving Fernando Mendoza more first-team reps - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHJmVU0zWm1uVTNGQTk5SmhIRnhLTUp2cTRxWEVCUEtsUFY3eFd6NTExT2JMT05vQ1J2V0xWdXVJZHRUX3FIX0tyNWdOZk96em1PcmxuY0gzd1VyMU9vZURFUFdLVVRQLWFLb3VfelhaZTE5eFVhXzR3ODg2bE9kVkhXOFlKWDZWNEVnRnZVdWVFOU5TeWRfSmd5S2dqeWpTbUVCTkNYTU45bGNxUkZMM05JT2lxeTlYRWpuMUs2VXh0TDJnSElkT2JGOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T18:53:20+00:00"
-    },
-    {
-      "text": "Stock Market Today: S&P 500, Dow and Nasdaq all fall, put weekly gains in doubt; Treasury yields and oil prices rise - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG9ZZUpjbWhLV0NaMnJxeTFEVWZjczAxTml4dkVtLWRrU2ZaU254cEp5SFJuVi15enlEbjNfdzBoQlYtaUhHMFJ5aVdydExtLWJURnpmVkdPZVV1NkZTLU9BLTBNajlKY1dhWjgzYWNXb2ZaNXFyRjlYTDJxX0lLb0RoQ3VaNGczbVl2YUxDWF82VTJHOGxXQnktMi1BdFJkcklqYm1jVjF5ajJ4SktQVGNzS1Y1VnhSMmp2SlBYQTl0R0lRcFlPQU9QeDdCUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T18:04:00+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?",
       "url": "https://www.nytimes.com/2026/08/14/well/eat/cyclospora-lettuce-jalapenos-produce-safe.html",
@@ -116,45 +143,45 @@
       "time": "2026-08-14T20:00:40+00:00"
     },
     {
-      "text": "Exclusive | Stripe, Advent in Talks to Buy PayPal - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHVrdzZiTnAwZy1mRDRhZWp6Z3FTcTlQeVYydmtGWmh3NmkzOWctNlEzYjVPckZzZXUyZklrVlVMWVZ0S3JUX2xTODFmSFhWdkFjLWJaSk1DdGxZTGVrUFRpVHExTzNfZlU1UVlJdnBWTkEzQ2VmMkUwR1kzZVJpeHRpMzBuSUU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
+      "url": "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T19:44:00+00:00"
-    },
-    {
-      "text": "US retail sales post first decline in nine months in July - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T19:08:50+00:00"
-    },
-    {
-      "text": "DeSantis says he doesn’t support embattled Florida Rep. Cory Mills - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHBnV3l6M1lvektnNmdwbWZyTjU4TDA5MEZfaURJbFYxTGNxa0Y0eG5sQlJGQ0sxTEhkOGZaaURtSmNoczlvb1BWMmQzTzhNblV5T01yb3loOUxDUzV0azhWN212TUJKeVpJb1YzTm15SE5ISGNsMDh5a05Wal9HYnJIM0N6b0xsS1B4a3hxQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T18:46:00+00:00"
-    },
-    {
-      "text": "Suspect arrested in World War II Memorial vandalism in Washington - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW1nSHJsWXRCY0gzME12RElZYVl0d2c2N25xeFhFM0duZzhsdmtyMEpPdFVtS3JiYk1IU2lndTVIZVkxeDJBVzNqZ2tkSVBqM1laZ1ZXQWoxTHkxRUxpVmRCcjY1WjJhSndpeGlFemk2bnBrSFNMcTZJU2lwUWF1LW5rTmM1azR2eEY0cXlPMlpWY0JjR3g1R2xIbHVYMWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T17:40:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T19:20:46+00:00"
     }
   ],
   "col3": [
     {
-      "text": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead - theguardian.com",
+      "text": "Trump threatens to declare strait of Hormuz ‘territory of the United States’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRS1VcU1aYjY0M3Q2MkxQYlpseV9FSHFHcWhwZzJqVVd3dWtRb2VMa0szRkFlOUJRU0M3NXU3RElSOTlvRU5OczEycVBuRzJvWUJZb1Q1VzNmZmQ4WWMwbk5oWnJ6V1prMVVhWGFuSXZZdnl6c1pKTkoxZ1V4d21kWGlKZGlVNjNMMEpWOFRfeEQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T21:14:00+00:00"
+    },
+    {
+      "text": "The 5 Congress Members Whose Families Trade the Most Stocks",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T20:51:31+00:00"
+    },
+    {
+      "text": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T20:23:38+00:00"
+    },
+    {
+      "text": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTkwNFdFNG5vd09YTk5NMFZCZmswcGdKb3NyNHg3T1pfRHhrYTFHNFkxR2pldENtMWZJRVNhY0huOW9FZ2J3YjkwdEcyalUxaHlJc19RNTZVeE5qZG8xUzBYZHNlWFcza2JwRkhSTzhnMjlRc0QwRl9VdjdkWF9YSEloWGhoYjFUWjNHOHlZc1o?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -163,22 +190,13 @@
       "time": "2026-08-14T20:09:00+00:00"
     },
     {
-      "text": "Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T19:53:04+00:00"
-    },
-    {
-      "text": "Falcons edge rusher James Pearce suspended 8 games by NFL - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWY3MTRkYmFEb0JsNDFBb1oxUHoxcGg5Y2N1dzNrakZCU2VkVm1mb2x0MFZIbF9qUFhRQ3prRzczZVVxS2xDSXB2UlRXTGRONFNMZ2RVVUw5V3hJUEM4c0hzUXJBcUdIaVRyMEp2aHloUVBNd2M1bjhhVUYzSlNQNUQxUmtZMWstUWtjdHBlU1ZvX2VKRFo3ckxYSHhvSzBu?oc=5",
+      "text": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T19:28:00+00:00"
+      "time": "2026-08-14T19:35:00+00:00"
     },
     {
       "text": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
@@ -188,24 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-14T19:04:23+00:00"
-    },
-    {
-      "text": "Trump shrugs off concerns about USS Abraham Lincoln - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjVxb1MwU1Y1amdmY2xMd3ZibTZRbjRhc09GcmhET3NFRzNDMWpKaDU2cTkzVS1RUUZhSzJOREszWS1SYks4UWdDbEQzVmpfTEttTFhUeTJld292aHZDdkxhdGZyTThIS2pHRk9HTy1lTVVtUHNIMkRVTnUwcExtS0c3TkU4dktV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-14T18:14:08+00:00"
-    },
-    {
-      "text": "Extreme Heat Is the New Normal",
-      "url": "https://www.nytimes.com/2026/08/14/opinion/extreme-heat-arizona-climate-change.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-14T17:35:37+00:00"
     }
   ]
 }
