@@ -1,34 +1,193 @@
 {
-  "generated_at": "2026-08-14T00:01:30.657462+00:00",
+  "generated_at": "2026-08-14T05:49:44.448231+00:00",
   "lead": {
-    "text": "Homan defends ICE electric shock gloves as alternative to lethal force",
-    "url": "https://thehill.com/homenews/6029034-homan-ice-electric-gloves-lethal-force-alternative/",
-    "source": "The Hill",
+    "text": "Trump ally Nigel Farage wins special election to return to UK parliament",
+    "url": "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-13T23:51:20+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-14T05:48:57+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Taiwan Weaponizes Coast Guard to Prepare for Battle With China - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmlTRERrSzdxcHNENFl3YXpsNDBuNUFiaWtnUzB1NmszSDZLZ3hpekdkcHpWZElXSU82TThyRWxnelI0aE5CRUY0TEFXQVRxQzdocU5fdGVsUUl2WU5PZ1Y3MGNWYVhvdGwzeHpINnJSc1hSNDU1M1pMSEJ0a2JSUkhMOG9vSjg5X1BOZGFoSlhPajFSRzNJcmVJUGRVVlBJOE56cg?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-13T23:41:44+00:00"
+      "text": "Stock futures are little changed after S&P 500 sets record above 7,800, heads for winning week: Live updates",
+      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-14T05:45:22+00:00"
     },
     {
-      "text": "Votes being counted in Clacton by-election triggered by Nigel Farage - BBC",
+      "text": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-08-14T05:42:35+00:00"
+    },
+    {
+      "text": "Nigel Farage claims he has won Clacton by-election 'overwhelmingly' - votes still being counted - BBC",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DM01uYmNNNllRVGpSZ2oxUE94OTEyS2lrTElMZG9iZXRTNnZIeXp5TGdOeUxvVU1hQm5pUGtGMGJUYmJHbU00M2cxaVB2dW1LQWp1cQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T23:34:23+00:00"
+      "time": "2026-08-14T05:41:58+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T05:34:44+00:00"
+    },
+    {
+      "text": "Outdated American Policy Is Hurting the Afghan People",
+      "url": "https://www.nytimes.com/2026/08/14/opinion/afghanistan-us-anniversary-kabul-five-years.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T05:00:05+00:00"
+    },
+    {
+      "text": "Taylor Frankie Paul's Ex-Husband Tate Asks Court To Unseal Drug Test Results - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHE1TFlxWlpPSUZaMEhUVk1NRW5Gc2xrdWp5bjJuTHpjS01Qd25BajRSNnZwNC1uTURqV280d3pLOHNLNGdaLTFlTGJIWkF2d1VuR2hDc1U2RmJOMDBkbW80UE9hSnBkRkh0RmoweVFxTmFqamtvZHNaWU0zVHlLN1I1dU1zeWhnZzg0Z0F3Q0lwcWtmQWd6NEdjMkV1cGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T02:36:19+00:00"
+    },
+    {
+      "text": "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWx5dzhtUklpMTBzSnBHWGFXUm4xRlpYTE5jTFhGcmthaXdaeGh2UDYyYm0yUWc5NnBsRDg0ck84Zmt4RVJlM01uOGtFelpqWWhtQXRQZ1c3eTBxZmtYUzk2Zkw0M2stcnp2bERmT3gyelJwX19XN2ZTbHRBSzFrN0FkY2g4dFpKOHE4Nl8tcEd3ZjFHN1RBU3M5c3k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T01:30:00+00:00"
+    },
+    {
+      "text": "41 of the Greatest Mexican Restaurants In the United States",
+      "url": "https://www.nytimes.com/2026/08/13/dining/best-mexican-restaurants-united-states.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T00:03:11+00:00"
+    },
+    {
+      "text": "Reds ace Greene undergoes 2nd Tommy John surgery - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tckJWcms4ZHhxcXpoVWtNbEdhV1hNQUpaYlQ4cnZaNGIyM2EycUdrV3ZRSFZETmhCSUFxa2pQb1RBTlZCWjVwTHdnMW5weHkxT2NCbl85YzlXUVVkRjBnZE1PUnE2OGRZckRlR1BLRXpSelY0cFVtWHAtaWZOUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T23:30:27+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Jimmy Fallon Reacts to Karoline Leavitt’s White House Exit",
+      "url": "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T05:34:38+00:00"
+    },
+    {
+      "text": "American Missionary Kidnapped in Niger Is Said to Be Released From Captivity",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T04:25:38+00:00"
+    },
+    {
+      "text": "Three inmates are executed on same day in US for first time since 2010 - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlJWOWpIQ21yVjhoSDF0cTFyYzdMMGJxQjljZVBSZVJKM3RJcWM1WHVDSHhoOXZzR3VQcWtKeDNfX040bnJQXzg3UlpTdDQweC1NZXZFU0dKTWtDSUxqNElNaXpOWUlwRHJ1anV0NnhkRHhLQTZJbzdNdXk3UEhTSFdoNVRZb1JYaTdsa2VjQnRtdlQza0NPQmRLdDM5bTlJLW5PMEVQR20xeERJZ2JZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T01:48:00+00:00"
+    },
+    {
+      "text": "Fernando Mendoza throws TD on his second possession - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWFSOWxNMWJQZEJ6MjdXOEtuNnpjT3NsWmpCUW11ZUNIZDdJSGg1cHJDRkdNeU9ZaC0wbThLMUJhZnliSkJ1X1RlaWFTOWpLTk95SG93QUZmbEhhVGtuWFFIUjE1WmR0UmZ0czZjdG5iLUNLV3hYREVUYk5fcG11RGczZ0YxYlFmbFFYNXFtMDRORjI0T25hZHdYTmpSVGhYRjhxeHRVdlI5X2dnQ1ZESmVlYw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T01:27:14+00:00"
+    },
+    {
+      "text": "Who could replace Karoline Leavitt as White House press secretary? - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnR6MVJnbXhtVUJmWmRVdTB2d3ZXaWtpUUpqSGlVbzhnOFd3OWdGdEV0eEpCVzNlX2N2S2UxX0dMS2dtRWZGQWY5VDVzX0EtaHlIVkhKMml4aHliUjRoUGhQekhHQmpoRUZ6MzAzQVhWNFE0c0tHSXdpLTVic2pJQ1drQ2U5dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-13T23:50:48+00:00"
+    },
+    {
+      "text": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-13T23:20:33+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
+      "url": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T05:08:37+00:00"
+    },
+    {
+      "text": "Flock Safety's CEO says safeguards will be added to cameras in January - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOGhRMkpnOFNTSklmeVBQV1VjRllqYWNyOUZVU2pELXVHbmJtWmVaekNIVEw1OUt2d3dOM2h6d1M3UHFxbFVnbGhMWVVzTFA4cmpyWmJhc3dtOTVwTzZ1SEtOQ1lQUEZsSG5kUkp3eVBFRHNRczZ4d2FCRF9xdE80Q3JPRFRISzNuWE02di1Mc3J2OG8?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T03:37:23+00:00"
+    },
+    {
+      "text": "Rescuers call for silence around earthquake rubble as window for survival narrows in Colombia - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTU5YWFRNaGYycHNJV19yTWhiSHpKQlR5ZnlDdF80Z1F1Y2hKLW44eHlmaWZmODZ1Z3FFeTFBSW56eVZJUTA2WTJwN3NQZjdKWnBJQUIycUJhZjZyZjVKU1NrY00wc3RCeVhELTMyblZzZlg4YnV3REtWM1pxOGFHeG1Da19jQzE2ZzhDcVpMUER4c09KM3lSX09falRkM05q?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T01:44:00+00:00"
+    },
+    {
+      "text": "Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UYy1LWi05N0I2b29XNnlQS2t0V21udE5XVi1KY3ZqR3YyTmtTaHBiNmZNOU1VZGw3OFFMdGxmOTA0ZE1JT0Jka1lEcnA2Ui1iU0pGV3pTTG9OVW9tbjR3TWc2YjJCeGx3dU1POC1ycWdCTkxGZHNGZFRsYw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-14T00:42:00+00:00"
     },
     {
       "text": "Deaths of 3 ICE Detainees Prompt Questions About Medical Care",
@@ -38,174 +197,15 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-13T23:31:10+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "What to Know About Luigi Mangione’s Court Cases and Potential Plea Deal",
-      "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T22:55:18+00:00"
     },
     {
-      "text": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUJSazBHRkwzZmk0aHJzWldhTXpGNThoR0ZCVTlkOTZmNVZaekIyUlIxekxLTFV4QjFfb1NSQmtVeXN6TnRZMDJtZEhXUVJJenFrY1pnLWJ0bFd2TDhyV2R4SU9XbW1oaS1MMHFfYWdLSkZ5QkZqeWJUREVFZ1FpalZqeTh3YWdkUVo4?oc=5",
+      "text": "US producer prices unchanged in July, further dimming rate hike odds - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJMQngwSWd3ZlZVVGluVU44dU9XbWU4bnR4YlBVLWVqSWVSUnYybjlaTDdPQzBxRFQ2YVVQQlVvZlB0ek91SVdPSEFrcWx4TWJaOGNHbXFTN0lzS0ViVkozcHY2c0IyZGpiSVFLUDBOSkFqWjFUNzNZdTk4cTBzS0FPaTg4R3lEVnIzS1RhaXVaTXJ3bHRkMXAtOFNxUUxvb2RFZVlKLWx1S3RiX2Zya1h5RlN0UQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T22:38:31+00:00"
-    },
-    {
-      "text": "Wisconsin DHS confirms 13 more measles cases in Iowa, Lafayette counties - Channel 3000",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSXFVbC01MnhwVUk4dU96M2VVWDVWYVNOT2hXWk5YRVZubTVZRGk5cWhQeU1EeVE4Vm9HUkVWLWtRT0JfY3k1V1RxOVhvTFlSeG54b0VHSEJzT2Rzemg3eWdkUE05aFIzRGpjWEtLSmlVbThWWG5nYTJNUGhKVzdUT2c1bDU0U1J6MkxBVDhpcnZLd3h6Q0FFdnh5SjBGeXFUdHBPQko2cHhiblFNS0RxLUlEdVhydWFRb3JWd3phbUZNX0MwWXJQNWNKRE03ZmpEQi02a1JSbXpmUm1lZm5sQjhVSGJ4YVlEN3c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T22:30:00+00:00"
-    },
-    {
-      "text": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier - theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV29hVXNnSzJkV2dpTDFzTWNwNThydkFfeEJSMXBvLWJZajNzTXdrNzktS2NtSjVrdThKdDhqcjZ3N29vSk5ZNWxIOWJNcjZ1bUNOMVJ5Zm1kaVQ5dEpITWpzNGJYZEprNDNCZVBCd2oxV0VWNjFOZ242bXM1V05YeFQ2akhhNDQtbjU0elhSRWdmZW5Zb3BaR2lEam1QUzhkbkpJSkhpTGdoYmJRV05TeUZuOUxLVGY5aVRhUTFR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T21:53:04+00:00"
-    },
-    {
-      "text": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZzZtcEtlODZISWptT1lGSDV0UklKLUdob2FRNFlGTXhPMnBfN1kyVWdYZVlCcmZwNVRtSlBTZFZMSFhLTDlIc2tReUtCdms2c1ZBSmx1WnpoQkNlYzRXVkF2cGFzZldacWg3blVBQmJTZFlmeV9pUzEtSGlwM0JlOG03V1FYU3ZEVkFJNVVuMnMwdTdMZXVwMThjZDgzLVpzcWhfOE9POGZfLWQ1UmhocjFVRS1zYTFnNUlpcmtCa3F5UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T21:50:11+00:00"
-    },
-    {
-      "text": "Engine parts smashed Ryanair window that man's head was sucked out of, report says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85X0JoYVZSNUZ0ekEySmw0eU5PTmFQd1hPcDR5cWdtZWhLdDhiWVJ0SFVMWXhnVjBpQmwtQXpNcmdEZTlIOXZHdV90djVySHZqdGE3WjBoM1BaZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T21:43:47+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T22:48:42+00:00"
-    },
-    {
-      "text": "California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier",
-      "url": "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T22:35:31+00:00"
-    },
-    {
-      "text": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUlCZU5INU1ZZWx5YUxEQjZsSzdIbzJuaWFIRmx2RlZfRlprN1pXbS1XLTRiSURHb3lWX2RsSGZwWXU2VGt4THQxU2hTQVhUZE0wSC1qM3BMN0xJa2c2bzFvY0E1b2l1Tm1DbVFoVklDNkMwcjJGTkdGT0FSWnhmd0EydGF5UHZpN1pQUEQtMldOanYwd0lmMGpGRzZLbXNfRVpjc0hBQ3BIY0dza0dyVi1QUHo3ZHRJUkFDVnFNV24yUzRE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T22:19:00+00:00"
-    },
-    {
-      "text": "‘The Challenge’ star Tyler Duckworth dead at 44 - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjlOa3d6cFZrQ2p4M1l3aGkyamJnc3VibHdvTnotTExZR0prbGVGQnhQUXhTVnRmZXJWcmQ4ZmxKbVVucllLNkxWQWdQQW0yRWRPR1dnN2dHazE5eWVUZGVVYkk2TGc3cHVHNDcyYzdIUlVjVjNXMHpTemw2S1JNbU1RRDRtNW1wNUVhZzJGeXl1RXVpZVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T21:53:00+00:00"
-    },
-    {
-      "text": "Appeals Court Sidesteps Key Question Over Trump’s Use of Alien Enemies Act",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T21:49:23+00:00"
-    },
-    {
-      "text": "'Super' El Niño is super likely as California braces for impact - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG1LZHJVaGlyVFYwcmhUU2Jka0ZXWFlTYTJ6Q19TeUJONHpmejlYcmV6X194R083ajNISE5tYU1UNHlrU1o4bGRITGxpZ2hmYVRDR2JRMkdsZ2kxaF9kSHVsYjZSVm5SZVhWckk0Sk5WOWlPbEQ5eUZzWk5neW1RVmNMWjVKdDJKUGZaWWFaRkdNdmVMNjZuVVI3SEN2TE5SRWhrbi10WE1fdjJJV29iOHF2R3Q1STRHbkdvSVlR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T21:43:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump’s Immigration Spies",
-      "url": "https://www.nytimes.com/2026/08/13/briefing/immigration-supremecourt-jews.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T22:47:10+00:00"
-    },
-    {
-      "text": "Exclusive | Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFM0a0xDWnQwSUZYOGhyRWhncDBfUXZQZHZoNmw0Vzl1ZG84dVNGbWwxTnN4b0RuS0hIZ09VYl9LZjI2Z19KSTdCSk1VSTZMTXF0c0JnUm1fSFRBbmZ1ZXRkR2kxVmdjVjRqX21HNXE4YXdzZkVzVms3N0VNalg5T2QxNEh1TWhYcjNCOGV4RklRZWU1QlQ3WHFxbjNwQlhHbmNiM3l6QW1xWE8wRjdJVHdYbU10bVB2cnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T22:34:00+00:00"
-    },
-    {
-      "text": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
-      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T22:16:34+00:00"
-    },
-    {
-      "text": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
-      "url": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-13T21:52:36+00:00"
-    },
-    {
-      "text": "Luigi Mangione expected to plead guilty in New York federal case - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcTFzYkNVb2FMLUtiWEFXWVlQSkRTNnVYTVJCejZrXzNMZTlNQmlBYlNkRWtuMTB4d0kwTzl5THpTVHNSV0xXcHFfSUxyemxkdW1KMDdtYnB3UjZEbm8yT19fdlRSS0dVcm1mWnk4Y3FJdzltU1pFcWI5SlVuTmJGWkp4a09QSXpZX1VZcUlQUUMwcXRieVlRdmh5ZFM2WHRyOGxMd1I5bmJ6UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T21:44:30+00:00"
-    },
-    {
-      "text": "Jury selected for trial of former gang leader accused of ordering Tupac Shakur’s killing - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGxLNkp0eTFEMi1iTmJaVU9LVmI2Nkw0c3B2TGZMN24zTkF5aW1WRmpwd1VIaHdWNzVGTzdVUndhc2JUUGFMTlg4N24yRG1TMFlGV0VTMm00Qzdad2xwaVNtX3NVSDNOSVFmSFhsbE5fTzdvNFhQa3pabVpzdWRaSlAzYVZ2UEl1UzdJSlZIRnNnejlqdEZfTg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-13T21:31:00+00:00"
+      "time": "2026-08-13T23:01:10+00:00"
     }
   ]
 }
