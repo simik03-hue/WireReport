@@ -1,166 +1,81 @@
 {
-  "generated_at": "2026-08-15T19:58:16.391275+00:00",
+  "generated_at": "2026-08-15T20:33:43.274981+00:00",
   "lead": {
-    "text": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds",
-    "url": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html",
-    "source": "CNBC",
+    "text": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+    "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-15T19:49:28+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-15T20:32:33+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Central Synagogue Attack Rattles Jewish New Yorkers",
-      "url": "https://www.nytimes.com/2026/08/15/nyregion/central-synagogue-shabbat-assault.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T19:47:36+00:00"
+      "text": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
+      "url": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-15T20:32:04+00:00"
     },
     {
-      "text": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "text": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-15T19:41:57+00:00"
+      "time": "2026-08-15T20:21:14+00:00"
     },
     {
-      "text": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T19:40:55+00:00"
+      "text": "Brown, Acton hold slim leads over Husted, Ramaswamy in key Ohio races: Poll",
+      "url": "https://thehill.com/homenews/campaign/6031596-brown-acton-lead-ohio-polls/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-15T20:20:52+00:00"
     }
   ],
   "col1": [
     {
-      "text": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
-      "url": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
+      "text": "UFC 330 fight card predictions: Expert picks, odds for Islam Makhachev vs. Ian Garry in Philadelphia - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0pUd0hsaHp3VHV2ZGZLaFliU1VySl82eWJra3JUTDg4YXNWZm10dzBEYU9nc1h2a0FlMWIwbUhMdlQ2eHB5Q18xajZzSFFPaFRLZ0FLaHJJVmltc3VNRjQyLW8zaW1HYW5udTFYazBrNHZPOFEteHJRRlNsdHpicU5LaGtKdzhRSUF1RDhKT0FoajE3TkUzN1pVclJlbS12Tk85WjJhZUhPN1pE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T20:00:00+00:00"
+    },
+    {
+      "text": "The Last Hurricane to Hit Hawaii Became a Movie Star",
+      "url": "https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T19:38:20+00:00"
+      "time": "2026-08-15T19:39:50+00:00"
     },
     {
-      "text": "Live: Myles ‘Jug’ Price grabs Vikings’ first TD of the preseason; veteran defender carted off - Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2poNTR3ZUV4WkVkYjJBVjE0ZGE2ckpsY05SbU5oTEwydjZla09yeVdyZ1pTdENsRHQ3WWJqLXpsN0ZVVTE2dHVNTC1rN1ZTcFlZcktFbXRvQzJrWU4xNHF5eVg2ODRDT0JVZTZ6bUtoc2o4YkoyV2w0YWctR3dNWTk2X01yMHNqS3JwUVFjZlp3V2xKZ19wQUtsY0RlVmdVVjhpbVgwTXgyNkhWZ3h6NmNCV09xMVExNUNESUJpQTVHQ2NNSEI1aktQRWc3YmN6Um8w?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T19:04:13+00:00"
-    },
-    {
-      "text": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board - NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamp5T0RqZGt5SDZianhBbFFMa0lobVlFaUZQSzhNOFROQk5ibG11SkNnNUhieTVxVHBuX3N4VWhXM2o3cDdWaGp2VGxCM0lWaFhkcy1KQ2hBWU91M1ByQnZrWGdvQm9tcHo3YlhhQnMyb2k1TjlJX011dFcwSEsyQ1MyblQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T18:21:32+00:00"
-    },
-    {
-      "text": "Live flood updates: Residents rescued; flooding expected to move south - IndyStar",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTJFOUlaUHNqdVNlWU5mZGZnNTBDVnN5NWg3MHRTTC1SS3JoOXNfWm9LOGpjNk5GcFZNaWQzR3pYSmxTcVFUWGJ5Yk12dHRnN2N1b3N4U3hlUTZPOUp6aFg3bkdGMDlIX2ZBTVVnWVMtVy05Y3ZCWFV5eTVmWG40dTdFd0xrWHllTGxKb1hGWVVnNlBfemhORUV6Ny1XZDhDbHY3djU5RFJxRzhZYk95dUM5RFpTUUVqWlZXWWtrbVdobXd3Z1Rjckt1eWp0TV9mVU93VldsbkR2RXlPOWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T18:11:00+00:00"
-    },
-    {
-      "text": "Bonnie Tyler's celebration of life attended by fans in Mumbles - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BRGNYd0ZyNm1Ec2t4QlVQMUJHZFBodzlkcTRfNkl2dVNOWmpsMHJ1NmZxcjlRTWVQMUQtRUpyNTJUeHlOMTYtX2JmYXNwdlNhM1ZobFp4ZnZMQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T17:33:38+00:00"
-    },
-    {
-      "text": "5 people injured in shooting with multiple shooters at Virginia State University - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNXzBJM3dfa045ZExtd1ViMVNTcE1BcGdtM0YzTEM2R3B4UC1jNnFUOUFfeEVRRG1seHJwN0RuTG1CTEo2NU4xRFlxZXR2MEFEZDI2X3FCWnRqbTNZNjNNMHh2bW1memNPc1FQSGxQNnNJdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T17:09:17+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+      "text": "An Island Used to Storms Readies for One of the Strongest in Decades",
+      "url": "https://www.nytimes.com/2026/08/15/weather/hurricane-lala-hawaii-emergency-prep.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T19:36:20+00:00"
+      "time": "2026-08-15T19:32:54+00:00"
     },
     {
-      "text": "Tehran: Strait of Hormuz 'will remain Iranian' after Trump warning - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWRoWDR3V2loWnRHTS1JVkhlNFhrMkk5eDJNZ0xqQkNIRVdMdDAzbW9vX1dIRi1CcHd6RDN5RmFyc3pteVpEaWhfd21pSWRycGZIV2U2V25QRUgzYmVVUHg0SFNpNWZIUVhGSGdJRmtFR05EMkIxQVJPbWQ1Uzd6TEQ5TGFpaWhrdE5jWGF6RUwya1JXUGtLS09pRUE2VkxGSlpIYQ?oc=5",
+      "text": "Deshaun Watson throws for 126 yards in 2026 preseason debut - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeVA4UGprTkpIdmtsbjBQN19PX1ZTa0ZlM1NDRVRzT1BPc2gydWptUDNfZmZERVlicWZrX1NDMzAxSTBlVVRKMWM0ZTNpTGpTblNXSk9WbFNPYXM5eTJ0V1A4QzFGTVEtMVp2UkQtVDJnNG94NlFHWUk3ek9jRW1TckluZ3Q3aElYajRIY3ZrZUZXTWJUQTBzZ19HWHpIU2pmdlFvdmpaWjBTQjRKUW9URldVcWNOSXJDam9vZ0FR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T19:02:51+00:00"
-    },
-    {
-      "text": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination - Motor1.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ocnlHSWFLU1BnUTNpMjRXODlQV2E1NVlhTEJJcWowUWxHZE16TkdOWXpxSWg2ai1lX2ZxOHNySkFIR0o1LVpjVG15V25fUE5lcEJTTlQwMXBuZTZXVnR1ckpOTHpsRzU0dmJDTi1NQW5HTmwtT0hrUHRZOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T18:19:48+00:00"
-    },
-    {
-      "text": "Live updates: Lala hours away from potentially historic hurricane landfall on Hawaii's Big Island - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdk00ZXZQV3VCNjB0Q1QzVF9WMGJYVllTMmJEZWhWemFURGlHZjAzU093aWdtZndaRmg0VHhVNkkzOXBPaXgyZExRUG95cHd3OVJjODA2d0dfV19VMnhNeVR4bHdWeXFiUzE1Wi1LaF9TV2JsZi1kdm5QZHhFMmhQb2wtTlByVXR1R0lDaktnUld4NmREOVJNdG4zaXN4Z3c2YWFHR2VSV2VVQnpJd3RTM2pRaGU3MG9LQzlScW93bHIxY3RJTTQ1MFdmZjNDNVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T17:46:42+00:00"
-    },
-    {
-      "text": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T17:31:40+00:00"
-    },
-    {
-      "text": "Jason Arday, Cambridge professor accused of plagiarism, is found dead - NPR",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Y29FcjZDb2s5U0xqUnJyem40TUhqYWI5UnpTbTBfdjJYZWpBZVdUV2xtblJJUVo3bHI3TzJrbWJaZXJRZWNmUG9XR3pjazlCRWlHZklGeU9RMjFHcG9ZclQxMWpuNFJIS0d5Yi1n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T17:04:43+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T19:26:35+00:00"
+      "time": "2026-08-15T18:59:15+00:00"
     },
     {
       "text": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
@@ -179,33 +94,118 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-15T18:15:49+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "Police release victim information in deadly shooting of 5 in northern Michigan - WXYZ 7 News Detroit",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1ZTdHduM3JOSWtGaDlfNnBXT1hOdDlJb3ZEMFZPWllhajNkT2lrSk5NVzdISG9nUnIwYjBaalZrZ3RyY1VKZjJ3QXl0OVZhc2U4NlFzc3ZqdVRnSHJyTUlFM1RtWWV3TTlBTFB2M0h2WnFJR0NjXzhDYXpEQXN2bVZ6R1NicG1ZU09TTE5KMGkzTXlPWWJoU3RLVQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T17:41:56+00:00"
-    },
-    {
-      "text": "Slipknot finally addresses ‘parting ways’ with Sid Wilson after 30 years with band - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORm54V09QRkNxbG5mT0JvSmhwQWNLR2ZEU1JDaF9aTThIYmljTU9Bd0JfNEpYRHRyV3lTaFA4ckpXMEhZcUtHakt3eWphODBQU2VtSHljYklxOVlCQVQ0Tmp5cE41LUpZRms3ZUMzbVk3UklQZndDTVJIbXYzNWthXzltc3dNNnd6VkdLM0tKZnBTR2VlTTFHdDQyUmhnMUhOejNEZTJRS3BnbE8yc0pWblhQQXJ5d2RKaWVITUtkczBJNlVO?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T17:24:00+00:00"
-    },
-    {
-      "text": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+      "text": "Central Synagogue Attack Rattles Jewish New Yorkers",
+      "url": "https://www.nytimes.com/2026/08/15/nyregion/central-synagogue-shabbat-assault.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T16:09:55+00:00"
+      "time": "2026-08-15T19:47:36+00:00"
+    },
+    {
+      "text": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T19:36:20+00:00"
+    },
+    {
+      "text": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T19:26:35+00:00"
+    },
+    {
+      "text": "Eagles vs. Ravens preseason watching guide - Bleeding Green Nation",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODBfd3VWZFFqcXdQNHRKQ2h0Q1RuMk5nYXQzZTFkYklOWVFKUV9lbnNmbjZsLS1vengyd2lyOFk2MjlPVG80aGtiVEs0bmlfMmRNVGVzb1N1ZFg0RW1PYmYxMmEwdF9hRVR4bVB1My15SnFvLTNaNTZtUjFoYWZhRlBuOXYwNlZuMVdpajVWSU1CaER1eXNRbmRRUGNxMkU1bjlScFRFdWJsU0NETmhiU3NsRjhUc0stcUFQUXVB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T18:57:52+00:00"
+    },
+    {
+      "text": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board - NPR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamp5T0RqZGt5SDZianhBbFFMa0lobVlFaUZQSzhNOFROQk5ibG11SkNnNUhieTVxVHBuX3N4VWhXM2o3cDdWaGp2VGxCM0lWaFhkcy1KQ2hBWU91M1ByQnZrWGdvQm9tcHo3YlhhQnMyb2k1TjlJX011dFcwSEsyQ1MyblQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T18:21:32+00:00"
+    },
+    {
+      "text": "Live flood updates: Residents rescued; flooding expected to move south - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTJFOUlaUHNqdVNlWU5mZGZnNTBDVnN5NWg3MHRTTC1SS3JoOXNfWm9LOGpjNk5GcFZNaWQzR3pYSmxTcVFUWGJ5Yk12dHRnN2N1b3N4U3hlUTZPOUp6aFg3bkdGMDlIX2ZBTVVnWVMtVy05Y3ZCWFV5eTVmWG40dTdFd0xrWHllTGxKb1hGWVVnNlBfemhORUV6Ny1XZDhDbHY3djU5RFJxRzhZYk95dUM5RFpTUUVqWlZXWWtrbVdobXd3Z1Rjckt1eWp0TV9mVU93VldsbkR2RXlPOWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T18:11:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T19:40:55+00:00"
+    },
+    {
+      "text": "Five injured in shooting at Virginia State University with multiple suspects - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHWi1iTUpwVE5FQTlDSnZmUmZlN3ZXb1E1XzkyazluMVA5YzNtQlpZTVVrVXhoLWRVa3lxd0FweUttOWVQZjdEN2tZeGFrRVpxRWNhVjM3eFRqUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T19:34:22+00:00"
+    },
+    {
+      "text": "After Trump warning, Tehran says Strait of Hormuz 'will remain Iranian - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWRoWDR3V2loWnRHTS1JVkhlNFhrMkk5eDJNZ0xqQkNIRVdMdDAzbW9vX1dIRi1CcHd6RDN5RmFyc3pteVpEaWhfd21pSWRycGZIV2U2V25QRUgzYmVVUHg0SFNpNWZIUVhGSGdJRmtFR05EMkIxQVJPbWQ1Uzd6TEQ5TGFpaWhrdE5jWGF6RUwya1JXUGtLS09pRUE2VkxGSlpIYQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T19:02:51+00:00"
+    },
+    {
+      "text": "St. Louis Cardinals at Chicago Cubs Game Story, Scores/Highlights - 08/15/2026 - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2dEZDVmg4d2RPbk1HM2hTZnZwaE1XRzJmMDhOakx4SWZ5cE8tTjhYcUhtTmRMR1lwQUdqdVYxbUJjMDcySEh5QjZTZ2x2Yndx0gFQQVVfeXFMUDZ0RkNWaDh3ZE9uTUczaFNmdnBoTVdHMmYwOE5qTHhJZnlwTy1OOFhxSG1OZExHWXBBR2p1VjFtQmMwNzJISHlCNlNnbHZid3E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T18:50:31+00:00"
+    },
+    {
+      "text": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination - Motor1.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ocnlHSWFLU1BnUTNpMjRXODlQV2E1NVlhTEJJcWowUWxHZE16TkdOWXpxSWg2ai1lX2ZxOHNySkFIR0o1LVpjVG15V25fUE5lcEJTTlQwMXBuZTZXVnR1ckpOTHpsRzU0dmJDTi1NQW5HTmwtT0hrUHRZOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T18:19:48+00:00"
+    },
+    {
+      "text": "31 dead, nearly 600 ill due to lung disease linked to stone countertop exposure: study - KOMO",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOa2tFYXdCWmxQbU5oZ092ZnVMeXBqckJtSGttVVYyekxWUXFwRV9QSV9naV9JY1hMa19QWHQ0YlhTamM2SlpKM29rb21nNnRXU3NleV95b0JBOF9tR0lRU0lvSEI0ZDltbDd4d01DS2hJcU1Id05IeTc3Y2pJTnhnNTM1YW9UbTNUV1dXYURicjREV05fVlQ1V2dvRmpOVWR4NjIzYUdmdUpfN2JJNnlRYm9zMkVHN2piYkhZcGxvMzZOMFNQYXl5dlhiZk0yYXNmV0t2SFYyTjNKQ3g3d2U4bmJBZjlKSU5ueWF0MXc2eVhnY2pxM1dIdDE2ODEwNW9WbERNMTR1X1FLSnktaUNQUTZkbjBRYjAzX1J1bWZET056dGNtQVF0VGpCRUpTdmJrT3ROU2Z1VWRuUi1VZE0xaGI0cllpbGVISWxMOHNtbWxHV05PQTAxeF9OYXluTWRXZmhPM1FxR3ZxempQXzF5UFdNdFQtbWJEaS1xb3pPYXNhcTRjUnFvWUYwR2ZlalMxcFlEQ3c3bGZSdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T17:57:16+00:00"
     }
   ]
 }
