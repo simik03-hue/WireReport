@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-08-15T11:36:22.994504+00:00",
+  "generated_at": "2026-08-15T11:58:42.383415+00:00",
   "lead": {
-    "text": "Republicans Are Trying to Hide These Health Care Cuts",
-    "url": "https://www.nytimes.com/2026/08/15/opinion/trump-health-care-cuts.html",
-    "source": "NYT",
+    "text": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
+    "url": "https://www.npr.org/2026/08/15/nx-s1-5929131/week-in-politics-uss-lincoln-latest-primaries-and-democrats-white-house-ballroom",
+    "source": "NPR Politics",
     "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-15T11:31:13+00:00",
+    "topic": "politics",
+    "sourceNote": "Public radio, nonprofit newsroom.",
+    "time": "2026-08-15T11:40:15+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T11:38:00+00:00"
+    },
+    {
+      "text": "Republicans Are Trying to Hide These Health Care Cuts",
+      "url": "https://www.nytimes.com/2026/08/15/opinion/trump-health-care-cuts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T11:31:13+00:00"
+    },
     {
       "text": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
       "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
@@ -20,7 +38,9 @@
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
       "time": "2026-08-15T11:24:24+00:00"
-    },
+    }
+  ],
+  "col1": [
     {
       "text": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
       "url": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html",
@@ -31,6 +51,53 @@
       "time": "2026-08-15T11:03:26+00:00"
     },
     {
+      "text": "Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2ZvbVItbFVkSEtKRWtqa1h3eUFsWTlscFhLMzJNenJXZTJXX2FINGl4R01BdTdlMWtqWkFFTXNMUE9OZkx2TVMxdER6TnZHLVV4SmhGNU1lNV9Ja1RHZWZWajVXQ3pMWFk3Y1NDNUE0ME01Y1J3M2xyUUI1VkRTY3FoeTBwRXlXejFiZVlUYVAwY1JKaG9fd0dmTzFocHhYX1RZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T10:47:14+00:00"
+    },
+    {
+      "text": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:30:14+00:00"
+    },
+    {
+      "text": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:02:09+00:00"
+    },
+    {
+      "text": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:01:00+00:00"
+    },
+    {
+      "text": "Gutierrez: Fernando Mendoza delivers in his debut; the bigger test awaits - Raiders.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkdQcmlkcjVLVnZHYkNSY3dCclZodE5kSlpCT3BudGhlNFJQMURYdF9FOWtjUWxkZ1pQTWdwVHJNeDJiMnVCcEFkSUV0NUtjNVdsZzFQanAyS3RLbEhfcWJ5Wk1UR2JPNkNpaGpmQV91cVdPUGFITmZWTGRWWndaVnJSREg2RHpZZmxlZE14LXU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T08:45:35+00:00"
+    }
+  ],
+  "col2": [
+    {
       "text": "Israeli Strikes in Lebanon Kill 9, Health Officials Say",
       "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
       "source": "NYT",
@@ -38,17 +105,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-15T11:00:50+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "How Are the Democrats’ Midterm Dreams Shaping Up?",
-      "url": "https://www.nytimes.com/2026/08/15/opinion/democrats-midterms-progress.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T11:00:18+00:00"
     },
     {
       "text": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says - Fox News",
@@ -69,22 +125,22 @@
       "time": "2026-08-15T09:17:11+00:00"
     },
     {
-      "text": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "text": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
+      "url": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T09:02:09+00:00"
+      "time": "2026-08-15T09:01:56+00:00"
     },
     {
-      "text": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Aston Martin's Latest Special Supercar Is A V12 Villain - Motor1.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaZEQ5MFNrd0hVYzhWOU92U29mQUR6amgtc1FhNHlkcTFzUDRta1lyMEtPbXZlc3BHVUlJRWVGelVhUF9pRUdscVZMY2F3TG9xOUtCelhjOThERzVwbnVaWmZiRHZocFZ1eHF0eXNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T09:01:00+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T09:00:44+00:00"
     },
     {
       "text": "Construction workers find gold stash estimated to be worth $10 million during renovations in Belgium - CBS News",
@@ -96,15 +152,15 @@
       "time": "2026-08-15T08:14:18+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Takaichi skips controversial shrine visit on 81st anniversary of country's World War II surrender - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "How Are the Democrats’ Midterm Dreams Shaping Up?",
+      "url": "https://www.nytimes.com/2026/08/15/opinion/democrats-midterms-progress.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T10:50:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T11:00:18+00:00"
     },
     {
       "text": "Quit Lit",
@@ -125,17 +181,8 @@
       "time": "2026-08-15T09:15:08+00:00"
     },
     {
-      "text": "Trump Backed Away From a Wall at Big Bend. But the Bulldozers Are Here. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYSS0tbTk4MldDSzRYR3AxOGc5UWNvV3B2eEloeVJIUzFBQkNoV0pwaC1BN3p4T2pHalpFczhNUE9KdHY1aU96ZkRXakJCWFloOFl0b3hQUk1WWFllUk1EVmRyUmtjVEZoMV9pX3A2QjA3UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T09:01:57+00:00"
-    },
-    {
-      "text": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
+      "text": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
@@ -143,69 +190,22 @@
       "time": "2026-08-15T09:01:00+00:00"
     },
     {
-      "text": "Da'Vine Joy Randolph Sues Landlord Over Alleged $17K a Month Rental From Hell - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzNJbFRXMnlKRFU2ZjJnRDV4OUpIc0wzSlBiRzhYU05iVmYtck5wM0RvX09MVmJmQU91TVl2UExnV01lTU9vRlZycUZTTHBkcjNsN2JiZXZwaF8tbU5pTWZXR0V0cHNYVnUwY1BzNkRybEpmSktSNkZGa0kweTdseFhmejNMMG1WWmc?oc=5",
+      "text": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T08:00:09+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T10:35:44+00:00"
+      "time": "2026-08-15T08:52:33+00:00"
     },
     {
-      "text": "The Iranian YouTube Show Posing Questions Few Dare Ask",
-      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T09:30:14+00:00"
-    },
-    {
-      "text": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXVsZXZvODJPcldwNEtxaVVqSnRGMnpzWThfUmczb1VyQmptNmFKYW44S0IxcE9zdUo5VnY1ZzJOMU9QaFdNZEFUNUR5Z2JsMTVnVldURHMySFB3WEl5bFE3QUNuNXFkWkpmV2hqSllLbW8wU2FMaTlrWnc0N0FXOGYxaHpYaUhxWGYydUtEbE5CTUx5SmMyR3VKTHZHd2VlTmZnSnhLb2MtXzNxbHF6WHNrclBvYkg3LTNCRGRCN3RlOTQ?oc=5",
+      "text": "What comes next after Luigi Mangione pleads guilty to federal charges in killing of UnitedHealthcare CEO - CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Bd1RmYUtvZEI4ZHkzM3N0bzVoTThPd3h1dXM4ZkMwWGZBeFgxaGJpR0pEbU80cERkRjVpcTVXOG8zVEFxVHlyRmkzN3ZZblZ5ZUZwR1lzQ3Jrdi1JX2hHZFFNcTdVQ1pGVXN0bjFxdzNhLUFDS2IzS2VXaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T09:12:00+00:00"
-    },
-    {
-      "text": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
-      "url": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T09:01:56+00:00"
-    },
-    {
-      "text": "Gutierrez: Fernando Mendoza delivers in his debut; the bigger test awaits - raiders.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkdQcmlkcjVLVnZHYkNSY3dCclZodE5kSlpCT3BudGhlNFJQMURYdF9FOWtjUWxkZ1pQTWdwVHJNeDJiMnVCcEFkSUV0NUtjNVdsZzFQanAyS3RLbEhfcWJ5Wk1UR2JPNkNpaGpmQV91cVdPUGFITmZWTGRWWndaVnJSREg2RHpZZmxlZE14LXU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T08:45:35+00:00"
-    },
-    {
-      "text": "‘X-Men’ Finally Unveils Its Cast, Including Adam Driver, Inde Navarrette, Christopher Abbott - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZW9HdlI0aHhiRXFuZXhPNGxhd3Bma2xGOEFSYkZSbUkyOTZSVkczWnRmMzZsZnRPc2RheXNuVjJiem4xYjdSTl9aaFZYUThvc1E5c3hBektlNUd4NlpOWkxzV3M0Wm5yU1ZWQ0xqQlhMUkp0M01tWkRGNTk5M21JUTJHMG5aTFk3Qmpwc2VkZV9zZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T06:57:21+00:00"
+      "time": "2026-08-15T08:00:29+00:00"
     }
   ]
 }
