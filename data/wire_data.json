@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:00:32.975883+00:00",
+  "generated_at": "2026-08-15T10:41:50.969823+00:00",
   "lead": {
     "text": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
     "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
@@ -7,42 +7,125 @@
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-15T09:35:25+00:00",
+    "time": "2026-08-15T10:35:44+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "South Korea proposes talks to officially end war with North",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-15T09:35:23+00:00"
-    },
-    {
-      "text": "Moment family rescued after 16 hours floating on jet ski off Thailand",
-      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-15T09:29:31+00:00"
-    },
-    {
-      "text": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
-      "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "text": "Quit Lit",
+      "url": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T09:17:11+00:00"
+      "time": "2026-08-15T10:08:58+00:00"
+    },
+    {
+      "text": "Katie Miller’s podcast serves as safe space for MAGA world",
+      "url": "https://thehill.com/blogs/in-the-know/6030541-katie-miller-podcast-maga-women-influence/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-15T10:03:38+00:00"
+    },
+    {
+      "text": "Ocasio-Cortez's decision riles some on right, while also winning admiration",
+      "url": "https://thehill.com/homenews/campaign/6030686-aoc-egg-freezing-controversy/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-15T10:00:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "‘X-Men’ Finally Unveils Its Cast, Including Adam Driver, Inde Navarrette, Christopher Abbott - hollywoodreporter.com",
+      "text": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:30:14+00:00"
+    },
+    {
+      "text": "Matthew Rhys Is on a Tear. If Only He Knew It.",
+      "url": "https://www.nytimes.com/2026/08/15/magazine/matthew-rhys-interview.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:15:08+00:00"
+    },
+    {
+      "text": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
+      "url": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:01:56+00:00"
+    },
+    {
+      "text": "Da'Vine Joy Randolph Sues Landlord Over Alleged $17K a Month Rental From Hell - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzNJbFRXMnlKRFU2ZjJnRDV4OUpIc0wzSlBiRzhYU05iVmYtck5wM0RvX09MVmJmQU91TVl2UExnV01lTU9vRlZycUZTTHBkcjNsN2JiZXZwaF8tbU5pTWZXR0V0cHNYVnUwY1BzNkRybEpmSktSNkZGa0kweTdseFhmejNMMG1WWmc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T08:00:09+00:00"
+    },
+    {
+      "text": "New 'Avengers: Doomsday' trailer drops at D23 featuring Robert Downey Jr. and more - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPay1OeGdfMUF5cUI5VHRjTDRPOXBrR251WlZBU0M2cG9JSG4zSnJ3ZGNfaUFpZjFuS0dicFZVNU1udnpPLV9OaTZqMzJCaV9STkg3eHUwSjRMYnBBVDYtcnlMTGF1bnY5MGVSbEQ0QUxEMGZ0UXVZYklBbHVtRXBoZnZvaGxYSko4QXJSX2NrQVcwQjVLSGs4Tmo2VVhyb09XanB6NHBPQk7SAa4BQVVfeXFMTkFaNHplamNxSmJkNnlEa2ZtdWlXY2VuS2FUUFpsemlxQ0MtdVB4WWp2WXdqZm9rNjhFWC1uQVZJMzRHMzAwR0Vfdk5yZ0JBdUhvMTJlcmRicXR5aXRsNW5POVJNYUNDRkxPdE84QlMza0NORWNZQ1otWm1lTVowam4yQ19kZ3QzQVppNGJSZUVsVjdIeWxPV2RlUTVqTlZKM2d1QzZ0SzZDYzFZSDVR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T06:17:44+00:00"
+    },
+    {
+      "text": "Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkp4SWZma2xCbmZUVVdhS2FVWXl6bFJpcmgyc0J2Zi1KYlhLT3dId0FleHJvRXl4X3VZWWpLYUw4M3I4YkRrbjdpcVB5Ylg0dHhwalpya2hTaHNwLWw2T0xQZDNWUFgweGc3alFMX0E1SGktTkRSTHB3NmZ5VVZIUng5d3NBZElJc3U1RjBISGwtMTZzXzNuQnJuQmFMMGhpNXQ5ekxsODlqazJy?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T05:31:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20 - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T09:25:00+00:00"
+    },
+    {
+      "text": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXVsZXZvODJPcldwNEtxaVVqSnRGMnpzWThfUmczb1VyQmptNmFKYW44S0IxcE9zdUo5VnY1ZzJOMU9QaFdNZEFUNUR5Z2JsMTVnVldURHMySFB3WEl5bFE3QUNuNXFkWkpmV2hqSllLbW8wU2FMaTlrWnc0N0FXOGYxaHpYaUhxWGYydUtEbE5CTUx5SmMyR3VKTHZHd2VlTmZnSnhLb2MtXzNxbHF6WHNrclBvYkg3LTNCRGRCN3RlOTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T09:12:00+00:00"
+    },
+    {
+      "text": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:01:00+00:00"
+    },
+    {
+      "text": "‘X-Men’ Finally Unveils Its Cast, Including Adam Driver, Inde Navarrette, Christopher Abbott - The Hollywood Reporter",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZW9HdlI0aHhiRXFuZXhPNGxhd3Bma2xGOEFSYkZSbUkyOTZSVkczWnRmMzZsZnRPc2RheXNuVjJiem4xYjdSTl9aaFZYUThvc1E5c3hBektlNUd4NlpOWkxzV3M0Wm5yU1ZWQ0xqQlhMUkp0M01tWkRGNTk5M21JUTJHMG5aTFk3Qmpwc2VkZV9zZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -60,99 +143,43 @@
       "time": "2026-08-15T06:01:51+00:00"
     },
     {
-      "text": "Horoscope for Saturday, August 15, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSndIR0ZaSmRWVE13NW96aFpDVHByd3VRbWdOVUx3VHp4UFF0WE9MTmMtRmFkaG9JWEtXOFFUMklfWUh6QkJrVkR6QzlkN3EzTFVfVFpfamg1OUFCd0JZMmFwYUxoWFV1Mm5hOFFsVk5XUDEtOGZaQ09xbDVOOUo1aVN0bXdvdGhsTXRsX0ZxZHJIaTlRdEE?oc=5",
+      "text": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY3kwTmNVcnRiRzJMTjBJd2pMblk2RkRGSnNkUmwybzNkUGRLVFZkRFNZcVUtcDEtV3ZSYzlFNmk2ZnlBTG44ZGlpYUNFVDMzN0NYUy1BVlp0bnJXMjdqM01ZS21mTm01V1MySXNDSmxHaGt3Rl9BelFCaUQ5OUc4c0dzOE5nTjFvaWFlRVRrdlpKaTdlNEthTVVmSkZ5OXBfQnBfTVR1Qy0xVWl5MmJpR1d0eS1ZeHNXQjNIb1JmNA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T05:01:00+00:00"
-    },
-    {
-      "text": "Five years after the Taliban won, Afghanistan is still losing - CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWFRkZW9iV3dJUE1qUlZqaVdtRzVNWkJvYmJibG1QMTJ2QlZQdHMzRW04T0F4dkt4bm1WWVZfTS1yMGNKYU9fdUhNYmdnSkFfbXBUbkhMTFZIYjNIX180M0xNa1hDa19MRWJSNUo0QlI2VnFUYzc3UWxfVkJxcFk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T04:01:29+00:00"
-    },
-    {
-      "text": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T04:01:09+00:00"
-    },
-    {
-      "text": "FDA upgrades egg recall to highest risk level as salmonella sickens dozens across several states - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUg3enVWS2JXb1NCQ1hGVDRqeldibWZtTUN4YV93emJ4Z1czLWVYQVJWT3RuRGs3OEdLcnA5Z1l6N1JvR2w1UklVaGNkbnJjVjdGMGl1VEdBNVBaYkxtdTBSd0RwcFN6V21KamtvUGlzMHZVRlFSQmtSSVB1bFpjQjhsVm9NRFhWWWFHVHdtY3Y3eGE2Wi04YklHSkJwSEtrQW10UVBWbUdHWG1PLUEyV2U4ZTBGQ1BDLVR2bk55X05uanpxSkZr0gHMAUFVX3lxTE01VUlaVXZtdU54VUdMUjNnNTF3SjZYT2NsT1EzS00zQVgtT0w1Zno0ZFlKa1JZQkxKUV9qUHhLRllEZ09hNkV0NV9md1d3eFZKOWhVZ3ZYRHpTN1ZpU2J6ZkJTS2U2djNIMURycDQ5YkEzWjVVLThNNFU2cXFTVEtXRE01aXVITmd2WmFlcEVsQWcxUWI2czBieXNSQWVrUXVUbUlrendqT2d6T3dWVWNnXy1QbkxwVjhCeVJMSjY5bkdUX0FDbmYwV21zSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T02:10:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20 and toppling buildings - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T06:33:00+00:00"
-    },
-    {
-      "text": "Mary Heilmann, Painter of Vividly Wobbly Abstractions, Dies at 86",
-      "url": "https://www.nytimes.com/2026/08/15/arts/design/mary-heilmann-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T05:49:49+00:00"
-    },
-    {
-      "text": "‘Avengers: Doomsday’ trailer: Robert Downey Jr.’s Doom squares off with Mr. Fantastic - Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSUg5NkxXb1dPbERDUTJVcnF3c2dLUnVxZlVjdU4xRzMwWW9CUk9vZVA3OXdaRjZNLVRWM0w3WW1YZld4WGxSX0RzWUhzTlhDNzdzSERsRVI2RmZQdjJObW83eUdCdmZfWklLNnUxd1F3Q3hZZ0hVM2ZDXzVfQjg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T04:21:42+00:00"
-    },
-    {
-      "text": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
-      "url": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-15T04:01:19+00:00"
-    },
-    {
-      "text": "6 dead, including shooter, and one critical in mass shooting near Cadillac - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeXZWbFVGNVc5TnBtS2doalZDRkY0Z2lYRmN4RHpodVFqd3NQZ3FwdU5IR2NqVk5sN29RakdFWGkxaTVURGNSNXczQjlkV1AtX3UxaVZBenVZSVBlRzJyY1IzYjVhbFMyX1lGOHFMQ2xiTUVab3FkUEtJUlo0bU10RkRfb1BMRUZ2U1lTV0hLc2c5dWRuRjA0N2pGVlNOR0U0SkszWTRuSjA0VHpRUzN1UVJKc2trWlVLSW56UlVtM3BFZEFLTTVFQTdUTjY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T03:44:00+00:00"
-    },
-    {
-      "text": "Falcons - Broncos instant recap for preseason Week 1: Rookies open eyes, veterans fall short - The Falcoholic",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNEFIeHBwc3BhZkhfZE81M2NxYjZEOE01dDZFQS0zN1RFUEtlcU9rSHZVRHFsejVyRmItN2lHTWJPUERVZXdxcC1GYkNGUGhoU3Roc25qbkJ3d0V2a1luX3VzcXM0RVlpT1FZRDZRWW54ZWZ1LWtKNzF4Smh1Yi1PZHh1SHI2WXVybHVKNGhrenoxOEc2OWlGZm1MLVJYbEZKc2Y1YUNNY2lLLWZmQmM4bG9RUlB4aUVFNTBnR3pWbmY1aldtd0JOVnBLbXFUMVhuc2tCMWxTNVdaaFRRM2JlaG5LVQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T02:10:00+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:17:11+00:00"
+    },
+    {
+      "text": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:02:09+00:00"
+    },
+    {
+      "text": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:01:00+00:00"
+    },
     {
       "text": "Trump stumps in N.Y. suburbs, highlighting a dilemma for his party - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmhLTmFKWXRaOTdueTZIWHNZT29EbVNLNWFYSHJJWlQwYWtPalFTZUtOekNNckxYWlBNM0FVbC03bjBZd0RuaVJPWlNFb2NtQmRaci1zRzFtYVdMa0xSa2NDbEZyMEVYVFEyX0J3Y09USjQ1Rk1DWVFORGJNOHdYYm5kbk1KTUJJWGhYcEhCU1dESDdGdnhJYUpSLVFCeXdQbFVtd0ZsR1dfZw?oc=5",
@@ -163,22 +190,13 @@
       "time": "2026-08-15T06:18:10+00:00"
     },
     {
-      "text": "Japanese leader skips controversial shrine visit, avoids mention of remorse on surrender anniversary - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTS1XUDY1NEp3RlJQdGxCVlRyWFVWckpxZlYtbENGQ0k5UmkzSFJNUTR4eWEtcDRZem5fZVVpNi1rcVRoYV9KZFFyRkg2SXpkVWhPVFIzLXdmN3EyWVJIUF9HQTF5R1FxeVU4aHktZnNEZlI4dkJneVhTYmRiVl9DaTZCN3JaSERHRE85VFBTeEtHT3cyYmd3?oc=5",
+      "text": "Gutierrez: Fernando Mendoza delivers in his debut; the bigger test awaits - raiders.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkdQcmlkcjVLVnZHYkNSY3dCclZodE5kSlpCT3BudGhlNFJQMURYdF9FOWtjUWxkZ1pQTWdwVHJNeDJiMnVCcEFkSUV0NUtjNVdsZzFQanAyS3RLbEhfcWJ5Wk1UR2JPNkNpaGpmQV91cVdPUGFITmZWTGRWWndaVnJSREg2RHpZZmxlZE14LXU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T05:25:00+00:00"
-    },
-    {
-      "text": "Man Charged With Hate Crime After Disrupting Worship at N.Y.C. Synagogue",
-      "url": "https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T04:15:03+00:00"
+      "time": "2026-08-15T05:37:30+00:00"
     },
     {
       "text": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
@@ -188,24 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-15T04:01:10+00:00"
-    },
-    {
-      "text": "‘Coco 2’ First Look: Miguel Becomes a Teenager in Pixar Sequel Set for November 2029 - Variety",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmoxUGc4bGwybWtHaDJzV0p0R2E0WnBvcFdhaFlmUUxGVk1xOWNhM1hIZE8yM1VZVjd4SkpudzJNYmVYeUFMRElTNkV3eFJoeTZZY3hpXzhGcGQ3Y3hKVUhwSFBpSFhtcDFWbEthMUs2Wl9yQ04ycnFTRGZQeUh6LXpEMDkwdmtYNmcyeFJLUkpCYW01a0xab3B0Mk0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T03:01:00+00:00"
-    },
-    {
-      "text": "Commanders 20, Dolphins 7: Five takeaways from Washington’s preseason win - Hogs Haven",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXNHYnF1dDVEbkwwaWg0UmVkYnc4STQyQ0tNa1lHdnZEbzhrNzZSLTlmcHBVVEJMNXoxMF9xRjVPQ2FXS2pFNXFIcnNveFgta2s5YVhGZUNKbzVvbk9ON0owNXdGOGZ2MDdJU01uOEsyajZDcjI0N3libU9FOFRnNGNrUGF0YzF5SXpPa3Z6XzFnMTVXV0tMbFBBWndLbFAzYUwyOXhVTUVHQ0p6MkUtcFN0RDZzb1FJRWRiWWNlNW1ocE9pMXk1YzFtUmFCZFh6RUp4ODlhUngwaVFLaS1QYjR6Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T02:07:00+00:00"
     }
   ]
 }
