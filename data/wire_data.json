@@ -1,35 +1,102 @@
 {
-  "generated_at": "2026-08-15T17:59:20.849751+00:00",
+  "generated_at": "2026-08-15T18:43:19.777593+00:00",
   "lead": {
-    "text": "Firefighters battle wildfire tearing through Belgian nature reserve",
-    "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
+    "url": "https://thehill.com/homenews/campaign/6028298-dnc-approves-2028-primary-calendar/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-15T17:47:42+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-15T18:35:45+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Iran attacks third UAE tanker within a week",
+      "url": "https://thehill.com/policy/international/6031505-uae-accuses-iran-strait-hormuz/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-15T17:42:36+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-15T18:28:40+00:00"
     },
     {
-      "text": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-15T17:35:09+00:00"
+      "text": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T18:27:45+00:00"
     },
+    {
+      "text": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-08-15T18:21:32+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T18:15:49+00:00"
+    },
+    {
+      "text": "How Are the Democrats’ Midterm Dreams Shaping Up?",
+      "url": "https://www.nytimes.com/2026/08/15/opinion/democrats-midterms-progress.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T14:58:00+00:00"
+    },
+    {
+      "text": "At Least 47 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T13:08:44+00:00"
+    },
+    {
+      "text": "Republicans Are Trying to Hide These Health Care Cuts",
+      "url": "https://www.nytimes.com/2026/08/15/opinion/trump-health-care-cuts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T11:31:13+00:00"
+    },
+    {
+      "text": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:02:10+00:00"
+    },
+    {
+      "text": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
+      "url": "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-14T19:20:46+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
       "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
@@ -38,100 +105,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-15T17:31:40+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Live updates: US-Iran war; Trump says he ‘did the right thing’ and would ‘never apologize’ - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlpLZGNVVU9BX2JPcU13ZWt1SXZPLWZmaUdhR05fcWdmUmtZMHRTNFZNdUllN2g3MHU0ejRidWVqSVRtUkRwSnlmOFI0U3BPX1FGaXEyQTl1VjVhNTh4Y1BRbU5kUGhvU2JfN1lR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T17:08:00+00:00"
-    },
-    {
-      "text": "How to beat an earthquake: The Colombian city where no one died - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T16:34:24+00:00"
-    },
-    {
-      "text": "Box Office: 'End of Oak Street' Earns $8.1 Million, 'Spider-Man' No. 1 - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcllaWWNyZnMtY3pDMEVqeVVWd2lONktCTUZ3ZXdBNUdwMGpzelA4a2V1b09XRlh1SjVNRnE4WG5WbDNwT3lDdloyYmRsdUNkWl9HdkdhZWFiRWtyRnBQb3A2RkYxUWtuZ25ITGhud20yV1pSQndaZWJNdlNuemFtX0RnREp2MkRIYWNseVpXaHphWF9na3YyRzNOcW5uRmpJeHZCMkdWVkVHQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T15:59:00+00:00"
-    },
-    {
-      "text": "Five wounded in shooting at Virginia State University, multiple suspects - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTVLR0g3d1FwakI5bUJXSnNWZ2NJU3dDQkItV1dseHA5X0VHVGdEeFF4X3YwSS1tVzQ1MzZIdjVQZkIwVnZVcHBKOEFrSnVIaEQxM0dmeHFrUHVTd2ZWTjlwZFUtckxQOHdMYW13dkhPd0dVcnoyTERHdzZjWkNKZmFaUFFRYXN0cGg40gGQAUFVX3lxTE1XUFZ2bXdWVWtubklCM1dPeTNDTU9rS0NWM3hMbmlxLXFSQ1NNTUFhQ2Z6LUFoMml5Yjg2LUVoWExfdmpXbkFHMzRMSTZlRGdOcGpJWF9NVzgyM0dpdy1Fd0tOZF9WN0kxRXg3YUFzSHFpcUlzUlIxNnh1Tk54aXZfcG1TdkstdG12Z1VqT09DTw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T15:37:36+00:00"
-    },
-    {
-      "text": "2 powerful earthquakes hit Indonesia in one day, killing at least 47 - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T14:56:00+00:00"
-    },
-    {
-      "text": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead a week after resigning - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXVsZXZvODJPcldwNEtxaVVqSnRGMnpzWThfUmczb1VyQmptNmFKYW44S0IxcE9zdUo5VnY1ZzJOMU9QaFdNZEFUNUR5Z2JsMTVnVldURHMySFB3WEl5bFE3QUNuNXFkWkpmV2hqSllLbW8wU2FMaTlrWnc0N0FXOGYxaHpYaUhxWGYydUtEbE5CTUx5SmMyR3VKTHZHd2VlTmZnSnhLb2MtXzNxbHF6WHNrclBvYkg3LTNCRGRCN3RlOTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T14:45:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Israeli strikes kill 11 in south Lebanon after Hezbollah wounds 3 IDF soldiers in attack - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1ZKX0ZEbHRQMERUcWlMNzZYS2U5NGxFamRaS2dpQUFURk50b1VvN3ZVbm1acjdUYXR6UC03OTJBb0x2VGs1bVN2ZXMwVVVaWTRsb2tYTTZYWFNBbVFLb2FaUlJfUklqNzBwSWNSdVpJeFhoV2ZQTFRnS2tMMEtkenowUFdFMkVwelRiRWpjcGc0Z0pOUGdGT2UtSjQxX0hIVFNlbWJjOGN1MGl6aGJpZW9WOHU5bXlrYXfSAb8BQVVfeXFMT2RwX3hnaDZnanQyWWJlclZ1ZUdTTUJINl9tQnpzR292bDlfMnNlZjZuOVJZRkZJakV1SDg0Nmg4ang4anJlZXVqcVp0eXFrRy1xenJDZjhNall4TXBYTVpycm5FeXNfZzc4T04zMjZYcDV5LWpHb3d3Z3kyZGJReDNBWHZRc0Rsak5PRWlRQUU1TVJYQmZ4SFB6TW44d0dTdG9kZ0Nta2NMLTQxRXhNamNIS1hrWURMRmRaRVBieGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T17:04:05+00:00"
-    },
-    {
-      "text": "D23 2026: Ryan Gosling is Kade Auberon in Star Wars: Starfighter - StarWars.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ja2RJc0JnUngzWklnTF94MjdsNng3WGl5NUw3UnJxZzhfeFd5WDBzY1E2NU5yRkw4cXNGaEt0SXpOSXh3c1Qzb3NTUkMxY3Y0Q1JuR3lsZ2pIbWR5S3l1dUkzMVJfUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T16:28:53+00:00"
-    },
-    {
-      "text": "Sources: Seahawks, CB Witherspoon agree to 4-year, $132M deal - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFJaEk1Q0ZYc3pYN19PU3lMUFJ2czlkbVA2Njc4QlhsX3I3cmNlUm1VNU5VZE82SFY5X1hKeUhwVllWOFVjdHpVVGRJQ20zTmJIVFFoV2dWaWlIUFp6VTB5Q1BFRW10Qlp4R0FIWHlnRUR5YUEyb1EwNllkbVFlcWIxR1JFT0NqSURVXzJUZmdBTW80VUZXOWIteVhfTVZk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T15:45:00+00:00"
-    },
-    {
-      "text": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T15:33:00+00:00"
     },
     {
       "text": "Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.",
@@ -143,25 +116,43 @@
       "time": "2026-08-15T14:52:47+00:00"
     },
     {
-      "text": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0JZa2lSbFBvQlJNTWE2dTRxakFtUzQ2ZlpuR0lDREgta0FISjVNWF8yOE90ZUZuU0RzdUlVYU5hNEZLUnVuTXJPSDE4RnFCWFFkWC1wdVdEc3ZGYnVfaFh5LXdmOExSOWp3YzJ1Zy15TkRLdUlyTUhtNmhWX19NcdIBhgFBVV95cUxNcGtCZWh2TWhNdGZMajF4VlpnLWVCTDlUZ0g4b3pIb01WQmRiZDM3RGhtV1M0dUI0Y1Z6VFZtWWEzZUxXSXR4cUtTVUFiUEx1eVd1d0Rva2VVd2xCeEJ0SUxPTkhGZW1uempyZ1pNWXJKOGNGOWRaODBWR1BZZ3NsRC0xOUhVZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T14:35:01+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "David Ellison’s Plan to Move Hollywood to Nashville",
-      "url": "https://www.nytimes.com/2026/08/15/opinion/culture/ellison-nashville-paramount-hollywood.html",
+      "text": "What Is Happening at the Border in Big Bend National Park?",
+      "url": "https://www.nytimes.com/2026/08/15/us/border-big-bend-texas.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T16:37:45+00:00"
+      "time": "2026-08-15T13:06:47+00:00"
     },
+    {
+      "text": "Quit Lit",
+      "url": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T10:08:58+00:00"
+    },
+    {
+      "text": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
+      "url": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:01:56+00:00"
+    },
+    {
+      "text": "Kalshi accuses Nevada investigators of violating federal law in geofencing complaint",
+      "url": "https://thehill.com/policy/technology/6031495-kalshi-nevada-geofencing-dispute/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-15T18:14:28+00:00"
+    }
+  ],
+  "col3": [
     {
       "text": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
       "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
@@ -172,33 +163,6 @@
       "time": "2026-08-15T16:09:55+00:00"
     },
     {
-      "text": "Liechtenstein changes its rules to allow women to inherit the Alpine principality’s throne - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeks3dFFoNHJwR3dMMmRmUnR3cUZIMm91QktlbXlTQnJsQTNZaDV2U1hHUGYtYmhnRTdpVWNwcUp1MENVa3o0dUh0MW11TWhLUU8zb3JKOUN3S19wdElLakJTVlBXY3dzaU5udTlUUlZxRHNZdVppQjczZWFtUXJvM3JBVzBScWtnZW1LUDJhYS1wOV83S081UmgwOEtDTERKa3FpY0ptQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T15:44:00+00:00"
-    },
-    {
-      "text": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T15:26:52+00:00"
-    },
-    {
-      "text": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGFTR2NEWkd0UXZ2Y3pITjZ4MXRQZEREU3A0LU9GXy1aY0Z1bzNUY083NE4xN21wc2V3czEtWC1idGliQzZxM2h4WTRuSzRSVGFUN2tMS2VFN0k2QTlHSEhaWHd3ekpSSS16YTVSdTFwMUtkX1lZYVZGdjA1NEx2aFdQUVJnSXZWRE11RGxJSGpsWG9qZWxYY2s4bGNFSWfSAaQBQVVfeXFMTXllMzRNcmVRZTZib3pmRjVWZHg0ZEoxSkx0VTM2dnR1dWFOOGlxQWZqRVh1dXB5b1BuUjVaaUlCRURqclhkbDZpd3l1V3VnR3RSazBJYUdSYW5zaS1LbnpGNllGakRId1FFYkRWNlZfeGNYUkxUbTl3bzN0eDdZUWdqSVA2eDh4RVQ0NHhmcTlfemp4Tzc2blFNWVNsa2lGSDBJSnU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T14:45:31+00:00"
-    },
-    {
       "text": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
       "url": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
       "source": "NYT",
@@ -206,6 +170,42 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-15T14:16:39+00:00"
+    },
+    {
+      "text": "The Charming, Amusing, Surprisingly Low-Confidence Matthew Rhys",
+      "url": "https://www.nytimes.com/2026/08/15/magazine/matthew-rhys-interview.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T12:33:50+00:00"
+    },
+    {
+      "text": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:30:14+00:00"
+    },
+    {
+      "text": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T09:01:01+00:00"
+    },
+    {
+      "text": "Here is our way forward on immigration",
+      "url": "https://thehill.com/opinion/immigration/6030434-immigration-policy-reset-america/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-15T18:00:00+00:00"
     }
   ]
 }
