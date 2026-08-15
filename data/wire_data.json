@@ -1,46 +1,102 @@
 {
-  "generated_at": "2026-08-15T14:41:23.965873+00:00",
+  "generated_at": "2026-08-15T15:01:04.560180+00:00",
   "lead": {
-    "text": "South Korea proposes talks to officially end war with North",
-    "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+    "text": "Five injured, one critically, in shooting at Virginia State University",
+    "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
     "lean": "center",
     "topic": "world",
     "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-15T14:40:15+00:00",
+    "time": "2026-08-15T14:58:46+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Peltola distances herself from Kamala Harris endorsement ahead of Alaska primary",
-      "url": "https://thehill.com/homenews/campaign/6031348-peltola-distancing-harris-endorsement/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-15T14:38:10+00:00"
+      "text": "How Are the Democrats’ Midterm Dreams Shaping Up?",
+      "url": "https://www.nytimes.com/2026/08/15/opinion/democrats-midterms-progress.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T14:58:00+00:00"
     },
     {
-      "text": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost",
-      "url": "https://www.cnbc.com/2026/08/15/aoc-egg-freezing-costs-insurance-taxes.html",
+      "text": "Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T14:52:47+00:00"
+    },
+    {
+      "text": "5 people shot at Virginia State University as police investigate multiple shooters",
+      "url": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-15T14:35:01+00:00"
-    },
-    {
-      "text": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-      "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-15T14:24:21+00:00"
+      "time": "2026-08-15T14:51:29+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Trump secretly switched planes. The journalists left aboard say they deserved a warning. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2tOWEs5TXlCY0F5X1o5aHFYSEJOSHR1UXREdk1VYUtkc0pmZG1VZzA0STRqWmIxSHA3ZE4wMW9PekIwY2ZtM3RpaTE4bDFIT3ZMcmNSOTNOU1J3YWF2aWM1OFJLd0xFcE1RX3Z0M2JzTWg3SnFOamRMMXB3emwxLUg5U0NDaFRCWWFaUGE3SXZlZkQ3WUhwX2NKV3VOVVhvZGJNQjNIQ1JzMlljT3B4TVhoaGJFTXB5MTF3czRiT3ZES0Vwb01zQ0RxY08?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T14:35:02+00:00"
+    },
+    {
+      "text": "NFL Preseason Week 1 Takeaways For Fantasy Football: Kyle Pitts, Carnell Tate & More - FantasyLife",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0V5STZuSnE0UUlZbXhuQkNURFFHOU03dmVPTFJ3RWpwcWtPQ3ZOdmJyV3llNWg5VVRUOWdGZVNZb0JwNWl5NGxrYzBRQUdtT1RONm9JdnN4VUY5XzFCeFY4dVZUR1RPOWVRX2ZJNlBORkN2NlFua3BONFRCWUc1ZEd0Ry1NZFhzVVQ3OHdYQWZVYUFxVDFmRTVjb0w?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T13:30:00+00:00"
+    },
+    {
+      "text": "Hawaii’s Big Island lashed by rain and wind as Tropical Storm Lala closes in - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T12:55:00+00:00"
+    },
+    {
+      "text": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KbVhOZTdMZ3JvdEtrVHJ3cFJub0hZYUxSaFV1VG1SRWE4TDk4QU5rLWhZalRBbVE2OVAzU2lNUTl0NGRIM1NleWZSb1h5ZnJjbzZuclZGRE1SOXZaaUVYYnpxYldCSjRkVmxrcE5JV0FFNlliLWRucW5Pa9IBgAFBVV95cUxOOTEwc2xkYktsR3Q3XzMzMV9QdHZsUmFkTXNaSlNuU21NalpMU185UW5hNmtCWWt5RGdCUHJaR0Z2cVREak1jdGpJY2F5RV9wSUp5ZWZ4RXIyRVNPZjQtWGZ6SlZsX1FEa2FkS2k1Tmp0bjlWZTNIRUdGSDVKMWFDOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-15T12:00:01+00:00"
+    },
+    {
+      "text": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T11:38:00+00:00"
+    },
+    {
+      "text": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-15T11:03:26+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
       "url": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
@@ -69,13 +125,13 @@
       "time": "2026-08-15T12:33:50+00:00"
     },
     {
-      "text": "We’re reaching peak camera with the Sony A7R VI - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWZTQkFnX1Fyb2k5a3FFYWJGaURLYjk5QTZpTUs4MlYxTXd0YnFSUV9mZEFsSDFINjE5RDJhcUE5QzZqbjVsd293OEs5NTJIXzhwaGw4RkVLRXJTY05aTlUwcGgzYUdPOFlHWVVYc2Y1eDF1VjJ5UUljNVFzWW40TTRicmNVNVVO?oc=5",
+      "text": "A pregnant woman had 2 signs her life was about to be in danger: \"Everything kept getting worse\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUhpWWN0S25wNU5TT05TdTZGUXh6cHl1bGZBSUpfRXUtSmxaa2hLenI5N1plNzB4ZEQyVTJ4ZVAwV2NDMnMxSnNXazNWZ19RMWNEckZja0kxUUtqUFJMeDVETGF5Vy1BQ2pNRWZOcGcyam1nSjJWWHEyZzBhTTJSOTBmaktGYXJHTy0zTzhFd1UtQVk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T12:00:00+00:00"
+      "time": "2026-08-15T12:00:01+00:00"
     },
     {
       "text": "Republicans Are Trying to Hide These Health Care Cuts",
@@ -87,18 +143,18 @@
       "time": "2026-08-15T11:31:13+00:00"
     },
     {
-      "text": "Jason Arday death 'tragedy on so many levels' says PM - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sRk1HRV9MR253bkFUcEdzazU1NVBnT2RMUlRBaXNoNnFidS13cFdfbEREd2NlSjBKc1NQS010WE5Fa0pPdUdFTlV2M09odUh3TExtQ2RkUmd1Zw?oc=5",
+      "text": "Double jeopardy could spell end of state case after Luigi Mangione’s guilty plea - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUF0M1hNd09idi1nZ0xRRFJMZG1vUjg3eWpwQTVEcjVpZkdDV0k3VV9fSTF2ZWFwSzhHYnVMVUE5bDBGNklvcXFaUmpyLUE4ZTVlRHBPSDA2X0lRSlBVTFNRMTJpMGZ4UzhybU5zY0JOOVduVUI3SDJIY09EWjNldHV3M1FxR2cyYmNqZXpyUzQwMnM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T11:06:39+00:00"
+      "time": "2026-08-15T11:02:00+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Five wounded in shooting at Virginia State University, multiple suspects - Al Jazeera",
+      "text": "Five wounded in shooting at Virginia State University, multiple suspects - aljazeera.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTVLR0g3d1FwakI5bUJXSnNWZ2NJU3dDQkItV1dseHA5X0VHVGdEeFF4X3YwSS1tVzQ1MzZIdjVQZkIwVnZVcHBKOEFrSnVIaEQxM0dmeHFrUHVTd2ZWTjlwZFUtckxQOHdMYW13dkhPd0dVcnoyTERHdzZjWkNKZmFaUFFRYXN0cGg40gGQAUFVX3lxTE1XUFZ2bXdWVWtubklCM1dPeTNDTU9rS0NWM3hMbmlxLXFSQ1NNTUFhQ2Z6LUFoMml5Yjg2LUVoWExfdmpXbkFHMzRMSTZlRGdOcGpJWF9NVzgyM0dpdy1Fd0tOZF9WN0kxRXg3YUFzSHFpcUlzUlIxNnh1Tk54aXZfcG1TdkstdG12Z1VqT09DTw?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -116,16 +172,16 @@
       "time": "2026-08-15T13:08:44+00:00"
     },
     {
-      "text": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KbVhOZTdMZ3JvdEtrVHJ3cFJub0hZYUxSaFV1VG1SRWE4TDk4QU5rLWhZalRBbVE2OVAzU2lNUTl0NGRIM1NleWZSb1h5ZnJjbzZuclZGRE1SOXZaaUVYYnpxYldCSjRkVmxrcE5JV0FFNlliLWRucW5Pa9IBgAFBVV95cUxOOTEwc2xkYktsR3Q3XzMzMV9QdHZsUmFkTXNaSlNuU21NalpMU185UW5hNmtCWWt5RGdCUHJaR0Z2cVREak1jdGpJY2F5RV9wSUp5ZWZ4RXIyRVNPZjQtWGZ6SlZsX1FEa2FkS2k1Tmp0bjlWZTNIRUdGSDVKMWFDOA?oc=5",
+      "text": "Jason Arday, former Cambridge professor, dies week after resigning amid plagiarism allegations - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1k0OTB4TlA2TlZqMGVHdzM2RUJlTVFJWGxnSnhyYU5mNWVkY3pKU3N6NFJuY0o1M3NQTmg5TGlMOG9yNnB2NGxPSWpBRXR4U1ZxX19WaWZVTUxCWWtpUm4wenh5WXR5d1pZa21pLTNLd3VocU5BWGgzVDZFaUVocDROaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T12:00:01+00:00"
+      "time": "2026-08-15T12:07:06+00:00"
     },
     {
-      "text": "X-Men: Christopher Abbott and Sadie Sink in new Marvel movie - BBC",
+      "text": "X-Men: Christopher Abbott and Sadie Sink in new Marvel movie - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MSGVyNG1Iekd3X0VwNDRzdGNqSUdFV0wtZXpjYTFQMjNjaU1JMlgzMzZHbXlsM2FzSTdpLU5UYlZuNjdBRFlxVTRhVjNHcjlpd0FOd3VUTlV3UQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -134,63 +190,7 @@
       "time": "2026-08-15T11:57:25+00:00"
     },
     {
-      "text": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0Zrd0laR0k5T3h2SHhKclo1Zjh4RkVUWDA2SUhfajNRZFNlSGpZbXVBUlQ5bXVrQkZqVFJxLXJFS01MbkRIUVVmbXlFTE4zZWtBSDJPTl9TNXM2WkF1YnV5VlBUaGQ4QkhoU0EzVnJfcDRiOUJic01DeFZxV1BZVzN3UHRjU1Z3eDdxTXd2eDJOQlBqWktadkJoc0Z6eDVNYzlqb2FwNE9kdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T11:27:00+00:00"
-    },
-    {
-      "text": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T11:03:26+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Family stranded at sea for 16 hours after jet ski capsized in Thailand - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoNzM1V0RJRGpPcTdzbnM5SUpuSU1LMXlxSV9GUnp3U2Exal9xUVdWRWZKdXJoN2dGMXVTZUpBVVJ3ZnJfUEdWcEhicXI2ZF9sX2VjdFhqMDFEQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T13:41:09+00:00"
-    },
-    {
-      "text": "Hawaii’s Big Island lashed by rain and wind as Tropical Storm Lala closes in - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T12:55:00+00:00"
-    },
-    {
-      "text": "A pregnant woman had 2 signs her life was about to be in danger: \"Everything kept getting worse\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUhpWWN0S25wNU5TT05TdTZGUXh6cHl1bGZBSUpfRXUtSmxaa2hLenI5N1plNzB4ZEQyVTJ4ZVAwV2NDMnMxSnNXazNWZ19RMWNEckZja0kxUUtqUFJMeDVETGF5Vy1BQ2pNRWZOcGcyam1nSjJWWHEyZzBhTTJSOTBmaktGYXJHTy0zTzhFd1UtQVk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T12:00:01+00:00"
-    },
-    {
-      "text": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-15T11:38:00+00:00"
-    },
-    {
-      "text": "Seven killed in Israeli strike on southern Lebanon, country's PM says - BBC",
+      "text": "Seven killed in Israeli strike on southern Lebanon, country's PM says - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRDVFUWZWd2tFVmZ6bm5fUld6aVBfSkhFTzZZYUhyYjl4M1pnc3pfUl82cTEtelV5cGxBem9JcWJQeXhxdVRtbWQxdFlSMXlsQUpOdUtwTzFRQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -199,13 +199,13 @@
       "time": "2026-08-15T11:24:24+00:00"
     },
     {
-      "text": "After Trump’s DEI cuts, communities struggle to fix problems with raw sewage, air pollution and erosion - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVdJdk5GU0pRUTlRcFMycWgtRmthOXRvOUJ6c2tYd2hkU0liNkJ5VFczcDNaQkI4QnlhZnViLVFXQnZIUmxTT2Z0SGkwNWg4bDJsWC1hOG1XdUkwWTVTVWtqWXJlanNjNzVscGVISG5hRW0zSmt1SDNLbzU5T1ZSLXZMVUpwM0tyc1pJR21ZcC1PaVZQZm5IcnZR?oc=5",
+      "text": "How $600B of Biden’s clean energy funding escaped Trump’s cuts - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZlBmOGloMmZfOGVaZDZSTlMtb2V6OEhLVkV0WmlPUURUMnhJaDlldDd2SmlTbWZYM0FsRzZsZnlIMk1kWEVHSU9mNjVVcndaNDBEdnZjU0pUaW5HRFVtNnlSaVpCX3M3QXhJR2VWQmtGMDk2SlZHdl8xT2l2eHR0SUw1MDZBc2pSTkJCR3RfX2s?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-15T11:02:41+00:00"
+      "time": "2026-08-15T11:00:00+00:00"
     }
   ]
 }
