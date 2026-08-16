@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-08-16T10:42:26.593744+00:00",
+  "generated_at": "2026-08-16T11:01:53.620319+00:00",
   "lead": {
-    "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "text": "Twelve killed as Polish bus veers off Hungarian motorway",
+    "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
     "lean": "center",
     "topic": "world",
     "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-16T10:09:10+00:00",
+    "time": "2026-08-16T10:53:50+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-16T10:52:08+00:00"
+    },
     {
       "text": "Police have arrested a 19-year-old in connection with Virginia State University shooting",
       "url": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
@@ -29,7 +38,9 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-16T10:00:18+00:00"
-    },
+    }
+  ],
+  "col1": [
     {
       "text": "Friends Wanted Me to Cut Off My Father. They Were Wrong.",
       "url": "https://www.nytimes.com/2026/08/16/opinion/parents-children-no-contact-families.html",
@@ -38,65 +49,7 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-16T10:00:07+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T09:31:10+00:00"
     },
-    {
-      "text": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
-      "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T09:01:44+00:00"
-    },
-    {
-      "text": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T09:00:30+00:00"
-    },
-    {
-      "text": "At least one killed as Hurricane Lala slams Hawaiian Islands with violent flash flooding, sweeping homes away - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZVNNNndvdXZUXzlCT3lnc28zc1BoTHhEUEkyaHo1R2pIVGpJNDVtd2MtajFuQzJRZ2RNZlQxWjNSWHhlMzFkT09GWUJlclIySXZTbkFJRUx0aks5Z2xla2dWLTYzMHZ1Y1dTR0w4alRnSjZsb25BQjZmNHVsZ0JJdDh3WjBEZTBkNW5ON3lUc09VVVRqUTg5MzFrcVhlUkVWLVZFaW1JeFFIUEdOUUHSAbMBQVVfeXFMTVhCX2IwRUlhZ0pBLXJVUDNaUm1DT2ZtbEpMb2dNNVRDTzFWNERJdDhlRXZ1Q25mMm04c2I3c2IzclVtdi16MWJnckdMQXhQdTE4NVNrWVZsazh0LXE0Tkh2SVItcmVzeDBfSHNXZjhteURfTWRGQ2VLdVBlNmhkVjNKQjVidGJudURWVUdZblRXak9PWGYzZnVERTBsaHBvQUV5WUhvZDQtdUlnQ2czMWI2bGM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T08:30:00+00:00"
-    },
-    {
-      "text": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hEQ3RLck5hS0ppd1g4SW9mZDgzY3FwM0VOU2ctOVpqZXBPOF9sVjc4SW1aaXFVZmpXWHFqQlhnSVNWdUEzaUR3N3QtUlVQOWEwZTdTRVZEcW0xMmdhSWctLVFacGU0RU5ZYU0zNFRQNVRjTHRseVFuQ0pjek0xVklPcDlXVUVzZmp6aWNZeFpqOEhab2NZeXlWWTFoZ1hoWXktQjIxQ1NJVVVVbm1WdTY4NnLSAboBQVVfeXFMTldXcXBScHdFb0xMM3VWZE5VZ0lad012blFBNzhhY25zUmJOTHBXZVdIdHR0LU15TUgwc1BVY2RQNnhQaHFpc08xT2RaYkRkdmI3NUtnVEtLT0VFVHNLaThfOVJzRk0zRldwdDBkOVVYYXdCaGwzVTFMdW5lMmdtaHlwRTU3TGNoOGRjQXBtODBfMndabmJ3U1NxWjl6RF96VHlOOUFlNk1aemVXQVZJZFZTaWNxcnY4b0tn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T07:41:17+00:00"
-    },
-    {
-      "text": "Ty Simpson dazzles in his Rams debut - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG94MEVGdXlyakVydWdkZEZ6R2Y4WnVSNmNNY1dPVGttaXIxZ19PcVpjelMzNElVdWNIc0FUREk1NG54a253SzUyNnlnSTBTT1Q5RFdPX2dwZTladHBjU21TNkZjZEdZUzhxZUZJRUcxaTB0Qk9wQ281am5yMGxWRUw0b21TZWUyekYyUEV3c3hzbDB1YjBlNTNmZG5ka1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T06:41:12+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "Is the Democratic Party Facing Its Own Tea Party Moment?",
       "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
@@ -125,13 +78,13 @@
       "time": "2026-08-16T09:00:27+00:00"
     },
     {
-      "text": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5",
+      "text": "At least one killed as Hurricane Lala slams Hawaiian Islands with violent flash flooding, sweeping homes away - foxweather.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZVNNNndvdXZUXzlCT3lnc28zc1BoTHhEUEkyaHo1R2pIVGpJNDVtd2MtajFuQzJRZ2RNZlQxWjNSWHhlMzFkT09GWUJlclIySXZTbkFJRUx0aks5Z2xla2dWLTYzMHZ1Y1dTR0w4alRnSjZsb25BQjZmNHVsZ0JJdDh3WjBEZTBkNW5ON3lUc09VVVRqUTg5MzFrcVhlUkVWLVZFaW1JeFFIUEdOUUHSAbMBQVVfeXFMTVhCX2IwRUlhZ0pBLXJVUDNaUm1DT2ZtbEpMb2dNNVRDTzFWNERJdDhlRXZ1Q25mMm04c2I3c2IzclVtdi16MWJnckdMQXhQdTE4NVNrWVZsazh0LXE0Tkh2SVItcmVzeDBfSHNXZjhteURfTWRGQ2VLdVBlNmhkVjNKQjVidGJudURWVUdZblRXak9PWGYzZnVERTBsaHBvQUV5WUhvZDQtdUlnQ2czMWI2bGM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T08:23:38+00:00"
+      "time": "2026-08-16T08:30:00+00:00"
     },
     {
       "text": "BREAKING! Disneyland Tomorrowland Complete Overhaul Fans Have Been Waiting For Just Announced - Mickey Visit",
@@ -141,18 +94,18 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-16T07:10:21+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "Horoscope for Sunday, August 16, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NFLWRlWEowaFFGVUF5X3pLWlZmOXBIbFdaemdaYmdfVkhFU0llelFlN0FhUk4wLTE5MkJ5S3hzd2ZLTHoydXNnQVZhbGJ1VkktVEdHZ3VyZTRmZkxDWHMwRVM1VWNHRm0wbnhiNk1MOENINnFNSGJQVkQ1cDRYTUVJYkVsaGMwVG9FR21DZFoycEE?oc=5",
+      "text": "Supreme Court emergency docket roars back - thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdndRbG16RkZFNDE5a08yWkJfcXdMOEhtdTMtaFVLY1NFRFdwM3dIUUxvR2RpRnNicDRTQ0NCcFFNcWtrNG01dVNNTE4tckl1RWZGVGhGTnJoRTJ4ZW5lenJjYVJKRndxNFRZZzF3ZDZBeEZJc3hnckVsRWJObzlaQW9TbjBROGc5QXJ6RTV5MEZjU2dLemZSZ2RGTEt1bFVxMjFmSzRfZkpSbXhlSWtYZnVB0gG3AUFVX3lxTFBrYURNRXRWQ1E2S0ZxbnZ5LWpYdy01dkhhTmIwMmVFbWRJU1B6YWJjNlJSeG5HMnJOM0dCZ2RrVlVPazEwWHlxUEgwUjdIdVVtSDI1dUFPbmsydWhKbkJQMURYdTdCZmhwdG43MHpJRUFFM2lqa2VMUVlvS1I2XzU1MjFDODllcFg3OS1ldTZ6dlFCWmlqRE45ZUdvZWVwTk9DV0YwT3RjUi15YTBHMXBhaEtGLUZNcw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T05:01:00+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-08-16T10:00:00+00:00"
+    },
     {
       "text": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
       "url": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
@@ -196,16 +149,63 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T07:08:52+00:00"
+      "time": "2026-08-16T07:07:30+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T09:31:10+00:00"
     },
     {
-      "text": "Pallister hands Ledecky her first international 800 free loss - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXdtTzhvalVDb3lwS3FpOVlRcHFlaW50Z0FCWmI0TUFVVWtrMEJqQm51RDdHOGlmQlM4aTcxWGJoQnZ6cE1UU3FfVkdNSldzRkdJYTNwMEN3VE44RDF0aVhkSjZMdE5OVGR3WmFMMlNFdDlEWHdlX05aRkhZUlQySUwtbHMxd0g5cXlja2d0c2xNVllrWlR2ak9xa1lQUGpTa21RTEl2X2kzV3BMM2RFTnFpQkZNSWM?oc=5",
+      "text": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T09:01:44+00:00"
+    },
+    {
+      "text": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T09:00:30+00:00"
+    },
+    {
+      "text": "Doctors and women who've had it call for more attention on postpartum psychosis - NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSC1HbERMNlE1YmQ2TkhtTGcyUWtxNlhsZkdSVWhBWERZc3d5WGhZWkZqRVpBMTRVeldwcl9wUDA5T1pHallDMTJyV29iamhEYzhlN1dfcDFRMUNqMnI5SkJvNEZBcmtXcW0zRkZoWXY5UkQyLTM2cWJVX3kxaWg5bkRneUtWVnItZ0xzUXFGcy1WYS1WVzlqZnlxdmY?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T04:36:00+00:00"
+      "time": "2026-08-16T09:00:00+00:00"
+    },
+    {
+      "text": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hEQ3RLck5hS0ppd1g4SW9mZDgzY3FwM0VOU2ctOVpqZXBPOF9sVjc4SW1aaXFVZmpXWHFqQlhnSVNWdUEzaUR3N3QtUlVQOWEwZTdTRVZEcW0xMmdhSWctLVFacGU0RU5ZYU0zNFRQNVRjTHRseVFuQ0pjek0xVklPcDlXVUVzZmp6aWNZeFpqOEhab2NZeXlWWTFoZ1hoWXktQjIxQ1NJVVVVbm1WdTY4NnLSAboBQVVfeXFMTldXcXBScHdFb0xMM3VWZE5VZ0lad012blFBNzhhY25zUmJOTHBXZVdIdHR0LU15TUgwc1BVY2RQNnhQaHFpc08xT2RaYkRkdmI3NUtnVEtLT0VFVHNLaThfOVJzRk0zRldwdDBkOVVYYXdCaGwzVTFMdW5lMmdtaHlwRTU3TGNoOGRjQXBtODBfMndabmJ3U1NxWjl6RF96VHlOOUFlNk1aemVXQVZJZFZTaWNxcnY4b0tn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T07:41:17+00:00"
+    },
+    {
+      "text": "Ty Simpson dazzles in his Rams debut - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG94MEVGdXlyakVydWdkZEZ6R2Y4WnVSNmNNY1dPVGttaXIxZ19PcVpjelMzNElVdWNIc0FUREk1NG54a253SzUyNnlnSTBTT1Q5RFdPX2dwZTladHBjU21TNkZjZEdZUzhxZUZJRUcxaTB0Qk9wQ281am5yMGxWRUw0b21TZWUyekYyUEV3c3hzbDB1YjBlNTNmZG5ka1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T06:41:12+00:00"
     }
   ]
 }
