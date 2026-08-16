@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-08-16T21:35:50.897307+00:00",
+  "generated_at": "2026-08-16T21:57:42.393248+00:00",
   "lead": {
-    "text": "Believe the unbelievable in this market — things can be different this time",
-    "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
-    "source": "CNBC",
+    "text": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+    "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-16T21:32:25+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-16T21:57:13+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump says US will scale back military drills with South Korea",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln",
+      "url": "https://thehill.com/policy/defense/6032334-lincoln-crew-mental-health-concerns/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-16T21:27:42+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-16T21:54:00+00:00"
+    },
+    {
+      "text": "Believe the unbelievable in this market — things can be different this time",
+      "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-16T21:32:25+00:00"
     },
     {
       "text": "Moore says Trump's response to reported USS Abraham Lincoln conditions 'pisses me off'",
@@ -29,26 +38,17 @@
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
       "time": "2026-08-16T21:25:57+00:00"
-    },
-    {
-      "text": "Kentucky Gov. Andy Beshear says he's 'heard absolutely nothing back from Mitch McConnell'",
-      "url": "https://thehill.com/homenews/senate/6032276-beshear-mitch-mcconnell-health-silence/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-16T21:15:05+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2dqMUJIcWdndGVfSXlVeDRKbmkzU3hrTTRyeXBrSWR3NGtUNzNkSm54X19kcDNBNzJBaVV0NEJTNVdLVVRrUlNHLXZETnFwMEIyekJhOTduVWxZQWZyVW5WQ0xua1ByTDc0OG1B?oc=5",
+      "text": "Inside Kushner's Hamas meeting: What comes next in Gaza - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUJUUXNZOERVdVVpWENGOE94TkdCQU1mdmItQmt5cFRZWEFCcklSYlhtSnE0bzU1NVVYNXV0QlZMTnRRNmhMM0JLa1RnZ3VHNzRIT0F3ckVhdUwyS0pCMU14aFRNVVdERVJCSDRMaXZtanozMWtuNEJnckdlVWprVmVR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T20:39:00+00:00"
+      "time": "2026-08-16T20:59:28+00:00"
     },
     {
       "text": "Cassidy on Trump’s vaccine order, ‘crazy, stupid’ claims: ‘This is why the president’s poll numbers are going down’ - The Hill",
@@ -60,13 +60,13 @@
       "time": "2026-08-16T20:13:00+00:00"
     },
     {
-      "text": "Nightmare Man City start for Maresca - are Arsenal really so far ahead? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80MnVTYkQ0em1tVjNzeXFfMl9aX0hVT2l2Wll5b1lnUHM2dlhWLXhnVDZSQU9oUnlEUlYzeGkwTG9FcWdKWUxUeHM4ZVFOcEc0Rk94M1lNd3BHOGYwRllMcnBZUnJtYVU?oc=5",
+      "text": "1 dead, thousands without power as Tropical Storm Lala lashes Hawaii - cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmpEVXJEX2N4YlowWkpRRVRFX25rNUFKTDNoSTl0Rl9xNGV0R3dCcU5ReTgyZnI1ZFdNSmJmMzRvaXg2cnBqQ0Rob3l0RlJUTnhjQVIyV2xhR0tFSkJCa2tvdi1sdlVpdHI1TTBXeEtSUktPMVROWU5aOXFZTGFxa05CS3Q1YWc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T19:37:55+00:00"
+      "time": "2026-08-16T19:57:57+00:00"
     },
     {
       "text": "Could El-Sayed Cost Democrats Michigan?",
@@ -87,24 +87,24 @@
       "time": "2026-08-16T18:43:56+00:00"
     },
     {
-      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T17:39:39+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0tOV2pQTFhJRmJNekpVdmxYOEdRYVd2bDBWM2dDVktacHNJQ2h6cENVWS1XNVZIaHRoeXZGc242cXQyNjZiNmFoNFBSX3dRZkZGMkF5TUhYNm5OS3Zyb042dWlsb2JOdnByb3lRQThCUkFoWjlyX0NxYXB3aEJwRkFR?oc=5",
+      "text": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T20:38:42+00:00"
+      "time": "2026-08-16T18:04:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Multiple people dead as flooding continues in Indiana - NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96N2J2UmxQRXhGb1ZqaU5MY3J1LVpnY3VsNk1HdndVcjltWVJIUHhaTVVEb0U5Z1ltNkdxRDVIenQ3ekRQajFERnRyOUhRUTduZnE2WWFKcHJNU25NLWc1S0NhdFdCOFhkaENjOFFWU20wcFRpcTBR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T20:38:40+00:00"
     },
     {
       "text": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
@@ -116,22 +116,22 @@
       "time": "2026-08-16T20:02:00+00:00"
     },
     {
-      "text": "Taylor Swift and Travis Kelce flash wedding rings in new photos - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XMWJVWU43a01abThDQW91aFE1eXJjTW1MbGEwSURMMkh2V0R2U2ZFZ3JHS3BvVF9PTUJiUzRTQmlyb2dCN295X2VpU0E3LWdVSXhWd3pGOHpHQkU5bzBwWmRxRE50Q01SMTVjdmdEZldudVBnaFowU0prRS0?oc=5",
+      "text": "UFC 330 takeaways: Makhachev vulnerable for 1st time in a while - theScore",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkRNT3FCRE1aNkE2aVVWTFozNXFpZVRkR1lQWlZHQkVTQWhIU2c3dE5ITDJ4VGh2V0stX2xoMU1lLTdVWVRRNjNGSElnWnBDbzAyNnExSG04QzFZRkhSTURFMnA1R0pILXhLd01aZ0h2LURoUlYxUTRXTlkweWpsblpDcUR1VzM1NVY2UnloRk9Dc3dFcVQwMXZ4NXlZcy1JMzZDSGVoWEU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T19:23:30+00:00"
+      "time": "2026-08-16T19:48:05+00:00"
     },
     {
-      "text": "At least 6 people have died from days of storms and record-setting flooding in Indiana - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2kwWjVwQkgtUEowdElQck1LekNsOEhfWXVJWUo1Szg3UFVudkV6U1RWYlRZM1lXdzloWFFBdmFpUkJ2RlQ5NnAwUmJZbkNkYTFJUEVjWWNIWmwxdDZaOVFKOWxTZ0dYLVJ6QXNmbUNOMzR2R0ltX1JSOHdhSFVmcFlGYncyWDhCeFJ0Rk96d1V3dktZTHc?oc=5",
+      "text": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T18:54:00+00:00"
+      "time": "2026-08-16T18:55:00+00:00"
     },
     {
       "text": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
@@ -143,24 +143,24 @@
       "time": "2026-08-16T18:22:42+00:00"
     },
     {
-      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T17:08:52+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T17:39:39+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Trump says White House needs ‘military complex’ as courts block his ballroom - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVAyWkp4bHp3dG43b091aHRldFRfcUpIN2hma212NDRWWFp0Nk5IVXRoQ3ZTRnktdlRUUG5WNUE4RGd4X0NvVW5SeWllUkRFSHo2bmxRNUxUaGlyYjlyd0wwMGdwSWNTTVlmOHZ2SGRWODZVc2lKRzQtRDVvU2JIMm82TmROTUx5d2x0akl3WlM0LWNGVm92OG5vWWxrQVJ5aXBaWVRtTnBZajl0d0hIdUxla2NzM3QxNENIZy16aE8?oc=5",
+      "text": "US-Iran MoU is set to expire: What to know - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjE3ZXJKVUt6Z3FISXlTWFpScEdLODVOSWItRmd6eTdOQW83YWlLWnFTaEMxOXYwOFJqQ0NGRkxLT0NfNGt6ZU5BZlh2OWhOdGxDd0VpaS1FYnF1TGEwN1VNSXdRcFM2QldYdTBQVzhJYmhIcFJISnZTaU55bGtOdkhvZnY4YmFCamfSAY8BQVVfeXFMT3B2TWFYeHVZZVVrOVFHeUxxQnZwLXlUVlR6ZGo1RXhhYmw0N0RIRzc3SjJJcG14OGU3clU1cXhBQjhSNktlQmEyOVVfQjlkNjNvR0RmLWxxUTIzTDBINUkwR3V4TDRmTXBKUHQxWnpuYlJpSFpHWHR4R2xqdUxJY0NoQWhNcHoxREJ6akltOE0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T20:18:59+00:00"
+      "time": "2026-08-16T20:30:33+00:00"
     },
     {
       "text": "Indiana Prepares for More Rain After Days of Deadly Storms",
@@ -190,22 +190,22 @@
       "time": "2026-08-16T18:45:00+00:00"
     },
     {
-      "text": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+      "text": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T18:04:00+00:00"
+      "time": "2026-08-16T18:21:00+00:00"
     },
     {
-      "text": "Blanche says he's not Trump's personal servant - Politico",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFpWMks0WlhZRkZjUGJrWS1aQlRKY1NELUVZNTN3bXF2UHRkMkZYQWJCUEFEYk1hMGdDdkhjdXNVa2JoMVpQb21rckV1S21NWkt6ZXBsVTk3dXhvdmxDUlcyTzBuZkZrUnAzcGE4RksxRDRZMU9SU0x6YmNSU2doQw?oc=5",
+      "text": "Tommy John, Yankees great who had surgery named after him, dead at 83 - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXdHWkxDZ0JCekdSNlhlMXZISGFvZ2diZFRmd2F4Rm9uOFVuYUNGelVOZmJaM29OaGdxOFAtYzZlZ3JIX2VnS2NYSXhoRm05OFl6Ul9IMjMzZGhGSjZMLTNMMXB0ZG1ycTQ1YkhnQTlGSTRnVEstYzBRWXFMeEo5M1RmSU9qX3pCUnM1OFd3RXlXaTgyR293Qk9Gck5SLVhVZ2FCS3pGYS0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:54:00+00:00"
+      "time": "2026-08-16T17:22:00+00:00"
     }
   ]
 }
