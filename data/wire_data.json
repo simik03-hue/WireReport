@@ -1,166 +1,81 @@
 {
-  "generated_at": "2026-08-16T17:02:28.730201+00:00",
+  "generated_at": "2026-08-16T17:36:08.636217+00:00",
   "lead": {
-    "text": "It’s a Crowded Place With Some of the City’s Trickiest Traffic",
-    "url": "https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-16T16:26:27+00:00",
+    "text": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+    "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-16T17:18:56+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Is the Democratic Party Facing Its Own Tea Party Moment?",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
+      "text": "It’s a Crowded Place With Some of the City’s Trickiest Traffic",
+      "url": "https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T16:21:16+00:00"
+      "time": "2026-08-16T17:17:10+00:00"
     },
     {
-      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
-      "source": "Google News",
+      "text": "Ukraine-Russia war latest: Kyiv blows up biggest ‘Russian Amazon’ hub in drone attack - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelRzWHNFMVBHUDZPeGpleHRQa2d4cHBzT01CTlNJNE53YnZkSUNRZ3R2Q05mclVzeVkwcGFyazAzVmwwMk1ORnhCUE4zTTFmdGd5UWloaHU2eGl5eFVkZHZfR1dpcTR4ZmpJTE53R0llaHdtalJNcFlodGtLcjlJWDV5WHg5Njg5b25lZG05MlV1OTg0b0pqRkFKaW1xa2RLOXVieWgzTmZDbVcwclZZ?oc=5",
+      "source": "Google News World",
       "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:18:09+00:00"
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-16T17:15:23+00:00"
     },
     {
-      "text": "Jim Jordan says costs 'are tough,' but economy is in a 'pretty good direction'",
-      "url": "https://thehill.com/homenews/campaign/6031927-jim-jordan-economy-costs/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-16T16:17:47+00:00"
+      "text": "AIPAC Targets Progressive Democrat in Race to Replace Swalwell",
+      "url": "https://www.nytimes.com/2026/08/16/us/swalwell-seat-aisha-wahab-aipac.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T17:08:06+00:00"
     }
   ],
   "col1": [
     {
-      "text": "A Free-for-All in Alaska as 17 Candidates Compete to Be Governor - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmhMMmZ2aEcyTGxFejVfZE94YnZES2FpX3B0ZDNUVFBBZm1FSURVcFpNX2pTMWhrWWotbm5HYmVLM2VPME1hS0ZEbHZ1Vzl6dGVOZ2FTSmtVZVNxenN5MVJMMkNyT25nXzJmeEhQc0c3a2k2cWJHYnVXN0ZFbUQ5NkNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:15:55+00:00"
-    },
-    {
-      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "text": "As Lala Lashes Hawaii, the Atlantic Hurricane Season Remains Calm. So Far.",
+      "url": "https://www.nytimes.com/2026/08/16/weather/el-nino-lala-tropical-storm.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T15:31:46+00:00"
+      "time": "2026-08-16T17:06:10+00:00"
     },
     {
-      "text": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln ‘somewhere in the middle’ - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3RaQ3hQYTZhbU5sRkJDRGQ4OEpvY1hrNHVXb2VFS196OFBHd1pIN3p0N1dMa3FFZUNtc1pUeHJ0dkZvNXVjd0t3ZWllR3RFcE9wRUl5aE5NLVF1dVVWVkRwMjhTZjB0NmhaVF9Kc3R6RE8tMkpaWjJLVXBCZ3NCclNoT3FhVk16Q0ZPctIBkgFBVV95cUxPa2ZLaGpJRUJ6WkZydGp0dUFNaUZFTUlXWjFob1FSdnJIWUdRRXloMm5scFFORlZMa1hhQUZtNDdjNGdtN1Nwb0trWnNPbzF2WlZMNUptbFpfQXpHdnNOTF9kcTNoNkRCTmZoREZtdG42NWdfNm01N25WWFJMQ0JfYk1LNVRnZDRjVTJuTE4teFVRQQ?oc=5",
+      "text": "Arsenal 3-0 Man City: How the players rated after Gunners comfortably win Community Shield - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UcW1POVVJUG5EZXBiSlVIOERDLTNNVXNtaFR4cDlIUnFFZWpiWm5OZVl5LThrVXE3bWVpckJBZkJ1ck9lckgxU29wb0Z5ZmhVN0o4bE9wdGZkZXc3TUlpRDUzcXpqMlU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T14:55:00+00:00"
+      "time": "2026-08-16T16:18:45+00:00"
     },
     {
-      "text": "Calls for public inquiry into Jason Arday 'witchhunt' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44c2IwSWlKdmg1WThMemhvRmxqRDhzWnlnY0xvYWtnSTZtdGZvQURLcDZLMDFwaUVRWnBsQ2JxQzVscVE2c0swbFhhNmFGUll6cGE4Y21Bd1RKQQ?oc=5",
+      "text": "Attorney General Todd Blanche says it wouldn’t be the best course for the FBI to take over Nancy Guthrie investigation - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTMyNjhDRWc3Uldkeko4YjhLbXMtbzVBYjRhWXB6WmduMl9xaElEd19aRU1ORUVKV1FzdTh2eXdwSzhmYjc3SE1nY1VtWUJ1MDBjRmFKb1pTU21yVm1XNTVCOEtUX0tYaUdibXpaUTJpTGxYSDAteVR3S0pldld2VWszMFNrYjJ4OGMxbFNPQ21TdHdWSVNDdU1BWUdFQ2c5MFlTZ0dGSkt1Zlpld0ZYZFFXaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T14:22:52+00:00"
+      "time": "2026-08-16T16:03:19+00:00"
     },
     {
-      "text": "Why Democrats think Latinos can help them overcome Texas GOP’s gerrymander - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWpmQ3Q3RUkxU0R0VnpZYlp4Qkh4b1ZIMW9ybTRBWC02SE5USWpUVU1Dc3hQRlBkMTJMSFhEWGI4Vmd6UE9VakFXbXhnblBUV2xLNi1WNmUzTm0zc3pNVmo2a0ZLTnJEenRkOUZxMjdaTFh0bDVpb2hOT3RwRGNDSlNPVGRSTUw1c2tTajlGLU8?oc=5",
+      "text": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa09KOEdFU3lLajFBZk9wZURzY09GMElmU0taaVdoYWhJUkZuckNMazcyRUpveXMzdldEVzZyZEVHczZ4WUNrQXFoYUVsU0NMQmJnc2hNc1hiTEtMUXczZW1ER2FWTEp2dHJzbmJYcUZyLU9CTGtBTlBrYzFacF93cC1zUXVXVDRlRjRtSEc1N0lac0FUdUVWcGdad1ZjcW5TUlVJ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T14:00:00+00:00"
-    },
-    {
-      "text": "Attorney General Todd Blanche says the DOJ may take states’ voter roll fight to Supreme Court - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUEdfWkd5YVpKYWFnNmpKc2RjVEo0TWN0WUpTNnFnLWk5Z19mRkRXelZScW1uQVc3UElvWnhReVY3S1A3ZEROMDBRdXFiT0JRZktpNHJfOHd1YmQ2bnhOaTBLUDRoeWtjNklkR1laZmd6YkQzOHZudXB4NHpPS1A1LTYza3YyaHJrZjg5dS1qR3hpLTFoXzRhV0RjemhWYzk2UWlndXdJQlVncXROc3UyandFYndaZXJGYzU1NDZxaUVBdF9NVGww?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T13:46:34+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T16:05:43+00:00"
-    },
-    {
-      "text": "In His Debut Game, Joshua Baez Ties Stump Wiedeman On Career Homers List - Defector",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVlhcHBPQ0xyTmRDc0FWRTZueE1LWWZPVTFabmdTSjh1ZGpVYnI4VjlIaVdzcW9scDBfS2pOcUw4bFdFakI1YUtPLUhMYzRqYVdqSV82Q2NicXZidnl1d2VoYWREZTJHWG9LS252Nm1kX0wwbHVBTlFaQUFXRzZzajQtSDZvTXJROF9obDNIbXU2cmNyLTNV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:27:00+00:00"
-    },
-    {
-      "text": "Kentucky Gov. Andy Beshear says he's \"heard absolutely nothing back from Mitch McConnell\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3RtSUx0SE40OWlyaVBpaDJkcnpFa01uQXhMQVhuemYxSkJaTWxKa0ZtMG9oNkJBZ1ZwMDY4Z3pqc2ZxMjQ3aEp1RWFHXy12U0s5cDJPY2puQnltYUtldnZGbHBiSklTQk1Jc1dsSmY3OGhEQURlZFJSNUhNaWtkelN5ZDVNbVNt?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T14:42:00+00:00"
-    },
-    {
-      "text": "Beloved drink linked to less body fat and more muscle: study - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZEWDVzd2xSc0FtWmU0Nm5UMklESEVvcUFNUGQwN0pUSUc5VDZzbjBTWDJONWtxRHljVnh6bFdJYlpxcHo5VVpFOWxmNnIzWEdLQzVsN2Q3WTF0VGFjRHlmZk9oN2w4b09td1FzdE50QU9uaTA3bngzdVBSTFU5c3NBNFRTaGJ2T1RBT01CQzl6VnVqc2hfMnRpTjBoUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T14:11:00+00:00"
-    },
-    {
-      "text": "Lani Pallister Hands Katie Ledecky Her First Ever International Loss In The Women's 800 Free - SwimSwam",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZko5d0NHTTVVQXdxalFMNTVCRXMxY25QbHZvaHZhd3pucVBodERWZkNpdTN1WVJRVjR3Tm9vVXlBUlBkdnlaREpiYWJtNDZuSHpkQjM5VWtHQkRyNVk4M0hfUHNqUVJpMEt4VHdlSHZhS1RsbWF2dEFpTVJnUzVwenJPZHdud2ZIeEdsMnlNaF84VktDdTZtb3A5ZHVoQXBOYlZaMTFlQzdFTkFMcEpMR0Rfbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T13:54:14+00:00"
-    },
-    {
-      "text": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T13:41:54+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T15:57:47+00:00"
+      "time": "2026-08-16T15:47:08+00:00"
     },
     {
       "text": "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks - variety.com",
@@ -179,33 +94,118 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-16T14:40:40+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "British drones used in Ukrainian attacks deep inside Russia for first time, says report - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmZZdTZyQU9NWW9qaE1YMTJFUmxzZkYzWDlFRl9qbjlsaDJyODMxMnRsaDFkRzl3S2JPcGtEcnlBXzFsVVR2SW40R0Z2amZNS2VPZHg1VFZyZ0FaV05Yd1JXYVVFVXVDYlBQc25KUXphQ2V4MkVmYS03S05GTWJoSFFvTXdUX2VNZzI4MF82eVh5eFp0cXpyZEhrUEdiem8?oc=5",
+      "text": "The Beatles Biopic Movie Stars Spotted Recreating Iconic Abbey Road Album Cover - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRkNxSnp5a1o5cXowclNTWlp6Q0hOYktaUWt0QnJrcWhGNUlCNlE5UVJUb1lSbVJRRGkxMGJWd2Q4bDl6NkZLQWNhNzBxOWNkbnEwNXpiZ243bTNIT2pkWi0xOXBBRlNNQjVsSkdoYUR3Z0ZzVHZvdE1jU1NXSkJWWmgyc2ZfMG9QR29VVjFtMks3UWtTZTF1TFVPbThEY1lUYmN6dURHM2JMUjY4Ymdn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T14:01:00+00:00"
+      "time": "2026-08-16T16:50:22+00:00"
     },
     {
-      "text": "Maker of ice cream sold at grocery stores nationwide files for bankruptcy as it appeals $23.8M judgment - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVl3VmJaLXY1OERkNDBiRjZ0MlFtblRhMnhnc01oQ2lOM25mZVlzd2RVU0Vlc2VaalZESjBFT214QWFyZUVHUEhMUDBqbWZVQngtRXpKMWpVd0NkT1J3d3R5eGQ3Zk9WWFdXNl9uVmtaVHZYbFk1bTl1Um1wMUhqbWFWTVhoX2hIbi11SHdRZlpQUU5TVXpRc2xua1pqWlFjMmJoR1gxMGV2ZUdRYXczU0FBZ05OeFnSAbwBQVVfeXFMTWpEbmI4dnRFdTdFWV8zRWVCNXRaWUNKVTU4RTAyVFRUVjFyNmcwcFJPV01xaVdEQ25EU01pSUlCM0xfMDBBVVcyMS1HYXhYbXIxaU5SalZGaHd4enJjamRRSW0weFNrVW9fcDZYUmUtRkdkSFFyZ2tfMjd3eE1wbC0zUmxWaE5qSHdzRUY0ZFJfM0NLY05sNDFDLUxMMU5YZVg3SXZEclNnNllqcWprLUx0cmtwY2psZHBqU2o?oc=5",
+      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T13:51:00+00:00"
+      "time": "2026-08-16T16:18:09+00:00"
     },
     {
-      "text": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
-      "url": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html",
+      "text": "Weekly poll: which Google Pixel 11 model would you buy? - GSMArena.com news - GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEUybEdnNHMyeEVZS2ZCSTlpV3U1S0VoU2tyRzctcjI2NmQ2TGJ3R2loLXMzZDV1RVFmRlhFR3lNQm53ZC1nTWVpMGY4RnhfRzlfbkNmQTJ5SDRMVmdyWWowNXVwV2FmU1prTFY4ZTNUbHF0SUl5bWJFSlh4QnN4bnpmZWlqcGo3UEtWbW1kWG56Y0ZNTm5aVNIBlAFBVV95cUxPMnBrbzUzbmFKZndqM2REVVZkZFkyVTF5dTIxd0Z2TkhaYlNwTVBFWG5QcWFYb0w0cndsZjdSZjVLc0tMV2FUOGFhQkExOFZUTW9KY0NKRFdpcC02UzZOV1daSWsxZ1BWaXQxNlBON0VMZ0VmWmxzQTZzUTVIMEF1aVlhYXhfdldtQXJpQTFnNmNRc1ND?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T16:03:02+00:00"
+    },
+    {
+      "text": "What really happened in Ceuta? Why we may never find out - NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdHJVQ1F0S0hLN2hUTUdXdXdoUUxHdmVIOEVfUHB2VE1jMElCTzhxWGRDZElKM0l4LXFOV0R6eVJad1ZvUzdoMUtnT2RwdG1rS0hyNmdxbUZPb21VbzFDU2w3UkVsTVdtRmltNWxQNWxxOXNJWXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T15:38:22+00:00"
+    },
+    {
+      "text": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln ‘somewhere in the middle’ - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3RaQ3hQYTZhbU5sRkJDRGQ4OEpvY1hrNHVXb2VFS196OFBHd1pIN3p0N1dMa3FFZUNtc1pUeHJ0dkZvNXVjd0t3ZWllR3RFcE9wRUl5aE5NLVF1dVVWVkRwMjhTZjB0NmhaVF9Kc3R6RE8tMkpaWjJLVXBCZ3NCclNoT3FhVk16Q0ZPctIBkgFBVV95cUxPa2ZLaGpJRUJ6WkZydGp0dUFNaUZFTUlXWjFob1FSdnJIWUdRRXloMm5scFFORlZMa1hhQUZtNDdjNGdtN1Nwb0trWnNPbzF2WlZMNUptbFpfQXpHdnNOTF9kcTNoNkRCTmZoREZtdG42NWdfNm01N25WWFJMQ0JfYk1LNVRnZDRjVTJuTE4teFVRQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T14:55:00+00:00"
+    },
+    {
+      "text": "Calls for public inquiry into Jason Arday 'witchhunt' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44c2IwSWlKdmg1WThMemhvRmxqRDhzWnlnY0xvYWtnSTZtdGZvQURLcDZLMDFwaUVRWnBsQ2JxQzVscVE2c0swbFhhNmFGUll6cGE4Y21Bd1RKQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T14:22:52+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Is the Democratic Party Facing Its Own Tea Party Moment?",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T12:50:04+00:00"
+      "time": "2026-08-16T16:21:16+00:00"
+    },
+    {
+      "text": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T16:05:43+00:00"
+    },
+    {
+      "text": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T15:57:47+00:00"
+    },
+    {
+      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T15:31:46+00:00"
+    },
+    {
+      "text": "Kentucky Gov. Andy Beshear says he's \"heard absolutely nothing back from Mitch McConnell\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3RtSUx0SE40OWlyaVBpaDJkcnpFa01uQXhMQVhuemYxSkJaTWxKa0ZtMG9oNkJBZ1ZwMDY4Z3pqc2ZxMjQ3aEp1RWFHXy12U0s5cDJPY2puQnltYUtldnZGbHBiSklTQk1Jc1dsSmY3OGhEQURlZFJSNUhNaWtkelN5ZDVNbVNt?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T14:42:00+00:00"
+    },
+    {
+      "text": "Beloved drink linked to less body fat and more muscle: study - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZEWDVzd2xSc0FtWmU0Nm5UMklESEVvcUFNUGQwN0pUSUc5VDZzbjBTWDJONWtxRHljVnh6bFdJYlpxcHo5VVpFOWxmNnIzWEdLQzVsN2Q3WTF0VGFjRHlmZk9oN2w4b09td1FzdE50QU9uaTA3bngzdVBSTFU5c3NBNFRTaGJ2T1RBT01CQzl6VnVqc2hfMnRpTjBoUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T14:11:00+00:00"
     }
   ]
 }
