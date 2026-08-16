@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-08-16T19:07:17.970141+00:00",
+  "generated_at": "2026-08-16T19:36:39.278705+00:00",
   "lead": {
-    "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Police looking for additional people who fired guns in Virginia university shooting that wounded 5",
+    "url": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-16T19:03:04+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-16T19:27:53+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Jeffries: 'I don't support' DSA agenda",
+      "url": "https://thehill.com/homenews/campaign/6032219-jeffries-rejects-dsa-agenda/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-16T19:00:23+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-16T19:27:52+00:00"
+    },
+    {
+      "text": "What We Know About the Storms Battering the Midwest",
+      "url": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T19:22:05+00:00"
     },
     {
       "text": "Could El-Sayed Cost Democrats Michigan?",
@@ -28,36 +37,27 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T18:58:58+00:00"
-    },
-    {
-      "text": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-16T18:46:12+00:00"
+      "time": "2026-08-16T19:12:15+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
-      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T18:43:56+00:00"
-    },
-    {
-      "text": "Ex-MLB pitcher Tommy John, namesake of pioneering surgery, dies - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnRRNExFTU1xNlBRbTYxZmpTM0ZKUi00RGppaVl5VGV4SzlveHlhMG90ZV9jTklJQnV2SE1YN044NXZzem9YUm5LVFp5TEVvbXFWMHFOOVZJQWRqbDRwWW9jbGpHTmFkS3dUZUF0VEF1WXpaaDZfeW5CdC1aOWprbGctcXhSb2VCal9GQlNNbE9WeG1iUlNVUGlRU3o5LUdvUUItYVl3?oc=5",
+      "text": "Henrico teen wanted for shooting 5 people at VSU found hiding in dorm closet, police say - WTVR.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcV9wZVVVcXVBTnhGU2dobGFLTUVaMWZCTnRBWnkwNzFfT3ctTVZqcnIwZExMc0lsYW5mV0RHU1VpR1NncGszamFZSGhoUlAwSjh0VEUxbEkwbGk1cWh6LUIxbnpXc0pTQ1VTSEtKb1RTUjlUeXFoT3M0UjAtaHZKQm15amkxb19Cbk1ydHljUEo1bnlubjhSYkZyQ3JPTUFLM2dwd29SakZJamE4VjVZWjZ6Y045MFdm?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T17:56:00+00:00"
+      "time": "2026-08-16T18:48:29+00:00"
+    },
+    {
+      "text": "Former MLB pitcher Tommy John dies at age 83 - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSndaa3IwMU5Ga05UcFloeWtZSHFaS2JqdDUwdDhPeUIwd1ZRbV8wd2Job3RRdHFtSkhMeG80bkhUbkl1TTAwRXV4LUxGOWV3Q3RQNzl1LWdaaHAyZ1hpRTFmejI5b2d2QzQzOHVXWTZYZlNFRGxpZkVWSy1OeXlDbHhXbkxkQjkydFBnSGhYTGpydzVlOVhv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T18:18:47+00:00"
     },
     {
       "text": "As Lala Lashes Hawaii, the Atlantic Hurricane Season Remains Calm. So Far.",
@@ -69,42 +69,42 @@
       "time": "2026-08-16T17:06:10+00:00"
     },
     {
-      "text": "Is the Democratic Party Facing Its Own Tea Party Moment?",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T16:21:16+00:00"
-    },
-    {
-      "text": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T15:57:47+00:00"
-    },
-    {
-      "text": "What really happened in Ceuta? Why we may never find out - NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdHJVQ1F0S0hLN2hUTUdXdXdoUUxHdmVIOEVfUHB2VE1jMElCTzhxWGRDZElKM0l4LXFOV0R6eVJad1ZvUzdoMUtnT2RwdG1rS0hyNmdxbUZPb21VbzFDU2w3UkVsTVdtRmltNWxQNWxxOXNJWXc?oc=5",
+      "text": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVhWQUJkcFVLbU0tWnYyTWd2S0NDWDNlbnBTNGJmNDBZNzhiWUVieHVrR1VIdWlOYWVQNEZVVlFmbjY2UDZpUWYyeVNBRmZrZ01kSWlpYWYyUGp3MVdMYlgycmRuOFZhdWdkc0hVS2JDWFZsdEJ6RkF6dW9xTDFmd00xeGJYU1VWSFNVeC0wU1ZVT2Vmc3d6alhEQVZ4eWFvd3JPek9xYmlmNm9ycjUyaW1fRWlnYlZxRWxERTdERXVrVG1s?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:38:22+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-08-16T16:31:02+00:00"
+    },
     {
-      "text": "What We Know About the Storms Battering the Midwest",
-      "url": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html",
+      "text": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T18:34:11+00:00"
+      "time": "2026-08-16T16:05:44+00:00"
+    },
+    {
+      "text": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii - NPR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbG5Gem5FcEFWU0VtZHpMYTgyVEd5aVY0LUV4SGZNVEMxd3BXUlJsYnY5QXNhU0lfaVAxTy1yUlB6Rlh5aUVQeFIyX2xiU09kS0x0bTZlbklDTk1NLURZcWlldlRDeC1OVDZfTVVKc01CeFJZVnJkNUF1VzdjQmt2N3RxTjQ4UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T15:47:58+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
+      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T18:43:56+00:00"
     },
     {
       "text": "AIPAC Targets Progressive Democrat in Race to Replace Swalwell - The New York Times",
@@ -125,31 +125,31 @@
       "time": "2026-08-16T16:54:00+00:00"
     },
     {
-      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Is the Democratic Party Facing Its Own Tea Party Moment?",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:08:38+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T16:21:16+00:00"
     },
     {
-      "text": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii - NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbG5Gem5FcEFWU0VtZHpMYTgyVEd5aVY0LUV4SGZNVEMxd3BXUlJsYnY5QXNhU0lfaVAxTy1yUlB6Rlh5aUVQeFIyX2xiU09kS0x0bTZlbklDTk1NLURZcWlldlRDeC1OVDZfTVVKc01CeFJZVnJkNUF1VzdjQmt2N3RxTjQ4UQ?oc=5",
+      "text": "Weekly poll: which Google Pixel 11 model would you buy? - GSMArena.com news - GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEUybEdnNHMyeEVZS2ZCSTlpV3U1S0VoU2tyRzctcjI2NmQ2TGJ3R2loLXMzZDV1RVFmRlhFR3lNQm53ZC1nTWVpMGY4RnhfRzlfbkNmQTJ5SDRMVmdyWWowNXVwV2FmU1prTFY4ZTNUbHF0SUl5bWJFSlh4QnN4bnpmZWlqcGo3UEtWbW1kWG56Y0ZNTm5aVNIBlAFBVV95cUxPMnBrbzUzbmFKZndqM2REVVZkZFkyVTF5dTIxd0Z2TkhaYlNwTVBFWG5QcWFYb0w0cndsZjdSZjVLc0tMV2FUOGFhQkExOFZUTW9KY0NKRFdpcC02UzZOV1daSWsxZ1BWaXQxNlBON0VMZ0VmWmxzQTZzUTVIMEF1aVlhYXhfdldtQXJpQTFnNmNRc1ND?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:47:58+00:00"
+      "time": "2026-08-16T16:03:02+00:00"
     },
     {
-      "text": "Calls for public inquiry into Jason Arday 'witch hunt' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44c2IwSWlKdmg1WThMemhvRmxqRDhzWnlnY0xvYWtnSTZtdGZvQURLcDZLMDFwaUVRWnBsQ2JxQzVscVE2c0swbFhhNmFGUll6cGE4Y21Bd1RKQQ?oc=5",
+      "text": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:33:02+00:00"
+      "time": "2026-08-16T15:39:00+00:00"
     }
   ],
   "col3": [
@@ -172,40 +172,40 @@
       "time": "2026-08-16T17:39:39+00:00"
     },
     {
-      "text": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVhWQUJkcFVLbU0tWnYyTWd2S0NDWDNlbnBTNGJmNDBZNzhiWUVieHVrR1VIdWlOYWVQNEZVVlFmbjY2UDZpUWYyeVNBRmZrZ01kSWlpYWYyUGp3MVdMYlgycmRuOFZhdWdkc0hVS2JDWFZsdEJ6RkF6dW9xTDFmd00xeGJYU1VWSFNVeC0wU1ZVT2Vmc3d6alhEQVZ4eWFvd3JPek9xYmlmNm9ycjUyaW1fRWlnYlZxRWxERTdERXVrVG1s?oc=5",
+      "text": "Trump admin tried to make peace with IRGC directly before signing MOU - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUt2eUJ1WmZsejNOdzF4RVdFbU1xOWdqb0lFd0oydDN4OXpiN185VmlkUEtpb3Vtd1lmWmxtWXhiZDYwYWZZSHB5cDVUQ1AzdVYzNDU3bDIzLVllSTJFOGNaZXVURi1rV2lWc29kRTNhbDlqM3B5NFpDRlB4VTNLTmFuOS1ZdFpTOEtZR0tBU3JqRVNRclR3OQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:31:02+00:00"
+      "time": "2026-08-16T16:38:16+00:00"
     },
     {
-      "text": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
+      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T16:08:38+00:00"
+    },
+    {
+      "text": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T16:05:43+00:00"
+      "time": "2026-08-16T15:57:47+00:00"
     },
     {
-      "text": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
+      "text": "What really happened in Ceuta? Why we may never find out - NPR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdHJVQ1F0S0hLN2hUTUdXdXdoUUxHdmVIOEVfUHB2VE1jMElCTzhxWGRDZElKM0l4LXFOV0R6eVJad1ZvUzdoMUtnT2RwdG1rS0hyNmdxbUZPb21VbzFDU2w3UkVsTVdtRmltNWxQNWxxOXNJWXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:39:00+00:00"
-    },
-    {
-      "text": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:15:00+00:00"
+      "time": "2026-08-16T15:38:22+00:00"
     }
   ]
 }
