@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-08-16T13:38:14.122453+00:00",
+  "generated_at": "2026-08-16T14:01:33.667331+00:00",
   "lead": {
-    "text": "Texas state lawmakers urge Abbott to help stop CBP barrier construction in Big Bend National Park",
-    "url": "https://thehill.com/homenews/state-watch/6031859-texas-lawmakers-urge-abbott-stop-border-barriers-big-bend/",
+    "text": "Blanche says DOJ opinion on executive privilege is not 'any novel legal concept'",
+    "url": "https://thehill.com/homenews/administration/6031896-blanche-says-doj-opinion-on-executive-privilege-is-not-any-novel-legal-concept/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-16T13:06:22+00:00",
+    "time": "2026-08-16T13:53:02+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
+      "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T13:42:50+00:00"
+    },
+    {
+      "text": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T13:41:54+00:00"
+    },
+    {
+      "text": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-16T13:34:38+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "He’s Awkward. He’s Sticky. He’s the Best Superhero.",
       "url": "https://www.nytimes.com/2026/08/16/opinion/spider-man-brand-new-day-superhero.html",
@@ -22,33 +51,60 @@
       "time": "2026-08-16T13:00:05+00:00"
     },
     {
-      "text": "Iran's other nuclear weapons option — plutonium bombs",
-      "url": "https://thehill.com/opinion/national-security/6030922-iaea-real-time-monitoring/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-16T13:00:00+00:00"
+      "text": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T12:30:43+00:00"
     },
     {
-      "text": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-16T12:53:43+00:00"
-    }
-  ],
-  "col1": [
+      "text": "Bot Meets Bot",
+      "url": "https://www.nytimes.com/2026/08/16/briefing/chatbots-talking-to-each-other.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T11:31:33+00:00"
+    },
     {
-      "text": "Top US Middle East commander visits deployed aircraft carrier, and other Mideast news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
+      "text": "Medieval times? You’re living in them - CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yY0tjeU1LOTBVbHFzbGI1RUhMTWdTU3pXTFhNeEpUYTd3SE42ZkpVQzhKLWl1aUhmTC1mc3ZwMHBTU1RnOHlFNm9ST3lXMkRyZ09COHdYVk54R3Z0YXZCeHNrRlI2dHdzYlByUUZVamlaSk5ROTRISVA2WmFudFU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T12:45:00+00:00"
+      "time": "2026-08-16T10:30:29+00:00"
+    },
+    {
+      "text": "Instagram vowed to crack down on Meta glasses creeps. A month later, it was easy to find dozens of the videos still up. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21ob2pHblRjRk1VTVduakxKMmtlcUNPUE9sVUlVT2EwTVZ6RGM2QTN5SEpYUllRTUNQank5Q0lNQkFMUGQ5WTY3QjU1OWkyYndMZ1d6Vk56TFNhc2JyTEN3R1hMWWw1c2drT2hiWkQzUjBCV0k4Z290MFJ2NHk1UW9zMm9JVC1TOFFSQmFBMGxsS1FlanJvc21qNEJWSnp0LTloRHhpalZidEFnRW0zOW5qSklCdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T09:30:00+00:00"
+    },
+    {
+      "text": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T09:01:44+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Lani Pallister takes down Katie Ledecky for second straight night at Pan Pacs - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQakdES0ZiRHgzNXRNaXlKaW5uaVVGRWU2WUZ5d2xGa3I2bFdyMEVMY01qNG1BQ3BUWEM3RTFBS0RDVW1KdXVXOG0ycjFQSzlXY0o3MTlmMTZ0NTh6bUhrWlhibGZuVmlmTWlhc1U0ZTZfcmNDWW1RVnNERW9tQUJiVVoxcEI3S2E2U0w4RDNuRjBhZXdYMVFVLVdiRms?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T12:34:00+00:00"
     },
     {
       "text": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
@@ -87,16 +143,16 @@
       "time": "2026-08-16T09:02:07+00:00"
     },
     {
-      "text": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+      "text": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
+      "url": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T09:00:49+00:00"
+      "time": "2026-08-16T09:00:27+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
       "text": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
@@ -107,13 +163,13 @@
       "time": "2026-08-16T12:32:00+00:00"
     },
     {
-      "text": "Dana White criticizes Ian Machado Garry for lack of ‘killer instinct’ against Islam Makhachev at UFC 330 - MMA Fighting",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGh3NHlwcHBDOXFZYVFmR25TbjRCbEdSQk1YUGtIdWE1YVUwLU1tZjJXMDVHMEFsazNTd0hPYkVSanE5VE1fVVZmYTJFVnRqLWVEOVNpMUdEVmhGUEdzTVp1Y3BCUVVWZHRvX3EzYjc1LU1MdnNuMENwbW1MRXpBeVRPYVB5OUtqTnoyVkdjZldKMC1RamlqYW9tb0JYZERXSUxZS1l0UmlkMTVjQlhUbVVuNFNRdXc1SmZISGJtc0FCUmpFYlEyU255Vk9paS1YMGt0ZkwySVI?oc=5",
+      "text": "Rescuers dig through rubble and landslides after Indonesia quake kills 53 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T12:00:00+00:00"
+      "time": "2026-08-16T11:41:00+00:00"
     },
     {
       "text": "Iran Says Pilots Missing After a Brazen Bombing Run Are Prisoners in Qatar - WSJ",
@@ -141,62 +197,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-16T09:01:55+00:00"
-    },
-    {
-      "text": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
-      "url": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T09:00:27+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T12:30:43+00:00"
-    },
-    {
-      "text": "Bot Meets Bot",
-      "url": "https://www.nytimes.com/2026/08/16/briefing/chatbots-talking-to-each-other.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T11:31:33+00:00"
-    },
-    {
-      "text": "Medieval times? You’re living in them - CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yY0tjeU1LOTBVbHFzbGI1RUhMTWdTU3pXTFhNeEpUYTd3SE42ZkpVQzhKLWl1aUhmTC1mc3ZwMHBTU1RnOHlFNm9ST3lXMkRyZ09COHdYVk54R3Z0YXZCeHNrRlI2dHdzYlByUUZVamlaSk5ROTRISVA2WmFudFU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T10:30:29+00:00"
-    },
-    {
-      "text": "Instagram vowed to crack down on Meta glasses creeps. A month later, it was easy to find dozens of the videos still up. - businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21ob2pHblRjRk1VTVduakxKMmtlcUNPUE9sVUlVT2EwTVZ6RGM2QTN5SEpYUllRTUNQank5Q0lNQkFMUGQ5WTY3QjU1OWkyYndMZ1d6Vk56TFNhc2JyTEN3R1hMWWw1c2drT2hiWkQzUjBCV0k4Z290MFJ2NHk1UW9zMm9JVC1TOFFSQmFBMGxsS1FlanJvc21qNEJWSnp0LTloRHhpalZidEFnRW0zOW5qSklCdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T09:30:00+00:00"
-    },
-    {
-      "text": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
-      "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T09:01:44+00:00"
     },
     {
       "text": "Trump’s Other Hold on the Americas: The Visa",
