@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:31:10.949023+00:00",
+  "generated_at": "2026-08-16T22:59:06.700288+00:00",
   "lead": {
     "text": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
     "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
@@ -7,29 +7,40 @@
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-16T22:18:34+00:00",
+    "time": "2026-08-16T22:58:30+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump orders Pentagon to scale back joint exercises with South Korea - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T22:16:00+00:00"
+      "text": "Fetterman warns of socialism's rise in the Democratic Party: 'This is lunacy'",
+      "url": "https://thehill.com/homenews/campaign/6032418-fetterman-warns-socialism-rise/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-16T22:46:56+00:00"
     },
     {
-      "text": "Thailand has a gun problem - 10 million of them",
-      "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "text": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-16T22:09:04+00:00"
+      "time": "2026-08-16T22:41:34+00:00"
     },
+    {
+      "text": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWROUVpER01icVpRNkFQbm5fRzlzVUEtVWdzU2lybTFHR1lRSnpTUGZfM3d3ejBkbWVPc2p3SHI2djBlM29PMmp5ZnQ3bE5FQngwUWVoWDcySUJvblN6MWFQanQyNllQMVRlLXJ0ckNpX1B3OHJLcldRcm5pMGVyTkVZSkJJVk5iRWhVT1FJZl9hcmdId191c2ppcWZDa2Y1VjROck1ZajJjcVJ6b1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T22:40:49+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East - CNN",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2dqMUJIcWdndGVfSXlVeDRKbmkzU3hrTTRyeXBrSWR3NGtUNzNkSm54X19kcDNBNzJBaVV0NEJTNVdLVVRrUlNHLXZETnFwMEIyekJhOTduVWxZQWZyVW5WQ0xua1ByTDc0OG1B?oc=5",
@@ -38,17 +49,24 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-16T21:59:00+00:00"
-    }
-  ],
-  "col1": [
+    },
     {
-      "text": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWROUVpER01icVpRNkFQbm5fRzlzVUEtVWdzU2lybTFHR1lRSnpTUGZfM3d3ejBkbWVPc2p3SHI2djBlM29PMmp5ZnQ3bE5FQngwUWVoWDcySUJvblN6MWFQanQyNllQMVRlLXJ0ckNpX1B3OHJLcldRcm5pMGVyTkVZSkJJVk5iRWhVT1FJZl9hcmdId191c2ppcWZDa2Y1VjROck1ZajJjcVJ6b1E?oc=5",
+      "text": "Taylor Swift Debuts Super-Short Haircut at Laura Sisk, Oli Jacobs’s Wedding - instyle.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHNxQlZvcjAwTDNBR2wyWWk3b3J6VjhfeUsyeENwSm5aQ09iLWNxYUtwMXhUeVRSd09tdzBRbzk2Y2lPc0JHR2FJNnkzbzRRXzZyTlV1T0xZVWpuUndrYld5eEFvSFZXbEc5cGVIZnJRTlA1Qy1QUEhQbF9UbmJwcGdNTWIwaEJIZkxWZUdQT0E0RkVjTVZORFNGZm11SkxoVlhZZDdB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T21:40:54+00:00"
+      "time": "2026-08-16T21:33:23+00:00"
+    },
+    {
+      "text": "Zale Parry, Aquatic Hollywood Star and Early Acid Tripper, Dies at 93",
+      "url": "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T21:07:25+00:00"
     },
     {
       "text": "Cassidy on Trump’s vaccine order, ‘crazy, stupid’ claims: ‘This is why the president’s poll numbers are going down’ - The Hill",
@@ -69,6 +87,62 @@
       "time": "2026-08-16T19:38:36+00:00"
     },
     {
+      "text": "Could El-Sayed Cost Democrats Michigan?",
+      "url": "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T19:12:15+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Trump says US scaling back joint military operations with South Korea - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T21:57:13+00:00"
+    },
+    {
+      "text": "Moore says Trump’s response to reported USS Abraham Lincoln conditions ‘pisses me off’ - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkdVeURrWGhyWkhmYUFwRGt5RnlNUjg1TVlZczNFWTJaQ2hkalFacDFQMWxPdnRMdGJUZDl1dm8wQmtVR2VHT29iakNveTZ2NXQtZkZwcHpKS0ZPQlBWTVU3azE3VVRHbkR6ZGF1T1ZDUmhMNVFtOEprTFZVd2xfMkFqUm3SAYoBQVVfeXFMTzEwMjRwaHNBaEktUlpDcWxGNnM4TUxhanhMSUZuMkNFSGpEOXZJRnpfY3BjSFNyN3B3T0psczVDRGE4ZTdfcE0wUzN1RW9LT1M0ZnlfS3V4d01Za1ZIRExqSTkzWnFrcmo3TG9YX2xLSUJZNzRuT29CSTFyN0lCVUNySFdrQWlFTUR3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T21:25:00+00:00"
+    },
+    {
+      "text": "Multiple people dead as flooding continues in Indiana - NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96N2J2UmxQRXhGb1ZqaU5MY3J1LVpnY3VsNk1HdndVcjltWVJIUHhaTVVEb0U5Z1ltNkdxRDVIenQ3ekRQajFERnRyOUhRUTduZnE2WWFKcHJNU25NLWc1S0NhdFdCOFhkaENjOFFWU20wcFRpcTBR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T20:38:40+00:00"
+    },
+    {
+      "text": "Indiana Prepares for More Rain After Days of Deadly Storms",
+      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T19:59:17+00:00"
+    },
+    {
+      "text": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T19:25:00+00:00"
+    },
+    {
       "text": "Meet Dave Brat, the US ambassador who ‘can speak Trump’ in Canberra - Politico",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEFXZXE2ZllUckNpZGpoQktwaDNqQVR6dzczY1ozVHA4MkpHcG1hUndCaTNRQWFNX0lpUHFxUEZnQzM2eC1CVGhnOVpCWjJlcFlhX2dsTkFBSE42QVdFeGx4eFN1ZlBIeWRlcER3LTkta3ZZYmxpelZVR1h0WUdYTTAwc0daWlU?oc=5",
       "source": "Google News",
@@ -76,44 +150,44 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-16T18:45:00+00:00"
-    },
-    {
-      "text": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
-      "url": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T18:22:42+00:00"
-    },
-    {
-      "text": "It’s a Crowded Place With Some of the City’s Trickiest Traffic",
-      "url": "https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T17:17:10+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Zale Parry, Aquatic Hollywood Star and Early Acid Tripper, Dies at 93",
-      "url": "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T21:07:25+00:00"
-    },
-    {
-      "text": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
+      "text": "Lala is again a tropical storm, sending drenching rain and high winds across the Hawaiian islands - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJWdmptUWhHamR5OFQ2ckI0Qlk5YjRIcnBNa1dCdzNBaktSdnNtdHhLNHFZNlE3VHZWa1JMWVpMTWN2dkhuemhVT1VRSGxLNXRYZ2M3aHB2cnpvZW5nS2FqMHBsTXpHVGNqYWl5SXRfblFETEFTT3ExeTVYNEtBNlhrYnkzSi1tU3FKcGRSRmh5OHZvUFJ2LU9wZTJyUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T20:02:00+00:00"
+      "time": "2026-08-16T21:40:00+00:00"
+    },
+    {
+      "text": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T21:16:17+00:00"
+    },
+    {
+      "text": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM09lMVl3NVY1NW5Db3JPaC1qMDdWUUlmZ2FnT2xhZ1JLVFNHWU13dE1yWndqc05DZUppSGtMaGhkQXEwMUhMRlJvUlZ0ZkZjTExiRUxSTzNpZ1NBSkJVbDdPaExfRnRka0V6MFFvNnhFY0xuSVR1ZTBrLUw1UTFodmNmMlVIOGp4UXlaaTY1eEM3amZCdnloSzdXUGh2MmlZcWtjZnNfaEVOZnhmeUgtQjduMNIBuAFBVV95cUxOLVlLSTVUSXh5Mzc3VngtbnRXcGNaLTlGNHlUbTNLYm9JaFpEM0RCNEQ2YWN5S3VaRHlKTzhCWEhZN1dQV2x1Vld1RVRmcXA2Zmh0LXBOOXVPVGRXVUFSY1Vzd19iRnJXOVpSQWlvYlVCdHpBQzVraFVNcDNoaWQwM09La1hqUXAyRmsxTUp0bUNYd2NxUlZYblZhOXdfck1zT2lOZ1dnNFdtb2hWc3RYU1U3ZndtcWRZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T20:37:30+00:00"
+    },
+    {
+      "text": "Knicks teammates, WAGs attend Karl-Anthony Towns and Jordyn Woods’ Malibu wedding - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHhRNW1EUUZMOVE2UW1OZXl6bjlBeTBvY3VwcTM5bUhXd1FubnlJWXY5ak1fN1hkMm9jZFN0cVB3R29PaURySk9EN0FTcnJyT0NldVBuaE9XOWZNUUNCRnEzT1Z0Qi04MDNnRVJ1dDVOWWVmTnFoRUVqT2pHdnlHNlZMVXktX0F1WDhsR0xMNmVUd0tBMzBUek4xUjF6bkJhZzBKa2NRYnJRQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T19:45:00+00:00"
     },
     {
       "text": "What We Know About the Storms Battering the Midwest",
@@ -132,80 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-16T18:43:56+00:00"
-    },
-    {
-      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T17:39:39+00:00"
-    },
-    {
-      "text": "Arsenal 3-0 Man City (Aug 16, 2026) Game Analysis - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fc09NUHJDaV9tYTFfeVVXR1ZDa0R0ckRTWER0SHRoMDZTSV9MdUc3OXNCNlVlOFl3d1NGWWJYd1otRkZMWDJQVU94ZFByOGJOSjJ0SEFfQ1hhMkhzVkd0LUx2dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T17:04:25+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0tOV2pQTFhJRmJNekpVdmxYOEdRYVd2bDBWM2dDVktacHNJQ2h6cENVWS1XNVZIaHRoeXZGc242cXQyNjZiNmFoNFBSX3dRZkZGMkF5TUhYNm5OS3Zyb042dWlsb2JOdnByb3lRQThCUkFoWjlyX0NxYXB3aEJwRkFR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T20:38:42+00:00"
-    },
-    {
-      "text": "Indiana Prepares for More Rain After Days of Deadly Storms",
-      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T19:59:17+00:00"
-    },
-    {
-      "text": "Could El-Sayed Cost Democrats Michigan?",
-      "url": "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T19:12:15+00:00"
-    },
-    {
-      "text": "Taylor Swift exudes elegance in navy tulle gown and pearls at Laura Sisk and Oli Jacobs’ wedding - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ050S0RNamhULUlLWFBHMVlya2oyaHdSdXBIMzBBb21nbXZQWHUtUVBwMURualdlZkdfUUtIaGRSWmtPdWxDaGh6ZjVVM0h3QlBxUjJJT3A4QS0yb3o1Z3NGY0wwNzFhdlZVM0VWb2NRb3hVOFRlNlNaanVpa3VJdU9BZ1FndTBRaExpTlhHTVUzT0llQ19UUHNIU0pQXzBV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T18:24:00+00:00"
-    },
-    {
-      "text": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlBoRmhQRUp0V2J5aFNhVEhOSW9FY3pKQkVKdko0UE5vRjN6WjE4VUU3MEdGSTU0UTZ1RVB6Uy02QjJ5eVN4bkx2bHo1UUZscGtWT21EQWhUb2lzWHlrTUctZU9OME5KMF9UMHh5cF9KaFYtZko2QV9GLVc1N0FaLUlsX1czTTNzbk5iOGxFaUpmTnByaEVlUy05UTlTbldORWIxVGhn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T17:34:04+00:00"
-    },
-    {
-      "text": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:53:51+00:00"
     }
   ]
 }
