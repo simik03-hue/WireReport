@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-08-16T10:08:04.573969+00:00",
+  "generated_at": "2026-08-16T10:42:26.593744+00:00",
   "lead": {
-    "text": "Police have arrested a 19-year-old in connection with Virginia State University shooting",
-    "url": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
-    "source": "CNBC",
+    "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-16T10:04:40+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-16T10:09:10+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Police have arrested a 19-year-old in connection with Virginia State University shooting",
+      "url": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-16T10:04:40+00:00"
+    },
     {
       "text": "Ocasio-Cortez Rewrites the Rules",
       "url": "https://www.nytimes.com/2026/08/16/opinion/aoc-egg-freezing-women-politics.html",
@@ -29,15 +38,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-16T10:00:07+00:00"
-    },
-    {
-      "text": "The Memo: AOC 2028? Dems feel trepidation and excitement over Ocasio-Cortez",
-      "url": "https://thehill.com/homenews/campaign/6031017-aoc-2028-presidential-run-speculation/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-16T10:00:00+00:00"
     }
   ],
   "col1": [
@@ -78,22 +78,22 @@
       "time": "2026-08-16T08:30:00+00:00"
     },
     {
-      "text": "BREAKING! Disneyland Tomorrowland Complete Overhaul Fans Have Been Waiting For Just Announced - Mickey Visit",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc25zSFRJX2R0N1c1VkY0U1RjMTVPQldNcy1zV0R4VnUzcE51ZFJGeUlHY1hPRUtxaFR0MUF1WUtfaDVvU3FhTkFyTGJfcDNYN1ljRjJRSHVnR3JEVFZfSzR1QzhrOE5CaW8teE11elZBRkRhcWNKU3ZLdlNhT3ZOUGlfRzk?oc=5",
+      "text": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hEQ3RLck5hS0ppd1g4SW9mZDgzY3FwM0VOU2ctOVpqZXBPOF9sVjc4SW1aaXFVZmpXWHFqQlhnSVNWdUEzaUR3N3QtUlVQOWEwZTdTRVZEcW0xMmdhSWctLVFacGU0RU5ZYU0zNFRQNVRjTHRseVFuQ0pjek0xVklPcDlXVUVzZmp6aWNZeFpqOEhab2NZeXlWWTFoZ1hoWXktQjIxQ1NJVVVVbm1WdTY4NnLSAboBQVVfeXFMTldXcXBScHdFb0xMM3VWZE5VZ0lad012blFBNzhhY25zUmJOTHBXZVdIdHR0LU15TUgwc1BVY2RQNnhQaHFpc08xT2RaYkRkdmI3NUtnVEtLT0VFVHNLaThfOVJzRk0zRldwdDBkOVVYYXdCaGwzVTFMdW5lMmdtaHlwRTU3TGNoOGRjQXBtODBfMndabmJ3U1NxWjl6RF96VHlOOUFlNk1aemVXQVZJZFZTaWNxcnY4b0tn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T07:10:21+00:00"
+      "time": "2026-08-16T07:41:17+00:00"
     },
     {
-      "text": "Horoscope for Sunday, August 16, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NFLWRlWEowaFFGVUF5X3pLWlZmOXBIbFdaemdaYmdfVkhFU0llelFlN0FhUk4wLTE5MkJ5S3hzd2ZLTHoydXNnQVZhbGJ1VkktVEdHZ3VyZTRmZkxDWHMwRVM1VWNHRm0wbnhiNk1MOENINnFNSGJQVkQ1cDRYTUVJYkVsaGMwVG9FR21DZFoycEE?oc=5",
+      "text": "Ty Simpson dazzles in his Rams debut - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG94MEVGdXlyakVydWdkZEZ6R2Y4WnVSNmNNY1dPVGttaXIxZ19PcVpjelMzNElVdWNIc0FUREk1NG54a253SzUyNnlnSTBTT1Q5RFdPX2dwZTladHBjU21TNkZjZEdZUzhxZUZJRUcxaTB0Qk9wQ281am5yMGxWRUw0b21TZWUyekYyUEV3c3hzbDB1YjBlNTNmZG5ka1E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T05:01:00+00:00"
+      "time": "2026-08-16T06:41:12+00:00"
     }
   ],
   "col2": [
@@ -134,22 +134,22 @@
       "time": "2026-08-16T08:23:38+00:00"
     },
     {
-      "text": "Islam Makhachev wins record 17th straight fight at UFC 330 - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN01yRkZYdDQyVjRxV0dubVFDc3N0SHZVd3ZJWUpsUG5ZX1FQZ01KMXpwM2JOMXcxM1YzbVlmcnhDNDhybjZ2bjljUldPNG8ySERjanNJcjQ1akRPeGJkMGN4dG5hQVJ5WkFRNVVnUGYxU1BiQTQwY29qTGZSWmhaOWlRaVhHZ0hVMllpVG5wRTRnRFBtWGtnSzFTSnR1RVFIbGVBQUlsU3hqMVJITnc?oc=5",
+      "text": "BREAKING! Disneyland Tomorrowland Complete Overhaul Fans Have Been Waiting For Just Announced - Mickey Visit",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc25zSFRJX2R0N1c1VkY0U1RjMTVPQldNcy1zV0R4VnUzcE51ZFJGeUlHY1hPRUtxaFR0MUF1WUtfaDVvU3FhTkFyTGJfcDNYN1ljRjJRSHVnR3JEVFZfSzR1QzhrOE5CaW8teE11elZBRkRhcWNKU3ZLdlNhT3ZOUGlfRzk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T07:07:30+00:00"
+      "time": "2026-08-16T07:10:21+00:00"
     },
     {
-      "text": "Pallister hands Ledecky her first international 800 free loss - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXdtTzhvalVDb3lwS3FpOVlRcHFlaW50Z0FCWmI0TUFVVWtrMEJqQm51RDdHOGlmQlM4aTcxWGJoQnZ6cE1UU3FfVkdNSldzRkdJYTNwMEN3VE44RDF0aVhkSjZMdE5OVGR3WmFMMlNFdDlEWHdlX05aRkhZUlQySUwtbHMxd0g5cXlja2d0c2xNVllrWlR2ak9xa1lQUGpTa21RTEl2X2kzV3BMM2RFTnFpQkZNSWM?oc=5",
+      "text": "Horoscope for Sunday, August 16, 2026 - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2NFLWRlWEowaFFGVUF5X3pLWlZmOXBIbFdaemdaYmdfVkhFU0llelFlN0FhUk4wLTE5MkJ5S3hzd2ZLTHoydXNnQVZhbGJ1VkktVEdHZ3VyZTRmZkxDWHMwRVM1VWNHRm0wbnhiNk1MOENINnFNSGJQVkQ1cDRYTUVJYkVsaGMwVG9FR21DZFoycEE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T04:36:00+00:00"
+      "time": "2026-08-16T05:01:00+00:00"
     }
   ],
   "col3": [
@@ -181,31 +181,31 @@
       "time": "2026-08-16T09:00:11+00:00"
     },
     {
-      "text": "Indiana authorities say at least 5 people have died as severe weather crosses the state - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
+      "text": "US top Middle East commander visits deployed aircraft carrier, and other Mideast news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T08:08:00+00:00"
+      "time": "2026-08-16T07:53:00+00:00"
     },
     {
-      "text": "Ty Simpson dazzles in his Rams debut - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG94MEVGdXlyakVydWdkZEZ6R2Y4WnVSNmNNY1dPVGttaXIxZ19PcVpjelMzNElVdWNIc0FUREk1NG54a253SzUyNnlnSTBTT1Q5RFdPX2dwZTladHBjU21TNkZjZEdZUzhxZUZJRUcxaTB0Qk9wQ281am5yMGxWRUw0b21TZWUyekYyUEV3c3hzbDB1YjBlNTNmZG5ka1E?oc=5",
+      "text": "Islam Makhachev wins record 17th straight fight at UFC 330 - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN01yRkZYdDQyVjRxV0dubVFDc3N0SHZVd3ZJWUpsUG5ZX1FQZ01KMXpwM2JOMXcxM1YzbVlmcnhDNDhybjZ2bjljUldPNG8ySERjanNJcjQ1akRPeGJkMGN4dG5hQVJ5WkFRNVVnUGYxU1BiQTQwY29qTGZSWmhaOWlRaVhHZ0hVMllpVG5wRTRnRFBtWGtnSzFTSnR1RVFIbGVBQUlsU3hqMVJITnc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T06:41:12+00:00"
+      "time": "2026-08-16T07:08:52+00:00"
     },
     {
-      "text": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
-      "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Pallister hands Ledecky her first international 800 free loss - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXdtTzhvalVDb3lwS3FpOVlRcHFlaW50Z0FCWmI0TUFVVWtrMEJqQm51RDdHOGlmQlM4aTcxWGJoQnZ6cE1UU3FfVkdNSldzRkdJYTNwMEN3VE44RDF0aVhkSjZMdE5OVGR3WmFMMlNFdDlEWHdlX05aRkhZUlQySUwtbHMxd0g5cXlja2d0c2xNVllrWlR2ak9xa1lQUGpTa21RTEl2X2kzV3BMM2RFTnFpQkZNSWM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T04:01:17+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T04:36:00+00:00"
     }
   ]
 }
