@@ -1,35 +1,46 @@
 {
-  "generated_at": "2026-08-16T18:41:32.449500+00:00",
+  "generated_at": "2026-08-16T19:07:17.970141+00:00",
   "lead": {
-    "text": "Cassidy: 'Pretty evident' RFK Jr. lied about changing vaccine schedule",
-    "url": "https://thehill.com/homenews/senate/6032102-cassidy-accuses-rfk-broken-pledge/",
-    "source": "The Hill",
+    "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-16T18:23:40+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-16T19:03:04+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
-      "url": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
+      "text": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-16T19:00:23+00:00"
+    },
+    {
+      "text": "Could El-Sayed Cost Democrats Michigan?",
+      "url": "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T18:22:42+00:00"
+      "time": "2026-08-16T18:58:58+00:00"
     },
     {
-      "text": "Stevens says 'it certainly makes sense' for El-Sayed to end affiliation with Piker",
-      "url": "https://thehill.com/homenews/campaign/6032080-stevens-calls-el-sayed-end-piker-tie/",
-      "source": "The Hill",
+      "text": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-16T18:12:06+00:00"
-    },
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-16T18:46:12+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
       "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
@@ -37,10 +48,8 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T18:05:22+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-16T18:43:56+00:00"
+    },
     {
       "text": "Ex-MLB pitcher Tommy John, namesake of pioneering surgery, dies - ESPN",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnRRNExFTU1xNlBRbTYxZmpTM0ZKUi00RGppaVl5VGV4SzlveHlhMG90ZV9jTklJQnV2SE1YN044NXZzem9YUm5LVFp5TEVvbXFWMHFOOVZJQWRqbDRwWW9jbGpHTmFkS3dUZUF0VEF1WXpaaDZfeW5CdC1aOWprbGctcXhSb2VCal9GQlNNbE9WeG1iUlNVUGlRU3o5LUdvUUItYVl3?oc=5",
@@ -49,62 +58,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-16T17:56:00+00:00"
-    },
-    {
-      "text": "Weekend Box Office: SPIDER-MAN Hat Trick, OAK STREET Roars Ahead of PAW PATROL - Boxoffice Pro",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTIxc3NuMFpNSGJ1bFFCOUpJN0YxWWpPUXBSNDVKN3RBYnpUcm1wTEtXRENuODJrRHVpX2owQ2o2OW10dVZxN1RvLUJ4NjJWY2hEUVNBalItMzVCMnJBOUQxdmhBQXgyelVCcFgzWmJ0b0luY25hTlBfV0dHbWxHUWQ3NENFdUFwWm45UVNvOXp4Y2JlYXdLUHRGT1JUUUt6V1kyLVltcDZEZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T17:27:52+00:00"
-    },
-    {
-      "text": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVhWQUJkcFVLbU0tWnYyTWd2S0NDWDNlbnBTNGJmNDBZNzhiWUVieHVrR1VIdWlOYWVQNEZVVlFmbjY2UDZpUWYyeVNBRmZrZ01kSWlpYWYyUGp3MVdMYlgycmRuOFZhdWdkc0hVS2JDWFZsdEJ6RkF6dW9xTDFmd00xeGJYU1VWSFNVeC0wU1ZVT2Vmc3d6alhEQVZ4eWFvd3JPek9xYmlmNm9ycjUyaW1fRWlnYlZxRWxERTdERXVrVG1s?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:31:02+00:00"
-    },
-    {
-      "text": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T16:05:43+00:00"
-    },
-    {
-      "text": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:39:00+00:00"
-    },
-    {
-      "text": "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks - Variety",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGN6QjdTeS04X0lNWVlqeWEtTTZJcmNzaGxYczRXTWZ1MzVaTEtnM0ViVEJqVDczUGhHaGlLODU2SVJNV1prbkFiMVRESU5SV0dtRUNvSEllNnU2OE1aeHNqbjN3Qzk0ZXV3RC1XNnN3SjZGb1JrU1BsSHVGNXAycnFGOFFIWFVUTHMwYTZQYVh5czd4ZUxQcTVHc29mLS10SXc1akJUc2plTUttWjFoNFc5M2lPZHA2ajdlb21xa1pLOHhCQU5UOEYtbm0xZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:15:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "AIPAC Targets Progressive Democrat in Race to Replace Swalwell",
-      "url": "https://www.nytimes.com/2026/08/16/us/swalwell-seat-aisha-wahab-aipac.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T17:52:50+00:00"
     },
     {
       "text": "As Lala Lashes Hawaii, the Atlantic Hurricane Season Remains Calm. So Far.",
@@ -141,26 +94,26 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-16T15:38:22+00:00"
-    },
-    {
-      "text": "Cassidy attacks ‘crazy, stupid’ Trump comments on vaccines as he denies regret for RFK Jr. vote - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeno0dWxSbDlZcUJFSW9ZXy1YTG52QmlLMnVMT1RsRnlOTUt0TC1CMXhqMW1MVnI4MUhGWUJDXzROaEhJV0xPR1VvX2dvRW10OU01R2hkbWN3VkYxa05KbmVUdEhjelVLRlo4ZmJJOXppaEhuTWlMdHJnMEE1NDhuMWVVTHEwMnRUM05IcHNFSlYzZzhCeldUSTR6VFFFOEp1NkxYR2dFcjFhRkU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T14:54:00+00:00"
     }
   ],
-  "col3": [
+  "col2": [
     {
-      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "text": "What We Know About the Storms Battering the Midwest",
+      "url": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T17:39:39+00:00"
+      "time": "2026-08-16T18:34:11+00:00"
+    },
+    {
+      "text": "AIPAC Targets Progressive Democrat in Race to Replace Swalwell - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZ0p1ZkNONVBueEVjd3E5X1o0cmhBQUcwcGpHWDZFU3VYcEVHd3A3S2QtWjVoWjk1MkxIWG96eE13ZTEyWWR0VFpzeXVGYlJiV18tbjV3dXVZZ3ExclFVc0xmNEZPVGNJOEFmN01PSkwzRFphck92aGxTcTc4X3c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T17:52:50+00:00"
     },
     {
       "text": "Blanche says he's not Trump's personal servant - Politico",
@@ -197,15 +150,62 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-16T15:33:02+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
+      "url": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T18:22:42+00:00"
     },
     {
-      "text": "Dana White Rips Machado Garry's Lack of 'Killer Instinct' After UFC 330, 'Drives Me F--king Crazy' - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVppNFN6T3p1bnlmbHdBSlU5ZzRKbXJxR3VCamFSQU5NdTZoNlhTQU12Vl9jcXE0N0JlaWFlZ2Jzd2FvdlgtT0hCZEpIOE9WVkFuc3pTQzhidkVGa1dVcnBoN2toY0hpUWNFTDV5bEdUcDh5c3c3a1huWHJRSXFOd0FEcW1EOE9RSDZNQy1PXzZqM29sRktPaWtOeDk2VGZtdkJsX0JGOGxBOWN4T3RUYWRid1FDdHFia2dXX2xiOEpPZVN5YXFaaGJLRGYtQQ?oc=5",
+      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T17:39:39+00:00"
+    },
+    {
+      "text": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVhWQUJkcFVLbU0tWnYyTWd2S0NDWDNlbnBTNGJmNDBZNzhiWUVieHVrR1VIdWlOYWVQNEZVVlFmbjY2UDZpUWYyeVNBRmZrZ01kSWlpYWYyUGp3MVdMYlgycmRuOFZhdWdkc0hVS2JDWFZsdEJ6RkF6dW9xTDFmd00xeGJYU1VWSFNVeC0wU1ZVT2Vmc3d6alhEQVZ4eWFvd3JPek9xYmlmNm9ycjUyaW1fRWlnYlZxRWxERTdERXVrVG1s?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T14:40:40+00:00"
+      "time": "2026-08-16T16:31:02+00:00"
+    },
+    {
+      "text": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T16:05:43+00:00"
+    },
+    {
+      "text": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T15:39:00+00:00"
+    },
+    {
+      "text": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T15:15:00+00:00"
     }
   ]
 }
