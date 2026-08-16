@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-08-16T19:57:40.450214+00:00",
+  "generated_at": "2026-08-16T20:32:53.357068+00:00",
   "lead": {
-    "text": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-    "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Cassidy on Trump's vaccine order, 'crazy, stupid' claims: 'This is why the president's poll numbers are going down'",
+    "url": "https://thehill.com/policy/healthcare/6032232-cassidy-slams-trump-vaccine-order/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-16T19:50:36+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-16T20:13:41+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Blanche refuses to pledge DOJ will always act independently of White House",
-      "url": "https://thehill.com/homenews/administration/6032206-blanche-rejects-independence-pledge/",
-      "source": "The Hill",
+      "text": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-16T19:45:56+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-16T20:01:51+00:00"
     },
     {
-      "text": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83",
-      "url": "https://www.cnbc.com/2026/08/16/tommy-john-namesake-for-elbow-surgery-that-saved-his-career-dies.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-16T19:36:49+00:00"
-    },
-    {
-      "text": "Democrats Face a Potential Tea Party Moment",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
+      "text": "Indiana Prepares for More Rain After Days of Deadly Storms",
+      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T19:35:06+00:00"
+      "time": "2026-08-16T19:59:17+00:00"
+    },
+    {
+      "text": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+      "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-16T19:58:32+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "‘That’s the standard’: Mikel Arteta hails Arsenal’s desire on blue day for Maresca - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0lTRnZ1b0o2bG5EdlY2dFd2cTEtM0l4b0FRamVBQVlGbVNjY290NDhhd0JBVVAxMXA5SmFvWlUwMzVldzk0amJUN1hPZjlkZ01qZlBVWkY5OEMxdFpUU1B5NkQtVDRZZk5pR2pOR1poc041ZUFxTHdCTUpiMThUMndXSExvenVHbWozSXExUkV2cHl2U0RQaUxYUDBuTm1XeEh6WHVnVi1Wdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T19:38:00+00:00"
+    },
     {
       "text": "What We Know About the Storms Battering the Midwest",
       "url": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html",
@@ -49,6 +58,118 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-16T19:22:05+00:00"
+    },
+    {
+      "text": "Meet Dave Brat, the US ambassador who ‘can speak Trump’ in Canberra - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEFXZXE2ZllUckNpZGpoQktwaDNqQVR6dzczY1ozVHA4MkpHcG1hUndCaTNRQWFNX0lpUHFxUEZnQzM2eC1CVGhnOVpCWjJlcFlhX2dsTkFBSE42QVdFeGx4eFN1ZlBIeWRlcER3LTkta3ZZYmxpelZVR1h0WUdYTTAwc0daWlU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T18:45:00+00:00"
+    },
+    {
+      "text": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlBoRmhQRUp0V2J5aFNhVEhOSW9FY3pKQkVKdko0UE5vRjN6WjE4VUU3MEdGSTU0UTZ1RVB6Uy02QjJ5eVN4bkx2bHo1UUZscGtWT21EQWhUb2lzWHlrTUctZU9OME5KMF9UMHh5cF9KaFYtZko2QV9GLVc1N0FaLUlsX1czTTNzbk5iOGxFaUpmTnByaEVlUy05UTlTbldORWIxVGhn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T18:21:00+00:00"
+    },
+    {
+      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T17:39:39+00:00"
+    },
+    {
+      "text": "Transcript: Rep. Don Bacon on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026 - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2wySVRtVm8tZW9HTUZFV3hScmY1ZUJ1WktsRjB5aExZdFFNTk95Vjh2b1lmSmxCVVJoNkMwOERZQzc5UkdRTXg1U3pZTXptLXRrQ2dCQXU4SWRmSGR1bEhsRkM1SVpZb0pOQ19CNHpaWERXNmk5NXBzR0xiVE9uQ3o3bnZSMTBaUUNzdTRzTC1zUzFJdVV1Y3d4S3l5dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T16:17:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Democrats Face a Potential Tea Party Moment",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T19:35:06+00:00"
+    },
+    {
+      "text": "Could El-Sayed Cost Democrats Michigan?",
+      "url": "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T19:12:15+00:00"
+    },
+    {
+      "text": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
+      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T18:43:56+00:00"
+    },
+    {
+      "text": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T18:04:00+00:00"
+    },
+    {
+      "text": "Tommy John, Yankees great who had surgery named after him, dead at 83 - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXdHWkxDZ0JCekdSNlhlMXZISGFvZ2diZFRmd2F4Rm9uOFVuYUNGelVOZmJaM29OaGdxOFAtYzZlZ3JIX2VnS2NYSXhoRm05OFl6Ul9IMjMzZGhGSjZMLTNMMXB0ZG1ycTQ1YkhnQTlGSTRnVEstYzBRWXFMeEo5M1RmSU9qX3pCUnM1OFd3RXlXaTgyR293Qk9Gck5SLVhVZ2FCS3pGYS0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T17:22:00+00:00"
+    },
+    {
+      "text": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T16:14:13+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East - cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2dqMUJIcWdndGVfSXlVeDRKbmkzU3hrTTRyeXBrSWR3NGtUNzNkSm54X19kcDNBNzJBaVV0NEJTNVdLVVRrUlNHLXZETnFwMEIyekJhOTduVWxZQWZyVW5WQ0xua1ByTDc0OG1B?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T19:25:00+00:00"
+    },
+    {
+      "text": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-16T18:55:00+00:00"
     },
     {
       "text": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
@@ -60,13 +181,13 @@
       "time": "2026-08-16T18:22:42+00:00"
     },
     {
-      "text": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWJSMVdfVFdWQklwNm9Pc0tBUHo5MmpCcFFqQUFvVHNlblpOb0RZSUx3eGg5YjdCeXQwQ0k3MWloSUZYMUl5cFhxT09UTWhpYzBUTFdPbFZEaHB3QVZlUm5zb3AyMEhEWThtQ25xaVJLNUZyU1BJRGcxa2RhNi1feWFMQ0lpSmJhcWYwYlNFdk1uVENzSzVrczZLaVk?oc=5",
+      "text": "Lake Powell, the vital reservoir for the Southwest, hits record low - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYXlGcGN4OFl6ZlhTZDZhUXgzRGczQlJtTXQtcHNPZU5VOXhmbS01bE13YldudFZLNE53M2ZKbDlxS2FzekY3UTdSSkJsWmlrX2V5ak00Wi1ITHpEalhObVZhdExOVi11T2V6dmRUeXg2OFlONE5HeGRBMkM2N0FWQVVfMHdnVEcxaTR4Yk5xWDFrN3o2dlp0V053SFMwSTRBWGdhZy1xY192dkFHS0E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T17:17:40+00:00"
+      "time": "2026-08-16T17:57:00+00:00"
     },
     {
       "text": "Blanche says he's not Trump's personal servant - Politico",
@@ -85,127 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-16T16:05:44+00:00"
-    },
-    {
-      "text": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii - NPR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbG5Gem5FcEFWU0VtZHpMYTgyVEd5aVY0LUV4SGZNVEMxd3BXUlJsYnY5QXNhU0lfaVAxTy1yUlB6Rlh5aUVQeFIyX2xiU09kS0x0bTZlbklDTk1NLURZcWlldlRDeC1OVDZfTVVKc01CeFJZVnJkNUF1VzdjQmt2N3RxTjQ4UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:47:58+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Could El-Sayed Cost Democrats Michigan?",
-      "url": "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T19:12:15+00:00"
-    },
-    {
-      "text": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T18:04:00+00:00"
-    },
-    {
-      "text": "As Lala Lashes Hawaii, the Atlantic Hurricane Season Remains Calm. So Far.",
-      "url": "https://www.nytimes.com/2026/08/16/weather/el-nino-lala-tropical-storm.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T17:06:10+00:00"
-    },
-    {
-      "text": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEl6U1RsX2F2XzJtaFd2cHMyWDhqMzhBdnI1QTJnTnNmV3BST19jNlRHTTNOejFuVTdlRTNzOGdFTG1MRTF1VE1hSnR2eGZOQnhoQWIzOG1DcWxpbkZXTkhSbDQwMmV1OGh5ay0tclhVcnBUUVh4cG1jZk1VeDV6eTgxdjdxMnFnelY1cEZSQVNTOE9nVE1HR2FSM1NvSzE2aVVPYWhzVmlSNlF4OGNBWEEtd0NYWXpBZm9weFl5U1RuaWhCelE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:18:09+00:00"
-    },
-    {
-      "text": "Weekly poll: which Google Pixel 11 model would you buy? - GSMArena.com news - GSMArena.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEUybEdnNHMyeEVZS2ZCSTlpV3U1S0VoU2tyRzctcjI2NmQ2TGJ3R2loLXMzZDV1RVFmRlhFR3lNQm53ZC1nTWVpMGY4RnhfRzlfbkNmQTJ5SDRMVmdyWWowNXVwV2FmU1prTFY4ZTNUbHF0SUl5bWJFSlh4QnN4bnpmZWlqcGo3UEtWbW1kWG56Y0ZNTm5aVNIBlAFBVV95cUxPMnBrbzUzbmFKZndqM2REVVZkZFkyVTF5dTIxd0Z2TkhaYlNwTVBFWG5QcWFYb0w0cndsZjdSZjVLc0tMV2FUOGFhQkExOFZUTW9KY0NKRFdpcC02UzZOV1daSWsxZ1BWaXQxNlBON0VMZ0VmWmxzQTZzUTVIMEF1aVlhYXhfdldtQXJpQTFnNmNRc1ND?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:03:02+00:00"
-    },
-    {
-      "text": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnFRcW9HbzBnVEVnSk92am10b0F0NGx4RTJlcjRTY28xQVdwWWxkdGd5eXNMdmxWeEFRQ3BFZEN6bUF1WDVCQkUtTjlrTGdtenNWclIteG9CRTVZdzVNaUJ4Z2FPVE0zaTBEX0RIdlRWMG1ieHRYcWt0dXpWYllGTjRnT2cxVDZwS0FCNEFEZnpJa0c1VXpaTGw0eFJxc251RUVvUmJPVmltWWlJbHBaLUJwd1I?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:39:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
-      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T18:43:56+00:00"
-    },
-    {
-      "text": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T17:39:39+00:00"
-    },
-    {
-      "text": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVhWQUJkcFVLbU0tWnYyTWd2S0NDWDNlbnBTNGJmNDBZNzhiWUVieHVrR1VIdWlOYWVQNEZVVlFmbjY2UDZpUWYyeVNBRmZrZ01kSWlpYWYyUGp3MVdMYlgycmRuOFZhdWdkc0hVS2JDWFZsdEJ6RkF6dW9xTDFmd00xeGJYU1VWSFNVeC0wU1ZVT2Vmc3d6alhEQVZ4eWFvd3JPek9xYmlmNm9ycjUyaW1fRWlnYlZxRWxERTdERXVrVG1s?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T17:00:00+00:00"
-    },
-    {
-      "text": "Transcript: Rep. Don Bacon on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026 - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2wySVRtVm8tZW9HTUZFV3hScmY1ZUJ1WktsRjB5aExZdFFNTk95Vjh2b1lmSmxCVVJoNkMwOERZQzc5UkdRTXg1U3pZTXptLXRrQ2dCQXU4SWRmSGR1bEhsRkM1SVpZb0pOQ19CNHpaWERXNmk5NXBzR0xiVE9uQ3o3bnZSMTBaUUNzdTRzTC1zUzFJdVV1Y3d4S3l5dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T16:17:00+00:00"
-    },
-    {
-      "text": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T15:57:47+00:00"
-    },
-    {
-      "text": "What really happened in Ceuta? Why we may never find out - NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdHJVQ1F0S0hLN2hUTUdXdXdoUUxHdmVIOEVfUHB2VE1jMElCTzhxWGRDZElKM0l4LXFOV0R6eVJad1ZvUzdoMUtnT2RwdG1rS0hyNmdxbUZPb21VbzFDU2w3UkVsTVdtRmltNWxQNWxxOXNJWXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T15:38:22+00:00"
     }
   ]
 }
