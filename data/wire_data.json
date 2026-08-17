@@ -1,128 +1,90 @@
 {
-  "generated_at": "2026-08-17T09:02:48.936504+00:00",
+  "generated_at": "2026-08-17T09:59:15.537639+00:00",
   "lead": {
-    "text": "Top Zambian opposition figures arrested days after presidential vote",
-    "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
+    "url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-17T09:01:06+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-17T09:46:08+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stock futures fall after S&P 500 posts three-week win streak: Live updates",
-      "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+      "text": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:42:00+00:00"
+    },
+    {
+      "text": "More than 180,000 without power in Hawaii, 100 homes damaged as Lala weakens to tropical storm",
+      "url": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T09:00:23+00:00"
+      "time": "2026-08-17T09:37:37+00:00"
     },
     {
-      "text": "Ukrainian strikes kill six in Russia, acting governor says",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Trump orders Pentagon to cut back military exercises with South Korea",
+      "url": "https://www.cnbc.com/2026/08/16/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-17T08:47:19+00:00"
-    },
-    {
-      "text": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-17T08:43:12+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-17T09:30:31+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea - nbcnews.com",
+      "text": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:05:33+00:00"
+    },
+    {
+      "text": "There Are Few Witnesses to Tupac Shakur’s Drive-by Shooting",
+      "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:03:01+00:00"
+    },
+    {
+      "text": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:02:10+00:00"
+    },
+    {
+      "text": "How Islamophobia Moved From the Fringe to the Mainstream in Texas",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:00:31+00:00"
+    },
+    {
+      "text": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd21KS2xQcXVlUjVJbkpxeFRiVlVXU1Jxd3FxekNfV1Vab01xd2luRHR3M0ZGd1UzMFNza2NpaElXRWt5NnJWX3J5YkpWMVZQZ2M3a1VxUzFnZEdKdVIyd0Y0Y0ZtMk53eklZRlRqMmpTN3hsSzRKZmR4U25xVWp5UjhCRE9DYU5velo0RkVmN3VuczUzMnM3Y25wcG5HYU5jbDdHX0Y5aF9lbUJ6ZG01amVoazcyUlhkeEtaV1g4UTZkbzIwYktqNThZVGZTM0pS?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T08:28:00+00:00"
-    },
-    {
-      "text": "I’m hooked on Peak Design’s new City bags - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ibUdFcHFqbURJRjJ3UUhSSU9oZXI2SWVKNjNKT2FKd3NnbzluRWk1THZRUXI2M09IWlpQaHJnUU1qOWxjSXZhTDVZczlLRzdwaVZYdFF1NmJHbjdBanNYY0ZicEd0Q09YTE9YdXZELXo3YkU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "text": "Emerging markets march out of 'valley of tears' as investors diversify - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T06:04:00+00:00"
-    },
-    {
-      "text": "Horoscope for Monday, August 17, 2026 - chicago.suntimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXljUWNoODlXbUFjaG9CckU4UGN1c0lLa1dYN0tfQWt0bWROdnpWQ1UtampJclV5bDF4M2JEWllXSTh0Q2FyX2xCQ1hibnlienFxSmJKbUpsaGl3OUtOdnVaTW95UTlCUmsycWZuVUNuN2FpSW1qOXVVRkRaRXhBb3l2dXJ2RDZvc05uZlRUUDFGQlE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T05:01:00+00:00"
-    },
-    {
-      "text": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle",
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T04:01:15+00:00"
-    },
-    {
-      "text": "Weekend Box Office: Spider-Man: Brand New Day Crosses $2 Billion Worldwide - Rotten Tomatoes",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGJCOEJGZGs4QVRMaE5xaVRYZnEwMzd4UzJmUnZIOHNDZXJNX0FhdmxldVJQLUxvcUhWekZHa2RrN3Z6cHlRSHMxUl95aTZUcTZiNm1ncE9SZ05oLXlQQlhqZ2U4R2tvZE9ISGxVRGVUaURYZkd5dm5GZ1ZxeUdnWmFIX1pOSWNGaHZxOEh4eGZiazdlTE5kcmJGa3Y?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T03:07:40+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T07:47:00+00:00"
-    },
-    {
-      "text": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T06:16:21+00:00"
-    },
-    {
-      "text": "Hundreds attend emotional Cambridge vigil for Jason Arday - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DaS1zTUF4WUF6SFkwZkhudF9DM09qUS1vNnp0T2xpNkM2U3M3a2UxUVJ5UTlJMEZEX1pUU293dFJCQ1lzNkVaZ25fb3hLdC12NDJsMGNnQm1CZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T05:17:24+00:00"
     },
     {
       "text": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates - Bloomberg.com",
@@ -132,35 +94,44 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T04:02:00+00:00"
-    },
-    {
-      "text": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10SzdSZUZuNEVRWmtycDdjWFRsRUhoZ0dlXzdZa2Y4X0dCdWFNYUVacXVtWEJCeUNiQkJhdG4tdEROQldYSTdEQ0Y2OXRmTkZJdEcycGd6N2pld3RiS3ZZTW9lM1JrWEJfTWk4V0xHTklBNjJhcmlV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T03:57:35+00:00"
-    },
-    {
-      "text": "Inside Kushner's Hamas meeting: What comes next in Gaza - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUJUUXNZOERVdVVpWENGOE94TkdCQU1mdmItQmt5cFRZWEFCcklSYlhtSnE0bzU1NVVYNXV0QlZMTnRRNmhMM0JLa1RnZ3VHNzRIT0F3ckVhdUwyS0pCMU14aFRNVVdERVJCSDRMaXZtanozMWtuNEJnckdlVWprVmVR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T03:04:28+00:00"
     }
   ],
-  "col3": [
+  "col2": [
     {
-      "text": "Cuba Is Out of Time",
-      "url": "https://www.nytimes.com/2026/08/17/opinion/cuba-trump-rubio-venezuela.html",
+      "text": "Democratic Socialists Look for Upsets in Hostile Territory: Florida",
+      "url": "https://www.nytimes.com/2026/08/17/us/florida-primaries-democratic-socialists.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T07:31:41+00:00"
+      "time": "2026-08-17T09:03:46+00:00"
+    },
+    {
+      "text": "How Silicon Valley Fell Back in Love With Bombs",
+      "url": "https://www.nytimes.com/2026/08/17/opinion/silicon-valley-war-pentagon.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:02:54+00:00"
+    },
+    {
+      "text": "What Do Students Lose When They Stop Writing?",
+      "url": "https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:01:05+00:00"
+    },
+    {
+      "text": "Preserving Hanji, the Ancient Korean Craft of Papermaking, in Ohio",
+      "url": "https://www.nytimes.com/2026/08/17/arts/design/korean-papermaker-hanji.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:00:29+00:00"
     },
     {
       "text": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
@@ -172,15 +143,6 @@
       "time": "2026-08-17T06:06:50+00:00"
     },
     {
-      "text": "How AOC is rewriting her own \"Woke 1\" history - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WdDBOZ1ZvVF96TjhXZWdZMmJveDE2MXhFczJFMjd5cTVYa21DRUtFRmh6UzdBaWJxSEd6Y2swZVpRUFBzc2NieFN5TmNNUFdrb3VCVUEweW9lekhvVEsyY3hQRkRRRzl5TUpxYXFR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T05:11:51+00:00"
-    },
-    {
       "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
       "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
       "source": "NYT",
@@ -188,24 +150,62 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-17T04:01:19+00:00"
-    },
+    }
+  ],
+  "col3": [
     {
-      "text": "Has your car been Flocked? Website shows whether your vehicle is in the database. - 5 EYEWITNESS NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWF9aVlo1RUR4bVNwcmRFTnllZUdvYXdaajd3VDFFd1A3TjFnX2Q1RjM5MXE5SHg0elRZVUlYeWJvQU1hMnNkeF9RZWljd1pBWFpvS0x5UENWMG1Ia243QmZoX1FaNTNuV3lCakFpODY4VG5iZlBzd1EyTC1RbTRieEt1QjVGdDRJNmsxWC1Hcl9ReDBZbWpFRkx4OWVqWUF0Zktqb0NWNC01Q255ZnpyWUd4dHU1cEU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T03:38:32+00:00"
-    },
-    {
-      "text": "Indiana Prepares for More Rain After Days of Deadly Storms",
-      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+      "text": "Who Is the New White House Counsel?",
+      "url": "https://www.nytimes.com/video/us/100000011088612/who-is-the-new-white-house-counsel.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T02:51:03+00:00"
+      "time": "2026-08-17T09:03:19+00:00"
+    },
+    {
+      "text": "Share Your Experiences With the Public Health System in Louisiana",
+      "url": "https://www.nytimes.com/2026/08/17/us/share-your-experiences-with-the-public-health-system-in-louisiana.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:02:23+00:00"
+    },
+    {
+      "text": "Murder Drops to Historic Lows in Baltimore",
+      "url": "https://www.nytimes.com/2026/08/17/us/baltimore-historic-decline-murder-homicide.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:01:04+00:00"
+    },
+    {
+      "text": "Actor Hayden Panettiere, known for roles in ‘Heroes,’ ‘Nashville,’ dies at 36 - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbW81QV9vWlA0V0ZDZG9ib2JxNnY1bVV6ZzFWMDkxcjNrSjhTTk84aTZ5TjB2cEJRZnEyTWllblllcWlsMUx3ZnZaLTEwNG81YUl3NUQwSkhUb25WcVV2WTB3MDhWdDlram5BbmVseTE5SE5TZnhHWGdrZjRZaXp1d0JNeXliTVhmMEh0OXNLWk9EbTNfVUlUQk9yUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T08:41:00+00:00"
+    },
+    {
+      "text": "Emerging markets march out of 'valley of tears' as investors diversify - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T06:04:00+00:00"
+    },
+    {
+      "text": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXFCNkNqdm5DWnVZMmxKVjdwcHhvNTVic3BKblBhOEZCdDN0d0tLTzdNM0ZyOXpDSGNjZFBhWVRxS0V3a2VyOElsQUpyd040WmZpc1ItS1J1cnkwaXBVMEVLQ3lrWUVHSzNjOXB0b05idG9qSnIxbDFkOUNQVVc0QkctSTl1RHRMMnY1bQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T04:01:15+00:00"
     }
   ]
 }
