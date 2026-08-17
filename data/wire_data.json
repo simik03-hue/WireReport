@@ -1,46 +1,64 @@
 {
-  "generated_at": "2026-08-17T11:11:10.746946+00:00",
+  "generated_at": "2026-08-17T11:43:46.534635+00:00",
   "lead": {
-    "text": "China Wants Its Data to Power the World’s A.I.",
-    "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-17T11:10:29+00:00",
+    "text": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
+    "url": "https://www.cnbc.com/2026/08/17/stocks-making-the-biggest-moves-premarket-baba-intc-sndk.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-17T11:37:29+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
-      "url": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
+      "text": "The clean energy revolution has a mining problem",
+      "url": "https://thehill.com/opinion/5979530-critical-minerals-clean-energy-transition/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-17T11:30:00+00:00"
+    },
+    {
+      "text": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+      "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T11:05:58+00:00"
+      "time": "2026-08-17T11:24:23+00:00"
     },
     {
-      "text": "What will TV look like in three years? Media insiders share their predictions",
-      "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
+      "text": "Apple can get a big boost from a foldable iPhone, says Rothschild",
+      "url": "https://www.cnbc.com/2026/08/17/apple-can-get-a-big-boost-from-a-foldable-iphone-says-rothschild.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T11:00:01+00:00"
-    },
+      "time": "2026-08-17T11:19:00+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "Trump’s Overture to North Korea Strains Alliance With the South",
-      "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+      "text": "What Do Students Lose When They Stop Writing?",
+      "url": "https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T10:57:47+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-17T11:16:13+00:00"
+    },
+    {
+      "text": "China Wants Its Data to Power the World’s A.I.",
+      "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T11:10:29+00:00"
+    },
     {
       "text": "In a New Memoir, Hayden Panettiere Relives the Drama",
       "url": "https://www.nytimes.com/2026/05/17/books/review/hayden-panettiere-this-is-me.html",
@@ -51,13 +69,13 @@
       "time": "2026-08-17T10:56:03+00:00"
     },
     {
-      "text": "Thousands in Indonesia await aid after quake kills 55, overshadowing Independence Day - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Who Is the New White House Counsel?",
+      "url": "https://www.nytimes.com/video/us/100000011088612/who-is-the-new-white-house-counsel.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T10:28:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T10:33:59+00:00"
     },
     {
       "text": "U.S. and Iran Blow Past War Deadline, and the Rise of Islamophobia in Texas",
@@ -76,44 +94,44 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-17T09:03:46+00:00"
-    },
-    {
-      "text": "Share Your Experiences With the Public Health System in Louisiana",
-      "url": "https://www.nytimes.com/2026/08/17/us/share-your-experiences-with-the-public-health-system-in-louisiana.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:02:23+00:00"
-    },
-    {
-      "text": "Murder Drops to Historic Lows in Baltimore",
-      "url": "https://www.nytimes.com/2026/08/17/us/baltimore-historic-decline-murder-homicide.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:01:04+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Who Is the New White House Counsel?",
-      "url": "https://www.nytimes.com/video/us/100000011088612/who-is-the-new-white-house-counsel.html",
+      "text": "How Islamophobia Moved From the Fringe to the Mainstream in Texas",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T10:33:59+00:00"
+      "time": "2026-08-17T11:14:20+00:00"
     },
     {
-      "text": "Live updates: Kushner meets Netanyahu after talks with Hamas on stalled Gaza peace plan - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
+      "text": "What will TV look like in three years? Media insiders share their predictions - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SeWc3cjN4VUJHaUFhWEpDQ3B6RU1TWV9aeUR0UW1qMk5sWlNmLUtRem1UTGI2cG5lVXNaVXlsMF9ubWNNTlBXbER2bVFjNEVxa0FpWmhnY1pPdVJoeHhIamt3bmFHaWpmUnZ4bHlSTFB2azB2?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T10:21:00+00:00"
+      "time": "2026-08-17T11:00:01+00:00"
+    },
+    {
+      "text": "Live Updates: U.S. and Iran locked in a stalemate as 60-day negotiation period ends - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjB6cEFBa2hwQ1ZKNUFmMmxtSEJhNnpITnQ0LTNzdUNoWUZvMy1tV3FxVkR3UlJ2VHpFQ1JVQlNiN2FhNVpvam1pZkNrY0pvajRCandGNjVYUG9QSUxyd3o4U1gzYWtHOE5xSmltVlVwY2lfcVlVVU0xaUwzdFZROURnTERwQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T10:54:00+00:00"
+    },
+    {
+      "text": "Thousands in Indonesia await aid after quake kills 55, overshadowing Independence Day - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T10:28:00+00:00"
     },
     {
       "text": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
@@ -125,14 +143,16 @@
       "time": "2026-08-17T09:42:00+00:00"
     },
     {
-      "text": "There Are Few Witnesses to Tupac Shakur’s Drive-by Shooting",
-      "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Is Using Autocheck Cheating? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNckJvSUZHekJ3enpTUlcwS2NGamNkZVRld2xDMW5iV21IZEhCSXowaHFyaXFrd0tXVHUtMU1xai0yQURfWjhEU21oNW0wcjRUYndZLUw1OHNtTG5fSTVkU2NIdGt3RzV0X2Uwa1RyMmx3R2Jkc2R5TTRjR1JKZXRxMVF3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:03:01+00:00"
-    },
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T09:03:15+00:00"
+    }
+  ],
+  "col3": [
     {
       "text": "How Ukraine’s Satellites Help Drive Its War Drones",
       "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
@@ -140,27 +160,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:02:10+00:00"
+      "time": "2026-08-17T11:12:14+00:00"
     },
     {
-      "text": "How Louisiana’s New Surgeon General Wants to Transform Public Health - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vR3IxOUVUbnB6QWRXbkh5TWp5ZWJNblNhUHNheTk4R3g5d1Rzd0lJWkhVRDIycmZmN2RlTXdWWHRjcUlWemwzWkp6WFduWm5wM1JYQzhDakVoeWN3azVLeE1TdTB3SnpmUFVUYVpFWWxIRk1ROXlBWjBzZmg0dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T09:00:48+00:00"
-    }
-  ],
-  "col3": [
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T10:57:47+00:00"
+    },
     {
-      "text": "Trump Ice Maiden Hit With New Imposter Plot After Embarrassing Breach - The Daily Beast",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUN1UXp2aDd6dzZuUjE5OHNNSDg4S1VJTjdVX1p1WXF3blFLQVZVbTRoVUxFYlhkampKM25HY0pXUXVmOWtfcC03Z2ZCS2F4Y0paTzczZHlNWWJUdVpiclBBX3J2VXlJVC0zOHVUQU8wcUJPT1JfVFV5R1dINDJwNEotU3JkVE5sSjNzN0Z2eGZfODBDazNPUy1aaEl4QlpzTlo4dEdsQUFZMkppV1luS1ZjQXI5RHdNRjVfNFVUY1NRdV9ndDRER05R?oc=5",
+      "text": "Hayden Panettiere, actor known for \"Heroes\" and \"Remember the Titans,\" dies at 36 - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlb3c4N0FQV1dJRDVMSnlySGN2T25DUFRfalV1SG5IVGFWQmFlaEdBWGdia2d3dE5tY240TjlJSVk1Q25WRmlrVHZMS1dBNG1pbzdQajIwUGl2VVg2eTNGTFVsQ0g1ZFZ0QXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T10:32:00+00:00"
+      "time": "2026-08-17T10:46:00+00:00"
     },
     {
       "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
@@ -172,40 +190,22 @@
       "time": "2026-08-17T10:13:09+00:00"
     },
     {
-      "text": "Stock Market Today: Tech Stocks Set to Gain, Oil Holds Steady — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0o3amtJdlNTb29WZnUxdllSLUhseTJQT09kV1V3MktIQXlvQndNNDVzX2tibmhORXJBMU9mQjQtWjIwUTVyeHFoNHlnMDJ6VUZaZHByY1FLaDhwVktwZjJ6U01heDh6dk5TMk1JZ3VwSDUtOFlfc2lEbnhFMUhGSlZuUy05d2M?oc=5",
+      "text": "Stanford neuroscientist seeks to crack the code of the human brain and our emotions - CNN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTW5JeEpqRWQ5N2JPT1pQYkVqd2dtMTB4QnRRMlc5RC1lV1dQSUJmb3BST2hvbk1WR3R5bDl6M3loT3FLZDNlRzRTOTZZbjBwd2lZdmw2RWxtYmIyeFU1Q0Q1YlhsVjNCbVBXYVFnZ1ZObi00ZFg4Nld2SHUzdXBmU0pqZ3NoYkFlYmZOc0lvLVZHcTV1bDQxVm9TZzZ2UmZrbmRTX0kyLXUzb18wTVhnMg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T09:30:00+00:00"
+      "time": "2026-08-17T09:19:34+00:00"
     },
     {
-      "text": "How Silicon Valley Fell Back in Love With Bombs",
-      "url": "https://www.nytimes.com/2026/08/17/opinion/silicon-valley-war-pentagon.html",
+      "text": "There Are Few Witnesses to Tupac Shakur’s Drive-by Shooting",
+      "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:02:54+00:00"
-    },
-    {
-      "text": "What Do Students Lose When They Stop Writing?",
-      "url": "https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:01:05+00:00"
-    },
-    {
-      "text": "How Islamophobia Moved From the Fringe to the Mainstream in Texas",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:00:31+00:00"
+      "time": "2026-08-17T09:03:01+00:00"
     }
   ]
 }
