@@ -1,35 +1,46 @@
 {
-  "generated_at": "2026-08-17T22:43:44.903825+00:00",
+  "generated_at": "2026-08-17T23:03:58.489148+00:00",
   "lead": {
-    "text": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports",
-    "url": "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-17T22:38:08+00:00",
+    "text": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+    "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-17T22:52:11+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump’s South Korea move rattles foreign policy world",
-      "url": "https://thehill.com/homenews/administration/6034269-us-south-korea-military-exercises-cut/",
+      "text": "Trump voted by mail in Florida primary election: Report",
+      "url": "https://thehill.com/homenews/administration/6034201-trump-returns-mail-in-ballot/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-17T22:35:34+00:00"
+      "time": "2026-08-17T22:39:27+00:00"
     },
     {
-      "text": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
-      "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T22:31:32+00:00"
+      "text": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports",
+      "url": "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T22:38:08+00:00"
     },
+    {
+      "text": "Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys",
+      "url": "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T22:37:18+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "'All hell broke loose,' witness tells court of Tupac shooting as murder trial begins - BBC",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNTM1VElJaDFkWm9PdXJHMkNNY2JFRjVnVEdzdm5sblJRQ0dvMWFuZDlTZEZKX0drZnlONHFkN1pTYjRPM1hkR0JwUTk4ZUlVbmJTeERn?oc=5",
@@ -38,26 +49,24 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T22:27:32+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
-      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T22:18:51+00:00"
     },
     {
-      "text": "Florida Race to Replace Byron Donalds Features Candidates Who Have Already Run for Congress",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/florida-byron-donalds-election.html",
+      "text": "What It Will Take to Win the 2028 Democratic Presidential Nomination",
+      "url": "https://www.nytimes.com/2026/08/17/opinion/democratic-presidential-primary-2028.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:50:29+00:00"
+      "time": "2026-08-17T22:03:26+00:00"
+    },
+    {
+      "text": "Trump Threatens a Middle East Mediator",
+      "url": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T21:47:25+00:00"
     },
     {
       "text": "Trump dismisses USS Lincoln criticism and snaps at CNN reporter to ‘be quiet’ - The Guardian",
@@ -78,42 +87,42 @@
       "time": "2026-08-17T21:29:01+00:00"
     },
     {
-      "text": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
-      "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger | CNN Business - CNN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHg1b2I4eHVLWmVROUZNY2pMVmVsRk9uSWp2RDJEN0dfTlJRZXItNzVrM3NpalhfUGpEVHF0R1J1TjhPbFozbHE5eE5GMVcwTF82dzJIQlFpYWtMRUhFUk05YWR2VFhPS2YyTUdyZTFwSk5PYUpaRWZRZTI3TFo2bWJMM1BBTXJVWnNCdU1RZDFoMkgtcElHUmVB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:13:00+00:00"
-    },
-    {
-      "text": "How One Woman With a Very Rare Disease Secured a Clinical Trial",
-      "url": "https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:17:31+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T21:17:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "What It Will Take to Win the 2028 Democratic Presidential Nomination",
-      "url": "https://www.nytimes.com/2026/08/17/opinion/democratic-presidential-primary-2028.html",
+      "text": "Trump to Travel to Myrtle Beach to Rally for Darline Graham",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/south-carolina-senate-runoff-graham-norman-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T22:03:26+00:00"
+      "time": "2026-08-17T22:19:44+00:00"
     },
     {
-      "text": "Trump Threatens a Middle East Mediator",
-      "url": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Hayden Panettiere and Brian Hickerson Forced to Keep Rekindled Romance Quiet - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWUyS05UNXJwX2RKaEFmQnVGVGhTWEZOa0hxNXJiZDE4b0xRMTdOWVFGR0FFNGtyVDdlUlRYS2tIbjFuNThkckhKS01URDRlYUFhck1YZmlfTkJCdXpjNWxvUk1oU0Y0QU45T0VYR2QzZ19ycEkzTkJoc2Rnb2ZhQm90ZWNOVk9pM2l1M1RqcFRYSzdvS1pfQjFadUQ5aUVEaXVv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:47:25+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T21:58:14+00:00"
+    },
+    {
+      "text": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mRGllUHJHcXdSTXlIMXpwU1NkU0VDdUl2TDVsWlVySGNVM2pmTUpiZFpBeFRienpjUHlvbDFLTzFxdTJ0aVgyYU9PQTlxZ0VOcXVleGdGWjlpd0JRR0hRZ2tOVlBKRU9xSkU1VXdwR094dHlnX09pTUtjNVR2N1nSAYQBQVVfeXFMTjdrMXFlRGhacXFzY1lKVTdoZ3lZcmhheWZVY181M3Jsb1I2MFBmVU5wU3o2NXFoTTl0VUF2bnYyZ0VrSnNwdWRJbVZpMmNCbjNfUzB4ZzFSVjhLeUl0ZWlBTVdCNFd3RkVQbkNhNjE4MnpOY181UHJ4WTd1ZzdEamRXdXNx?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T21:47:22+00:00"
     },
     {
       "text": "Mary Peltola Shakes Up Campaign Staff Days Before Alaska’s Senate Primary",
@@ -134,42 +143,42 @@
       "time": "2026-08-17T21:26:36+00:00"
     },
     {
-      "text": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News",
+      "text": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T20:48:00+00:00"
-    },
-    {
-      "text": "Stock Market Today: Indexes End Lower to Begin New Trading Week as Oil Prices Rise; Memory Shares Outperform - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlDaXE0ODlUNVY5b25xb3dORk1yYXcyc1JXa1N1Rjd6NzNwN1ZyUmptSFNPR1hnbjVVNXBsbkVlb1k3aGZwZEZUS0dJSmRpdzc3SjEyeTlDSkYwN1J2blo3S1hjSEdkWUZpTHFOb1dLVHpTYkdaX3p3MGtUUi1fMTA1ZGJuRlROS0JVZGJuYmU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:15:50+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Hayden Panettiere and Brian Hickerson Forced to Keep Rekindled Romance Quiet - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWUyS05UNXJwX2RKaEFmQnVGVGhTWEZOa0hxNXJiZDE4b0xRMTdOWVFGR0FFNGtyVDdlUlRYS2tIbjFuNThkckhKS01URDRlYUFhck1YZmlfTkJCdXpjNWxvUk1oU0Y0QU45T0VYR2QzZ19ycEkzTkJoc2Rnb2ZhQm90ZWNOVk9pM2l1M1RqcFRYSzdvS1pfQjFadUQ5aUVEaXVv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
+      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:58:14+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T22:18:51+00:00"
     },
     {
-      "text": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mRGllUHJHcXdSTXlIMXpwU1NkU0VDdUl2TDVsWlVySGNVM2pmTUpiZFpBeFRienpjUHlvbDFLTzFxdTJ0aVgyYU9PQTlxZ0VOcXVleGdGWjlpd0JRR0hRZ2tOVlBKRU9xSkU1VXdwR094dHlnX09pTUtjNVR2N1nSAYQBQVVfeXFMTjdrMXFlRGhacXFzY1lKVTdoZ3lZcmhheWZVY181M3Jsb1I2MFBmVU5wU3o2NXFoTTl0VUF2bnYyZ0VrSnNwdWRJbVZpMmNCbjNfUzB4ZzFSVjhLeUl0ZWlBTVdCNFd3RkVQbkNhNjE4MnpOY181UHJ4WTd1ZzdEamRXdXNx?oc=5",
+      "text": "Florida Race to Replace Byron Donalds Features Candidates Who Have Already Run for Congress",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/florida-byron-donalds-election.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T21:50:29+00:00"
+    },
+    {
+      "text": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:47:22+00:00"
+      "time": "2026-08-17T21:45:00+00:00"
     },
     {
       "text": "‘The slowest negotiators ever’: How lagging South Korean investment pledges are hurting its U.S. security relationship - Politico",
@@ -190,22 +199,13 @@
       "time": "2026-08-17T21:23:29+00:00"
     },
     {
-      "text": "What We Know About Damages From Hurricane Lala in Hawaii",
-      "url": "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "How Ukraine’s Satellites Help Drive Its War Drones - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:28:03+00:00"
-    },
-    {
-      "text": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:02:21+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T20:38:44+00:00"
     }
   ]
 }
