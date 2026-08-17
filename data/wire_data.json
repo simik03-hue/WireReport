@@ -1,63 +1,81 @@
 {
-  "generated_at": "2026-08-17T22:01:36.893224+00:00",
+  "generated_at": "2026-08-17T22:43:44.903825+00:00",
   "lead": {
-    "text": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner",
-    "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-17T21:58:28+00:00",
+    "text": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports",
+    "url": "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-17T22:38:08+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "60 days after signing Iran deal, Trump stuck in quagmire as peace talks stall - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW11cldIazMtZ3FxdFMxclNuV2E0bkxXS1NQTW5fdlVtTmk4WWgyemVPSEJvOE5VWk5RRS1PckxxOWtqdURsOTJ0YTcxZERta1lkSm1UbkQ5TXpMRGh2UEw4NzIwa3kxZ2R2MkgtSk1EbTRsaGplZnpLdGJWcmM1ci1FTXJlM2tkZk1rcmxGbS0xS2J5UWJpQm9RbFdYVjViOWdGbWNLb2NzdTNmaUtLeTFjZG1PVUN4S1JlZEhOOA?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-17T21:54:00+00:00"
-    },
-    {
-      "text": "US gas prices reach highest ever recorded for August amid stalled talks with Iran - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjI5OW1tb2c1aEp6NnZGNTNwcXhmSDY4QUpGT2hCRFFnR08wVjlqZ0Q2TkszLV9qbDNkZFMzdHgwV3Y1dzBBbGdhNmhkME5ENWxLbmJ6R1JoZU10Q3JmU0JGV1RDM0N2VWhMX3phZEJoc3N6S1RaaHRPcWpjOEF5NjE3MHA2Q3Zr?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-08-17T21:50:00+00:00"
-    },
-    {
-      "text": "CBP halts Big Bend National Park border construction",
-      "url": "https://thehill.com/newsletters/energy-environment/6034193-cbp-halts-big-bend-national-park-border-construction/",
+      "text": "Trump’s South Korea move rattles foreign policy world",
+      "url": "https://thehill.com/homenews/administration/6034269-us-south-korea-military-exercises-cut/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-17T21:47:33+00:00"
+      "time": "2026-08-17T22:35:34+00:00"
+    },
+    {
+      "text": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
+      "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-17T22:31:32+00:00"
+    },
+    {
+      "text": "'All hell broke loose,' witness tells court of Tupac shooting as murder trial begins - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNTM1VElJaDFkWm9PdXJHMkNNY2JFRjVnVEdzdm5sblJRQ0dvMWFuZDlTZEZKX0drZnlONHFkN1pTYjRPM1hkR0JwUTk4ZUlVbmJTeERn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T22:27:32+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Mary Peltola Shakes Up Campaign Staff Days Before Alaska’s Senate Primary",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html",
+      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
+      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:36:10+00:00"
+      "time": "2026-08-17T22:18:51+00:00"
     },
     {
-      "text": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "text": "Florida Race to Replace Byron Donalds Features Candidates Who Have Already Run for Congress",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/florida-byron-donalds-election.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:23:29+00:00"
+      "time": "2026-08-17T21:50:29+00:00"
+    },
+    {
+      "text": "Trump dismisses USS Lincoln criticism and snaps at CNN reporter to ‘be quiet’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWnFMUUVYSk0yeUZYcjJFQmExcUxxLTVQZ2NaWDJGR3lUTFFVWnEtQXlNX0ZqM2ZLc3RMbGw2enM1UE9FRGItem1NNmNISWNzZ0hQV0lHOUVCeU1jYjFnR2pCdU9QSlI0cmhOVFFuWWVVZ25HU0FxbEJxZW9SMkxtYU1nWlRnb3FJVDlncjNKNHlMeTV5?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T21:39:00+00:00"
+    },
+    {
+      "text": "Kindergarten vaccine exemptions jump to another record high - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzlFUlhjR0ZXV0M2NHFzU2czc0pYQlBSczNLbzhLZ0hiRVczQ2pWdllNT3YzU3VjcTVjZ0dGQnd4cWpDQUhkQklzaUE4cFJGWVE2ekJ1N3E0OXNQZGVRRk9zOXk1MnZRcjgwQkpHVUMwWkhiS3lqMjhoYmwtLTUtUERYWWhCQTMybWt2RlpUN09DVjFzWnJPYzFPSFhNS1VxOXJHekhYM1pxQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T21:29:01+00:00"
     },
     {
       "text": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
@@ -67,24 +85,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-17T21:13:00+00:00"
-    },
-    {
-      "text": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:48:00+00:00"
-    },
-    {
-      "text": "What We Know About Damages From Hurricane Lala in Hawaii",
-      "url": "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:28:03+00:00"
     },
     {
       "text": "How One Woman With a Very Rare Disease Secured a Clinical Trial",
@@ -98,61 +98,32 @@
   ],
   "col2": [
     {
-      "text": "Kindergarten vaccine exemptions jump to another record high - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzlFUlhjR0ZXV0M2NHFzU2czc0pYQlBSczNLbzhLZ0hiRVczQ2pWdllNT3YzU3VjcTVjZ0dGQnd4cWpDQUhkQklzaUE4cFJGWVE2ekJ1N3E0OXNQZGVRRk9zOXk1MnZRcjgwQkpHVUMwWkhiS3lqMjhoYmwtLTUtUERYWWhCQTMybWt2RlpUN09DVjFzWnJPYzFPSFhNS1VxOXJHekhYM1pxQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:29:01+00:00"
-    },
-    {
-      "text": "Tupac Shakur Murder Trial: Takeaways From Day 1",
-      "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html",
+      "text": "What It Will Take to Win the 2028 Democratic Presidential Nomination",
+      "url": "https://www.nytimes.com/2026/08/17/opinion/democratic-presidential-primary-2028.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:20:24+00:00"
+      "time": "2026-08-17T22:03:26+00:00"
     },
     {
-      "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
-      "url": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
+      "text": "Trump Threatens a Middle East Mediator",
+      "url": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:05:53+00:00"
+      "time": "2026-08-17T21:47:25+00:00"
     },
     {
-      "text": "How Ukraine’s Satellites Help Drive Its War Drones - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:38:44+00:00"
-    },
-    {
-      "text": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:20:00+00:00"
-    },
-    {
-      "text": "Democratic Socialists Look for Upsets in Hostile Territory: Florida",
-      "url": "https://www.nytimes.com/2026/08/17/us/florida-primaries-democratic-socialists.html",
+      "text": "Mary Peltola Shakes Up Campaign Staff Days Before Alaska’s Senate Primary",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:14:16+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-08-17T21:36:10+00:00"
+    },
     {
       "text": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
       "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
@@ -163,40 +134,69 @@
       "time": "2026-08-17T21:26:36+00:00"
     },
     {
-      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
-      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "text": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T20:48:00+00:00"
+    },
+    {
+      "text": "Stock Market Today: Indexes End Lower to Begin New Trading Week as Oil Prices Rise; Memory Shares Outperform - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlDaXE0ODlUNVY5b25xb3dORk1yYXcyc1JXa1N1Rjd6NzNwN1ZyUmptSFNPR1hnbjVVNXBsbkVlb1k3aGZwZEZUS0dJSmRpdzc3SjEyeTlDSkYwN1J2blo3S1hjSEdkWUZpTHFOb1dLVHpTYkdaX3p3MGtUUi1fMTA1ZGJuRlROS0JVZGJuYmU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T20:15:50+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Hayden Panettiere and Brian Hickerson Forced to Keep Rekindled Romance Quiet - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWUyS05UNXJwX2RKaEFmQnVGVGhTWEZOa0hxNXJiZDE4b0xRMTdOWVFGR0FFNGtyVDdlUlRYS2tIbjFuNThkckhKS01URDRlYUFhck1YZmlfTkJCdXpjNWxvUk1oU0Y0QU45T0VYR2QzZ19ycEkzTkJoc2Rnb2ZhQm90ZWNOVk9pM2l1M1RqcFRYSzdvS1pfQjFadUQ5aUVEaXVv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T21:58:14+00:00"
+    },
+    {
+      "text": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mRGllUHJHcXdSTXlIMXpwU1NkU0VDdUl2TDVsWlVySGNVM2pmTUpiZFpBeFRienpjUHlvbDFLTzFxdTJ0aVgyYU9PQTlxZ0VOcXVleGdGWjlpd0JRR0hRZ2tOVlBKRU9xSkU1VXdwR094dHlnX09pTUtjNVR2N1nSAYQBQVVfeXFMTjdrMXFlRGhacXFzY1lKVTdoZ3lZcmhheWZVY181M3Jsb1I2MFBmVU5wU3o2NXFoTTl0VUF2bnYyZ0VrSnNwdWRJbVZpMmNCbjNfUzB4ZzFSVjhLeUl0ZWlBTVdCNFd3RkVQbkNhNjE4MnpOY181UHJ4WTd1ZzdEamRXdXNx?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T21:47:22+00:00"
+    },
+    {
+      "text": "‘The slowest negotiators ever’: How lagging South Korean investment pledges are hurting its U.S. security relationship - Politico",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORjBPXzBRV2Vxd21LZFdyY0lZX0lpMnQtVEFubmx6dXNpTWstdFp0aGozUHJaYjRFVFdtbnVWQ1J5RTRiTFo5NTdoWWw5Yzg0UTBZT0V0cE9FWFFqMWVFQno5MmRZTkZZWXJSN0t6QVRNQTFudVhiY0JmZEx2bm5sQ2dDY0xWMTFLT3F1QU9ZOVAwZWFUSjQza2pCa2xYUmpfTl9ReWtLSXlTLTBqWEFXeTRUY3NSeWNodm5HblY0NUxnT2tKOERYR1gtTzZfdXdaV2J5UUF1Y2RSLXh4aWpCR3oxcHI4WXo0eVIzNlFnUk9NV0U?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T21:30:00+00:00"
+    },
+    {
+      "text": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:14:45+00:00"
+      "time": "2026-08-17T21:23:29+00:00"
     },
     {
-      "text": "Family says Massachusetts mother who killed children struggled with mental illness - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblNYRFVuUkNLVkR1TllUNHJTX215TERYSnZ0ckZaQzM1Q2VrMEQxc0ktT0otM2FfeGtUT0hhWXhEV1diRVh2aF8zak4tSDhDd2xxaWtCZXdSNHJ4cVV5M0tNQWNneV9KZWloekxob2pfOG4yMTZzWGlVZHZiRVZmeDd3X1NaM2hhQ0RXc3BwY0ozakMtUjlBX3VQTWNtbzBYYkVqaXBMSEc1OUdvNzBHekZwazk0RGR5eFNlUDVaR1BnOWVHUFdBNw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "What We Know About Damages From Hurricane Lala in Hawaii",
+      "url": "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:50:43+00:00"
-    },
-    {
-      "text": "Buss family agrees to sell remaining Lakers ownership stake to Josh Kushner, Bob Iger group - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2xOMFhRQkdEZzc0TmNoOWEtV04zRElJaDdpc2FzVmlORVBtNC1rQlVaWnhCUHJDYU9JaU01LWU4SlZ5VDZmdkVlS3JzMjM5dVR2SlZXR0FvWktSZHdxSXdXN3E2RXFlNFI3MjFuNGpuUXFtR19WUWVySkxiUFlRS2RDejktMzRPTkpDcU9teW5GWV81Q3NuWXotYjM3RlBFZmM0N1REbEFjNEVmaUpjVkpRbEEyLTlfS2I5b9IBwgFBVV95cUxOdThrSFJhdzBPVHFNM3BpUEhrN3J4T0NoNnp0X1o3V0YtVkZaTERSQUwxQ2FIUHFIQktsNU9kNlh5OTFUR2hFMF9Qa2pYbXMzdnJNOHlPOG1ONDZlaFJuaHBQWDZ3UDNKR1JuaDRIX3lkYjZaMVA3TnQtVzRudHhYaW1XLUJYaW1OOFQxellyNWhpSGMtX3p4VnNSQm9iVVlUa09SVndRV2QyRW15dnRSQmhhSXloVHRPQ1FFc00wZDBqUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:32:00+00:00"
-    },
-    {
-      "text": "How Louisiana’s New Surgeon General Wants to Transform Public Health - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vR3IxOUVUbnB6QWRXbkh5TWp5ZWJNblNhUHNheTk4R3g5d1Rzd0lJWkhVRDIycmZmN2RlTXdWWHRjcUlWemwzWkp6WFduWm5wM1JYQzhDakVoeWN3azVLeE1TdTB3SnpmUFVUYVpFWWxIRk1ROXlBWjBzZmg0dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:18:47+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T20:28:03+00:00"
     },
     {
       "text": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
