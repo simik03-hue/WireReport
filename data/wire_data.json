@@ -1,102 +1,55 @@
 {
-  "generated_at": "2026-08-17T23:03:58.489148+00:00",
+  "generated_at": "2026-08-17T23:41:02.102045+00:00",
   "lead": {
-    "text": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
-    "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
-    "source": "CNBC",
+    "text": "Navy awarded $22.9B contract to Raytheon to accelerate Tomahawk missile production",
+    "url": "https://thehill.com/policy/defense/6034283-navy-raytheon-tomahawk-contract/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-17T22:52:11+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-17T23:37:16+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump voted by mail in Florida primary election: Report",
-      "url": "https://thehill.com/homenews/administration/6034201-trump-returns-mail-in-ballot/",
-      "source": "The Hill",
+      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
+      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T23:36:03+00:00"
+    },
+    {
+      "text": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-17T22:39:27+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-17T23:28:54+00:00"
     },
     {
-      "text": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports",
-      "url": "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html",
+      "text": "What That $20 Burrito Says About the Psychology of Inflation",
+      "url": "https://www.nytimes.com/2026/08/17/opinion/inflation-affordability-prices-burrito.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T22:38:08+00:00"
-    },
-    {
-      "text": "Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys",
-      "url": "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T22:37:18+00:00"
+      "time": "2026-08-17T23:23:44+00:00"
     }
   ],
   "col1": [
     {
-      "text": "'All hell broke loose,' witness tells court of Tupac shooting as murder trial begins - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNTM1VElJaDFkWm9PdXJHMkNNY2JFRjVnVEdzdm5sblJRQ0dvMWFuZDlTZEZKX0drZnlONHFkN1pTYjRPM1hkR0JwUTk4ZUlVbmJTeERn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T22:27:32+00:00"
-    },
-    {
-      "text": "What It Will Take to Win the 2028 Democratic Presidential Nomination",
-      "url": "https://www.nytimes.com/2026/08/17/opinion/democratic-presidential-primary-2028.html",
+      "text": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T22:03:26+00:00"
+      "time": "2026-08-17T23:07:53+00:00"
     },
-    {
-      "text": "Trump Threatens a Middle East Mediator",
-      "url": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:47:25+00:00"
-    },
-    {
-      "text": "Trump dismisses USS Lincoln criticism and snaps at CNN reporter to ‘be quiet’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWnFMUUVYSk0yeUZYcjJFQmExcUxxLTVQZ2NaWDJGR3lUTFFVWnEtQXlNX0ZqM2ZLc3RMbGw2enM1UE9FRGItem1NNmNISWNzZ0hQV0lHOUVCeU1jYjFnR2pCdU9QSlI0cmhOVFFuWWVVZ25HU0FxbEJxZW9SMkxtYU1nWlRnb3FJVDlncjNKNHlMeTV5?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:39:00+00:00"
-    },
-    {
-      "text": "Kindergarten vaccine exemptions jump to another record high - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzlFUlhjR0ZXV0M2NHFzU2czc0pYQlBSczNLbzhLZ0hiRVczQ2pWdllNT3YzU3VjcTVjZ0dGQnd4cWpDQUhkQklzaUE4cFJGWVE2ekJ1N3E0OXNQZGVRRk9zOXk1MnZRcjgwQkpHVUMwWkhiS3lqMjhoYmwtLTUtUERYWWhCQTMybWt2RlpUN09DVjFzWnJPYzFPSFhNS1VxOXJHekhYM1pxQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:29:01+00:00"
-    },
-    {
-      "text": "Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger | CNN Business - CNN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHg1b2I4eHVLWmVROUZNY2pMVmVsRk9uSWp2RDJEN0dfTlJRZXItNzVrM3NpalhfUGpEVHF0R1J1TjhPbFozbHE5eE5GMVcwTF82dzJIQlFpYWtMRUhFUk05YWR2VFhPS2YyTUdyZTFwSk5PYUpaRWZRZTI3TFo2bWJMM1BBTXJVWnNCdU1RZDFoMkgtcElHUmVB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:17:00+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "Trump to Travel to Myrtle Beach to Rally for Darline Graham",
       "url": "https://www.nytimes.com/2026/08/17/us/politics/south-carolina-senate-runoff-graham-norman-trump.html",
@@ -105,24 +58,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-17T22:19:44+00:00"
-    },
-    {
-      "text": "Hayden Panettiere and Brian Hickerson Forced to Keep Rekindled Romance Quiet - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWUyS05UNXJwX2RKaEFmQnVGVGhTWEZOa0hxNXJiZDE4b0xRMTdOWVFGR0FFNGtyVDdlUlRYS2tIbjFuNThkckhKS01URDRlYUFhck1YZmlfTkJCdXpjNWxvUk1oU0Y0QU45T0VYR2QzZ19ycEkzTkJoc2Rnb2ZhQm90ZWNOVk9pM2l1M1RqcFRYSzdvS1pfQjFadUQ5aUVEaXVv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:58:14+00:00"
-    },
-    {
-      "text": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mRGllUHJHcXdSTXlIMXpwU1NkU0VDdUl2TDVsWlVySGNVM2pmTUpiZFpBeFRienpjUHlvbDFLTzFxdTJ0aVgyYU9PQTlxZ0VOcXVleGdGWjlpd0JRR0hRZ2tOVlBKRU9xSkU1VXdwR094dHlnX09pTUtjNVR2N1nSAYQBQVVfeXFMTjdrMXFlRGhacXFzY1lKVTdoZ3lZcmhheWZVY181M3Jsb1I2MFBmVU5wU3o2NXFoTTl0VUF2bnYyZ0VrSnNwdWRJbVZpMmNCbjNfUzB4ZzFSVjhLeUl0ZWlBTVdCNFd3RkVQbkNhNjE4MnpOY181UHJ4WTd1ZzdEamRXdXNx?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:47:22+00:00"
     },
     {
       "text": "Mary Peltola Shakes Up Campaign Staff Days Before Alaska’s Senate Primary",
@@ -134,33 +69,42 @@
       "time": "2026-08-17T21:36:10+00:00"
     },
     {
-      "text": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
-      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
+      "text": "How One Woman With a Very Rare Disease Secured a Clinical Trial",
+      "url": "https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T21:26:36+00:00"
+      "time": "2026-08-17T20:17:31+00:00"
     },
     {
-      "text": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:48:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
-      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "text": "Border Construction in Big Bend Is Halted After Drawing Criticism",
+      "url": "https://www.nytimes.com/2026/08/17/us/big-bend-border-wall-texas-construction.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T22:18:51+00:00"
+      "time": "2026-08-17T19:30:25+00:00"
+    },
+    {
+      "text": "Hayden Panettiere Is Dead: Star of ‘Remember the Titans’ and ‘Heroes’ Was 36",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T16:42:21+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports",
+      "url": "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T22:38:08+00:00"
     },
     {
       "text": "Florida Race to Replace Byron Donalds Features Candidates Who Have Already Run for Congress",
@@ -172,24 +116,6 @@
       "time": "2026-08-17T21:50:29+00:00"
     },
     {
-      "text": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:45:00+00:00"
-    },
-    {
-      "text": "‘The slowest negotiators ever’: How lagging South Korean investment pledges are hurting its U.S. security relationship - Politico",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORjBPXzBRV2Vxd21LZFdyY0lZX0lpMnQtVEFubmx6dXNpTWstdFp0aGozUHJaYjRFVFdtbnVWQ1J5RTRiTFo5NTdoWWw5Yzg0UTBZT0V0cE9FWFFqMWVFQno5MmRZTkZZWXJSN0t6QVRNQTFudVhiY0JmZEx2bm5sQ2dDY0xWMTFLT3F1QU9ZOVAwZWFUSjQza2pCa2xYUmpfTl9ReWtLSXlTLTBqWEFXeTRUY3NSeWNodm5HblY0NUxnT2tKOERYR1gtTzZfdXdaV2J5UUF1Y2RSLXh4aWpCR3oxcHI4WXo0eVIzNlFnUk9NV0U?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:30:00+00:00"
-    },
-    {
       "text": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
       "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
       "source": "NYT",
@@ -199,13 +125,87 @@
       "time": "2026-08-17T21:23:29+00:00"
     },
     {
-      "text": "How Ukraine’s Satellites Help Drive Its War Drones - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T20:38:44+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T20:02:21+00:00"
+    },
+    {
+      "text": "Hayden Panettiere: A Life in Pictures",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-life-in-pictures.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T19:22:20+00:00"
+    },
+    {
+      "text": "Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T15:38:46+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys",
+      "url": "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T22:37:18+00:00"
+    },
+    {
+      "text": "Trump Threatens a Middle East Mediator",
+      "url": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T21:47:25+00:00"
+    },
+    {
+      "text": "What We Know About Damages From Hurricane Lala in Hawaii",
+      "url": "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T20:28:03+00:00"
+    },
+    {
+      "text": "‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent",
+      "url": "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T19:53:24+00:00"
+    },
+    {
+      "text": "Hayden Panettiere’s Best Performances: Where to Stream",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-nashville-heroes-streaming.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T19:02:41+00:00"
+    },
+    {
+      "text": "Elizabeth Smart Is Rethinking the True-Crime Podcast",
+      "url": "https://www.nytimes.com/2026/08/17/arts/elizabeth-smart-kidnapping-podcast-true-crime.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:02:31+00:00"
     }
   ]
 }
