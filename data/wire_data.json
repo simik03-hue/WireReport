@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-08-17T09:59:15.537639+00:00",
+  "generated_at": "2026-08-17T10:44:00.018295+00:00",
   "lead": {
-    "text": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
-    "url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
-    "source": "CNBC",
+    "text": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+    "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-17T09:46:08+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-17T10:39:24+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "text": "Who Is the New White House Counsel?",
+      "url": "https://www.nytimes.com/video/us/100000011088612/who-is-the-new-white-house-counsel.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:42:00+00:00"
+      "time": "2026-08-17T10:33:59+00:00"
     },
     {
-      "text": "More than 180,000 without power in Hawaii, 100 homes damaged as Lala weakens to tropical storm",
-      "url": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
+      "text": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
+      "url": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T09:37:37+00:00"
+      "time": "2026-08-17T10:31:33+00:00"
     },
     {
-      "text": "Trump orders Pentagon to cut back military exercises with South Korea",
-      "url": "https://www.cnbc.com/2026/08/16/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T09:30:31+00:00"
+      "text": "Kushner Meets Netanyahu in Effort to Break Logjam Over Gaza",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T10:20:37+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T10:13:09+00:00"
+    },
     {
       "text": "Trump’s Overture to North Korea Strains Alliance With the South",
       "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
@@ -49,62 +58,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-17T09:05:33+00:00"
-    },
-    {
-      "text": "There Are Few Witnesses to Tupac Shakur’s Drive-by Shooting",
-      "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:03:01+00:00"
-    },
-    {
-      "text": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:02:10+00:00"
-    },
-    {
-      "text": "How Islamophobia Moved From the Fringe to the Mainstream in Texas",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:00:31+00:00"
-    },
-    {
-      "text": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd21KS2xQcXVlUjVJbkpxeFRiVlVXU1Jxd3FxekNfV1Vab01xd2luRHR3M0ZGd1UzMFNza2NpaElXRWt5NnJWX3J5YkpWMVZQZ2M3a1VxUzFnZEdKdVIyd0Y0Y0ZtMk53eklZRlRqMmpTN3hsSzRKZmR4U25xVWp5UjhCRE9DYU5velo0RkVmN3VuczUzMnM3Y25wcG5HYU5jbDdHX0Y5aF9lbUJ6ZG01amVoazcyUlhkeEtaV1g4UTZkbzIwYktqNThZVGZTM0pS?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T08:28:00+00:00"
-    },
-    {
-      "text": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaE1MaXJmaVEyMmx6U3JIRFdZd3JYSFdrWktWZTF5djd4enRjU01uYXNMU1hRbHlJM1htYUg5aWtLcWJkM1VsdWpIcVg0NnBWV1AyVnVDYzh4MmRwT3JXcE5mUV9KZlBkTHF0YUZzUGZPeUtzQUF0elRibnhReTJ0N0JRMnB1MTBzYW5ucEs2RFZMbzNFWm1SeVB4QjQtNmdIaW5FSVNhNXN6TEhRT0RGYlJWeXU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T04:02:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Democratic Socialists Look for Upsets in Hostile Territory: Florida",
-      "url": "https://www.nytimes.com/2026/08/17/us/florida-primaries-democratic-socialists.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:03:46+00:00"
     },
     {
       "text": "How Silicon Valley Fell Back in Love With Bombs",
@@ -134,33 +87,33 @@
       "time": "2026-08-17T09:00:29+00:00"
     },
     {
-      "text": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
-      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+      "text": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T06:06:50+00:00"
-    },
-    {
-      "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T04:01:19+00:00"
+      "time": "2026-08-16T20:40:41+00:00"
     }
   ],
-  "col3": [
+  "col2": [
     {
-      "text": "Who Is the New White House Counsel?",
-      "url": "https://www.nytimes.com/video/us/100000011088612/who-is-the-new-white-house-counsel.html",
+      "text": "U.S. and Iran Blow Past War Deadline, and the Rise of Islamophobia in Texas",
+      "url": "https://www.nytimes.com/2026/08/17/podcasts/the-headlines/us-iran-deadline-war-islamophobia-texas.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:03:19+00:00"
+      "time": "2026-08-17T10:00:15+00:00"
+    },
+    {
+      "text": "Democratic Socialists Look for Upsets in Hostile Territory: Florida",
+      "url": "https://www.nytimes.com/2026/08/17/us/florida-primaries-democratic-socialists.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:03:46+00:00"
     },
     {
       "text": "Share Your Experiences With the Public Health System in Louisiana",
@@ -181,31 +134,78 @@
       "time": "2026-08-17T09:01:04+00:00"
     },
     {
-      "text": "Actor Hayden Panettiere, known for roles in ‘Heroes,’ ‘Nashville,’ dies at 36 - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbW81QV9vWlA0V0ZDZG9ib2JxNnY1bVV6ZzFWMDkxcjNrSjhTTk84aTZ5TjB2cEJRZnEyTWllblllcWlsMUx3ZnZaLTEwNG81YUl3NUQwSkhUb25WcVV2WTB3MDhWdDlram5BbmVseTE5SE5TZnhHWGdrZjRZaXp1d0JNeXliTVhmMEh0OXNLWk9EbTNfVUlUQk9yUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T08:41:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T06:06:50+00:00"
     },
     {
-      "text": "Emerging markets march out of 'valley of tears' as investors diversify - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnd0RVpValp4eGxvUHVzNGN2WFFiaDNlVERObGN6QVRER1lPdGxLYUNuakFvNFFBTi0zVWVHSUJOWEZadzVPdkR0T2Z2YnBRaGtDTC1Bc3A4MmRlMDRUQzh0TnRGOXk0eDBrTXBYRGtKSWF6OVd2OTRwbzQ4VmFNMXNCOVBSNmo5ZGs0WVRxbTNWb2dqRnFmRGMzTWZncExkVGFGRjlaNk4xdldVa25hMkNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T06:04:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T16:14:13+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:42:00+00:00"
     },
     {
-      "text": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXFCNkNqdm5DWnVZMmxKVjdwcHhvNTVic3BKblBhOEZCdDN0d0tLTzdNM0ZyOXpDSGNjZFBhWVRxS0V3a2VyOElsQUpyd040WmZpc1ItS1J1cnkwaXBVMEVLQ3lrWUVHSzNjOXB0b05idG9qSnIxbDFkOUNQVVc0QkctSTl1RHRMMnY1bQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "There Are Few Witnesses to Tupac Shakur’s Drive-by Shooting",
+      "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T04:01:15+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:03:01+00:00"
+    },
+    {
+      "text": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:02:10+00:00"
+    },
+    {
+      "text": "How Islamophobia Moved From the Fringe to the Mainstream in Texas",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T09:00:31+00:00"
+    },
+    {
+      "text": "China Wants Its Data to Power the World’s A.I.",
+      "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T04:01:07+00:00"
+    },
+    {
+      "text": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+      "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-16T09:00:38+00:00"
     }
   ]
 }
