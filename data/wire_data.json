@@ -1,46 +1,102 @@
 {
-  "generated_at": "2026-08-17T14:35:48.596917+00:00",
+  "generated_at": "2026-08-17T15:05:26.805126+00:00",
   "lead": {
-    "text": "Want to 'live comfortably' in your state? How much you have to earn, per a new study",
-    "url": "https://thehill.com/business/personal-finance/6032428-want-to-live-comfortably-in-your-state-how-much-you-have-to-earn-per-a-new-study/",
-    "source": "The Hill",
+    "text": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-17T14:33:21+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-17T15:04:24+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Blanche: Trump administration may seek Supreme Court intervention in state voter rolls fight",
-      "url": "https://thehill.com/regulation/court-battles/6033159-todd-blanche-donald-trump-voter-rolls-supreme-court/",
+      "text": "Retired colonel knocks Trump order to cut back on 'critical' joint exercises with South Korea",
+      "url": "https://thehill.com/policy/defense/6033148-trump-cedric-leighton-south-korea-joint-military-exercises/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-17T14:32:38+00:00"
+      "time": "2026-08-17T15:03:28+00:00"
     },
     {
-      "text": "Nvidia backs financing for OpenAI data center in Ohio",
-      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "text": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+      "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T14:30:32+00:00"
+      "time": "2026-08-17T15:00:13+00:00"
     },
     {
-      "text": "Hope in action is connecting with the future of US politics",
-      "url": "https://thehill.com/opinion/campaign/6030546-young-elected-officials-network-gathering/",
-      "source": "The Hill",
+      "text": "This little-known cancer screening stock is about to get a big boost, Jefferies says",
+      "url": "https://www.cnbc.com/2026/08/17/this-little-known-cancer-screening-stock-is-about-to-get-a-big-boost-jefferies-says.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-17T14:30:00+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-17T15:00:10+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "The Democrats Aren’t in Tea Party Territory — Yet",
+      "url": "https://www.nytimes.com/2026/08/17/opinion/el-sayed-ocasio-cortez-mamdani-sanders.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T15:00:05+00:00"
+    },
+    {
+      "text": "Live updates: Kushner meets Netanyahu after talks with Hamas on stalled Gaza peace plan - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T14:47:00+00:00"
+    },
+    {
+      "text": "Nvidia to invest $100bn for OpenAI data centre in Ohio - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOEdXR1M2dHNQbklPaU5lV1ZnZUNqS09yWVQzQkhmTnFGQVE3QmlzNG9neFhZekpNeVRhN2xneFVDTl9tRmRXZXc4UU9sLXFsbHVzUDVSajhnV3Qya3ctZHFXUXlTWEU1X0xFZlZpZUx4MGRDa3pVUkVmY1lDeDdnUWNfYmk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T13:57:59+00:00"
+    },
+    {
+      "text": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of retail earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2t1QktzNGVzSjR4cHdxUWtSX2Y1VUVmT2l5UVotajl2WjBvaFFxU29HREZHYXMtR0FPZVZtUkpnQWdNTXNCbHdLNHI3ZU55Xy1xOWRjdFVjdFl5cjdnWHd4T3NObEFaejhXdnh2a2JkRFRIWXdTVkZtODdMTEdnTDNFNGJOYmt1RUJBaGVycFhneUhwcG1MZXB2TXFBUWNJOXRRdmRlNGhseFU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T13:32:26+00:00"
+    },
+    {
+      "text": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83 - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qWVBYeno2UV9nVjZhdFZWaFJQOE1FbDZVZWxGZ25IMnNra0lUbU1uNUxVb1ViQXlsMk9hN3NUSnhtci1WX1FGZ2dONVdUeEprUDI3cUlDRW1mLVJwUlliZnB0bFRUQUsxNDRoSGFkam5CZGlodTMtOWxsVQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T13:27:00+00:00"
+    },
+    {
+      "text": "Hayden Panettiere’s Death Under Investigation After Apparent Overdose - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzhEdmpkQzZmZWw1SjRFWmI1TTFILXdwb3J4TEt5dno2TGdORmRZNlhWalpaSXE2RTQxSjhoUXQtR1pHNGpybmlQb1BGTy1TbzZ5Tjg5b0o5WnRhWU43QV9WTmZoNUgwYkhmdHZyLWF0WFJoLUFsbjdIMlVrRWJKUExCM1NrUjJ6cHV6MmZHQ3JQeWZtMEh5VWh6UUFpNWM5RHZZXzB3RzJXdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T12:52:37+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "Supreme Court Again Refuses Trump’s Request to Review Carroll Judgment",
       "url": "https://www.nytimes.com/live/2026/08/17/us/trump-news/275fea82-9350-5fdb-a0e9-d98777a69ca8?smid=url-share",
@@ -48,34 +104,34 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T14:20:30+00:00"
+      "time": "2026-08-17T14:57:24+00:00"
     },
     {
-      "text": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6blA1SkQxWFV2b2ZxTDlMRkNyWWFTUnpRZnpIbE1WUUJwUV84bjYwUWkyWHJMOXFub3BCQ3ZmalE0dHlUd21xMXRSRUpwZUdqZkh3ZDVQa3lSZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T13:58:38+00:00"
-    },
-    {
-      "text": "Live Updates: Trump threatens to bomb Oman with Iran war stuck in stalemate as 60-day negotiation period ends - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjB6cEFBa2hwQ1ZKNUFmMmxtSEJhNnpITnQ0LTNzdUNoWUZvMy1tV3FxVkR3UlJ2VHpFQ1JVQlNiN2FhNVpvam1pZkNrY0pvajRCandGNjVYUG9QSUxyd3o4U1gzYWtHOE5xSmltVlVwY2lfcVlVVU0xaUwzdFZROURnTERwQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T13:39:00+00:00"
-    },
-    {
-      "text": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "text": "Hayden Panettiere Is Dead: Star of ‘Nashville’ and ‘Heroes’ Was 36",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T13:31:46+00:00"
+      "time": "2026-08-17T14:45:38+00:00"
+    },
+    {
+      "text": "Supreme Court turns away Trump’s latest bid to block E. Jean Carroll award - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmhNQm9BTEFGRGxFMDVlUHpOYnRnbzBUb2t1OXFYdFBEN2Q4TmdQc2ZDYkhoaG0wbENTakJUVklFTTlmNkNNaFplNElobnJISzJDc3gxbmotZlZVZ21TUWZ3dVRJWF9QenprczZUUXRqNlphbnlyOFloWjVlTUpQcjlueU9VeGo0QlV4bmlSZzBqQ1BISy10LUJaTzNTN29PYzd2aEhHZ2xLYlpiR0hQSjYxNTA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T13:32:51+00:00"
+    },
+    {
+      "text": "Thousands await aid after deadly Indonesia quake as rescue work under way - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaDRPUWs1ZS1KUnNranE5V3VfQlI5azRXR3RnSkRyQ044ZWdWVW9sTWpiajgtUV9uT191Y0RqdXdzQUlvY1ZtTGZ3NndKOURUUVMtQ21yUy1CcmliYjVkYlhEUExKQzFwTl9wdWxOSHhpeTNOU2dWSWVma3cwZkVoSVNFQU1CVjVER1E3T2gtZHNDeVRETDE5YkRKcllWMmZxanJnb3lFVzRNVkZsVF9kRmJKWlnSAboBQVVfeXFMTXFjbV9RUWROMUZINUZTMFBpYS1BWFR3WDNoZkl4ZkZmQnJaalRvVzdZdFFtWnRhbk50YUU1WUxyWUxTTEpWT0o0TUpDQ25fQ2hUaTY5MjY2U1NVZ2NnaFF6WFFPdTBuMFhwZS1WcFJ1Qi1iLXhpa0EydkJqdjVvdWpQREhxWUdZN0NiUHJwV3BXem5BZWNtR1pQSUFEZjBfcXRQMnRucUFvdDNqLWlONE4zZ0o5dzZNYnNR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T13:32:04+00:00"
     },
     {
       "text": "Islamophobia’s Rise in Texas: ‘I Won’t Rest Until Every Muslim Is Gone’",
@@ -87,16 +143,25 @@
       "time": "2026-08-17T13:04:30+00:00"
     },
     {
-      "text": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T12:47:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T12:48:00+00:00"
     }
   ],
-  "col2": [
+  "col3": [
+    {
+      "text": "Killings Plunge in a City Once Known for Violence",
+      "url": "https://www.nytimes.com/2026/08/17/us/baltimore-historic-decline-murder-homicide.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T14:51:19+00:00"
+    },
     {
       "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
       "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
@@ -105,15 +170,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-17T14:04:28+00:00"
-    },
-    {
-      "text": "US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T13:56:50+00:00"
     },
     {
       "text": "How Ukraine’s Satellites Help Drive Its War Drones",
@@ -134,7 +190,7 @@
       "time": "2026-08-17T13:31:00+00:00"
     },
     {
-      "text": "'Polyester’ is Gen Z’s newest viral insult. Here’s what it means. - usatoday.com",
+      "text": "'Polyester’ is Gen Z’s newest viral insult. Here’s what it means. - USA Today",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkpUZi14Ry04LUFzdmlSVzZUVnIyRHdzXzZSMVVMSUh6cktwbWxBbDZoWVI2bnNZeTBFSTZEbE9tOUtpUVE2VlpHOUhFaVdSZXFaYzFQQzljUWkzWmtVZktBSmNUQWRhNjhrbVpRLVpmZVhEb1daOGwwaVdGR0Jvc1AtSnJyMmNiTlZ2MHVqNnFDSEZ6Nl9GMGJDc00yN1o1bF9xcG9DUEFXTjJERVkxMS16RkNKdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -143,69 +199,13 @@
       "time": "2026-08-17T12:55:00+00:00"
     },
     {
-      "text": "Hayden Panettiere’s Death: No Signs of ‘Foul Play or Suspicious Circumstances,’ Police Say - Variety",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjJldTNNX1dHWkl3S0hnbHp1YkJOTHVjekVYSU9QX0NYNjBpOGNSOTVIY0t4LWVNNDBELUFhWHdROGFDaldNNUJXNllXX3dIMHZ4MGlYazRBQU5MVEE1RmR3dDhhTzlRM3NybkhYYm92WllTTkdoM2pSdWpBZkQ2VllobWh0NDJrUVYxZTFNZExYeTVGQ2EyQXZ0T2VrclVGOW9GSUdjbw?oc=5",
+      "text": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T12:45:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Hayden Panettiere Is Dead: Star of ‘Nashville’ and ‘Heroes’ Was 36",
-      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T14:02:47+00:00"
-    },
-    {
-      "text": "Futures mixed in a big week for retailers as new questions rise over the consumer state of mind - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T13:51:00+00:00"
-    },
-    {
-      "text": "Murder Drops to Historic Lows in Baltimore",
-      "url": "https://www.nytimes.com/2026/08/17/us/baltimore-historic-decline-murder-homicide.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T13:32:22+00:00"
-    },
-    {
-      "text": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads. - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFVLazlzX1NtOFpMY0toT3YxZUVqTXIwRVFrMVl6aW5BOXluYk9DX3lERmpQTVIxWEd0VEFlSmplcHNBeVI3c21RS25IRHpIVzdFdEJRUm1HTmhoTUNFQldwUlNkdnJYVk92S2RyeFljYnBHdy1veGlLTWRXQVhfSlM0Z2NnQmI1alk5UzN4eWo0MTNWcXB3YmhpTmcyRmxYSXVoNW9yZWJaTmNsdEtqa1VKYVlITXREeDFWUVd0SVpQV1RwV0lHaWxJanhrM2RDZW1jQ0NZcHdlN3dSS0Nv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T13:30:00+00:00"
-    },
-    {
-      "text": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T12:48:00+00:00"
-    },
-    {
-      "text": "Silicon Valley Was Right From the Start",
-      "url": "https://www.nytimes.com/2026/08/17/opinion/silicon-valley-war-pentagon.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T12:16:10+00:00"
+      "time": "2026-08-17T12:47:00+00:00"
     }
   ]
 }
