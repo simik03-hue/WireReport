@@ -1,54 +1,128 @@
 {
-  "generated_at": "2026-08-17T04:04:52.556562+00:00",
+  "generated_at": "2026-08-17T05:00:19.244515+00:00",
   "lead": {
-    "text": "Ukraine-Russia war latest: Seven dead as Kyiv blows up ‘Russian Amazon’ hub in largest drone attack of 2026 - independent.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelRzWHNFMVBHUDZPeGpleHRQa2d4cHBzT01CTlNJNE53YnZkSUNRZ3R2Q05mclVzeVkwcGFyazAzVmwwMk1ORnhCUE4zTTFmdGd5UWloaHU2eGl5eFVkZHZfR1dpcTR4ZmpJTE53R0llaHdtalJNcFlodGtLcjlJWDV5WHg5Njg5b25lZG05MlV1OTg0b0pqRkFKaW1xa2RLOXVieWgzTmZDbVcwclZZ?oc=5",
-    "source": "Google News World",
-    "lean": "unrated",
+    "text": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
     "topic": "world",
-    "sourceNote": "Aggregated Google News World topic feed.",
-    "time": "2026-08-17T03:45:23+00:00",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-17T04:50:56+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
+      "text": "Landslide in South Korea kills one as record rain lashes south",
+      "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-17T04:34:09+00:00"
+    },
+    {
+      "text": "Aussie rules footy players referred to police as detectives investigate sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-17T04:30:15+00:00"
+    },
+    {
+      "text": "Stock futures mixed after S&P 500 posts three-week win streak: Live updates",
       "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T03:24:51+00:00"
-    },
-    {
-      "text": "Hayden Panettiere, ‘Heroes’ and ‘Scream’ Star, Dies at 36 - Variety",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGtIYW9jTnZSa3Y4LWQ2Z3Q3emt5YnZJWUNJOGJiTEprbmNqaEcycXhiWlFOa0Flc0cyV1RzLVoxZExndlFET2FxVXhFa3FxR3dzQ3JVVDZjcEVZYXREeGhQaTRSQW9QaG5uSFpEWmhpTkdDd3VUUnZPbkxSdHhVNUtFb1NrMHRYcXB1Zg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T03:12:00+00:00"
-    },
-    {
-      "text": "Navy considers major aircraft carrier revamp to better suit Trump’s aesthetic",
-      "url": "https://thehill.com/policy/defense/6032559-navy-reviews-carrier-island-design/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-17T02:58:32+00:00"
+      "time": "2026-08-17T04:26:38+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Trump says US to scale back South Korea military drills after it stayed out of Iran war - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
+      "text": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T04:21:45+00:00"
+    },
+    {
+      "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T04:01:18+00:00"
+    },
+    {
+      "text": "Indiana Prepares for More Rain After Days of Deadly Storms",
+      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T02:51:03+00:00"
+    },
+    {
+      "text": "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3pudXRqNnUwX0YweUlVc2RJd3B4Z3MtSG1nbHhfNTJqUkszejg5eG1rNk1xUlZteUxGaFQyUk8zTnR3Q3hSREh1UzhTdGdCUk1JZlpsSmVyTl9aQXZKd0d5MFRLLUVxdVdPWHBid08xX1BOY1BSZVFXMlpzX3I3cm9wejFqaG5sTGZQeE1BVGxlQWRGTXlrWHZLWkEtQms4WlFMdGJiS2HSAa4BQVVfeXFMTjVnSzNFQTRWQTBCaHJEOWFtbl9IUHZDeUw1eHNHcVVnZmlrZHgtOU00OEItX3JrUUotM3dUNFcxTEhJYk81RVpUaUZjQUNqYmdDLXgtY0xWMHlQMGhIZnFMX2pMaTBjQk14T0dUUEg5QWNJOElyOGRTZ3lOVTMwOVdJbHN2OURKN2VBUWJBRjFsTHV6OUludUlfSTR1Ny00dnRNUUlaOGRHSHAwVVp3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T02:51:27+00:00"
+      "time": "2026-08-17T01:48:58+00:00"
+    },
+    {
+      "text": "‘That’s the standard’: Mikel Arteta hails Arsenal’s desire on blue day for Maresca - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0lTRnZ1b0o2bG5EdlY2dFd2cTEtM0l4b0FRamVBQVlGbVNjY290NDhhd0JBVVAxMXA5SmFvWlUwMzVldzk0amJUN1hPZjlkZ01qZlBVWkY5OEMxdFpUU1B5NkQtVDRZZk5pR2pOR1poc041ZUFxTHdCTUpiMThUMndXSExvenVHbWozSXExUkV2cHl2U0RQaUxYUDBuTm1XeEh6WHVnVi1Wdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T01:30:00+00:00"
+    },
+    {
+      "text": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T00:31:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVlaa1lVSUduRVQzZ29UdnNWWFZUd3Zra2tVRU9qRURhMER0dFR6UjFmVElkQ1BMVDZrM1NkMVdkS1FpblItUmVsaUZ0YTAwblc2cDE5VVA3QjU3YmpsUlJFSERJQnZndnc5dHB3aHQweGRJUGZQcmhQY3g2amlubmtjamJpZEp6bnRfUlN6Y3h2MFdwNnFBUm40ekdfazR3bWd2MkdnZzJPYXNLYVRwU2N0OFhtb0E4OGpkcEhPMVc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T04:07:00+00:00"
+    },
+    {
+      "text": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle",
+      "url": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T04:01:15+00:00"
+    },
+    {
+      "text": "Von Miller agrees to deal with Cowboys - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTktqcXBUSWJVZ1JNVDhBcDVDQ2l6LWZpUHM5SWExWWZJN2NDTnJCTTRTa0I3UFBCa3BVR0xIOFdHTFJrNk5lOHpSTDEtR0VXR3U0UThSdDZjbHI0UVRtbVRpRDJqVmY4eDdKZ04tc1J4bWMwNHo4ZmpHQ2MwNldodklXNVVyZzBhbG5HaDVRX2pNbng1SkZIWUNoaDZGOTBlUHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T02:37:30+00:00"
     },
     {
       "text": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
@@ -60,13 +134,13 @@
       "time": "2026-08-17T01:47:33+00:00"
     },
     {
-      "text": "Von Miller signing with Cowboys on 1-year deal, source says - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeF82VjYyNTFTMUJkeU1mWVpGdHdGQ3BSR1R6NmttU0FVN3h0M2JjcnhVWm1HT3llWXE0TEppUW9KZEF5SFlQVTBEZGJVNjVZcG1kc3JxSk93WFV1NmRndVFzbUh3WWdVNWFKTzdhenlCRUxVRC1MSFJGemRLSWtEZC1ITGpQblNaT3VaTg?oc=5",
+      "text": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWROUVpER01icVpRNkFQbm5fRzlzVUEtVWdzU2lybTFHR1lRSnpTUGZfM3d3ejBkbWVPc2p3SHI2djBlM29PMmp5ZnQ3bE5FQngwUWVoWDcySUJvblN6MWFQanQyNllQMVRlLXJ0ckNpX1B3OHJLcldRcm5pMGVyTkVZSkJJVk5iRWhVT1FJZl9hcmdId191c2ppcWZDa2Y1VjROck1ZajJjcVJ6b1E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T01:10:00+00:00"
+      "time": "2026-08-17T01:23:45+00:00"
     },
     {
       "text": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations - CNBC",
@@ -76,83 +150,27 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T00:15:00+00:00"
-    },
-    {
-      "text": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T23:54:11+00:00"
-    },
-    {
-      "text": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWcwLVRpOGozZy03czk4c0I1N2RSY1RmZWJXQmY0dzJUS3dzM1E3WHVTYkpHODN4TkdPOFowXzhQaDZrQ3FNLWMwZTJnLW9YZzh5VGJhNnlzU0FCZUVGUzZWdnlhdGxYNGJOOTNWRlczNGQzVmJvWVZoOHRfT004eGlMdnFJUdIBiwFBVV95cUxPRTVFNURYZFJKRWR0XzZOMnJmSThnLUJ1MzB2VVlHdURnWkY3MVJWbEljZm5Jd3hmX3pPMU45Q1JIemQ5enlRM1N0blNYcEpUTl9Fc3g4VzgzbS1nTnlUa0ZQak40VDk5MldkUGx1YUxaSk9qcW9CWXJVSzY5U1lrQjVtU3pTcGFoNU1R?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T21:54:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Indiana Prepares for More Rain After Days of Deadly Storms",
-      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T02:51:03+00:00"
-    },
-    {
-      "text": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2dqMUJIcWdndGVfSXlVeDRKbmkzU3hrTTRyeXBrSWR3NGtUNzNkSm54X19kcDNBNzJBaVV0NEJTNVdLVVRrUlNHLXZETnFwMEIyekJhOTduVWxZQWZyVW5WQ0xua1ByTDc0OG1B?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T01:45:00+00:00"
-    },
-    {
-      "text": "Mamdani Speaks Mandarin to Promote Broadway, and Gets Good Reviews",
-      "url": "https://www.nytimes.com/2026/08/16/nyregion/mamdani-mandarin-video.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T01:07:36+00:00"
-    },
-    {
-      "text": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlh3R1RCX0k4M1dOLWNNWGczNHdyQ2dJWVR6WkhPa21udHl1aFRFS1Z6M1M2S01JUTZpNkhPOURFQzBMSzZTWDVRR1htQUUtbnM1Q1lkQXhIVUQ3NVBfd3FzN2FLT043YmlHdWpQTDJwRTBkRzk4a1E5b2JWTUw2Q2drZGRyYzBQUEppSHlfdmFoWHRSRjV3MDdYc1ZwQ1ZRczk0RUJmblhRVWxIMlpZemlkOFY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T00:10:16+00:00"
-    },
-    {
-      "text": "Tropical Storm Lala rakes Hawaii with high winds and rain without making landfall - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJWdmptUWhHamR5OFQ2ckI0Qlk5YjRIcnBNa1dCdzNBaktSdnNtdHhLNHFZNlE3VHZWa1JMWVpMTWN2dkhuemhVT1VRSGxLNXRYZ2M3aHB2cnpvZW5nS2FqMHBsTXpHVGNqYWl5SXRfblFETEFTT3ExeTVYNEtBNlhrYnkzSi1tU3FKcGRSRmh5OHZvUFJ2LU9wZTJyUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T23:42:00+00:00"
-    },
-    {
-      "text": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10SzdSZUZuNEVRWmtycDdjWFRsRUhoZ0dlXzdZa2Y4X0dCdWFNYUVacXVtWEJCeUNiQkJhdG4tdEROQldYSTdEQ0Y2OXRmTkZJdEcycGd6N2pld3RiS3ZZTW9lM1JrWEJfTWk4V0xHTklBNjJhcmlV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T21:53:31+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "Hayden Panettiere dies at 36 - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zSjV5eGxNbk1wWUlEX0trWENkcE90aUtQQ3c2YVVXT05lbHJFYjB3bjd6NVFXM2Y5YnloR2JhaFRUUjl1Ym13MEozamxLeWhuNnlkUzFPaS1DdEgySlZHNUEyc1ZrMWZSMUdpRDJOUzRpMEVrOWfSAXtBVV95cUxOa0lEdXdRSVBuaS1vazlmNXhzeTVuSGhnVXpxdDNGTFJEYTc4cEpGeEJEREw0by00M185SzEyeXZERlU5RnJIbnREZ1RsV0tmNnRpTmtPM3NLblBiS1ZtYndUbGNybDZGdjVrR0dRMlRhbXZ3cFhxT2c0Qms?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T04:03:02+00:00"
+    },
+    {
+      "text": "Weekend Box Office: Spider-Man: Brand New Day Crosses $2 Billion Worldwide - Rotten Tomatoes",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGJCOEJGZGs4QVRMaE5xaVRYZnEwMzd4UzJmUnZIOHNDZXJNX0FhdmxldVJQLUxvcUhWekZHa2RrN3Z6cHlRSHMxUl95aTZUcTZiNm1ncE9SZ05oLXlQQlhqZ2U4R2tvZE9ISGxVRGVUaURYZkd5dm5GZ1ZxeUdnWmFIX1pOSWNGaHZxOEh4eGZiazdlTE5kcmJGa3Y?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T03:07:40+00:00"
+    },
     {
       "text": "‘Lanterns’ Star Kyle Chandler Weighs In On Premiere Twist That Sets In Motion “The Whole Mystery” Of HBO Series - Deadline",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEI3YW5wZF95VV96czVwT3AzZUctR3hvVFg3NFl0c0dzVnpNaVJTY1Fvd2xiSGx3aFdBR1FMTHdNazFQOF9Cd3NwVlVEZ0FpcTFUMmo4WGxHMDVtQk90ZUpiSVJEbHM5MTlTRG9BNFVQR0lmMVpyTHluaHlYaGlycHE5Z1VWNWNTTEk4UUFKS0UzQk5iRG1NVFVvNENzdlE3?oc=5",
@@ -163,22 +181,22 @@
       "time": "2026-08-17T02:15:00+00:00"
     },
     {
-      "text": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWROUVpER01icVpRNkFQbm5fRzlzVUEtVWdzU2lybTFHR1lRSnpTUGZfM3d3ejBkbWVPc2p3SHI2djBlM29PMmp5ZnQ3bE5FQngwUWVoWDcySUJvblN6MWFQanQyNllQMVRlLXJ0ckNpX1B3OHJLcldRcm5pMGVyTkVZSkJJVk5iRWhVT1FJZl9hcmdId191c2ppcWZDa2Y1VjROck1ZajJjcVJ6b1E?oc=5",
+      "text": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T01:23:45+00:00"
+      "time": "2026-08-17T01:38:00+00:00"
     },
     {
-      "text": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
+      "text": "Nic Vansteenberghe Speaks Out After Reuniting with Ex Olandria Carthen at Jordyn Woods' Wedding - E! News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWdSN0l4LUpuRUZYakVpVnJpVHlXUUNqX3hSOTJFaE5XUGU0UmgzU255YWpfTTlwQ2lpdmhzTmx4cVBmN1hVcnNqUlJ0TTRwSmxQMV9MajlSSDVRdFpkUkZkbXdYQ0Jrd2wyRjdsbUJ0UmRhajJueEtaYVlRTW1QOEZXRWJnRnQwZTFveDlKbEFyQUoxM2FrMXRteXFEdmxGSHBHVkE1cFZYa1VHS3pQU0J3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T00:31:00+00:00"
+      "time": "2026-08-17T00:36:00+00:00"
     },
     {
       "text": "L.A. street takeover acts as cover while thieves ransack local business - KTLA",
@@ -188,24 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T00:07:40+00:00"
-    },
-    {
-      "text": "India built the world's biggest digital payments miracle. Now comes the bill - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-16T23:26:30+00:00"
-    },
-    {
-      "text": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-16T21:16:17+00:00"
     }
   ]
 }
