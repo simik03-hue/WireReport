@@ -1,34 +1,110 @@
 {
-  "generated_at": "2026-08-17T19:44:19.495170+00:00",
+  "generated_at": "2026-08-17T20:09:40.780854+00:00",
   "lead": {
-    "text": "This small-cap ETF just hit a fresh high and its members have lots of cash. Wall Street likes these stocks",
-    "url": "https://www.cnbc.com/2026/08/17/this-small-cap-etf-just-hit-a-fresh-high-and-its-members-have-lots-of-cash.html",
+    "text": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+    "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-17T19:44:11+00:00",
+    "time": "2026-08-17T20:04:53+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "U.S. kindergarten vaccine coverage falls, CDC says",
-      "url": "https://www.cnbc.com/2026/08/17/us-kindergarten-vaccine-falls-cdc.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T19:39:53+00:00"
-    },
-    {
-      "text": "Barred From Ballot, a Party Becomes a Vessel for Russians’ Discontent",
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/russia-yabloko-party-election.html",
+      "text": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T19:39:22+00:00"
+      "time": "2026-08-17T20:02:21+00:00"
+    },
+    {
+      "text": "Goldman says AI productivity gains are not here yet. But these stocks will benefit most when they begin",
+      "url": "https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-17T19:59:01+00:00"
+    },
+    {
+      "text": "Democrat Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-08-17T19:53:37+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent",
+      "url": "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T19:53:23+00:00"
+    },
+    {
+      "text": "Buss family reportedly selling remaining 17.8% ownership stake in Lakers to Josh Kushner and Bob Iger - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSDlBanN2aUhjZm9rT2RwWWdleTc1NHJYa2JqOFY4WHh1ZGVub2s5OXE2LXh5QWJNZHpNV3VURnh6MUVRbXVfc2FTbmpBS3Q4TE13VmZLNmFqSTB1cFVZenFGdGhHOTdjNnhPbW12bkNRcWNvbFdrb1pBTFM1bFFuNUI5RXNsaDlLazBTaEpzSnF5RGZwZ1NTUjFVYTY3QUgtUGwtMFZ6TUVMcXVlSFd6cjN2Nmt6NEZiU1hpbVI0RF9qYXpoRnZuQlluZWd3cEx5TXZZaEhhb0lHcElZMEUtZXFWWl85dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T19:37:52+00:00"
+    },
+    {
+      "text": "Ethics Committee probing Jimmy Gomez for ‘inappropriate sexual contact with a House staffer’ - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUkwMXVjdkRSWmdwZW5kR2p0UU5PYkphWEYyZk9OV21nbjRSajNEY2FvMlZpdWVTSnhJYmh1aGpJeFE4aWhZZGVycmdPOGpHYzVCYU9Ja2VpSXVNTmhjWHl3VzQxQ0o5LTR0QUFlOTRlVGFsQzN4RXR1WnhkcHBoWGlITk13aEpfVmtTM2ozbWhBVnBnNjJJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T19:27:11+00:00"
+    },
+    {
+      "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
+      "url": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T19:20:57+00:00"
+    },
+    {
+      "text": "Hayden Panettiere’s Death and Police Investigation: What We Know",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T18:45:56+00:00"
+    },
+    {
+      "text": "Tupac Shakur Murder Trial Live Updates: Opening Statements Begin in Duane Davis Case - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjJaLWZUVm5YTDZ6bG9fYzdVQXhBY0dXbmFRSkxCdGhTYVYtbHZ6b2tGdTdQWnU3XzZPNXh1UkY1VDJ6MkVNSW14WkYxbE5PNmRsYjRMakxPNm9YOTEzX2dmU1lSbnI3OUJEZ084S0RxZzFpeHlKcDdfbzVQeFJxRg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T18:37:37+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+      "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T19:51:10+00:00"
     },
     {
       "text": "What It Will Take to Win the 2028 Democratic Presidential Nomination",
@@ -38,17 +114,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-17T19:34:23+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T19:27:00+00:00"
     },
     {
       "text": "Killings Plunge in a City Once Known for Violence",
@@ -69,42 +134,42 @@
       "time": "2026-08-17T19:06:59+00:00"
     },
     {
-      "text": "House Ethics investigating Rep. Jimmy Gomez over sexual misconduct allegations - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzhfdHJVMDFqWjlZQ3FKX2hVSTNGS1BPcVVmN2ZHZUZBcDVZYTF6U0pnei1aa0pEbzRxRGtlOFdCOFNOTVZwTkRob2JNdFE0WGl4c293YVR3ZDJWWE9aaVRnd19USm5IREtCUGJnOVI5U3RPQWw2NGFrZnNwOGRBeTNveWZoMkwtSlNN?oc=5",
+      "text": "Hayden Panettiere Autopsy Shows No Signs Of Trauma - deadline.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMklHUkg1NWh4dC15YTJzQzRJZTlaWWVPMHlXVWE1d0xjM19tMEdwanlUTngwQnBYRDh2cDZUZW93YUc3WUdQWk5jbmJoTGdHVXpSeExRakxjRUQwT2d5ZGQxb25sSGR6c05OSl9RZ3BfY0l6ZmVaODdWOXFVQ0c5dlpR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T18:53:57+00:00"
+      "time": "2026-08-17T18:45:00+00:00"
     },
     {
-      "text": "Tupac Shakur Murder Trial Live Updates: Opening Statements Begin in Duane Davis Case - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjJaLWZUVm5YTDZ6bG9fYzdVQXhBY0dXbmFRSkxCdGhTYVYtbHZ6b2tGdTdQWnU3XzZPNXh1UkY1VDJ6MkVNSW14WkYxbE5PNmRsYjRMakxPNm9YOTEzX2dmU1lSbnI3OUJEZ084S0RxZzFpeHlKcDdfbzVQeFJxRg?oc=5",
+      "text": "White House fires back at ‘theater kid’ Ossoff - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0M4MEFrR194QmJBRlc5TmhGZ3l3eUlQSzFfRUNjTWIwcVRjYjI2eF9aV0tIT3NEWE81YXZMYUwxNFM0bUVUN0RKX0k1d2xia1pkNEdkQ1NsSEQ1RktDVUV6WFh3cXJFckl2cWozMGUzdDRBNW1mTGJZV0htY2RmdFBZeXEyWFkwM05ZbTRtc2lvVDZsdmtMNnFaWlhRNUpWanBnTmdwaHRYWS1qNlFqN3F0dmgzNknSAbwBQVVfeXFMTS1zYVVJU0c3YlAxMXhhZFhBOFJvcEZHNmd0a0ZUNUE3ZVh6RVk2cm1ubWY5a3pGUXdkR0RsLU9uWTROa2RmRTNXdDAwMEZ2TXlOZ080S1cwN0FHc25xQlVWSm04S1UyM0xiNFpfZDZ3Yk5YZWV6SVNudURNZ1UyZ2VHdkt5d21SWFRwdWMwVG5ndTZ3LVZjZnd1WGUwYlNvcjlZX0lxSU94WENPcDFvUmtlWW5vS0syNmdXeEY?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T18:28:03+00:00"
-    },
-    {
-      "text": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVVVVoaW13VDdmQzlPRlQtcUVuWEFteUlKNlJiT21fUHpZcGt6N2t4cjdzTnJlTGdpR3lLU0pHekVBNU05UzVjLVIybWRjYTgybFVsLWZxb1g5QjVySURUaW1TM0cwMU42cG5Jd1l2UXl4c3pGM3RBbW1TM1A?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T17:52:15+00:00"
+      "time": "2026-08-17T18:13:00+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Teen lifeguard who saved boy at Seabright Beach meets President Trump at White House - ksbw.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmMwV1k0OVp2S0V5TmpKU1NJdG9WZWtZa2JkMEF1WDFkc1hNc2dPMXFqQXpLVThObmoxRXVLLVNvR0VIZXNrRmMxRGVac0M0RWh3X0JjWjdKakJOd0lXWlRUaExZYU5rUzloQ21wTWZqbnJFMFNtQzFpdFMyeGZfbWs4Qko0elVLOFJVc1FpcTJSbE5QZkFiR21R?oc=5",
+      "text": "Barred From Ballot, a Party Becomes a Vessel for Russians’ Discontent",
+      "url": "https://www.nytimes.com/2026/08/17/world/europe/russia-yabloko-party-election.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T19:39:22+00:00"
+    },
+    {
+      "text": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T19:25:00+00:00"
+      "time": "2026-08-17T19:33:00+00:00"
     },
     {
       "text": "Hayden Panettiere: A Life in Pictures",
@@ -125,69 +190,13 @@
       "time": "2026-08-17T19:02:41+00:00"
     },
     {
-      "text": "Hayden Panettiere’s Death and Police Investigation: What We Know",
-      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T18:45:56+00:00"
-    },
-    {
-      "text": "‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent",
-      "url": "https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T18:27:24+00:00"
-    },
-    {
-      "text": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
-      "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T17:48:28+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
-      "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T19:24:53+00:00"
-    },
-    {
-      "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
-      "url": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T19:20:57+00:00"
-    },
-    {
-      "text": "LIV Golf finally admits Team Championship is canceled - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRlRJRkFGVnpiOGh5MWw3ZWFRSGRGanI5d0FSTzJoaGxOVHRwRXFvQ0ZPSmRpcGNpaUJUa3RCSnNDWkNHeHNiWmZwMWt4QTBSd0lIMDJtQnJ4OUtkQWpIR3V3aDRHRXlZVHpTZUJodHBnQ05QSmVLenpXRjVZYUF3WG5kS1dIQk9pVzJaclpjUVFyQQ?oc=5",
+      "text": "Kushner urges Netanyahu to test Hamas disarmament in Gaza - axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LSXVMOU1pN3BJWmVGZHN1OWVYMmpFeDZWLWMyaHNwVXZnbU9FZ1hCOHFTRmMzaHJWbmN5eWEtdnBrZ3BfWnlVWGxWVXJhVHpTWlFZT0RaaTJWTnh5SGlBR0lpM0diY1h4TDltbjVR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T18:55:00+00:00"
-    },
-    {
-      "text": "Trump says US scaling back joint military operations with South Korea - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T18:39:39+00:00"
+      "time": "2026-08-17T18:43:27+00:00"
     },
     {
       "text": "Meta heads to trial over alleged social media addiction, risks to children - foxbusiness.com",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T18:05:53+00:00"
-    },
-    {
-      "text": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T17:44:27+00:00"
     }
   ]
 }
