@@ -1,54 +1,128 @@
 {
-  "generated_at": "2026-08-17T20:46:16.186202+00:00",
+  "generated_at": "2026-08-17T21:32:26.609296+00:00",
   "lead": {
-    "text": "Iraq oil pipeline plan would take years to build, cost billions: Report",
-    "url": "https://thehill.com/policy/energy-environment/6033921-iraq-syria-oil-pipeline-reconstruction/",
-    "source": "The Hill",
+    "text": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+    "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-17T20:45:37+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-17T21:29:34+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
+      "text": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:38:44+00:00"
+      "time": "2026-08-17T21:26:36+00:00"
     },
     {
-      "text": "US Bond Selloff Drives 30-Year Yields to Highest Since 2007 - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzBzWTljUTRfU2V2NHp6X3BxNlNTXzZuZHg2cFZGcVl6TVRUUjM0SUdQSVZZY2hsakhOUHNjV1U2UjNOUk9STWZKb1NnbjdTOFRDRW1ScGVJNVJMc1M5b3VyRnBXTmoyWkY4c0trMEhUTjNEUmsxemJXT2hhbFJjeEZoNXptM2JaZDRodTZJbDFhTWVSaHlHejVzMWZtQWNhd1E?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-08-17T20:34:06+00:00"
-    },
-    {
-      "text": "Progressives to combat Trump’s ‘Donroe Doctrine’ at PanAmerican Congress",
-      "url": "https://thehill.com/homenews/house/6034048-progressives-challenge-trump-doctrine/",
-      "source": "The Hill",
+      "text": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-17T20:33:48+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-17T21:26:13+00:00"
+    },
+    {
+      "text": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T21:23:29+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
-      "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+      "text": "Tupac Shakur Murder Trial: Takeaways From Day 1",
+      "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:32:52+00:00"
+      "time": "2026-08-17T21:20:24+00:00"
+    },
+    {
+      "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
+      "url": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T21:05:53+00:00"
+    },
+    {
+      "text": "What We Know About Damages From Hurricane Lala in Hawaii",
+      "url": "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T20:28:03+00:00"
+    },
+    {
+      "text": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T20:13:32+00:00"
+    },
+    {
+      "text": "Mangione’s State Trial Is Delayed as His Lawyers Seek Dismissal",
+      "url": "https://www.nytimes.com/2026/08/17/nyregion/luigi-mangione-state-trial-delayed.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T19:57:03+00:00"
+    },
+    {
+      "text": "Actor Hayden Panettiere, known for roles in ‘Heroes’ and ‘Nashville,’ dies at 36 - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbW81QV9vWlA0V0ZDZG9ib2JxNnY1bVV6ZzFWMDkxcjNrSjhTTk84aTZ5TjB2cEJRZnEyTWllblllcWlsMUx3ZnZaLTEwNG81YUl3NUQwSkhUb25WcVV2WTB3MDhWdDlram5BbmVseTE5SE5TZnhHWGdrZjRZaXp1d0JNeXliTVhmMEh0OXNLWk9EbTNfVUlUQk9yUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T19:50:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
+      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T21:14:45+00:00"
+    },
+    {
+      "text": "Family says Massachusetts mother who killed children struggled with mental illness - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblNYRFVuUkNLVkR1TllUNHJTX215TERYSnZ0ckZaQzM1Q2VrMEQxc0ktT0otM2FfeGtUT0hhWXhEV1diRVh2aF8zak4tSDhDd2xxaWtCZXdSNHJ4cVV5M0tNQWNneV9KZWloekxob2pfOG4yMTZzWGlVZHZiRVZmeDd3X1NaM2hhQ0RXc3BwY0ozakMtUjlBX3VQTWNtbzBYYkVqaXBMSEc1OUdvNzBHekZwazk0RGR5eFNlUDVaR1BnOWVHUFdBNw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T20:50:43+00:00"
+    },
+    {
+      "text": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T20:20:00+00:00"
     },
     {
       "text": "Kindergarten vaccine exemptions jump to another record high - The Washington Post",
@@ -76,35 +150,35 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T19:43:24+00:00"
-    },
+    }
+  ],
+  "col3": [
     {
-      "text": "What It Will Take to Win the 2028 Democratic Presidential Nomination",
-      "url": "https://www.nytimes.com/2026/08/17/opinion/democratic-presidential-primary-2028.html",
+      "text": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+      "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T19:34:23+00:00"
+      "time": "2026-08-17T21:13:00+00:00"
     },
     {
-      "text": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
+      "text": "How Satellite Advances Are Changing the Game for Ukraine - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T19:33:00+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-08-17T20:38:44+00:00"
+    },
     {
-      "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
-      "url": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
+      "text": "How One Woman With a Very Rare Disease Secured a Clinical Trial",
+      "url": "https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:24:36+00:00"
+      "time": "2026-08-17T20:17:31+00:00"
     },
     {
       "text": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
@@ -125,62 +199,6 @@
       "time": "2026-08-17T19:51:10+00:00"
     },
     {
-      "text": "Barred From Ballot, a Party Becomes a Vessel for Russians’ Discontent",
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/russia-yabloko-party-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T19:39:22+00:00"
-    },
-    {
-      "text": "Prosecution rests in Lindsay Clancy murder trial, mother and sister testify for defense - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3BEUzhtR29Ia1dwR3A2akh0NmVwdHFvb3VvUG1jYktkLUg0ejVXaXhyZ2ZDNGxkYkRhelhENGRDQWNCejlIbEFGb2x5OHBRZ1VlMVFPZDNOMFdlZWdyTkVRWnhTZW5sMm1DWGNBNnRNd2x5MEZobzI0akZWNEFuUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T19:34:20+00:00"
-    },
-    {
-      "text": "Trump tells 10-year-old rescued by teen lifeguard: ‘I don’t know if I’d do it’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFFtT25jbHZEM2NzSm5jVlV6QWdlYS13OXFkalNJNC11NTJ0Rmk1MHNNaXFwTWl1azZxa3ZzeEEwYzFmVDNsSjRWVlgwU0RvZWozVEk1WlpNUmZoMGIyNmU1M2V1M2laZk5wbDBOQzNNbkJ1cGtVbld4RTdpWDhVM1B0VnkwQUdtTzVwZzJmM3l3dnpqd0EwNS00TQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T19:31:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "How One Woman With a Very Rare Disease Secured a Clinical Trial",
-      "url": "https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T20:17:31+00:00"
-    },
-    {
-      "text": "Mangione’s State Trial Is Delayed as His Lawyers Seek Dismissal",
-      "url": "https://www.nytimes.com/2026/08/17/nyregion/luigi-mangione-state-trial-delayed.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T19:57:03+00:00"
-    },
-    {
-      "text": "Actress Hayden Panettiere Was Found In Cardiac Arrest, Coroner’s Office Says - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcU9mWU51VWlrVjB6MUdDSUw1Wk1vVDlGR0NDMHlOc1Bqd0NRSHF4d2ZteTFEZmhseTJYTFh5cWV6bU5zdno4bGd3VkdKTFZTTTJQM29kQlpFUldBaTh6VmltVXVmVDNJcjN0MzI3REVULV8yX1dLYnNnTnhWV3NfajJOakRBeWdpdTM4RUxOd0djTGtVZDMyR2phcDBjOVJIajMyWUxHTENJdl8tZmRnOVpHeTVLLTVVUG9TWlF4MzF4ZThMUGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T19:47:22+00:00"
-    },
-    {
       "text": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
       "source": "Google News",
@@ -188,24 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T19:37:45+00:00"
-    },
-    {
-      "text": "Luigi Mangione’s state murder trial effectively postponed - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wR3dtckQyNDlFOHMxWU9icHJxNnVSTmtLS29OWWs2enlWbjRzeHl2Z25wMjFraU1ZY201WGN3NU5ydjd0WDVkYkVGaDhnVjdIQkhNb3BvMlBVVHRibV9Iblg5UFpsdGVQeUpoSFc3YmhsRENlald6enhR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T19:34:18+00:00"
-    },
-    {
-      "text": "Ethics Committee probing Jimmy Gomez for ‘inappropriate sexual contact with a House staffer’ - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUkwMXVjdkRSWmdwZW5kR2p0UU5PYkphWEYyZk9OV21nbjRSajNEY2FvMlZpdWVTSnhJYmh1aGpJeFE4aWhZZGVycmdPOGpHYzVCYU9Ja2VpSXVNTmhjWHl3VzQxQ0o5LTR0QUFlOTRlVGFsQzN4RXR1WnhkcHBoWGlITk13aEpfVmtTM2ozbWhBVnBnNjJJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T19:27:11+00:00"
     }
   ]
 }
