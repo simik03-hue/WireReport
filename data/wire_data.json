@@ -1,17 +1,64 @@
 {
-  "generated_at": "2026-08-17T12:12:59.158593+00:00",
+  "generated_at": "2026-08-17T13:10:19.478708+00:00",
   "lead": {
-    "text": "Top Zambian opposition figures arrested days after presidential vote",
-    "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-17T12:11:13+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-17T13:07:19+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Islamophobia’s Rise in Texas: ‘I Won’t Rest Until Every Muslim Is Gone’",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T13:04:30+00:00"
+    },
+    {
+      "text": "Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
+      "url": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-17T13:02:32+00:00"
+    },
+    {
+      "text": "Alabama is trying a death penalty bait-and-switch",
+      "url": "https://thehill.com/opinion/criminal-justice/6030682-lethal-injection-nitrogen-hypoxia-lawsuit/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-17T13:00:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T12:48:00+00:00"
+    },
+    {
+      "text": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcnp6dVIwaUtDLUtQcE56Yk9zMU9YQXlCVmxDNU9tZEFsLVJVckE0R0xPYWV5a1ZSTU9fY2FNcU9HZlU0Q20xYlI0MDZJRkQzLTNyYnNtcE82X2F2NEdUUE1COG03RWZIOGJ2a3BOeE4zWmVpQkpOb0p3R1V5bFZXYXJR0gGHAUFVX3lxTFBMcnB4N2lINkxrTkQ2TUtaR2RfMmxSNnhzOFFTWnZrY3dLRzlUeXp0TVlLMFpCZHdjbmx3RkFNUEVYTW9WdHhGZmpYbVV1NENoanlTR2ZkalhlT0RRNTdTd3BaNVFVM0d3VUtheGlsTXYxVl96MXpEZmdEMV9aX2c4MFcyakF2QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T12:19:50+00:00"
+    },
     {
       "text": "Live Updates: U.S. and Iran locked in a stalemate as 60-day negotiation period ends - CBS News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjB6cEFBa2hwQ1ZKNUFmMmxtSEJhNnpITnQ0LTNzdUNoWUZvMy1tV3FxVkR3UlJ2VHpFQ1JVQlNiN2FhNVpvam1pZkNrY0pvajRCandGNjVYUG9QSUxyd3o4U1gzYWtHOE5xSmltVlVwY2lfcVlVVU0xaUwzdFZROURnTERwQQ?oc=5",
@@ -22,13 +69,51 @@
       "time": "2026-08-17T12:07:00+00:00"
     },
     {
-      "text": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-17T12:06:19+00:00"
+      "text": "Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of retail earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2t1QktzNGVzSjR4cHdxUWtSX2Y1VUVmT2l5UVotajl2WjBvaFFxU29HREZHYXMtR0FPZVZtUkpnQWdNTXNCbHdLNHI3ZU55Xy1xOWRjdFVjdFl5cjdnWHd4T3NObEFaejhXdnh2a2JkRFRIWXdTVkZtODdMTEdnTDNFNGJOYmt1RUJBaGVycFhneUhwcG1MZXB2TXFBUWNJOXRRdmRlNGhseFU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T11:41:14+00:00"
+    },
+    {
+      "text": "What Do Students Lose When They Stop Writing?",
+      "url": "https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T11:16:13+00:00"
+    },
+    {
+      "text": "USS Lincoln crisis: How it compares to past aircraft carrier deployments - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktqQTktUjRIdEtXUkJDM0I5bEswN2VmeE9yYUNLTjA2LXo4Y1YtNzhqZHR2RkpiaEs0TE5hQlJmQTI0ZlZxUHhDUnVyVHdPQm9WRnNfOHY5Y2trTnQ3Ym85UEpSSVBteGJGVTU1QUlLcHVYN3N0UFIwdzBOTVUtMHd2djF6dkFwcmM0RnVTMzluWVZKN0NCdmQ2d1VTQTBQYmtfRWlQUlIzcjhCeHlkTENB0gG3AUFVX3lxTE9aaTVJZGphZUlWa0ViREhIOThkbng0a08xR1NMMzlvejU5WlpKZkEtTWlNc1NxUzdNaXV6MVgtTE02SzZFdENqeGl3Y3YtZzk4Zlc0dFNnMFp1X1ZIV1RRSXhNb3NRX01CdFBHYzJJVnNjTTlIT0JNR2VodGxyRzR4dnRSM3pKN00wWHlDMHFHbGdxZmZ4eHhoNmR5ZzlibHZtaFdEUkRSOHM2NFg5SnpaQ0FESnV2SQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T11:03:45+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T12:47:00+00:00"
+    },
+    {
+      "text": "Hayden Panettiere Is Dead: Star of ‘Nashville’ and ‘Heroes’ Was 36",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T12:18:33+00:00"
     },
     {
       "text": "Murder Drops to Historic Lows in Baltimore",
@@ -38,73 +123,15 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-17T12:04:08+00:00"
-    }
-  ],
-  "col1": [
+    },
     {
-      "text": "Live updates: Kushner meets Netanyahu after talks with Hamas on stalled Gaza peace plan - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMS1FenJqYXZEVWlWMHdLX0lUSzdnMmdNVG9rakl3ck5wVGNCVEJHZWc0TlM3dnpvS2lxYldUR1lBek1WUWhOc2ZpbTFZM0w1M1pPOER6czIyWUhTdkl3SmpSMlptTnZUZWU1aXNB?oc=5",
+      "text": "What does ‘polyester’ have to do with Gen Z? Everything, apparently - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkpUZi14Ry04LUFzdmlSVzZUVnIyRHdzXzZSMVVMSUh6cktwbWxBbDZoWVI2bnNZeTBFSTZEbE9tOUtpUVE2VlpHOUhFaVdSZXFaYzFQQzljUWkzWmtVZktBSmNUQWRhNjhrbVpRLVpmZVhEb1daOGwwaVdGR0Jvc1AtSnJyMmNiTlZ2MHVqNnFDSEZ6Nl9GMGJDc00yN1o1bF9xcG9DUEFXTjJERVkxMS16RkNKdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T11:50:00+00:00"
-    },
-    {
-      "text": "How Islamophobia Moved From the Fringe to the Mainstream in Texas",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T11:14:20+00:00"
-    },
-    {
-      "text": "How Louisiana’s New Surgeon General Wants to Transform Public Health - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vR3IxOUVUbnB6QWRXbkh5TWp5ZWJNblNhUHNheTk4R3g5d1Rzd0lJWkhVRDIycmZmN2RlTXdWWHRjcUlWemwzWkp6WFduWm5wM1JYQzhDakVoeWN3azVLeE1TdTB3SnpmUFVUYVpFWWxIRk1ROXlBWjBzZmg0dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T11:01:54+00:00"
-    },
-    {
-      "text": "Who Is the New White House Counsel?",
-      "url": "https://www.nytimes.com/video/us/100000011088612/who-is-the-new-white-house-counsel.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T10:33:59+00:00"
-    },
-    {
-      "text": "U.S. and Iran Blow Past War Deadline, and the Rise of Islamophobia in Texas",
-      "url": "https://www.nytimes.com/2026/08/17/podcasts/the-headlines/us-iran-deadline-war-islamophobia-texas.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T10:00:15+00:00"
-    },
-    {
-      "text": "Revoking Protected Status for Haitian Workers Triggers Labor Crunch in Florida - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTN2U2JobWI3ZDBldl94XzJCdmxvUVJqMy1ReGtuV2MyMDVKbDR1cGpiNkoxa2I5RmJHV3hYcEtTdklRM0JBX1duVjFGaUdOWF9IeDBac0JxS1hfakppNWIxMmtyN3NCb3ZKbVpjOW9PQjlRbmxNLW91d2VDTGdrUnJmU1VVMnhjaE1zM0xvNXhQbm13S2FYUTVjZ3pfalY3bkhhc1NxT3Y5U0xwbGprQUtiUXlWZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T09:30:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Stock Market Today: Tech Stocks Set to Gain, Oil Holds Steady — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0o3amtJdlNTb29WZnUxdllSLUhseTJQT09kV1V3MktIQXlvQndNNDVzX2tibmhORXJBMU9mQjQtWjIwUTVyeHFoNHlnMDJ6VUZaZHByY1FLaDhwVktwZjJ6U01heDh6dk5TMk1JZ3VwSDUtOFlfc2lEbnhFMUhGSlZuUy05d2M?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T11:25:00+00:00"
+      "time": "2026-08-17T11:32:32+00:00"
     },
     {
       "text": "How Ukraine’s Satellites Help Drive Its War Drones",
@@ -116,51 +143,51 @@
       "time": "2026-08-17T11:12:14+00:00"
     },
     {
-      "text": "Trump’s Overture to North Korea Strains Alliance With the South",
-      "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T10:57:47+00:00"
-    },
-    {
-      "text": "Thousands in Indonesia await aid after quake kills 68, overshadowing Independence Day - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5",
+      "text": "A McDonald’s provides normalcy in Ukraine and actor Hayden Panettiere dies: Morning Rundown - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZFJ2VS1VSnVobDdWbDUxTW1XaEpjTFh5eV9tQnRMdmowTS0zMWJqVEN5bnhyRDRUbklFZlljMDFUR2xlOU9TdG95dEhDazlON2FKOTMxb2FJdl9tNUp5V0dUc1VoODF1VTJBRGxIWTg1aEhCaGtFRVdlRUlUTDUxUHV0c2RoaGhvcnp3c1Jia0xRd3BtZnhwZ2N2UTRQUU1kRXlr?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T10:28:00+00:00"
-    },
-    {
-      "text": "Hayden Panettiere, who starred in ‘Heroes’ and ‘Nashville,’ dies at 36 - NPR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvM2FXbWRPV0hIOFpMYk9NMXZERkkzR0pyU3l3cFRxc0V0cXg3dTczbXBrVnFfbGQ0Z2tSSF9MODZTMUd4VHh4TXdwT3JiZS1GNHhvRVo3aWlqREZHcTc2VXlrcUI5bUI4MUpwQmZsS0Vva0JJVEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T10:00:10+00:00"
-    },
-    {
-      "text": "Stanford neuroscientist seeks to crack the code of the human brain and our emotions - CNN",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTW5JeEpqRWQ5N2JPT1pQYkVqd2dtMTB4QnRRMlc5RC1lV1dQSUJmb3BST2hvbk1WR3R5bDl6M3loT3FLZDNlRzRTOTZZbjBwd2lZdmw2RWxtYmIyeFU1Q0Q1YlhsVjNCbVBXYVFnZ1ZObi00ZFg4Nld2SHUzdXBmU0pqZ3NoYkFlYmZOc0lvLVZHcTV1bDQxVm9TZzZ2UmZrbmRTX0kyLXUzb18wTVhnMg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T09:19:34+00:00"
+      "time": "2026-08-17T11:01:58+00:00"
     }
   ],
   "col3": [
     {
-      "text": "What Do Students Lose When They Stop Writing?",
-      "url": "https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html",
+      "text": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T12:46:00+00:00"
+    },
+    {
+      "text": "Silicon Valley Was Right From the Start",
+      "url": "https://www.nytimes.com/2026/08/17/opinion/silicon-valley-war-pentagon.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T11:16:13+00:00"
+      "time": "2026-08-17T12:16:10+00:00"
+    },
+    {
+      "text": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYm9mbUdtalZDRmdZMUswaGFJOUdYLWFralZ1MGlhYU10QTNDLVFnckhEZEtsMm9xWjZzWnhubGRrWF9MSVBHc1NZTVZtakgzMHNsVXp4SEVDRkNZR1BxMUFLeWZxOTM4dDNibTVzSjJJUGZDdUxwQzBlQ2pFNk9JalVnYXgxcmg0NkVLOGhFQzF1dFRqZm04a0dELW96aG91dmM4NVZJekVLQ0o5UmpF0gG0AUFVX3lxTE56UElNd2dtQnVfYi1BM2xLME5FbUpObjNLWEhlSW1Eb1c0cDdlNUJPQS1pSVhiT1QxczQzYV9YRU81SGpsV0tsbW01ZXJGWFhPQWlsRnhuamdsT3IwZ3pFaUtRZ3lqQS0zejZHWURFaUhLaGU3YVhBeWpZSkVfeU9neEl6c0VEdUhxa0hZRW53b1l0UWNVemhwcnpvWFlwOVB4LTdPblhGSVJmcGdfeFZqd2EwUw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T12:00:01+00:00"
+    },
+    {
+      "text": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ta1pWbWUyQU5DV0dEQkFJaTM0QlZtMTZaa1lNWlVNekVwMW1HVDQ2MzVZZ2JsSkRKUUN6WV93d2kxdEM4djBmQ3YtNENkVUVxNHFMUDhHT1NuWlRYSnNueE1tVU5BQTNSSEJxc1NIQTg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T11:25:49+00:00"
     },
     {
       "text": "China Wants Its Data to Power the World’s A.I.",
@@ -172,40 +199,13 @@
       "time": "2026-08-17T11:10:29+00:00"
     },
     {
-      "text": "In a New Memoir, Hayden Panettiere Relives the Drama",
-      "url": "https://www.nytimes.com/2026/05/17/books/review/hayden-panettiere-this-is-me.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "How Louisiana’s New Surgeon General Wants to Transform Public Health - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vR3IxOUVUbnB6QWRXbkh5TWp5ZWJNblNhUHNheTk4R3g5d1Rzd0lJWkhVRDIycmZmN2RlTXdWWHRjcUlWemwzWkp6WFduWm5wM1JYQzhDakVoeWN3azVLeE1TdTB3SnpmUFVUYVpFWWxIRk1ROXlBWjBzZmg0dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T10:56:03+00:00"
-    },
-    {
-      "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T10:13:09+00:00"
-    },
-    {
-      "text": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:42:00+00:00"
-    },
-    {
-      "text": "Democratic Socialists Look for Upsets in Hostile Territory: Florida",
-      "url": "https://www.nytimes.com/2026/08/17/us/florida-primaries-democratic-socialists.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T09:03:46+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T11:01:54+00:00"
     }
   ]
 }
