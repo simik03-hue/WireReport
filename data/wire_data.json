@@ -1,17 +1,26 @@
 {
-  "generated_at": "2026-08-17T05:52:07.157601+00:00",
+  "generated_at": "2026-08-17T07:09:17.522917+00:00",
   "lead": {
-    "text": "Aussie rules footy players referred to police as detectives investigate sexual assault",
-    "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+    "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-17T05:46:45+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-17T07:03:55+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Stock futures mixed after S&P 500 posts three-week win streak: Live updates",
+      "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-17T06:57:46+00:00"
+    },
     {
       "text": "Ukrainian strikes kill six in Russia, acting governor says",
       "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
@@ -19,45 +28,45 @@
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-17T05:38:13+00:00"
+      "time": "2026-08-17T06:57:23+00:00"
     },
     {
-      "text": "Ukraine-Russia war latest: Seven dead as Kyiv blows up ‘Russian Amazon’ hub in largest drone attack of 2026 - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjV3MEVEVW93MEZfTlg0eHp4RlVBQ1NGZVdhUGkzRzQwSnN6VGR1UDVVc1FFSDEtRDMxWVp0enY4ZGN2cFhxaXgtSElIQ1NpX1VwVFU0VVVuTVRYT0lpSUEwMEFoQUV4Rk13SEZKMjFzXzlVczVQOVRyTmN1Rm1Hd3VhNHppQ3p0ODRvempGbkdqSDVvV3BiYW5GVTZtNm5Tb1I5T2w5UDNjdnhtV0JiVDZlNUxJc2pxN2xPMmdBaFc4NjQ?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-17T05:31:03+00:00"
-    },
-    {
-      "text": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
-      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T05:20:52+00:00"
+      "text": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
+      "url": "https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-17T06:52:23+00:00"
     }
   ],
   "col1": [
     {
-      "text": "If Meta loses this trial, Instagram and Facebook could change forever - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ta0VxbEFQYklveGZlcnI2OXZrY1lrS0hfVWx1SzdQWnF3RWZDSHpEZWZySkxueEZRak9pVXB6aTZJMVJuSWE0OElXSTVnTWJlRXJZcEplMW94Zw?oc=5",
+      "text": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T05:00:25+00:00"
+      "time": "2026-08-17T06:24:31+00:00"
     },
     {
-      "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T04:01:18+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T05:28:00+00:00"
+    },
+    {
+      "text": "Ukraine takes aim at Russia’s economy and morale by attacking online retailer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTR4NXhsSDAyenpnMTBiRHA5bHNVUnk2TThUeE0yNU91bGpHWThfdER3MkJQVmlHcWhqR0FvUXE2anlaNkZjLWl4OU1uOS1SVzRaVGJGanN5SjAtYlRZMzhwUDFKZTJycUtHOU1lQ0xCZjhsdDRYaWRhVGtYRHptYkhHR1FmZWlXVkRMX2UxeUhzdXdiVk1mNmcwMVpfYzg5NHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T04:05:00+00:00"
     },
     {
       "text": "Japan’s Economy Keeps Growing, But Weakness Could Vex BOJ - WSJ",
@@ -78,25 +87,25 @@
       "time": "2026-08-17T02:37:30+00:00"
     },
     {
+      "text": "Sirens will sound before detonations bring down Centennial Mills water tower Monday - KGW",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSjhuRjJqbjRDYldqUzlnc1VoSU5KODJRMXJTa1pENVd5a1RCT3hsNFBRWHlHUkJkNmhCUW41dkY4Tk9BTkxPV0poMGxKUG5EVERLQzFaUWc5cEEyUExfMEctX3dtRUdFc09aWWtjYVppeVVuUmhNcWdGaUs2UnhNUUxTeGU2U2Q0cXpTeTYwWjFTU1RhZVdCX1JmWFg2a0d3eUZVX2Z3aU5Dc3dNWFBmQ3FONnhscWZBdGhZZjNMODlNY1RDdFVlZ1JINTZ3NURwQ2VnVk8taXp1Ty1kaFp1VkluUVM3bjRkeUM5a2x3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T01:39:00+00:00"
+    }
+  ],
+  "col2": [
+    {
       "text": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
       "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T01:39:16+00:00"
+      "time": "2026-08-17T06:16:21+00:00"
     },
-    {
-      "text": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWROUVpER01icVpRNkFQbm5fRzlzVUEtVWdzU2lybTFHR1lRSnpTUGZfM3d3ejBkbWVPc2p3SHI2djBlM29PMmp5ZnQ3bE5FQngwUWVoWDcySUJvblN6MWFQanQyNllQMVRlLXJ0ckNpX1B3OHJLcldRcm5pMGVyTkVZSkJJVk5iRWhVT1FJZl9hcmdId191c2ppcWZDa2Y1VjROck1ZajJjcVJ6b1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T01:23:45+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "Bread Rations. Endless Blackouts. How Much More Can Cubans Endure?",
       "url": "https://www.nytimes.com/2026/08/17/opinion/cuba-trump-rubio-venezuela.html",
@@ -107,13 +116,13 @@
       "time": "2026-08-17T05:00:03+00:00"
     },
     {
-      "text": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle",
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
+      "text": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T04:01:15+00:00"
+      "time": "2026-08-17T04:01:18+00:00"
     },
     {
       "text": "Weekend Box Office: Spider-Man: Brand New Day Crosses $2 Billion Worldwide - Rotten Tomatoes",
@@ -134,42 +143,42 @@
       "time": "2026-08-17T02:22:04+00:00"
     },
     {
-      "text": "Sirens will sound before detonations bring down Centennial Mills water tower Monday - KGW",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSjhuRjJqbjRDYldqUzlnc1VoSU5KODJRMXJTa1pENVd5a1RCT3hsNFBRWHlHUkJkNmhCUW41dkY4Tk9BTkxPV0poMGxKUG5EVERLQzFaUWc5cEEyUExfMEctX3dtRUdFc09aWWtjYVppeVVuUmhNcWdGaUs2UnhNUUxTeGU2U2Q0cXpTeTYwWjFTU1RhZVdCX1JmWFg2a0d3eUZVX2Z3aU5Dc3dNWFBmQ3FONnhscWZBdGhZZjNMODlNY1RDdFVlZ1JINTZ3NURwQ2VnVk8taXp1Ty1kaFp1VkluUVM3bjRkeUM5a2x3?oc=5",
+      "text": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWROUVpER01icVpRNkFQbm5fRzlzVUEtVWdzU2lybTFHR1lRSnpTUGZfM3d3ejBkbWVPc2p3SHI2djBlM29PMmp5ZnQ3bE5FQngwUWVoWDcySUJvblN6MWFQanQyNllQMVRlLXJ0ckNpX1B3OHJLcldRcm5pMGVyTkVZSkJJVk5iRWhVT1FJZl9hcmdId191c2ppcWZDa2Y1VjROck1ZajJjcVJ6b1E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T01:39:00+00:00"
-    },
-    {
-      "text": "Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2toQ3FCZUlPcXc4NUlxMk9ZYnFGSVUxVmdRWUZBOWhIUUFXT19WeU9mN3FTX1RyLUdDTmdmVEtfZm5JQTB2MUIwRlUwX05uUlFndUpEU0VBZVlIbjFQaVl1WEprUURYdDlkNjZuZkQwV1lnd3dxc2k2SlA2NGJwRFc1Z3dtSDlhZVl6N1BCWGhkS0QtVDBUTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T00:57:32+00:00"
+      "time": "2026-08-17T01:23:45+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVlaa1lVSUduRVQzZ29UdnNWWFZUd3Zra2tVRU9qRURhMER0dFR6UjFmVElkQ1BMVDZrM1NkMVdkS1FpblItUmVsaUZ0YTAwblc2cDE5VVA3QjU3YmpsUlJFSERJQnZndnc5dHB3aHQweGRJUGZQcmhQY3g2amlubmtjamJpZEp6bnRfUlN6Y3h2MFdwNnFBUm40ekdfazR3bWd2MkdnZzJPYXNLYVRwU2N0OFhtb0E4OGpkcEhPMVc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T04:07:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T06:06:50+00:00"
     },
     {
-      "text": "Hayden Panettiere, who starred in the television series ‘Heroes’ and ‘Nashville,’ dies at 36 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
+      "text": "Asian stocks rise as Japan, China extend gains; tech in focus - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzlibmFOdU1fU2tYdGN4NGtrRU9uQWtsbzZmVzBlV1FOQVRDOVZ3V0hieEk0X2U4ejREMkNqY0V1aWY1cWpEd0VJTm5ib2Mzel80akc4RkFWX3BlaHdxQ09SUk00Y0xHT01BR1FfSXEwNU1OSy1hVDRkWHRZQVBDOVo4OVVMWFF2S2RsclJwMUdtZWF2MThDaEZWd2JDeWdBZmd0S0ExaF9tekdZZDVEbzFTVXg0YTJqZjhhcUlNdXJsZlplSjNuX0pR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T03:43:00+00:00"
+      "time": "2026-08-17T04:31:00+00:00"
+    },
+    {
+      "text": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle",
+      "url": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T04:01:15+00:00"
     },
     {
       "text": "Indiana Prepares for More Rain After Days of Deadly Storms",
@@ -181,31 +190,22 @@
       "time": "2026-08-17T02:51:03+00:00"
     },
     {
-      "text": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2dqMUJIcWdndGVfSXlVeDRKbmkzU3hrTTRyeXBrSWR3NGtUNzNkSm54X19kcDNBNzJBaVV0NEJTNVdLVVRrUlNHLXZETnFwMEIyekJhOTduVWxZQWZyVW5WQ0xua1ByTDc0OG1B?oc=5",
+      "text": "Trump says White House needs ‘military complex’ as courts block his ballroom - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVAyWkp4bHp3dG43b091aHRldFRfcUpIN2hma212NDRWWFp0Nk5IVXRoQ3ZTRnktdlRUUG5WNUE4RGd4X0NvVW5SeWllUkRFSHo2bmxRNUxUaGlyYjlyd0wwMGdwSWNTTVlmOHZ2SGRWODZVc2lKRzQtRDVvU2JIMm82TmROTUx5d2x0akl3WlM0LWNGVm92OG5vWWxrQVJ5aXBaWVRtTnBZajl0d0hIdUxla2NzM3QxNENIZy16aE8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T01:45:00+00:00"
+      "time": "2026-08-17T01:46:11+00:00"
     },
     {
-      "text": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
+      "text": "24 Clean Memes That Are Actually Hilarious - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWm4yRzVzMjVVMXdaOTRpakNyNVBCTm1NM01CdkNfUjFIc0F2VnJIMmdrQS1WVi12RVRDZXVaeGZQMGMwcDh1azZYeVE0NzdxbmRFZUxTZUFaVG05V0h3VlNhMUxxUHd3emd5TkpjNi01RDRqVmRlWV8tRVBWV2c?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T01:38:00+00:00"
-    },
-    {
-      "text": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10SzdSZUZuNEVRWmtycDdjWFRsRUhoZ0dlXzdZa2Y4X0dCdWFNYUVacXVtWEJCeUNiQkJhdG4tdEROQldYSTdEQ0Y2OXRmTkZJdEcycGd6N2pld3RiS3ZZTW9lM1JrWEJfTWk4V0xHTklBNjJhcmlV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T00:56:36+00:00"
+      "time": "2026-08-17T01:16:00+00:00"
     }
   ]
 }
