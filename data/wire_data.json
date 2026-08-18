@@ -1,17 +1,55 @@
 {
-  "generated_at": "2026-08-18T10:48:53.651037+00:00",
+  "generated_at": "2026-08-18T11:32:09.807639+00:00",
   "lead": {
-    "text": "The Blackout That Could Devastate America",
-    "url": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-18T10:47:03+00:00",
+    "text": "Ukraine war live: Kyiv launches one of biggest attacks yet on Moscow with 620 drones - The Independent",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0lWYUx5RXk2aHVtRVdxWER5bHBKbnloRkUwN09aSENnYVI4WndnRUVUdk9NVzBJcWc4dTJyRS1UOU1EbWllSFJYSEtSbzBXYXd3MDM3RlU1VW1aQUx6SkJTblZfVGcyVDJmWWdNbHRrb0hlU1Q4bW1hRk5ibUVHcnZ4U1pJN012MFBlT1J2SnZISFVXV1g0WXBLS25SSy1oWmNYOUw5NEE4X1lQSmtidHJRYnkzQU5Y?oc=5",
+    "source": "Google News World",
+    "lean": "unrated",
+    "topic": "world",
+    "sourceNote": "Aggregated Google News World topic feed.",
+    "time": "2026-08-18T11:17:44+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb05YTlhtdm5CWWFjelNPMWFrWWtzUk9Vb05PZVRJT2FiSHc0em50elRIQ0lQX3Y1R0xlbVNKZjNPMDFKdHA1VWVjWnllN0ZqYUN4SWhWb01GWC16WTBCRXFGUUtBem54QVNrUE9SZnVZV19NRU1jQ245bEE5eHpzYWx4RTVWQXUwZjVZVG9LTlhKVGx6SXFsUjhORDY1dUhCYW1GNUMwdUdTQnJf?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T11:16:24+00:00"
+    },
+    {
+      "text": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
+      "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T11:15:47+00:00"
+    },
+    {
+      "text": "Future of Florida GOP up for grabs with Donalds in pole position",
+      "url": "https://thehill.com/newsletters/morning-report/6034576-florida-gop-primaries-future-byron-donalds/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-18T11:07:12+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow",
+      "url": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T11:00:06+00:00"
+    },
     {
       "text": "‘Les Miz’ Offers a Lifeline to a Battered Theater Industry",
       "url": "https://www.nytimes.com/2026/08/18/theater/les-miserables.html",
@@ -22,33 +60,60 @@
       "time": "2026-08-18T10:37:27+00:00"
     },
     {
-      "text": "Russians pull billions from banks, fearing Kremlin will seize deposits for war - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2tNNGNwNGRDRkhjRlVtTUFYRkstR2xWZE51aF9GWFNIQnFabnFNRGJwbWJFb1ZmVmQzRlpEdXVweGUyRTZSNnI4STVyQWZyUzNNY0NyR1ctSkFvR1ZsN3hUcFR2aHVKYTctUjh1cWtDQWJKckMxN3dtMWdXV1RLQm81N0loUUtvb25QendNTmxQSFZyYlJVWUpISU5xVU5TbHZXMkMyYldKS1ZGbENDb2pKRQ?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-18T10:32:05+00:00"
-    },
-    {
-      "text": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-      "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-18T10:32:00+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Trump’s $47 Billion-Dollar Border Wall Plan, and Why a Tupac Murder Trial Is Starting After 30 Years",
-      "url": "https://www.nytimes.com/2026/08/18/podcasts/the-headlines/trump-border-wall-tupac-murder-trial.html",
+      "text": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
+      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T10:00:07+00:00"
+      "time": "2026-08-18T09:55:58+00:00"
+    },
+    {
+      "text": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:03:48+00:00"
+    },
+    {
+      "text": "Colman Domingo Discusses His Emmy-Nominated Roles in ‘Euphoria’ and ‘Four Seasons’",
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/colman-domingo-euphoria-four-seasons-emmys.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:02:34+00:00"
+    },
+    {
+      "text": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
+      "url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:01:53+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "The Blackout That Could Devastate America",
+      "url": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T10:47:03+00:00"
+    },
+    {
+      "text": "Home Depot reaffirms guidance amid 'frozen housing market conditions' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odE44aTh0V3JNckJkRnU1VzZsdHFiLWM1OFJpdmNYc1R1ZC1mWjk1ZWtFamhtQ0k1dWJ3TGVkYW5nZnJic0Rvb2ZiejJrSVdrVGRLX0E2VGFDa2hueldndFlyaWFqTS1OT1dyVGFudUVNX1JldEHSAXtBVV95cUxPNEYyTmNCWUxSdWlJSzZNNnRYZi1aZnVoMkg2M1JUUU1feWpfdlhjc1lacGhkcS1YbFl4SkwwUnZSVll4SzdSZnFta1BmT1R0UnRnaWZvZ2lSSnR6bzI2aUlwRFRtSnRCUGRvWkgyNjFpaWFDU05sTFJabjg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T10:00:31+00:00"
     },
     {
       "text": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
@@ -61,7 +126,7 @@
     },
     {
       "text": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
-      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-grew-up-in-front-of-the-camera-it-took-a-toll.html",
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
@@ -75,7 +140,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T09:02:26+00:00"
+      "time": "2026-08-18T09:02:27+00:00"
     },
     {
       "text": "The giant shark that seems to appear from nowhere - BBC",
@@ -85,26 +150,26 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-18T09:00:57+00:00"
-    },
-    {
-      "text": "She told no one about her agony except ChatGPT. What her death reveals about AI risks - NPR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzRIY2luTW9qRzJPVGZiMy1KOFcwZjdRakpLUDA2bTdYaWoxMjdZdTRSeXZ6Uno4M0ltNngycElPOXM5SzNvUVpsX0ozSUFLQm91X3V4UWZtMWFmNWRQV1MtVDRGYzZVc3lnanRQbDFwN2hfS2tMRnFWbTEwOU8wdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T09:00:00+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
-      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
+      "text": "Working Capital",
+      "url": "https://www.nytimes.com/2026/08/18/briefing/buy-now-pay-later.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T09:55:58+00:00"
+      "time": "2026-08-18T10:39:31+00:00"
+    },
+    {
+      "text": "Trump’s $47 Billion-Dollar Border Wall Plan, and Why a Tupac Murder Trial Is Starting After 30 Years",
+      "url": "https://www.nytimes.com/2026/08/18/podcasts/the-headlines/trump-border-wall-tupac-murder-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T10:00:08+00:00"
     },
     {
       "text": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
@@ -141,71 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-18T09:00:11+00:00"
-    },
-    {
-      "text": "Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T08:48:15+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb05YTlhtdm5CWWFjelNPMWFrWWtzUk9Vb05PZVRJT2FiSHc0em50elRIQ0lQX3Y1R0xlbVNKZjNPMDFKdHA1VWVjWnllN0ZqYUN4SWhWb01GWC16WTBCRXFGUUtBem54QVNrUE9SZnVZV19NRU1jQ245bEE5eHpzYWx4RTVWQXUwZjVZVG9LTlhKVGx6SXFsUjhORDY1dUhCYW1GNUMwdUdTQnJf?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T09:32:42+00:00"
-    },
-    {
-      "text": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T09:03:48+00:00"
-    },
-    {
-      "text": "Colman Domingo Discusses His Emmy-Nominated Roles in ‘Euphoria’ and ‘Four Seasons’",
-      "url": "https://www.nytimes.com/2026/08/18/arts/television/colman-domingo-euphoria-four-seasons-emmys.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T09:02:34+00:00"
-    },
-    {
-      "text": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
-      "url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T09:01:53+00:00"
-    },
-    {
-      "text": "Apple’s camera-equipped AirPods appear in leaked video - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHBKVkctRl8xcElRZklLZmdKZEFYTkU0M3JfUkFDMC1OVnozTktubHg2b3hVYzA4WnNmdDU1SXN1eGV0UnUzbk9SY2c4S3RpekVWYm1tcndMSTd4cDBkY3VEV0ozRzJtR3JmOHAzekJuSnJqTWVrOW9sZHpEcFQyaVpBRVBsdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T09:00:01+00:00"
-    },
-    {
-      "text": "Inside Ossoff’s meticulously viral campaign - Politico",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkQ1cS1nWFM4b2ZPTk1zVkdxMHFoWS1NdjhMd0hrb3ZQOVEtVkVxSnNDd1FWTmVlV2JMQURha2gxbFR6czllVV9EejNvM2dwT2Z5ZEp2cW9xRUczczlocEg4U05wMHJQWlpXUzlIN3Jycm8zckRpcnNUOVo2Y1UtMXJqWjFlaVdXUEJ1M0JhVHNONGxBNU9DWmJn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T08:45:00+00:00"
     }
   ]
 }
