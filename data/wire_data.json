@@ -1,54 +1,25 @@
 {
-  "generated_at": "2026-08-18T01:52:24.436628+00:00",
+  "generated_at": "2026-08-18T03:03:18.175619+00:00",
   "lead": {
-    "text": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
-    "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-18T01:46:58+00:00",
+    "text": "Credit card issuer Synchrony announces partnership with OpenAI",
+    "url": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-18T02:48:33+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump Votes by Mail Again in Florida",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-mail-vote-florida-election.html",
+      "text": "A California County Eyes a New Hire: Tina Peters, the Election Denier",
+      "url": "https://www.nytimes.com/2026/08/17/us/california-voting-shasta-county-tina-peters.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T01:41:42+00:00"
-    },
-    {
-      "text": "After Jason Arday’s Death, Mistaken Calls for Censorship",
-      "url": "https://www.nytimes.com/2026/08/17/opinion/jason-arday-cambridge-plagiarism-media.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T01:28:36+00:00"
-    },
-    {
-      "text": "Mike McCarthy sings Saint Vincent's praises as the Steelers break camp a day earlier than expected - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTFIZnV2TGZIZHZVLVN0c2RFbk5hVU5iM3k4UDhxc0VIZGZLS2czMS1lM0h0WUpvZDFGM2QtcGRBcVRsd2U3c2hGQmZLZDdTZ3VWWDdxV2VwbHpxa3Y1dXI1Y3VkYW5qcDJvWjE1QTZoMHZHcEV3OTA2VDVHdDAyLXVuUlRRMW85ZXpyWm9WQUJIYTVYN0ZBQ1llQVNMRVB1QlplQUdHck1KdDNOWkFTTl9PZHNsaEdsaVJZWEJzMWZ6NHhfSzlWMGpTaFdjQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T01:17:08+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports",
-      "url": "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T01:13:16+00:00"
+      "time": "2026-08-18T02:41:17+00:00"
     },
     {
       "text": "Family Presses for Information About Fatal ICE Shooting in Maine",
@@ -57,7 +28,45 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T00:50:59+00:00"
+      "time": "2026-08-18T02:38:44+00:00"
+    },
+    {
+      "text": "Greene: ‘I can’t remember the last time’ I saw someone wear MAGA hat",
+      "url": "https://thehill.com/homenews/administration/6034413-greene-i-cant-remember-the-last-time-i-saw-someone-wear-maga-hat/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-18T02:20:15+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Kindergarten vaccine exemptions jump to another record high - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzlFUlhjR0ZXV0M2NHFzU2czc0pYQlBSczNLbzhLZ0hiRVczQ2pWdllNT3YzU3VjcTVjZ0dGQnd4cWpDQUhkQklzaUE4cFJGWVE2ekJ1N3E0OXNQZGVRRk9zOXk1MnZRcjgwQkpHVUMwWkhiS3lqMjhoYmwtLTUtUERYWWhCQTMybWt2RlpUN09DVjFzWnJPYzFPSFhNS1VxOXJHekhYM1pxQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T02:10:43+00:00"
+    },
+    {
+      "text": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fQWRSNG01eHM5d2NGeDhiYjVnazc2cEtjRm9fdmtMeGRtTVlMU0J0bjJEdlB0TzRzMXBiSy1ERzRRNnRWbC1YRnV0WG9sT3RrYUM1OXR6bDNEc1FuWkNQc2ZCNmlfTXBnUkF6YjkxdFN5RFBocWUwekx4eHY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T01:21:16+00:00"
+    },
+    {
+      "text": "'All hell broke loose,' witness tells court of Tupac shooting as murder trial begins - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNTM1VElJaDFkWm9PdXJHMkNNY2JFRjVnVEdzdm5sblJRQ0dvMWFuZDlTZEZKX0drZnlONHFkN1pTYjRPM1hkR0JwUTk4ZUlVbmJTeERn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T01:09:20+00:00"
     },
     {
       "text": "Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires - CNN",
@@ -69,60 +78,60 @@
       "time": "2026-08-18T00:15:00+00:00"
     },
     {
-      "text": "Stock Market News, Aug. 17, 2026: 30-Year Treasury Yield Hits Fresh High - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0o3amtJdlNTb29WZnUxdllSLUhseTJQT09kV1V3MktIQXlvQndNNDVzX2tibmhORXJBMU9mQjQtWjIwUTVyeHFoNHlnMDJ6VUZaZHByY1FLaDhwVktwZjJ6U01heDh6dk5TMk1JZ3VwSDUtOFlfc2lEbnhFMUhGSlZuUy05d2M?oc=5",
+      "text": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmgyejFsV0U5RU5jOUxLNUNsX2tPLUxTbk8zeFZ1VUxxYjZCdy1kdm5mdURoVkJFY1NLVXFVMU8zZXpoaDgtdlBxQV9JNGxBM0Q4YWhtZEV3dlZSNjhOWnkyQjZpdHJtZ1VPc3FVU3p1VnljVEhBdm9HbnJIQTRKcG1mQTFaUy13WUQySEZ2R3pLMlZuZTFlYktLcHRTdEJfU3F5aEdORWNkWDg0UlRV0gG0AUFVX3lxTFBYQnN0THV1R0ZKNWc1TjVsTG1BYmpTOUZfOTJXeVoxUlh2cTczd2I0dnJfUHgtM2x3S1M1bXRpXzl3bFVEYzFJYjRueFNpbThVN1dHNXcwRE1UOG14dERTcGtLTUs5c2xDdFBEa3dyU3VmZmJVcmV5MlphZEh2d0MwMDMwOEhDdHFqQnQwOHVfMU9ONTNvb2xpZmwxUEZ4M3R3UDcyOW9vRDVUUnpnX1JDSW5FTQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T23:40:00+00:00"
+      "time": "2026-08-17T23:31:45+00:00"
     },
     {
-      "text": "What you need to know about Hurricane Lala recovery, Monday closures on the Big Island - Big Island Now",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTRhZ1A4bThSVDdBN0NXOWJtdlNGQ1FyRW5xdUhUd1RJSmRSU3dpX3BSUTNqck1XYl9YbnprSkNlS2J6UE5SWHpGd01zUW5uNURGNzZGcXZzYmoxMlRrOENxdG16SjdVWnFOOUVHaFlaM3gtZXEwbVJsSWpqRHVzQXR5ZjJpWEozQVNWT3kxLXVVRk5ZSUVUS2dBR3drd3dWVUtXOA?oc=5",
+      "text": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T22:55:39+00:00"
-    },
-    {
-      "text": "Trump to Travel to Myrtle Beach to Rally for Darline Graham",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/south-carolina-senate-runoff-graham-norman-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T22:19:44+00:00"
+      "time": "2026-08-17T23:10:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "'All hell broke loose,' witness tells court of Tupac shooting as murder trial begins - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNTM1VElJaDFkWm9PdXJHMkNNY2JFRjVnVEdzdm5sblJRQ0dvMWFuZDlTZEZKX0drZnlONHFkN1pTYjRPM1hkR0JwUTk4ZUlVbmJTeERn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T01:09:20+00:00"
-    },
-    {
-      "text": "Florida Race to Replace Byron Donalds Features Candidates Who Have Already Run for Congress",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/florida-byron-donalds-election.html",
+      "text": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T00:48:36+00:00"
+      "time": "2026-08-18T01:46:58+00:00"
     },
     {
-      "text": "The 60-day deadline for an Iran peace deal is expiring. Here’s where things stand - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3BhNEdxTFpDOGtvRmx2RU5kNWtFR1oxYXhsOEFWWm1NdG9IMkRaeEJvUmE5WUN0UjMxbXdwSXFmcXNKTjNGbkNfY1hrdjJtZnl0QVZXNk5jeVNFRV9qSklqTUhBVFpyTnFkdVBMeEZGRkJmWFFCWC1Ca3EtN2xGMzYtd3loMXdrTGhDSXpjV1ZzcGRnZUJfdEZueHdmSmFZR1BkcXV3?oc=5",
+      "text": "5 Anker Gadgets Under $25 Worth Adding To Your Kit - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1ZDaHlKa3JMeGRyUkw4NEJKc09zUlVHVFRsbkJkUGtHSVMySUdQT2dwR0NTVzh1VjE0ZE1XdmR1cHNJbVVubTlNQjIzdkxRbXhJOUNqazdzaDlNelVRMXpSSFRlbTZBbk5LbjBwSGtpV1k3MHV1QnNPYV9zRExHVC1B?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T00:13:00+00:00"
+      "time": "2026-08-18T01:19:39+00:00"
+    },
+    {
+      "text": "Trump Threatens a Middle East Mediator",
+      "url": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T00:56:26+00:00"
+    },
+    {
+      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
+      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-17T23:51:38+00:00"
     },
     {
       "text": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
@@ -141,71 +150,62 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-17T22:53:00+00:00"
-    },
-    {
-      "text": "‘Spy Kids’ Actor Alexa PenaVega Shares Heartbreak After Deaths of Fellow Child Stars Hayden Panettiere, Michelle Trachtenberg and Daveigh Chase: ‘Hug Your People Close Today’ - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTgtNkdFV0ZTVEFNUHl1S05zWTExMFpyWHJTOE5feEQwbGJIXzBTTm9TSHY2SjZaaHdlLTEzSm5GWUpaTzN2N25TVmJtbFNRbnJHdHY4RkNtell1WFdBd3JWYkVBZU8yUk9Oa3kzUFN1NXpIREEwcTJEYmpza0Z2QlJHb0pyR2hTVmRacHlUMXFHZjhCNWpSOHlnMkNyY3N0T3dLSTVYckIyWms?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T22:07:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Trump Threatens a Middle East Mediator",
-      "url": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html",
+      "text": "After Jason Arday’s Death, Mistaken Calls for Censorship",
+      "url": "https://www.nytimes.com/2026/08/17/opinion/jason-arday-cambridge-plagiarism-media.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T00:56:26+00:00"
+      "time": "2026-08-18T01:28:36+00:00"
     },
     {
-      "text": "Kindergarten vaccine exemptions jump to another record high - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzlFUlhjR0ZXV0M2NHFzU2czc0pYQlBSczNLbzhLZ0hiRVczQ2pWdllNT3YzU3VjcTVjZ0dGQnd4cWpDQUhkQklzaUE4cFJGWVE2ekJ1N3E0OXNQZGVRRk9zOXk1MnZRcjgwQkpHVUMwWkhiS3lqMjhoYmwtLTUtUERYWWhCQTMybWt2RlpUN09DVjFzWnJPYzFPSFhNS1VxOXJHekhYM1pxQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T00:29:01+00:00"
-    },
-    {
-      "text": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
-      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "text": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports",
+      "url": "https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T23:51:38+00:00"
+      "time": "2026-08-18T01:13:16+00:00"
     },
     {
-      "text": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
+      "text": "Penn State frat brothers charged with running cocaine trafficking ring - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenYyOXlhM3dyQzhWUjZNUkhlVHdvZ1RPQzluemlZYXpxSmd5a09DeW4xTXE5X1FSNlNrbFR6Zm1YNkw0OWxUYVdvbjg4UWdqM21XLV9VMDR4bjR1QnJ3WkJlajMxZDUxZFJnWUFaTE1MR0FhbURtOXM4Sy12SWdBTEk1UVU0Tk9xYkRhaU9aY0I?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T23:10:00+00:00"
+      "time": "2026-08-18T00:34:50+00:00"
     },
     {
-      "text": "Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys",
-      "url": "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-17T22:37:18+00:00"
-    },
-    {
-      "text": "Lindsay Clancy 'had thoughts of harming the children,' her mother testifies in murder trial - wcvb.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSF9vSnoxUW5JVWx5RmZqZkF1R0x2dmdSLW5lZjg4eXJ3Nkdwc1BmbEs5R1RPXzRVVnQ2QnNtcDBtWm9GQmtUamtKMWxQTmVKN0VnWkphdWVZTThUeHhPZzhCNUpKMWlaT2RoOFlSbVc4c2VreGd6b1FCbWc0MGQweklSZnQ?oc=5",
+      "text": "Ticks carrying Lyme disease are gaining ground in North Carolina, study finds - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3hfX2lvdTB2U2JsbzZHdk8xR1FiTWFLWmlLMml0eHZYcXVHMnZwUEpvaGpDSmROUFdGRENaWlp5V2xYYXl0RjJDQ1JNZ0xVakwzbVVFUmRMSHVod3pFSFJrYmtUVXBCbDEyenE4TEtQRG9wU2Y2a3VBSF82WlRWWUp3WkJGX1RBLUJIQ1VodmtoUjVCaW9zdDBiSFBBaF9LZHBDR1NPRXVXQzFRRmRhbGVHNl9ORTg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-17T21:59:00+00:00"
+      "time": "2026-08-17T23:45:01+00:00"
+    },
+    {
+      "text": "Male Neanderthal pelvises resemble those of modern females, challenging decades-old assumptions - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjZEVEFmRG5pd3pPUl9LRW05VHZOU3liUmlDaUpkdTZjYmxJdGlmWUtmbGtVeDM4dTJMaGRYXzhKTEdydlRqQ2cxMktNVWF6VlpYYkhSaGJHV3lJRTFVVlpBUE9NQzdNSUlVcHJZOVNZMkpaTEVVX05Gd1FKT2Z5Ylh3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T23:20:03+00:00"
+    },
+    {
+      "text": "Trump lashes out at South Korea over its refusal to join Iran war - PBS",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzdqMkJnQ0pQYVJQZzJoTmlNakFNekJtZTJtY0R0Z2ZhNGQ1bW9nUzF6OElWZ0hFaUM2YzB3X0Y4Wjc0TGliNndLNk5vQ1pncVcxOE1EaEN3RUZ5aHpIVkZHOTM4c0J4QWFpMldtUnJBbERQc0liQlRuRjdTWWZlNmZHM0RyaGpYRzRZamxDMkpWTU9Ed1FuUTBxVGMyWDRH?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-17T22:50:23+00:00"
     }
   ]
 }
