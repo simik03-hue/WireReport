@@ -1,17 +1,102 @@
 {
-  "generated_at": "2026-08-18T09:41:03.164811+00:00",
+  "generated_at": "2026-08-18T10:10:46.285291+00:00",
   "lead": {
-    "text": "Stock Market Today: Bond Rout Deepens, Dow Futures Slip - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFM0dVhmTXVxX3VFRjlPeW5RSUJRa3NNbUVzNTl0LWtHeTd1TW9ZLXNOM0lPVS01aU9wZVl3RHhZWFJmVlpaSVZMR1J4WTF0ckVZU0lQaXoyZXpLMmF6alNsN01FNUpzbGNoeHZyNVBjLVJSUHR6SzdlcWo4UHBRNnV3VVUyZmc?oc=5",
-    "source": "Google News Business",
-    "lean": "unrated",
+    "text": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
+    "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+    "source": "CNBC",
+    "lean": "center",
     "topic": "business",
-    "sourceNote": "Aggregated Google News Business topic feed.",
-    "time": "2026-08-18T09:25:00+00:00",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-18T10:00:31+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Trump’s $47 Billion-Dollar Border Wall Plan, and Why a Tupac Murder Trial Is Starting After 30 Years",
+      "url": "https://www.nytimes.com/2026/08/18/podcasts/the-headlines/trump-border-wall-tupac-murder-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T10:00:07+00:00"
+    },
+    {
+      "text": "Trump put to the test with Mills in Florida primary fight",
+      "url": "https://thehill.com/homenews/campaign/6033539-cory-mills-florida-primary-trump-endorsement-test/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-18T10:00:00+00:00"
+    },
+    {
+      "text": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
+      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:55:58+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb05YTlhtdm5CWWFjelNPMWFrWWtzUk9Vb05PZVRJT2FiSHc0em50elRIQ0lQX3Y1R0xlbVNKZjNPMDFKdHA1VWVjWnllN0ZqYUN4SWhWb01GWC16WTBCRXFGUUtBem54QVNrUE9SZnVZV19NRU1jQ245bEE5eHpzYWx4RTVWQXUwZjVZVG9LTlhKVGx6SXFsUjhORDY1dUhCYW1GNUMwdUdTQnJf?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T09:32:42+00:00"
+    },
+    {
+      "text": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:03:48+00:00"
+    },
+    {
+      "text": "Colman Domingo Discusses His Emmy-Nominated Roles in ‘Euphoria’ and ‘Four Seasons’",
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/colman-domingo-euphoria-four-seasons-emmys.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:02:34+00:00"
+    },
+    {
+      "text": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
+      "url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:01:53+00:00"
+    },
+    {
+      "text": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:00:11+00:00"
+    },
+    {
+      "text": "Inside Ossoff’s meticulously viral campaign - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkQ1cS1nWFM4b2ZPTk1zVkdxMHFoWS1NdjhMd0hrb3ZQOVEtVkVxSnNDd1FWTmVlV2JMQURha2gxbFR6czllVV9EejNvM2dwT2Z5ZEp2cW9xRUczczlocEg4U05wMHJQWlpXUzlIN3Jycm8zckRpcnNUOVo2Y1UtMXJqWjFlaVdXUEJ1M0JhVHNONGxBNU9DWmJn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T08:45:00+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
       "url": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
@@ -22,25 +107,14 @@
       "time": "2026-08-18T09:19:25+00:00"
     },
     {
-      "text": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
-      "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-18T09:18:27+00:00"
-    },
-    {
-      "text": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
-      "url": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+      "text": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-grew-up-in-front-of-the-camera-it-took-a-toll.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T09:11:52+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-18T09:03:07+00:00"
+    },
     {
       "text": "The A.I.s Are Already Out of Control",
       "url": "https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html",
@@ -51,108 +125,70 @@
       "time": "2026-08-18T09:02:26+00:00"
     },
     {
-      "text": "Family Presses for Information About Fatal ICE Shooting in Maine",
-      "url": "https://www.nytimes.com/2026/08/17/us/biddeford-maine-ice-shooting-hearing.html",
+      "text": "The Blackout That Could Devastate America",
+      "url": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T08:22:35+00:00"
+      "time": "2026-08-18T09:01:49+00:00"
     },
     {
-      "text": "Stock futures are little changed after Wall Street starts the week with losses, hurt by higher oil prices and rising yields: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbTl6YmIwMk5iZFRFdDN1Ui11VTRNUGlDRjlEclNDNl9HTlhUM1lIZWZUVHpudmFHWHM5cUVnOGRqOW1EUjVBSFBYNzJvSTBqMVRma3piQmozU1BLRnZrS2xoNjUyeFUxV1lOZzQ3bUFkMzJNV0530gF8QVVfeXFMTjVFc3dmV1gybFdhUzhwTFJMMmIwYXZvVjhuMzNHdU0wNktMTWZYRzh4YmtsclhkY1dlU1YzUHRWRjhmR0w0M19rWjd1bGk0Yy1UekduWGFoekR2bkNYWGNjb19tLTNCeVk5R3FrbVhlUGowX2dIYkNCNXZrOA?oc=5",
+      "text": "Apple’s camera-equipped AirPods appear in leaked video - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHBKVkctRl8xcElRZklLZmdKZEFYTkU0M3JfUkFDMC1OVnozTktubHg2b3hVYzA4WnNmdDU1SXN1eGV0UnUzbk9SY2c4S3RpekVWYm1tcndMSTd4cDBkY3VEV0ozRzJtR3JmOHAzekJuSnJqTWVrOW9sZHpEcFQyaVpBRVBsdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T07:07:30+00:00"
+      "time": "2026-08-18T09:00:01+00:00"
     },
     {
-      "text": "Congo’s fast-moving Ebola outbreak becomes the country’s worst with over 2,300 dead - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnFBNzZoaTBlT24wbF9PNWVEQWZjZWN3RFM3NTJwZWNJR0dVX1diOFpTLXRsb09Yc1hZVXRaVFFsRDNndTVseUxjMTladU1XbnFrc3Itc3ZXSXEwUnJ4TzZ4cW05V1N2R3JyYVRCNGlmYlIyZGhUWHI0X19EZTJ5S09aYVBUcFFRTmFoelBMTUZFUUFoOWwtWEJQRjRISmZBMTdNYWF0ZTM?oc=5",
+      "text": "Hayden Panettiere: Ex Wladimir Klitschko says family is in 'profound shock and grief' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ObVIzRUNVTUN2eGwyT0syWmFNQVVDWjAtX2ZCUWF1Z0ZxUi1YeG13dUxlYlVJdE9Hb1dKbzBsckYyckV5cHFNcy1aNldyX2ZMUU5QV1JjM3FHUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T05:29:00+00:00"
-    },
-    {
-      "text": "Horoscope for Tuesday, August 18, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmpYM0xkYmsyQlJnU0ZTSndsalgwcE94NDRINWJKMW1ra3BmUHhBVV9XaWdSOUFDVTRxUGc0TldPRjEweGR5bkVnbWlRUE11bkoyTDllSTZHSjFYQnAyRkQyYUdBNk1FUEgxNFJyVVFDUzNwcm1hRVIxeXB2SXVaRGxzbW5oa21QV2xyUnJ0N3l1Z0RV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T05:01:00+00:00"
-    },
-    {
-      "text": "Judge delays Mangione’s state trial after lawyers sought dismissal - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHIzVFRvWVhldjlneVdMNFJ6cEo1YjhwUUhrSDNwLWp6cXZrck1LblRHbmF0UmE5VU9mTG1aRkYtN1UzVEZYRXZVdkl0MkpSX3VXakZXQlRNVmtBOUpFdHo2LVViYkJsdlROSXktVXFtODBkZzJESTEzeEt5T3JQX3E1Q2RBLUpwallIdGVucU9TdGd2R2lKMzk1YU1fc2VMUVdNNlFpNnBmcERBN3FMaW5aZUQzQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T04:22:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Hayden Panettiere latest: Ex-fiance Klitschko sends message as autopsy result shared - independent.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2ZoT1UzNE1UNFlCbDBjZTYwa2JKZFNiXzdsS1p0eXlYZWwwVGRFOFFmdXZ5bWpWbFBhY2FIMkVVQVBxNU4xMjR2dVdNdE9xcXVQanB2SzlZc0ctRWJfd0dERWlPNWVUWVpIRy1weWJSVmxOUWNTbkpsUFZpNEphUk1WdFMzQjllUUo0Mk1HcVBxdTZMM3hsUXMzMVJnbU81QXUxVERhMk8tSzRWTWlmb3RlSW01dDdtTFpaVDAxOHd4Uzg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T09:00:00+00:00"
-    },
-    {
-      "text": "Asian stocks retreat as oil, yields rise; Nikkei, KOSPI lead losses - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZkFXVmZPZ3c3bFJUMW5XaHZtaWtHdExFbXFpNVdYZ0lWTzdRWHFadk1hYWVJVldpeExHd1h6MEtBQS1Ub0dxZGNnblA2MlpRU2xzaXUzem9qTm95TEEyMk5HbnFESjE5SkZjNzFrazJaOGJqZDBFRkpPeFRXamc2amtlMGdIZlYwdFluRXFsT3h6cTMxUzVRdVFJdldyUDUtR1N5YzlTdTRBS0VqMTQ2ZEtWMDVXWTkxWXQ1dFZFTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T07:52:30+00:00"
-    },
-    {
-      "text": "Dems plan Oman war powers push after Trump threatens bombing - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXRMeFNsX0l3YTRZQ2hTZkpGWTdZWkMteXF5MEdaTHpSVHNxdHlCQ1NJdDV6OVlUYlFRY3daZENKSHFIUU1PcGRFbU84dU9WMTJzX3NfSUczYzlwUDEwSEJYZUZmaDBoLTZzMmdCcUREekRFb0M2bUM0cXEzRExkdVhCY3g?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T07:04:59+00:00"
-    },
-    {
-      "text": "Tupac's murder was act of revenge, prosecutors allege in trial's opening day - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KcHRyUnh6dXBrSkVQQXlTbHpfWGMwbFYyQVhncnR1b3o3M0EzaEJZLUo5dUt2Wm80RUJNUnk5T1dzQk5CRUhGeGhVYlVQdEEyS2NNckY3V1Rmdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T05:24:15+00:00"
-    },
-    {
-      "text": "Zambia’s President Hakainde Hichilema wins second term - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWUxN0RPUElDSWp2SEVEaWtyZ3lqem5vYnktWTdUdDZ4NGxXZkE0bXk1c2tJcnhtbzYwd0Z2OHFNc1RmRUJQTFI2R29Db0JoZnpsTjctdjBWM0JjRnFYWkNjY1FXalNYSjdTVlB2dFpTZFdNNm9BQndxQ1pqeC1jS3pOVFBRX3lzaW8tbDF4YzBMQdIBlwFBVV95cUxOMy11a0Zkd3FTTTljYjBOU1I5WlV3R0djTFB0LXpYbFdiUGZMU3ZoQmpsd1FhcHN2MVprcEo4RURUN1ZDcVExX3ZPOUhHMThnc1NpcUNRNy11R29USkRwUkZDTGFlMTlmRmgzenNpdW1QMUVRVDlUbHc1YXpJbU11RndYSVRDVm8xQm10dTlsS1N2OUpDR0dv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T04:41:51+00:00"
-    },
-    {
-      "text": "Kushner urges Netanyahu to test Hamas disarmament in Gaza - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LSXVMOU1pN3BJWmVGZHN1OWVYMmpFeDZWLWMyaHNwVXZnbU9FZ1hCOHFTRmMzaHJWbmN5eWEtdnBrZ3BfWnlVWGxWVXJhVHpTWlFZT0RaaTJWTnh5SGlBR0lpM0diY1h4TDltbjVR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T04:04:36+00:00"
+      "time": "2026-08-18T08:29:20+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
+      "url": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:11:52+00:00"
+    },
+    {
+      "text": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:02:59+00:00"
+    },
+    {
+      "text": "States Seek $200 Billion From Meta Over Child Social Media Addiction Claims",
+      "url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:01:59+00:00"
+    },
+    {
+      "text": "‘Les Miz’ Offers a Lifeline to a Battered Theater Industry",
+      "url": "https://www.nytimes.com/2026/08/18/theater/les-miserables.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T09:00:54+00:00"
+    },
     {
       "text": "Russia warns Britain of 'consequences' for supplying drones to Ukraine - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
@@ -163,49 +199,13 @@
       "time": "2026-08-18T08:48:15+00:00"
     },
     {
-      "text": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T07:12:54+00:00"
-    },
-    {
-      "text": "Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’",
-      "url": "https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html",
+      "text": "Family Presses for Information About Fatal ICE Shooting in Maine",
+      "url": "https://www.nytimes.com/2026/08/17/us/biddeford-maine-ice-shooting-hearing.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T05:37:42+00:00"
-    },
-    {
-      "text": "Jeanie Buss contesting family's vote to sell stake in Lakers - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzZlV1RxdGNRcXoweTJwOFdxbkJVdFJsTTB5QVJXUjBFX2M4QmZnZHlBMTFTSTBpUGc3UXVFWkVKTEN1cWpnRVgxdDgyVW9DOUh3MElWOWxucHgxekdmaC14WWdOeU92b2JfUTUwbUhJSTZzM21kUThkdzZrUk9hbmxwcjlEbEU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T05:13:28+00:00"
-    },
-    {
-      "text": "Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute - Variety",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3kwZHVwMUFYUmt0RzdSbDcxSmlPQTdwZllWdHNON29rNzBVOG9OX2ZtRFNOekxQaTBPYnhpRWRMU3g3cHdWV2FzUWVtcnFMUlMzT3o4anVKY1hVOEtuSTYyZHhJRndjenVzRi1KSXlIT29CQnNTZ1pIa0lsVHZJX21fTUp2ZlphaVZrQm04Uk1Yd1kwV1I0Ul9xSWs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T04:25:00+00:00"
-    },
-    {
-      "text": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
-      "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T04:01:06+00:00"
+      "time": "2026-08-18T08:22:35+00:00"
     }
   ]
 }
