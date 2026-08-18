@@ -1,63 +1,137 @@
 {
-  "generated_at": "2026-08-18T23:08:45.095274+00:00",
+  "generated_at": "2026-08-18T23:40:01.397043+00:00",
   "lead": {
-    "text": "Wasserman Schultz clinches Florida House primary win despite pushback from Black Democrats",
-    "url": "https://thehill.com/homenews/campaign/6035481-wasserman-schultz-wins-florida-house-primary/",
+    "text": "Trump-endorsed Lauf loses GOP primary for open Donalds seat in Florida",
+    "url": "https://thehill.com/homenews/campaign/6033754-catalina-lauf-loses-florida-house-primary/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-18T23:05:36+00:00",
+    "time": "2026-08-18T23:35:55+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
-      "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-18T22:49:58+00:00"
+      "text": "Former Mother-in-Law Describes Lindsay Clancy’s Mental Health Struggle in Murder Trial",
+      "url": "https://www.nytimes.com/2026/08/18/us/lindsay-clancy-murder-trial-mother-in-law.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T23:32:15+00:00"
     },
     {
-      "text": "DOJ secures indictment of 17 Iranians accused of 'massive' cyber theft campaign",
-      "url": "https://thehill.com/regulation/court-battles/6036708-doj-indicts-iranian-cyber-hackers/",
+      "text": "Beltran wins GOP primary to face Castor for redistricted House seat in Florida",
+      "url": "https://thehill.com/homenews/6033995-beltran-castor-florida-house-race/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-18T22:49:13+00:00"
+      "time": "2026-08-18T23:30:17+00:00"
     },
     {
-      "text": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-08-18T22:29:00+00:00"
+      "text": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
+      "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T23:26:15+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Lindsay Clancy said she \"heard male voice ordering her\" to kill children, psychologist testifies during murder trial - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbkx1WVBJYW5xbzVhdS1tWl9zWXloUHE5YmZaam5kU3VoNXZyakhqSGw5d2xydnV4MHh6cWliaHFrVnFaOV9uY05tMW4zaDVrNXRwMnNNNWZ6cHFzZkVrQi1hcnhES0lsam0wbjZtaXgxWU5sN0JjMXJ3YWxXRXNqcA?oc=5",
+      "text": "Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVd4bVdFUGpzN0FaQjRJcmJZSGk4a1dqVHhMUEJUT09JREZDUjgxR1REU0E5cWdpQW5DcjhYVUFPT243cDBsMWhvVWkzWno4NEpBUEY4YkNZV2gwU25hYjE5V2JIb1Q4QW45d01JOE10SXNrR3N5ZlNvSGdpMHl0SFVJWVFQdUVWUFlpdms5RG10ZGpOVk5EczYtLWxGMWFRc01Lcnk0VUFaTW1mUDB2alF1VGp1TEJLTmxDT05zbjE0cG8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T22:28:39+00:00"
+      "time": "2026-08-18T23:22:15+00:00"
     },
     {
-      "text": "Trump Administration Moves to Allow Logging in Pristine National Forests - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlRQR19uUUJubEhlbHRmVHZlVGtnck1rdzk3ZTNGRE50aEZrVS0xaVZ1aEprSkV2aGc1RngzVUFlc1B0MTV3YktNcUlXU1JuQU5VVG9OMF9XY3E4c3JUYVowdkVSdDQ4Wm1MUlhfQk9RQkJlVnA1bWg5cnhCRHZWdWxRLWk3SXc?oc=5",
+      "text": "Election Live Updates: Florida, Alaska and Wyoming Primaries Will Shape November Midterms - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T22:00:28+00:00"
+      "time": "2026-08-18T23:09:02+00:00"
+    },
+    {
+      "text": "Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T22:31:12+00:00"
+    },
+    {
+      "text": "Before-and-after NASA images show crater carved by a SpaceX rocket that slammed into the moon - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFpnLW5sbTdwSFlkeWJhYzFBNVFUbW9reGdMaXNac1I2YVhNMjlRMV9VdWJVSW15S3VMMzJfM2p2TFBoeEd3MzEzc1JDWVNpaE1ra3dhYzVpUDhzWGtsYmQ5Ym5ZbmVSSmQwR1Z1dWRRS0dQN1BYRVdPTDRHM1U5SUszd3AxLVo0QjM4MVhFSE1KTWYwVEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T22:07:26+00:00"
+    },
+    {
+      "text": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkQtZmY0MGJJcG1JeUNrN2cwMUlYSDhhUGtvazVEZ08xN0hkWlVGOElTV1hMWkQzMndoc3FMTWxlYk5UZFVYZW9BVmtBVk5XN1FQcXhyT3NRVExEOS0wUzlOdHo2TG1jNVY1ZXFsYXZIYVlaZFpKQS11aGdkOEtfRE9KNXF2ZDFkQ0VJNlJ6WFJ0LUJ6V3hOelhra2lzSTVmVG9UMlZHeENWd9IBrwFBVV95cUxNTFNodVFOeE1QNDRfc1c0bXVDMnRYZWkzdjFjNFZNcHNXX3ZwSnVoeTdqa2JKM0VLQ3FoVnFoS0UwZW96T1hBdVRjOTV3YlBNR3ROMm5aSVllOXNNb1dRZFdtZzFRa2lDcmpjX1RHM0FaV1YtQzVsYy05SUxFY0RqVGlsNVV1dWJmVzV2Ty14bFJqS1dsUXYwTlBTQUNGZUNMQy1BUEJJWnk5aEhnWXBZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T21:50:11+00:00"
+    },
+    {
+      "text": "Trump Officials Ignored Their Own University Investigations, Lawyer Says",
+      "url": "https://www.nytimes.com/2026/08/18/us/trump-administration-university-investigations-whistleblower.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T21:29:41+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
+      "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T23:19:12+00:00"
+    },
+    {
+      "text": "Threatening Friends and Courting Enemies in Trump’s ‘Upside-Down World’",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/trumps-upside-down-world.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T23:06:00+00:00"
+    },
+    {
+      "text": "Hayden Panettiere's on-and-off boyfriend was at apartment where she died, police report says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNm45WGZ0MG1UakUyOWhJOEc4d0tib0NUZDN4bkRhQU5zdmUwNGtkUHZ2VnpjS082Tnp5d01WUjlfN3RWdGxBUUEzS2YxUUZLMEVuWVlHZmVjOEpTek9UM2JSUE1tczYzUThZWFNreUgtOGFIQ1pWZEQ3bkZKR3l6c0ExUktoWFhraGtiSXkwQW5YM1p0eEdRSzdfekR6d2FDWVBYZk1ad0NsOGM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T22:31:00+00:00"
+    },
+    {
+      "text": "Minnesota attorney general sues Texas governor to compel extradition of ICE agent for trial - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWNENk9yUHpwOHI2c1FfWldicVZUUlFaUlI2LUE3U0c4NWVFZkpQbkVnRHYyUzJCZFRfcGF5c25PY3ZkaWxkSHFGX1htLU1wU2tsQ1RLMnBRQlhuSmw0d2NSd1o3Y1pBdnJHbXJ0STU1T2FkQkFDdTRlSXRIcUh0dG50cFpEeEFGY05XSElkWWNIUGpJcmIzSVZjZzNVUi1FOWhCU2NxNmo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T21:59:00+00:00"
     },
     {
       "text": "Voters Head to the Polls on Either End of the Country",
@@ -69,42 +143,42 @@
       "time": "2026-08-18T21:46:20+00:00"
     },
     {
-      "text": "Before-and-after NASA images show crater carved by a SpaceX rocket that slammed into the moon - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFpnLW5sbTdwSFlkeWJhYzFBNVFUbW9reGdMaXNac1I2YVhNMjlRMV9VdWJVSW15S3VMMzJfM2p2TFBoeEd3MzEzc1JDWVNpaE1ra3dhYzVpUDhzWGtsYmQ5Ym5ZbmVSSmQwR1Z1dWRRS0dQN1BYRVdPTDRHM1U5SUszd3AxLVo0QjM4MVhFSE1KTWYwVEE?oc=5",
+      "text": "UAE says two missiles detected earlier were launched from Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T21:38:00+00:00"
-    },
-    {
-      "text": "Police identify Hawaii island woman, 93, killed during Lala - Honolulu Star-Advertiser",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2c3U3FqZm50MzBoM1lZSW1vLTYtMW9BV0ZDT0RVRHhncVY0Uk8xYk81dU85NmNSa2JaU0Q0TGpzOXhuSFFqdWpEdE1IUzJScjczRHFFRGFvbW96ckNaU0hfX0JFZERydnVFOTFrVFIwNVU2Y0tWWnV3RkhKTnN6SjE4Rm1sOUdRaXc0TFUxYU9LV2dyRlpWbDNBaUFOWnpuTmJLandfcjFVOGQxME5GUGh0UEg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T21:20:05+00:00"
-    },
-    {
-      "text": "Forty First Dates and Still Searching",
-      "url": "https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T21:00:51+00:00"
+      "time": "2026-08-18T21:21:04+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
-      "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+      "text": "Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life",
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T22:19:53+00:00"
+      "time": "2026-08-18T23:10:31+00:00"
+    },
+    {
+      "text": "Trump Administration Moves to Open Millions of National-Forest Acres to Logging - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTVWSGxGZGVhbTUwSDJqdWVEdHA3Vk96OFZPUnhBUW5aLWhtOGtyb1lHS2NGY3RnUjU0WE4zUjBYR3haZkxkdjVhQ2dNU1paQlNqaEY0cWlYak4xX2loNVVRREZDRThVMkFfdXFDaHg1Zmprc0wyMF9iZldXX3MzSGtJWElLV3g1enBPNVhUa3RNQTZtMWtBcEtOal94UC1tNnZLNHdOM3BKbWFZOW0wSjB0LV9vQU5ZUXdnSkFkeGVtWmVtVXp1MnJRUkxNd29fSkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T22:42:00+00:00"
+    },
+    {
+      "text": "Disney and ABC sue FCC, seeking to stop early license renewal process - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFZVVjgwc2dvbnNVMzYwNXBnQ1MwTFZuZHJGc2Rxb0JQTGF5VHVfTUdYYVY4ZWVMd2RiY0JCQmFwU3NvdDFjZGtYWURNZlNRVnhtYTBoZnJjdEltYkFBbl81eDNNQTVrSXRsanBHeS1mRWswU0ZpMy15MEI0cWphY1BhYzl3eWtvNVc3TDNJVlZMNEpMMHJkXzFydUhzSkhHWmNnVWFVM3V1dGlkekxzMVJyb1g?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T22:30:03+00:00"
     },
     {
       "text": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
@@ -125,15 +199,6 @@
       "time": "2026-08-18T21:44:00+00:00"
     },
     {
-      "text": "Trump Officials Ignored Their Own University Investigations, Lawyer Says",
-      "url": "https://www.nytimes.com/2026/08/18/us/trump-administration-university-investigations-whistleblower.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T21:29:41+00:00"
-    },
-    {
       "text": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
       "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
       "source": "NYT",
@@ -141,71 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-18T21:13:16+00:00"
-    },
-    {
-      "text": "Yes, Woke 1.0 Was Crazy. Now Where’s the Accountability?",
-      "url": "https://www.nytimes.com/2026/08/18/opinion/woke-liberals-restitution.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T21:00:07+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Pennsylvania will sharply limit data center development, expand review process - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQks1a09qRjc4V01SZjh0UHJnWTdzQ0tONWNPVEIyeDhXcFBTN1N3cDJvcHQyWnE2R2hCQnhlWHFRb0Foa0JQeHVvTl96VUZtRXlfVDZsMzFlLUp0eXZvbk5WOV9HZkJQdXVRbTBoSDY5RGxWcXBrd2RsX0FSYWtzVjEzZzdyODJwN1FMOEJSYmR4Tm5HNmRpNDFsUjdWbUpZYURRc25wTUtLdjVXYmJJN2hjUjNVUGNHQWtUNi1XUmFNdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T22:13:37+00:00"
-    },
-    {
-      "text": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkQtZmY0MGJJcG1JeUNrN2cwMUlYSDhhUGtvazVEZ08xN0hkWlVGOElTV1hMWkQzMndoc3FMTWxlYk5UZFVYZW9BVmtBVk5XN1FQcXhyT3NRVExEOS0wUzlOdHo2TG1jNVY1ZXFsYXZIYVlaZFpKQS11aGdkOEtfRE9KNXF2ZDFkQ0VJNlJ6WFJ0LUJ6V3hOelhra2lzSTVmVG9UMlZHeENWd9IBrwFBVV95cUxNTFNodVFOeE1QNDRfc1c0bXVDMnRYZWkzdjFjNFZNcHNXX3ZwSnVoeTdqa2JKM0VLQ3FoVnFoS0UwZW96T1hBdVRjOTV3YlBNR3ROMm5aSVllOXNNb1dRZFdtZzFRa2lDcmpjX1RHM0FaV1YtQzVsYy05SUxFY0RqVGlsNVV1dWJmVzV2Ty14bFJqS1dsUXYwTlBTQUNGZUNMQy1BUEJJWnk5aEhnWXBZ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T21:50:11+00:00"
-    },
-    {
-      "text": "How NASA Engineers Are Keeping the Voyagers Alive",
-      "url": "https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T21:42:47+00:00"
-    },
-    {
-      "text": "Father charged in suspected cocaine ring at Penn State is Pittsburgh attorney - TribLIVE.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3ZnTGpGUnZ3SGV0YnNDVnNPVE1kbEY5cXlNRmx3ZHUtNGliTHpIa3hPYmV3SWFwbF9FQnNwMkVqSGQtaGtJSElzZHhiM1lqdVlvYTFDZlZyeUplQlY2VkFnamhjSmlrVHJWTWZUTUU4aWdfMTNPZnZQNzJLV181MFI2bEFDOU5rZ3dhTnA2d3QzY1I1VENPaVRqOFNpQXNBWjA1S0RuakhaOFdTQ2VURThRbFY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T21:28:58+00:00"
-    },
-    {
-      "text": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-      "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T21:12:57+00:00"
-    },
-    {
-      "text": "Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T20:47:54+00:00"
     }
   ]
 }
