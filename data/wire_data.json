@@ -1,64 +1,46 @@
 {
-  "generated_at": "2026-08-18T18:04:08.927935+00:00",
+  "generated_at": "2026-08-18T18:58:28.759768+00:00",
   "lead": {
-    "text": "UAE says it detected two missiles fired from Iran; both fell into water",
-    "url": "https://thehill.com/policy/defense/6035824-uae-detects-iranian-missiles/",
-    "source": "The Hill",
+    "text": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
+    "url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-18T18:02:40+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-18T18:54:58+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "What the Meta Platforms trial means for investors",
-      "url": "https://www.cnbc.com/2026/08/18/what-the-meta-platform-trial-means-for-investors.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-18T17:57:25+00:00"
-    },
-    {
-      "text": "US mother begged for help before her children's killings, mother-in-law testifies",
-      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-18T17:54:46+00:00"
-    },
-    {
-      "text": "Democratic senators demand HHS stop sharing Medicaid info with ICE",
-      "url": "https://thehill.com/policy/healthcare/6035797-democrats-demand-halted-hhs-ice-sharing/",
+      "text": "Rubio announces sanctions on International Criminal Court president",
+      "url": "https://thehill.com/policy/international/6036022-rubio-sanctions-icc-president/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-18T17:48:56+00:00"
+      "time": "2026-08-18T18:46:51+00:00"
+    },
+    {
+      "text": "Live updates: California, 28 other states lay out case against Meta; Florida, Alaska voters head to polls",
+      "url": "https://thehill.com/homenews/administration/6034642-live-updates-florida-alaska-primary-elections-meta-trial-trump-iran/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-18T18:45:19+00:00"
+    },
+    {
+      "text": "Trump Hurls Blame Over Dead Grass, Tupac Murder Trial Begins: Live Updates - HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kWGVLTnlJWVJYSDh0cW1MMzhDbjVQWmJQelNrOWEyTi1LT2owYkFvclRCeTdLTUsxZ21OVFd5clh2NnBhRUx2TkswWnE3T1BCNzExRndSQkhhRnkxbk5mZ1RNeTN3S1luNUdQMHhJX2dWc2NpM0VmVUFn?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-18T18:39:00+00:00"
     }
   ],
   "col1": [
-    {
-      "text": "The Little-Known Link Between Dementia and Epilepsy",
-      "url": "https://www.nytimes.com/2026/08/18/well/mind/dementia-epilepsy-risk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:43:55+00:00"
-    },
-    {
-      "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-      "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:34:11+00:00"
-    },
     {
       "text": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
@@ -66,37 +48,26 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:20:55+00:00"
+      "time": "2026-08-18T18:24:18+00:00"
     },
     {
-      "text": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:04:00+00:00"
-    },
-    {
-      "text": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html",
+      "text": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
+      "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T16:31:06+00:00"
+      "time": "2026-08-18T18:13:37+00:00"
     },
     {
-      "text": "Dubai alert LIVE: Missile warning sent to UAE as Iran war sparks panic in Middle East - Daily Express",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzdWakxFYmE2cnlmM25aeFhSN3N4b0wtY3NKS09sRUhYZUc2bTZ2MVU2amNwMXJJaWJpbnBuX05OU0RORS0xSVZPYVJIbGpOakxJVVg5enFCbnRCUHJ2MVFMT3J1LW5ONGFBVDZOaUV4TGR1YVJnTDk5ZDZiRW5meVI1ZGVNRUZyR1HSAY8BQVVfeXFMTmNFTndPek1FNnV3MUo3VDNkVFN0VEpsQ2IwQWhDbUlsWE1LR2JLSE1ZQnNKczZqc1hlOEl3Tjd4eWYzZXpSQ2JTQ3VCYnJMVUUwWUhFVy1yaXVMWTZoWV9RUHZ3cWppSzhtVnV1ZGZiTW15RXBFa1VFSnpnTEIzaV9kOGtJWkI5ZVVXTmtxak0?oc=5",
+      "text": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T16:17:00+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-08-18T18:06:54+00:00"
+    },
     {
       "text": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
       "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
@@ -116,51 +87,51 @@
       "time": "2026-08-18T17:33:08+00:00"
     },
     {
-      "text": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
+      "text": "'Ready to deal with any threats': UAE vows response after Iran fires two missiles - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWk5WRmc3YmYxWmlHeDV0enFSUElRZlhibEM4SzdmVWNTbm9tVGpWczVSSzFRSWNhdk5hY0ZDcXA1b3QxZ3owekM2cTUxbGhzOW1neXozTmQ1TS14OGt5LWhjZXFLY2xvdm1SdEhkOUlGOFgtOXZkWFV0V0w0TW5FamI5bnlqYXM5SXVJa085ak9aNDlKdFM1T3ZOY0hHVWVscVNBb0hub0UwUXplVWVNSzcwaGU4Y29ZaWxhY0lSb19KelFLYmgwbzZmZzRDMmF4d3ZtaTRaNF9SbVBwdkw0N2xVdFZHNklNWXNxZlhaTdIB9AFBVV95cUxPSHF5UGt2VmJRUE1TZ2tnVk1xcm1nVTE5amZLeTlDVXpDTWFiODBPS3Zkc2FhZzZLYjRjbFZ4NXRpeWtZcVUzZDAzLWxuRERUc2ZXb2N6WjlLTlpSYy1QT2xMalE0ZlRXeEg3QWZRaG5iczRxTHE1ZHdRTTJuejFBVm9QMmRNYVgwTHNIS3U5VmRqU1ZMYUgtRlJuUk5MMHVtaTF1RUZmY0NMR3psa20tRXF1N1Rrb2lHYmZlN3cyeUpxVk11eWVlOFp4V2dZMlI2Q2JaQVpYWDRqbG40ZUlKWEw5eFJyWnhKelBDWmVVWlJWNnJm?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:20:00+00:00"
-    },
-    {
-      "text": "Two Ships Passing Through the Strait of Hormuz Are Attacked",
-      "url": "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T16:56:21+00:00"
-    },
-    {
-      "text": "Disney and ABC sue Trump's media regulator to stop early licence renewal - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bc1R0LW55S0dBRm5OTkRyeDA0OGZ4RmR6T2xURGFoMmhrN0F5YXFzQ1RuSWRCa3htdmpqckRMWGZ5R21XQVMzR1U4VW5oNWdNSTRUWkpUczh1QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T16:22:54+00:00"
-    },
-    {
-      "text": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fZ0pUSjlMM1pndW1wbm00cno4bTcxN1JtXzQzMVp5blRTNjhjRkw0ajRjTG56NHVhQ2xHQXBjZC12bEkyTVBHNHhweHFXcFpZdndRMTBJenRiN25VSV95UHZIaU5RcEV1S0NLem00aDJlSGt1SDViRA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T16:04:00+00:00"
+      "time": "2026-08-18T17:11:00+00:00"
     }
   ],
-  "col3": [
+  "col2": [
     {
-      "text": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
+      "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+      "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:37:04+00:00"
+      "time": "2026-08-18T18:22:53+00:00"
+    },
+    {
+      "text": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T18:12:21+00:00"
+    },
+    {
+      "text": "What Florida Has Taught Our Reporter About National Politics",
+      "url": "https://www.nytimes.com/2026/08/18/insider/florida-reporter-national-politics.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T18:04:06+00:00"
+    },
+    {
+      "text": "Madonna Leads 2026 MTV VMA Nominations: Full List - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT09wR2xmOG1EejlQT1EteTg2REFFMGxCRXQzY1AzZ3h2alp6QlpxOXVpQkMxY3BJZXFUNVRISjlwNmkwd2d3QnBxX2VxbktoV3Zvd1JJVFdCTjBJVld2VDZ6Nk83VGg0V0thNUUwTE9kWlVSd3o1bmo1VXY1Zi15VVkxcDFRMDJSdFdmc3RUVWlRVHM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T17:39:08+00:00"
     },
     {
       "text": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC",
@@ -172,6 +143,53 @@
       "time": "2026-08-18T17:24:36+00:00"
     },
     {
+      "text": "Minnesota attorney general sues Texas governor to compel extradition of ICE agent for trial - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRFZW9SYUlfeVpYRXU5ZWEyRW9Fb1ZEb0FnYU1vNnVOT3NKdS1qVGJCNEx6Nzc5aTgwQ2lCYTQtUDU3emNtRGRpRXJZbEptSUZIQnVrbzBfMmllaW8xa25JUVlNd0lFRXpLenB0WVotU2F6aEI2eDdVclQ4TXRmMDFOV0ZfUVJSZGlxUEpuYjZzSElIX0Z5ZVV3UGJyQUhNRENGMWEwSGRQdUFEWHE4S3kySFdYaFMx?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T16:57:14+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T18:14:00+00:00"
+    },
+    {
+      "text": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
+      "url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T18:07:16+00:00"
+    },
+    {
+      "text": "The Little-Known Link Between Dementia and Epilepsy",
+      "url": "https://www.nytimes.com/2026/08/18/well/mind/dementia-epilepsy-risk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T17:43:55+00:00"
+    },
+    {
+      "text": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T17:37:04+00:00"
+    },
+    {
       "text": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
       "url": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
       "source": "NYT",
@@ -181,31 +199,13 @@
       "time": "2026-08-18T17:17:12+00:00"
     },
     {
-      "text": "Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjA2ZEd5VnpuODl0YVZTLWVvWVVybWdveEMxdEZSM3FhOGotelJ4blVnQldCOXJ0Uml2RWFaakMxa2ZvT2xLNGd0alRWV0NXcm1fQ1hmcURicERyUzYzX2J0ZlNXZDFNREFESVJmaXRIVVF4SW5WUkpxLUlKVF94ZFFqZHBvejJGQVluNVMzUjA1YTZ2OW5NTGh6VUhFeVEwRlRkYUNLN0pGODlpRWdN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T16:47:00+00:00"
-    },
-    {
-      "text": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-      "url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+      "text": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise",
+      "url": "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T16:18:49+00:00"
-    },
-    {
-      "text": "Rosie O’Donnell Takes Aim At Donald Trump In Fiery ‘Jimmy Kimmel Live!’ Monologue: “Hi, I Know You’re Watching!” - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZHJEZEFEVzFkMjJaRUM3UTdTaHQzbTdTRnd2QjRDWHMwODVfUWJWWXdoVDhtanBzbUlua3hWbi1BUHBQQ2VYWjRiYmVSODRYdGdmNURWRm5nTFZ1QUlKd2JLT0RJUkVuMzhSTWR5UUh1OTVITE13QmlMa1k1U0U0VndXTmtveUNObjBicnY4Y1JUaUk0cEJ3aXpjdHQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T15:58:00+00:00"
+      "time": "2026-08-18T16:56:22+00:00"
     }
   ]
 }
