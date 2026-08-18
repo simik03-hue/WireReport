@@ -1,57 +1,66 @@
 {
-  "generated_at": "2026-08-18T15:38:43.058983+00:00",
+  "generated_at": "2026-08-18T16:03:54.528526+00:00",
   "lead": {
-    "text": "Stephen A. Smith on being given 'Thumbs Down' award from NABJ: 'It's highly offensive'",
-    "url": "https://thehill.com/blogs/in-the-know/6035210-stephen-a-smith-nabj-award/",
-    "source": "The Hill",
+    "text": "IRS clarifies 'no tax on overtime' deduction rules. What workers need to know",
+    "url": "https://www.cnbc.com/2026/08/18/irs-no-tax-on-overtime-deduction-rules-2026.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-18T15:32:03+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-18T15:59:41+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stop treating small business owners like criminals",
-      "url": "https://thehill.com/opinion/finance/6034366-congress-must-end-cta/",
+      "text": "Photonics and optics: This AI-linked group is easily beating the rest of the market. How to trade it",
+      "url": "https://www.cnbc.com/2026/08/18/photonics-names-are-beating-stocks-everywhere-ai-will-help-them-win.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-18T15:51:42+00:00"
+    },
+    {
+      "text": "The top 10 colleges for financial aid in 2026, according to The Princeton Review — and what families actually pay",
+      "url": "https://www.cnbc.com/2026/08/18/colleges-best-financial-aid-2026-princeton-review.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-18T15:50:38+00:00"
+    },
+    {
+      "text": "Swalwell admits to 'physical relations' with Chinese spy in newly released documents",
+      "url": "https://thehill.com/national-security/6035293-eric-swalwell-fbi-documents-christine-fang/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-18T15:30:00+00:00"
-    },
-    {
-      "text": "Disney-owned ABC files First Amendment lawsuit against FCC",
-      "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-18T15:28:10+00:00"
-    },
-    {
-      "text": "S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates",
-      "url": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-18T15:27:55+00:00"
+      "time": "2026-08-18T15:47:53+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb05YTlhtdm5CWWFjelNPMWFrWWtzUk9Vb05PZVRJT2FiSHc0em50elRIQ0lQX3Y1R0xlbVNKZjNPMDFKdHA1VWVjWnllN0ZqYUN4SWhWb01GWC16WTBCRXFGUUtBem54QVNrUE9SZnVZV19NRU1jQ245bEE5eHpzYWx4RTVWQXUwZjVZVG9LTlhKVGx6SXFsUjhORDY1dUhCYW1GNUMwdUdTQnJf?oc=5",
+      "text": "Inside NASA’s ‘Big Bang’: A Daring Plan to Keep the Distant Voyagers Alive - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Uc2RqcFdkRVF4N0RXc3FBd0p6enMyMDBxTnJabjBscTRmTnpnUlUtNTZWNDFTeHBKWjlvWERSa1l6dnk3LXFwSlF1V0pmbnl0Wkk4SVBoc2E3aUJmZC1lUWVsaVN2aEp6c3JCNTRTRk1KRzlZRi02a2J3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T15:24:23+00:00"
+      "time": "2026-08-18T15:38:32+00:00"
     },
     {
-      "text": "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village - AP News",
+      "text": "Israeli airstrikes hit Syrian airbase, drawing Turkish condemnation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGU5SDV5WlhteEdoT2hlZTBkZzY2N1hnYU5sZHF1N3FqTGc1UEd1Mm9MTjk5V24telp3cWVsc08yU3dqU3lJemxZaGhXb0t4UUNBdkpXTFFUckwzRDZ2cDFOenpsN013aW5RRDVWSUxHRHpkVTBzeTV6NmRRR2NhWGtoeEpjLURMTEY5bjlyck5zLXQ5cU9KVTRwNDFQUjZuWU9lRU1vRnBORm5zdi1zTVpIb3VqY0FLRjZZUzBQYktDOEs3Rl9nOHBOZF9zQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T15:18:14+00:00"
+    },
+    {
+      "text": "The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -60,60 +69,13 @@
       "time": "2026-08-18T15:03:00+00:00"
     },
     {
-      "text": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
-      "url": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T14:42:29+00:00"
-    },
-    {
-      "text": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow",
-      "url": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T14:14:55+00:00"
-    },
-    {
-      "text": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T14:09:38+00:00"
-    },
-    {
-      "text": "Los Angeles Lakers: Jeanie Buss seeks to block sale of family's 17.8% stake - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uYmZzY2RmS1ZZSjU2cnRTbzROZFRwQWUyRWMwdjgyNFZPdlZjd2FIUU1DaWpjUEM3T01ZVWswVWZ3SGtNXzlRUVJ6aEJ3UXhVeG5yX0kzMjZ2bTRmNzNRYmhsekMtRkt4SXc?oc=5",
+      "text": "Bond markets from US to Japan whacked as inflation and fiscal worries take hold - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T13:39:42+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T15:08:00+00:00"
-    },
-    {
-      "text": "The Little-Known Link Between Dementia and Epilepsy",
-      "url": "https://www.nytimes.com/2026/08/18/well/mind/the-little-known-link-between-dementia-and-epilepsy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T15:00:16+00:00"
+      "time": "2026-08-18T14:56:26+00:00"
     },
     {
       "text": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors",
@@ -132,35 +94,35 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-18T14:12:55+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
-      "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T14:03:33+00:00"
-    },
-    {
-      "text": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
+      "text": "Disney and ABC sue FCC, seeking to stop early license renewal process - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFZVVjgwc2dvbnNVMzYwNXBnQ1MwTFZuZHJGc2Rxb0JQTGF5VHVfTUdYYVY4ZWVMd2RiY0JCQmFwU3NvdDFjZGtYWURNZlNRVnhtYTBoZnJjdEltYkFBbl81eDNNQTVrSXRsanBHeS1mRWswU0ZpMy15MEI0cWphY1BhYzl3eWtvNVc3TDNJVlZMNEpMMHJkXzFydUhzSkhHWmNnVWFVM3V1dGlkekxzMVJyb1g?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T13:39:00+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-08-18T15:35:07+00:00"
+    },
     {
-      "text": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
-      "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T15:06:35+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T15:08:00+00:00"
+    },
+    {
+      "text": "X-rays add new twist to narwhal's spiral tusk - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNem10Q3pObVN6aVdJZmVJR1VMNGFEZFZ6Q3N6VzdXMVlDcUNpamV5M3NqRWRSSURaUjEtU25kdGZ0c1JzNDRIbGpGejJlRTFUZ2FvV1pmTENpSzZ0amtvckFzaVd5ejhOTWdhbEY2NW5ReHllSmtBZXpiYWVKT2paNlV4ZHUyRkFjM1B4dTdR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T15:00:51+00:00"
     },
     {
       "text": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
@@ -181,31 +143,69 @@
       "time": "2026-08-18T14:34:21+00:00"
     },
     {
-      "text": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T14:11:39+00:00"
-    },
-    {
-      "text": "Madonna Leads 2026 MTV VMA Nominations: Full List - Billboard",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT09wR2xmOG1EejlQT1EteTg2REFFMGxCRXQzY1AzZ3h2alp6QlpxOXVpQkMxY3BJZXFUNVRISjlwNmkwd2d3QnBxX2VxbktoV3Zvd1JJVFdCTjBJVld2VDZ6Nk83VGg0V0thNUUwTE9kWlVSd3o1bmo1VXY1Zi15VVkxcDFRMDJSdFdmc3RUVWlRVHM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T14:00:28+00:00"
-    },
-    {
-      "text": "Trump Takes Aim at CNN Reporter Kristen Holmes During Event to Honor California Lifeguard",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-lifeguard-cnn-reporter.html",
+      "text": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T13:37:02+00:00"
+      "time": "2026-08-18T14:09:38+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Hayden Panettiere’s ex-boyfriend was at scene when she died, police report says - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU9oWXNBaHZPT3FMaGdFUjJkaER2RllQNjR3VU1MV0pzNUx3Z3I0UzlLd1FBSzN2UFlMY3lKRHY3TnRGVU05M0k4TGQ5QkhpSVg0Ui1YMDB4VjJ3LUFmRzA3ZVRWdnZURXBNNU9VTDl0bEl5aUsxNWlwVWVhQi1PczM0Tm5WNUdLaWNfTE1jWXd1c2wwZ0JURHAxLUtZblduSVdndTA3bXIxdU5UbTFlTEFtRQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T15:27:54+00:00"
+    },
+    {
+      "text": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
+      "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T15:06:35+00:00"
+    },
+    {
+      "text": "The Little-Known Link Between Dementia and Epilepsy",
+      "url": "https://www.nytimes.com/2026/08/18/well/mind/the-little-known-link-between-dementia-and-epilepsy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T15:00:16+00:00"
+    },
+    {
+      "text": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
+      "url": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T14:42:29+00:00"
+    },
+    {
+      "text": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow",
+      "url": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T14:14:55+00:00"
+    },
+    {
+      "text": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
+      "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T14:03:33+00:00"
     }
   ]
 }
