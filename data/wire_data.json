@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-08-18T19:34:48.162341+00:00",
+  "generated_at": "2026-08-18T20:00:11.641615+00:00",
   "lead": {
-    "text": "S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates",
-    "url": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "Ossoff says Trump is 'draft-dodging crook president' at Georgia town hall meeting",
+    "url": "https://thehill.com/homenews/administration/6036115-ossoff-calls-trump-crook/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-18T19:31:20+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-18T19:57:08+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "U.S. debt is set to hit $40 trillion, months earlier than expected, as bond yields rise - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlhQbjVCWFFqOVFHRnloTTlvUFhISUFEcUJ5ZTJuckY4Z3JSaHowdW5fSzFuQ0Y3dWdFc3NNR2JSV1VrbGVJcHY2S2g0SDExdmF6a1FUXzZ4eVZKNWVKQU1RZGRscUcxZURhYUF6Z01nYUVnN3k4ZVZLQjczX1hpamhzdDFHNDRBakktd0hNN21GSGFwSjMtTXhoV3ROSmRRdDlmR1UxVXBqNDUy?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-08-18T19:27:26+00:00"
+      "text": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T19:54:37+00:00"
     },
     {
-      "text": "The market is broadening and it’s time to look beyond megacap tech. Three charts show why",
-      "url": "https://www.cnbc.com/2026/08/18/the-market-is-broadening-and-its-time-to-look-beyond-megacap-tech.html",
-      "source": "CNBC",
+      "text": "Judge swapped in Trump's defamation case against BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-18T19:25:50+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-18T19:52:32+00:00"
     },
     {
-      "text": "Psaki questions Ossoff on White House aide remark",
-      "url": "https://thehill.com/homenews/administration/6035782-psaki-ossoff-natalie-harp-comments/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-18T19:25:19+00:00"
+      "text": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T19:51:33+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "The New Physics of Power",
+      "url": "https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T19:31:56+00:00"
+    },
     {
       "text": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
       "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html",
@@ -51,69 +60,22 @@
       "time": "2026-08-18T19:22:50+00:00"
     },
     {
-      "text": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "text": "Frank Beard, ZZ Top’s Hard-Shuffling Drummer, Dead at 77 - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlowa29uSEJ4b09jQmVSWmZlVkZCdk5EWGxRd1poeXZKSmY3NGlQaHo2TzNJOXFJbXNmMVNMSk5naGtEcmZ2bDRTY0FBTzNIUktMZzMzY21uZnRwSnhnTzVQczc3QTMyTFM4NWNWZXRpOWRjVHhQRmxaSzZnUnN5dG9yNXA2eFJuSnE1ekRJcWRWOUNzWVRLcFRGVmY4MjQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T18:58:42+00:00"
+      "time": "2026-08-18T19:17:21+00:00"
     },
     {
-      "text": "Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVVwd054ZVA0cEMwU01FXzZ4M0hVNWZoTVRNc3owa0F1OFlvbkVKNGZLaHVGN2Z0dU9JNkVOaUozMlRSMGgwTHBLUVRjZF9sdnV4QXAxNXZVQ0NWd1FwZUl3ZkxkUjVyUXpsNzFXd2NkUFF6UkdmeGlza1BpNE1yQnl1Zl9UTnZq?oc=5",
+      "text": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T18:24:11+00:00"
-    },
-    {
-      "text": "What Florida Has Taught Our Reporter About National Politics",
-      "url": "https://www.nytimes.com/2026/08/18/insider/florida-reporter-national-politics.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T18:04:06+00:00"
-    },
-    {
-      "text": "Madonna Leads 2026 MTV VMA Nominations: Full List - Billboard",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT09wR2xmOG1EejlQT1EteTg2REFFMGxCRXQzY1AzZ3h2alp6QlpxOXVpQkMxY3BJZXFUNVRISjlwNmkwd2d3QnBxX2VxbktoV3Zvd1JJVFdCTjBJVld2VDZ6Nk83VGg0V0thNUUwTE9kWlVSd3o1bmo1VXY1Zi15VVkxcDFRMDJSdFdmc3RUVWlRVHM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:39:08+00:00"
-    },
-    {
-      "text": "Forty First Dates and Still Searching",
-      "url": "https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:33:08+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-      "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T19:17:52+00:00"
-    },
-    {
-      "text": "Trump seeks to open millions of acres of national forests to roads - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHZfRTMtMzlKTFNUYlFwMjB6WWxZRW8wR21PMHR3RTNRYzAzNTRfa0xLYy1KWmJrZFJqRHE0MWRmVFM1ZE9Mc19PMjVfM2RJZWZGYW9YNU5fM1p0OFFvSmpyb0tjbnV0Vllsd2JHT0gwT1Y4ejlfTVVfUEp0bFZtZENvdW5xNmlacWlYcjZmYlJhbWJ6cHF6SmdYMDd2b0xRZ3VnTUVtR3FId0MwbXg4c2ZZelM5VzZY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T18:30:42+00:00"
+      "time": "2026-08-18T18:55:00+00:00"
     },
     {
       "text": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
@@ -125,42 +87,24 @@
       "time": "2026-08-18T18:13:37+00:00"
     },
     {
-      "text": "The Little-Known Link Between Dementia and Epilepsy",
-      "url": "https://www.nytimes.com/2026/08/18/well/mind/dementia-epilepsy-risk.html",
+      "text": "What Florida Has Taught Our Reporter About National Politics",
+      "url": "https://www.nytimes.com/2026/08/18/insider/florida-reporter-national-politics.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:43:55+00:00"
-    },
-    {
-      "text": "The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:39:00+00:00"
-    },
-    {
-      "text": "Trump says US has no planned talks with Iran and other news from the Middle East - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:33:00+00:00"
+      "time": "2026-08-18T18:04:06+00:00"
     }
   ],
-  "col3": [
+  "col2": [
     {
-      "text": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "WHO says Congo Ebola outbreak can still be brought under control within three months - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGFoT0VRSHp6MWZuVTZJRnlUSkNENVhiNW5zWDVYR1JxN3ZaaGx2SFhXUnNoUW8wdmtBNnpaNGNIcU90MTJaNWxqX2UwSlM0bVVYTW52cFdIN1BzMzdZYXdMMi1RekhKblVqbV9STFgwbHgtMXRIb3dSWjcwU3QxY25ZaS1DTDM1YUZ6c3gtclIzaGNiN2hyZDcyaVJ6Q3Z4TUZFTjlCMlYyQVhKZGFVZTIyNVdBamR6YTlXNXZvVUlkZ2QydU9yWnZxT2JyZUZMRU1TWTZDMmhSS3VBWFU1NEI2UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T19:04:45+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T19:28:36+00:00"
     },
     {
       "text": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
@@ -169,7 +113,25 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T18:24:18+00:00"
+      "time": "2026-08-18T19:22:20+00:00"
+    },
+    {
+      "text": "Trump is weighing whether to grant Canada a tariff reprieve - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T19:09:00+00:00"
+    },
+    {
+      "text": "Trump administration to rescind rule protecting old growth forests - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeDBUdW5WczZCaWdrVTdjOEFJaVVpNkVJbzNRX1VBekJtQXctUTdybWRnZDNmN0VWSHc1dkd5QlR3OXI5ZFNJMzJlRnhNY25GODhjQ0lrUXAzUHZzM2g0ZDJLeTREX3ZPaDl0MXM2T0FsdDhrc29vRzNKb21YX0ItQnR1OTJFbHczMUxn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T18:53:00+00:00"
     },
     {
       "text": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
@@ -181,31 +143,69 @@
       "time": "2026-08-18T18:07:16+00:00"
     },
     {
-      "text": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:41:00+00:00"
-    },
-    {
-      "text": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:37:04+00:00"
-    },
-    {
-      "text": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eGhJRXZqdTAyWnhKVlBDZ1hvUms5eFZIN0lPTU5Nd0JTUXFMX3dGMWRKbHNYZjc0OFA0SHJNSS1zNnJPbTNyN2hGMlJGMVNaYXg2ZjlB?oc=5",
+      "text": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:24:36+00:00"
+      "time": "2026-08-18T17:54:46+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "ABC sues FCC, claiming First Amendment violations, escalating months-long feud - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXV3Vmo3R2dUaV8zZm9NNF9Lb0lHVHhlSExaM2RQcTQ0N3BsMEdUcW05SkZveDV6RGFXeHpQSndlekdzNHo0RV9lMlExVzMyYkN6TV9YMU1jRS1iRThQbmtGb1JLWGI3dkc1WlpXY0dUNVBpcl9nemJLM1RESS1BU3YxUnZnd2NRLXl3UzNHTG9QVWxxNjBydnhReElVNnBFU25YN045TjFfZmdGSHZsVmdNT3ptN1lrendPcUNRUFhSMjhkdkc4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T19:27:26+00:00"
+    },
+    {
+      "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+      "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T19:17:52+00:00"
+    },
+    {
+      "text": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T19:04:45+00:00"
+    },
+    {
+      "text": "Iran is losing control of the Strait of Hormuz - CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UYmdZbW8tMm55Yzg4Z3VFeDFiWUk2TDNWWU13aVdKU2tSSmtOb3FMWnBaOWRxMW1tMUZna01vZnpZUXdMaDNKLVVVR1FOMTlrZm03V2JWeGVzR2VxY19QbkdCaFR6ckdhOVdFU05PWEhvMnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T18:17:01+00:00"
+    },
+    {
+      "text": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T18:06:54+00:00"
+    },
+    {
+      "text": "The Little-Known Link Between Dementia and Epilepsy",
+      "url": "https://www.nytimes.com/2026/08/18/well/mind/dementia-epilepsy-risk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T17:43:55+00:00"
     }
   ]
 }
