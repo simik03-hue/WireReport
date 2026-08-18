@@ -1,111 +1,46 @@
 {
-  "generated_at": "2026-08-18T18:58:28.759768+00:00",
+  "generated_at": "2026-08-18T19:34:48.162341+00:00",
   "lead": {
-    "text": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
-    "url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
+    "text": "S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates",
+    "url": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-18T18:54:58+00:00",
+    "time": "2026-08-18T19:31:20+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Rubio announces sanctions on International Criminal Court president",
-      "url": "https://thehill.com/policy/international/6036022-rubio-sanctions-icc-president/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-18T18:46:51+00:00"
-    },
-    {
-      "text": "Live updates: California, 28 other states lay out case against Meta; Florida, Alaska voters head to polls",
-      "url": "https://thehill.com/homenews/administration/6034642-live-updates-florida-alaska-primary-elections-meta-trial-trump-iran/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-18T18:45:19+00:00"
-    },
-    {
-      "text": "Trump Hurls Blame Over Dead Grass, Tupac Murder Trial Begins: Live Updates - HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kWGVLTnlJWVJYSDh0cW1MMzhDbjVQWmJQelNrOWEyTi1LT2owYkFvclRCeTdLTUsxZ21OVFd5clh2NnBhRUx2TkswWnE3T1BCNzExRndSQkhhRnkxbk5mZ1RNeTN3S1luNUdQMHhJX2dWc2NpM0VmVUFn?oc=5",
-      "source": "Google News World",
+      "text": "U.S. debt is set to hit $40 trillion, months earlier than expected, as bond yields rise - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlhQbjVCWFFqOVFHRnloTTlvUFhISUFEcUJ5ZTJuckY4Z3JSaHowdW5fSzFuQ0Y3dWdFc3NNR2JSV1VrbGVJcHY2S2g0SDExdmF6a1FUXzZ4eVZKNWVKQU1RZGRscUcxZURhYUF6Z01nYUVnN3k4ZVZLQjczX1hpamhzdDFHNDRBakktd0hNN21GSGFwSjMtTXhoV3ROSmRRdDlmR1UxVXBqNDUy?oc=5",
+      "source": "Google News Business",
       "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-18T18:39:00+00:00"
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-08-18T19:27:26+00:00"
+    },
+    {
+      "text": "The market is broadening and it’s time to look beyond megacap tech. Three charts show why",
+      "url": "https://www.cnbc.com/2026/08/18/the-market-is-broadening-and-its-time-to-look-beyond-megacap-tech.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-18T19:25:50+00:00"
+    },
+    {
+      "text": "Psaki questions Ossoff on White House aide remark",
+      "url": "https://thehill.com/homenews/administration/6035782-psaki-ossoff-natalie-harp-comments/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-18T19:25:19+00:00"
     }
   ],
   "col1": [
-    {
-      "text": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T18:24:18+00:00"
-    },
-    {
-      "text": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
-      "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T18:13:37+00:00"
-    },
-    {
-      "text": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T18:06:54+00:00"
-    },
-    {
-      "text": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:41:00+00:00"
-    },
-    {
-      "text": "Forty First Dates and Still Searching",
-      "url": "https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:33:08+00:00"
-    },
-    {
-      "text": "'Ready to deal with any threats': UAE vows response after Iran fires two missiles - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWk5WRmc3YmYxWmlHeDV0enFSUElRZlhibEM4SzdmVWNTbm9tVGpWczVSSzFRSWNhdk5hY0ZDcXA1b3QxZ3owekM2cTUxbGhzOW1neXozTmQ1TS14OGt5LWhjZXFLY2xvdm1SdEhkOUlGOFgtOXZkWFV0V0w0TW5FamI5bnlqYXM5SXVJa085ak9aNDlKdFM1T3ZOY0hHVWVscVNBb0hub0UwUXplVWVNSzcwaGU4Y29ZaWxhY0lSb19KelFLYmgwbzZmZzRDMmF4d3ZtaTRaNF9SbVBwdkw0N2xVdFZHNklNWXNxZlhaTdIB9AFBVV95cUxPSHF5UGt2VmJRUE1TZ2tnVk1xcm1nVTE5amZLeTlDVXpDTWFiODBPS3Zkc2FhZzZLYjRjbFZ4NXRpeWtZcVUzZDAzLWxuRERUc2ZXb2N6WjlLTlpSYy1QT2xMalE0ZlRXeEg3QWZRaG5iczRxTHE1ZHdRTTJuejFBVm9QMmRNYVgwTHNIS3U5VmRqU1ZMYUgtRlJuUk5MMHVtaTF1RUZmY0NMR3psa20tRXF1N1Rrb2lHYmZlN3cyeUpxVk11eWVlOFp4V2dZMlI2Q2JaQVpYWDRqbG40ZUlKWEw5eFJyWnhKelBDWmVVWlJWNnJm?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:11:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-      "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T18:22:53+00:00"
-    },
     {
       "text": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
       "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html",
@@ -113,7 +48,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T18:12:21+00:00"
+      "time": "2026-08-18T19:22:50+00:00"
+    },
+    {
+      "text": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T18:58:42+00:00"
+    },
+    {
+      "text": "Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVVwd054ZVA0cEMwU01FXzZ4M0hVNWZoTVRNc3owa0F1OFlvbkVKNGZLaHVGN2Z0dU9JNkVOaUozMlRSMGgwTHBLUVRjZF9sdnV4QXAxNXZVQ0NWd1FwZUl3ZkxkUjVyUXpsNzFXd2NkUFF6UkdmeGlza1BpNE1yQnl1Zl9UTnZq?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T18:24:11+00:00"
     },
     {
       "text": "What Florida Has Taught Our Reporter About National Politics",
@@ -134,42 +87,42 @@
       "time": "2026-08-18T17:39:08+00:00"
     },
     {
-      "text": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eGhJRXZqdTAyWnhKVlBDZ1hvUms5eFZIN0lPTU5Nd0JTUXFMX3dGMWRKbHNYZjc0OFA0SHJNSS1zNnJPbTNyN2hGMlJGMVNaYXg2ZjlB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T17:24:36+00:00"
-    },
-    {
-      "text": "Minnesota attorney general sues Texas governor to compel extradition of ICE agent for trial - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRFZW9SYUlfeVpYRXU5ZWEyRW9Fb1ZEb0FnYU1vNnVOT3NKdS1qVGJCNEx6Nzc5aTgwQ2lCYTQtUDU3emNtRGRpRXJZbEptSUZIQnVrbzBfMmllaW8xa25JUVlNd0lFRXpLenB0WVotU2F6aEI2eDdVclQ4TXRmMDFOV0ZfUVJSZGlxUEpuYjZzSElIX0Z5ZVV3UGJyQUhNRENGMWEwSGRQdUFEWHE4S3kySFdYaFMx?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T16:57:14+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T18:14:00+00:00"
-    },
-    {
-      "text": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-      "url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+      "text": "Forty First Dates and Still Searching",
+      "url": "https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T18:07:16+00:00"
+      "time": "2026-08-18T17:33:08+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+      "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T19:17:52+00:00"
+    },
+    {
+      "text": "Trump seeks to open millions of acres of national forests to roads - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHZfRTMtMzlKTFNUYlFwMjB6WWxZRW8wR21PMHR3RTNRYzAzNTRfa0xLYy1KWmJrZFJqRHE0MWRmVFM1ZE9Mc19PMjVfM2RJZWZGYW9YNU5fM1p0OFFvSmpyb0tjbnV0Vllsd2JHT0gwT1Y4ejlfTVVfUEp0bFZtZENvdW5xNmlacWlYcjZmYlJhbWJ6cHF6SmdYMDd2b0xRZ3VnTUVtR3FId0MwbXg4c2ZZelM5VzZY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T18:30:42+00:00"
+    },
+    {
+      "text": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
+      "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T18:13:37+00:00"
     },
     {
       "text": "The Little-Known Link Between Dementia and Epilepsy",
@@ -181,6 +134,62 @@
       "time": "2026-08-18T17:43:55+00:00"
     },
     {
+      "text": "The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWNZbnhPNkw5SFowb3FVbzZYN2VIbThFU0ZnckM0eHdHSmdwanEwbHM4eGxLN1Z4bnBoeFZhS2dBNGNWTHFZNjBVWTN6ZGRuRm4yZ3VwalBPTFJ3dUhiQnd2TE5BZkhLMW9vd2pWam5DcmdVOUpCR3JObnN1YV9nMUJBcngya1RvQkRVRXRYUjdqLWFaYllkSTFHbDQwUTA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T17:39:00+00:00"
+    },
+    {
+      "text": "Trump says US has no planned talks with Iran and other news from the Middle East - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T17:33:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T19:04:45+00:00"
+    },
+    {
+      "text": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T18:24:18+00:00"
+    },
+    {
+      "text": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
+      "url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T18:07:16+00:00"
+    },
+    {
+      "text": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-18T17:41:00+00:00"
+    },
+    {
       "text": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
       "url": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
       "source": "NYT",
@@ -190,22 +199,13 @@
       "time": "2026-08-18T17:37:04+00:00"
     },
     {
-      "text": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
-      "url": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eGhJRXZqdTAyWnhKVlBDZ1hvUms5eFZIN0lPTU5Nd0JTUXFMX3dGMWRKbHNYZjc0OFA0SHJNSS1zNnJPbTNyN2hGMlJGMVNaYXg2ZjlB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T17:17:12+00:00"
-    },
-    {
-      "text": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise",
-      "url": "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T16:56:22+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-18T17:24:36+00:00"
     }
   ]
 }
