@@ -1,54 +1,72 @@
 {
-  "generated_at": "2026-08-19T21:32:41.644240+00:00",
+  "generated_at": "2026-08-19T22:02:11.649506+00:00",
   "lead": {
-    "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-    "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Ossoff annoys Trump, White House, to Democratic delight and dismay",
+    "url": "https://thehill.com/homenews/campaign/6039986-ossoff-trump-natalie-harp-attack/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-19T21:32:15+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-19T21:56:03+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-19T21:29:38+00:00"
-    },
-    {
-      "text": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-08-19T21:27:51+00:00"
-    },
-    {
-      "text": "National debt crosses $40 trillion",
-      "url": "https://thehill.com/business/6039874-us-national-debt-crosses-40-trillion/",
+      "text": "Data center fervor ignites Ohio Senate race",
+      "url": "https://thehill.com/newsletters/technology/6039967-data-center-fervor-ignites-ohio-senate-race/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-19T21:23:28+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-19T21:52:09+00:00"
+    },
     {
-      "text": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+      "text": "Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides",
+      "url": "https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T21:47:51+00:00"
+    },
+    {
+      "text": "Stock Market Today: Dow Opens Higher, Bond Yields Dive After Treasury Steps Up Buybacks — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYUV6eHp3ak9nQS1lelJ4bUNGcXhzb3dFZHIza09ycS0yWmpROHE1T21kTWN3SEJ2dzNQUHMzOVhBTk84TXkwRjgtZmVScTJLekltN3BsVTQzNEtSS2NudzRoQXlUNFFweS1lR1IyVkhrVHJHYmdpZWppMzQyell3SnFZYU5vdmM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T21:18:00+00:00"
+      "time": "2026-08-19T21:45:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T21:39:49+00:00"
+    },
+    {
+      "text": "Prince Harry and Meghan to return to UK - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02VTZyZTNQNHJPbU5LWXgyM2thakVFbzNfdUVTa0J1bHRWMFRlWDdpWkJZOWRVVXlvZlhsMHhxTm55SXhRbmdwVzZacGRHbmU4cEJmZFAtSUoyUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T21:30:01+00:00"
+    },
+    {
+      "text": "Why Treasury Yields Are Rising, and What That Means for the Economy",
+      "url": "https://www.nytimes.com/2026/08/19/business/treasury-bonds-yields-economy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T21:16:20+00:00"
     },
     {
       "text": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
@@ -60,69 +78,13 @@
       "time": "2026-08-19T20:50:56+00:00"
     },
     {
-      "text": "Wings star rookie Azzi Fudd out for season with knee injury - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEY3aXlLQXE5ZW5FSmpNdGRTWmI1T0RzeFd1TGFGdUM1MWNFSXh0MlJfbml1c050TXpfdU1tVjlscVlLRHVjRXQ1R3ZlMklTNmVyelczOHk2b294dFV2cnR1WnBJWmluS0RDNnIwRU9CZ21nbEZyMjl0OVhGZlkxTlhjVWxCSHlsLVpLTkx0czZRSC03OU1F?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T20:45:00+00:00"
-    },
-    {
-      "text": "Post Malone and Christy Lee Get Engaged After 2025 Breakup - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMLWlEYkNnQWFGbjNZQjBLeUFOQ3FEZlhXSHVybUtpbFlNRk5oR2o5MVc5ZkdISGRadDZmZ2d0d0doN0NOTFllUWVSYkxocTFxWU1DT2V5NXhoVXpkY2stNzJQUFpwLXI3cTF0MDRQV3A?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T20:21:02+00:00"
-    },
-    {
-      "text": "Yair Rodriguez out of UFC Noche main event, Jean Silva gets new opponent - MMA Fighting",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3dLRHMxMEprZkozaUVCX2lVdjJmVWRZMlY1UnRaZUwxSUxwMm1Ec0pMQnhBRnpza19GT0JmWjk5WVhzRWxpZzdhLXBjTlBfdXZ5bmVBMjJRcF8zbjdrd3hYVVJaSmE2d3BwZ28xN1BIRXVaYXRiaE9YVnByTGoxMGw3bjJVOE83Rm0tRnN2MzAyN1NLOGp5YmZ1bXRQTWZuVDRkSGhJN216OWJlR1ZDRXRlVWFXRmM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T20:15:06+00:00"
-    },
-    {
-      "text": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkl0OHlnRWFEd2x4RkNFcloyYWw0UEhZTjU2VW9KUTlsUGlWN1JUelNlYmtmYkRyRFh6b0ttNTF0c3o3SEtLdFFpVGxhRV82VHlBR2F6ZUJtWGd3SWFjcTNySkt2cnNiMnRaRDd2Z3piUlVQa2pVQzVzbXRyREdDSUx2OGNPX25tSFBGcEpzbXJZQzFFWWRQaFhoQWQ0NWlOR1A5V3ExSkVKN0REV0wwMW0yNVRTYm96RzFZOVpVT0lEbkd6U3h3VHBlbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T20:03:35+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
+      "text": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
+      "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T21:09:55+00:00"
-    },
-    {
-      "text": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
-      "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T20:45:37+00:00"
-    },
-    {
-      "text": "Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides",
-      "url": "https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T20:38:03+00:00"
+      "time": "2026-08-19T20:32:13+00:00"
     },
     {
       "text": "More of Trump’s Chosen Candidates Lose Republican Primaries",
@@ -132,27 +94,83 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-19T20:20:46+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "‘Drop in the bucket’: Why Wall Street will shrug off Bessent’s bond market plans - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGNacDVjY3FnUXVmVjc4aV9oc3NsU1VWa19yazE1X3JOeVk3cl9EdE4wZlVtRHB1bnV3Y3liM0dYdmNoTjJxQ3hhSEU3a2dnYld2MkJqTEhtVlJfWC1Ea1NKa09taDRrbGNmM0JLSFRHNjN0Y1R0alZMWUM5MlBSVzlobEZsajcybWxRMnVBNXNZeHM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T20:08:00+00:00"
-    },
-    {
-      "text": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
+      "text": "Trump to Appear on Radio With Michael Cohen, His Onetime Nemesis",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-podcast-michael-cohen.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T19:59:31+00:00"
+      "time": "2026-08-19T21:37:59+00:00"
+    },
+    {
+      "text": "U.S. Eyes Lower Tariffs on Metals and Autos in Canada Trade Deal - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXBwLTVfNFl3YjZyR1VjMERhd2RzengxRndfYVNtUFpkQU1pTGl6NXpiMVk3bUxhczF5T2l6VWtTbkRSalVIbTlVcExnbEhHUFEyQ2VLTTlDY1laOXRFOHVqX0ZROGpjQUlNWmRQTkdiUjVxc0NiVjZmeGVtd0x2SFhmUkc4cUwwdUJyWERhdzE5aU9VeEVBWWIybWZCazJXTHItM0Ryak92Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T21:23:00+00:00"
+    },
+    {
+      "text": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T21:12:18+00:00"
+    },
+    {
+      "text": "Wings star rookie Azzi Fudd out for season with knee injury - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEY3aXlLQXE5ZW5FSmpNdGRTWmI1T0RzeFd1TGFGdUM1MWNFSXh0MlJfbml1c050TXpfdU1tVjlscVlLRHVjRXQ1R3ZlMklTNmVyelczOHk2b294dFV2cnR1WnBJWmluS0RDNnIwRU9CZ21nbEZyMjl0OVhGZlkxTlhjVWxCSHlsLVpLTkx0czZRSC03OU1F?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T20:45:00+00:00"
+    },
+    {
+      "text": "‘Don’t’: Netanyahu says he warned Turkey before Israel struck Syrian base - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTNaa0JEbHdYcmRwTFVfOHBacGJNWDdJUzk1Mk5Sak5taG9xd3gzUjF2QU5oM2dMdFJ6Smd6MU5KaGc1Qjg4TjFEMHBPTy1XVFExQmw5dUZVVmVrR1d6YjBHZ2hDMGpvbGVYRDdNZnRIcFRzS2NvYUNlM19VQUlKd1lWTGttaXQyU2NieGNWRkszY0E3OWRQUUNiY2tYOTZwdlHSAacBQVVfeXFMTnh2YWZLYXJySEdpajZFYThQLVZPNF93N2dtMFdzSk0xMFFVX1lEV0doVVJJb1pINFRSdVI1Sl85UzFheTFOV0dUeUtvRnRrYkxmMGdRc3paa3ozcENta0k4N2tJdEh0TDVHcVFvWnJWbG45NlRhNUkzWGxTZnVLUmE4UDItRUVRdGxYNENORXN0VldvRlVJakdFbjFyQWpROWRyN1pRTGs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T20:22:34+00:00"
+    },
+    {
+      "text": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T20:18:49+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "Harry and Meghan Will Move Back to Britain After 6 Years in U.S.",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T21:37:56+00:00"
+    },
+    {
+      "text": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T21:18:00+00:00"
+    },
     {
       "text": "Before-and-after images show where SpaceX rocket crashed into the moon - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHJYVnFodU1veUZFMFVLclUtUFRvLWNha2tIa0ZwNUpxU3NWYmVTYUJ6eGliekpwNnhXWVFxR1hNOXZNal9na0pzYzd5d1FnclljcGNBd1BTWk11bElXTnZHNUNLSUFwRjlkMklmNUV1QS05SnhMWjRVZ2pmR0VsZ3VUZzQzZG0zWDdtSmxpX2xPeWV2YVNJVw?oc=5",
@@ -163,31 +181,22 @@
       "time": "2026-08-19T20:53:23+00:00"
     },
     {
-      "text": "Trump Nominates Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OUnRKZVpJUllSeXZiVFJqcm5BVDNxVElLT191RG1pLUR5WnhpYXBNQktuTlozMlY3djdPenhmLWpOT1NDdm5GVFNuVjA4bDA5MkMwNGJVTjNqWmNOTVhzeVRGZ2o3VkJOb3ZEeGsyMUFpUQ?oc=5",
+      "text": "U.S. government debt passes $40 trillion, more than doubling in a decade - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0syUURsd25oZ1hkM0FkZ1NoMW1tU19ZUVlHOE5rWkNjcWxvczZYb01sNVZ1VnRySzFwa2pGcUF0RFBhc0tGUW1jb0ZsZGI1U0pVQzBLNVpxLXNtY2tyQ0NtT0ZDQ0NyZ2Nsc3JINUdDY3dqdjBzcmJ4aFFISTEyZ0dfd0RmTm1vWnpPSE9OMTB5aUxPMjJjdGg3OVlVNGfSAaQBQVVfeXFMTzFOcEFsaUU0N1FsaXVmUzZOWURqdkY0Mmg3YWMwZ3lUdTFKRm1zdkJySGRkcndpQjNjeEg3eXpENTJWdmZXOVhyanFCOHBfNVVCVlY3dmZrTWUtYWhCY096czRJSGdTY3pCcm9VNVhEVWFQdXpRbUpvSzJ5UFVVWDZ5NklSUC1vSW95TVB5a0RmVmQtRktvMFdwR3NKeU5rdi1ZUXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T20:45:00+00:00"
+      "time": "2026-08-19T20:35:07+00:00"
     },
     {
-      "text": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
-      "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDY2QURhUXNwUE11WUVxS211QVhDMUZPRTY1NVV1bnNUUzhfbFl1bHQ3NDlsU2cwcm5KNXB2MlRxWm15VXdpcTNpRVlHWXFXNVBvUmhOaThyUnA3YlBaMVhIaU5yYzBnSDVYa0NsMUFBWnpOQWxwZ056Ym9ialMtY3NWUVFveWpEbWx5LWVQS09EcHBHV0xwdzNNMUVhdU5haGd5SU5EMDV2NlBLdU55WTBIcGQyZ284?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T20:32:13+00:00"
-    },
-    {
-      "text": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T20:18:49+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T20:21:59+00:00"
     },
     {
       "text": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-19T20:05:47+00:00"
-    },
-    {
-      "text": "The ‘Crack Spread’ Is Going to Make Your Life Unpleasant",
-      "url": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T19:53:15+00:00"
     }
   ]
 }
