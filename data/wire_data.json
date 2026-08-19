@@ -1,46 +1,82 @@
 {
-  "generated_at": "2026-08-19T20:01:35.584701+00:00",
+  "generated_at": "2026-08-19T20:47:38.853702+00:00",
   "lead": {
-    "text": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+    "text": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+    "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-19T20:00:17+00:00",
+    "time": "2026-08-19T20:45:35+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-      "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-19T20:00:13+00:00"
+      "text": "Florida senate primary winner Angie Nixon relied on grassroots organizing",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937530/florida-senate-primary-winner-angie-nixon-relied-on-grassroots-organizing",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-08-19T20:44:46+00:00"
     },
     {
-      "text": "Trump to sit down with Michael Cohen for interview, former fixer says",
-      "url": "https://thehill.com/homenews/media/6039587-trump-cohen-radio-interview/",
+      "text": "UAE cuts off trade with Iran after missiles land in water",
+      "url": "https://thehill.com/policy/defense/6039738-uae-halts-iran-trade/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-19T19:59:49+00:00"
+      "time": "2026-08-19T20:38:57+00:00"
     },
     {
-      "text": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-19T19:59:14+00:00"
+      "text": "Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides",
+      "url": "https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T20:38:03+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T20:37:03+00:00"
+    },
+    {
+      "text": "Israel admits its soldiers fired at car in which Hind Rajab was killed - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzIxQU44UG10LVE0NWk0bHhCSEpXOUtlV01xX3JHdWdOekFzNi1tYUJfRHg3VDZTaF96d0luSlpNU2ZyTVN0TU81X1pyMmRsZzJpRDNKYmJHOVhyTGlIVWhuaXRTSmt3X05STFpLUXgxRFRvbkhrNUxZaG0wUlZMNVVnQW11QUU5SUhXLWU0WXVFcFB1Y1kxOFlidzZ4UlQtRnhsSjBRa2tYWEt1SnVwWFphZnJRZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T20:25:00+00:00"
+    },
+    {
+      "text": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T20:18:49+00:00"
+    },
+    {
+      "text": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+      "url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T20:05:47+00:00"
+    },
     {
       "text": "The ‘Crack Spread’ Is Going to Make Your Life Unpleasant",
       "url": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
@@ -58,72 +94,65 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-19T19:38:14+00:00"
-    },
-    {
-      "text": "U.S. conducting stealth operation to transport oil through Hormuz - Axios",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6cnBGdDhxTW9hTE5vaXdadmx4NVFFb1lsc2ZRRWlGZTd3MnVJamt1Q0VpSzBHblBIMHlqTVhUN2pvaGc2RVBiRlJHOTJwTnpCT0h0bUwzREgwb3h6VTNHc3lMaFpzbmt1di04?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:21:42+00:00"
-    },
-    {
-      "text": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
-      "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T19:06:05+00:00"
-    },
-    {
-      "text": "Dakota Johnson and Role Model Split - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91dUhEVkd1UGc5RzZsUXZIM2JpTi1QYktpWE8ycTNLbDdlTkt0UDZuN3dQTjBRWEFBRmJUekV1YjU4YlJXMVgwVzViMVNWUVRWQ2cyYVVVaS1UMlBKWHlBcXhUOVBnaEp3UUtWZ2ZCaE5KSG13LW9iLXNn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T18:55:19+00:00"
-    },
-    {
-      "text": "Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress",
-      "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T18:39:17+00:00"
     }
   ],
   "col2": [
     {
-      "text": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
+      "text": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
+      "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T19:50:10+00:00"
+      "time": "2026-08-19T20:32:13+00:00"
     },
     {
-      "text": "Trump selects Heidi Overton, White House aide, to lead FDA - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUENNM3AyYlplTTdvWnZLQ3pjbHQ0VTVuQ1RqNGR5QVZfNVNtMnRGdmtUaU9LUnhEanpWNXpLcktIWk8yWndVeGJ1TV9XaWwzLTRVdnNRbUwwMmlya2pyZHZoRWdxVV9saENlR0N6S0ZqNFR2UGIwRlF1aXFLNldMUEJCbUJHRVduWUtrR0VqTTg0TkVIXzZPbHBNNA?oc=5",
+      "text": "More of Trump’s Chosen Candidates Lose Republican Primaries",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T20:20:46+00:00"
+    },
+    {
+      "text": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
+      "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T20:14:28+00:00"
+    },
+    {
+      "text": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkl0OHlnRWFEd2x4RkNFcloyYWw0UEhZTjU2VW9KUTlsUGlWN1JUelNlYmtmYkRyRFh6b0ttNTF0c3o3SEtLdFFpVGxhRV82VHlBR2F6ZUJtWGd3SWFjcTNySkt2cnNiMnRaRDd2Z3piUlVQa2pVQzVzbXRyREdDSUx2OGNPX25tSFBGcEpzbXJZQzFFWWRQaFhoQWQ0NWlOR1A5V3ExSkVKN0REV0wwMW0yNVRTYm96RzFZOVpVT0lEbkd6U3h3VHBlbw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:37:31+00:00"
+      "time": "2026-08-19T20:03:35+00:00"
     },
     {
-      "text": "5 Americans among 7 killed in Kenya helicopter crash, including Telemundo executive - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1JUQVJyN0lVWU0tTlRwZFNtMjk0NV8wYUc3MWhKNUZtYXhrdjZUWXRrQVpkLUt5TkQtOWNmTGh3U296Qkc3UDYtUndsME5nem8wT2M2aVo5azhYSmpiNTF3QXhqMjNhcW1DMXlBQV9xbl96Tm9TNVRaaExacUFaVHBPbTVOM3pVNzhrSjI5OFZQSlU?oc=5",
+      "text": "Moderna Shares Double on Success of mRNA Cancer Vaccine - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTk3NVU2azE5bE52RjBLSHlDdTdrQmM5QXUxSjZ6dVFrMTd5MUFoVUQ4c3ViYVBTbWhfSERUSl9CVEpXSmVzZ0puV1BmUkk0QXpCN3VKQy15dVVlOG9XVmFSeUdGLWktVUgxc0hudWFOTnJ2MXI3aFFqSi1yXzVxNk1GdmlPbzQ3NmNnVnpJNk5hb015VTdfdl9DS0Myejl5bWJqMGRBZm5ITURFc25iYw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:16:41+00:00"
+      "time": "2026-08-19T19:49:00+00:00"
     },
+    {
+      "text": "Rescue mission is called off for NASA’s aging Swift space telescope - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkxReVp1dVM5VGF2MXlTVk5lSFh6TnBGRXFYOS1Lem45Sm9XalBONmFlY0UtbXFMNjlIT213WWFQQW96eDZBcWJ1aHQtN215a24xeFNCbi1jWnBoTXc0R1FQQ2d1WWlpYTZMTmtBbnN0NGQ5eU9qdE01TktISU5KSzhFRlJTY1hRLTJzUDQyLWN0SGVLRU9od3oyMzhBQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T19:07:00+00:00"
+    }
+  ],
+  "col3": [
     {
       "text": "Before-and-after images show where SpaceX rocket crashed into the moon - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHJYVnFodU1veUZFMFVLclUtUFRvLWNha2tIa0ZwNUpxU3NWYmVTYUJ6eGliekpwNnhXWVFxR1hNOXZNal9na0pzYzd5d1FnclljcGNBd1BTWk11bElXTnZHNUNLSUFwRjlkMklmNUV1QS05SnhMWjRVZ2pmR0VsZ3VUZzQzZG0zWDdtSmxpX2xPeWV2YVNJVw?oc=5",
@@ -131,28 +160,35 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:01:52+00:00"
+      "time": "2026-08-19T20:31:52+00:00"
     },
     {
-      "text": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+      "text": "Wings rookie Azzi Fudd to undergo knee surgery, will miss rest of regular season - sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS2tmMjRQYVk2MXZObEhXb2Q3UFdwNGJYelJ0NzRZa2E1VFN5YXppTDdyOUU1Q1drQ3FxRGR3dF9TOEpjbEZGS3ljM1FhM09aYmhtRUdHdGRNR05yQmNFMWdtT0ppX2tMTldzbDBLaEwteHNrVkZaX0k4YVU0d053dUR1SXRVVWMzNXdIa21hN056Tk5kYnhiZTdPWm95RUZnRFFSV2YxczhtbXpmTFctUG5GeGJQQnozYlIxVFJZSkotSWpUMDgzSG9qbXhqOTRkWDN6bUNjSWxwaUJVVFhn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T18:52:00+00:00"
+      "time": "2026-08-19T20:19:54+00:00"
     },
     {
-      "text": "Stock Market Today: Dow Opens Higher, Bond Yields Dive After Treasury Steps Up Buybacks — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYUV6eHp3ak9nQS1lelJ4bUNGcXhzb3dFZHIza09ycS0yWmpROHE1T21kTWN3SEJ2dzNQUHMzOVhBTk84TXkwRjgtZmVScTJLekltN3BsVTQzNEtSS2NudzRoQXlUNFFweS1lR1IyVkhrVHJHYmdpZWppMzQyell3SnFZYU5vdmM?oc=5",
+      "text": "‘Drop in the bucket’: Why Wall Street will shrug off Bessent’s bond market plans - politico.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGNacDVjY3FnUXVmVjc4aV9oc3NsU1VWa19yazE1X3JOeVk3cl9EdE4wZlVtRHB1bnV3Y3liM0dYdmNoTjJxQ3hhSEU3a2dnYld2MkJqTEhtVlJfWC1Ea1NKa09taDRrbGNmM0JLSFRHNjN0Y1R0alZMWUM5MlBSVzlobEZsajcybWxRMnVBNXNZeHM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T18:29:00+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-08-19T20:08:00+00:00"
+    },
+    {
+      "text": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T19:59:31+00:00"
+    },
     {
       "text": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
       "url": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
@@ -163,49 +199,13 @@
       "time": "2026-08-19T19:46:15+00:00"
     },
     {
-      "text": "Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGR4cnJhdGF4MkVpcU9yanlWZUpFVDd6SzJpSTVGR2tJT28zd2JxYmpKOTdXU0VpSjA1aFRVNzd6c0lCU0d0TFJ4WWxqdDE0Ml95UmFBVTR2Q3lnZ3NuRGZwc1FBVDJGeUhGemxGZTRjWExhWkd3SERWTXJNZXNfWnJXUFZSeDMzRGxVdWlKQ3VRU196WDRvaEVIRHhjT2RRSUpzWHlRdTBKeHI5MzRaSG9iVy1uZENBR3lhNWlVRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:22:15+00:00"
-    },
-    {
-      "text": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:07:03+00:00"
-    },
-    {
-      "text": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+      "text": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+      "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T19:00:14+00:00"
-    },
-    {
-      "text": "As More Americans Turn to Cannabis, Problem Use Is Increasing",
-      "url": "https://www.nytimes.com/2026/08/19/well/cannabis-use-disorder-alcohol.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T18:39:19+00:00"
-    },
-    {
-      "text": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
-      "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T18:17:19+00:00"
+      "time": "2026-08-19T19:06:05+00:00"
     }
   ]
 }
