@@ -1,17 +1,102 @@
 {
-  "generated_at": "2026-08-19T11:32:34.562274+00:00",
+  "generated_at": "2026-08-19T12:02:41.282765+00:00",
   "lead": {
-    "text": "UAE severs trade with Iran after reported missile strike",
-    "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+    "text": "Treasury yields pull back from multi-year highs ahead of FOMC minutes",
+    "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-19T11:27:32+00:00",
+    "time": "2026-08-19T12:01:13+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Mangione state trial in limbo as judge weighs double jeopardy",
+      "url": "https://thehill.com/newsletters/the-gavel/6036698-luigi-mangione-guilty-plea-double-jeopardy-new-york/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-19T12:00:00+00:00"
+    },
+    {
+      "text": "Trump's Donroe Doctrine is bringing Israel closer to Latin America",
+      "url": "https://thehill.com/opinion/national-security/6035441-donroe-doctrine-israel-latin-america/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-19T12:00:00+00:00"
+    },
+    {
+      "text": "Wide-open Alaska governor’s race set as Kreiss-Tomkins leads pack",
+      "url": "https://thehill.com/homenews/6028765-alaska-governor-race-set/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-19T11:58:12+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
+      "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T11:58:11+00:00"
+    },
+    {
+      "text": "Hayden Panettiere death latest: Heroes star’s on-off boyfriend was present at scene when actor died - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR1YyZ3NIVEpLbF9OTFBiQmdWTTZDaVlUQ0dVX09paXNUR0NmeHZxbjNPNE5POVNHam41MEJ3TVNNajA2UGpkZDZrS3lndl9SWXZYUWdLWVFheUx2cXdlWl93T3NWcklwLW5EcmUwSHZKS0kzMXlvakhnM01KNFBNQkM5ZmpZTEpJUUFnbi1JZEdoQWQzU3NCR2lwTVlvSEtvVzUtODR1WEVIRG9BSjYzbGVFV2hkbmJPeTRMVElpTDVzOTk5NXFtczZEY2dZUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T11:02:00+00:00"
+    },
+    {
+      "text": "Frank Beard, drummer of boogie-rock trio ZZ Top, dies at 77 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlNCVzQ4SmVTODRVX2kyMVU3SGFOXzUzQkJ2dG1LLVJmeTYwNExtYVUwWUc3WGpoS1hGa3UtN19aamZtQW5pa3JSdFltZjZJX2pzQUtNRm9ldmpqY1dOQ1RsMHBlZWp2enFIaGZFVUdSMDFfOXlvTzRsVk1WUlQ4YWNhSjM2eVFETlRPaTZlb0wzdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T10:20:00+00:00"
+    },
+    {
+      "text": "Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T09:57:50+00:00"
+    },
+    {
+      "text": "The Left Notches Another Win With This Secret Weapon: Old-Fashioned Organizing",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T09:03:14+00:00"
+    },
+    {
+      "text": "How the Iran War Made Africa’s Richest Man Even Richer",
+      "url": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T09:00:49+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles",
       "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
@@ -22,33 +107,13 @@
       "time": "2026-08-19T11:24:34+00:00"
     },
     {
-      "text": "Live Updates: Iran says no interest in ceasefire, war must end fully as Trump downplays hope for a deal - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-19T11:18:00+00:00"
-    },
-    {
-      "text": "Zelenskyy’s office is probed for corruption as fired defense minister demands elections - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGRobWwyN3hlb1dHLWtxOVhZdjRNTGo2ZWVwbmtiTHpoNUJQT3Bta0F5cExIWlZWOEJ5MVJPSmRRQ3kzbWZkLVFEbTh5c2tRWWVLRlFTOTVFQzZqRFVHOWhOdDYxOXhYS1E2OTY3TnVJVHZKRDNveExNY05ya29ZZndtQW1sVWExQVRiSUJNNUx3MXBRZDRXc0c5SXA?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-19T11:18:00+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Status Defines Friendship for Too Many Americans",
-      "url": "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html",
+      "text": "After the Storm",
+      "url": "https://www.nytimes.com/2026/08/19/briefing/hurricane-lala-aftermath.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T11:02:11+00:00"
+      "time": "2026-08-19T10:45:10+00:00"
     },
     {
       "text": "How Tech Executives Limit Their Kids’ Screen Time, and Trump’s Race to Finish His Ballroom",
@@ -85,26 +150,26 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-19T09:00:14+00:00"
-    },
-    {
-      "text": "Iran war: Trump tries economic pressure — again",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T08:00:56+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "After the Storm",
-      "url": "https://www.nytimes.com/2026/08/19/briefing/hurricane-lala-aftermath.html",
+      "text": "Status Defines Friendship for Too Many Americans",
+      "url": "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T10:45:10+00:00"
+      "time": "2026-08-19T11:02:11+00:00"
+    },
+    {
+      "text": "Target delivers earnings beat, CEO 'encouraged' by turnaround traction - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGJYd05udUY2YTA2bW4zQ0U0YnM4M0FGaThfYUdxTzMwQWxxbktJaGJlSkgzcTE3eUF3NVVkREd1d3lDeDAwRFkwc3ZNSjlZOUE3TEtUblR1eTZ4WF85eUtaZkQxSVFwWHJiWng2ZFB1Qk1uc3VmZlU1ZnBSajRiMklpbDV1bThSNExKN0tsWEg5b1Q3UFZSSGRnV2gzUDZpVGhlUm9JcUlKZjdrT29nVDFEQmZJTGkyVHRpR2wtcVVlYTVWbTdNTVdsSQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T10:34:12+00:00"
     },
     {
       "text": "South Korean and US militaries shorten drills by about half after Trump ordered a reduction - AP News",
@@ -134,78 +199,13 @@
       "time": "2026-08-19T09:02:28+00:00"
     },
     {
-      "text": "Lindsay Clancy was ‘begging for help’ before killing her children, former mother-in-law testifies - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeDNKOE1QaFItSFVJQkRJQ1htbHhZNEZsclZQcTA1UksxbGtaQzlmV2R1ZkpzREZQZjlORk0ySDVueUwxUFpmVnlJbmhHOFc3UldNOWY2OXMyMEs2elZCdkpJNEZ0bXdpU0ttU0IxMjhZME0xcEYyMngtd2UyTWlyU0xXajA3UVZWU0daaE5jRzBuanhOLXhCZEFCbHJyU3lmN3RqTDZHRmxMZ2ZseU1tRm8zNTR5TmVfc0E?oc=5",
+      "text": "Kellen Moore on practice fights with Cowboys: Not ideal, but we got the work we need - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc3ZVb3JqVEdVQW11cFMzY1NNOXoyejZENWJVTFVoeWNyRmR6VXlIUHZfX3k3MWlHdWtUMUVOLUhyNHRxTnBWYnJlT2l1TEVwb1FqNFM3dHJRRElfaWZtWkJPOWZvZ2NtU1A0LXZYMkgzb3BDN08xUVhHUHV3MHY1Tlg5RGpUVFJpZXhjQklMTTZQLWI5ZEZ1LS1ReEpBOVRsbDJLU2VvZVJmYW1QMHZSOGFwYmJYZWZhZEd5N1B2VHJUWlJ6RzJCUk1iT0xrNHBwSTFzblB6OURkRnFY?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T08:11:25+00:00"
-    },
-    {
-      "text": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T07:56:01+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Frank Beard, drummer of boogie-rock trio ZZ Top, dies at 77 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlNCVzQ4SmVTODRVX2kyMVU3SGFOXzUzQkJ2dG1LLVJmeTYwNExtYVUwWUc3WGpoS1hGa3UtN19aamZtQW5pa3JSdFltZjZJX2pzQUtNRm9ldmpqY1dOQ1RsMHBlZWp2enFIaGZFVUdSMDFfOXlvTzRsVk1WUlQ4YWNhSjM2eVFETlRPaTZlb0wzdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T10:20:00+00:00"
-    },
-    {
-      "text": "Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T09:57:50+00:00"
-    },
-    {
-      "text": "The Left Notches Another Win With This Secret Weapon: Old-Fashioned Organizing",
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T09:03:14+00:00"
-    },
-    {
-      "text": "How the Iran War Made Africa’s Richest Man Even Richer",
-      "url": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T09:00:49+00:00"
-    },
-    {
-      "text": "‘Perhaps the best No. 6 in the world’ - Hansi Flick thrilled to have Rodri at Barcelona - barcablaugranes.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeS05UW1zNjRaQUh1eXVORVJ1R2RNczFIZlloVmdkWmFlRUR0UlpvSTlISHJHbFZPd1Bha3ZpV2xRYjMxRVROOFR3TmFQM2RxUmxGNWdVeGFmU3A1THNRWFFtMlYwSHY0b2ttV1N2LVpiWXE0N3QzYW96Y052UEVCam0xUWlmTV9SZ3MtOGxwN2VIZDkwTGxNcmNmTkwzNVdsaUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T08:06:34+00:00"
-    },
-    {
-      "text": "Erin Patterson appeals 3 murder convictions in Australia over death cap mushroom lunch - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3R3bnZFNEozakZGVmUzTVdoUTNLZWRESjdjNUU3WFFYaXI5MjJRd0R6RXFoVGtTVzBkSWxITHBONUpBOFJFcktNd3JsSXFuYk82d0NuVVFYOG9xSXZKRV9Ha2tmMmZQZS1MLVZYNkxiR0t3enFnZjkwNDRDTVN1T2Nmbk1EUHlFTVZLUnNmQnFfTkg3VG44dFA3bHFGMXRkM0J1MkZtTXpGdUxTZS16elFZa9IBuAFBVV95cUxNN0FnSVBhd3dqclYxT2p6Q3A3TkRKaTRBc1ZtRHZzaDlVeEdaQ2lUekxEbXJ4bjRIVWNnaUx2cGxPSWt2d2VBQjZuTmpuYlhSbzNhX2oxUXJwZmtBcWFFTWZBNElMUU9CaW9ocWhEUm8tTnZsNjVsOWFaMUNJVThqWG1hcUJkTTE2TWljdWY4VG9GcHcyRjNUckdEVTI0Z2xlVHltdFlKYzEtQjBHOXlFOEtESFdGVTh5?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T07:22:22+00:00"
+      "time": "2026-08-19T08:13:50+00:00"
     }
   ]
 }
