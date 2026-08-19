@@ -1,46 +1,64 @@
 {
-  "generated_at": "2026-08-19T01:54:24.721648+00:00",
+  "generated_at": "2026-08-19T03:05:13.729083+00:00",
   "lead": {
-    "text": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
-    "url": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
-    "source": "CNBC",
+    "text": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+    "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-19T01:49:04+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-19T03:00:35+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates",
-      "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
+      "text": "Tariffs on Hold as Trump Claims Deal With Canada Is Near",
+      "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T02:58:03+00:00"
+    },
+    {
+      "text": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
+      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-19T01:48:33+00:00"
+      "time": "2026-08-19T02:50:31+00:00"
     },
     {
-      "text": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
-      "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-      "source": "CNBC",
+      "text": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-19T01:37:01+00:00"
-    },
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-19T02:41:36+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "‘With All My Heart, Natalie.’ Trump’s Most Devoted Aide Emerges.",
+      "text": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
       "url": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T01:36:14+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-19T02:29:43+00:00"
+    },
+    {
+      "text": "Rep. Cory Mills loses Florida primary amid Ethics probe - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUdtQ3JRTzZLM1RudnZGNWw3d3ZNTkFnb0ZjZW00blFtX1h0N05sVHF3c1RwdGdnSVM3UkY1VkhDT3dVRmdXbVRkQW9NaC00UmJQZjA4ZHlyZlItcWt1Z3JvSExHUXhocl9TZTZvT1l4TkgzNmZMTlVwOGdTVHplN0dUUENWLTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T02:15:00+00:00"
+    },
     {
       "text": "Byron Donalds Wins Republican Nomination for Florida Governor",
       "url": "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html",
@@ -51,116 +69,13 @@
       "time": "2026-08-19T01:35:19+00:00"
     },
     {
-      "text": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T01:14:47+00:00"
-    },
-    {
-      "text": "Ballroom opponents ask Supreme Court to keep Trump project on hold - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEVHTnY1UHpadmZLTUNtTDRGUFhxbmZxWGN2NWNLUEhZNFBMOVo1eGNPY2NPckVpUlJDUGNTNVd0ZHlyVXdyT0xQZy1Kdk9POGhvSlVYTHM5cTdHbzlQTXhUZm1UNTl0QWtSVGtqSHAyRlBEYndYQkdoZVZ0Q1lyX09yV2E4Nk5vS3BsSlR4RU82dFJTYmN0WjFiX2xObUEzY18tZHUtb3R3cXZMcVByOHVn?oc=5",
+      "text": "Former Republican David Jolly Wins Democratic Nomination for Florida Governor - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXJuMk15cUROQnlaUnhPeUxvNDh6YU1yWFVCSjRuaXR2dV9nVzllTFhzOEpibXAweWY0LXZpOV9NbGQ0aURNb0puM2JTNEgwMmdNWVFaakI5cmJKN3lodG11RzZxRC0tQVVQX3ZLZk5uckdIM1F3WFZOX3FMNG9KdGdYYzduUFVMUVRDaVI3bkIxQ1Ruemhfc29nRXA1QXct?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T00:17:13+00:00"
-    },
-    {
-      "text": "Trump’s endorsement and a centrist Dem: Florida governor's race is set - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFJJeXZtQnpyY21tOWRpcGRrMDR4bkFMdG9ITWhrZHVrdHh1N0sxekR0cU13Y2c3eGNtanc0SFRlM0dhVVF2UlVibXZleW1hTnNOZlhsYVYyTE85cXd4ZUZkMEdfUjlocE9QWUttbU9YeURCTTFZX0pJR0dlM0V5aHZTYU81djg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T00:13:00+00:00"
-    },
-    {
-      "text": "Judge Orders New Oversight of Immigrant Children’s Detention",
-      "url": "https://www.nytimes.com/2026/08/18/us/judge-children-immigration-detention-order.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T00:01:00+00:00"
-    },
-    {
-      "text": "Treasury yields hit multi-decade highs amid surging national debt - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM05RSWgxdnlaTEhqUjI1WjN6QVhsZjZxcUtVRXdITGZobFc3YmFJazBNdWRMbjY0eGlJU0YwVl9kTjFta3VrUV9rSEJxQV9mT2M3R0RfT01BV1pFTkNxUjhjOU4yRENKUDZiZmhlZU9CT2JTYUNxdEdGZnM0SkM1dVRaTjZMT1JaaFJsSThqSmd4NUpOa3lvbU1kSFZVWUZ5dUQw0gGoAUFVX3lxTE5OWTNKTzAxWXFOejFiRWJaOVpKbHlNamJydjIzUXZlb3BVOU9vdjJqSmZjRXNVVU9WcjA1N1NlYVBUbG1QRnk1NjVrOWtpbzlUN1dBaEctSDhNaWF0Z2pRWTZxRnhtSUNTRE1PRlM2QzFTejItZENOR1JRM1lHeEp4dWRRdHNGNzg2ejNneU1NSlVoWmRET2lMODJnT1lKRHdCYXBqdW1WWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-18T23:29:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVd4bVdFUGpzN0FaQjRJcmJZSGk4a1dqVHhMUEJUT09JREZDUjgxR1REU0E5cWdpQW5DcjhYVUFPT243cDBsMWhvVWkzWno4NEpBUEY4YkNZV2gwU25hYjE5V2JIb1Q4QW45d01JOE10SXNrR3N5ZlNvSGdpMHl0SFVJWVFQdUVWUFlpdms5RG10ZGpOVk5EczYtLWxGMWFRc01Lcnk0VUFaTW1mUDB2alF1VGp1TEJLTmxDT05zbjE0cG8?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T01:20:48+00:00"
-    },
-    {
-      "text": "Haitians in Springfield Hunker Down as ICE Begins Detentions",
-      "url": "https://www.nytimes.com/2026/08/18/us/ice-haiti-detention-springfield-tps-immigration.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T00:57:12+00:00"
-    },
-    {
-      "text": "California Passes New Rule Regulating Replacement Car Tires",
-      "url": "https://www.nytimes.com/2026/08/18/us/california-tires-energy-efficient-standards.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T00:13:45+00:00"
-    },
-    {
-      "text": "Embattled Florida Republican Rep. Cory Mills loses his fights to keep his House seat - NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0h4RWJJR2E4bHNFMVdNM1ZHcDZGRWZSVmQyNHVEZ0VUN04wQ2Zma25oREpYREdQbHpiWjRXeWNqUjJyYndxZDJ3djhrbU1ueW1JS3JhRlR3V0pwWlRXd2I4WHNfMS1TbDVTd2lQS0lyeWROSmhLNmhnRGhSbDFnT2tubndGbDNtdkZjbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T00:11:21+00:00"
-    },
-    {
-      "text": "Democratic socialist Angie Nixon upsets Alex Vindman in Florida’s Democratic Senate primary - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkR1X2dYMS1lN2lFM096YzJGUW9fQ3d5c0pWX0pReENRMW9FQV9ibTJyZE9Pbm9HOG5GRlJPbTkxRUFiMTdmdXJVRnNTYTdTdk0wd2NncnZEaUN0T0hnUUd3ZUdiNXlzd1FBbHdiangtOEJzQ1czSzkxRWJDTUk2ZERmQksxenM4TkZnRWxULUdvT01fSi16d2Zfa3pvQjRmRG5Wd0ZDNVNqLTBnOUxpYjZZVGkzLWV0NmZwa3FSbkR5WGNzZkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T00:00:00+00:00"
-    },
-    {
-      "text": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-      "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T23:26:15+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "DWCS Results: Season 10, Week 2 - mmafighting.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MYmVmcld0Z1pHek1VdjRjWUFwVnVfMTFFbUJiUF9sd2NsdVNMbklqOWtCc3NReHhZSXFQRGdDRzlpeGRhZmg4ZVhtZlYxemJiWld2LWJpak5rZUxGNFVnZTN1LW5ENzZhMG9JLTMwRUhsakEtSTMw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T01:17:18+00:00"
+      "time": "2026-08-19T01:23:48+00:00"
     },
     {
       "text": "Roger Goodell’s comments about foreign teams put expansion on the table - NBC Sports",
@@ -172,15 +87,6 @@
       "time": "2026-08-19T00:48:42+00:00"
     },
     {
-      "text": "California Becomes First State to Regulate the Squish of Car Tires - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0dQbUw2blVVSHoxMXNBTFkyRThDb0pZcklPTnlyQnRCTklhU0hhMzJYc1dSZlhCVHNvR3ZOZENubHB5VTZzb3gwakxKUkU3c3k3R3h0X2lGMHpDTXdpNURmWW41TkdrbmM0aVY5SmljUTI3QUo1RGM5TXNLNkxEcWE2TnhrdWs5VzVMRkU5RQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T00:13:44+00:00"
-    },
-    {
       "text": "Erin Patterson: Australian court to hear mushroom murderer's appeal against murder conviction - BBC",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UzlnemlmZUZnNkV0LXREWnNZYjVIWGx1MG5mT1Q5d3hiVDVrSFBmcmlHNFlTMDZzNExMUXloRUxvVjdLVmVnVHNNUklJVUNsMnM2dk5R?oc=5",
       "source": "Google News",
@@ -188,6 +94,109 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-19T00:08:44+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Haitians in Springfield Hunker Down as ICE Begins Detentions",
+      "url": "https://www.nytimes.com/2026/08/18/us/ice-haiti-detention-springfield-tps-immigration.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T02:22:12+00:00"
+    },
+    {
+      "text": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T02:04:31+00:00"
+    },
+    {
+      "text": "Trump seeks to open millions of acres of national forests to roads - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHZfRTMtMzlKTFNUYlFwMjB6WWxZRW8wR21PMHR3RTNRYzAzNTRfa0xLYy1KWmJrZFJqRHE0MWRmVFM1ZE9Mc19PMjVfM2RJZWZGYW9YNU5fM1p0OFFvSmpyb0tjbnV0Vllsd2JHT0gwT1Y4ejlfTVVfUEp0bFZtZENvdW5xNmlacWlYcjZmYlJhbWJ6cHF6SmdYMDd2b0xRZ3VnTUVtR3FId0MwbXg4c2ZZelM5VzZY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T01:29:24+00:00"
+    },
+    {
+      "text": "DWCS Results: Season 10, Week 2 - MMA Fighting",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MYmVmcld0Z1pHek1VdjRjWUFwVnVfMTFFbUJiUF9sd2NsdVNMbklqOWtCc3NReHhZSXFQRGdDRzlpeGRhZmg4ZVhtZlYxemJiWld2LWJpak5rZUxGNFVnZTN1LW5ENzZhMG9JLTMwRUhsakEtSTMw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T01:17:18+00:00"
+    },
+    {
+      "text": "Ballroom opponents ask Supreme Court to keep Trump project on hold - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEVHTnY1UHpadmZLTUNtTDRGUFhxbmZxWGN2NWNLUEhZNFBMOVo1eGNPY2NPckVpUlJDUGNTNVd0ZHlyVXdyT0xQZy1Kdk9POGhvSlVYTHM5cTdHbzlQTXhUZm1UNTl0QWtSVGtqSHAyRlBEYndYQkdoZVZ0Q1lyX09yV2E4Nk5vS3BsSlR4RU82dFJTYmN0WjFiX2xObUEzY18tZHUtb3R3cXZMcVByOHVn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T00:17:13+00:00"
+    },
+    {
+      "text": "Judge Orders New Oversight of Immigrant Children’s Detention",
+      "url": "https://www.nytimes.com/2026/08/18/us/judge-children-immigration-detention-order.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T00:01:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Trump pauses 50% tariffs on Canada for 3 days - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0JmNE9BTlRBeUhlOURZanBDcTVvb1Z0VEc1elUtblkwMU9PS0JqREVqb2xNRnVGOThwUlZ4VGRtRV9PcURZSjZxZlJ6UU5zakJHa1A0OWU0WGVQMzQ4OW9raHBXcnlsV01ldGFRaEtJaWx4TFV0NF8xcEZHXy1fV1dEWmk5dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T02:22:00+00:00"
+    },
+    {
+      "text": "ABC and Disney sue FCC, alleging First Amendment violations - NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXR5VlJmck9ma3ExZlJaNWhWa05XU3ZmRWV1YzdnSlFIeXM3VWtPMnNpUjdjcG94THVkb0lsMzhhRGdjN0E4U3A5aDgwaWVrMVduOEkxMG40WUhkbE9yQnpwMnhwWGJMZ2dMQ19nZnpHbER5Y3lHRS01WlNyaS10bTFwdy1GWW9HdkpwaWlxTm1vY1pBd0lKdFdUU25KQW1TM3Q1T3Zn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T01:47:35+00:00"
+    },
+    {
+      "text": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQanBiTE9fckMyQ3pNdTNXeDNhVkZleTJ3NnNKTmhoYUE3RHUtQlkwYnN6RXg4X3BoQ2tqRVktZ2MtOVk5SlRNRUhCaGVZZkEybVpiWkJoSFRiVHRjb296dzhNQXQxQVVHa3V0ZC1iYm5sNWtiOTJRbkxWNkN2dzRtMzZpdWQ3VU9MUmwzSlFyMHJaQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T01:28:00+00:00"
+    },
+    {
+      "text": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQlNrV2dqeGpRc3I1Z3BVNVFpUVBFOG5yOUE1bnluN2ktY0lCY2s4VHk5WDNNWEJibEtwZ3Y3SGM2MjVYUnNFZWhNNm9seXhTTWYzTGFJMmNCU0h6WVVNV3ZLSTBXY1lROW9pUjJJYXh4dWU3TXVjSGYzZEQtdm9TUkhqREF2LTdxektlVFNlSk03bDNNcTIzYlFXVlJFaUdUZTcya2xxd9IBrAFBVV95cUxPb1d4V2FMUEYzemU2RVpfSE5ZQ1JpOExGWHlLRzlsSmhwcW52b1hWUVhPNHlNUHYzT2V5V2x6cDd3RmMzRGpkTWNyNUtlQ1pEWXl0X2t5dzMwRjY4ckRYOEtVdkMyZjE2bE1BLVdyWUdvbWt0ZHJvSTRrZ05OZ3RnX3lwUHV2NEhscW45aUVFbzJieU9WR1l5ZHNhOTNyM2dpVS12YjE4em9relpY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T01:15:00+00:00"
+    },
+    {
+      "text": "California Passes New Rule Regulating Replacement Car Tires",
+      "url": "https://www.nytimes.com/2026/08/18/us/california-tires-energy-efficient-standards.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T00:13:45+00:00"
     },
     {
       "text": "Threatening Friends and Courting Enemies in Trump’s ‘Upside-Down World’",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-18T23:50:49+00:00"
-    },
-    {
-      "text": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
-      "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-18T23:19:12+00:00"
     }
   ]
 }
