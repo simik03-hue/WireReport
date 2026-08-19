@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-08-19T13:12:08.263579+00:00",
+  "generated_at": "2026-08-19T14:00:29.122325+00:00",
   "lead": {
-    "text": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-    "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-    "source": "CNBC",
+    "text": "Harvard settling body part theft lawsuits for $53M",
+    "url": "https://thehill.com/regulation/court-battles/6037628-harvard-body-part-theft-lawsuit-settlement/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-19T13:11:23+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-19T13:54:33+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-19T13:53:51+00:00"
+    },
+    {
+      "text": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+      "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-19T13:48:47+00:00"
+    },
     {
       "text": "Target says its turnaround is picking up steam, with help from a big tariff refund",
       "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
@@ -19,7 +37,27 @@
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-19T13:08:32+00:00"
+      "time": "2026-08-19T13:43:39+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "China Wants Its Tech Champions to Raise Money at Home",
+      "url": "https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T13:43:10+00:00"
+    },
+    {
+      "text": "Mary Peltola and Dan Sullivan Advance in Key Alaska Senate Contest",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T13:20:48+00:00"
     },
     {
       "text": "Angie Nixon Notches Another Win for the Left Through Old-Fashioned Organizing",
@@ -28,36 +66,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T13:04:01+00:00"
+      "time": "2026-08-19T13:04:02+00:00"
     },
     {
-      "text": "Six tourists and pilot killed in Kenya helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-19T13:00:09+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
+      "text": "With Limited Options, Trump Tries Economic Pressure on Iran — Again",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T12:53:51+00:00"
+      "time": "2026-08-19T12:37:33+00:00"
     },
     {
-      "text": "‘I’ve Hit My Limit’: Some New Yorkers Opt for Fun at Home to Save Money",
-      "url": "https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Inside Hayden Panettiere’s boyfriend Brian Hickerson’s money troubles after domestic violence arrests - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTJod3NDWE8yQ2dXbjBEMzhkTTNFamQ2enl2VWxTUm5IcTk5bkVQTzQzNDRHTGZoa2VQUml6MWFwT0JkWHpsb0V4M1UtVUk4YlR3UXZud2xUSzJaWlJDQ1QxNzhKOFlFX24xSlZVOU1yOVpEcnRseU5lY0QzODJpcEZDV2JKQnRiYW1uU2EwaFRlSmxpZjlWQVZvU0h2VGh2eWNoSGZIZDM2ODhITVAxa0UtcDg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T12:34:00+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T12:13:00+00:00"
     },
     {
       "text": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles",
@@ -67,44 +94,44 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-19T11:24:34+00:00"
-    },
-    {
-      "text": "Trump wants South Korea to defend itself. His overtures to Kim Jong Un could delay that. - CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWk44MHhMTGZZOGlhVC1laVdBUTFmMl90MEFqVTBOMGUwTHhhdGMtZTVpV2ttVjVmcXFEOUhjdjJ2TzVXZTlxX3NZU1J0UjRPZWl0WkVsWXNvZEVhcDNJbVpuR2NXTEdJV2RUWndWOFVzQ1RIcUJUbUJqWFN6Qnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T11:00:29+00:00"
-    },
-    {
-      "text": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUlktR2pLY0JiWFdHWWtNb2ozX2ltdUZPV0F3SlNud0o5aUF0Nk16bEZjTU9yWW1sd044bnlwYWxrM0pGaDE5TGRQS2hlWGNtbVJIOF8zNVpQOWF5S1FMUXdCeV85Y1oxOG9Dck9ydjZGcGN2czgxOE5aeFY5Y3BVVExITTZpY1JUbG9sMHYtZmpCRzZGa1dGNUJBR0JvTl9TRmZ6R0NxSdIBrAFBVV95cUxNSDhhdThuTXRTbkNHRzIzVklfb3M0S1pjWWFSNTBhal9GQlVWZzBZVkpDeEVlREc2eEYyNTRNSkdvSzZ3cVBQanc3S012LWZocFVoTXJNMHVJaHFNSFBlZG1vMFZ3eTk0NzhSUEdXSGR4QXY5N1o5Q1FPN3czNTFHOURrektERU02MFQxRmMtTDJrNFhDeEE5OHBFVHBHRzRCeGZZNjBjV3BNZmVY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T10:46:09+00:00"
-    },
-    {
-      "text": "Frank Beard, drummer of boogie-rock trio ZZ Top, dies at 77 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlNCVzQ4SmVTODRVX2kyMVU3SGFOXzUzQkJ2dG1LLVJmeTYwNExtYVUwWUc3WGpoS1hGa3UtN19aamZtQW5pa3JSdFltZjZJX2pzQUtNRm9ldmpqY1dOQ1RsMHBlZWp2enFIaGZFVUdSMDFfOXlvTzRsVk1WUlQ4YWNhSjM2eVFETlRPaTZlb0wzdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T10:20:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Man who dated Hayden Panettiere called 911 from apartment, police report says - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT203NmRsb2t4LUZxYWVaYlZ4ekNLajVBTkNIbE5uMWdyM2s3WTd6RFlhaHg4TEwxdTdRRnNKV0stdXRXVzIwamJnbzA4bmVSdDVXbXQ0ZGo0SWhRMzJBai13b1Y4NUowY0p1cnl2aDRXbmtGM2haSkpSLUo4bVdRLXB0TVFQYm5kMjFzSW9Cb1l0RVo5WFBYVmRWZHlZdGxhVkJhSmJ5cV9Zekg4RUhlZ0h4N3RVU3hTVFhaN0NfMEtzSlE0b01n?oc=5",
+      "text": "Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missiles - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISmhtaW9HT3BxYllQQmZvYjhwTHBKRG5LSFlBSFFLajl4QTBZVTlheU9uM244UVZ6UDVsTUxSbVdMNmgwSlN1T192UDFhTURxV2Z5ZWhqX1lTSnpuaV96US1IUjdkLUd0TlBNMHdn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T12:43:57+00:00"
+      "time": "2026-08-19T13:43:00+00:00"
+    },
+    {
+      "text": "‘I’ve Hit My Limit’: Some New Yorkers Opt for Fun at Home to Save Money",
+      "url": "https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T13:20:37+00:00"
+    },
+    {
+      "text": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTF90ZUdHTmpiTE5MaWlJWS05VFRpRUNZYkJzbEhNdUhOU041RzdEZ3IyX01UQ1Z0Q0pEWVdwcDRtbGpWUmVjTWdKcXhEd2drMDFPQlJHcHpMWjM4UVdqdkpKbzd5ck1oUGZ5R2ZMZXZxZmRPdXIxSU82WVpSaXpLZE5IZmdETF9VQ2hqbExJMy0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T12:53:51+00:00"
+    },
+    {
+      "text": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T12:17:16+00:00"
     },
     {
       "text": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near",
@@ -116,51 +143,51 @@
       "time": "2026-08-19T12:04:49+00:00"
     },
     {
-      "text": "Status Defines Friendship for Too Many Americans",
-      "url": "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T11:02:12+00:00"
-    },
-    {
-      "text": "Popular daily drinking habit could nearly triple risk of deadly cancer, major study finds - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWtMZmNXZUstRUxtNkhtSmd6WW9RQVdwbXVxVml5bmp4T1YxTTBwNmpqejRpRkNIZi1XTUlnN2gzby1ERnNzLTBGS1NFeTFYamIxLXhuSEtMeVRUQ2V2cGhnOFYyVDVrRHdlT3llNVFjQ0d3ZWo2RE50ekcxWW1ORE5EVUk2XzBuNFpZdzRnbUh5MUJBSHdxWmNMV3QxQ2hXZmdjbFFJS0JQa0tFZjdF0gG0AUFVX3lxTE1HSzZCOWFvZ2hEQTJ0Y0U0VzRHaHFsZVJDRGNlLWVLaHdlRXRVb0hiMENlLWR2TjJ6aEpwUzZvV1RxdFdualFlWWxOYWI2MFU3NUhxSm8teW5zbTRzU3h6TDBsUHF4LWFodXdDU1hjT1AxRUltTEp2dXhPbnZlcmFCMFIxZHVaakJTUXFHa3k1NHpONGhYMzBMUDhkd19KUmc0dlI3SFJkdTloSWxEWFluZjZIcA?oc=5",
+      "text": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries - NPR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFhZa0ZqTmpGa2lmeWhLZjVmMmJlMFo0Zmw2cllRRGloZlVUMGFEaE5qV3dudW1yOGxKeHRSRUh2bmZ5Ul85TkJqYlIxdUlJREtzM1JOZng4OUl2aTU5TlRXaDFLc3p0NGpiWE5RNVRIOHptaEZrcU53bTNuVnZqZ0NlRzJwZm8xUkpycVM2bFNsc1ZPaEVlczhWQVgwa1VKX2owME56QWx5UDZhTnJR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T11:00:23+00:00"
-    },
-    {
-      "text": "After the Storm",
-      "url": "https://www.nytimes.com/2026/08/19/briefing/hurricane-lala-aftermath.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T10:45:10+00:00"
-    },
-    {
-      "text": "All the ways Lindsay Clancy sought help before she killed her three children - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlV2MGc2S244dm1TVE5YdjNqUVJsZFcwWnIyM09ad08zVUZVVFQyWkcyVTFIMHZkTGJwLXhsMDZtQ2ItaHE0WnJIMThWaUx3TW5fOXZncmZONFpWWkJZbkluYWRmblNhRl80elVzcWVyUWRCNktSekJ4c2hHWTRmTlZSa1d2OUZ6elRGSVBkTjVUOGs5MTdhRW15Z1JWMmxJUld1MjVR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T10:07:40+00:00"
+      "time": "2026-08-19T11:14:31+00:00"
     }
   ],
   "col3": [
     {
-      "text": "With Limited Options, Trump Tries Economic Pressure on Iran — Again",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+      "text": "Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life",
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T12:37:33+00:00"
+      "time": "2026-08-19T13:42:32+00:00"
+    },
+    {
+      "text": "Stock futures jump as Treasury action relieves bond market pressure: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52WVUwei1VUlFvc0FwU3lkWlBjY2lHYlNOei1RSnktZVRxQmpYWlFRN25yNS12NE96QlpuM2ZOUWpseURQV0JIcFVHZDRiYjJSb2tTSkJ3Vk5UNEpuNTJLRkFfcEZaZUluNVRXWXFFVHBvUDhSallz0gF8QVVfeXFMTnJZcUR5RmdKSDBwYlQyeXdhN2V6NFJYTVhHMVhZNzBxZFNkeFZ4OWZuMUZKLW83VWtXcWh6MVZpMHNjamVEbThLYzB4SzRIN2E2Ym5Ua2JOMU5vb2x2Y2hYSklqWi0tX210RS1neHZGbnRBY1ZqcHRVblhMTg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T13:11:41+00:00"
+    },
+    {
+      "text": "Nick Kyrgios tests positive for cocaine with tennis career in sad spiral: ‘Helpless and alone’ - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0pyZkdqaWxnbGRHQ3dMeGNIc1NWNDRhek1YVWVidXVUV2RKaUpBQ2pORG9WNmYwbktZZ0xyOHlIb05EZURMc2l2XzlaeHQxeXVDaEwteC14aVNSb3hOSUk1ZlB6TDAycUhqekNuOU9LOVhhLThleVBUejZ4M0VCOTcwVW9ybjdybHZ6U3ZQM1RMMks4NDlzclJYcjZlZW9vRkpvc3NCcG5ZNm05?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T12:51:57+00:00"
+    },
+    {
+      "text": "Hayden Panettiere’s ex Brian Hickerson reportedly handed police bag of medication after her death - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVoxRWRzX2NxY2RrNHNYV1BsQmRxQzhvV0M1enZ6OXhHNV9IZ2RQX0p6VVZmM2xBR043aEZmbU83Q0lLRUN4MTNxMEx3YWFnVllZRUJaWnA1T3lnV2swZHFfM3duOTM0emVZMTNmYjFTMFF1d25JNVJWYXpuR2MzVDBxTFdWQ2kxM2FGR2tORlhTU2NHX0FnZmlCN3paSTMwR1ljLTNtaUJiblo4eXlEd05DQWFQNTJqUUcwbVIwUDktcnJUYUExTmR30gHPAUFVX3lxTE9BWGxsc3pGZURoUDZsckttbmJ6dFRHdzllUTZoaVpfSFRhTW5HRUNlV0lmRGJLNTRzU0tSREJUS2FHb1NHbjYyMFdhSE10NC03WFQ5R1Y0UklRYm1iclZ1Y1pCN2NMRklpVnhpSTRmNjEzcjdveEJXY3VSVnpWSjMtaDFfRGR2NXBpU0FKUHdiQ0JjTWpjSDNVRnNkZzZWenNjcWNFQWZFaXZwVGNucUZoWkpVS1VTci0tdW4tMFQyMlNzb3FhWi1lMmJETDdvRQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T12:13:39+00:00"
     },
     {
       "text": "The Rising Stakes of the Global Bond Rout",
@@ -172,40 +199,13 @@
       "time": "2026-08-19T11:51:40+00:00"
     },
     {
-      "text": "Former Meta engineer resumes testimony in landmark trial over social media's harm to young users - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
+      "text": "Ohio death row inmate Tyrone Noling gets rare chance to ask parole board for pardon - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRvemlPTzBCVUtFRjJBYzAzQm14WFNIRnZYdkNvbkV0WFpUcXdsc2Vkd3h3VDIxV25IMW1HdHZiYlJZZndGcThwaTZDa3ZGWWoyYldWTVVYeHA3d3pxQVdmcU1jXzlnRHQ5N0g2cXlqNHh0bzJjV3o5UmVmMTMyVFR2Rkc0T2VlRG95VnZmRklhX29Qb1Q0eHZBa2VXbUtKQTF3UDBfaTFyREZ3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T11:00:39+00:00"
-    },
-    {
-      "text": "‘Rodri had doubts’ - Jose Mourinho says Real Madrid made ‘very good offer’ to Man City star before Barcelona transfer - Barca Blaugranes",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0RqbkdZeG9hU0Q4Q0lMb0thbnl5eW1hVkpSNTRIZDE2VTRzQTBoclJubGJoLS1TdnJSOUFxdHFGanFSUnIteng1Vzl1X3pDQjRJdlEzSHQ0VGt2dTFMdVkzcDlORHZNZlVmLTV4NW5vY3FzVkppYXdQeEV5ekZSaHZpQjJySTJ0dEF2ZzhIRUhfQWE1ZnZ6dzBVdkJ3bV8xZ3NEVWF1RmxoNnlvTHdmZmM1bm1GdnF6dzFObFQxLU9TT29HcGlfcWo0dXA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T11:00:00+00:00"
-    },
-    {
-      "text": "Target delivers earnings beat, CEO 'encouraged' by turnaround traction - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGJYd05udUY2YTA2bW4zQ0U0YnM4M0FGaThfYUdxTzMwQWxxbktJaGJlSkgzcTE3eUF3NVVkREd1d3lDeDAwRFkwc3ZNSjlZOUE3TEtUblR1eTZ4WF85eUtaZkQxSVFwWHJiWng2ZFB1Qk1uc3VmZlU1ZnBSajRiMklpbDV1bThSNExKN0tsWEg5b1Q3UFZSSGRnV2gzUDZpVGhlUm9JcUlKZjdrT29nVDFEQmZJTGkyVHRpR2wtcVVlYTVWbTdNTVdsSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T10:34:12+00:00"
-    },
-    {
-      "text": "Tupac murder trial faces ‘snitches get stitches’ problem but defendant's ghostwriter could be key - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1JXbFNIWktTNXlrb2ZwbVB0MmV4MzZFMHltRXBOQ1JfRzVTdmE3Qjh0SkViaDhRTHJKOU50RGg1YkNlLUJvWHNtZlcxSDFxSXdEYXM5cmM0YXAweUdPZW9MMUFyUHpXc2s5c2NfVkFHanRhdGZpMDY1VXRERElVM1NYWDhPQXZkUkdRcHhiT0twQTA0b0dienZEay1Tc0I2ZHJ2OVNuWUtjSXkyektKRTdCLXphYXfSAbwBQVVfeXFMTjZwOHdXOGJjTmxxTmR0V3k3OFVSWGZzU2lpWTRaUXpZYUxtdXZXeFNOcllYaEN2NjZaaDQ3RlFhekQxeTc3TDR6MXRlZkFhbUJEaGphV0M4akZOdWw2NkdHZ3d6eFJYbVVuMEJBMW9xTVVQbG5YdVYtZnRBS0prVl90eXljUjhuM29oRE54YmFVNzdrcUhIRWpvQ3dxb0pjNWNZejc1VHBtaXZVM0MxdVhfam9zN21jbU56UXY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T10:00:16+00:00"
+      "time": "2026-08-19T11:13:57+00:00"
     }
   ]
 }
