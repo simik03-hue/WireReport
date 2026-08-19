@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-08-19T19:32:28.213628+00:00",
+  "generated_at": "2026-08-19T20:01:35.584701+00:00",
   "lead": {
-    "text": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-    "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+    "text": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-19T19:31:38+00:00",
+    "time": "2026-08-19T20:00:17+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Fervor over data centers fires up competitive Ohio Senate race",
-      "url": "https://thehill.com/homenews/campaign/6039515-ohio-senate-race-data-centers-husted-brown/",
+      "text": "Target says its turnaround is picking up steam, with help from a big tariff refund",
+      "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-19T20:00:13+00:00"
+    },
+    {
+      "text": "Trump to sit down with Michael Cohen for interview, former fixer says",
+      "url": "https://thehill.com/homenews/media/6039587-trump-cohen-radio-interview/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-19T19:17:44+00:00"
+      "time": "2026-08-19T19:59:49+00:00"
     },
     {
-      "text": "Nick Kyrgios suspended from tennis after testing positive for cocaine - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGRnQW1oZTBaa25mODZTS1NqdlBSYkY0YzZqd2tYQnNaYjdIb3RmYTEwOW9ubXd2cWkzLUhBYkZkWXdDMGVadmxNOEo0aW1RckJod29ELXBQYlZXOXVRYkpRRmU1NlB2aHFhS0E0Tk5NLVIyOUt6Y01aUTVoMU1GZVk4V2xvdnZXeGJLOE9hc2MyUlMyV1VSX1doMWVtRktUQjYxeHJhOXpaWHZWVnZj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-19T19:59:14+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "The ‘Crack Spread’ Is Going to Make Your Life Unpleasant",
+      "url": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:17:24+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T19:53:15+00:00"
     },
     {
       "text": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
@@ -37,18 +57,72 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T19:11:23+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-19T19:38:14+00:00"
+    },
     {
-      "text": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
+      "text": "U.S. conducting stealth operation to transport oil through Hormuz - Axios",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6cnBGdDhxTW9hTE5vaXdadmx4NVFFb1lsc2ZRRWlGZTd3MnVJamt1Q0VpSzBHblBIMHlqTVhUN2pvaGc2RVBiRlJHOTJwTnpCT0h0bUwzREgwb3h6VTNHc3lMaFpzbmt1di04?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:07:03+00:00"
+      "time": "2026-08-19T19:21:42+00:00"
+    },
+    {
+      "text": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+      "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T19:06:05+00:00"
+    },
+    {
+      "text": "Dakota Johnson and Role Model Split - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91dUhEVkd1UGc5RzZsUXZIM2JpTi1QYktpWE8ycTNLbDdlTkt0UDZuN3dQTjBRWEFBRmJUekV1YjU4YlJXMVgwVzViMVNWUVRWQ2cyYVVVaS1UMlBKWHlBcXhUOVBnaEp3UUtWZ2ZCaE5KSG13LW9iLXNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T18:55:19+00:00"
+    },
+    {
+      "text": "Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress",
+      "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T18:39:17+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T19:50:10+00:00"
+    },
+    {
+      "text": "Trump selects Heidi Overton, White House aide, to lead FDA - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUENNM3AyYlplTTdvWnZLQ3pjbHQ0VTVuQ1RqNGR5QVZfNVNtMnRGdmtUaU9LUnhEanpWNXpLcktIWk8yWndVeGJ1TV9XaWwzLTRVdnNRbUwwMmlya2pyZHZoRWdxVV9saENlR0N6S0ZqNFR2UGIwRlF1aXFLNldMUEJCbUJHRVduWUtrR0VqTTg0TkVIXzZPbHBNNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T19:37:31+00:00"
+    },
+    {
+      "text": "5 Americans among 7 killed in Kenya helicopter crash, including Telemundo executive - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1JUQVJyN0lVWU0tTlRwZFNtMjk0NV8wYUc3MWhKNUZtYXhrdjZUWXRrQVpkLUt5TkQtOWNmTGh3U296Qkc3UDYtUndsME5nem8wT2M2aVo5azhYSmpiNTF3QXhqMjNhcW1DMXlBQV9xbl96Tm9TNVRaaExacUFaVHBPbTVOM3pVNzhrSjI5OFZQSlU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T19:16:41+00:00"
     },
     {
       "text": "Before-and-after images show where SpaceX rocket crashed into the moon - The Washington Post",
@@ -60,69 +134,13 @@
       "time": "2026-08-19T19:01:52+00:00"
     },
     {
-      "text": "Lindsay Clancy trial ends earlier than expected \"due to unforeseen circumstances\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzZUZFdOVGdraDMxWlV0aDB0eDQ3cjRMc1VweXpGZUM2Q25fRjd5SkwtUE5EbElWVGJuOFp1dDRZaWVwQ3hlTHo1T0ttNzZSUUZqeGctMk9EUGpKR3FST3VVek5wZDZFTGxCLURkOHlGdWVwLXlvX3JFSm9oWTdwag?oc=5",
+      "text": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T18:48:15+00:00"
-    },
-    {
-      "text": "Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress",
-      "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T18:39:17+00:00"
-    },
-    {
-      "text": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
-      "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T18:17:09+00:00"
-    },
-    {
-      "text": "Sandra Bullock breaks silence on partner Bryan Randall’s ‘traumatic’ death three years later - pagesix.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaTNsVGtMNXJLaFRzOHpicDZVRGlzUWt1M001bTlqS2ZuZGhHZGhHQVEwd1E3WHJ1d1J4OVk4WEtuZ2hiRUtTOTI5eVpSX3IzS2lqSVpCSHF6WU9CM25zOEtxTGFzLVVhTzM0SHRiSGJRZlU2VVY5NTk5aFpHU3NrWDFxcDA1UmVVdnJmNlRKam9Oanl3Z0UyOHNDak82VWFESllBckhGQ2lDQ3Z2dEVSM3hJdFFPelh1OFhGcWkzUDgxLVI5VVZIUm5KdVpiUEJzbkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T17:45:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
-      "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T19:06:05+00:00"
-    },
-    {
-      "text": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T19:00:14+00:00"
-    },
-    {
-      "text": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
-      "url": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T18:42:20+00:00"
+      "time": "2026-08-19T18:52:00+00:00"
     },
     {
       "text": "Stock Market Today: Dow Opens Higher, Bond Yields Dive After Treasury Steps Up Buybacks — Live Updates - WSJ",
@@ -132,44 +150,44 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-19T18:29:00+00:00"
-    },
-    {
-      "text": "Man who dated Hayden Panettiere called 911 from apartment, police report says - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT203NmRsb2t4LUZxYWVaYlZ4ekNLajVBTkNIbE5uMWdyM2s3WTd6RFlhaHg4TEwxdTdRRnNKV0stdXRXVzIwamJnbzA4bmVSdDVXbXQ0ZGo0SWhRMzJBai13b1Y4NUowY0p1cnl2aDRXbmtGM2haSkpSLUo4bVdRLXB0TVFQYm5kMjFzSW9Cb1l0RVo5WFBYVmRWZHlZdGxhVkJhSmJ5cV9Zekg4RUhlZ0h4N3RVU3hTVFhaN0NfMEtzSlE0b01n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T18:11:47+00:00"
-    },
-    {
-      "text": "‘It’s Bonkers’: Jennifer Hegseth’s Hands-On Role in Her Husband’s Pentagon",
-      "url": "https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T17:32:25+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Kenya tourist helicopter crash kills seven, including five Americans - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONW5LS2JKMjFfeFNRckE1RmNFNWdJU1RSVlIyQ2d5SC1zaHJOUUpuODVhU1g2M3h1NzA3NnB3ckxUYWhKNTB4M2ZUS1VpX1dUUURDcGZialRsZjk3UkZtZjVRcEJNZ3lHV3dOY1N2cFhIYWJ3cHpaRHlkNkRIM0ZjOXI5TTgzRlEwZ1pBYnVQczFOUjcxbmpxenAzLVl5d2JzU1B2YTh6b2JVUVdwZHFMUDliRXRwaFFJakpaT3hwdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
+      "url": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T19:04:56+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T19:46:15+00:00"
     },
     {
-      "text": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+      "text": "Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSGR4cnJhdGF4MkVpcU9yanlWZUpFVDd6SzJpSTVGR2tJT28zd2JxYmpKOTdXU0VpSjA1aFRVNzd6c0lCU0d0TFJ4WWxqdDE0Ml95UmFBVTR2Q3lnZ3NuRGZwc1FBVDJGeUhGemxGZTRjWExhWkd3SERWTXJNZXNfWnJXUFZSeDMzRGxVdWlKQ3VRU196WDRvaEVIRHhjT2RRSUpzWHlRdTBKeHI5MzRaSG9iVy1uZENBR3lhNWlVRQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T18:52:00+00:00"
+      "time": "2026-08-19T19:22:15+00:00"
+    },
+    {
+      "text": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T19:07:03+00:00"
+    },
+    {
+      "text": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T19:00:14+00:00"
     },
     {
       "text": "As More Americans Turn to Cannabis, Problem Use Is Increasing",
@@ -188,24 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-19T18:17:19+00:00"
-    },
-    {
-      "text": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbURqbU9qV093Wmt2aWFFWkpxaWNGYVRQanh6NWRqeXJfZHA3bDB4Nmp2LXlrbUh0MlR1WWdDWEM5QUpaV2gycjItYmvSAbwBQVVfeXFMTjhBbUlQSGRVY3hPZXpNT3A1NFlLQ1ViNUZ0WjBzaC1LdTlFZ3J1UHI4Q1FGT2tUZ3JWeDBOWTIxRGJWRnNRUW9VcHdfQkhKZk5IaGhBdmdiSXFYX3RySnhUOVNpeUN2TjBvMUVKcEUyRXlQUjZkRmYwQU5ud3VIczJwLTZxVW90NlVZYjM4a2J3RnpxbjV1RlZ5VXFYenNZcXFEVmhLM0pKUnQyOVZQRm5lMUlvdDNLWVRFOU0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T18:01:32+00:00"
-    },
-    {
-      "text": "Judge Is Asked to Block Inscription of Trump’s Name on Kennedy Center",
-      "url": "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T17:31:19+00:00"
     }
   ]
 }
