@@ -1,35 +1,46 @@
 {
-  "generated_at": "2026-08-19T06:16:45.483777+00:00",
+  "generated_at": "2026-08-19T07:21:52.306241+00:00",
   "lead": {
-    "text": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates",
-    "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-19T06:11:24+00:00",
+    "text": "U.S. Cuts Back Military Drills With South Korea, as Trump Woos Kim Jong-un",
+    "url": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-19T07:15:13+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "'Catastrophic' hotel blunder caused unfair trial, mushroom murderer's lawyers tell court - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UzlnemlmZUZnNkV0LXREWnNZYjVIWGx1MG5mT1Q5d3hiVDVrSFBmcmlHNFlTMDZzNExMUXloRUxvVjdLVmVnVHNNUklJVUNsMnM2dk5R?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
+      "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T06:04:33+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T07:08:31+00:00"
     },
     {
-      "text": "South Korea shortens war games with US, citing Washington request",
-      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
+      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-19T05:53:53+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-19T07:08:19+00:00"
     },
+    {
+      "text": "Ukraine-Russia war latest: Russians ‘withdraw billions’ from banks amid fears Putin could seize money - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUNGN1RDZG5LMVJ5ZlZ4X2gxTlJRaU5vLWFSZ0E1SjNLcXd0TjZmazRCQzFXVmtGREZwQU56NGQtNGg3ZGU3RVM1TFhTWDF1Unl1Y2c4WjBnU1ZyTHFHWnByUHE5OUdBWDZaVFFqdHIxTmxVMkVHTXdJY0ZCN0c0V05uX2lzUm5tZVlkNUprX195RHF6ZndYMFk1bFI5VHIwTzJVTmQxdWRmSEFNQ2hURnp0cDU2NFlh?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-19T07:07:45+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Rosie O’Donnell Rags on Trump’s Strait of Hormuz Claims",
       "url": "https://www.nytimes.com/2026/08/19/arts/television/rosie-odonnell-late-night-trump-strait-of-hormuz.html",
@@ -38,9 +49,54 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-19T05:45:42+00:00"
+    },
+    {
+      "text": "The ‘Crack Spread’ Is Going to Make Your Life Unpleasant",
+      "url": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T05:30:15+00:00"
+    },
+    {
+      "text": "Iran eyes military targets in Europe if Donald Trump escalates war, insiders say - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1JZN1RkZ0VhaTk1MXZsMlZlOW1iNUFvc2tYb2tmcjRhZWRLT3J1azE4VHNhLTNKQ0ZMck1NcktQc3FNcGtJekdwZUJlRUl3WFN1cXFtN05YLVJ0RjlpRGlRYnRESVlPdzZTU1pTeUI2TkhlWlBFcmhyX0dDajNncEtrMlg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T04:01:12+00:00"
+    },
+    {
+      "text": "Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVd4bVdFUGpzN0FaQjRJcmJZSGk4a1dqVHhMUEJUT09JREZDUjgxR1REU0E5cWdpQW5DcjhYVUFPT243cDBsMWhvVWkzWno4NEpBUEY4YkNZV2gwU25hYjE5V2JIb1Q4QW45d01JOE10SXNrR3N5ZlNvSGdpMHl0SFVJWVFQdUVWUFlpdms5RG10ZGpOVk5EczYtLWxGMWFRc01Lcnk0VUFaTW1mUDB2alF1VGp1TEJLTmxDT05zbjE0cG8?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T03:29:42+00:00"
+    },
+    {
+      "text": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
+      "url": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T03:01:28+00:00"
+    },
+    {
+      "text": "Florida governor's race is set - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFJJeXZtQnpyY21tOWRpcGRrMDR4bkFMdG9ITWhrZHVrdHh1N0sxekR0cU13Y2c3eGNtanc0SFRlM0dhVVF2UlVibXZleW1hTnNOZlhsYVYyTE85cXd4ZUZkMEdfUjlocE9QWUttbU9YeURCTTFZX0pJR0dlM0V5aHZTYU81djg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T02:31:00+00:00"
     }
   ],
-  "col1": [
+  "col2": [
     {
       "text": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
       "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
@@ -60,78 +116,13 @@
       "time": "2026-08-19T05:05:21+00:00"
     },
     {
-      "text": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmRKLUNfWUdjVzRaTDhjeEJKZkxNcUs1aGo2UEpaZndZdmlpV2puU1YxSDZ3RWMtWEZaUEIwcVprc2FhWTZ1UGNpV2I3eHFaYmlLLVRTY3R6YWdKX3d6Nnc4VlhXTEVDWVdqRFZlbWlrUmY4YVFXdHhBZU5WQkRfeC1YVjM2cEc1cDIzaEx4dVZ2TmI0WXFaakpSSC1MWUVucUd2eXZKakRLZlh4ejdhYS16eGFidw?oc=5",
+      "text": "Target is set to report earnings before the bell. Here's what to expect - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qbGJ2ajhnbkUwUVNhYkk3SVc3bzlaWVdrendoaXlpM3JjYkliMVI0ZkJybWMxVllyNFBJRjFWYk5faDlLVFg1am5KV0QtVDdCbnFsNkxtRFZzUVhPN0EyempURUFUdG1pMmNISEFVQlM2UdIBd0FVX3lxTE4yWG43Y0FmeVRVZml1UThMVU1qdVU0LW9CUHV0ZTc5ZmRha2x6VjNfaTBLb25jTVlhaDRqMFhBdmpHUFprckJJeml6NTdrRW1aWDV1TnVIZ05wM2VPY251eTVGOENlMFRxWnp3R0dIbGtUcl9aX2tZ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T04:09:03+00:00"
-    },
-    {
-      "text": "Election Live Updates: Florida Chooses Donalds and Jolly as Nominees to Replace DeSantis as Governor - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T03:52:00+00:00"
-    },
-    {
-      "text": "Chinese robotics giant Unitree soars in stock market debut - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LYTVEOXBXWHBjaDFwT01UNVhCTk41WkxqUXFfeVhFcEd6NUJKaWN3dE5jM3pnbThJTDRzTTR3ekotSGlmQmFWb2xORVBtejRHZXBHNHpLc09YUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T03:26:27+00:00"
-    },
-    {
-      "text": "Witness gets combative in Tupac trial - 'I don't want to send him to prison' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQlllN25iejdHR2JMT2tESW9kbTRnVjdmMmo1RHhRaVV0S1ZPLUgyMWo0R29LRlA1ZC1nQkZiWHV3akVFRjBwbXJXS0VlSDF6MDIxcVdkR0ZXZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T03:00:35+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Trump pauses 50% tariffs on Canadian goods for 3 days - Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQzZ1LUNhUTFPZVA4U2lJSXVPUFhrZGdOdVZaVS1keFZWaGxUc1JxWWNJRjhKNGF2QVFLd2RlRHZxTHFOTzBxOFlvME5MaXhHaERYdlZxbzlOckZoNndmbTU2cDFwQ0pwbjItMFI3OHVtMUFzUnI0VFJ3dTZEN0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T05:35:03+00:00"
-    },
-    {
-      "text": "Pentagon Scales Back Major Training Exercises With South Korea",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T04:48:57+00:00"
-    },
-    {
-      "text": "Iran eyes military targets in Europe if Donald Trump escalates war, insiders say - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1JZN1RkZ0VhaTk1MXZsMlZlOW1iNUFvc2tYb2tmcjRhZWRLT3J1azE4VHNhLTNKQ0ZMck1NcktQc3FNcGtJekdwZUJlRUl3WFN1cXFtN05YLVJ0RjlpRGlRYnRESVlPdzZTU1pTeUI2TkhlWlBFcmhyX0dDajNncEtrMlg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T04:00:32+00:00"
-    },
-    {
-      "text": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-      "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T03:33:53+00:00"
+      "time": "2026-08-19T04:01:01+00:00"
     },
     {
       "text": "Threatening Friends and Courting Enemies in Trump’s ‘Upside-Down World’",
@@ -143,60 +134,13 @@
       "time": "2026-08-19T03:07:15+00:00"
     },
     {
-      "text": "Florida governor's race is set - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFJJeXZtQnpyY21tOWRpcGRrMDR4bkFMdG9ITWhrZHVrdHh1N0sxekR0cU13Y2c3eGNtanc0SFRlM0dhVVF2UlVibXZleW1hTnNOZlhsYVYyTE85cXd4ZUZkMEdfUjlocE9QWUttbU9YeURCTTFZX0pJR0dlM0V5aHZTYU81djg?oc=5",
+      "text": "Witness gets combative in Tupac trial - 'I don't want to send him to prison' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQlllN25iejdHR2JMT2tESW9kbTRnVjdmMmo1RHhRaVV0S1ZPLUgyMWo0R29LRlA1ZC1nQkZiWHV3akVFRjBwbXJXS0VlSDF6MDIxcVdkR0ZXZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T02:31:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "The ‘Crack Spread’ Is Going to Make Your Life Unpleasant",
-      "url": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T05:30:15+00:00"
-    },
-    {
-      "text": "Politics drove antisemitism probes against Ivy League schools, DOJ whistleblower says - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWJlMFF0R3FPa1hmZkZld2ItOVpXYnZpRk4xQ1hVSmh0UmFodnN5Y09oZVZxSzJ0QUtYZjU2TkZ2MTRwTklDR0hEZUNTa2ZfWDlEa1EwdmlrTnZJT3BzeEJ3bHJCNmhCRkNrT3ZFX1k0RmVob295YnhhcW9LVE0tZEg5eDZrRS0wWGdwTkpfTE5xWUptd0RVUXdIUnlRbGJfWURoNm9CTGtnSW45NUFuSld6MFJvZFNMM2FESHpXYnJkcmZu?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T04:38:53+00:00"
-    },
-    {
-      "text": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
-      "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T04:00:28+00:00"
-    },
-    {
-      "text": "Trump to tap Heidi Overton as FDA commissioner - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVlFZWTdKS3dmWjBXcjNGcEkxLXhyZnUyYUx4VjN4UlUwUUlucUc4T05Qa2xnc1Z2LUFHU2pvOGxPNHc0VV9yVlBleEs1Q0hIWVdVNEVaSTRqcnFJRURRQ3BrakNkcEtZbV9xVWt6U2ZWUkw2QnUzNA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T03:30:56+00:00"
-    },
-    {
-      "text": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
-      "url": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T03:01:28+00:00"
+      "time": "2026-08-19T03:00:35+00:00"
     },
     {
       "text": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
@@ -206,6 +150,62 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-19T02:29:43+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Trump pauses 50% tariffs on Canadian goods for 3 days - Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQzZ1LUNhUTFPZVA4U2lJSXVPUFhrZGdOdVZaVS1keFZWaGxUc1JxWWNJRjhKNGF2QVFLd2RlRHZxTHFOTzBxOFlvME5MaXhHaERYdlZxbzlOckZoNndmbTU2cDFwQ0pwbjItMFI3OHVtMUFzUnI0VFJ3dTZEN0E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T05:35:03+00:00"
+    },
+    {
+      "text": "Sacked Ukrainian defence minister calls for presidential election - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JUHh2WktOZFAtLS12bk4yQ0UzMEFFenF3bWxOclpZaTRxd19hcm5NMG9fTV96T3ZtRXVjTGV1WGpEd1NJOWF0YmE5YTdVVEl1djA1T3hTNVdsUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T04:44:41+00:00"
+    },
+    {
+      "text": "ZZ Top Drummer Frank Beard Dies at 77",
+      "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T03:33:53+00:00"
+    },
+    {
+      "text": "Trump’s pick for Wyoming governor is the latest endorsee to lose primary - Politico",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWlhNTJZTVBsODB1STFac2MxaUhQMXN0cmtiQ1VRR3ZyX0l1blU4MUp4UlotUHRETDdTZmU4ZFNvU2hIQ3VyTEg4QVVXaURaU3NSMUtsc0doYVdwRGtfWm13ZEJfUDUxamMzcmYxNUZDWjVUdnRDaTFzd0NzRmU5TERYTG5UNmZtY2VZZVQ4Y0xuNDdhNEM1QUNPTVBzemxNMm9BblRVVUQ3cWxtcVluSWtNcnh4TDFGMG44ZjRn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T03:04:00+00:00"
+    },
+    {
+      "text": "Mariners suffer worst blowout in franchise history - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0VVQ2h3b2U5T2NBV0laVWFzUl8xV1lEc2hLVV80dDJfRXNzOGRZMHZDcWcxek5xSVVqM25WREpsX3RYR2ZKaTNzeGRWN1Q1QnNvZjlkcS13TUxUM2RURnJ0ak93WGI3RGN1QS1TNFpma254MDRSWVRVYU1sNG1TbUJjZzBiQ3FaWWRpN0pzaFBqOWVPMDNCT1A5QVZpa1M0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T02:46:05+00:00"
+    },
+    {
+      "text": "Haitians in Springfield Hunker Down as ICE Begins Detentions",
+      "url": "https://www.nytimes.com/2026/08/18/us/ice-haiti-detention-springfield-tps-immigration.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T02:22:12+00:00"
     }
   ]
 }
