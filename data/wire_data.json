@@ -1,25 +1,63 @@
 {
-  "generated_at": "2026-08-20T20:04:07.776146+00:00",
+  "generated_at": "2026-08-20T20:48:38.407622+00:00",
   "lead": {
-    "text": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-20T20:02:41+00:00",
+    "text": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
+    "url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-20T20:41:36+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
-      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+      "text": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-20T20:40:17+00:00"
+    },
+    {
+      "text": "Dow tumbles 700 points, S&P 500 falls as Treasury plan to subdue yields fails",
+      "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T20:01:49+00:00"
+      "time": "2026-08-20T20:30:24+00:00"
+    },
+    {
+      "text": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
+      "url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-20T20:28:21+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Hochul’s Advice for Mamdani: Focus on New York City",
+      "url": "https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T20:26:15+00:00"
+    },
+    {
+      "text": "Darline Graham’s Debate Misstep Tests South Carolina’s Appetite for a Political Newcomer",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T20:14:01+00:00"
     },
     {
       "text": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
@@ -31,18 +69,54 @@
       "time": "2026-08-20T19:53:15+00:00"
     },
     {
-      "text": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-20T19:52:48+00:00"
+      "text": "Map: 6.7-Magnitude Earthquake Shakes Peru - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFB5ZWlSLTNHRG9aX3daVjhzcUUxYlZCbWtjcFZ6VHhoME82UThucXduY3l0eDEyS3hKLUtwMW5xZTczZ3RsZUxfQmQ4Yk5UbGFfVTViMGR0TUlFYVV1LVhSYVdiczRJejRVQ1JSTUI0WVlHNFNaaFR4S1NLeUtJM3Z1MkdZYThIQ2dSdlVn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T19:07:09+00:00"
+    },
+    {
+      "text": "Venezuelans and Cubans among deportees to Liberia under Trump deal, official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXdrbkRyd3FOTF8wdXNGSkRHMWJmaEJBQUtmMDhBcnhiTHJ6bmpWRWV3LVREeGlkeC1BUFEzU2xGUmdIYVF4dXNLRmctcmtyZkMyVVJINm1GUE1yaXc4V1FzQmlNbktwVklkckZPQVV5S1kwejhDTzRLRjVQczFtRVVfSERnamVlaVFBSC13SDNfYkgwTFhtaUJ6dEdxOGlFaWJhOERncnVkWkttUV80SV80N2xOQW14WE1BRmNzaw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T18:48:09+00:00"
+    },
+    {
+      "text": "Bernie Sanders endorses Angie Nixon for Senate in Florida - Politico",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVl1TVpMbnZENnlYNlR4QklFRmJSX0R0WmF1TnZ4WGdXbGtTTFQ2d0Z1M1oyT2ZURmpDd1pxT29XSmhWc1NITWZuYXpSOV9CaE1jZHl2OXRUZy1YWWl2ZWNVSDlhOWlETjZwV0xQT29XNk1JTHd1V2JOWURhR3dfSDgxbk5KSlhlYVF4Nm5HSWFIM3M0czVINU9HV0g?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T18:37:00+00:00"
     }
   ],
-  "col1": [
+  "col2": [
     {
-      "text": "How the A.I. Borrowing Binge Helps Drive Up Government Bond Yields",
+      "text": "FBI Arrests Woman in Plot to Bomb New York State Capitol Building",
+      "url": "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T20:14:39+00:00"
+    },
+    {
+      "text": "FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry",
+      "url": "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T20:12:08+00:00"
+    },
+    {
+      "text": "How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields",
       "url": "https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html",
       "source": "NYT",
       "lean": "left",
@@ -51,22 +125,13 @@
       "time": "2026-08-20T19:45:55+00:00"
     },
     {
-      "text": "Trump Boasts of Declassifying Secrets, but Withholds Key Election Files From Public",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-2024-election-classified-files.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T19:16:16+00:00"
-    },
-    {
-      "text": "Map: 6.7-Magnitude Earthquake Shakes Peru - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFB5ZWlSLTNHRG9aX3daVjhzcUUxYlZCbWtjcFZ6VHhoME82UThucXduY3l0eDEyS3hKLUtwMW5xZTczZ3RsZUxfQmQ4Yk5UbGFfVTViMGR0TUlFYVV1LVhSYVdiczRJejRVQ1JSTUI0WVlHNFNaaFR4S1NLeUtJM3Z1MkdZYThIQ2dSdlVn?oc=5",
+      "text": "At Walmart, billions in tariff refunds soften the blow from slower sales growth - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEw0a1J4dkdpbU9UelV2bXFmZWZjZHY3S19lUEk5R09Gb0tMdEJJUVpQbHlvY2JKZkxqQnJ3M21wY2lVYkxqSFV6LXl5QVFQZ21jbnQ2dXRWbGlVbWxwMVJYc1FRNmVSWVlnWW0zVnYxMzU4NlJXbV82QVQ3OGtlUUdGQ2c0bldJa1NvWFFNV29HeUVj?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T19:00:02+00:00"
+      "time": "2026-08-20T18:58:10+00:00"
     },
     {
       "text": "In a Big Year for Progressives, Here’s Why These Moderates Won Their Primaries",
@@ -78,62 +143,6 @@
       "time": "2026-08-20T18:45:44+00:00"
     },
     {
-      "text": "First group of US deportees, out of an expected 1,200, arrive in Liberia - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjlJa2czd3Jxb1pvWWZJTU9ha1piUFhpUFhtQkhzc01hVHc2bHRaeDhIVkgxYktrajVycUVfX2N3TEZ0eGNLN0U0c0RieVRSdzBqTGQwdlZoYXZOZmp3QVpvRHFITGRvd2R2MW5vMUhaZmMySy0xOWE1ZjUwSzljbHVIZzF2bGwyRWtRaFZNcE9GUkl3bGx0anQ2dUg0blpkMHNkRDJURzB3Smo2SjZN0gG0AUFVX3lxTE91QTRKb1kyR0FLeFU5ak1waE5abndLNnpPalZVQW5iN01GWmE2eVNMNVhzcUdOc1BNTTNNYVFXaFZwWXo3YlhwRWpDNllmcXhrZENBZnBNc05IMkc3N0pITWZYUktZSEIxbURZOXVfTm1Qc2w5X0ZrblhLQjlmTmRvMUdGdFBZMnJCS1pfb08yNldLUjBSNzFMbER1RW5CZWVYZVBlUjQ4SlZFVjBoRkpsUUtqNw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T18:30:55+00:00"
-    },
-    {
-      "text": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-      "url": "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T18:18:36+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Hochul’s Advice for Mamdani: Focus on New York City",
-      "url": "https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T19:36:25+00:00"
-    },
-    {
-      "text": "Paige Bueckers, Azzi Fudd detail relationship in new UConn documentary - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORFBySm5YVnFKU3ZRb1FSc2pnOTU3MHZqRlpaYXdZWkJLc2dEUmZ1NEszQXZrZXM4VzVqaWY2eVJ2TGQ2MTFCemVnamxxNjE5QmhuQ0NhRDEwQzc2M0xKRUNXdDRZb1RqTVNLX0Y4X3k0emhqRUF0YjVXSG9wWjgxS1JfdFE4TFp5LWwta1RVZTc0SXNjWDEzZmUyMlFfYlZoQkxTaFIyV0E2WGlVX2JEY3d4WmloN3VCOVNzVXZmLW5fSXlmV1pZWlVncW8wSlVqdzQ0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T19:15:00+00:00"
-    },
-    {
-      "text": "FBI Arrests Woman in Plot to Bomb New York State Capitol Building",
-      "url": "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T18:58:53+00:00"
-    },
-    {
-      "text": "Stock Market Today: Bessent Signals Treasury Buybacks Could Exceed $4 Billion - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFBldUlGa1pnUUM2bjFDS3MzeFhLeTNrSXRJN0RTbnVYeXJZbHJ1eXROVTZUbV95amFvOGgxLTdEdzZ5YnZfWHZKOVIwZEI5MG5UbW0tWVpKWG9MNzhmbXl6U29fTnBDbFlCcmxmQ3lVaW00VXpoYzZ3d2pTVENBMlk2VmJ3TWs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T18:43:00+00:00"
-    },
-    {
       "text": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
       "url": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
       "source": "NYT",
@@ -141,35 +150,35 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T18:27:34+00:00"
-    },
-    {
-      "text": "FBI thwarts an alleged ISIS-inspired plot to bomb New York Capitol building - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmFIZHlGSzBtaVpoSUVkdHBUd3BHWmdydU44bzVQT2JWV25mMXItS1NBYVhaUWVwWmdQcXFuVXU5WlVEZTNnV0d4Z3VEZ2IyYUpZVks2c3FDUWN2ekltQzA0Y1hDSGRPbjBHbUVTUHVrUmJEUFpiYUJJRTR6RTBfT1BDZlZlXzh6eFFZWWo3dHpiaE9uYmlwNTI3UHFia01ZRHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T18:15:01+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Darline Graham’s Debate Misstep Tests South Carolina’s Appetite for a Political Newcomer",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html",
+      "text": "Rachel Cusk on Her Novel ‘Life of M,’ Gossip and Natalie Portman",
+      "url": "https://www.nytimes.com/2026/08/20/style/rachel-cusk-life-of-m-natalie-portman.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T19:25:55+00:00"
+      "time": "2026-08-20T20:14:23+00:00"
     },
     {
-      "text": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
+      "text": "Hayden Panettiere’s mom says narcotics investigator was called into police probe of her death - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQckJ1a1YxeDJMS2JVZlg5SlFPeWpQcWJ2bGVnVG9OTHRSSEE2VHJPU3NBWTlHeU41ZFRHQ1A1Mzg4OVlxRWg3WkJ2MDM3YkluQjNkYXV6M2V1SHN1Ym1VdG5fWUJWT0w4OXFBd1h4UlVFOU5SSFJhbWJaTmhXSEFUWk9VaWlpSGZndGxuM3BKRHcwZU4yTjRlYlRnQjJNUzZWZHR4VzBPdlBJSWVVMDFvMDZ5Mmx5dnBfZHc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T19:14:34+00:00"
+      "time": "2026-08-20T20:06:57+00:00"
+    },
+    {
+      "text": "Trump Boasts of Declassifying Secrets, but Withholds Key Election Files From Public",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-2024-election-classified-files.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T19:16:16+00:00"
     },
     {
       "text": "Michigan holds line on vaccines for kids despite Trump executive order - Detroit Free Press",
@@ -181,13 +190,13 @@
       "time": "2026-08-20T18:54:00+00:00"
     },
     {
-      "text": "Bernie Sanders endorses Angie Nixon for Senate in Florida - Politico",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVl1TVpMbnZENnlYNlR4QklFRmJSX0R0WmF1TnZ4WGdXbGtTTFQ2d0Z1M1oyT2ZURmpDd1pxT29XSmhWc1NITWZuYXpSOV9CaE1jZHl2OXRUZy1YWWl2ZWNVSDlhOWlETjZwV0xQT29XNk1JTHd1V2JOWURhR3dfSDgxbk5KSlhlYVF4Nm5HSWFIM3M0czVINU9HV0g?oc=5",
+      "text": "Scott Bessent urges US partners to back plans to 'squash' Iran economy - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOUpxR0VLZHYtWllTZWxtUklUanM1R2tDOEhsZlJLRldrV1pmWWxBTHYtRnROUDlUZmkzUEx6VTJvNFh1MmxUYTNkNEl5X0R2SEQzSWFnTUdGdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T18:37:00+00:00"
+      "time": "2026-08-20T18:40:46+00:00"
     },
     {
       "text": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T18:25:34+00:00"
-    },
-    {
-      "text": "Rachel Cusk on Her Novel ‘Life of M,’ Gossip and Natalie Portman",
-      "url": "https://www.nytimes.com/2026/08/20/style/rachel-cusk-life-of-m-natalie-portman.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T18:13:55+00:00"
     }
   ]
 }
