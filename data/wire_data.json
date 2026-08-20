@@ -1,26 +1,17 @@
 {
-  "generated_at": "2026-08-20T08:58:10.862750+00:00",
+  "generated_at": "2026-08-20T09:44:44.790676+00:00",
   "lead": {
-    "text": "Trump Threatens Economic Pain for Countries That Help Iran",
-    "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-20T08:45:10+00:00",
+    "text": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+    "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-20T09:42:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
-    {
-      "text": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-      "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T08:41:41+00:00"
-    },
     {
       "text": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
@@ -28,7 +19,36 @@
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-20T08:39:26+00:00"
+      "time": "2026-08-20T09:37:31+00:00"
+    },
+    {
+      "text": "Trump threatens 'Economic D-Day' for Iran and ‘tremendous’ consequences for its backers",
+      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-20T09:30:49+00:00"
+    },
+    {
+      "text": "Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources",
+      "url": "https://www.cnbc.com/2026/08/20/somali-pirates-return-iran-war.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-20T09:28:55+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T09:12:46+00:00"
     },
     {
       "text": "US national debt hits $40 trillion, rising by $90K per second - WJLA",
@@ -38,26 +58,71 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-20T08:33:12+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Trump Wants to Influence Brazil. It’s Way Ahead of Him.",
-      "url": "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T07:36:46+00:00"
     },
     {
-      "text": "China Sentences Evergrande Founder to Life in Prison",
-      "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+      "text": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T06:56:00+00:00"
+    },
+    {
+      "text": "Harry and Meghan’s Break With Britain and Planned Return: a Timeline",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T06:39:53+00:00"
+      "time": "2026-08-20T06:27:55+00:00"
+    },
+    {
+      "text": "Horoscope for Thursday, August 20, 2026 - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFlnX3FmaWMzaXNTeFoydEZ5eEoyTk5RS2R3VlNpZGpyQ1dhMTRlbk1aUVVXMVhYeENET3hudGRyYmkwR0pqM0FRdHhsTllFb251bHU2ZWM3N0ZSMzQ3c00tUTlScmc5bkFILU5TNnBnbzBlb18yU0JEY29zN2ctQy1RQnpqcHZjNFh1SnR2ZkptYXh6blE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T05:01:00+00:00"
+    },
+    {
+      "text": "Pilot killed, 2 Pa. State Police troopers injured in midair crash at Carlisle Airport - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnVlRVN1bkJGbERSbTFDLWJ2T3F2cE44dXY3Y3N6bEJqNmh2M1VTRXNPT2NRLW55MmtnT1lEcmFHNUY5Y1BLMHgwTWt0ZlAybVg0N3o3TWdLREFaSjMya3hNaUlkYkRGR29nS3NqY3NoQVcta0tjY0IxTV9USUwxNDZJd2dMLXdNY3ZkazRxZ09peWZQc05WUzRXQ21NNWZfOTRUcGpLWWt2ZjJ6aGlNQnI1cDEtNExrLXpHTA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T03:34:13+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "The Scales Can’t Fall From Our Eyes Fast Enough",
+      "url": "https://www.nytimes.com/2026/08/20/opinion/trump-maga-immigration-woke-democrats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T09:04:18+00:00"
+    },
+    {
+      "text": "North Korea dismisses Donald Trump’s overture - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYk5WNzVYZFhJNVVDMllna2RZRnhaZWRpLXA4UGpkSE1qSUNhN3dqZElKRWlxYS1FbzNJcmNYM3NNWWhqSUhwOXZ1RzYyRno4eHNWRUhGV0IzZUlJazFrbl9pLWJ2dzN6czVpVDdadGQ3RERqVzhXRDY4RGhMZDZkbXFMbWU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T08:16:28+00:00"
+    },
+    {
+      "text": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T06:51:04+00:00"
     },
     {
       "text": "Prince Harry and Meghan are returning to the U.K. with their children - NPR",
@@ -78,25 +143,25 @@
       "time": "2026-08-20T04:20:00+00:00"
     },
     {
-      "text": "Pilot killed, 2 Pa. State Police troopers injured in midair crash at Carlisle Airport - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnVlRVN1bkJGbERSbTFDLWJ2T3F2cE44dXY3Y3N6bEJqNmh2M1VTRXNPT2NRLW55MmtnT1lEcmFHNUY5Y1BLMHgwTWt0ZlAybVg0N3o3TWdLREFaSjMya3hNaUlkYkRGR29nS3NqY3NoQVcta0tjY0IxTV9USUwxNDZJd2dMLXdNY3ZkazRxZ09peWZQc05WUzRXQ21NNWZfOTRUcGpLWWt2ZjJ6aGlNQnI1cDEtNExrLXpHTA?oc=5",
+      "text": "‘Spider-Man: Brand New Day’ Aims to Swing Past ‘Insidious’ Sequel for Fourth Box Office Win - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDdYWmJkYzBHZU9vYk11SVZYNnVqeEZ6cUdUZTRqZWswX1Y2LU81NmFaNFpnQ3RKYkVyX3kyTzB6UEVaVUZFcGNhbXZOTm5ZV2c2T2hXZjVxR3Z4UlUwSjVvSENQUW1RZWZhWlpnLUxrQkR6aUl6RUwydnRtZ3h6Qk93ZmdOWGdHd1pQelFZRGNwWVZ1eUU3VDdMb1VaMVhGR09oYkszNDdBb3lQUG1UX29uX2RhV2s?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T03:34:13+00:00"
-    },
+      "time": "2026-08-20T03:13:27+00:00"
+    }
+  ],
+  "col3": [
     {
-      "text": "Missouri Judge Says Redrawn Congressional Map May Be Used in Midterms",
-      "url": "https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html",
+      "text": "Trump Threatens Economic Pain for Countries That Help Iran",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T02:49:13+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-08-20T08:45:10+00:00"
+    },
     {
       "text": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVhCS05GTl9MZEVxcUFnNTlYSERZMlRFVXotU2FQMXBrRHhyVU1ULUN4X2N2TXpJbDFjbEo5X2djeW9hNjlkYU0wVTMxWV9QbHp5TGFHY1EzUFRCZGxNVlNiYVBJNkU5UGpSdG0yOEFxSm5Zc2xrNzloZHRkdXNJMnVobUkwMDJKR1JkS3hPZjRNZFJfWjZKRkhqR2hZUDZRVTNjcS1HWFJGbFHSAbABQVVfeXFMTzNXU2ZhU2FUMmswRXJ0eUdVaWF5SUc4eXRKNlp0eVFWYUpWaE1vUFlmSnhDdFVWLVNDeFlzOTB6aWdYYUZLRzlENzhfSUNkV0dLUS1sNFJ4OUd1dERiUlNGX1ByeFUxREhKckxmOGhGSzhxSHVSdXBDWmZDVWFtQkN3U0pIaHZ0Q3p6QUtpazM2VUtXTkx2b2J3eXpCV0ZyaE1vTTZyVU5vSGo5b3J0RlE?oc=5",
@@ -107,13 +172,13 @@
       "time": "2026-08-20T07:23:52+00:00"
     },
     {
-      "text": "Russia again exploits Ukrainian air defense shortages as deadly strikes pound Kyiv - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90T2prZ3lKeEtrSmtVT0Mxdm0xMVRSenJNcHd1V0xFNWpVX25VZUdKSGpkczBhTWxKOXEwNWFQVW9fX3lJaVZuQXVYUFA5QURJbDBZVjNUN0lzY295YXpfdUxnblNpLTJwdmRvXzNxdXlISnRQclZiWi1ZTjJ2UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "China Sentences Evergrande Founder to Life in Prison",
+      "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T06:39:21+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T06:39:53+00:00"
     },
     {
       "text": "Jimmy Fallon Teases Trump’s Efforts to Rekindle North Korea Bromance",
@@ -134,78 +199,13 @@
       "time": "2026-08-20T04:01:09+00:00"
     },
     {
-      "text": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T02:59:28+00:00"
-    },
-    {
-      "text": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12NDBHaVhjZ1NmTVQ5eGpneGRNWlJ0Y3VMbEVtbUdERFpQcnBPbTBHWUZpSGtQQWFqVmt3ajEwNmt5VXUwcGhiNDFwWnFRZE5uZGdObFBvU05nNHVYU3FHd0NTZXN0VjUzREZ1dDh0dVZqSlVqZWJ3ajZvM3V3QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T02:45:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+      "text": "Missouri Judge Says Redrawn Congressional Map May Be Used in Midterms",
+      "url": "https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T06:51:04+00:00"
-    },
-    {
-      "text": "Harry and Meghan’s Break With Britain and Planned Return: a Timeline",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T06:27:55+00:00"
-    },
-    {
-      "text": "America Is About to Get More Expensive",
-      "url": "https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T05:00:06+00:00"
-    },
-    {
-      "text": "Walmart will report second-quarter earnings before the bell. Here's what to expect - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55amt5QWtxMUJpbENWejIyM01ubElHcUkyOVZiSnNlZlNxWXBaMlBNWm54XzlIUGFFNnNmMHRCZ3U3U3psVHdJWUdNaW4yc0otbkhuc21SQnlna1pTcnJpd0VDM1lLbWpzcXVIeVMwbFJxc0nSAXhBVV95cUxPMG15Wk5FUlRNWHVzc0RJaDk4N0FzVnhkU3hwQV81bEl4T2FpQnNlWHZDNkZVU1ZGNlNhYnYtTXRKZDRFS3dZSzJnOW5jV3pubWk5VHJGZUxZbXlzVk8xUEtwYUtidTFUR2FKX0FrV213ZGEtRXBlV0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T04:01:01+00:00"
-    },
-    {
-      "text": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2pfemR3czYyOTVqcnF1bWwweUVZVFR4NjRNRXFobmpwMmxHanNlQ29KelBpcHZUUTQzWURFV1VaZENJNTJjRUNwTkhHTkZDVVNjLUJROVVLX3NoQlVsb2M3ZWUwQks3LWRtbkc1U1Q1M1ZBTE1aOVZrNFVWcGVPd3VsSkU2aGpsZUY3cUdOZGpqTlN2Qms0TkVHRUJmMk9pNlRLeDNEWTh6UkRSTWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T02:58:00+00:00"
-    },
-    {
-      "text": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
-      "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T02:22:33+00:00"
+      "time": "2026-08-20T02:49:13+00:00"
     }
   ]
 }
