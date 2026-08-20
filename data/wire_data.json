@@ -1,158 +1,64 @@
 {
-  "generated_at": "2026-08-20T22:47:14.908679+00:00",
+  "generated_at": "2026-08-20T23:32:43.976689+00:00",
   "lead": {
-    "text": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-    "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "US approves possible $4.5 billion sale of refueling aircraft to Qatar",
+    "url": "https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-20T22:43:42+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-20T23:18:54+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Seattle Times sports columnist resigns over spiked trans athlete story",
-      "url": "https://thehill.com/policy/sports-gaming/6042577-seattle-times-columnist-resigns-trans-athletes/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-20T22:41:53+00:00"
+      "text": "Aisha Wahab Wins California Special Election to Replace Eric Swalwell",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T23:06:04+00:00"
     },
     {
-      "text": "Schwartz recognizes CDC strife in first talks with staff",
-      "url": "https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff/",
+      "text": "Army plans to phase out drone unit championed by sacked generals",
+      "url": "https://thehill.com/policy/defense/6042667-us-army-phasing-out-drone-unit/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-20T22:39:18+00:00"
+      "time": "2026-08-20T23:05:52+00:00"
     },
     {
-      "text": "Wetlands policy causes GOP friction",
-      "url": "https://thehill.com/newsletters/energy-environment/6042606-wetlands-policy-causes-gop-friction/",
+      "text": "Rogers pushing for 1-year pause on data center construction",
+      "url": "https://thehill.com/homenews/6042671-rogers-pushing-for-one-year-pause-on-data-center-construction/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-20T22:38:55+00:00"
+      "time": "2026-08-20T23:04:36+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Homeland Security Made a Big Claim About Noncitizen Voting. Now It Can’t Prove It.",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
+      "text": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
+      "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T22:32:51+00:00"
+      "time": "2026-08-20T22:53:47+00:00"
     },
     {
-      "text": "St. Louis Cardinals vs. Cincinnati Reds Results, Stats, and Recap - August 20, 2026 Gametracker - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGZDU5MkcwSzhreUJ6UDBZQUV3TlBJcFdFSFJqY3BJVFVQNzZjNFBmSG5UY0hra0lBWkRoUGViS2E1ZVBiWWtpbkhFVW5FTmlDZVU5MEplX3FnT08yWEdjb3JpLVJuNUJvZHNkYnMtTldIRndGTnVXRw?oc=5",
+      "text": "Live Updates: Trump Threatens Economic Penalties for Iran's Trade Partners; U.S.S. Abraham Lincoln Heads Home - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wQ1NMMXFSendJLVAwSHVsby14ZkV3UG1BejZrZHhISWFmWFhoRnpQYnhKZnRIeWRDZ25BY2xWa3JzTF9GWTRFTnpnYy1sSnEteWkzcUVmM0JFMGo0dFRzU3FqMA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T22:07:30+00:00"
+      "time": "2026-08-20T22:29:20+00:00"
     },
-    {
-      "text": "Weary U.S. Aircraft Carrier Leaves the Middle East",
-      "url": "https://www.nytimes.com/2026/08/20/briefing/aircraft-carrier-ukraine-russia-missiles.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T21:53:30+00:00"
-    },
-    {
-      "text": "Japan’s U.S. Ties Could Not Save a Top Judge From Trump’s I.C.C. Sanctions",
-      "url": "https://www.nytimes.com/2026/08/20/world/asia/japan-trump-icc-judge-sanctions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T21:22:10+00:00"
-    },
-    {
-      "text": "Why I’ve Spent My Summer Haunting Cemeteries",
-      "url": "https://www.nytimes.com/2026/08/20/opinion/minnesota-midwest-cemetery-summer.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T21:14:09+00:00"
-    },
-    {
-      "text": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
-      "url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T20:41:36+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
-      "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T22:18:55+00:00"
-    },
-    {
-      "text": "2 Hijackings in 4 Days: Somali Piracy Surges",
-      "url": "https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T21:58:24+00:00"
-    },
-    {
-      "text": "Darline Graham’s Debate Misstep Tests South Carolina’s Appetite for a Political Newcomer",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T21:35:35+00:00"
-    },
-    {
-      "text": "2027 NFL Draft preseason positional rankings: Quarterbacks - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXRzNW9qMHlzQzhXdnVqeGVGSGw2bmlVNER4cjBHTEpPcmhYZ3ZNaFdoZWo1bE5oR2JITUlqWGlMRXJqR01jX3hDU2ZuU1NZYm9sVDVBLUxfbm85RDdYeGdnXzBFMnZ5OG5DajE5ZHNkaHh2c09heDktVzVTQjFZOFloczhlSTFCZnk2M3JJWmFQLW1XcTFxQnA4WWxZcWs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T21:20:25+00:00"
-    },
-    {
-      "text": "Senator Andy Kim Visits Migrant Detention Center After String of Detainee Deaths",
-      "url": "https://www.nytimes.com/2026/08/20/nyregion/senator-andy-kim-delaney-hall-detainee-deaths.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T21:08:35+00:00"
-    },
-    {
-      "text": "Neutrogena Responds to Backlash in Wake of Onetime Ambassador Hayden Panettiere’s Death - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1N3RVRaNXhkVmlYLU1IbEZlMlZZZ0ZpR2RyTEVNRVhLRmJVZEVQM3RhRE5udFF4TGlCT0NQcHR5Y0lNM3l2dE9NekdZdHN2Y1hiUHRPbzN2LWowMXhCbHI4TDBRVW5BazFsYUpfRFRaT2N0UkczMUNRSC0zLW8yZzZiZVJFWjBVY0hhMkhPMG1YOTczbDNjYlpGa3RaUnF6TGFLQ0Z6cDRFaUg1Uk5ydEplM1pSdEN0bDRTSTdOTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T20:39:12+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "Dow tumbles 700 points, S&P 500 falls as Treasury plan to subdue yields fails - CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8teUxWQ1hsU240emRnZElJWExIWnE4UDEyV2xEWEVmZTZYVklUeWU3YlU5NUhaMGNOemdRdXJOOHFSb2ZVeXh6SmVjQUNLMmhzRHRrczZLYUhieVdxSGxPWEs0OFFyR2RoTlNaYnFUbWsxQ00tRjQ00gF8QVVfeXFMUEVDcDhJU2RrSk9PdEwySEhJTUZLdFdXNHFLeUhrRjJPLW1yTk05MmJpTTU2WndPbjlYeXJkVERRLU8tbHNHQnp0eVJwdWV3ZzBoejI2UVVmMEtic3psYS1vbWFwc0RHU2Z1VGRHdUQ2UEN1STl5cGJWQkVCTQ?oc=5",
@@ -188,24 +94,118 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T21:20:14+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields",
-      "url": "https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T20:50:00+00:00"
-    },
-    {
-      "text": "Treasury's Bessent says upsized bond buybacks could increase further - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWc4bVJ0eEl6MmpreFhiWU9RajRyM05KRDVuNU01TkZnY3UxRTdHSkFBTEwtWVV3dHJfczQyS0dNcW9uR2s4cXRDUmN6Y1FjaUZULWpxejJGMUdRWHlnQi1rekZjN2hyQXJmUXZlMGJocGFkaVQwOUtQMWFNYUVyZG9WQnBtYUlEQVdvdnp0dnE1aTlRNUZ1Q1d6OFUyb2IyTEluOXB6Y0RIU0JOSzhmS1l3?oc=5",
+      "text": "Trump administration faces questions over top aide Natalie Harp’s security clearance - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEtsT3VBUmpRLWI3Mnh2cks5WUNfNHg3VHZZX0VGbFQyTXFyc0MwbHFZVkl4WXpta29vSkdlTkFXYlRTck5jb2FpcW5wTjd0Y3dCRG16RTl5TWFwY1F1Zk1yWlNLWWUtWHN5SGV1bk9NQTFhV09wT0RsZGE4MUxOeDZOOHpUUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T20:37:22+00:00"
+      "time": "2026-08-20T22:52:00+00:00"
+    },
+    {
+      "text": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
+      "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T22:18:55+00:00"
+    },
+    {
+      "text": "Army will shut down a unit in Europe focused on learning drone warfare - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZXZuamZHeVdFVTRUV1R3aEpwbjVrak5vYkxCd1ZfSExLTVItZjEtY2pHbTllWEN3anNhZGxuellldF9nUXJicmd2c0ZadWhadkE5WTlBbVQxVERkQkk0dlQtYWlqQ3RJX182aC05cndVbjRrVWRJLWY5b0xyQWZub2tWOS1aZlkyRFdfSkNoenFwMTFBRFlYRXJaQVA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T22:06:00+00:00"
+    },
+    {
+      "text": "Weary U.S. Aircraft Carrier Leaves the Middle East",
+      "url": "https://www.nytimes.com/2026/08/20/briefing/aircraft-carrier-ukraine-russia-missiles.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T21:53:30+00:00"
+    },
+    {
+      "text": "Japan’s U.S. Ties Could Not Save a Top Judge From Trump’s I.C.C. Sanctions",
+      "url": "https://www.nytimes.com/2026/08/20/world/asia/japan-trump-icc-judge-sanctions.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T21:22:10+00:00"
+    },
+    {
+      "text": "Police identify man accused of wearing Chucky-style Halloween mask, terrorizing people in Center City Philadelphia - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTVFjd3p4cWV4SmE4SlZ6RzFiWUJBcnpXbGVRaXJoNHpiM0ptbkhBRUZBa0wzekE4T0xBT3BVd2t5N2gyR21WNnhwVjNidEtWU0hjT1pRV2VfTWFDRDRnR2lHMTdYZFY1TUthQjQ5U2N2RWViclczS0wtX2pnNmt0Vm5BaVV3WTZwY1ZnWXNPSGhzT0pPTVVfMldja1Z4bmFqMTNQcWpUWUVJVy1oWE5WVlIwdWZCc0kyTFZlRlhLQUR1bUlsS1pIVlQ1cG1jTE51WW9vVDh30gHbAUFVX3lxTE9lWW5XOXMwQ3VCcWpVcE9MOU50OGdXV2I1Z3pEVHQ3WkIwTXpmWXctSmR1YUVDUnpVd1Q0Sy1McWk5akdxSEFrX05RYmpYS1pWTXVRSm5CUGhyNXdXWHlWTUFTTk9KUGYxRXB0SnBxWXQ0d2ZSdi1yWFRSR2xJQ1oteTFEV1k1djFtSG0tMnRKRURINVdnbnN0eXJDN0JTMlBsSEpfWlVFN0s5Tm5OaDIxYzBveUNUQlRGX2tndHBHRGpGLXFVMUVJNHYzRE1OVmxJODl4Vk9hU2hzMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T21:15:30+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Homeland Security Made a Big Claim About Noncitizen Voting. Now It Can’t Prove It.",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T22:32:51+00:00"
+    },
+    {
+      "text": "St. Louis Cardinals vs. Cincinnati Reds Results, Stats, and Recap - August 20, 2026 Gametracker - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGZDU5MkcwSzhreUJ6UDBZQUV3TlBJcFdFSFJqY3BJVFVQNzZjNFBmSG5UY0hra0lBWkRoUGViS2E1ZVBiWWtpbkhFVW5FTmlDZVU5MEplX3FnT08yWEdjb3JpLVJuNUJvZHNkYnMtTldIRndGTnVXRw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T22:13:52+00:00"
+    },
+    {
+      "text": "2 Hijackings in 4 Days: Somali Piracy Surges",
+      "url": "https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T21:58:24+00:00"
+    },
+    {
+      "text": "Darline Graham’s Debate Misstep Tests South Carolina’s Appetite for a Political Newcomer",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T21:35:35+00:00"
+    },
+    {
+      "text": "2027 NFL Draft preseason positional rankings: Quarterbacks - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXRzNW9qMHlzQzhXdnVqeGVGSGw2bmlVNER4cjBHTEpPcmhYZ3ZNaFdoZWo1bE5oR2JITUlqWGlMRXJqR01jX3hDU2ZuU1NZYm9sVDVBLUxfbm85RDdYeGdnXzBFMnZ5OG5DajE5ZHNkaHh2c09heDktVzVTQjFZOFloczhlSTFCZnk2M3JJWmFQLW1XcTFxQnA4WWxZcWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T21:20:25+00:00"
+    },
+    {
+      "text": "Why I’ve Spent My Summer Haunting Cemeteries",
+      "url": "https://www.nytimes.com/2026/08/20/opinion/minnesota-midwest-cemetery-summer.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T21:14:09+00:00"
     }
   ]
 }
