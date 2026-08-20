@@ -1,35 +1,46 @@
 {
-  "generated_at": "2026-08-20T03:04:25.227988+00:00",
+  "generated_at": "2026-08-20T04:00:58.267784+00:00",
   "lead": {
-    "text": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
-    "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+    "text": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+    "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-20T03:00:02+00:00",
+    "time": "2026-08-20T03:30:54+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Tech Futures Rise After Biotechs Soar, These Sectors Lag - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSDk0WFZEcFZJOE9PeU9sR2s3R3A0VGFMdk9RbkI1d0U3RTlDUlU1bnJpTzdxZVJMSGtpYjBndFJvVkx4MXZHT0pNZWlBMlBjNHo2czlrN3ZVTEozTVgyeXd6SWxraHN5bnRiRGdMQlh6NzFqaFlJRnQ2MG16elZOVXV5bnpzVGtHNkUwS1dUUXI1c1MyOXhiT3BzWEZPN2lNUEc1NnhxNlhtMmkxRVpxYmYzTVVsTFRwS2NHM3F5M0ZhNmRoU3h1VHVDUlJJd0hicU9QOHpoc0ZTdw?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-08-20T03:00:00+00:00"
+      "text": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-20T03:22:57+00:00"
     },
     {
-      "text": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
-      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-      "source": "CNBC",
+      "text": "Air Force major detained again for Capitol protest after Trump criticism",
+      "url": "https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T02:49:15+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-20T03:18:54+00:00"
     },
+    {
+      "text": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-20T03:16:22+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Missouri Judge Says Redrawn Congressional Map May Be Used in Midterms",
       "url": "https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html",
@@ -38,20 +49,18 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T02:49:13+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
-      "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T02:22:33+00:00"
     },
     {
-      "text": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
+      "text": "Trump shows off White House renovations and ornate new helipad - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjhIYm9JRll3aHZQcUNMTi1XQ2hjdklpd2JBMk1VdVpicnpJTUQ4ZDM4bldLejVCOHRTNFByM3FZY3RRemFxcWVsRVNRUDM3S2F6UW9qYnY0X3YzSFIwcDY4SjlsVy16Rmpab0pTUjNZRmJHZTRUZjVMT1VienpvMmhHcw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T02:20:00+00:00"
+    },
+    {
+      "text": "Trump announces ‘most crushing economic operation ever’ against Iran - aljazeera.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVhCS05GTl9MZEVxcUFnNTlYSERZMlRFVXotU2FQMXBrRHhyVU1ULUN4X2N2TXpJbDFjbEo5X2djeW9hNjlkYU0wVTMxWV9QbHp5TGFHY1EzUFRCZGxNVlNiYVBJNkU5UGpSdG0yOEFxSm5Zc2xrNzloZHRkdXNJMnVobUkwMDJKR1JkS3hPZjRNZFJfWjZKRkhqR2hZUDZRVTNjcS1HWFJGbFHSAbABQVVfeXFMTzNXU2ZhU2FUMmswRXJ0eUdVaWF5SUc4eXRKNlp0eVFWYUpWaE1vUFlmSnhDdFVWLVNDeFlzOTB6aWdYYUZLRzlENzhfSUNkV0dLUS1sNFJ4OUd1dERiUlNGX1ByeFUxREhKckxmOGhGSzhxSHVSdXBDWmZDVWFtQkN3U0pIaHZ0Q3p6QUtpazM2VUtXTkx2b2J3eXpCV0ZyaE1vTTZyVU5vSGo5b3J0RlE?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -60,13 +69,13 @@
       "time": "2026-08-20T02:06:35+00:00"
     },
     {
-      "text": "US national debt hits $40 trillion, rising by $90K per second - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGVkRHJLZ0lzTnRWck14cUNZRWR3UEtoZDJLNF9zZnNuQU92Y1RDX2xGT0hCVjR0RDh5VE91ZFVkZGxJOVRUSnJDNlE0WmxzekNubkhiTl9xX2JyUDhhaG56SzVtejdPN0VkSDM3ZzdLNktaSGFKOUNxem1vMXFEdmJWMHgzQzVjeW1YTGUzemEzYmtoeUpjdDdKa01RM0tKWFJz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "What to Know About Hayden Panettiere’s Death",
+      "url": "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T01:47:45+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T01:38:47+00:00"
     },
     {
       "text": "The Freedom Caucus is having a brutal primary run - Politico",
@@ -78,25 +87,25 @@
       "time": "2026-08-20T01:29:00+00:00"
     },
     {
-      "text": "Prince Harry and Meghan are returning to the UK with their children, British newspaper says - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk02OF9KXzMzMFV3X3FiTGxqRDlGaG93MmpWbmdOenB1MXRYcXh1X0F3MmF4ZTE5N2hybUhMa1Qzcmp0LTBnYUx0c0ZMa3BWVDlOT0V3dFRBenNiZUM0dWhSckNrVFNROVFTZnJqY1V6ZjhTV2NsRHF6emNDSlVnMHY2NVFSTXpTb0o4Z21keThCRGtnRWEwQzdn?oc=5",
+      "text": "Pa. State Police aircraft involved in midair crash in Carlisle, Pennsylvania, Governor Shapiro says - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnVlRVN1bkJGbERSbTFDLWJ2T3F2cE44dXY3Y3N6bEJqNmh2M1VTRXNPT2NRLW55MmtnT1lEcmFHNUY5Y1BLMHgwTWt0ZlAybVg0N3o3TWdLREFaSjMya3hNaUlkYkRGR29nS3NqY3NoQVcta0tjY0IxTV9USUwxNDZJd2dMLXdNY3ZkazRxZ09peWZQc05WUzRXQ21NNWZfOTRUcGpLWWt2ZjJ6aGlNQnI1cDEtNExrLXpHTA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T00:53:00+00:00"
-    },
-    {
-      "text": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaVJRMXQyY2Z0OFRaS3o5TWFLc2VzRzY0QlV0UVZFdmN1azFRN1BZV3R6NFdRZWZzanFCNDJsa0JXZnlyamZBUlhUNGdlOWVnLTE0TW1QLXZULVI2X3dwajdBUmZNTHVtYkZkdWpPbDZZRUVxcDZHOTZWeWVSUDZLZ1VGQldETFhHRk51ZS10N1JiVDV5Qmc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T00:22:17+00:00"
+      "time": "2026-08-20T00:55:16+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "US national debt hits $40 trillion, rising by $90K per second - WJLA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGVkRHJLZ0lzTnRWck14cUNZRWR3UEtoZDJLNF9zZnNuQU92Y1RDX2xGT0hCVjR0RDh5VE91ZFVkZGxJOVRUSnJDNlE0WmxzekNubkhiTl9xX2JyUDhhaG56SzVtejdPN0VkSDM3ZzdLNktaSGFKOUNxem1vMXFEdmJWMHgzQzVjeW1YTGUzemEzYmtoeUpjdDdKa01RM0tKWFJz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T02:37:30+00:00"
+    },
     {
       "text": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
       "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
@@ -116,13 +125,13 @@
       "time": "2026-08-20T01:58:03+00:00"
     },
     {
-      "text": "What to Know About Hayden Panettiere’s Death",
-      "url": "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T01:38:47+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T01:32:19+00:00"
     },
     {
       "text": "D.E.A. Joins Investigation Into Hayden Panettiere’s Death",
@@ -141,26 +150,26 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T00:51:14+00:00"
-    },
-    {
-      "text": "Jimmy Gomez being investigated for 'sexual harassments and assault,' lawyers allege - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1lMNm5ySzdyQXM2eHJ5YktpbklpOXhwbWxaMDlzcENFaXlpakF5OGRnUTkydVdzZXRmdjRPNzN5WXJINXMtVGtIazdoV2xGSGw3d2l4YzFCQkdzM1BqRjFlVUFUOHIwdzBrUnVtQzNnc1ktVUFBeUppOWhxMHZjcWhZX0haWXNWQ3liSW5ON29OSDF6OEd4b3BYaXktS0FLNVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T00:21:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Aircraft crash involving state police reported in Pennsylvania - WTAE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW9EOFB0TTdiVy05bFFfaVlwSWtaYXlhZC1NckJZSm1TS2dLaEZJWEhRbkVTYWM2US1RVjJGQXdsVjMtdlc4Zl8tV0dxRFMxczY0N214M1hjNndESndZMjZ3VmNjRmxMVXZSTXRHbk9wQTVKbXhKTTZpN1VKeUlRNkxIVzRESkFzY1FPQndPZzZXNl9PUkpfTWRIR2liVGZESE9TSXlMR29BTWpCdFFzMw?oc=5",
+      "text": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
+      "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T02:22:33+00:00"
+    },
+    {
+      "text": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdNSjhQeC1GcmNGV2FmQnJaRHVzSVU0dEstM0hnX3JyVEFFbG5lMGVnT1pQbmxyNHdRUkU1NkllMUlIR282RGkyUEhXOVIxSjM4UTdoT3FKUGVDSWx1TGozdlRna3pPVk5zODd0OGhyRUFIN2RxVmxrVGJlSzdjZjA0OUhPdC02elhnNWpFc19oaVJiVnNfYS13bGVpTGNlQnBYRWhCT3dmd0tPOUpGSXk0WXHSAboBQVVfeXFMUDJUS1lmX2drelZKQzFXSDdub09CSkhEaUxoVkJIMXZzYkc1SmxNSG1SRC1mMTRSYXdTSUFacW9zYXpUYzlYWE9NMVRBRm9IdWJFald3bUZ6clFRa1Nwb1NmbjFDU1ZjNDFIMFJNS3hqVkhuUkNHdnBtd2tzUnA1RkxxV1BfalZZTUg4VGlKVzNPUU1fN25qV2E0cTlSRUdyME1lUU9qVDFaUWJQUVZIbTB3d3ZHTGlzY2dn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T02:07:00+00:00"
+      "time": "2026-08-20T02:06:47+00:00"
     },
     {
       "text": "Trump Threatens Economic Pain for Countries That Help Iran",
@@ -172,13 +181,13 @@
       "time": "2026-08-20T01:52:13+00:00"
     },
     {
-      "text": "North Korea shrugs off Trump's scaled-back drills with South Korea, saying it changes nothing - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1WkNNOFA1UXFocXB1OXFnbFc4dFJNMXdjTkExUmt4MFEtb1dta003UmoyX3VtUExaVlZ5cWJmb0tDS0U0Ym9LNE5EQ1Z4Q2tKaGNJUEh2X2toZ0ZKbGNFc0ZEbnQ2SXo0eGVhRE9lZHJZWlI5cU5uQUFSbHdJOXVEZUh1QlRhWjBmZQ?oc=5",
+      "text": "Astronomers detect fastest known star in Milky Way - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzFtMW4yT2p3NVFLT21SeWlSMlNzZWhHb1UyZW0wN3QyRjVGT0MwWE16a0EyOUhiVE9TRE1vZll3LWFBb3h6N0ktRTA5RUFqQ01EQnVfczNndldLaVBOcHlyNmxBZjZXMTFKc096ZkxHeUVKdEV5RVVJSTJtcTNmWHF1ZS1uVXBNbm1uVlNQOE5TSlJLVkxMal9sYkxUN0JoMlBuckJR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T01:31:00+00:00"
+      "time": "2026-08-20T01:30:00+00:00"
     },
     {
       "text": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T00:46:07+00:00"
-    },
-    {
-      "text": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T00:20:00+00:00"
     }
   ]
 }
