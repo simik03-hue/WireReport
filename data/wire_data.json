@@ -1,72 +1,128 @@
 {
-  "generated_at": "2026-08-20T13:13:36.176372+00:00",
+  "generated_at": "2026-08-20T14:03:11.353789+00:00",
   "lead": {
-    "text": "Alibaba shares fall 6% as AI spending drives 75% drop in net income",
-    "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+    "text": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
+    "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-20T13:06:45+00:00",
+    "time": "2026-08-20T14:02:31+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
-      "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T13:06:30+00:00"
+      "text": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
+      "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T13:58:38+00:00"
     },
     {
-      "text": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "url": "https://www.cnbc.com/2026/08/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "source": "CNBC",
+      "text": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T13:06:10+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-20T13:56:25+00:00"
     },
     {
-      "text": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
-      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+      "text": "Dow drops 300 points, hurt by rising Treasury yields and a decline in Walmart: Live updates",
+      "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T13:04:26+00:00"
+      "time": "2026-08-20T13:51:25+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Oil Prices Jump and Bond Market Stress Returns",
+      "text": "Bond Market Stress Returns and Oil Rises in Edgy Day for Markets",
       "url": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T12:59:20+00:00"
+      "time": "2026-08-20T13:40:33+00:00"
     },
     {
-      "text": "Stock Market Today: BTreasury Yields Tick Back Up After Intervention, Nasdaq Futures Edge Up — Live Updates - WSJ",
+      "text": "Nato jet destroys 'explosive-laden' drone metres from Black Sea gas project - the-sun.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDJJMEltUzJjdE8xdG1yUVluQ1dtNzZ4TDF0UkZ5TzNKU0J5VlhhQWtLSlpQV1k3ZG5NM1VlX2dRaUlYUy1YYmFVSjdTem5nRkZqN2FoU1c1X3hzX0p6UDI3SzJBSUR4Ujc4MC04Qy11ZDllVjl3SFpFVWZvNjZ3WmU2Q0R2bmYzRm5SSi1DaS02Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T13:30:00+00:00"
+    },
+    {
+      "text": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+      "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T12:58:15+00:00"
+    },
+    {
+      "text": "Harry and Meghan's security arrangements a private matter, PM says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RTHBNMHhfUzZaZ05ZWURUM3ZZcXdWSkNxVlA1Q25mWkN3VGhKZnYzd0tmaXdSQUNTTWlfd2pLM1NlQkxjWXdlUTZOSFp0b1hteUpHTFJCUDlIUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T12:12:25+00:00"
+    },
+    {
+      "text": "Melting Swiss glacier reveals remains of two Belgian mountaineers missing since 1992 - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFpYnYyb3BLanJDU3YxdGFXTUVqaF84TWFVbUlGakNGbEhBNHpKZnU0aXVVQnRjaFcyVU5lRU5STDFBTkVWS2xQZF9PYTJhTWdZZm1WdF9GNzVxWEF6OXZINS04by1Oajk0bGQ2bHZiTTB5aEtxbUJiWkx3aTBqdWg3S014SUI3amZqNmFVZFctaW1sZndIRWplMHNDMW1NZmVRWW1jdWHSAa4BQVVfeXFMTkVWQXZrcjlhNVZ2eHhycm9HWElWdG0tdktZcW5Zb0YwQ1BhTzNDb3EtUzkwQ2pTbjVoTnhmdlpFQ1RZOGkxWFU0ZXNHTVdLUnpaUUx5SmhGekwzLTdkekZCSkJTR25JdHZFTW1jQjFaeDBJWmhGa2FCenhSZzJqWHZkaGhuM2E4OWhoaGVtRWcyQzJLTDdGNmFPWHJIODdLd2dtcjhYR3MtSDhBcGd3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T11:49:29+00:00"
+    },
+    {
+      "text": "What we know about deadly plane crash involving Pennsylvania State Police helicopter at Carlisle Regional Airport - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlpqb1VlUy1FRzNpb256cUFDdzY4eXV2V21BamhIa2hfX2kwTUhfREdmN1NIaVhxQk52amZLanZXN3Nmc2sySzNIZ3dOc1ZaRW5NV3NOdjRmeFE0V2hCOU05N3kyX2VQOXpEaXhSZnlIZ1Z3R2VIMXN2cC1sdXloS0FxbWlkbFdPVEJXU1FlU1d1X2tGbzA1MzFkaVR1VkQwWTFpZXViSlJTVVJLempObkhydXVDSUtmVUxiRl9mWkpRR05vdFphcEVuQm9SQdIB0wFBVV95cUxOVVVJWXFYVm1keGNUQzVmRWdERHdIWmpCb2J5ME5ENVlGeHMtWnNPTV9BelhtX3pMRHNySHROQkprT2wtX3pFbE1ZZnRGOV8tVHdFZTlfZ1c1QjRzbjh4d1lJRDFiRmhnR1dBX1hEcFNWQ0wyRWNqUXNTSFBMbTRJYWVXMGNscjV3djR1dUJreklnS013bzRmRkp2QmFOdmphdmpCMDhmQThEZDUzcXRpMWw5c3VjRnlsUDhtN2JIWXo0Nl9VZV9KR1pGRTFCbE50V2JJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T11:28:45+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "How Trump Is Trying to Crush California’s Climate Policies",
+      "url": "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T13:36:20+00:00"
+    },
+    {
+      "text": "Stock Market Today: Bond Yields Jump, Largely Wiping Effect of Bessent Intervention, Dow Futures Slip — Live Updates - WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFBldUlGa1pnUUM2bjFDS3MzeFhLeTNrSXRJN0RTbnVYeXJZbHJ1eXROVTZUbV95amFvOGgxLTdEdzZ5YnZfWHZKOVIwZEI5MG5UbW0tWVpKWG9MNzhmbXl6U29fTnBDbFlCcmxmQ3lVaW00VXpoYzZ3d2pTVENBMlk2VmJ3TWs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T12:44:00+00:00"
+      "time": "2026-08-20T13:29:00+00:00"
     },
     {
-      "text": "Walmart strong again in second quarter, but its outlook is reserved - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdktGZ3YxUWlaaUM4MDdwcm1pZC1xUl9Qajd4enFwRVk2SFlqcld6emtrOEhVOW9CblIxZTlZMEdXWE9nUE9sVlFONmtCWHFEWlN5YkxZeklCei1zRDlMZTRXWUdUQUZlbHNHZDlTNm5SRVJGRWc3ZHFjeVVYNWc4OFNpVzd1OHpfTjZ4c09mOWp1NFpuQy1aQktWWUlKRm1xSmdETA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
+      "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T12:21:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T12:57:08+00:00"
     },
     {
       "text": "The Indian City Where AI Is Creating Jobs for Humans",
@@ -78,6 +134,15 @@
       "time": "2026-08-20T12:03:58+00:00"
     },
     {
+      "text": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVdsZHA4UEJGQk91VHU5TURyME9mbHRfN0RmdE5menhRTmdCaE45ZGtNSlVVakFSazlhLXpna25HaWJrSm1oVzU0cmZweUhQN2JGYXM1X0ltbFVkMkVvQnFQcmh2QkdPTXMxUGpUWVdTc1RUUDV6SzczSWtYOXlPaGFzN21wWEJiMkZ3ZjVpM1RzUlhqTG9rU3BocHBBNWRLZUZvS3ViU0ZOb1JteWFkdjFHNy1HZ1I4QUFYSXpYRDFkMEk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T11:30:00+00:00"
+    },
+    {
       "text": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
       "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
       "source": "NYT",
@@ -85,26 +150,26 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T11:28:17+00:00"
-    },
-    {
-      "text": "The traditional respiratory virus season hasn’t started, but Covid is already climbing - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kNG5HRkV0LTBDaW5MZTR2MXlPOU1HRzdENFkxS0RxVERpamJKTTdWOTlaTWN6T2F5SUk0WW5VMnVYRncza0s3VlhhbVZ5QTdaM3FaWkQxMzRYZkt3eHlSSlFjZG5oUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T11:00:29+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
-      "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+      "text": "Did Bessent Put the Fed in a Bind?",
+      "url": "https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T12:58:15+00:00"
+      "time": "2026-08-20T13:36:00+00:00"
+    },
+    {
+      "text": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
+      "url": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T13:21:27+00:00"
     },
     {
       "text": "We’re Doing Drugs",
@@ -116,22 +181,22 @@
       "time": "2026-08-20T12:42:54+00:00"
     },
     {
-      "text": "Nato jet shoots down 'explosive-laden' drone metres from Black Sea gas project - the-sun.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDJJMEltUzJjdE8xdG1yUVluQ1dtNzZ4TDF0UkZ5TzNKU0J5VlhhQWtLSlpQV1k3ZG5NM1VlX2dRaUlYUy1YYmFVSjdTem5nRkZqN2FoU1c1X3hzX0p6UDI3SzJBSUR4Ujc4MC04Qy11ZDllVjl3SFpFVWZvNjZ3WmU2Q0R2bmYzRm5SSi1DaS02Zw?oc=5",
+      "text": "Capitol agenda: Trump 1.0 enemies face brutal primaries - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2lSTDBvNFJkNWt2TWlIOWhaaHltSXN4dzVBMGRmWW8yYkY4UkNKbll6NGNEaHBvTjJvX2FEU3dkSjR4NU9BXzJGNi01Wml3a2NhTWdqcGxqZlZzbGdsbTZxMlMwRnFMMkI2Z09RWm1DYkxDMEtMSS0zUWRncVV6cVhTQm9iei1vbGVOQTdB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T12:20:31+00:00"
+      "time": "2026-08-20T12:00:00+00:00"
     },
     {
-      "text": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVdsZHA4UEJGQk91VHU5TURyME9mbHRfN0RmdE5menhRTmdCaE45ZGtNSlVVakFSazlhLXpna25HaWJrSm1oVzU0cmZweUhQN2JGYXM1X0ltbFVkMkVvQnFQcmh2QkdPTXMxUGpUWVdTc1RUUDV6SzczSWtYOXlPaGFzN21wWEJiMkZ3ZjVpM1RzUlhqTG9rU3BocHBBNWRLZUZvS3ViU0ZOb1JteWFkdjFHNy1HZ1I4QUFYSXpYRDFkMEk?oc=5",
+      "text": "Walmart says it will use billions in tariff refunds to keep prices low - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXUzb2hhVnN5Nzh5bnhoRDZVb2FSaU1iV1dzdGtFbnl0UFdERlFRSEx2WVJzeHotRGM1SUlNSUxVOVFDMTJYNnNNUmI3b1d6Z1N1d3BjQVI3ekZHSlc0QTdMYmp5YkJYUF9iX3NES055amU1U1NGbVlCeVJlbHNkYkNfYWRLSTF2MGVYYtIBkgFBVV95cUxOcFEyVnNKXzRWbFVLTDBzMmg3bVVuTmxsZzBLNHBHcVZtV2UwejJ0bTAzcTB3anRVSVNXQUI4OEZtanFsempDLUtYbTNBVG1mVUpZTXVJazhoN0ZxUU1SS01BcjhzWHYyTmRZN0tGZ19JenlDdzIydDVDaVhrbzQ0aDcteFZUUEpnVHVmZ2t0d2RVUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T11:30:00+00:00"
+      "time": "2026-08-20T11:29:00+00:00"
     },
     {
       "text": "The Teens Taking On A.I. Data Centers",
@@ -141,71 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T11:13:48+00:00"
-    },
-    {
-      "text": "$40,047,425,768,420 in U.S. Debt, and an Experimental Vaccine for Skin Cancer",
-      "url": "https://www.nytimes.com/2026/08/20/podcasts/the-headlines/us-debt-vaccine-skin-cancer.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T10:41:35+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
-      "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T12:57:07+00:00"
-    },
-    {
-      "text": "How Trump Is Trying to Crush California’s Climate Policies",
-      "url": "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T12:25:33+00:00"
-    },
-    {
-      "text": "Did Bessent Put the Fed in a Bind?",
-      "url": "https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T12:16:38+00:00"
-    },
-    {
-      "text": "What we know about deadly plane crash involving Pennsylvania State Police helicopter at Carlisle Regional Airport - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlpqb1VlUy1FRzNpb256cUFDdzY4eXV2V21BamhIa2hfX2kwTUhfREdmN1NIaVhxQk52amZLanZXN3Nmc2sySzNIZ3dOc1ZaRW5NV3NOdjRmeFE0V2hCOU05N3kyX2VQOXpEaXhSZnlIZ1Z3R2VIMXN2cC1sdXloS0FxbWlkbFdPVEJXU1FlU1d1X2tGbzA1MzFkaVR1VkQwWTFpZXViSlJTVVJLempObkhydXVDSUtmVUxiRl9mWkpRR05vdFphcEVuQm9SQdIB0wFBVV95cUxOVVVJWXFYVm1keGNUQzVmRWdERHdIWmpCb2J5ME5ENVlGeHMtWnNPTV9BelhtX3pMRHNySHROQkprT2wtX3pFbE1ZZnRGOV8tVHdFZTlfZ1c1QjRzbjh4d1lJRDFiRmhnR1dBX1hEcFNWQ0wyRWNqUXNTSFBMbTRJYWVXMGNscjV3djR1dUJreklnS013bzRmRkp2QmFOdmphdmpCMDhmQThEZDUzcXRpMWw5c3VjRnlsUDhtN2JIWXo0Nl9VZV9KR1pGRTFCbE50V2JJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T11:28:45+00:00"
-    },
-    {
-      "text": "Paris Jackson opens up about ‘painful’ electroconvulsive therapy. She’s not alone - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTDRUT0VUckF1cnBGVHp5bktWQ0F0bVQ5N01ieGV5elZRSzRrWFZZQ01hM28wX0o2M0dqdGIzNDZWUktrLWRoUlVwWGRMR0RUUEMxUUZfbXM5U3FyTURxbzIwNG0yRFBtTDFqRzBzbXpTaFBUajRCZ0xVVTlSZFkwWXdIRTRMZkVPNUhIQWtHWVc3N1lMOElUZGRsT05wZURxS21RYko3SG8yMjJ6OTVNRGFha2s3UC04aGs5SzUzOHVUdGlxcFVWajQzUURjRHBGWm52S1VoRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T11:02:00+00:00"
-    },
-    {
-      "text": "Why one highway exploded this summer — and why many more are at risk - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU93aFZwelhCMzVWcDhMT3V1U2pXWm02V184SWJjU2pickhyRVU4UWF5RGEydmk1azl0bDFsQ21GVlE0aWNxcjJqRGtMRHBNUFFpcndkbXJqdHIyZTNPd2ZETjlDRFFXb0toQUhCTXc5UEVvX2lXRGVReTdkWU9QWS1wOVNFR0dnLVBRYUZ6ZDlGbjlvTVk3TWNpX29BcXM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T10:31:48+00:00"
     }
   ]
 }
