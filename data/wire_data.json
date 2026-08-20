@@ -1,25 +1,63 @@
 {
-  "generated_at": "2026-08-20T18:51:26.508062+00:00",
+  "generated_at": "2026-08-20T19:37:17.247819+00:00",
   "lead": {
-    "text": "We're adding two new stocks to our Bullpen watchlist",
-    "url": "https://www.cnbc.com/2026/08/20/were-adding-two-new-stocks-to-our-bullpen-watchlist.html",
+    "text": "Wall Street loves these high-yielding AI bonds. What income investors should know",
+    "url": "https://www.cnbc.com/2026/08/20/wall-street-loves-these-high-yielding-ai-bonds-what-income-investors-should-know-.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-20T18:49:14+00:00",
+    "time": "2026-08-20T19:21:31+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "In a Big Year for Progressives, Here’s Why These Moderates Won Their Primaries",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html",
+      "text": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-20T19:19:20+00:00"
+    },
+    {
+      "text": "Trump Boasts of Declassifying Secrets, but Withholds Key Election Files From Public",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-2024-election-classified-files.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T18:45:44+00:00"
+      "time": "2026-08-20T19:16:16+00:00"
+    },
+    {
+      "text": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T19:14:34+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+      "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T19:13:27+00:00"
+    },
+    {
+      "text": "Michigan holds line on vaccines for kids despite Trump executive order - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEZlWEZXaGQxbWppMjhRMG9FbnlZMUZobG1ReUFuSjhnYlBCU1M3UWs2aUZXSTJjX2QzUjNucFNCSXZHT1YzRTNyRU9GMXdXeThCVmtibGVqaUtwOGFMMFJHUDM3R29JeUo1d2hWd21wTDNoOFF6bVNUeXFqVTVlWE82d1JVQWRBSGlNdm5Nd3BZLWRnVFhrSTJLbUNLRnNMRWl1VEVfQmt1WTlsLXJPX2I0R21NQy1fYkVsVDhrQnpaaHZOSkpvRE4wbS05M1k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T18:54:00+00:00"
     },
     {
       "text": "Stock Market Today: Bessent Signals Treasury Buybacks Could Exceed $4 Billion - WSJ",
@@ -31,80 +69,13 @@
       "time": "2026-08-20T18:43:00+00:00"
     },
     {
-      "text": "Bessent urges US partners to back plans to 'squash' Iran economy",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-20T18:40:46+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
-      "url": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
+      "text": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
+      "url": "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T18:27:34+00:00"
-    },
-    {
-      "text": "FBI thwarts an alleged ISIS-inspired plot to bomb New York capitol building - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmFIZHlGSzBtaVpoSUVkdHBUd3BHWmdydU44bzVQT2JWV25mMXItS1NBYVhaUWVwWmdQcXFuVXU5WlVEZTNnV0d4Z3VEZ2IyYUpZVks2c3FDUWN2ekltQzA0Y1hDSGRPbjBHbUVTUHVrUmJEUFpiYUJJRTR6RTBfT1BDZlZlXzh6eFFZWWo3dHpiaE9uYmlwNTI3UHFia01ZRHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T18:15:01+00:00"
-    },
-    {
-      "text": "FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry",
-      "url": "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T18:03:33+00:00"
-    },
-    {
-      "text": "How Trump Is Trying to Crush California’s Climate Policies",
-      "url": "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T17:17:05+00:00"
-    },
-    {
-      "text": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
-      "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T17:04:31+00:00"
-    },
-    {
-      "text": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA - NPR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2RWOUVXampOMVQwQkRPeHZ4STFhTWE5Yk01Zk9MRjRoMmtzbld3bm9hbTZvRTlXVXlOVExsUk9XS2RHcERyTm93R3ZKRHVIS3dsaWVtaDZIeWFEYmZQNkVHb0szVVF1eHk2RlBRVml3dVFDa0RRUDIzNGYwWmFRdUJUSmFxRzZyZmJBNXdVZXg1YnpuZnRidDgyVl93cklD?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T16:49:11+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
-      "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T18:25:34+00:00"
+      "time": "2026-08-20T18:18:36+00:00"
     },
     {
       "text": "Rachel Cusk on Her Novel ‘Life of M,’ Gossip and Natalie Portman",
@@ -116,51 +87,107 @@
       "time": "2026-08-20T18:13:55+00:00"
     },
     {
-      "text": "Atlanta mayor pans city’s DNC snub - Politico",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUJHa3JIREpia04tSFdOTDNrUklOWGt1Um9OT3p3ZUlZYllJTEFEUDFuOEtzOTdqRjExbmM2SVNuelNOLWxCQzNoSVdpTTBtSzhIdHZfbHVzaloxQmpUMDBrNTVzSTh5RTNFZTBNR0RoSkRWQ29GTnR1bTZfWTR6bThuX3U5eUo0aTl1Y1VGa2VTVnJzaWdkZg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T17:24:00+00:00"
-    },
-    {
-      "text": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-      "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+      "text": "FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry",
+      "url": "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T17:14:53+00:00"
-    },
+      "time": "2026-08-20T18:03:33+00:00"
+    }
+  ],
+  "col2": [
     {
-      "text": "‘The Odyssey’ Beats ‘Deadpool & Wolverine’ as Biggest R-Rated Movie of All Time With $1.35 Billion - Variety",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3lxd3hKU2dza2N5S1VPZDhlQTB1aFFtcDVVNDR0UXRhQUMtWENROEw0ZXdaYWxObTVERmlzM3BMRndXODhwNEtjRGZBaEFOWlFfb0kyUlM3M1Y4WGozTkY5RV9BNlNxZXZpRWdXOURROS1Kb21HenZXNzJ2N2s3OFo0Q1NnZ1RsV2FlMklnU3VoM3dDbVlNVlpfNGFmNVBwVk9CVXRlczR5V2Z1WTgtWk11UzE?oc=5",
+      "text": "Lindsay Clancy trial Day 17 recap: Jury excused early after hearing from one witness - NBC Boston",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazRobVctU3JwdVhGYTBja2dXRTNTXzBuRVlBQ1FyS2Uzd2p6UWFfb09UMS1oTTFDWldibG5hYjhQZEx1SGFRXzEtQjY2bVFJYzBId09qNC0xbUFpdURuM1RqaEdSdThSQlJ0dXpmeXlaeDN4dWVWZnNfWDFyTUZlOVYzOHpQNlBNOEpsdGNkOXpObkYzTVFaVHhyMlNrU2vSAacBQVVfeXFMTkFUU1NQOHE4ZGgzWlBZaGpvWVpPRHdudWpTNFA1N2pPUWhINVBuSWkwMXdkUGtycHlrOGJaU2hJZE5LRjVIY0FWMHVpcDJFaUNnNHlOSDFCejZ4SlprMl9jLWxCUEdRUE1iVkQ2aFozZ2IxRDN6WS16cmxIUlZKc0JZQ2xUVDRiVWViLV9ibmlPRlNOclBQTkpCdFVEcWJZQjZVMVNrU0k?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T16:51:00+00:00"
+      "time": "2026-08-20T19:06:19+00:00"
     },
     {
-      "text": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
-      "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+      "text": "In a Big Year for Progressives, Here’s Why These Moderates Won Their Primaries",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T16:46:04+00:00"
+      "time": "2026-08-20T18:45:44+00:00"
+    },
+    {
+      "text": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
+      "url": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T18:27:34+00:00"
+    },
+    {
+      "text": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlMxZXA2NERueDJDQTNFekROVzZFM1EydjBmaHhtRWVObk5tUWpERy11Wko2WjRiTGZDNTViSUNKaTNBWm9QQlFGOWlYWi14RENaYzN0V1ZSZXBnOThwNGVPN1BrVHp2LVFqZk94RE9HWmlFV0FEd05TRjM3c25xOHlTbm1wbmZTOVlmV2VCdHp3dGY1eFpQbERpYklqcEcyRHczMTAxS1Q1d1pDLUN4Z2NCNlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T18:16:00+00:00"
+    },
+    {
+      "text": "Live Updates: Iran dismisses Trump's \"economic D-Day\" threat, says it \"will only bring further defeat\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmRJd19TelVBUVBiN0s3SjlmUFdnNTdEMmVsS3NCeUZ1MldCSWFNc19TTzI0amgxdDZJVGFJaFFVVEh0V0lhd0E5LTE0eExOb1ZGbnRra0NGRDhxRmYzOUgyY2VtTk9iMWwwN0lhblVIT09lNlNQcTRadUs5N3RsbFE2bWhqeWhXRERERUZ3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T18:12:00+00:00"
+    },
+    {
+      "text": "US aircraft carrier arrives in Middle East to relieve troubled USS Lincoln - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzVsbGphSjBjZXdZTGlwcEdTRFZOUXVSSVppTjUyMHRoSHlXMmhBYlExMXJlZU93VkI1YjhjVnFFTHBJZmFMQVlkS0puOGV6ZEFwQzlpcU81N3NjaG56dmFXcGQtYXhPanlJMkE5Y0Z0RDJDeXJKR3ZuWDlWbTItZ0NDNEVTd2dvMkF1U0hEWWQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T18:00:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-      "url": "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html",
+      "text": "Woman Arrested in Plot to Bomb New York State Capitol",
+      "url": "https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T18:18:36+00:00"
+      "time": "2026-08-20T18:58:53+00:00"
+    },
+    {
+      "text": "Hochul’s Advice for Mamdani: Focus on New York City",
+      "url": "https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T18:44:23+00:00"
+    },
+    {
+      "text": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
+      "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T18:25:34+00:00"
+    },
+    {
+      "text": "FBI thwarts an alleged ISIS-inspired plot to bomb New York Capitol building - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmFIZHlGSzBtaVpoSUVkdHBUd3BHWmdydU44bzVQT2JWV25mMXItS1NBYVhaUWVwWmdQcXFuVXU5WlVEZTNnV0d4Z3VEZ2IyYUpZVks2c3FDUWN2ekltQzA0Y1hDSGRPbjBHbUVTUHVrUmJEUFpiYUJJRTR6RTBfT1BDZlZlXzh6eFFZWWo3dHpiaE9uYmlwNTI3UHFia01ZRHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T18:15:01+00:00"
     },
     {
       "text": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
@@ -172,40 +199,13 @@
       "time": "2026-08-20T18:07:14+00:00"
     },
     {
-      "text": "Ken Paxton’s $1,000 Pen Incident Resurfaces in Texas Senate Race",
-      "url": "https://www.nytimes.com/2026/08/20/us/ken-paxton-montblanc-pen.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T17:22:13+00:00"
-    },
-    {
-      "text": "Under Trump, Protected Wild Horses Are Going to Slaughter",
-      "url": "https://www.nytimes.com/2026/08/20/us/trump-wild-horses-legal-loophole-slaughter.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T17:09:07+00:00"
-    },
-    {
-      "text": "Three things to know about the $40 trillion federal debt - NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0WWM4OTFiQ1RXRTFadDhWc2JRVDk1b3J4NTdTNVpNd1dzYkpaUUdQYnRtQ1p0VENvek9WY0VvWllNSVNsYlRYbTNEWTFtSlM3eTFEZERQN0ZmUEt5X19lWHFDVUFONVAxV1FwVUtiVVlHcW1ZWERCSQ?oc=5",
+      "text": "U.S. Army moves to end drone battalion set up to absorb lessons from Ukraine war - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41TEhYVUlwVG9ZQWRFSzlKaTdVdHZwb0pmaFJfQ1V1S3R3R2JSMDBzSUowQ1ZTb0o2NUFUWlBXRW4xZ1AxZ3F1YUw2Vl9sT2hEQ3ZqR0VscEhrMlF6YmFhUThWTV93cVktd05nUTYxTG94X3l2OXVv?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T16:50:41+00:00"
-    },
-    {
-      "text": "'I've been there too.' Panettiere death shatters postpartum silence - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRncydmU0a0xBeXl3enI1clBQNzBpdlZuRHBXRVZTRmRCUWhmaEdmTUlpdXNzcWJ5SHc4Rkw4a0xQWVFSbmFHdGQ3VThwM0NDQ2RiSG1wTl9lTGQ0Q2tMcUZHbDdlWXdWTW1TakdMVVhvLVJQM2xJVDBLcjdOYkE3aGV2SWNNc3JKSWEwOFFTcU9tVFpTUjFMOVBlQ0Q3cnNQWTFBYW5pbTRyQURwYU1r?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T16:41:00+00:00"
+      "time": "2026-08-20T17:52:00+00:00"
     }
   ]
 }
