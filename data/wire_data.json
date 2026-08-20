@@ -1,46 +1,120 @@
 {
-  "generated_at": "2026-08-20T17:02:23.145088+00:00",
+  "generated_at": "2026-08-20T17:47:40.202399+00:00",
   "lead": {
-    "text": "FBI raided Swalwell's home, seized devices as part of Chinese spy probe",
-    "url": "https://thehill.com/homenews/house/6041674-fbi-raids-swalwell-home/",
-    "source": "The Hill",
+    "text": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
+    "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-20T17:00:35+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-20T17:47:32+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "CNN is obsessed with Natalie Harp, shamefully interviews brother",
-      "url": "https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp/",
+      "text": "Dow falls 500 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates",
+      "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-20T17:43:46+00:00"
+    },
+    {
+      "text": "New study finds link between sugary drinks and stomach cancer",
+      "url": "https://thehill.com/policy/healthcare/6041640-new-study-sugary-drinks-stomach-cancer-risk/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-20T16:57:47+00:00"
+      "time": "2026-08-20T17:43:08+00:00"
     },
     {
-      "text": "Bessent: US can 'grow our way' out of $40 trillion debt",
-      "url": "https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt/",
+      "text": "‘Reading Rainbow’ host says he's checking into hospital over mental health",
+      "url": "https://thehill.com/blogs/in-the-know/6040811-reading-rainbow-host-mychal-threets-mental-health-struggles/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-20T16:55:23+00:00"
-    },
-    {
-      "text": "Como mayor bans 'beasts' in city centre after being hit by bike",
-      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-20T16:53:20+00:00"
+      "time": "2026-08-20T17:39:20+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Ken Paxton’s $1,000 Pen Incident Resurfaces in Texas Senate Race",
+      "url": "https://www.nytimes.com/2026/08/20/us/ken-paxton-montblanc-pen.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T17:22:13+00:00"
+    },
+    {
+      "text": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T17:14:53+00:00"
+    },
+    {
+      "text": "White House faces scrutiny over top Trump aide Natalie Harp – live - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczg2X2Q1QnBXa0w2bTdzRWlwdDM0UTBIbFRSY1E0SUtCU1FjTW9fd1pHanY5SWVMNmRyYW9OYnNVWl9yQ3JNVjF6cklpRGhyamRaaHRWcVgxM1NCVDdRLV9XcnBjM191SXBRY0VtelROVzB5UWFrNXd6SjNUNUJ5aTlLdXNRQWVTRlA0RjlNcnNCUjdCTWFTNHdIZWM4dkZ6SV9nRFQ4Z04xZHhBVDB0THZqdWhDWFpMckJlUlZjbGE5RUhCRzQwTTl2Q0FSRXVZc0Eydm5rZnpudw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T17:03:17+00:00"
+    },
+    {
+      "text": "Three things to know about the $40 trillion federal debt - NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0WWM4OTFiQ1RXRTFadDhWc2JRVDk1b3J4NTdTNVpNd1dzYkpaUUdQYnRtQ1p0VENvek9WY0VvWllNSVNsYlRYbTNEWTFtSlM3eTFEZERQN0ZmUEt5X19lWHFDVUFONVAxV1FwVUtiVVlHcW1ZWERCSQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T16:50:41+00:00"
+    },
+    {
+      "text": "Stock Market Today: Bessent Signals Treasury Buybacks Could Exceed $4 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFBldUlGa1pnUUM2bjFDS3MzeFhLeTNrSXRJN0RTbnVYeXJZbHJ1eXROVTZUbV95amFvOGgxLTdEdzZ5YnZfWHZKOVIwZEI5MG5UbW0tWVpKWG9MNzhmbXl6U29fTnBDbFlCcmxmQ3lVaW00VXpoYzZ3d2pTVENBMlk2VmJ3TWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T16:42:00+00:00"
+    },
+    {
+      "text": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
+      "url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T16:23:35+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "How Trump Is Trying to Crush California’s Climate Policies",
+      "url": "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T17:17:05+00:00"
+    },
+    {
+      "text": "Under Trump, Protected Wild Horses Are Going to Slaughter",
+      "url": "https://www.nytimes.com/2026/08/20/us/trump-wild-horses-legal-loophole-slaughter.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T17:09:07+00:00"
+    },
     {
       "text": "Rachel Cusk on Her Novel ‘Life of M,’ Gossip and Natalie Portman",
       "url": "https://www.nytimes.com/2026/08/20/style/rachel-cusk-life-of-m-natalie-portman.html",
@@ -51,13 +125,22 @@
       "time": "2026-08-20T16:51:19+00:00"
     },
     {
-      "text": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
-      "url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
+      "text": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+      "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T16:23:35+00:00"
+      "time": "2026-08-20T16:46:04+00:00"
+    },
+    {
+      "text": "Speedboat driver in fatal New York Harbor capsizing was in the US illegally, authorities say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa0ZBS0MwNFRvTzN3SnJFTHl6b21Eb0RyTUdneUVYdlZoT1czS0tUYjJsX2swOFNSVTF6RnN2T281MFpFM3JjUWRMRlhXU2dsaGdwV0NqTEJ6U1IwS2tySkRKN2ppYUg5WGNfLW1pYjFTdFcwdEU0eHp4U2RoVnBPOENma1Q5ZzdsRlN5VHJxbkltOXhyV0o1Y2Y5LXVWRncyQnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T16:40:00+00:00"
     },
     {
       "text": "Someone already figured out how to fully control Pixel 11 Pro's 'HiLight' and make it useful [Gallery] - 9to5Google",
@@ -67,44 +150,17 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-20T16:05:00+00:00"
-    },
-    {
-      "text": "Cavaliers land Peyton Watson in reported 5-team trade - NBA.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85WFMwS3VEek15eU5LLXdhUVZoVnl0eTRTcENZbDIxXzFidEl3UTdPdXRNdlA0cHFsVVJvVkNIaHFJd2hack5laERVOWVFN2ZzbnFJeXNCMnFVX1czSjduWmZOZEg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T15:45:00+00:00"
-    },
-    {
-      "text": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
-      "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T15:36:20+00:00"
-    },
-    {
-      "text": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFJjWkdPN3hSc0tZU0hDSUl4dThwTXBTNHhxbk5QdlVJeUVLYlpOYS1weEdOTjBOTWlJcXZRR2JmX2ZDUS1IU3czYjhXUzctSHRFNy1vZFNjRFgzMFpNVHp6ZzNUYUxBejdqbmd0SkN1U2M3MnZ2b0J4VGlGUkp5UFZxQ3VrTVhvOHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T15:18:21+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
-      "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+      "text": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
+      "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T16:46:03+00:00"
+      "time": "2026-08-20T17:16:33+00:00"
     },
     {
       "text": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
@@ -113,46 +169,17 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T16:16:38+00:00"
+      "time": "2026-08-20T17:04:31+00:00"
     },
     {
-      "text": "Michigan holds line on vaccines for kids despite Trump executive order - Detroit Free Press",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEZlWEZXaGQxbWppMjhRMG9FbnlZMUZobG1ReUFuSjhnYlBCU1M3UWs2aUZXSTJjX2QzUjNucFNCSXZHT1YzRTNyRU9GMXdXeThCVmtibGVqaUtwOGFMMFJHUDM3R29JeUo1d2hWd21wTDNoOFF6bVNUeXFqVTVlWE82d1JVQWRBSGlNdm5Nd3BZLWRnVFhrSTJLbUNLRnNMRWl1VEVfQmt1WTlsLXJPX2I0R21NQy1fYkVsVDhrQnpaaHZOSkpvRE4wbS05M1k?oc=5",
+      "text": "‘The Odyssey’ Slays ‘Deadpool & Wolverine’ To Become Highest Grossing R-Rated Movie Ever At Global Box Office - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3VRbFdiUnN5VXhkOTh3bXVucl8xSWtxQUZIT01Ta0RqWlQ1MlFLSzMxbEtFc2k2VDczMDI2RDY1WGpYU3ZVSVBidmZmTWphSGg4TG44VnFuQUVacEhaZlNLZXczWXdnSHVrVkZORElhQlIwUEIyYjhHN3htckFFSWYwTEU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T15:49:00+00:00"
+      "time": "2026-08-20T16:51:00+00:00"
     },
-    {
-      "text": "Hayden Panettiere’s mom says narcotics investigator was called into police probe of her death - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQckJ1a1YxeDJMS2JVZlg5SlFPeWpQcWJ2bGVnVG9OTHRSSEE2VHJPU3NBWTlHeU41ZFRHQ1A1Mzg4OVlxRWg3WkJ2MDM3YkluQjNkYXV6M2V1SHN1Ym1VdG5fWUJWT0w4OXFBd1h4UlVFOU5SSFJhbWJaTmhXSEFUWk9VaWlpSGZndGxuM3BKRHcwZU4yTjRlYlRnQjJNUzZWZHR4VzBPdlBJSWVVMDFvMDZ5Mmx5dnBfZHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T15:41:21+00:00"
-    },
-    {
-      "text": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
-      "url": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T15:27:08+00:00"
-    },
-    {
-      "text": "Russian missile barrage kills at least 16 people in Ukraine’s Kyiv - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T15:13:05+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry",
       "url": "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html",
@@ -163,49 +190,22 @@
       "time": "2026-08-20T16:43:59+00:00"
     },
     {
-      "text": "Bond market sell-off threatens higher borrowing costs. Here is what it means for your money. - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWRQRFV5WUxrajVIZ0FkS25IOHpoNnMzQnM2MkFlT0MxXzBJVHQzQ2FzX1ZJT1FrampPTDlURE9hejZsU2xpaV84X2NsQUNXVXlXNEdNVE9XMzZYN3dpWFlXbS0tclloaHVWRlgyeGJta2t2bklTeFFoMHk2cGtlUw?oc=5",
+      "text": "'I've been there too.' Panettiere death breaks postpartum silence - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRncydmU0a0xBeXl3enI1clBQNzBpdlZuRHBXRVZTRmRCUWhmaEdmTUlpdXNzcWJ5SHc4Rkw4a0xQWVFSbmFHdGQ3VThwM0NDQ2RiSG1wTl9lTGQ0Q2tMcUZHbDdlWXdWTW1TakdMVVhvLVJQM2xJVDBLcjdOYkE3aGV2SWNNc3JKSWEwOFFTcU9tVFpTUjFMOVBlQ0Q3cnNQWTFBYW5pbTRyQURwYU1r?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T16:16:38+00:00"
+      "time": "2026-08-20T16:40:00+00:00"
     },
     {
-      "text": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
-      "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T15:45:12+00:00"
-    },
-    {
-      "text": "ICE Arrests Captain in New York Boat Accident That Killed 2",
-      "url": "https://www.nytimes.com/2026/08/20/nyregion/ice-arrest-boat-captain-new-york.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T15:37:19+00:00"
-    },
-    {
-      "text": "The App Bringing Disabled Daters Together",
-      "url": "https://www.nytimes.com/2026/08/20/well/dating-app-disabilities.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T15:23:47+00:00"
-    },
-    {
-      "text": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
+      "text": "Cavaliers land Peyton Watson in reported 5-team trade - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85WFMwS3VEek15eU5LLXdhUVZoVnl0eTRTcENZbDIxXzFidEl3UTdPdXRNdlA0cHFsVVJvVkNIaHFJd2hack5laERVOWVFN2ZzbnFJeXNCMnFVX1czSjduWmZOZEg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T15:08:48+00:00"
+      "time": "2026-08-20T15:50:07+00:00"
     }
   ]
 }
