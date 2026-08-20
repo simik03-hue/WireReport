@@ -1,46 +1,167 @@
 {
-  "generated_at": "2026-08-20T04:00:58.267784+00:00",
+  "generated_at": "2026-08-20T04:55:09.131725+00:00",
   "lead": {
-    "text": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
-    "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
-    "source": "CNBC",
+    "text": "Missing teen hiker found dead in Australian bush after eight-day search",
+    "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-20T03:30:54+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-20T04:49:52+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "text": "Ukraine-Russia war latest: Putin makes rare admission that Kyiv’s huge strikes are ‘causing us harm’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUNGN1RDZG5LMVJ5ZlZ4X2gxTlJRaU5vLWFSZ0E1SjNLcXd0TjZmazRCQzFXVmtGREZwQU56NGQtNGg3ZGU3RVM1TFhTWDF1Unl1Y2c4WjBnU1ZyTHFHWnByUHE5OUdBWDZaVFFqdHIxTmxVMkVHTXdJY0ZCN0c0V05uX2lzUm5tZVlkNUprX195RHF6ZndYMFk1bFI5VHIwTzJVTmQxdWRmSEFNQ2hURnp0cDU2NFlh?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-20T04:24:57+00:00"
+    },
+    {
+      "text": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-20T03:22:57+00:00"
+      "time": "2026-08-20T04:17:53+00:00"
     },
     {
-      "text": "Air Force major detained again for Capitol protest after Trump criticism",
-      "url": "https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest/",
-      "source": "The Hill",
+      "text": "S&P 500 futures are little changed after index snaps three-day slide: Live updates",
+      "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-20T03:18:54+00:00"
-    },
-    {
-      "text": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-20T03:16:22+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-20T04:15:31+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+      "url": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T04:01:08+00:00"
+    },
+    {
+      "text": "Prince Harry and Meghan Markle will return to Britain after six years in U.S. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWJySlY4SENYc1RVQm1VYmFWd3I5d21uZlNlTHhzZTFza0ZGcnEyc3huc00zejV3Sk9SeTlMVnpsN2VlUkdxMS1Kb3hLbk85OGlmMzJkYWFhbjJ4T0pxQ3NxdWlSUTh0WmFmZ0tLTmpObjl4VWVFa3piS3RRN2NfN3FIWktJekNYVW5RMll3VlQ4QlNHenZ0YWRlOWxEYXJvS194OEFpbEJtekU4R09xdld3VlE5YjRXNFdRTw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T03:04:00+00:00"
+    },
+    {
+      "text": "US national debt hits $40 trillion, rising by $90K per second - WJLA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGVkRHJLZ0lzTnRWck14cUNZRWR3UEtoZDJLNF9zZnNuQU92Y1RDX2xGT0hCVjR0RDh5VE91ZFVkZGxJOVRUSnJDNlE0WmxzekNubkhiTl9xX2JyUDhhaG56SzVtejdPN0VkSDM3ZzdLNktaSGFKOUNxem1vMXFEdmJWMHgzQzVjeW1YTGUzemEzYmtoeUpjdDdKa01RM0tKWFJz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T02:37:30+00:00"
+    },
+    {
+      "text": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T02:15:15+00:00"
+    },
+    {
+      "text": "Trump Threatens Economic Pain for Countries That Help Iran",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T01:52:13+00:00"
+    },
+    {
+      "text": "The Freedom Caucus is having a brutal primary run - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlFkTjdMWVViamV6RURxWjBVR1ppUUxKcE1SV0Vkb0xpRXN0VnFmNHFGcVFvS1BMUHVMTXhBdkVQV0h1WHU5dDR2elRuMzNrRkRjYnhoS1BaTmhwdHFlVWdTUTRGTkJXQkNSRFltVVgxYUJQWVlUcTdGNC1JSW1VeUdOa3ZFdVdCZTVzWQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T01:29:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Pilot killed, 2 Pa. State Police troopers injured in midair crash at Carlisle Airport - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnVlRVN1bkJGbERSbTFDLWJ2T3F2cE44dXY3Y3N6bEJqNmh2M1VTRXNPT2NRLW55MmtnT1lEcmFHNUY5Y1BLMHgwTWt0ZlAybVg0N3o3TWdLREFaSjMya3hNaUlkYkRGR29nS3NqY3NoQVcta0tjY0IxTV9USUwxNDZJd2dMLXdNY3ZkazRxZ09peWZQc05WUzRXQ21NNWZfOTRUcGpLWWt2ZjJ6aGlNQnI1cDEtNExrLXpHTA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T03:34:13+00:00"
+    },
+    {
+      "text": "Trump’s Plan to Squeeze Iran’s Economy Will Live or Die in Dubai - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2pfemR3czYyOTVqcnF1bWwweUVZVFR4NjRNRXFobmpwMmxHanNlQ29KelBpcHZUUTQzWURFV1VaZENJNTJjRUNwTkhHTkZDVVNjLUJROVVLX3NoQlVsb2M3ZWUwQks3LWRtbkc1U1Q1M1ZBTE1aOVZrNFVWcGVPd3VsSkU2aGpsZUY3cUdOZGpqTlN2Qms0TkVHRUJmMk9pNlRLeDNEWTh6UkRSTWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T02:58:00+00:00"
+    },
+    {
+      "text": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
+      "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T02:22:33+00:00"
+    },
+    {
+      "text": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdNSjhQeC1GcmNGV2FmQnJaRHVzSVU0dEstM0hnX3JyVEFFbG5lMGVnT1pQbmxyNHdRUkU1NkllMUlIR282RGkyUEhXOVIxSjM4UTdoT3FKUGVDSWx1TGozdlRna3pPVk5zODd0OGhyRUFIN2RxVmxrVGJlSzdjZjA0OUhPdC02elhnNWpFc19oaVJiVnNfYS13bGVpTGNlQnBYRWhCT3dmd0tPOUpGSXk0WXHSAboBQVVfeXFMUDJUS1lmX2drelZKQzFXSDdub09CSkhEaUxoVkJIMXZzYkc1SmxNSG1SRC1mMTRSYXdTSUFacW9zYXpUYzlYWE9NMVRBRm9IdWJFald3bUZ6clFRa1Nwb1NmbjFDU1ZjNDFIMFJNS3hqVkhuUkNHdnBtd2tzUnA1RkxxV1BfalZZTUg4VGlKVzNPUU1fN25qV2E0cTlSRUdyME1lUU9qVDFaUWJQUVZIbTB3d3ZHTGlzY2dn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T02:06:47+00:00"
+    },
+    {
+      "text": "What to Know About Hayden Panettiere’s Death",
+      "url": "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T01:38:47+00:00"
+    },
+    {
+      "text": "D.E.A. Joins Investigation Into Hayden Panettiere’s Death",
+      "url": "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T01:27:35+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Trump threatens 'tremendous economic consequences' on any country helping Iran - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T03:22:57+00:00"
+    },
     {
       "text": "Missouri Judge Says Redrawn Congressional Map May Be Used in Midterms",
       "url": "https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html",
@@ -60,62 +181,6 @@
       "time": "2026-08-20T02:20:00+00:00"
     },
     {
-      "text": "Trump announces ‘most crushing economic operation ever’ against Iran - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVhCS05GTl9MZEVxcUFnNTlYSERZMlRFVXotU2FQMXBrRHhyVU1ULUN4X2N2TXpJbDFjbEo5X2djeW9hNjlkYU0wVTMxWV9QbHp5TGFHY1EzUFRCZGxNVlNiYVBJNkU5UGpSdG0yOEFxSm5Zc2xrNzloZHRkdXNJMnVobUkwMDJKR1JkS3hPZjRNZFJfWjZKRkhqR2hZUDZRVTNjcS1HWFJGbFHSAbABQVVfeXFMTzNXU2ZhU2FUMmswRXJ0eUdVaWF5SUc4eXRKNlp0eVFWYUpWaE1vUFlmSnhDdFVWLVNDeFlzOTB6aWdYYUZLRzlENzhfSUNkV0dLUS1sNFJ4OUd1dERiUlNGX1ByeFUxREhKckxmOGhGSzhxSHVSdXBDWmZDVWFtQkN3U0pIaHZ0Q3p6QUtpazM2VUtXTkx2b2J3eXpCV0ZyaE1vTTZyVU5vSGo5b3J0RlE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T02:06:35+00:00"
-    },
-    {
-      "text": "What to Know About Hayden Panettiere’s Death",
-      "url": "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T01:38:47+00:00"
-    },
-    {
-      "text": "The Freedom Caucus is having a brutal primary run - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlFkTjdMWVViamV6RURxWjBVR1ppUUxKcE1SV0Vkb0xpRXN0VnFmNHFGcVFvS1BMUHVMTXhBdkVQV0h1WHU5dDR2elRuMzNrRkRjYnhoS1BaTmhwdHFlVWdTUTRGTkJXQkNSRFltVVgxYUJQWVlUcTdGNC1JSW1VeUdOa3ZFdVdCZTVzWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T01:29:00+00:00"
-    },
-    {
-      "text": "Pa. State Police aircraft involved in midair crash in Carlisle, Pennsylvania, Governor Shapiro says - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnVlRVN1bkJGbERSbTFDLWJ2T3F2cE44dXY3Y3N6bEJqNmh2M1VTRXNPT2NRLW55MmtnT1lEcmFHNUY5Y1BLMHgwTWt0ZlAybVg0N3o3TWdLREFaSjMya3hNaUlkYkRGR29nS3NqY3NoQVcta0tjY0IxTV9USUwxNDZJd2dMLXdNY3ZkazRxZ09peWZQc05WUzRXQ21NNWZfOTRUcGpLWWt2ZjJ6aGlNQnI1cDEtNExrLXpHTA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T00:55:16+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "US national debt hits $40 trillion, rising by $90K per second - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGVkRHJLZ0lzTnRWck14cUNZRWR3UEtoZDJLNF9zZnNuQU92Y1RDX2xGT0hCVjR0RDh5VE91ZFVkZGxJOVRUSnJDNlE0WmxzekNubkhiTl9xX2JyUDhhaG56SzVtejdPN0VkSDM3ZzdLNktaSGFKOUNxem1vMXFEdmJWMHgzQzVjeW1YTGUzemEzYmtoeUpjdDdKa01RM0tKWFJz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T02:37:30+00:00"
-    },
-    {
-      "text": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T02:15:14+00:00"
-    },
-    {
       "text": "Harry and Meghan’s Break with Britain and Planned Return: a Timeline",
       "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
       "source": "NYT",
@@ -123,62 +188,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T01:58:03+00:00"
-    },
-    {
-      "text": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T01:32:19+00:00"
-    },
-    {
-      "text": "D.E.A. Joins Investigation Into Hayden Panettiere’s Death",
-      "url": "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T01:27:35+00:00"
-    },
-    {
-      "text": "In Wyoming’s G.O.P. Primaries, an Emphatic Rebuke of the Hard Right",
-      "url": "https://www.nytimes.com/2026/08/19/us/elections/wyoming-republicans-moderate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T00:51:14+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
-      "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T02:22:33+00:00"
-    },
-    {
-      "text": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdNSjhQeC1GcmNGV2FmQnJaRHVzSVU0dEstM0hnX3JyVEFFbG5lMGVnT1pQbmxyNHdRUkU1NkllMUlIR282RGkyUEhXOVIxSjM4UTdoT3FKUGVDSWx1TGozdlRna3pPVk5zODd0OGhyRUFIN2RxVmxrVGJlSzdjZjA0OUhPdC02elhnNWpFc19oaVJiVnNfYS13bGVpTGNlQnBYRWhCT3dmd0tPOUpGSXk0WXHSAboBQVVfeXFMUDJUS1lmX2drelZKQzFXSDdub09CSkhEaUxoVkJIMXZzYkc1SmxNSG1SRC1mMTRSYXdTSUFacW9zYXpUYzlYWE9NMVRBRm9IdWJFald3bUZ6clFRa1Nwb1NmbjFDU1ZjNDFIMFJNS3hqVkhuUkNHdnBtd2tzUnA1RkxxV1BfalZZTUg4VGlKVzNPUU1fN25qV2E0cTlSRUdyME1lUU9qVDFaUWJQUVZIbTB3d3ZHTGlzY2dn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T02:06:47+00:00"
-    },
-    {
-      "text": "Trump Threatens Economic Pain for Countries That Help Iran",
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T01:52:13+00:00"
     },
     {
       "text": "Astronomers detect fastest known star in Milky Way - The Guardian",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T00:55:33+00:00"
-    },
-    {
-      "text": "Trump Officials Scrap Effort to Recruit Pentagon Lawyers to Represent Migrant Children",
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/migrant-children-pentagon-lawyers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T00:46:07+00:00"
     }
   ]
 }
