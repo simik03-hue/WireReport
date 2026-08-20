@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-08-20T10:14:53.336874+00:00",
+  "generated_at": "2026-08-20T10:51:58.574521+00:00",
   "lead": {
-    "text": "Former Liberian vice-president charged in drug-trafficking probe",
-    "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Alibaba shares fall as AI spending drives 75% drop in net income",
+    "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-20T10:11:26+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-20T10:45:09+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Alibaba shares fall 4% as AI spending drives 75% drop in net income",
-      "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+      "text": "Walmart will report second-quarter earnings before the bell. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T10:04:40+00:00"
-    },
-    {
-      "text": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
-      "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T10:04:11+00:00"
+      "time": "2026-08-20T10:43:16+00:00"
     },
     {
       "text": "$40,047,425,768,420 in U.S. Debt, and an Experimental Vaccine for Skin Cancer",
@@ -37,10 +28,84 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T10:00:10+00:00"
+      "time": "2026-08-20T10:41:34+00:00"
+    },
+    {
+      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-20T10:41:25+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "As Harry and Meghan Plan Their Return, Britain Wonders: What Changed?",
+      "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T10:37:03+00:00"
+    },
+    {
+      "text": "Stock Market Today: Bond Market Steady After Treasury Intervention, Nasdaq Futures Tick Up — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFBldUlGa1pnUUM2bjFDS3MzeFhLeTNrSXRJN0RTbnVYeXJZbHJ1eXROVTZUbV95amFvOGgxLTdEdzZ5YnZfWHZKOVIwZEI5MG5UbW0tWVpKWG9MNzhmbXl6U29fTnBDbFlCcmxmQ3lVaW00VXpoYzZ3d2pTVENBMlk2VmJ3TWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T09:31:00+00:00"
+    },
+    {
+      "text": "Ukraine-Russia war latest: Putin bombards Kyiv with hypersonic missiles and drones in massive overnight attack - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzQyS1lMZTFFT0w2ei1kZG5TeFVYYmxfX1BDcnFPRHdaV2pyMHhSR3lWck5YSm1fN2RaUFFRbUFsWjhfdktnaGZpQkcxWU15NXZEV09ZdmhGS3hOU2NUdzB4M014cXpZTjVSZk5mZXJVY0k0UF9zbW5hTHdZRWF0cDNFN1JsUTd6NHh3U1M5UTVCbEIxakJwYVhkRmVkQ1dzbFItV2lRamtnTzBjZ2I1dFNvS3hHSk1ZbmtPX2FtYTk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T09:09:14+00:00"
+    },
+    {
+      "text": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
+      "url": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T09:04:12+00:00"
+    },
+    {
+      "text": "A Simple, One-Word Trick to Turn Everyday Life Into Grand Fantasy",
+      "url": "https://www.nytimes.com/2026/08/20/magazine/lore-language-history.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T09:03:52+00:00"
+    },
+    {
+      "text": "The Teens Taking On A.I. Data Centers",
+      "url": "https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T09:00:54+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "China Sentences Evergrande Founder to Life in Prison",
+      "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T10:28:27+00:00"
+    },
     {
       "text": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
       "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
@@ -49,6 +114,62 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-20T09:28:09+00:00"
+    },
+    {
+      "text": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T09:04:19+00:00"
+    },
+    {
+      "text": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T09:04:07+00:00"
+    },
+    {
+      "text": "How Trump Is Trying to Crush California’s Climate Policies",
+      "url": "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T09:03:47+00:00"
+    },
+    {
+      "text": "Under Trump, Protected Wild Horses Are Going to Slaughter",
+      "url": "https://www.nytimes.com/2026/08/20/us/trump-wild-horses-legal-loophole-slaughter.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T09:00:18+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
+      "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T10:04:12+00:00"
+    },
+    {
+      "text": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T09:13:18+00:00"
     },
     {
       "text": "The Scales Can’t Fall From Our Eyes Fast Enough",
@@ -78,62 +199,6 @@
       "time": "2026-08-20T09:02:45+00:00"
     },
     {
-      "text": "Bond yields edge higher as traders digest Treasury debt buyback plan - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1RtZ1ZuelIta0hOWHMxUGFqZGlXdUR1c2Rock1UOHRXZFhOd29YclpnTEMzT3ZyNEtLWTnSAa4BQVVfeXFMUDJXVzY5dHRmMVcwS2RXRFNqbDVsUkFhMHpPRDdPd2pYYVZJZ293dUtXNU85M3BNR2pQaVNQa3I5MVY0eE5HS2JVZGFwM2J5eS1OVHBubTI5bEZZa2o5ZDBjUWdOeEF4b295NTc3XzNhUjNDUkZIaDN1Qy1FN2dhbDF6WWxweUhRUm00bVUxS3Ywd1F5M052cVViQ3NCX1MtNzJVVWkzVnAzZnZFbEJ3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T08:57:47+00:00"
-    },
-    {
-      "text": "US national debt hits $40 trillion, rising by $90K per second - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGVkRHJLZ0lzTnRWck14cUNZRWR3UEtoZDJLNF9zZnNuQU92Y1RDX2xGT0hCVjR0RDh5VE91ZFVkZGxJOVRUSnJDNlE0WmxzekNubkhiTl9xX2JyUDhhaG56SzVtejdPN0VkSDM3ZzdLNktaSGFKOUNxem1vMXFEdmJWMHgzQzVjeW1YTGUzemEzYmtoeUpjdDdKa01RM0tKWFJz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T08:33:12+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Trump vows tougher economic measures on Iran and supporting countries - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T09:13:18+00:00"
-    },
-    {
-      "text": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
-      "url": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T09:04:12+00:00"
-    },
-    {
-      "text": "A Simple, One-Word Trick to Turn Everyday Life Into Grand Fantasy",
-      "url": "https://www.nytimes.com/2026/08/20/magazine/lore-language-history.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T09:03:52+00:00"
-    },
-    {
-      "text": "The Teens Taking On A.I. Data Centers",
-      "url": "https://www.nytimes.com/2026/08/20/style/the-teens-taking-on-data-centers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T09:00:54+00:00"
-    },
-    {
       "text": "#Resistance Democrats are flopping in primaries - Politico",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObndjbXhxWlRIcC1IWk8yVkM5S0ZFZTR4bTZQbDZJRi15OTZRUlB2TkVvaHBfdDdQX3NCX1FZZUNvclA3emFlOW1JbzI5clM3RkkyYWNPVUVGd2dkRFNJZGV4LTZhVEJKZHlNV291THBLZTNVYjVoRUVHVmlGM2pPMUdFbGhlSkp0YmpFNlc2VGltcUdkUElqc0t3?oc=5",
       "source": "Google News",
@@ -141,71 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-20T08:45:00+00:00"
-    },
-    {
-      "text": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T06:51:04+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T09:04:19+00:00"
-    },
-    {
-      "text": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-      "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T09:04:07+00:00"
-    },
-    {
-      "text": "How Trump Is Trying to Crush California’s Climate Policies",
-      "url": "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T09:03:46+00:00"
-    },
-    {
-      "text": "Under Trump, Protected Wild Horses Are Going to Slaughter",
-      "url": "https://www.nytimes.com/2026/08/20/us/trump-wild-horses-legal-loophole-slaughter.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T09:00:18+00:00"
-    },
-    {
-      "text": "Ukraine-Russia war latest: Putin bombards Kyiv with hypersonic missiles and drones in massive overnight attack - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzQyS1lMZTFFT0w2ei1kZG5TeFVYYmxfX1BDcnFPRHdaV2pyMHhSR3lWck5YSm1fN2RaUFFRbUFsWjhfdktnaGZpQkcxWU15NXZEV09ZdmhGS3hOU2NUdzB4M014cXpZTjVSZk5mZXJVY0k0UF9zbW5hTHdZRWF0cDNFN1JsUTd6NHh3U1M5UTVCbEIxakJwYVhkRmVkQ1dzbFItV2lRamtnTzBjZ2I1dFNvS3hHSk1ZbmtPX2FtYTk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T08:37:06+00:00"
-    },
-    {
-      "text": "China Sentences Evergrande Founder to Life in Prison",
-      "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T06:39:53+00:00"
     }
   ]
 }
