@@ -1,46 +1,176 @@
 {
-  "generated_at": "2026-08-20T16:15:40.751289+00:00",
+  "generated_at": "2026-08-20T17:02:23.145088+00:00",
   "lead": {
-    "text": "Dow drops 400 points, hurt by rising Treasury yields and a decline in Walmart: Live updates",
-    "url": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "FBI raided Swalwell's home, seized devices as part of Chinese spy probe",
+    "url": "https://thehill.com/homenews/house/6041674-fbi-raids-swalwell-home/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-20T16:14:56+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-20T17:00:35+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-      "source": "CNBC",
+      "text": "CNN is obsessed with Natalie Harp, shamefully interviews brother",
+      "url": "https://thehill.com/opinion/robbys-radar/6041771-cnn-erin-burnett-natalie-harp/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T16:14:24+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-20T16:57:47+00:00"
     },
     {
-      "text": "Oil prices rise 3% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
-      "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
-      "source": "CNBC",
+      "text": "Bessent: US can 'grow our way' out of $40 trillion debt",
+      "url": "https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T16:11:31+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-20T16:55:23+00:00"
     },
     {
-      "text": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
-      "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
-      "source": "CNBC",
+      "text": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-20T16:07:53+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-20T16:53:20+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Rachel Cusk on Her Novel ‘Life of M,’ Gossip and Natalie Portman",
+      "url": "https://www.nytimes.com/2026/08/20/style/rachel-cusk-life-of-m-natalie-portman.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T16:51:19+00:00"
+    },
+    {
+      "text": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
+      "url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T16:23:35+00:00"
+    },
+    {
+      "text": "Someone already figured out how to fully control Pixel 11 Pro's 'HiLight' and make it useful [Gallery] - 9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDZvN29SYzFvNnk0ckxlRmRuVVJ4QXBfbkNzaFRvaDEyc29TU25zdU15VzFUNVozeE5uT3NxR09sNk5hUEU1bk9kaldMT1BSbVI1R3Ayc2I1RjFxTWhwdGtLM0ZOQzVva3JMdDF6dU5KZ0F4QkxhX1dPWTN5a1NjUmNBcktBQlNoQW40T05hTkVwMWg4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T16:05:00+00:00"
+    },
+    {
+      "text": "Cavaliers land Peyton Watson in reported 5-team trade - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85WFMwS3VEek15eU5LLXdhUVZoVnl0eTRTcENZbDIxXzFidEl3UTdPdXRNdlA0cHFsVVJvVkNIaHFJd2hack5laERVOWVFN2ZzbnFJeXNCMnFVX1czSjduWmZOZEg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T15:45:00+00:00"
+    },
+    {
+      "text": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
+      "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T15:36:20+00:00"
+    },
+    {
+      "text": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFJjWkdPN3hSc0tZU0hDSUl4dThwTXBTNHhxbk5QdlVJeUVLYlpOYS1weEdOTjBOTWlJcXZRR2JmX2ZDUS1IU3czYjhXUzctSHRFNy1vZFNjRFgzMFpNVHp6ZzNUYUxBejdqbmd0SkN1U2M3MnZ2b0J4VGlGUkp5UFZxQ3VrTVhvOHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T15:18:21+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+      "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T16:46:03+00:00"
+    },
+    {
+      "text": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+      "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T16:16:38+00:00"
+    },
+    {
+      "text": "Michigan holds line on vaccines for kids despite Trump executive order - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEZlWEZXaGQxbWppMjhRMG9FbnlZMUZobG1ReUFuSjhnYlBCU1M3UWs2aUZXSTJjX2QzUjNucFNCSXZHT1YzRTNyRU9GMXdXeThCVmtibGVqaUtwOGFMMFJHUDM3R29JeUo1d2hWd21wTDNoOFF6bVNUeXFqVTVlWE82d1JVQWRBSGlNdm5Nd3BZLWRnVFhrSTJLbUNLRnNMRWl1VEVfQmt1WTlsLXJPX2I0R21NQy1fYkVsVDhrQnpaaHZOSkpvRE4wbS05M1k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T15:49:00+00:00"
+    },
+    {
+      "text": "Hayden Panettiere’s mom says narcotics investigator was called into police probe of her death - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQckJ1a1YxeDJMS2JVZlg5SlFPeWpQcWJ2bGVnVG9OTHRSSEE2VHJPU3NBWTlHeU41ZFRHQ1A1Mzg4OVlxRWg3WkJ2MDM3YkluQjNkYXV6M2V1SHN1Ym1VdG5fWUJWT0w4OXFBd1h4UlVFOU5SSFJhbWJaTmhXSEFUWk9VaWlpSGZndGxuM3BKRHcwZU4yTjRlYlRnQjJNUzZWZHR4VzBPdlBJSWVVMDFvMDZ5Mmx5dnBfZHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T15:41:21+00:00"
+    },
+    {
+      "text": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
+      "url": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T15:27:08+00:00"
+    },
+    {
+      "text": "Russian missile barrage kills at least 16 people in Ukraine’s Kyiv - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T15:13:05+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry",
+      "url": "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-20T16:43:59+00:00"
+    },
+    {
+      "text": "Bond market sell-off threatens higher borrowing costs. Here is what it means for your money. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWRQRFV5WUxrajVIZ0FkS25IOHpoNnMzQnM2MkFlT0MxXzBJVHQzQ2FzX1ZJT1FrampPTDlURE9hejZsU2xpaV84X2NsQUNXVXlXNEdNVE9XMzZYN3dpWFlXbS0tclloaHVWRlgyeGJta2t2bklTeFFoMHk2cGtlUw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-20T16:16:38+00:00"
+    },
     {
       "text": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
       "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
@@ -69,53 +199,6 @@
       "time": "2026-08-20T15:23:47+00:00"
     },
     {
-      "text": "State Dept. Declares U.S. Citizen in China Wrongfully Detained",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T14:59:45+00:00"
-    },
-    {
-      "text": "FBI raids former Rep. Eric Swalwell’s home, seizes devices in probe tied to sexual assault claims - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTdSU1NpUUVpXzNrYkYzVHZ2bl9WTEVKQ0pxTDlRY3FLTmdZdWk2S1F1LWpqRDJ2c3RhUFA3QWtCaWxNZi1zazNyX3JlTk9yRTJBLWhCa2kwRkZUQ1NZQl85U3FkME5sb2pycGNISk9YYzZFckN0MFpkY2R4VzZoR2ZsYzc2VVd0RklLRG5rbGJDWEU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T14:35:51+00:00"
-    },
-    {
-      "text": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
-      "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T14:23:34+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Cavaliers land Peyton Watson in reported 5-team trade - NBA.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85WFMwS3VEek15eU5LLXdhUVZoVnl0eTRTcENZbDIxXzFidEl3UTdPdXRNdlA0cHFsVVJvVkNIaHFJd2hack5laERVOWVFN2ZzbnFJeXNCMnFVX1czSjduWmZOZEg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T15:45:00+00:00"
-    },
-    {
-      "text": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
-      "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T15:36:20+00:00"
-    },
-    {
       "text": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
       "source": "Google News",
@@ -123,89 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-20T15:08:48+00:00"
-    },
-    {
-      "text": "Under Trump, Protected Wild Horses Are Going to Slaughter",
-      "url": "https://www.nytimes.com/2026/08/20/us/trump-wild-horses-legal-loophole-slaughter.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T14:47:03+00:00"
-    },
-    {
-      "text": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners",
-      "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T14:34:46+00:00"
-    },
-    {
-      "text": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
-      "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T14:20:36+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Stock Market Today: Bessent Signals Treasury Buybacks Could Exceed $4 Billion - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFBldUlGa1pnUUM2bjFDS3MzeFhLeTNrSXRJN0RTbnVYeXJZbHJ1eXROVTZUbV95amFvOGgxLTdEdzZ5YnZfWHZKOVIwZEI5MG5UbW0tWVpKWG9MNzhmbXl6U29fTnBDbFlCcmxmQ3lVaW00VXpoYzZ3d2pTVENBMlk2VmJ3TWs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T15:43:00+00:00"
-    },
-    {
-      "text": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
-      "url": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T15:27:08+00:00"
-    },
-    {
-      "text": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-      "url": "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T15:07:16+00:00"
-    },
-    {
-      "text": "The Scales Can’t Fall From Our Eyes Fast Enough",
-      "url": "https://www.nytimes.com/2026/08/20/opinion/trump-maga-immigration-woke-democrats.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T14:43:58+00:00"
-    },
-    {
-      "text": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
-      "url": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T14:23:51+00:00"
-    },
-    {
-      "text": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVdsZHA4UEJGQk91VHU5TURyME9mbHRfN0RmdE5menhRTmdCaE45ZGtNSlVVakFSazlhLXpna25HaWJrSm1oVzU0cmZweUhQN2JGYXM1X0ltbFVkMkVvQnFQcmh2QkdPTXMxUGpUWVdTc1RUUDV6SzczSWtYOXlPaGFzN21wWEJiMkZ3ZjVpM1RzUlhqTG9rU3BocHBBNWRLZUZvS3ViU0ZOb1JteWFkdjFHNy1HZ1I4QUFYSXpYRDFkMEk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T14:12:00+00:00"
     }
   ]
 }
