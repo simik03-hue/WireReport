@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-19T23:40:17.109071+00:00",
+  "generated_at": "2026-08-20T00:01:04.649765+00:00",
   "lead": {
-    "text": "Canada and US say they are finalising a trade deal, but details remain murky",
-    "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+    "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-19T23:32:37+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-19T23:57:47+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
@@ -19,17 +19,28 @@
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-19T23:25:32+00:00"
+      "time": "2026-08-19T23:52:55+00:00"
     },
     {
-      "text": "Federal Reserve officials hint rate increase may be necessary",
-      "url": "https://thehill.com/business/6040110-fed-july-minutes-rate-hike/",
-      "source": "The Hill",
+      "text": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "url": "https://www.cnbc.com/2026/08/19/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-19T23:13:44+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-19T23:46:23+00:00"
     },
+    {
+      "text": "Futures Rise; Biotechs, Gold Shine But Not These Techs - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSDk0WFZEcFZJOE9PeU9sR2s3R3A0VGFMdk9RbkI1d0U3RTlDUlU1bnJpTzdxZVJMSGtpYjBndFJvVkx4MXZHT0pNZWlBMlBjNHo2czlrN3ZVTEozTVgyeXd6SWxraHN5bnRiRGdMQlh6NzFqaFlJRnQ2MG16elZOVXV5bnpzVGtHNkUwS1dUUXI1c1MyOXhiT3BzWEZPN2lNUEc1NnhxNlhtMmkxRVpxYmYzTVVsTFRwS2NHM3F5M0ZhNmRoU3h1VHVDUlJJd0hicU9QOHpoc0ZTdw?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-08-19T23:42:00+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
       "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
@@ -37,10 +48,55 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T23:11:29+00:00"
+      "time": "2026-08-19T23:40:42+00:00"
+    },
+    {
+      "text": "What to Know About Iran’s Economic Ties With Gulf Countries",
+      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T22:41:24+00:00"
+    },
+    {
+      "text": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-19T22:32:19+00:00"
+    },
+    {
+      "text": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
+      "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T22:24:21+00:00"
+    },
+    {
+      "text": "Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides",
+      "url": "https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T21:47:51+00:00"
+    },
+    {
+      "text": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T21:39:49+00:00"
     }
   ],
-  "col1": [
+  "col2": [
     {
       "text": "US debt crosses $40 trillion threshold after doubling under Trump and Biden - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5",
@@ -78,25 +134,25 @@
       "time": "2026-08-19T22:00:00+00:00"
     },
     {
-      "text": "NASA's Swift telescope will plunge toward Earth after rescue mission called off - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3o0NzFHX3EtSWJVNTdFX2xHZk41WTdqclhFelJMTlJwTmJ4ZUQweXZ2THJxV25nQUdZLWdNTHNDVEkxRGhfekI3RGVDU2hGOGU5NUR1ZjlWWkpfN0c1VDB0MmtfUzQ3bTlLZi1La3ZUcVVNZUluOVNPSVc3SHF2cXJVNVJaMzhfaGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "U.S. Debt Hits $40 Trillion",
+      "url": "https://www.nytimes.com/2026/08/19/briefing/us-debt-hits-40-trillion.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T21:41:36+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-19T21:43:45+00:00"
     },
     {
-      "text": "Before-and-after images show where SpaceX rocket crashed into the moon - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHJYVnFodU1veUZFMFVLclUtUFRvLWNha2tIa0ZwNUpxU3NWYmVTYUJ6eGliekpwNnhXWVFxR1hNOXZNal9na0pzYzd5d1FnclljcGNBd1BTWk11bElXTnZHNUNLSUFwRjlkMklmNUV1QS05SnhMWjRVZ2pmR0VsZ3VUZzQzZG0zWDdtSmxpX2xPeWV2YVNJVw?oc=5",
+      "text": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta - NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW9EU1E2eEZnY1BvMS1zUWtXaWhBdllnTmZiVmRvWWt5NTBuZnpva0JhdnRBMF9qZmU0Qk12Q0g5ajVQdFpXM0k0TVJMeFhidV9Nc2tEaXJlcGUwaXVsOFMtR3RZUEVHSktneENlWElyRHNTdEFaWTMyNm5MU2JsWTZZclhPcGtMMkE4MkpWbUZ0QXBtV1lV?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T21:30:00+00:00"
+      "time": "2026-08-19T21:20:15+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
       "text": "L.A. officer who recorded colleagues’ racist remarks won’t face felony charges - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSm1IS2tyeHFoRzcxeTk2WVFpclJpUzU5WmtFb1ZPOWM4eUIyTTlBb2pkWS1GN1FtMTd2YzF5TGZmX2VGREZRdEdYdmxWdGtwd1gtQTlYVUFVWW02WkZDMmZaSHEtMDF1Vml2Tm1lV1YxdDNHcTBEeHdieE9oLUZrODRSOWhla0ctYnlvWlZ6VWd5S0tRRU1MZ2NNYWpGMFdGcGdBYnhYM1BzSlBqdjFSTk40TWhHZEk4OFJLRmRiSTY?oc=5",
@@ -116,87 +172,31 @@
       "time": "2026-08-19T22:32:51+00:00"
     },
     {
-      "text": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
-      "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T22:24:21+00:00"
-    },
-    {
-      "text": "Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides",
-      "url": "https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T21:47:51+00:00"
-    },
-    {
-      "text": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
-      "url": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T21:39:49+00:00"
-    },
-    {
-      "text": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta - NPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW9EU1E2eEZnY1BvMS1zUWtXaWhBdllnTmZiVmRvWWt5NTBuZnpva0JhdnRBMF9qZmU0Qk12Q0g5ajVQdFpXM0k0TVJMeFhidV9Nc2tEaXJlcGUwaXVsOFMtR3RZUEVHSktneENlWElyRHNTdEFaWTMyNm5MU2JsWTZZclhPcGtMMkE4MkpWbUZ0QXBtV1lV?oc=5",
+      "text": "Trump shows off his new helipad, brags about construction projects - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYUJGZDNJdUhiYmxVY01IMklwcXZlS1lNbHF1U3BkQVdSTUt0dV85WFR6R2dXZ3g3dTZpRXhMV0I1WXlsUjcxUU9YeXRLdDhnbGR0b2J2clIxV256SERFTmRjdVM3aUl1WXJ2YWdVVjFLR1hzT1psbnZRaUlObUw4R3hvTDBtUkd2WE1ncTZaaEpvY0xGcUs2SVZ5RkdaOEQxV3UtZDNZeXp2SHFaLXItdmZPblp6b3NQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T21:20:15+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "What to Know About Iran’s Economic Ties With Gulf Countries",
-      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T22:41:24+00:00"
+      "time": "2026-08-19T22:28:41+00:00"
     },
     {
-      "text": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
+      "text": "Lindsay Clancy trial ends earlier than expected Wednesday due to \"unforeseen circumstance\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzZUZFdOVGdraDMxWlV0aDB0eDQ3cjRMc1VweXpGZUM2Q25fRjd5SkwtUE5EbElWVGJuOFp1dDRZaWVwQ3hlTHo1T0ttNzZSUUZqeGctMk9EUGpKR3FST3VVek5wZDZFTGxCLURkOHlGdWVwLXlvX3JFSm9oWTdwag?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T22:32:19+00:00"
+      "time": "2026-08-19T21:57:09+00:00"
     },
     {
-      "text": "Defense minister dismissed by Zelensky demands elections in Ukraine - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUVPLUN6a3VFYUlTRlFSblNYb0IybnUzV1lieVp3aVVXenJXVklxRWRrM2dKTDZUaS1LSHpfV2pVYjhmRmlwVExHYUlXTXRndllOdUtGM283ajFIeXBzaGUzR2hmWjMzS0Z5ZnY1eWxMbWE4eXItX1l3c2h0MVBwTlBZN1EzdERjZmNRdE5GZ01FRmw0YWxzZjN5cERKbDZQSVZiS0hEQVFzQW5pQ0xUNGQyRQ?oc=5",
+      "text": "NASA's Swift telescope will plunge toward Earth after rescue mission called off - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3o0NzFHX3EtSWJVNTdFX2xHZk41WTdqclhFelJMTlJwTmJ4ZUQweXZ2THJxV25nQUdZLWdNTHNDVEkxRGhfekI3RGVDU2hGOGU5NUR1ZjlWWkpfN0c1VDB0MmtfUzQ3bTlLZi1La3ZUcVVNZUluOVNPSVc3SHF2cXJVNVJaMzhfaGc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T22:07:03+00:00"
-    },
-    {
-      "text": "U.S. Debt Hits $40 Trillion",
-      "url": "https://www.nytimes.com/2026/08/19/briefing/us-debt-hits-40-trillion.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-19T21:43:45+00:00"
-    },
-    {
-      "text": "Prince Harry and Meghan set to return to the UK - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02VTZyZTNQNHJPbU5LWXgyM2thakVFbzNfdUVTa0J1bHRWMFRlWDdpWkJZOWRVVXlvZlhsMHhxTm55SXhRbmdwVzZacGRHbmU4cEJmZFAtSUoyUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-19T21:30:01+00:00"
+      "time": "2026-08-19T21:41:36+00:00"
     },
     {
       "text": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
