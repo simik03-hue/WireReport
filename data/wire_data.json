@@ -1,17 +1,102 @@
 {
-  "generated_at": "2026-08-21T09:48:45.850742+00:00",
+  "generated_at": "2026-08-21T10:37:26.139635+00:00",
   "lead": {
-    "text": "Meghan could return to acting once back in UK",
-    "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
+    "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-21T09:48:00+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-21T10:36:07+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Stocks and Bonds Steady at the End of a Tumultuous Week",
+      "url": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T10:21:51+00:00"
+    },
+    {
+      "text": "Live Bitcoin price news: Bitcoin tops $77,000 - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZzJvcDc2b1JvS3pELVpQX2VvWHhmWWp6bzlINEtZbkhXNUUzWnpUTHZQXy1XdW5CWU9KZUloa05haHdsTUlNd2dEZzQzcTFaSUYzdXNZaWhrd2J3Y3lZWXp4TVkzUU1aLVU4TmZuMVNaY0wydGlEMnp4cy1Td1Q2bWNhYjJuaHdZZkRWQ1FCeExrSTJwZHh3ckEybW9ZM2RDWTljUlRub0NHU0o5RF83LTBTeDRZdHBRZElfWEFGeWM2TkR0Nk95Yg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T10:17:12+00:00"
+    },
+    {
+      "text": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+      "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-21T10:15:18+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "U.S.S. Lincoln Begins 13,000-Mile Journey Home, and the Shortage That Could Take Down the Grid",
+      "url": "https://www.nytimes.com/2026/08/21/podcasts/the-headlines/uss-lincoln-power-grid-shortage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T10:00:11+00:00"
+    },
+    {
+      "text": "Storms cause flood, tornado warnings in New York City, Tri-State | Live Updates - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTRVekZ2V2RMaUJId0NCT1FIcjRKMkVwSVlFQW5RaFNfU0d0eHQ1Q2owTTVlbXIxQTZnTFEyYkplSDZhcV9LaXUwXy1uNWlqcmtyWF9xcXk4U1JRbHJadWdEdUNKMGtoVU1LMEJVT2lveTh4UHk3Qms3OENXeU1vUWRNTW5qX1dDQWJJTmlRRGF4WUE2enp2WWI2WXplSjJuUUdINFVNNzRzVGd4SkJXd0VIUXQ2UWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T09:12:00+00:00"
+    },
+    {
+      "text": "Should You Invest in Bonds Right Now?",
+      "url": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T09:03:46+00:00"
+    },
+    {
+      "text": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
+      "url": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T09:02:32+00:00"
+    },
+    {
+      "text": "Book Review: ‘Life of M,’ by Rachel Cusk",
+      "url": "https://www.nytimes.com/2026/08/21/books/review/life-of-m-rachel-cusk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T09:00:14+00:00"
+    },
+    {
+      "text": "Trump’s biggest political event so far isn’t in a battleground state - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXdPekt1SENiMmlfQ1VPakxaUUpVZDlSNHFUdXdTdHVNVFJfV21yM0tXZ2hUakV3dWhKUUJSMkFmenVvVXFfS0hsSDJQeVFZQUFZbzZQMkw2QU14MTJKLW1QYm9qeWFJMVpjSVlrWFFpRWozd0R4c194SW5KRDBxMDR1Q1NlaXNmcjd4cmVUMUhKVDBXWkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T09:00:00+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "Rare Tornadoes Hit New York City as Storm Drenches Mid-Atlantic",
       "url": "https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html",
@@ -22,26 +107,6 @@
       "time": "2026-08-21T09:43:14+00:00"
     },
     {
-      "text": "Stock futures are flat after Treasury yield rebound sparks sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T09:41:53+00:00"
-    },
-    {
-      "text": "Pa. measles outbreak has reached Allegheny County - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pVT3FPUDdyOTYwR3l0bVcwQWpzSDFobkd1TmdOLXlkeHlRV2ZvYXlXdkFoN1V6OWxQbVY4Si00SUpDMEpEYVFYRlM2Ukk4WG1uNUM5TTlGYTdrZ0k4MnpHeGFMOEhsOVhTc1l2S2VndUczUUNWNl9DbFZyeFQzY1ZJOExzcC1zTTZQTnE4R1JBOUlZaWtHdEF2RjZiZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T09:39:35+00:00"
-    }
-  ],
-  "col1": [
-    {
       "text": "Why Do We Keep Imagining a New Civil War?",
       "url": "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html",
       "source": "NYT",
@@ -51,52 +116,61 @@
       "time": "2026-08-21T09:04:14+00:00"
     },
     {
-      "text": "RayNeo’s New Smart Glasses Are Taking the Cameraless Route - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN1ZoSGZ3UVJ2NXBQQTV5VlhJaGRfdmdCWm5MTXR5NFN6ZFdVdzRVY3hkb2syV1BITEpGQXJ5ZkdyZV84bktYd2dZWFp4OTlFNEM3VEUxUjZNbGNrZmV2Wl9qVENOaENibGhUbHctQ1gxa09jRHNQYWw3MGNyQ014YWFiTzdYZ0xPNkI5RDg5Uzd2dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T07:00:30+00:00"
-    },
-    {
-      "text": "Hong Kong's Tiananmen activists convicted in national security trial - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQTVYNHFydWprakYyQXJNeWVHejVJeWN3eE0tT0VxOHE4SXFBVUVuakRUU1hON2JJeTF3dkp6T3RjcFd1TmRueUl4TTBpZ3Q0eHJwM2hjUGtOZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T05:47:32+00:00"
-    },
-    {
-      "text": "Grading the 49ers After their 41-17 Preseason Win Over the Chargers - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTVoWTVYVkhPcmlvWnNjSDdOUEdkTWoyZ09yMVNQRGxkamtpeWdoYldNSTJsX0h3S2ZIdnRVSjVENXdHNldxN1kwUGFKNWRvQlBpelJNaDdWeHhqT2FfTUFwZXBBY245TEtFOUVHd1lPbG9aVFhuaWUyR2hPR2RNZFhXRzBMZndiZlRtQ09rSk0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T05:11:47+00:00"
-    },
-    {
-      "text": "Opinion | Federal vaccine drama is causing great confusion. Your questions, answered. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcG4tWktJeURyVm9nYlduUHFqZk9IcTFmVjdlMWdEeENHanRkVThDcWVwaXlGbV9tMlR2OHBxVUx3UGpWLTlvNnl1aDRMaksweV9tQmdjVWswQ3hnQTRpUFFMd3BKY2d0RzMxU3dNei1keTJSenIyc1ZocHdQVGJBNmhFLS1pc0JScndCMHJDU1BObUpURTNTOUo1OHF4bkV6M2YyV3BUZEJiU2xCSmxDR3NCQnRWLUlnWFE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T03:30:00+00:00"
-    },
-    {
-      "text": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran",
-      "url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
+      "text": "Spike in ‘Dark’ Oil Tankers in Gulf Raises Risk of Catastrophic Spills",
+      "url": "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T02:58:51+00:00"
+      "time": "2026-08-21T09:02:46+00:00"
+    },
+    {
+      "text": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T09:02:01+00:00"
+    },
+    {
+      "text": "How Harvard’s Epic Fight With Trump Is Costing the University",
+      "url": "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T09:00:05+00:00"
+    },
+    {
+      "text": "Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T08:55:29+00:00"
     }
   ],
-  "col2": [
+  "col3": [
+    {
+      "text": "Pa. measles outbreak has reached Allegheny County - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pVT3FPUDdyOTYwR3l0bVcwQWpzSDFobkd1TmdOLXlkeHlRV2ZvYXlXdkFoN1V6OWxQbVY4Si00SUpDMEpEYVFYRlM2Ukk4WG1uNUM5TTlGYTdrZ0k4MnpHeGFMOEhsOVhTc1l2S2VndUczUUNWNl9DbFZyeFQzY1ZJOExzcC1zTTZQTnE4R1JBOUlZaWtHdEF2RjZiZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T09:39:35+00:00"
+    },
+    {
+      "text": "Giorgia Meloni Has a Lot to Say: The Takeaways",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T09:04:12+00:00"
+    },
     {
       "text": "The China Shock 2.0",
       "url": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
@@ -107,105 +181,31 @@
       "time": "2026-08-21T09:02:36+00:00"
     },
     {
-      "text": "Charter plane crashes near remote radar site in western Alaska, killing all 8 on board - CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T06:32:16+00:00"
-    },
-    {
-      "text": "Rosie O’Donnell Ends Late Night Stint With a Ditty to ‘Donny Boy’",
-      "url": "https://www.nytimes.com/2026/08/21/arts/television/rosie-odonnell-jimmy-kimmel-trump.html",
+      "text": "Giorgia Meloni Cuts the Hard Right a Path to Power",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T05:44:38+00:00"
+      "time": "2026-08-21T09:01:20+00:00"
     },
     {
-      "text": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWYteDRBcHMwRkVvaExPRVoyTVdQVkpsaFZwNnJVaTQ5MVVrX1hrVG11Z1E5Vkh6VHpvQUpTMEkyZVE3TFlyTTE1ZHdWRjBYLXlhMEFqM2kzYVhLbFcyVWxFQzhQNzhfaENpNFNWbk1aTVF6TE1PUFVuYW9kQXR6dDZPU0dpNTlkb0libzF6QQ?oc=5",
+      "text": "Amid intense backlash, people are vandalizing Flock surveillance cameras - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUhwRXUzM1JGdmtVZ0RlZmZ4c0t4S19nc3pZak5lNUt0ZkZvanh0S1BKeWttZUdjTGJIRHhHZmt3NUFtc3o5d0E2SU5hRHYyNERYNlUycWN3RkRfaFlRUmdQRXdDQ1FBSEpNOTIxXzdzdlhfLUw1YkhQYXl2MGRVZzhOY29UbjZabGN4VHc4d3ZyV1JNVVgtcmJn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T04:40:53+00:00"
+      "time": "2026-08-21T09:00:00+00:00"
     },
     {
-      "text": "Navy may name new aircraft carrier after Trump and not WWII hero - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEphcnFSd3lOQnRNczZCLW9rSHpnczA5OE5lYmxkMVNGdzU4OWl6ZUNuLVhPcTdqSjA0Tnd4NDBURHYxS3hWMkpxcXNONm5iTGY2WnBMODRfY3VIaDR1V3hBRjN6MnhBU3h2alhzeVhKTHh4Tm9rWmVjNUlEMF80ekcwd0JuVC1ZUmM2NFZNY2h6T1pBeEw4dXhMWGhOUDM2el9IeDBfOVVqTkNzUENweTFIdTh4Zk0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T03:18:00+00:00"
-    },
-    {
-      "text": "Storms cause flood, tornado warnings in New York City, Tri-State | Live Updates - ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTRVekZ2V2RMaUJId0NCT1FIcjRKMkVwSVlFQW5RaFNfU0d0eHQ1Q2owTTVlbXIxQTZnTFEyYkplSDZhcV9LaXUwXy1uNWlqcmtyWF9xcXk4U1JRbHJadWdEdUNKMGtoVU1LMEJVT2lveTh4UHk3Qms3OENXeU1vUWRNTW5qX1dDQWJJTmlRRGF4WUE2enp2WWI2WXplSjJuUUdINFVNNzRzVGd4SkJXd0VIUXQ2UWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T02:49:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T07:25:27+00:00"
-    },
-    {
-      "text": "Stocks and Bonds Rise as Oil Halts Run of Gains: Markets Wrap - Bloomberg.com",
+      "text": "Asian Stocks Set to Fall as Bonds Resume Decline: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGs3R29oXzVEVlA0bHFwajZ0cjhDQmFGNnZqbDYwcEFtcmdxM2NvWFBXMTNXN19xcW9kVDZPMnlFNWdGMkh2WHpydVlIOHhBcTZnUnlxc0lXSVRwYVczS0tyanBnNnQtRXlqYTRBaWZVSVFibEtPMWdrMEhfbVVfVnRSRmVOSGJQNFZOQjBtZEpPcUND?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T05:56:00+00:00"
-    },
-    {
-      "text": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting - NPR",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVJoM211SWRuc0pHazUtcC1pNlkwUDNHR3F6c29WTFpkZTVTdXp5cGZKd01qenV0d0lKRXRaWkExWlE0OHFYOVdheGNrTnRHMkdYOXJRcmNUeUNGSzllTE9lOENVVDVBanVoeGQwNXhVamN3LTVMdG9qaGRIWGFiOVlJV3JjNGk2VnlEdF9oeWNaOGxuSDg2eXJxdEFLQzFSQmowaUtfSDlOZzlwWE9lY19VTXdtTHpiVUE3WVlSY3Y5TjhFMEVXRFlQMzBPY0xEWWxxSUdB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T05:41:15+00:00"
-    },
-    {
-      "text": "Orban’s Office, Thrown Open, Is Not the Den Hungarians Expected",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/orbans-office-thrown-open-is-not-the-den-hungarians-expected.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T04:01:10+00:00"
-    },
-    {
-      "text": "Chris Hansen Was Not Asked To \"Sign Away\" Rights At 'Primetime' Screening - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnkyd201S1ZtYjlUUlJ3bDdJZDJERFJEdlJJekNsRDFjUm9GTVBGMkVMY1R0dVFIUlhfaHUzaVBXZFZ0T2xDZGlkUERVODdCNDFBUEVPWG0yZUxrb2N0QTg5TDFCYnRodUhoM1hIandDR2VvVXNsVlBETjF0XzdEbzdSQ0Z5a3MxQ1hKUF96dmFnQW1XVDJMdQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T03:02:00+00:00"
-    },
-    {
-      "text": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T02:43:00+00:00"
+      "time": "2026-08-21T07:47:51+00:00"
     }
   ]
 }
