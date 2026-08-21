@@ -1,17 +1,55 @@
 {
-  "generated_at": "2026-08-21T17:36:29.096216+00:00",
+  "generated_at": "2026-08-21T18:13:25.429107+00:00",
   "lead": {
-    "text": "This sleepy sector could offer big returns, says Mike Khouw",
-    "url": "https://www.cnbc.com/2026/08/21/this-sleepy-sector-could-offer-big-returns-says-mike-khouw.html",
+    "text": "Stocks rebound after sell-off but remain on pace for weekly decline: Live updates",
+    "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-21T17:31:40+00:00",
+    "time": "2026-08-21T18:07:40+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+      "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-21T18:03:24+00:00"
+    },
+    {
+      "text": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T18:01:38+00:00"
+    },
+    {
+      "text": "North Carolina Senate race between Cooper, Whatley tightens: Poll",
+      "url": "https://thehill.com/homenews/campaign/6043934-cooper-leads-whatley-nc-senate/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-21T18:00:20+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+      "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T17:57:27+00:00"
+    },
     {
       "text": "Case Challenging Mamdani’s Rent Freeze Is Moved to Manhattan",
       "url": "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html",
@@ -19,36 +57,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T17:25:59+00:00"
+      "time": "2026-08-21T17:26:00+00:00"
     },
     {
-      "text": "Stocks rebound after sell-off but remain on pace for weekly decline: Live updates",
-      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T17:21:11+00:00"
-    },
-    {
-      "text": "Sanford backs Norman over Graham in South Carolina Senate runoff: 'Stakes are simply too high'",
-      "url": "https://thehill.com/homenews/campaign/6043756-mark-sanford-ralph-norman-endorsement/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-21T17:08:27+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "The Next China Shock Is Here",
-      "url": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS2J3dS1qa0VEMmQ3N2doSFlOSHF4MTlJeXM3bDhTc21RVnQwNTNuU1NYbFpjenlleS13UFhxU0dhcnktV2E3cWxMRHJiWmtyX0t2RlQzajhYajcybThVVFJuNTRMbGVfLXhXdlNHN2tzSWlxVnloUi13LXBLdXJFUGdPZDczMlRFeDd0VFJtcjljRkJfUWtXTzNCajlPTkZiMjRwYnBaRjI3ZXdsbzNYXzFtbkJlbVJ0QVVOcEl1MldwTVJLQzB2Rk5Gc3RkdmZBdXMxMURTLThZaF9GaVRTSEZUQmRuMXlEYlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T17:06:13+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T16:59:21+00:00"
     },
     {
       "text": "Restaurants inside Freedom 250 race zone say they’re seeing less business - The Washington Post",
@@ -60,78 +78,33 @@
       "time": "2026-08-21T16:40:35+00:00"
     },
     {
-      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
+      "text": "Livestream, live updates: Defense in Lindsay Clancy trial rests, rebuttal begins - NBC Boston",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkpZZ3RVNlpOUlBPa201MzlYZGNKdEN4R2lPVnZkY0k1ZHJzUUd3eURCSVpJdERIZzRsRWVnM1RPbkQ2RzdhUVhsRFJ1Ry1fczhRWS1vajduYzNRaGZnYjdrUEdZUWF1TDlqaW5tTjFrS01zT2g3V2VUMDAtV1NSbmp0d3RMQlJxUGpfOURiYno1M0taZWExdGVLQVRvMzTSAacBQVVfeXFMT09LOWE5em0yRzR4SnFSRnpMdndpLVM1VC1hSm5VLTNyRTNaTlRET2plZ3JNRVdFeFlzRWFXOUowYWE5U01xSHlMN2dSVE9pMnRXUkI2TTRrODFUUVluRzRDTmRZYWxsNEljU3FUbzFxUmhJMEcxZnQ2dWlUamo3MHdjQ3NtOW5La3VaY1ZxaGQxWkQ4Z2FhRFZOcG9GcjdTaHFocDB3U2s?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:28:02+00:00"
+      "time": "2026-08-21T16:25:11+00:00"
     },
     {
-      "text": "Kim Zolciak’s 15-year-old son KJ Biermann arrested for sodomy and sexual battery - Page Six",
+      "text": "Kim Zolciak’s 15-year-old son, KJ Biermann, arrested for sodomy and sexual battery - Page Six",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnBTbU1mck9IU0lGdVdRYWFEV3NPVHBRYUd5a0RYZFJudDU2LWp4d1FGdHJaYXlRcG1BVnJJMERGc1V0LUREazZpQWRMUDc0NDZMQjVDaFFPQ1dJaWhOLU1kZDh5djZjalpzSHpCdWRsN3RPNU1TUEpmTk5pMXQ4UkpEQlI3NzZHcGJabFpRQkNWUVVqN2pnVWZidkFCaFo0SkhLVzZEMk05dkdsUE95aHhwNWo2eWUzazZ3bF9BSlVwbG1l?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-21T16:14:00+00:00"
-    },
-    {
-      "text": "Eight die in plane crash at remote Alaskan military site, air force says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMWpRVXlwM3BCSldIekxzaUFudkI0Qlh6d1RoV29EbmNGeEE5cGFsYUp0V0pRZXlPWVBhZDJISms5Q1ZtUDFJSkZXdE1mTWR1UkJvZ2hWa1hMdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:05:09+00:00"
-    },
-    {
-      "text": "Gazebos From Uzbekistan: The Latest Foreign Gifts in Trump’s Washington",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/uzbekistan-gazebos-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T15:54:58+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Should You Invest in Bonds Right Now?",
-      "url": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T16:48:03+00:00"
-    },
-    {
-      "text": "Live Updates: Iran looks to boost regional trade ties as U.S. turns from bombs to economic warfare - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kam8wUzBnbm9NT3lVYWFjNFhIS1hXaEhlWVVtTkF6SEtVeXk4WXhEZjFTcWdUaXZxQS1RZFYyOFcyZFNocVVVdWhrT3EtbnUtdzBWdUswZ2VDX1FmX1MwTHQybXZDSE82YzFJb185UXRUZlFkeHRlZGFKcw?oc=5",
+      "text": "National Weather Service confirms tornado struck Atlantic Beach on Long Island - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tWFpfTXo0S1FBMG9JUTNqS19DVkNtbWhsdG82amZmRXdrVEVhazdJQkM3ZzljQlFxTEJzX01CVklVaDA4bndqNzdQNk9yZHEza1NoNmJhQ0MtTG9IX2U2R0ZRYlZIZ3Q4aG9PTG9OcVZjNkpkeF9R?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:37:00+00:00"
-    },
-    {
-      "text": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T16:24:10+00:00"
-    },
-    {
-      "text": "Trump pauses quota tariff on 300,000 tons of beef ahead of midterms - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1puNWxDaU1mUS1wN0xxZUpIaWxIV3dQSmxxZXdiY1RnNG82TXJvbTdNbmo1OUNnMWg1RWwzazEyMFYzdmR3YUM0aDdSVk1ncEpPTGU2RHB2Y2Y2RGVUWkVQYUNCcmJQMU81X21FYWVMS19Zb3NraWdKNHdldy1UT3NwZTBIaHdvNWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:08:00+00:00"
+      "time": "2026-08-21T17:53:27+00:00"
     },
     {
       "text": "Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates - WSJ",
@@ -140,36 +113,25 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:03:00+00:00"
+      "time": "2026-08-21T17:26:00+00:00"
     },
     {
-      "text": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T15:24:03+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Meghan Markle Eyeing Acting Return as She & Prince Harry Move to U.K. - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUpFQXFhem1wZjg4aGlLY0Y5UlpYZHpNeC1XaUVRcFhtVDE3anNjUmxDR3BNTDloelg2bFl1dEQ2NDY5SnhIOFJQUHJKbkxYTjNnRm9FVU9tOGxZZUlTdHp1aHlKdnhtZklBMTc4aU5lTHlrUkJqRk9uWHVfTlhEc0xxTGU5V0xhTjFBaFBGSWRfUWhVTUQ0YUswb0cxYWVEVmY2bmYwel82ZW5taVk0?oc=5",
+      "text": "Trump pauses quota tariff on 300,000 tons of beef ahead of midterms - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1puNWxDaU1mUS1wN0xxZUpIaWxIV3dQSmxxZXdiY1RnNG82TXJvbTdNbmo1OUNnMWg1RWwzazEyMFYzdmR3YUM0aDdSVk1ncEpPTGU2RHB2Y2Y2RGVUWkVQYUNCcmJQMU81X21FYWVMS19Zb3NraWdKNHdldy1UT3NwZTBIaHdvNWc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:46:28+00:00"
+      "time": "2026-08-21T16:58:00+00:00"
     },
     {
-      "text": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
-      "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Winners and losers from sprint qualifying at F1's Dutch GP - The Race",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnJNa052bXFRMjlkN2liaGpLTWwzd1ZEQzl0Nlk2VmRYeFBhZ18wd3BzS0phWU43TUpYQXF2QU03NHpSZzNHZWJRNmlWSGlJTl9RQnFTNEk2cnptN0xVM1Z1bjNucnBodHRNUXIzWmRWQ2lFVFpRb2xNQktWcm9uZ2pRRDNfRGZa?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T16:36:37+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T16:37:16+00:00"
     },
     {
       "text": "How New York’s Second-Home Tax Turned Into a Headache for Mamdani",
@@ -181,6 +143,62 @@
       "time": "2026-08-21T16:16:04+00:00"
     },
     {
+      "text": "Meghan Markle Eyed For Role In Guy Ritchie’s ‘The Gentlemen’ Netflix Series – The Dish - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2Fzbmcyb3lwSE1rRllmSW41b1RpU0ItT20xb3loOGUyMmdqYnZZcGNFS3ozX0ctdUFiNkVWZU5scnU3UkJDNWxuR1FtbVdSZHg1OTJrU0l2SnJ6NG51MmZ4bGEtaHprSEdWUnZKUFY1X1NIUkI0VHpTa05HcVJPOHRmcVV2eFZrSWNzb0FyRzZRRXl3bktrR1pmOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T16:09:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+      "url": "https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T17:46:31+00:00"
+    },
+    {
+      "text": "The Next China Shock Is Here",
+      "url": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T17:06:13+00:00"
+    },
+    {
+      "text": "Should You Invest in Bonds Right Now?",
+      "url": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T16:48:03+00:00"
+    },
+    {
+      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T16:28:02+00:00"
+    },
+    {
+      "text": "I’m a Former Dean of Admissions. Colleges Shouldn’t Be Paying Rich Kids to Enroll.",
+      "url": "https://www.nytimes.com/2026/08/21/opinion/college-financial-aid-wealthy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T16:16:01+00:00"
+    },
+    {
       "text": "Rare South American Diseases Offer Clues on the Next Pandemic",
       "url": "https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html",
       "source": "NYT",
@@ -188,24 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-21T16:06:45+00:00"
-    },
-    {
-      "text": "Why Do We Keep Imagining a New Civil War?",
-      "url": "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T15:57:20+00:00"
-    },
-    {
-      "text": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T15:23:39+00:00"
     }
   ]
 }
