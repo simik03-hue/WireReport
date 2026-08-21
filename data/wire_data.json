@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-08-21T21:42:07.228778+00:00",
+  "generated_at": "2026-08-21T22:02:09.776833+00:00",
   "lead": {
-    "text": "Appeals court slashes Alex Jones Sandy Hook judgment from $50M to $1.5M",
-    "url": "https://thehill.com/regulation/court-battles/6044473-alex-jones-appeals-court-damages-cut/",
+    "text": "Trump defends beef import plan after GOP blowback",
+    "url": "https://thehill.com/homenews/administration/6044555-trump-suspends-ground-beef-tariffs/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-21T21:36:36+00:00",
+    "time": "2026-08-21T21:59:15+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Live updates: Trump lifts beef import tariffs, heads to South Carolina to rally for Graham",
-      "url": "https://thehill.com/homenews/administration/6042837-live-updates-trump-graham-south-carolina-national-debt-white-house-ballroom/",
+      "text": "GOP raises concerns over Trump lifting certain ground beef tariffs",
+      "url": "https://thehill.com/newsletters/business-economy/6044524-gop-raises-concerns-over-trump-lifting-certain-ground-beef-tariffs/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-21T21:31:39+00:00"
+      "time": "2026-08-21T21:54:53+00:00"
     },
     {
-      "text": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms",
-      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+      "text": "Boeing engineers, technical workers reject contract offer",
+      "url": "https://www.cnbc.com/2026/08/21/boeing-engineers-technical-workers-reject-contract-offer.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T21:31:24+00:00"
+      "time": "2026-08-21T21:51:22+00:00"
     },
     {
-      "text": "Staten Island Becomes the Place to Challenge Mamdani’s Policies in Court",
-      "url": "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html",
+      "text": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-21T21:50:09+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T21:30:57+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-21T21:46:56+00:00"
+    },
     {
       "text": "Desperation Mounts in Indiana After 10 Days Without Power",
       "url": "https://www.nytimes.com/2026/08/21/us/gary-indiana-power-outage.html",
@@ -51,13 +60,22 @@
       "time": "2026-08-21T21:25:41+00:00"
     },
     {
-      "text": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
-      "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Alaska plane crash near remote radar site kills all 8 people on board, U.S. military says - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d1hFZV9ienB1SHZGRkFSQzVGTllwQ3NWd1gwR2o0ZE14WEFBUWVwVzk1aEw4UDNNU2RCS0dmbHhJT19WcHlXRGV6NUx1YzZ3SURVQXFRbXpsY0xWZm9SQWhkbXc5TUFrOGRqakdZRlhSa3RJM0wyQVlR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T20:49:35+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T20:57:07+00:00"
+    },
+    {
+      "text": "ChatGPT On Mac Can Now Read And Respond To Apple iMessages - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56Zno2X2Uwd3ZQV0xBRlNsR19tQld4WmxkSkgzY0U1SEJwb29DWjQyQl9zWUhMeFFFa3BDbFNSTnNmUXFFN1FEN213NFNILW5LWWVvNDJ1b0NZMk92N0QydFJuM0p3SjZJQnhleVM4QzRnZ1pwTGpYUA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T20:37:14+00:00"
     },
     {
       "text": "Supreme Court temporarily allows Trump ballroom construction to continue - NBC News",
@@ -76,36 +94,9 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-21T20:05:15+00:00"
-    },
-    {
-      "text": "5 Deportees Are Flown by US to Equatorial Guinea After they Resist Deplaning in Liberia",
-      "url": "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T19:49:12+00:00"
-    },
-    {
-      "text": "Stars and Stripes editor says he has been fired for insubordination after doing interview - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUdoUkpLcFVnOWFKMlJ3bkZLR2VKMndOal9mR2QxMG5JMl9ZeUJXd21Relp6OUgtd1FRTU8wSmFkczh2YjVBQ3FjQ190MjY2dER4WnEwSkZtWFJQT1lqWFhSTHNFN2pGRVBIVUh2cTFiTktZd2RINHVxc2w1UjFvSUZFU2w1b2RiSWZfTTlDY2xMRkdHZDREQXo2aU5ZYXFC?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T19:17:00+00:00"
     }
   ],
   "col2": [
-    {
-      "text": "I’m a Former Dean of Admissions. Colleges Shouldn’t Be Paying Rich Kids to Enroll.",
-      "url": "https://www.nytimes.com/2026/08/21/opinion/college-financial-aid-wealthy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T21:05:12+00:00"
-    },
     {
       "text": "Meghan of Sussex Eyes Role in Netflix Show ‘The Gentlemen’",
       "url": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
@@ -113,7 +104,34 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T20:43:46+00:00"
+      "time": "2026-08-21T21:38:47+00:00"
+    },
+    {
+      "text": "Trump threatens $5bn lawsuit over liberal National Guard policy report - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFlteUhYa1RJY3NkVWJRNHNoYThuQ1kzX1gzUzRtaVhYQWVBem52OFV6WUtoc2psekVDa2VKYlp2VE54MktGajRvRlJKUVJWYnZCTzdHMWVsSllRekVNa2JENlJSOG9Kby1rcFJmQlU0VDBYUkVha0ZnaDVWUkpaTVhfV2xzZmNCTzRxM21fOFJwcGtQSVFNaUdDbUZqdG1KTzdn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T21:17:00+00:00"
+    },
+    {
+      "text": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+      "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T20:49:35+00:00"
+    },
+    {
+      "text": "Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists",
+      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T20:35:40+00:00"
     },
     {
       "text": "The Case of the Disappearing, Reappearing White House Ballroom Stairs",
@@ -132,44 +150,44 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-21T20:02:00+00:00"
-    },
-    {
-      "text": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
-      "url": "https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T19:37:41+00:00"
-    },
-    {
-      "text": "Mark Zuckerberg Buys an Irish Castle",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T19:16:03+00:00"
     }
   ],
   "col3": [
     {
-      "text": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
+      "text": "Staten Island Becomes the Place to Challenge Mamdani’s Policies in Court",
+      "url": "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T20:56:30+00:00"
+      "time": "2026-08-21T21:30:57+00:00"
     },
     {
-      "text": "Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists",
-      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
+      "text": "I’m a Former Dean of Admissions. Colleges Shouldn’t Be Paying Rich Kids to Enroll.",
+      "url": "https://www.nytimes.com/2026/08/21/opinion/college-financial-aid-wealthy.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T20:35:40+00:00"
+      "time": "2026-08-21T21:05:12+00:00"
+    },
+    {
+      "text": "‘Trump in purgatory’: A White House plan to lower beef prices is dividing the president’s supporters - Politico",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hY2JYOVVTRUVXQjlpWWtYRVZfbnZtc2ZZYjZUSVM5dmNEREJIZmVBMVJ3SDQzZDJDOVRtVTI0RGxRZ09vUjg5dl96eVRjdkU4aHl4YU94VG5ULVc1MGxla283eXF6S3E3Q3R3enZfQW9EZGJI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T20:45:00+00:00"
+    },
+    {
+      "text": "Trump loyalist Ed Martin is leaving the Justice Department to focus on election ‘legal battles’ - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVFzbGlXNTl0aDNoNEtSUFhwYm1KZ0xhd3FyRWVNNEE3MTZScklvdVY4RjR6WHZMWXp0ck4tWmQyam9NODF0OW5uc2JERXBoZG1BcTlMRzZlTmVUWXM4R2cwcFFFanFrWjY1NWlXak00Y2swTmc2ZGVxZXNWZ1VuWDVDdjRjaEx2OTJqd2hLVWVHZ3FzbldXMmpzNG0xbGdKUklWVjlR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T20:33:00+00:00"
     },
     {
       "text": "One killed, three injured when man attacks Swedish school with sword - Reuters",
@@ -188,24 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-21T19:52:00+00:00"
-    },
-    {
-      "text": "Ed Martin leaving DOJ for outside legal work tied to elections, Trump says - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTBteERCQ1hYQ2RyZzdQYkhRclBLQU5qckdDZlBMNnozUmttYzc2dE91Y3U4MUg4cG93bGQzcm5HVDVKQWpBSEZCbzU3UDZjMDF1b1YzUGNUWVZDRmVJT0c0TWdzTWpuN0lHVHZ5Q2cycnJ3LXFudzRGaS1OTTVlT041Y2gtakpiRWFCQzVfMA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T19:31:00+00:00"
-    },
-    {
-      "text": "Watch Live: Lindsay Clancy told children \"go to God\" during murders, prosecution psychiatrist says at trial - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnRNd2dIUldfR2JSc2ZXMTkyUGdMVHhaRmVQalhWdGRtU1doTV9iRHJ6MlJMQ0JmTFJ6UWNoMlZPczVMQ3NleDNvT1JvQ0hsa2hINEZJeVNQVG1IUkgwbzBYUFNkZ2w4MEZiLVBsUEJBMVk5dlR4dF9oblFvYjBWTUtHSDdnbkUzcXZxbkdDUVRpRVVScXhFbEJn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T19:01:32+00:00"
     }
   ]
 }
