@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-08-21T14:08:52.019586+00:00",
+  "generated_at": "2026-08-21T14:55:35.085248+00:00",
   "lead": {
-    "text": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-    "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
+    "text": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+    "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-21T14:06:15+00:00",
+    "time": "2026-08-21T14:54:40+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Live updates: Trump campaigns in South Carolina, Vance heads to Ohio",
-      "url": "https://thehill.com/homenews/administration/6042837-live-updates-trump-graham-south-carolina-national-debt-white-house-ballroom/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-21T14:03:27+00:00"
+      "text": "Trump Threatens Suit Over Report He Doesn’t Like, Aiming to Intimidate a Critic",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T14:51:53+00:00"
     },
+    {
+      "text": "S&P 500 rebounds after sell-off but remains on pace for weekly decline: Live updates",
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-21T14:50:13+00:00"
+    },
+    {
+      "text": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
+      "url": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T14:48:14+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
@@ -28,7 +48,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T14:02:45+00:00"
+      "time": "2026-08-21T14:47:03+00:00"
     },
     {
       "text": "Rachel Cusk on Her Novel ‘Life of M,’ Gossip and Natalie Portman",
@@ -38,17 +58,24 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-21T14:02:01+00:00"
-    }
-  ],
-  "col1": [
+    },
     {
-      "text": "Stocks and Bonds Steady at the End of a Tumultuous Week",
-      "url": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
+      "text": "N.Y. State Senator’s Former Aides Say She Double-Billed for Travel",
+      "url": "https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-campaign-expense-charges.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T13:56:03+00:00"
+      "time": "2026-08-21T13:47:53+00:00"
+    },
+    {
+      "text": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU2tmbVlWOHdGT19tdnFrRnRSMzY4ZzJtUTNhV0xHVlZlOERZVGJtaHlMR3ZVT2IySVJfamFjS3JBUFlXZ1QxUnF4VzJWdnNacDEyeGp2a3p0a0pGS3RINTZZNTJIQ1FFX0hhWlBENWFSM2VPMlhvX21rOWZEalR6Ump2dFdrZEE4bkxZTWxneFXSAZYBQVVfeXFMTlByT2dSRUliWjY3SG9jU1MyNzkyVDJsNHhERkExdU8wSzAwcXR4YXVtMWY3dld3bzByRWVndFB1TnV0LU54eWZQNDduTmFaaG5jNl9QdFhaeXA5aWd0eGlTc3lRVUI3VnYzRG1kZnhNQm1fT0J0NVJ5WGRiTzNZT0FWMDZydFhsVG1UT0c0eWk4WVVqa09R?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T13:24:03+00:00"
     },
     {
       "text": "Fernando Mendoza: Thursday night taught me there’s a lot more learning to do - NBC Sports",
@@ -67,7 +94,9 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-21T11:50:44+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
       "text": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
       "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
@@ -75,36 +104,34 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T11:38:31+00:00"
+      "time": "2026-08-21T14:41:39+00:00"
     },
     {
-      "text": "Peru earthquake damages buildings and causes power cuts - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yVUhMLXRiNUVBLVJnOWRmd1dUdzYyUXg3NEpLSExHNnpTMUw5Sml0OVRid1g0RGtyTW5PRmd6UW9iUkFxc3hQNkp0ZHJtWVMzU1VlMFNYSm9ZQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T11:14:38+00:00"
-    },
-    {
-      "text": "Charter plane crash near Alaskan military site kills 8 - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2ZrUVgweTFyMFdyOHBPV2JnLXRzR0NCeGkxWG5XRU4xMHZXTkJTblRVbEVWMEIwaERuSU50R1owc09BWWJCc2xiNVpybVN4M1JhSDJSdUVUYjJhY19taHVBZnpnU2lqeUtmVnNPQmxfWGp4cXJiTkNhdzNfTDRPbUlqSTFra2YwMFdZUFkzaUNuMnA0NEY0cEhZQdIBoAFBVV95cUxOVlJvMzYwdE1CN2NBY0NPTG9GVkF5U0V5bV8tYkpfOE9xMXlTdl96aVk1T0FWMWE4eXE1dmRmbDNoT3FNRnBZZzJKM1lneElYS25UakpLNHA0b0RlWjlRb0MtTUpDMF9VcFVSc2FSTkQtdzNOQUY2Mk40UHd1UU1WWjNxblY4OVBldTdTLWtERTVXR1BMSWliUGdTTF9YQTdH?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T11:03:45+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "N.Y. State Senator’s Former Aides Say She Double-Billed for Travel",
-      "url": "https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-campaign-expense-charges.html",
+      "text": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T13:47:53+00:00"
+      "time": "2026-08-21T13:57:02+00:00"
+    },
+    {
+      "text": "Stock Market Today: Dow, Nasdaq Futures Edges Higher; Yields Steady — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T13:38:00+00:00"
+    },
+    {
+      "text": "How Harvard’s Epic Fight With Trump Is Costing the University",
+      "url": "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T12:52:29+00:00"
     },
     {
       "text": "The 2026-27 Premier League Power Rankings - The Ringer",
@@ -123,53 +150,53 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-21T11:42:48+00:00"
-    },
-    {
-      "text": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom - NPR",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2k2TWI5enZ2V2Ffajl1SGcwQWNyUXQ3dmpjdGRyVlFVWG1qWVl6VnBpVXZVSHNEWDZvQWNwclNCUDRqZW51MUl2aUd4b1UySEluajVEWDNMNUxNVjE0alpTbGk1V3FLbkU5em9ndVpnWVEyOUgzSU1IbzlET0lMVEoyc2g3NjhKVGJOanRoVk9KTGxNTmxkbjZjLWNlT1RlVE5YWGtFakhRU1NFMmg5ZjRRUzk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T11:25:10+00:00"
-    },
-    {
-      "text": "DRC Ebola outbreak 'growing exponentially,' UN says - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MV2lHX3IwbjVBZWZiR0FTbEpuOEJTdFo0SThSbC1XZm5oSEc4RHhIaFJvaU8zVF9Ma2FhQ28tNjRkdzVaQkR6OWZiRkJzTXN6QnpsaXVhR3QzN240RG1KeWhIb3dDeGdXM1Rv0gFrQVVfeXFMTmJlSVlWaDE2elVYbEttRXN4V3RKbVNYSVY2WlctMjA2VGlzUGp3QzNSeHc5VnBCYlo3alJZc0VtcWR6bG1yb1BMd2lKTVc2WEFTai1IOWRpajhkX25VWUtjWUlXdWxLNERKTW8?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T11:13:10+00:00"
-    },
-    {
-      "text": "US, South Korean militaries wrap up drill early, a day after North Korea’s missile barrage - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXJVTUlzZW43bGVHNnMzWmxlXzVxc1NJVlZkQ2RvWHdfaHZfbUVTb2lHUlI4bC02NHVJcFl4dDNraE5RYUJpbjdrQTdadlFiNFpwczUyMnN0QkxJMXBSWGItZ1pVUGRBNW9kdVk4VUk3Ym9KUnZxRTNSV280UV9iMmRtb3JVTjZOUW5QSWdmS2FaLU9MT2lINWJEekZFZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T10:59:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "How Harvard’s Epic Fight With Trump Is Costing the University",
-      "url": "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html",
+      "text": "Rare Tornado Hits New York City as Storm Drenches Mid-Atlantic",
+      "url": "https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T12:52:29+00:00"
+      "time": "2026-08-21T14:38:36+00:00"
     },
     {
-      "text": "Trump Announces Beef Tariff Relief — and Takes Jab at Biden — in Bid to Cut Prices - Mediaite",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTlNaemdxOUlHRGpWeTlBUFZBVjdWNEVTdWpuSDgtNzRPX2FBS3VpVXBrZ3RGSkdrcnVWc1lkUXdSQkJUd2Q3LTdxeUtrMGc4QkRNSHZ1aVhTVHZzOExQOG5rdHNwYzVqYmowY3M2NzBoX3lxRXVPcnB1ZFdxaXUtN2VGM3ctczk4bmwyZnpvWG55Ry1zdHd3N0dtZldRZEpXYW05bnBmUkt1bnVidVBhX0hqeEszUQ?oc=5",
+      "text": "Stocks and Bonds Steady at the End of a Tumultuous Week",
+      "url": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T13:56:03+00:00"
+    },
+    {
+      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T12:00:00+00:00"
+      "time": "2026-08-21T13:26:03+00:00"
+    },
+    {
+      "text": "Watch Live: Lindsay Clancy trial jury to hear testimony from Dr. Phillip Resnick, key witness in Andrea Yates case - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnRNd2dIUldfR2JSc2ZXMTkyUGdMVHhaRmVQalhWdGRtU1doTV9iRHJ6MlJMQ0JmTFJ6UWNoMlZPczVMQ3NleDNvT1JvQ0hsa2hINEZJeVNQVG1IUkgwbzBYUFNkZ2w4MEZiLVBsUEJBMVk5dlR4dF9oblFvYjBWTUtHSDdnbkUzcXZxbkdDUVRpRVVScXhFbEJn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T12:50:37+00:00"
+    },
+    {
+      "text": "U.S., Canada near final trade deal as Trump tariff deadline looms - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1ZYMDNmNW1FcnpRMFVDVi14aUk4bVdjUDFQanlQTUZXOFY2cU5CaC12aHgyVTV6ODl3Y3JuRmVvR1FVQWNHZkFFLXU1aW9ONVRXVTZkNThYTnk2ZGdORXgwQWVIOVVyd2dCc3RsRkRhUXZWY3JxeFB5V3ZENk90MkJUb9IBiAFBVV95cUxPSEFmZFdKeGJwbXFJbTVPRzdrVko0RG1nMmxKMHRjUW1zMVdZMnpvUEVFYnNLeUdpWmt6MHFQb0kydlpKWTI2Z3h2RXJuSWpBcERMNFpmX3JsV2tlRUpqeGVmZUhPalRra29NTmNIcmhZSTVocEk1UnVueTJfWm1sblE2M0hxX3d6?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T12:17:29+00:00"
     },
     {
       "text": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson releases statement following her death - Yahoo",
@@ -179,33 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-21T11:40:29+00:00"
-    },
-    {
-      "text": "Democrats rally behind progressive Aisha Wahab after win in California special election – US politics live - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2hPbTVwYlZka056UDU2dWFROHNDa1BDZjFOT3RtUzg0anBWQjZPakY5R3dnRkF3a1NPVElnVnI2U3hoaFMxVEVsaE1kRW5jS3FfeVZHcGlNdHhHWVFVVHJvMjB2ZHc4NWk2d0Y2Q01tVGUzZ1cxYy1WdVlwR0gzdTI1WE9MSG54aUFlRVBCNUVlSHBKVDhkelhXZnVBQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T11:18:11+00:00"
-    },
-    {
-      "text": "Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T11:10:47+00:00"
-    },
-    {
-      "text": "US national debt tops $40 trillion: These charts offer more context - WTAE",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15RzlHcXhkZHpVX3MySjR2TmFYbnp4cmpzR2dCQXFIMGw2VzZ2Z0puUWw2cldFdzMyd054dWNwRnVsUE1DLWF1dUhnMjFIVG1WdGNvTEpDci1RUnpJci1qXzFQdGZMaTNzNUVGZjRfV24yZnc4WEpkMg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T10:59:00+00:00"
     }
   ]
 }
