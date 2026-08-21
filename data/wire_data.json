@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-08-21T03:12:12.434066+00:00",
+  "generated_at": "2026-08-21T04:04:57.236014+00:00",
   "lead": {
-    "text": "Hong Kong's Tiananmen activists guilty in national security trial",
-    "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+    "url": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-21T02:59:46+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-21T03:59:53+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Stock futures are little changed after a steep sell-off sparked by a move back higher in Treasury yields: Live updates",
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-21T03:48:55+00:00"
+    },
+    {
+      "text": "Vance: Bessent has 'very discreet plan' to shrink $40 trillion national debt",
+      "url": "https://thehill.com/homenews/administration/6042908-vance-bessent-national-debt-plan/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-21T03:10:44+00:00"
+    },
+    {
+      "text": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-21T02:59:46+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran",
       "url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
@@ -22,42 +51,22 @@
       "time": "2026-08-21T02:58:51+00:00"
     },
     {
-      "text": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says",
-      "url": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T02:48:10+00:00"
-    },
-    {
-      "text": "Markey, Moulton lock horns ahead of Massachusetts Senate primary: 3 takeaways from last debate",
-      "url": "https://thehill.com/homenews/campaign/6042780-moulton-markey-massachusetts-debate-summary/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-21T02:45:57+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Florida Counts Its Election Ballots Fast. Why Can’t California Keep Up?",
-      "url": "https://www.nytimes.com/2026/08/20/us/florida-california-election-ballots.html",
+      "text": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
+      "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T02:15:40+00:00"
+      "time": "2026-08-21T02:14:29+00:00"
     },
     {
-      "text": "Tiananmen vigil organizers found guilty of inciting subversion in Hong Kong - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?oc=5",
+      "text": "Tornado Long Island: Nassau County declares state of emergency; storm hits Atlantic Beach, Sun n Surf beach club - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzZkVWJvT0I5eWctZTA0cUNma1hYN3d6M0pWN2p5T1hackVxaUl1TjAxMVpqeTFLU2R3eUY3cWNMazRXSlJvcVE4Q1lCb2dmS1hsZTZvVUwzLTFCREtzYUl4am1TYkNhZ0hQamttRE9LREY1TEZyTWFhTjhKT05DUHF6eFBYVFFUcHZzc2MtWnUxYVR2SEVUR1N4UXlOWDJYZ1VCYWx0STNkNmZ6ZTJpdTdVVVJQblNja3RqM3UwcGZnMUlET0dkLXZxZG7SAdIBQVVfeXFMTUVwNkM0RUJBY2cweTZPVkl2ZWJNMnZ2VS1tb3ZnSDVPMUxaaVNpNWZPRzdRTF9hSUpwb1A1QW1iQTZ2Qk1uNW1uYmRrRTJfd2ZveGx6OFFlT0RGV1JYZDVacEJfSGF3b0MwTHRGNjd6elJKQUlJWHozZkxSN2NzSkhYdUlpa01YeXZXRlpfS3dfZ3hPT3E2OENSWlNmakhlVGVXdGRqYWE1ZzJFWld0c1NPWEN6TVBvZC1oZ1p1NHhyd01LSUtBa3NCWmozQUFNcW13?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T02:09:00+00:00"
+      "time": "2026-08-21T01:52:30+00:00"
     },
     {
       "text": "San Andreas Fault: New San Jose State University research finds fault is slipping faster than previously thought - ABC7 Los Angeles",
@@ -66,7 +75,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T01:18:45+00:00"
+      "time": "2026-08-21T01:23:41+00:00"
     },
     {
       "text": "Transportation Secretary Sean Duffy’s ‘Road Trip’ Highlights America, and Some of Its Sponsors",
@@ -85,35 +94,35 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-21T00:28:10+00:00"
-    },
-    {
-      "text": "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T23:14:32+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-      "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T02:14:29+00:00"
-    },
-    {
-      "text": "Donald Trump and Michael Cohen bury the hatchet - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMnVXOFlMVUFaT28xRkxkU3FMNGg5d1lSR0lNRGR6WlZZNHJtcTZROURPUDl5Uy13VFNjQ05rSDh6NnRnWW9QYWRCaDJjajRHUWZWSjEyS1ZIbTJSQ1lja2c5YWFMNWpOaVEzX0k2SVdIMWxPWURBVDdaSUNlVnFtQnlLSHNlYTRjUFBPb3VWeFNYcUN2OURFOVpsbERDTWNNZHJXOHgydGM?oc=5",
+      "text": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEVNdXFESDZxTUhMRGdDUEg0R0RYU2Z2RjNwdWtQcUNwVnJLd3hsZlZCOFpNQjUwVWJSTy04anZ2RjJaQUwycGVFN0trSnlyb3RNdUY0Vm11QThhQkxwNjVJRENzTW1zWWtyUVZ1YjNEX0lmYlhidTRlNF9ualg3QVExZTFoSHB6akpLQ0RqZzRWVUp3dE5naTUxVm43S2JFb21WMWRqT3JWWkpCVi1PSFB2cEF6b21NaUtaR3BhWDJMRWlJcTRSVGNtVEpWcEE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T01:32:00+00:00"
+      "time": "2026-08-21T02:41:00+00:00"
+    },
+    {
+      "text": "Homeland Security Made a Big Claim About Noncitizen Voting. Now It Can’t Prove It.",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T02:13:46+00:00"
+    },
+    {
+      "text": "Fernando Mendoza throws pick-six, leads Raiders to three points - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUNDZENEa0V3MlAwbXpaUzN4YWpudERTRTc0OThacjFXMlpRZFFkTlN4Znpzc18wRXVCWjNRZ0R1Um0yMkg2RFBwWTBCUnhlT1dVZGF3bVFJTVItcW9kUEIzVDB2ektHZnJ4dFp4dVNQN0NMNmlLWmswTnc1NkpKY1dhZ3lOampCYXlsUkpPaU54NlpLWWdkeXJVblkxeENQWEozN0lieXZOV0Vjc1JTeTlxd1RLd283LWNVb1pTcEtldw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T01:51:27+00:00"
     },
     {
       "text": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
@@ -134,33 +143,33 @@
       "time": "2026-08-21T00:49:50+00:00"
     },
     {
-      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
+      "text": "Cincinnati Reds’ 67th loss comes in stunning fashion: A routine fly ball on the last strike - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXF3eGVDMzZyZE5PY0Q2bE1QcjdOVEFLNzcxMzA0OUdLN25tUzJYeEdrV1RIeWZGQ1F3NFhYS3ZRR3N5WmpfUXBTQWxXMVFmSDJBV3FTSlBwRUtkT3JXdjIzLUhsR0VhNUVUeEdWcGhXT2d0MS1ET2pwLTI3czYzdG1vNjJVQnQzV1BXOGR3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T23:24:26+00:00"
-    },
-    {
-      "text": "What is Scott Bessent doing with the $32tn Treasury market — and will it work? - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1hYOS1SLWtrLXlqbmNMSk9aUjZXR2RESjVEd0tLckQwVzdJUlczal95eVNrTXZMYVNzZHBZUm9KZHNMSW9YU09uaFhpNFk5bUFRQ21MZXRJU0RoOUVUSTBZSVhhemJib0psWGlnNGFLa3ZZYktHR3hvanBoamdPU3ZFR2s?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T23:08:14+00:00"
+      "time": "2026-08-21T00:21:10+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Homeland Security Made a Big Claim About Noncitizen Voting. Now It Can’t Prove It.",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
+      "text": "Florida Counts Its Election Ballots Fast. Why Can’t California Keep Up?",
+      "url": "https://www.nytimes.com/2026/08/20/us/florida-california-election-ballots.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T02:13:46+00:00"
+      "time": "2026-08-21T02:15:40+00:00"
+    },
+    {
+      "text": "Tiananmen vigil organizers found guilty of inciting subversion in Hong Kong - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDA5bFgyVnFreWhUeGRJcjQweEx5b3BxNUhfYWdsbDdJWkZZcDIxVGh6ZDc0cGRnOHc5cnZTeFh6M0pCSlVzbVZBWHQ4Q3A3M2FjZ3ZPWUZfejNnd3hpM1FlWEktVjFESElJbVJWb0FNd3pkWm85MC1RQXZMSkVOSE9pR2E3TE03RTJrNjVn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T02:09:00+00:00"
     },
     {
       "text": "White House faces questions over security clearance for top Trump aide Natalie Harp - The Guardian",
@@ -181,31 +190,22 @@
       "time": "2026-08-21T01:05:38+00:00"
     },
     {
-      "text": "A.J. Brown, Jalen Hurts speak for the first time since Brown’s departure - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2JOQUoyWFVCN2l5M055Z3ZKb3BpQ1pZQUpkYlR6NVR2b19jcmVEdG5lbnExX2l1dllsSmFMeENKaWgxZDdGaFNldkF2M3ROeERXalhyYXFvTUdxb1hhREpaSl92S3JmVGlvdlNiVnJqUW4ycVcyUmZVeDVaZ3NTZFFMN0JKcGNKSHY2Rk5XbFVxSmFvV0ljWW51dFFDd0xzbFVzTlRSN2o3MWI2c3FzY20wRE1iT19OTzV2N1J6eVRCRzN1SGxfWHl1UQ?oc=5",
+      "text": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWNXWVZhaGltWHN3dmJYYy1EcTgxeDNvSTJTYUlBTXJRTlM0NDJ0cGR4VjFfekwzT0ZDOG9IeFY5X1daOHJqRl9QSi1FU3ljUkktbmRlZkZ6MzBNajlkbXIzYmR4ZlZkdVRSSUt3TTIzeThZa0Q3b2ZqVkhHYWZFWDNScEplR2FydENxNGNfS1BILWF4V0VkNXlXMA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T00:29:16+00:00"
+      "time": "2026-08-21T00:47:00+00:00"
     },
     {
-      "text": "Hayden Panettiere’s mom, Lesley Vogel, releases new statement after backlash - Entertainment Weekly",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lQbmhoYzJOWEwwSGN1NzJWTEQ4WDFlR0lXblItODI5YzNwNGUydnQ5UGEzM2RVOVYxVHNScFQ1NHNXTENWVTljbzg4N0xaLVNmcDEtcy1MZGdzXzN3bUxfWjhaWVhodHVhUnBGdTlYaE9RaURacGtaVExHc1IzSTRjTG1IQ3RLNXg5VDcwd2FtU2Rk?oc=5",
+      "text": "Trump appears on former fixer-turned-enemy Michael Cohen’s radio show after detente - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZm1fR2tDZHdfcG1sU2ZLaTBGODJIeUdYVVc1WEIyV0l4QS1EZ1RPVXdCeS01M1RKVGd1SFJrMGxWVEJIMXdNeGx3OGpuMkJkeWtzY2hWREhLNjN4M3R5NGFyYUxtZ0pjd0V3bnlMeldtVlFxcVFMbUVoVG1WWVRYVnZVcW50RDVycDhxUklyOENianV5cHZnNVQ1ZUJaX2Rka2l2ZTJKdTV1RXNXNUgwTjAwemRPdTRFWVE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-20T23:14:43+00:00"
-    },
-    {
-      "text": "Aisha Wahab Wins California Special Election to Replace Eric Swalwell",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-20T23:06:05+00:00"
+      "time": "2026-08-20T23:39:00+00:00"
     }
   ]
 }
