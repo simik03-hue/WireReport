@@ -1,26 +1,17 @@
 {
-  "generated_at": "2026-08-21T09:00:09.699844+00:00",
+  "generated_at": "2026-08-21T09:48:45.850742+00:00",
   "lead": {
-    "text": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
-    "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
-    "source": "CNBC",
+    "text": "Meghan could return to acting once back in UK",
+    "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-21T08:55:28+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-21T09:48:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
-    {
-      "text": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
-      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T08:52:53+00:00"
-    },
     {
       "text": "Rare Tornadoes Hit New York City as Storm Drenches Mid-Atlantic",
       "url": "https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html",
@@ -28,7 +19,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T08:47:11+00:00"
+      "time": "2026-08-21T09:43:14+00:00"
+    },
+    {
+      "text": "Stock futures are flat after Treasury yield rebound sparks sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-21T09:41:53+00:00"
     },
     {
       "text": "Pa. measles outbreak has reached Allegheny County - Pittsburgh Post-Gazette",
@@ -37,18 +37,27 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T08:46:36+00:00"
+      "time": "2026-08-21T09:39:35+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
+      "text": "Why Do We Keep Imagining a New Civil War?",
+      "url": "https://www.nytimes.com/2026/08/21/opinion/civil-war-novels.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T09:04:14+00:00"
+    },
+    {
+      "text": "RayNeo’s New Smart Glasses Are Taking the Cameraless Route - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN1ZoSGZ3UVJ2NXBQQTV5VlhJaGRfdmdCWm5MTXR5NFN6ZFdVdzRVY3hkb2syV1BITEpGQXJ5ZkdyZV84bktYd2dZWFp4OTlFNEM3VEUxUjZNbGNrZmV2Wl9qVENOaENibGhUbHctQ1gxa09jRHNQYWw3MGNyQ014YWFiTzdYZ0xPNkI5RDg5Uzd2dw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T07:25:27+00:00"
+      "time": "2026-08-21T07:00:30+00:00"
     },
     {
       "text": "Hong Kong's Tiananmen activists convicted in national security trial - BBC",
@@ -69,42 +78,42 @@
       "time": "2026-08-21T05:11:47+00:00"
     },
     {
-      "text": "Myanmar military offensive targets land for Russia-backed port project - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0dtXzJ4MGc5aVI0a0tCdXVUcW9JdFJBZUctUGdjUTdwb194LUhfdHl1QnA4bDFZaFlNVmRGWWJpUUZKUUtGWGFWYWdMaGxnOFpVU1Z4S1dwWVpWWFIwTnNZV0l3YjMxYjA3WFdfdVJrOGRfaDY1aE41Q2JFaDI4azhlYnJJVENZRGY5TDJsb2syMnBFNTFvNnMtdFdoTEFialJkVkpvdXUtbmxobGVOVHBqdVpfYjFKVTk2SzdR?oc=5",
+      "text": "Opinion | Federal vaccine drama is causing great confusion. Your questions, answered. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcG4tWktJeURyVm9nYlduUHFqZk9IcTFmVjdlMWdEeENHanRkVThDcWVwaXlGbV9tMlR2OHBxVUx3UGpWLTlvNnl1aDRMaksweV9tQmdjVWswQ3hnQTRpUFFMd3BKY2d0RzMxU3dNei1keTJSenIyc1ZocHdQVGJBNmhFLS1pc0JScndCMHJDU1BObUpURTNTOUo1OHF4bkV6M2YyV3BUZEJiU2xCSmxDR3NCQnRWLUlnWFE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T04:01:00+00:00"
+      "time": "2026-08-21T03:30:00+00:00"
     },
     {
-      "text": "Chris Hansen Was Not Asked To \"Sign Away\" Rights At 'Primetime' Screening - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnkyd201S1ZtYjlUUlJ3bDdJZDJERFJEdlJJekNsRDFjUm9GTVBGMkVMY1R0dVFIUlhfaHUzaVBXZFZ0T2xDZGlkUERVODdCNDFBUEVPWG0yZUxrb2N0QTg5TDFCYnRodUhoM1hIandDR2VvVXNsVlBETjF0XzdEbzdSQ0Z5a3MxQ1hKUF96dmFnQW1XVDJMdQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran",
+      "url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T03:02:00+00:00"
-    },
-    {
-      "text": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEVNdXFESDZxTUhMRGdDUEg0R0RYU2Z2RjNwdWtQcUNwVnJLd3hsZlZCOFpNQjUwVWJSTy04anZ2RjJaQUwycGVFN0trSnlyb3RNdUY0Vm11QThhQkxwNjVJRENzTW1zWWtyUVZ1YjNEX0lmYlhidTRlNF9ualg3QVExZTFoSHB6akpLQ0RqZzRWVUp3dE5naTUxVm43S2JFb21WMWRqT3JWWkpCVi1PSFB2cEF6b21NaUtaR3BhWDJMRWlJcTRSVGNtVEpWcEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T02:41:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T02:58:51+00:00"
     }
   ],
   "col2": [
     {
-      "text": "RayNeo’s New Smart Glasses Are Taking the Cameraless Route - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN1ZoSGZ3UVJ2NXBQQTV5VlhJaGRfdmdCWm5MTXR5NFN6ZFdVdzRVY3hkb2syV1BITEpGQXJ5ZkdyZV84bktYd2dZWFp4OTlFNEM3VEUxUjZNbGNrZmV2Wl9qVENOaENibGhUbHctQ1gxa09jRHNQYWw3MGNyQ014YWFiTzdYZ0xPNkI5RDg5Uzd2dw?oc=5",
+      "text": "The China Shock 2.0",
+      "url": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T09:02:36+00:00"
+    },
+    {
+      "text": "Charter plane crashes near remote radar site in western Alaska, killing all 8 on board - CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T07:00:30+00:00"
+      "time": "2026-08-21T06:32:16+00:00"
     },
     {
       "text": "Rosie O’Donnell Ends Late Night Stint With a Ditty to ‘Donny Boy’",
@@ -116,51 +125,51 @@
       "time": "2026-08-21T05:44:38+00:00"
     },
     {
-      "text": "Never Underestimate the Houthis",
-      "url": "https://www.nytimes.com/2026/08/21/opinion/houthis-iran-hormuz.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T05:00:05+00:00"
-    },
-    {
-      "text": "Scott Bessent takes on bond vigilantes in $32tn Treasury market - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORWkycTRKNEJ3ZGRORjhSNi1MNjVCQ21TcVNrQWo3aXRvZkFKTlZyYm0wUi1tRlk4Y1ppbXZvUmh4V1BjdzNvREE1RUtJekt5RWVRT2lSUWFfR0FOOUZkVk5ERjBUMGlsaUpyUkFzbDNqUDhXVUpNZlBhZVZTeS1aX2U2Zlo?oc=5",
+      "text": "Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWYteDRBcHMwRkVvaExPRVoyTVdQVkpsaFZwNnJVaTQ5MVVrX1hrVG11Z1E5Vkh6VHpvQUpTMEkyZVE3TFlyTTE1ZHdWRjBYLXlhMEFqM2kzYVhLbFcyVWxFQzhQNzhfaENpNFNWbk1aTVF6TE1PUFVuYW9kQXR6dDZPU0dpNTlkb0libzF6QQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T04:00:52+00:00"
+      "time": "2026-08-21T04:40:53+00:00"
     },
     {
-      "text": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran",
-      "url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Navy may name new aircraft carrier after Trump and not WWII hero - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEphcnFSd3lOQnRNczZCLW9rSHpnczA5OE5lYmxkMVNGdzU4OWl6ZUNuLVhPcTdqSjA0Tnd4NDBURHYxS3hWMkpxcXNONm5iTGY2WnBMODRfY3VIaDR1V3hBRjN6MnhBU3h2alhzeVhKTHh4Tm9rWmVjNUlEMF80ekcwd0JuVC1ZUmM2NFZNY2h6T1pBeEw4dXhMWGhOUDM2el9IeDBfOVVqTkNzUENweTFIdTh4Zk0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T02:58:51+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T03:18:00+00:00"
     },
     {
-      "text": "Florida Counts Its Election Ballots Fast. Why Can’t California Keep Up?",
-      "url": "https://www.nytimes.com/2026/08/20/us/florida-california-election-ballots.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Storms cause flood, tornado warnings in New York City, Tri-State | Live Updates - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTRVekZ2V2RMaUJId0NCT1FIcjRKMkVwSVlFQW5RaFNfU0d0eHQ1Q2owTTVlbXIxQTZnTFEyYkplSDZhcV9LaXUwXy1uNWlqcmtyWF9xcXk4U1JRbHJadWdEdUNKMGtoVU1LMEJVT2lveTh4UHk3Qms3OENXeU1vUWRNTW5qX1dDQWJJTmlRRGF4WUE2enp2WWI2WXplSjJuUUdINFVNNzRzVGd4SkJXd0VIUXQ2UWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T02:15:40+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T02:49:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Charter plane crashes near remote radar site in western Alaska, killing all 8 on board - CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaZkJTTHRFNG1MMkVQOVNLWWp0VFR5ZUt1dmhQX0I4NHVqVEZKcnkwcDFDOWZJREhUVFJXQXM2d1pQWU5GNHRCUm1LQjQ3dzhmaTJTenRtdktCZWctSE1hd19ISE9uVkVVSzFxbWpQdElEQQ?oc=5",
+      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T06:32:16+00:00"
+      "time": "2026-08-21T07:25:27+00:00"
+    },
+    {
+      "text": "Stocks and Bonds Rise as Oil Halts Run of Gains: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGs3R29oXzVEVlA0bHFwajZ0cjhDQmFGNnZqbDYwcEFtcmdxM2NvWFBXMTNXN19xcW9kVDZPMnlFNWdGMkh2WHpydVlIOHhBcTZnUnlxc0lXSVRwYVczS0tyanBnNnQtRXlqYTRBaWZVSVFibEtPMWdrMEhfbVVfVnRSRmVOSGJQNFZOQjBtZEpPcUND?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T05:56:00+00:00"
     },
     {
       "text": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting - NPR",
@@ -181,31 +190,22 @@
       "time": "2026-08-21T04:01:10+00:00"
     },
     {
-      "text": "Opinion | Federal vaccine drama is causing great confusion. Your questions, answered. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcG4tWktJeURyVm9nYlduUHFqZk9IcTFmVjdlMWdEeENHanRkVThDcWVwaXlGbV9tMlR2OHBxVUx3UGpWLTlvNnl1aDRMaksweV9tQmdjVWswQ3hnQTRpUFFMd3BKY2d0RzMxU3dNei1keTJSenIyc1ZocHdQVGJBNmhFLS1pc0JScndCMHJDU1BObUpURTNTOUo1OHF4bkV6M2YyV3BUZEJiU2xCSmxDR3NCQnRWLUlnWFE?oc=5",
+      "text": "Chris Hansen Was Not Asked To \"Sign Away\" Rights At 'Primetime' Screening - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnkyd201S1ZtYjlUUlJ3bDdJZDJERFJEdlJJekNsRDFjUm9GTVBGMkVMY1R0dVFIUlhfaHUzaVBXZFZ0T2xDZGlkUERVODdCNDFBUEVPWG0yZUxrb2N0QTg5TDFCYnRodUhoM1hIandDR2VvVXNsVlBETjF0XzdEbzdSQ0Z5a3MxQ1hKUF96dmFnQW1XVDJMdQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T03:30:00+00:00"
+      "time": "2026-08-21T03:02:00+00:00"
     },
     {
-      "text": "Storms cause flood, tornado warnings in New York City, Tri-State | Live Updates - ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTRVekZ2V2RMaUJId0NCT1FIcjRKMkVwSVlFQW5RaFNfU0d0eHQ1Q2owTTVlbXIxQTZnTFEyYkplSDZhcV9LaXUwXy1uNWlqcmtyWF9xcXk4U1JRbHJadWdEdUNKMGtoVU1LMEJVT2lveTh4UHk3Qms3OENXeU1vUWRNTW5qX1dDQWJJTmlRRGF4WUE2enp2WWI2WXplSjJuUUdINFVNNzRzVGd4SkJXd0VIUXQ2UWc?oc=5",
+      "text": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T02:49:00+00:00"
-    },
-    {
-      "text": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-      "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T02:14:29+00:00"
+      "time": "2026-08-21T02:43:00+00:00"
     }
   ]
 }
