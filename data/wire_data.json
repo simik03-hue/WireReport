@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-08-21T19:01:34.919508+00:00",
+  "generated_at": "2026-08-21T19:39:50.725019+00:00",
   "lead": {
-    "text": "Employer health costs projected to rise 9.5 percent",
-    "url": "https://thehill.com/policy/healthcare/6043869-aon-projects-employee-health-costs-rise/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-21T18:57:23+00:00",
+    "text": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
+    "url": "https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-21T19:37:41+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
-      "url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
+      "text": "GOP backlash grows to Trump's beef price intervention",
+      "url": "https://thehill.com/homenews/administration/6044174-gop-ranchers-protest-imports/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-21T19:33:15+00:00"
+    },
+    {
+      "text": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
+      "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T18:55:05+00:00"
-    },
-    {
-      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-21T18:51:43+00:00"
+      "time": "2026-08-21T19:29:48+00:00"
     },
     {
       "text": "Dow jumps 500 points, but stocks are still headed for a losing week: Live updates",
@@ -37,27 +37,36 @@
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T18:48:42+00:00"
+      "time": "2026-08-21T19:23:25+00:00"
     }
   ],
   "col1": [
     {
-      "text": "See a map of the Freedom 250 Grand Prix circuit in D.C. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXZjcllSTUVRaXcyZXRnb3Bhc2NZVV9PX0RZWTNFYWRfTnd1VENEcGpwaTRrMEZiQUxKZk8zUjhIWUFQZ3VZcnFHaFRLMHIxMm1zdTR2RHItdXpweXA2Nk9xbWdmbVctSXhLZzlqU09vWGRnem1fRG1NYWhVNUVkdjlKWEtKekU1VzNhRGxwSU5WOU93Ul9LYktNY1hBekhy?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Mark Zuckerberg Buys an Irish Castle",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T18:42:36+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T19:16:03+00:00"
     },
     {
-      "text": "President Donald Trump announces plan to lower beef prices, but some Republicans are already balking - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRlBMdi1RVGNHQTBXS1ItTi1TVDBQT1J4OU4yaTJOdnRQSWtJeUFyVGl0X2VwYmdjc09pUC13X0tMTk1pdWJjblltc1NsNXYwVkt6ckpwYmgzSkstTW50eE05MUFqaURHUk9FWjBwUkR3emw3dXMyM0JNOXhYWDI0ZjhNRFVocjR2RlVwU2V6aG16MHVYcnlPcA?oc=5",
+      "text": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T18:32:08+00:00"
+    },
+    {
+      "text": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92a1VCaGZfWlVRU2I2M2UwU2d0bUtPU3daOUpDMXBmZTVWYmd4dzFua0Via3RwenV2aktxZE82WURmbmlXaUdVcnBKMldTOHo0V2dhZUNRX2o0eWdvdG5laDBNR2FwMTV4Z1QxdndTQXB3b0xrU2JsaThXSQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T18:25:00+00:00"
+      "time": "2026-08-21T18:05:34+00:00"
     },
     {
       "text": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
@@ -69,13 +78,60 @@
       "time": "2026-08-21T17:57:27+00:00"
     },
     {
-      "text": "Hayden Panettiere death latest: Ex-fiance posts emotional tribute on late star’s 37th birthday - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1B4OWdydS0ybmZTVU9pUVNIVXEyZWVUTGEteHlGS0dEOC1hSG91dXdKQkFmdU5VdUkyMWV5aDRSSzhhSmVTM3lRY25vMUZuamVRRUYwQWtXWXQwOEp6UVR0LWZZTTNaQVhOc0VWeXRwSE5PMnA5cERsTjZfa2JQSzZWWGRtSUw5T1ZNLVZNT1lVX0dJemdFMm5SSlRQWHlLbVJYaE41T2Q4LTdQdzlfWUFhUUNDQ05qNWJYcnRkSkR1WFlDUzJyM3FORkY?oc=5",
+      "text": "Should You Invest in Bonds Right Now?",
+      "url": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T16:48:03+00:00"
+    },
+    {
+      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T17:07:00+00:00"
+      "time": "2026-08-21T16:28:02+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Supreme Court allows Trump’s ballroom construction to continue for now - NPR",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLURhNWJndWU1aFA5d243WVJyNHEzTnlZZE5idHlsMHRBVUFhMUxieEtGeDFOeWJFU0s2VjJRdEtLd1FRSXhrYW5nM25YTDhlOEJsc1dlQjllQlppUnc1aGFXc0ZjMk9qTXpnU1Z3MnRBeE9BdFBxLTNYUGRoMjZXVFlaLVlCalctOW1JQWFfOEZmTlNNSDFKQURVZjd2eUZnNWU0R3JRWGhXby1NdlNJc09ZblM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T18:47:48+00:00"
+    },
+    {
+      "text": "Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmNZWnNmT3RLM3Zkb0o4eTN5WEQ0dkVqbl9xSklVblBwUjFfVXVZdTZ6Y1dYOGx1aG1mUE9kMGRRMERjOWtYN1hwVkFRLV9BTVhxNU1LdG9TMXFSZXp4eGJEeUhRYWNvUUNTLTA0UVQ0Rm5rUXYwSXRibmpMeXlHeUs1RVJQS1o0TS1TRVh6aDlISXl5bjJGcnFEYnpkVGxFaHhZSHJxSHc4REpYVkh3eFpDM205RnRGTDJZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T18:22:41+00:00"
+    },
+    {
+      "text": "Trump US attorney pick can no longer investigate one of the president’s top foes, court rules - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS0M0cXVOVGRqdHFFZnVGV3VtRU50QUZmbTFCSmMwSnRTT1dQVnNrWDdvWHJwRzU4UHlPWTBsVFZVMXFkSFpEWWJaTlJYejRqbUFyclF4ZnBLLThnTERkejlOSnpZWS1tNzlaZHEzX1IyYThHMFVUXzZOTm9TYzB5TEV6cUJGWHVMRWlyZDliWnNoZUo4bUhTeWpobmF0cTVCOEJqbWFiVjFCSkVVbzVTSC12OGFJS2RSOVdkeXVGRnhvdVU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T18:02:48+00:00"
+    },
+    {
+      "text": "Case Challenging Mamdani’s Rent Freeze Is Moved to Manhattan",
+      "url": "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T17:26:00+00:00"
     },
     {
       "text": "US borrowing costs rise as attempts to ease rates prove short-lived - BBC",
@@ -87,24 +143,24 @@
       "time": "2026-08-21T16:45:09+00:00"
     },
     {
-      "text": "Livestream, live updates: Defense in Lindsay Clancy trial rests, rebuttal begins - NBC Boston",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkpZZ3RVNlpOUlBPa201MzlYZGNKdEN4R2lPVnZkY0k1ZHJzUUd3eURCSVpJdERIZzRsRWVnM1RPbkQ2RzdhUVhsRFJ1Ry1fczhRWS1vajduYzNRaGZnYjdrUEdZUWF1TDlqaW5tTjFrS01zT2g3V2VUMDAtV1NSbmp0d3RMQlJxUGpfOURiYno1M0taZWExdGVLQVRvMzTSAacBQVVfeXFMT09LOWE5em0yRzR4SnFSRnpMdndpLVM1VC1hSm5VLTNyRTNaTlRET2plZ3JNRVdFeFlzRWFXOUowYWE5U01xSHlMN2dSVE9pMnRXUkI2TTRrODFUUVluRzRDTmRZYWxsNEljU3FUbzFxUmhJMEcxZnQ2dWlUamo3MHdjQ3NtOW5La3VaY1ZxaGQxWkQ4Z2FhRFZOcG9GcjdTaHFocDB3U2s?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:25:11+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
+      "text": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T18:32:08+00:00"
+      "time": "2026-08-21T16:22:44+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "See a map of the Freedom 250 Grand Prix circuit in D.C. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXZjcllSTUVRaXcyZXRnb3Bhc2NZVV9PX0RZWTNFYWRfTnd1VENEcGpwaTRrMEZiQUxKZk8zUjhIWUFQZ3VZcnFHaFRLMHIxMm1zdTR2RHItdXpweXA2Nk9xbWdmbVctSXhLZzlqU09vWGRnem1fRG1NYWhVNUVkdjlKWEtKekU1VzNhRGxwSU5WOU93Ul9LYktNY1hBekhy?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T18:42:36+00:00"
     },
     {
       "text": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
@@ -116,13 +172,13 @@
       "time": "2026-08-21T18:22:00+00:00"
     },
     {
-      "text": "Case Challenging Mamdani’s Rent Freeze Is Moved to Manhattan",
-      "url": "https://www.nytimes.com/2026/08/21/nyregion/nyc-mamdani-rent-freeze-courts.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05R1RMNUh5YjlxOTcwQ2o3Q3Y4OFFqd3hLMlFNc3hUTmpVdkxaYWNPN0F1bVV5Nm5mMG9uNUJDUVAtQzJiQXVaTF95MXREV3phZng2VnR5LS1OQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T17:26:00+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T17:58:56+00:00"
     },
     {
       "text": "The Next China Shock Is Here",
@@ -143,69 +199,13 @@
       "time": "2026-08-21T16:37:16+00:00"
     },
     {
-      "text": "Appeals court upholds block on US Justice Department subpoenas to NY AG James' office - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOW5fN1NJSnhUYVllbTBUVTlEb3ExZGYxOGo0MkkySnFrMUNYV2Rkb3hUQWFWbEcwUGh4Q2xYcTYtbktXaUJqYWt6cjEwWkk4dVg4Yl8wNktHem54azc3bzZIX2ZGQ3VaWmdmOTR6aFJHZVNjN2RZNVVlMkQzRGVVbTFma1Rjczh1VUwzbFd5dnZ0UUJ3dFItYnFscDFseGExSWRxSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:23:53+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.",
-      "url": "https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html",
+      "text": "How New York’s Second-Home Tax Turned Into a Headache for Mamdani",
+      "url": "https://www.nytimes.com/2026/08/21/nyregion/mamdani-second-home-tax-rollout.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T18:26:02+00:00"
-    },
-    {
-      "text": "Supreme Court temporarily allows Trump ballroom construction to continue - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmdhRFVTbWVHZzIwTWw3ak1rLTllNUZleG9KUlRlMlRsQlZpSzZlWmtCU2txZ2VnQ285eWpNWnJFVDNzR3QySDUzaTV1WDVwQ0VlMEFWdWRsWUhVRmdzSVRIN2VDYUstZUI1UlJoVUlPTXMtM0x4SXJPVkxDRkk3azlTZFpSN3BEQVdqQjZucE9FdWFxMDJjUFdOY3dsUjA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T18:15:00+00:00"
-    },
-    {
-      "text": "Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T17:26:00+00:00"
-    },
-    {
-      "text": "Should You Invest in Bonds Right Now?",
-      "url": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T16:48:03+00:00"
-    },
-    {
-      "text": "Here's how America's $40 trillion debt can hit your wallet - Axios",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnBoUnZyY1lwRjZ3MkQ3Wk1oS1Y0QWZKS29pczdXczBmdlA1X3BpWnZjbjEzcVRRODNJM2VDSWp4Rm9uUkNLdGoxTWNuN29xWDJuSm83WFFHekNVODVpQkRCWmxTWUJUTF9QdENsU1g5LTNnMTBvTGcxT0tRaEdINEkwUlAwY19JdEpXTFNR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T16:28:02+00:00"
-    },
-    {
-      "text": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T16:22:44+00:00"
+      "time": "2026-08-21T16:16:04+00:00"
     }
   ]
 }
