@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-08-21T22:02:09.776833+00:00",
+  "generated_at": "2026-08-21T22:44:01.145976+00:00",
   "lead": {
-    "text": "Trump defends beef import plan after GOP blowback",
-    "url": "https://thehill.com/homenews/administration/6044555-trump-suspends-ground-beef-tariffs/",
+    "text": "Rising data center backlash shakes up 2026 races",
+    "url": "https://thehill.com/newsletters/technology/6044609-rising-data-center-backlash-shakes-up-2026-races/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-21T21:59:15+00:00",
+    "time": "2026-08-21T22:38:54+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "GOP raises concerns over Trump lifting certain ground beef tariffs",
-      "url": "https://thehill.com/newsletters/business-economy/6044524-gop-raises-concerns-over-trump-lifting-certain-ground-beef-tariffs/",
+      "text": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-21T22:35:17+00:00"
+    },
+    {
+      "text": "Interior Department outlines short-term plan for water cuts in California, Arizona, Nevada",
+      "url": "https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-21T21:54:53+00:00"
+      "time": "2026-08-21T22:27:03+00:00"
     },
     {
-      "text": "Boeing engineers, technical workers reject contract offer",
-      "url": "https://www.cnbc.com/2026/08/21/boeing-engineers-technical-workers-reject-contract-offer.html",
-      "source": "CNBC",
+      "text": "Watch live: Trump stumps for Darline Graham in South Carolina",
+      "url": "https://thehill.com/video-clips/6043894-watch-live-donald-trump-darline-graham-south-carolina-campaign/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T21:51:22+00:00"
-    },
-    {
-      "text": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-21T21:50:09+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-21T22:23:22+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Meghan of Sussex Eyes Role in Netflix Show ‘The Gentlemen’",
+      "url": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T22:14:11+00:00"
+    },
     {
       "text": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
@@ -49,6 +58,53 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-21T21:46:56+00:00"
+    },
+    {
+      "text": "Klay Thompson, Mavericks reach buyout agreement; veteran expected to join Heat: Source - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa2JjZ1pON1BZVVJVTThGMGlLSzVGWXVGNlZYZzBuZnJhUGl1OWFyMnhOejVOaHMwUlFJeXFTdzBWUTVSVTFSWDhmc1ZUZXctSEdseDZVVnBNQ0tGMXViNWZZZ2Rkd0RvMDc5SFVDZWpReVExRW1YclU2Wm4tYXhiVEZudE1Fa0NBWV9PYTZwTnVXRzhB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T20:57:24+00:00"
+    },
+    {
+      "text": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T20:38:33+00:00"
+    },
+    {
+      "text": "Trump loyalist Ed Martin is leaving the Justice Department to focus on election ‘legal battles’ - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVFzbGlXNTl0aDNoNEtSUFhwYm1KZ0xhd3FyRWVNNEE3MTZScklvdVY4RjR6WHZMWXp0ck4tWmQyam9NODF0OW5uc2JERXBoZG1BcTlMRzZlTmVUWXM4R2cwcFFFanFrWjY1NWlXak00Y2swTmc2ZGVxZXNWZ1VuWDVDdjRjaEx2OTJqd2hLVWVHZ3FzbldXMmpzNG0xbGdKUklWVjlR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-21T20:33:00+00:00"
+    },
+    {
+      "text": "The Case of the Disappearing, Reappearing White House Ballroom Stairs",
+      "url": "https://www.nytimes.com/2026/08/21/upshot/ballroom-trump-white-house.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T20:11:37+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Court Slashes Award Alex Jones Was Ordered to Pay Sandy Hook Parents",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/alex-jones-sandy-hook.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T22:05:03+00:00"
     },
     {
       "text": "Desperation Mounts in Indiana After 10 Days Without Power",
@@ -60,13 +116,13 @@
       "time": "2026-08-21T21:25:41+00:00"
     },
     {
-      "text": "Alaska plane crash near remote radar site kills all 8 people on board, U.S. military says - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53d1hFZV9ienB1SHZGRkFSQzVGTllwQ3NWd1gwR2o0ZE14WEFBUWVwVzk1aEw4UDNNU2RCS0dmbHhJT19WcHlXRGV6NUx1YzZ3SURVQXFRbXpsY0xWZm9SQWhkbXc5TUFrOGRqakdZRlhSa3RJM0wyQVlR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+      "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T20:57:07+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T20:49:35+00:00"
     },
     {
       "text": "ChatGPT On Mac Can Now Read And Respond To Apple iMessages - Engadget",
@@ -87,69 +143,13 @@
       "time": "2026-08-21T20:29:53+00:00"
     },
     {
-      "text": "Alfalfa sprouts recalled for E. coli and salmonella after dozens of illnesses - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGdWdWdnZ0VhZ2lmc3g2aUh5X3h0VzN6VXFEazZFRDY0ZG9CTnE3dkc0dXJ1RTZOQ0d1amdMV1FhTTcxZklybjYyMUtBRFMtSEVQd3IwcFpaNEgxN3p4NXVReTRpVktnaTdfQ0xUTi1heDg5LWllRi1iLU5DZUpGWnU0UXZRVU1sMHVqVzZ3XzdwakJWVmpSb0xscWhmUmdLdjZFd1o4TElobHVka1E?oc=5",
+      "text": "Recap: Defense in Lindsay Clancy trial rests, prosecutors call 1st rebuttal witness - NBC Boston",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkpZZ3RVNlpOUlBPa201MzlYZGNKdEN4R2lPVnZkY0k1ZHJzUUd3eURCSVpJdERIZzRsRWVnM1RPbkQ2RzdhUVhsRFJ1Ry1fczhRWS1vajduYzNRaGZnYjdrUEdZUWF1TDlqaW5tTjFrS01zT2g3V2VUMDAtV1NSbmp0d3RMQlJxUGpfOURiYno1M0taZWExdGVLQVRvMzTSAacBQVVfeXFMT09LOWE5em0yRzR4SnFSRnpMdndpLVM1VC1hSm5VLTNyRTNaTlRET2plZ3JNRVdFeFlzRWFXOUowYWE5U01xSHlMN2dSVE9pMnRXUkI2TTRrODFUUVluRzRDTmRZYWxsNEljU3FUbzFxUmhJMEcxZnQ2dWlUamo3MHdjQ3NtOW5La3VaY1ZxaGQxWkQ4Z2FhRFZOcG9GcjdTaHFocDB3U2s?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T20:05:15+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Meghan of Sussex Eyes Role in Netflix Show ‘The Gentlemen’",
-      "url": "https://www.nytimes.com/2026/08/21/business/meghan-sussex-the-gentlemen-netflix.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T21:38:47+00:00"
-    },
-    {
-      "text": "Trump threatens $5bn lawsuit over liberal National Guard policy report - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFlteUhYa1RJY3NkVWJRNHNoYThuQ1kzX1gzUzRtaVhYQWVBem52OFV6WUtoc2psekVDa2VKYlp2VE54MktGajRvRlJKUVJWYnZCTzdHMWVsSllRekVNa2JENlJSOG9Kby1rcFJmQlU0VDBYUkVha0ZnaDVWUkpaTVhfV2xzZmNCTzRxM21fOFJwcGtQSVFNaUdDbUZqdG1KTzdn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T21:17:00+00:00"
-    },
-    {
-      "text": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
-      "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T20:49:35+00:00"
-    },
-    {
-      "text": "Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists",
-      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T20:35:40+00:00"
-    },
-    {
-      "text": "The Case of the Disappearing, Reappearing White House Ballroom Stairs",
-      "url": "https://www.nytimes.com/2026/08/21/upshot/ballroom-trump-white-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T20:11:37+00:00"
-    },
-    {
-      "text": "Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMDV4Q2s0QVVHMXFPY2w4RjUxY0Juakx6aGs4NUh0WloyV0lkUElnMkdUUEhUV1ZCNFQ3YUxfYXRTY3Z3b2JCVVJwdTZpSDFhMGplRVplZUhTNUtmbC14dnF3TlZQbzIwbU51YmliSmczdXNaZm1n0gF8QVVfeXFMTXlQWDhxZW1wNDI5b2hyTFFGLXh5M2h5YVdaanoyTmw5R0cyRkZvcG5Nd2ZMUUNGa3NMczF0dFN0cThNU1M1R0dCbFlEajhWb1BiVU14bldkdllIQm1xNDY3RWRiYjdFRVhyelctcklYUldpMkplT29kUW9kNA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T20:02:00+00:00"
+      "time": "2026-08-21T20:06:55+00:00"
     }
   ],
   "col3": [
@@ -160,7 +160,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-21T21:30:57+00:00"
+      "time": "2026-08-21T22:00:20+00:00"
     },
     {
       "text": "I’m a Former Dean of Admissions. Colleges Shouldn’t Be Paying Rich Kids to Enroll.",
@@ -172,40 +172,40 @@
       "time": "2026-08-21T21:05:12+00:00"
     },
     {
-      "text": "‘Trump in purgatory’: A White House plan to lower beef prices is dividing the president’s supporters - Politico",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hY2JYOVVTRUVXQjlpWWtYRVZfbnZtc2ZZYjZUSVM5dmNEREJIZmVBMVJ3SDQzZDJDOVRtVTI0RGxRZ09vUjg5dl96eVRjdkU4aHl4YU94VG5ULVc1MGxla283eXF6S3E3Q3R3enZfQW9EZGJI?oc=5",
+      "text": "Pentagon fires Stars and Stripes leaders amid Hegseth pressure campaign | CNN Business - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUExCVUpTVVIyYzdIVXBPbmVRTVdTZkUtLVktc1VIbW9oVncwTW5rUXh6RjFxXzBGd0c5NnV4WmZETUtGX2VTdWNVU2ZjUjdKbU9qZWNObGt6M1Z0N0RnX1NZcUx6akhUUmlDanhoSVlfYkJuN05RTVhVZUZOZmEwVjAwWVgwNDY1UXJONEczSEo?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T20:45:00+00:00"
+      "time": "2026-08-21T20:38:46+00:00"
     },
     {
-      "text": "Trump loyalist Ed Martin is leaving the Justice Department to focus on election ‘legal battles’ - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVFzbGlXNTl0aDNoNEtSUFhwYm1KZ0xhd3FyRWVNNEE3MTZScklvdVY4RjR6WHZMWXp0ck4tWmQyam9NODF0OW5uc2JERXBoZG1BcTlMRzZlTmVUWXM4R2cwcFFFanFrWjY1NWlXak00Y2swTmc2ZGVxZXNWZ1VuWDVDdjRjaEx2OTJqd2hLVWVHZ3FzbldXMmpzNG0xbGdKUklWVjlR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists",
+      "url": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T20:33:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-21T20:35:40+00:00"
     },
     {
-      "text": "One killed, three injured when man attacks Swedish school with sword - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
+      "text": "Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMDV4Q2s0QVVHMXFPY2w4RjUxY0Juakx6aGs4NUh0WloyV0lkUElnMkdUUEhUV1ZCNFQ3YUxfYXRTY3Z3b2JCVVJwdTZpSDFhMGplRVplZUhTNUtmbC14dnF3TlZQbzIwbU51YmliSmczdXNaZm1n0gF8QVVfeXFMTXlQWDhxZW1wNDI5b2hyTFFGLXh5M2h5YVdaanoyTmw5R0cyRkZvcG5Nd2ZMUUNGa3NMczF0dFN0cThNU1M1R0dCbFlEajhWb1BiVU14bldkdllIQm1xNDY3RWRiYjdFRVhyelctcklYUldpMkplT29kUW9kNA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T20:05:49+00:00"
+      "time": "2026-08-21T20:17:00+00:00"
     },
     {
-      "text": "Navy reportedly weighs renaming aircraft carrier for Trump - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaDZnRHc2NkJwTURDOHA3NlFkZlA4Ti1Wb0VJSzZqTHZiR3N5cENlMzh1TDhpMGtUZldLX2JTOS1qUTI5SDdtNzhVTjNKdnlpbmxXQXM3SVU0TWRXay1ldTZjdXU2V0ZiTTE4MjFQb0Mzdk40Qk03dHpRdUhUeGRRM1Z2Z3JHMlljR1p3VtIBkgFBVV95cUxOSE1wVlV5ZDlCRG9icjVDby1feFMwbXpmbkY2QjN1UDFsUGNsMFhTYmtNR3V6eTk3XzJnbTdkMmszTGVhNkt3VXIxQVZqOWd0VjZ4NjN0M0xuRHlDVjJYRlFKeEVlYXdLQVR6djNUUXp6V3FBUkhSMFJOd0x2ZGt6T2hNWXlsN1VxN2RMZ01LeW1TQQ?oc=5",
+      "text": "Alfalfa sprouts recalled for E. coli and salmonella after illnesses - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGdWdWdnZ0VhZ2lmc3g2aUh5X3h0VzN6VXFEazZFRDY0ZG9CTnE3dkc0dXJ1RTZOQ0d1amdMV1FhTTcxZklybjYyMUtBRFMtSEVQd3IwcFpaNEgxN3p4NXVReTRpVktnaTdfQ0xUTi1heDg5LWllRi1iLU5DZUpGWnU0UXZRVU1sMHVqVzZ3XzdwakJWVmpSb0xscWhmUmdLdjZFd1o4TElobHVka1E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-21T19:52:00+00:00"
+      "time": "2026-08-21T20:05:15+00:00"
     }
   ]
 }
