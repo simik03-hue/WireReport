@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-08-22T04:42:43.083254+00:00",
+  "generated_at": "2026-08-22T05:12:30.568573+00:00",
   "lead": {
-    "text": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
-    "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-    "source": "NPR Politics",
+    "text": "Canada-U.S. Trade War Escalates as Talks Collapse",
+    "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+    "source": "NYT",
     "lean": "left",
-    "topic": "politics",
-    "sourceNote": "Public radio, nonprofit newsroom.",
-    "time": "2026-08-22T04:36:27+00:00",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-22T05:11:25+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-22T04:46:33+00:00"
+    },
+    {
+      "text": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-08-22T04:36:27+00:00"
+    },
     {
       "text": "U.S., Canada fail to reach a tariff deal, deepen trade war",
       "url": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
@@ -20,27 +38,18 @@
       "topic": "business",
       "sourceNote": "Markets and business news.",
       "time": "2026-08-22T04:28:44+00:00"
-    },
+    }
+  ],
+  "col1": [
     {
-      "text": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T04:01:35+00:00"
-    },
-    {
-      "text": "Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: \"We cannot leave\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
+      "text": "Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQkZSTmhtZGZDNVQ0bTh4WHI2WUdEOTVSTVh3N2tkcl9YSHRtdW5wN0JlSzV2SnpJMWJ5eGlDTDZpVzQ5ZG9OTEN6VmEwUW9QRjAtNGc3b1ozMW4wd3l1OXhrZkZrOEJMMGU0UUJR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T03:37:01+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-22T04:13:00+00:00"
+    },
     {
       "text": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
@@ -49,6 +58,109 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-22T02:51:39+00:00"
+    },
+    {
+      "text": "Judge Strikes Down Trump’s 75-Country Visa Ban",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T02:12:16+00:00"
+    },
+    {
+      "text": "Supreme Court says Trump can continue ballroom work as it weighs case - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmdNUTJ1X3NSdncwZDh2S2NlUm1OcTQ5SHdxVzNVTjM0T2NucEZrc2FKMjBZUWZueGFmcmdUN1VkNnBSc2pXOENMaHp1cmJPdWhMVV9zSVJCSzl5bW84UVFnV2lEWnhicXl3d09UNTkxYmlpMnJVbDN4YWNwaUtxVUNxd19HeS1jMm1hZF9DZTAzeF82UDlCbV95dTFBLVREVXpDSDJEVHhUd2NNckpjN3lsSnNPTExTQnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T01:55:56+00:00"
+    },
+    {
+      "text": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T01:32:42+00:00"
+    },
+    {
+      "text": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T00:54:48+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T04:01:00+00:00"
+    },
+    {
+      "text": "Pentagon Fires Editor and Publisher of Independent Military Publication",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T02:37:47+00:00"
+    },
+    {
+      "text": "US Postal Service rule tightens mail-in voting despite court orders blocking changes - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3QzdFBWOFAyY3VIcXNHMmN2aDVtU3hZTHBFZ0pfd2ROamZ2TUd3RWdnQUR4Q2JOTUQyYVNILVJMYmZYUEZpTXJhSjNHdXVSaWZzbEVxQWF4Tks5b3ZCdkluLXIyRENKN1M1V3VEb3BLbkRqZlhBeGFXdnI2OS1fM09zYkpTQmJpT2FGbA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T02:06:00+00:00"
+    },
+    {
+      "text": "Nick Chubb retires from the NFL - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmFFZTVNUU5JTzVhTG1tZ01fVVRiZWJXNHZxQjBmQjN5MEswSXduX2VsQTRCQ2pyQ0h3cFo4Nk5EZlFrY1AtWnBxalp3cThTeDZ2SFFZMHUxVkpRNGd3N1pfOEIwMDQ4TXFVUXFPM2dKQl9CNE1BRFg4cXZRS2xkZktuSGNEWDU2eURTYm5UZjE4WlhXOWhFbg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T01:39:08+00:00"
+    },
+    {
+      "text": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHIwaGZjZ3FndDctbDlkV19MclI2aWlGSjhqSUJXYWFaemZuaXYxQS1veVV0bjNxYlhKbkxRN1dqQmtuWUZwUW9VMWw2ME9CNWxiTHZMV1BfcFIxQWV6aTRfMnRTRTNkV3NVNGtYc2FRY1lNXzV3SnloY2V1MFFUeWtmSWZpSzBGa1dYaUxfakxlbFFGdFhRWFNtVjJVMEd6UEtwV2NR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T01:30:00+00:00"
+    },
+    {
+      "text": "Defense Rests Case in Lindsay Clancy Murder Trial",
+      "url": "https://www.nytimes.com/2026/08/21/us/lindsay-clancy-trial-defense.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T00:36:13+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: \"We cannot leave\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T03:37:01+00:00"
     },
     {
       "text": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
@@ -94,118 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-22T00:36:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Kade Anderson set to join list of biggest pitching debuts of the past 20+ years - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSU3duSUUzaWNLWS1zX1BWR2c3NFByU0EwckFKTll3ZUhnYWFKU0NPN00zT29Ga2hNU2hqaWhYNXlCWDBKM2t1ek5tR1ZkRXVMUVJqaVFNQjF3RGdZZXRPTjVWaElaTlpz0gF0QVVfeXFMUHVqM0J0YnRzQlRsVWZJSTBwYUdhZklGbk94RHdjRUdOeXpvN1lDaVRfdk5pbDJzbURGRk80cmxCMFpHTkJBQ1VpcFpVSlRxNlFwU1FUZkpneEpJbzdKVTdIQlV1ckJFdGdpQXFSS2FFaDlWZEY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T02:51:36+00:00"
-    },
-    {
-      "text": "Judge Strikes Down Trump’s 75-Country Visa Ban",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T02:12:16+00:00"
-    },
-    {
-      "text": "Former Browns, Texans RB Nick Chubb announces retirement - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0YzaXZPVFRSX1lCMGhPT1VDaGVmd0pVb1dBdkQ4S0xYaFhReW1yRUlLdHhIcjVjamNnZFVWM0F4dWxhdnp3NlFzZVlPeEowN0pNTXVIbjR3N09pb0M3UmxPd1ZnbXJ2TWwyNmpMdUJ4MkZXNkN6QnNlTGJQNl9udkRHUUxRRWp4REdOdWdGU3oxbUUySHRfZA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T02:02:00+00:00"
-    },
-    {
-      "text": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T01:32:42+00:00"
-    },
-    {
-      "text": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T00:54:48+00:00"
-    },
-    {
-      "text": "Desperation Mounts as Thousands in Indiana Endure 10 Days Without Power",
-      "url": "https://www.nytimes.com/2026/08/21/us/gary-indiana-power-outage.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T00:31:49+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Pentagon Fires Editor and Publisher of Independent Military Publication",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T02:37:47+00:00"
-    },
-    {
-      "text": "US Postal Service rule tightens mail-in voting despite court orders blocking changes - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3QzdFBWOFAyY3VIcXNHMmN2aDVtU3hZTHBFZ0pfd2ROamZ2TUd3RWdnQUR4Q2JOTUQyYVNILVJMYmZYUEZpTXJhSjNHdXVSaWZzbEVxQWF4Tks5b3ZCdkluLXIyRENKN1M1V3VEb3BLbkRqZlhBeGFXdnI2OS1fM09zYkpTQmJpT2FGbA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T02:06:00+00:00"
-    },
-    {
-      "text": "Supreme Court says Trump can continue ballroom work as it weighs case - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmdNUTJ1X3NSdncwZDh2S2NlUm1OcTQ5SHdxVzNVTjM0T2NucEZrc2FKMjBZUWZueGFmcmdUN1VkNnBSc2pXOENMaHp1cmJPdWhMVV9zSVJCSzl5bW84UVFnV2lEWnhicXl3d09UNTkxYmlpMnJVbDN4YWNwaUtxVUNxd19HeS1jMm1hZF9DZTAzeF82UDlCbV95dTFBLVREVXpDSDJEVHhUd2NNckpjN3lsSnNPTExTQnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T01:55:56+00:00"
-    },
-    {
-      "text": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHIwaGZjZ3FndDctbDlkV19MclI2aWlGSjhqSUJXYWFaemZuaXYxQS1veVV0bjNxYlhKbkxRN1dqQmtuWUZwUW9VMWw2ME9CNWxiTHZMV1BfcFIxQWV6aTRfMnRTRTNkV3NVNGtYc2FRY1lNXzV3SnloY2V1MFFUeWtmSWZpSzBGa1dYaUxfakxlbFFGdFhRWFNtVjJVMEd6UEtwV2NR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T01:30:00+00:00"
-    },
-    {
-      "text": "Defense Rests Case in Lindsay Clancy Murder Trial",
-      "url": "https://www.nytimes.com/2026/08/21/us/lindsay-clancy-trial-defense.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T00:36:13+00:00"
-    },
-    {
-      "text": "Iowa HHS adds to list of potential measles exposure locations - KCCI",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGNMenJsZnVOSjdyMlRuOEJ0S0R3T3NLZVNSdXB0b29JajY4WFpQQ2t1OGMxYlhvNUV4RHVKV0owSm0yZGdhUFRuQmxEQk8zU0oxZjBNVVgzblZscmd5T3JJTmFrbHM3cGN6bnpwYTZYRWJHYzhOOTlRbnkyVy1SN0l0a0pKckZvWjU2TmxYYmNVdjdMdkhF?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T00:27:00+00:00"
     }
   ]
 }
