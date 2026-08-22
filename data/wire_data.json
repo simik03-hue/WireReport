@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-08-22T18:44:58.981067+00:00",
+  "generated_at": "2026-08-22T19:11:11.633936+00:00",
   "lead": {
-    "text": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-    "url": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-22T18:23:02+00:00",
+    "text": "End the Biden inflation tax",
+    "url": "https://thehill.com/opinion/finance/6044493-housing-supply-unlock-tax-cuts/",
+    "source": "The Hill",
+    "lean": "center",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-22T19:00:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-22T18:57:46+00:00"
+    },
+    {
+      "text": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T18:48:00+00:00"
+    },
+    {
+      "text": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
+      "url": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T18:23:02+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
       "url": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
@@ -22,51 +51,78 @@
       "time": "2026-08-22T18:20:55+00:00"
     },
     {
-      "text": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-22T18:20:36+00:00"
-    },
-    {
-      "text": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+      "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T18:02:43+00:00"
+      "time": "2026-08-22T18:00:54+00:00"
+    },
+    {
+      "text": "U.S. Economy Could Feel the Sting From Trade War With Canada",
+      "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T17:25:42+00:00"
+    },
+    {
+      "text": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T16:41:00+00:00"
+    },
+    {
+      "text": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T16:03:12+00:00"
+    },
+    {
+      "text": "Stock Up, Stock Down after the Broncos’ loss to the Packers in Week 2 of the preseason - Mile High Report",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZWh5U29COGRPa25jemQwZHdQeWZheUxMNDhlbGhrQ0YwX2tETWdHV2d6WGVxMWpNRmQ2b0xMZFJWeDFza3NUdHp3NHA2UUdkTGVMN2FmaHBHazRuUzZFZWdVeHJiMGJuVm1YcDEyRmN5QlkzOFRlWDlYenBmY0piV3lkQ3FoWHNsNmg5dU9ha2wtM3U3UDBkdjByMXI2TUFMdlM2WTBTLUhmZE8xRWEzUEdfY3ZkZjdFdHRSTVJvWVJQbXpuOXphRXZiZ0VLTFN0dEMxblZxU3dTS1NUQmxQZnRWVGJ1cV9LZktsdHRSdFAteHYyTzhldVpUNkZ6Y3lyaXhnb2VfdGpFUGo2RF93WU9kR1lySFhCSDE2eGQwc1p4MGVIVmZRWA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T15:32:18+00:00"
     }
   ],
-  "col1": [
+  "col2": [
     {
-      "text": "‘Attacked’ by Trump on Trade, Canada Is ‘at War’ With U.S., Carney Says - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUNRRk00blBmOVdhVDUyVzQ3T2o2bE9LbU1yY2doRXBlMkZEU3o1WXpqcXNNRGtsX2x2T3hzNGsyR1VYT2V1MTNNWlF6RldBbXoyRjlxNElHUHFIdHpETGYxdFBNR21Bek5qeHhLLU1qWkcwa0VoUTRidnpoSWxKdy12SWFJQQ?oc=5",
+      "text": "U.S. Cuts Colorado River Water for Arizona, California and Nevada - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWttMG1jZXlmR3dYTVpNZHRVdG1FNEdzaEhiV0l0SlNYQ09uSlZwd0xxUjJseGNTUndFd0hNdHhmVlRfNGVmWkdCRjNmMGRlRF9iVS1tSGVPZGwzSmNjNVhZbUZ5SVB6Z0VPMmUtejZUbEw1YURRUnQtWGR1SGpkOVViSzNmZzdC?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T18:02:43+00:00"
+      "time": "2026-08-22T18:03:00+00:00"
     },
     {
-      "text": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T17:31:21+00:00"
-    },
-    {
-      "text": "As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTZ5SVhpaTBlZE8tVm9veEVrblI5OXF3Rm50WEY5Rmc5M2h5a29RTmFHSUdYRXZjU05NWlA5RVdDNlBuNUg4R3dhWlNGUDhzZVBQVEdQVUZNSEEyc3VCV0QtakYxaTEtd0h1RVVMLVllb0t4b0FST283S29Oc2NTSVZ4WjNuRGdwcVZpVlB1WmMwMXA0UHB6WlV4OGQ5ZmF0MGVQaFVRdTZXaHFDMEFsUGtpMA?oc=5",
+      "text": "Former Kansas Sen. Nancy Kassebaum Baker dies at 94 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82TzJOSGpLd1RXUTREZTg4OUszb2Niejd0RWdQYmphdXJlbkJpQjE2VHY5YmVfSUdtR2s1aVJhQ2FSdW5NOWQyQkJsTWZtdVJ5bkJaTkxGZDdvV180V05kZ1NqYlV4UElCbDRXZ01VaW5sWVVrMzMtaTVvSEtfQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T17:00:01+00:00"
+      "time": "2026-08-22T17:34:45+00:00"
+    },
+    {
+      "text": "Anna Paquin makes chilling claim about child stars after Hayden Panettiere, Michelle Trachtenberg’s deaths - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTmN5Y1U4VXBDcGNNeU9aSk0xOS0tcmZhRzRlN0lQUTJydThJdm5BY3BESUw1eFdkU0h5dnhRVFlsbmw5eGFRQ2IxQ3Y1YkhDQ3VTUUUwUXJ0MzJndmRaaVRXTkdYV3hhMXpGY20wX21kbnhMdFdOdjAxSEQtaUdhVmN0VkxRaUpqQW9NUkZaU2NRLWJBZkdTY2RTeFI2WXR4bmJMWUdUWVlEQkJmSGJVRjJkRTRWcjdEMW0xa3RFOS15eEhfRl8xRXdTQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T17:12:00+00:00"
     },
     {
       "text": "Michael Wright, Star of ‘The Five Heartbeats’ and ‘Sugar Hill,’ Dies at 70 - The Hollywood Reporter",
@@ -96,33 +152,33 @@
       "time": "2026-08-22T14:55:24+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "text": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T18:00:54+00:00"
+      "time": "2026-08-22T18:02:43+00:00"
     },
     {
-      "text": "U.S. Economy Could Feel the Sting From Trade War With Canada",
-      "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html",
+      "text": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T17:25:42+00:00"
+      "time": "2026-08-22T17:31:21+00:00"
     },
     {
-      "text": "US military newspaper editor voices censorship fears after being fired - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ROEtkLTZSNVZjX0dUamhRUDkyTEVVajlQT0s5ZkFuV0dvQ3JaUkk3WV9wUG9XREdFRXc0N01CODRCYzRtOFlBYks3MldsdU0wTVFpSzlBaVBYdw?oc=5",
+      "text": "U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kam8wUzBnbm9NT3lVYWFjNFhIS1hXaEhlWVVtTkF6SEtVeXk4WXhEZjFTcWdUaXZxQS1RZFYyOFcyZFNocVVVdWhrT3EtbnUtdzBWdUswZ2VDX1FmX1MwTHQybXZDSE82YzFJb185UXRUZlFkeHRlZGFKcw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:57:19+00:00"
+      "time": "2026-08-22T17:01:00+00:00"
     },
     {
       "text": "Box Office: 'Insidious: Out of the Further' Takes First Place on Friday - Variety",
@@ -134,8 +190,8 @@
       "time": "2026-08-22T16:06:00+00:00"
     },
     {
-      "text": "Hayden Panettiere’s death puts renewed scrutiny on abusive ex-boyfriend - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDc0ZGlTNGp4NjQ3TlEwaGRkNDVjOWFKVS1MTjBadVNVb1VCZFdDbVR4QklQWWhac3VRZGtMYXQ4TkotZVN3YnZCdzMxUzVxbTFTdW9VYUVTaTAwQzlhLXFsSkd5SXVRYVpFdmxNQ1hsM2oycFlWQ3JCellpZEdTN19sejl6OTBVdl8zSy1rY2pVVU94cWY5V1VkekFzMUJDVWpOMldkc25henpZN1c2U3BiTjZYdw?oc=5",
+      "text": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVhFbThLODU5RTAzdGFGSkJwRVRDdU41emxIbF9fUnBXVnlkRmhxQ0ttUFYxU1dkTmdLYXVVX2RnM2JwQ2ppUWlHR3VFdlVpZzhuQjJBUmhHY29oaHRyODhaaFdyUm5RSFZOa1lHN3RyMnd2bnFTc05VeTZ1bVg1UzBSeVFKTXVvcHREbm1qdHd2Y28?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
@@ -150,62 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-22T14:38:44+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Former Kansas Sen. Nancy Kassebaum Baker dies at 94 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82TzJOSGpLd1RXUTREZTg4OUszb2Niejd0RWdQYmphdXJlbkJpQjE2VHY5YmVfSUdtR2s1aVJhQ2FSdW5NOWQyQkJsTWZtdVJ5bkJaTkxGZDdvV180V05kZ1NqYlV4UElCbDRXZ01VaW5sWVVrMzMtaTVvSEtfQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T17:34:45+00:00"
-    },
-    {
-      "text": "U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kam8wUzBnbm9NT3lVYWFjNFhIS1hXaEhlWVVtTkF6SEtVeXk4WXhEZjFTcWdUaXZxQS1RZFYyOFcyZFNocVVVdWhrT3EtbnUtdzBWdUswZ2VDX1FmX1MwTHQybXZDSE82YzFJb185UXRUZlFkeHRlZGFKcw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T17:01:00+00:00"
-    },
-    {
-      "text": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:41:00+00:00"
-    },
-    {
-      "text": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:03:12+00:00"
-    },
-    {
-      "text": "Stock Up, Stock Down after the Broncos’ loss to the Packers in Week 2 of the preseason - Mile High Report",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZWh5U29COGRPa25jemQwZHdQeWZheUxMNDhlbGhrQ0YwX2tETWdHV2d6WGVxMWpNRmQ2b0xMZFJWeDFza3NUdHp3NHA2UUdkTGVMN2FmaHBHazRuUzZFZWdVeHJiMGJuVm1YcDEyRmN5QlkzOFRlWDlYenBmY0piV3lkQ3FoWHNsNmg5dU9ha2wtM3U3UDBkdjByMXI2TUFMdlM2WTBTLUhmZE8xRWEzUEdfY3ZkZjdFdHRSTVJvWVJQbXpuOXphRXZiZ0VLTFN0dEMxblZxU3dTS1NUQmxQZnRWVGJ1cV9LZktsdHRSdFAteHYyTzhldVpUNkZ6Y3lyaXhnb2VfdGpFUGo2RF93WU9kR1lySFhCSDE2eGQwc1p4MGVIVmZRWA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T15:32:18+00:00"
-    },
-    {
-      "text": "The race for power, money and influence at Washington’s IndyCar event - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHZteXRqZno3dVhJVHg4Mi1OVFFfclhxYXdPcXlBdTFJd1lPX1V3VGpTcHh0bDhpUGlJQTBheXJoZUNTX3ZrS2MzbEZOdDVURTloeVI4bDZZQno5ZVNkeFJMa09Sc0FhSzRlOVZHaGNtVmg4MFJJdUJUamttSFZrZGRjckdyNEFFRVYwdQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T14:12:00+00:00"
     }
   ]
 }
