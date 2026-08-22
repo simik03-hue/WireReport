@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-08-22T17:01:45.782359+00:00",
+  "generated_at": "2026-08-22T17:38:48.282882+00:00",
   "lead": {
-    "text": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-    "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-22T17:01:18+00:00",
+    "text": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+    "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-22T17:34:22+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+      "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-22T16:45:02+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-22T17:33:53+00:00"
     },
     {
-      "text": "As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTZ5SVhpaTBlZE8tVm9veEVrblI5OXF3Rm50WEY5Rmc5M2h5a29RTmFHSUdYRXZjU05NWlA5RVdDNlBuNUg4R3dhWlNGUDhzZVBQVEdQVUZNSEEyc3VCV0QtakYxaTEtd0h1RVVMLVllb0t4b0FST283S29Oc2NTSVZ4WjNuRGdwcVZpVlB1WmMwMXA0UHB6WlV4OGQ5ZmF0MGVQaFVRdTZXaHFDMEFsUGtpMA?oc=5",
+      "text": "Trump bashes Greene, Massie after meeting with Tucker Carlson",
+      "url": "https://thehill.com/homenews/administration/6045142-trump-insults-republicans-over-beef/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-22T17:33:26+00:00"
+    },
+    {
+      "text": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T17:31:21+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kam8wUzBnbm9NT3lVYWFjNFhIS1hXaEhlWVVtTkF6SEtVeXk4WXhEZjFTcWdUaXZxQS1RZFYyOFcyZFNocVVVdWhrT3EtbnUtdzBWdUswZ2VDX1FmX1MwTHQybXZDSE82YzFJb185UXRUZlFkeHRlZGFKcw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:39:18+00:00"
+      "time": "2026-08-22T17:01:00+00:00"
     },
     {
       "text": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
@@ -38,20 +58,9 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-22T16:35:58+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Canada-U.S. Trade War Escalates as Talks Collapse",
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T16:33:59+00:00"
     },
     {
-      "text": "Deleted tweets show Natalie Harp’s zealous support for Trump on Jan. 6 - CNN",
+      "text": "Deleted tweets show Natalie Harp’s zealous support of Trump on January 6 - CNN",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllHZWs0QmhQS2dXOGlQWTRoSW9iUGdoR2xIMDlkX2s1TmlKV3RIZGt0bXM0VHhqd0hQWVJycllCNDBFa1hSRXpfNTJaT05JTjhjdTg2bGVhMUJjcmdGR0VMa3NmTUhrYk40dXJQZGxZalkwaWxIa0hVc1FDNk1ZRUpaQXdJLWZ4UVU5aWlONl94SEE?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -60,22 +69,22 @@
       "time": "2026-08-22T16:00:29+00:00"
     },
     {
-      "text": "2026 Premier League live updates, scores: Opening Saturday of the new season - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlVlM3J4SVR2SENyMTVHb1o0cU04YTRrSTl4QWMyQ1F2YlJBeXhFNGFYZEF2VkppQW5qZEpvdko5Z3ktX3ItNXBKQnpyX1dyZFdYRzhrSGxOa0pncktRUFU3bWdGVVJPNmFXODdmcTZwdmlTc0trZlJfYlJ3cy1KdW9NNkJscHdJNGpDZkxCWE9ONUFsNVNXSEZXR3Y1VzZDSktMMFZqLWFmS3V4SkR5V2lYV2J0YVRRZjBZ?oc=5",
+      "text": "GOP lawmakers criticize Trump’s beef import plan amid blowback from ranchers - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR2hyejE0MHNmWmZIcmtMSTgyZ1NiVnNXajc2WFoySjZydVVUM09KTk1teXdSYzBEY01hLUJJV2Q2VTNnb1VZbXhyVktqMmdLNGM2cVJ0d2RqMDZoT1FWNTRaaVhCVExaclVBQU1nSWhyVDFaaTlvZzZMcEpKeEhFVEN0blBUOExfWF91VzlNMkY1bklNNkVoaUMyelNtZnVKQXhBYVZLcmZ5UVJuTXREYXEyTVhqbEh4b1dHdFV6dWhlTFFraEItWEhmUUlRUGc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T14:59:00+00:00"
+      "time": "2026-08-22T14:54:47+00:00"
     },
     {
-      "text": "How bitcoin and gold went from a slump to an MVP week in just a few days - AP News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUG54cnh0XzJTWVMyVnl0b19hdFN1TGhnWE1xcE1ER2h5VnpTNmpOdkxEUWpRaWt5WnVUS1JCVnFWb0lxSElTQ3pENlNCVFNvYnBMWE9KbVdNNmJjOU55SzNIa3VkcFpwcFlXcXVSekZkdTBqSlA0LVRIYzVBYkZLYkpodkdPYWhvRFQzLWNIaTRlVVdPT0F4WmpDeFl6SjJ3c21ZRVl4UzNCUkVPVjR5ZU9B?oc=5",
+      "text": "Michael Wright Dies: ‘The Five Heartbeats’ Star Was 70 - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTVENEhqQnFTbUZwRkRUSDgzYjZDeC1HaE1FbVVxTmRDdEh5SG1mN21SR0FrQUo2aGcycmFWNnJLcmswMjJCYWtDUjVqSk5TelcxWF85WExQZkRXMVB5ZEJnbWwyOW5lZHdPSXdCSzlTUGJJZ2JwNzFrUml1bmw0dFVtUDkzWVU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T13:59:00+00:00"
+      "time": "2026-08-22T14:02:00+00:00"
     },
     {
       "text": "Frank Smith, Who Served 70 Years for Murder, Dies at 101",
@@ -85,26 +94,26 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-22T13:32:26+00:00"
-    },
-    {
-      "text": "Tupac Shakur murder trial's first week sees heated testimony from reluctant witnesses with old gangland ties - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUG5VMXlKT1dZUmozU0VhUk9SN1Y2clZHS3o4SF9EVGRzUEFWRFE1OWlsR0dZZHpOQTZmaVE1Y3dFRW5MUzVYWUtzYkNORDBKUmpkZlktWU5Xa3BkRE1wWUlRbXNOZy1GdW1BLTVqVTRSNnFpR19nUHZWVG8wRnhmTmR0R0ZObFpKY3FJOFJCaWdWT3N6aENVYk5BNi1mZm9FRDV1REwtM1d4RlBhbUpnMXBqQ3h0dXVqRHfSAb8BQVVfeXFMUFQ4V2c2Qkt0d3A0V29nTFFfVzdrZThlLU1acXZOcGs5ak1sQUlXRzdVSndDQ3hZaFZhcU9fbUg1S1c0QmpiZG1JenkwWGdWZUs2RDNobmIzR3UwczhYak5rTnBFTlZ0MGl5TzM2aWZDNk5uYVNFWGREdGZMZndEZGRrbjJfdTUxMVVneFdJa292S1JETllKdzBwQzdyZHdvVEFHNTBsUjMzd1RVUGFoTnRXZUowaUxZNjl3dEZsN1U?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T13:00:24+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8 - NPR",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ek9UMzBJR2h5cVJkbzFpUzY5dkprSXNTNjZjR0RwWEc1RFlxSWlnWGtFaFg1bm5LUUpDUWhfZGRETW9PN1RiWEhxdXN2dUxVeFRZNjJhQ2tJYk1PUnZJYXRISk9oMGdWS1dTYUNiWQ?oc=5",
+      "text": "As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTZ5SVhpaTBlZE8tVm9veEVrblI5OXF3Rm50WEY5Rmc5M2h5a29RTmFHSUdYRXZjU05NWlA5RVdDNlBuNUg4R3dhWlNGUDhzZVBQVEdQVUZNSEEyc3VCV0QtakYxaTEtd0h1RVVMLVllb0t4b0FST283S29Oc2NTSVZ4WjNuRGdwcVZpVlB1WmMwMXA0UHB6WlV4OGQ5ZmF0MGVQaFVRdTZXaHFDMEFsUGtpMA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:22:34+00:00"
+      "time": "2026-08-22T17:00:01+00:00"
+    },
+    {
+      "text": "Canada-U.S. Trade War Escalates as Talks Collapse",
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T16:33:59+00:00"
     },
     {
       "text": "Stock Up, Stock Down after the Broncos’ loss to the Packers in Week 2 of the preseason - Mile High Report",
@@ -116,22 +125,22 @@
       "time": "2026-08-22T15:32:18+00:00"
     },
     {
-      "text": "Harry and Meghan See Their California Dreams, and Riches, Fade Away",
-      "url": "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html",
+      "text": "How a Trump Envoy Uses Vodka and Dirty Jokes to Conduct U.S. Diplomacy",
+      "url": "https://www.nytimes.com/2026/08/22/world/europe/belarus-john-coale-lukashenko-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T14:55:23+00:00"
+      "time": "2026-08-22T14:38:44+00:00"
     },
     {
-      "text": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+      "text": "USPS publishes rule to block mail-in ballots from states that don't provide voter lists - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWVhdWY3TkVfaTRUOC1SWGlDRGctNXhjWDdXazdPWEpYb21VeGhMSXJRcTRmbFE2OUxpYUFqaFJEU3A3TjdMSlVDUFpNRFA4Yy03X2F1Umxwbmo2LWR0YXNianNPeWViU1d0QkF5LXhZTXBWSUxwRFkwclBQc3RoZGp2MzNPS1luZUQ2TXR4Ty1VQkl4WlNBREIwZG9lbmtMbDhSQWVYaUJMUdIBrwFBVV95cUxNdW9SQ283TENqMVgwRTFBSmc0NkNGTzlkRk5LVXJlV2JITFpmcTRxSUpQNDZyTFdtRXJHb0tIVGo0dEt1SHlrLUV1bG5mOHdsd2I1MUFMS0tvMlFOUFlwOEJEWUpRVFRPbXJRZGlxNkhmVUhqWGJsNDVzbEdaYlRFU2FUdHNWUXNlQ3RZdjhjSERpQ0hpQ2ZpMVdZZy04Q2FUTmM1WFc0ZzVRTDdlTkFZ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T13:56:00+00:00"
+      "time": "2026-08-22T14:00:37+00:00"
     },
     {
       "text": "LIVE: F1 Dutch Grand Prix updates - Qualifying coming up | Live text - Motorsport.com",
@@ -141,35 +150,35 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-22T13:31:20+00:00"
-    },
-    {
-      "text": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYldwUkNFV2VsM3NJRWZCU1BRcFlPOGE5WFg2SmtUX2loNENncmNtbnBJV2JnTWFOXzllMG9SU0VpRXB2TTVDYlpaNG8ycDk3OWphTDlZZnM3MC1jSllKemxoeHQ1V180V1V1WnkwQ0tBSF9XMXBoODBiODhxN2ZTSFNOTnY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T13:00:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T16:14:22+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T16:41:00+00:00"
     },
     {
-      "text": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
-      "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+      "text": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8 - NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ek9UMzBJR2h5cVJkbzFpUzY5dkprSXNTNjZjR0RwWEc1RFlxSWlnWGtFaFg1bm5LUUpDUWhfZGRETW9PN1RiWEhxdXN2dUxVeFRZNjJhQ2tJYk1PUnZJYXRISk9oMGdWS1dTYUNiWQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T16:22:34+00:00"
+    },
+    {
+      "text": "Harry and Meghan See Their California Dreams, and Riches, Fade Away",
+      "url": "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T15:09:42+00:00"
+      "time": "2026-08-22T14:55:23+00:00"
     },
     {
       "text": "The race for power, money and influence at Washington’s IndyCar event - Politico",
@@ -190,22 +199,13 @@
       "time": "2026-08-22T13:41:01+00:00"
     },
     {
-      "text": "Swedish police probe online networks after teenage girl killed in school sword attack - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5",
+      "text": "Tupac Shakur murder trial's first week sees heated testimony from reluctant witnesses with old gangland ties - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUG5VMXlKT1dZUmozU0VhUk9SN1Y2clZHS3o4SF9EVGRzUEFWRFE1OWlsR0dZZHpOQTZmaVE1Y3dFRW5MUzVYWUtzYkNORDBKUmpkZlktWU5Xa3BkRE1wWUlRbXNOZy1GdW1BLTVqVTRSNnFpR19nUHZWVG8wRnhmTmR0R0ZObFpKY3FJOFJCaWdWT3N6aENVYk5BNi1mZm9FRDV1REwtM1d4RlBhbUpnMXBqQ3h0dXVqRHfSAb8BQVVfeXFMUFQ4V2c2Qkt0d3A0V29nTFFfVzdrZThlLU1acXZOcGs5ak1sQUlXRzdVSndDQ3hZaFZhcU9fbUg1S1c0QmpiZG1JenkwWGdWZUs2RDNobmIzR3UwczhYak5rTnBFTlZ0MGl5TzM2aWZDNk5uYVNFWGREdGZMZndEZGRrbjJfdTUxMVVneFdJa292S1JETllKdzBwQzdyZHdvVEFHNTBsUjMzd1RVUGFoTnRXZUowaUxZNjl3dEZsN1U?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T13:22:35+00:00"
-    },
-    {
-      "text": "‘GTA 6’ Leaker Has Now Reached A Strip Club As Rockstar Scrambles - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFdGWGV0M3A5V3drU3ozT29tM2liSzNJQlIxX2RXc0dZSkpLWWd0a1NoZ0JhSkNoNTNWdGNXXzFOb044ZzlVSExySG4tdDY1eGgtRGlVUURTSTI4cjdkdFVWUFVtTjQ3QjFQVEJoTTZuaU8wcEsyV1hwblFTaklBd2dEd0oweU01cktldHVXLUQzamRLV0NhaGtEMUZxVWdSajZheXdBb2RCbC1sWktNak9hNTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T12:50:39+00:00"
+      "time": "2026-08-22T13:00:24+00:00"
     }
   ]
 }
