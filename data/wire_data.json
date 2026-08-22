@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-08-22T03:58:26.179576+00:00",
+  "generated_at": "2026-08-22T04:42:43.083254+00:00",
   "lead": {
-    "text": "U.S. Says Canada Has Declined a Trade Deal to Stave Off Tariffs",
-    "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-deal-carney-canada.html",
-    "source": "NYT",
+    "text": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+    "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+    "source": "NPR Politics",
     "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-22T03:47:09+00:00",
+    "topic": "politics",
+    "sourceNote": "Public radio, nonprofit newsroom.",
+    "time": "2026-08-22T04:36:27+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "U.S., Canada fail to reach a tariff deal, deepen trade war",
+      "url": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-22T04:28:44+00:00"
+    },
+    {
+      "text": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
+      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T04:01:35+00:00"
+    },
     {
       "text": "Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: \"We cannot leave\" - CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5",
@@ -20,24 +38,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-22T03:37:01+00:00"
-    },
-    {
-      "text": "Trump administration wants to deny ABA ability to oversee law schools: Report",
-      "url": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-22T03:29:50+00:00"
-    },
-    {
-      "text": "Who's rising and who's falling after the Steelers' second preseason game against the Jets - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVTJRTzhpT0FXUHNUeEtiSm02aXlYbTdHZkZDbG5xdnR6cUR3bUdVUEpwUlRCNU1SUVpUVk1nalBFeE94UzVXbGF5VDVFVEktb2wtZ0Y5dFBPMWFSQXRkakwxeXNCTjlVd29EZ215UFNFUmNIX1FkZWYwQThJQVZfQ0ZxcVFIRDFRTlExVU1QYVJnV2dtaXRtS1FzX3VZSnBuSGM4OWxueUV0RkZYSl9KdklwRzViQ3NrTU9VN0toTmZna3pnOVpz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T03:29:40+00:00"
     }
   ],
   "col1": [
@@ -51,13 +51,13 @@
       "time": "2026-08-22T02:51:39+00:00"
     },
     {
-      "text": "Company recalls alfalfa sprouts after CDC says 55 sickened in salmonella, E. coli outbreak - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjVkbnhWM3ZQNXNsVExDZEtCTjBfYXpQamdsa0d2eHpmSzQtUmN6MzUzM2FFaGR4TXlMdzVIekxEdFVXOEhRamp6bFlzTVVDZ2p4V3EzOEh2QV9hT0RIXzVHVXJPY3hOZjFDN2x5UWlLRlo2cWlpRjJuSEpIcWpNRlhycXo1VHd1ZXFBeGRBUUxQcE9DX0RVZnlvT2p2d9IBowFBVV95cUxPZUpMZXg1SEZVZzdiRTl2aEhwMGJXTmUxUmdoY29jaHhGY2thVFByU1ZlaDhxM0xsTHZCSWZqSEpHeWpSenlfaFh3Zko5Y0FOSTVlbVFEZnVHUkpQQ09od09kV3o1MUpBUWVwaXo2WlU5QVFLX3RlMXNTMjBPWlZfUXpQc2g2Y0owakRsZC1ieVV5MlUzbUlKc3N1SXZFc240bnFV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T02:22:25+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T02:37:14+00:00"
     },
     {
       "text": "Trump to honor Artemis II astronauts who traveled farther from Earth than any humans in history - Fox News",
@@ -69,6 +69,15 @@
       "time": "2026-08-22T02:04:31+00:00"
     },
     {
+      "text": "E coli and salmonella outbreak linked to alfalfa sprouts sickens dozens across multiple states - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmtVMmZMWkhUZ0dmMFpPRkJ0OHktYkxrVkI1OW9IVXlyWHB1V2hYX0o0RDN0azR4TFFKQ1hSSFJSRGhzaUFkWjYtWGJkOVYtc2RES3dTUDgydnVNZ1JiNFEwQlNIaGFwSi1jU3NwS0lpU0NwcWFPUzVfdjh6MkVTS3FmOTZvX3dtdzdjZDdwRnh2V01jWFpWSTR2V1pmYVRzMjJydWRONEJSNVczanlOMHdnelVGUnROdm5tT2pPOGdRRW_SAcgBQVVfeXFMTXFrOVFFYko0Xy1ENDZzX0Z2QUxxSUxmdEdzamJxR1VXeFhGTTUyZU5LeEM2dk9RZVp0TkNWWmtTTHdFY3JSOXVfNkVnTnB6VE9TTkZqVmNHZ3dQa21Ib2V1ZkJmc2dBZUpMSmNHS3lWbm83M0dWaFFYQUdIbnRCeHdOajV4dGNxYTR5RUFjUk9sUnJKWk4ta0otNG9JU191S0ZiN3dEZE5XSG1hN200VWRGdTIwNG0zbTdkbnBXR2tpSkpuNW5sbk4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T01:39:00+00:00"
+    },
+    {
       "text": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
       "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
       "source": "NYT",
@@ -78,33 +87,24 @@
       "time": "2026-08-22T01:08:25+00:00"
     },
     {
-      "text": "Defense Rests Case in Lindsay Clancy Murder Trial",
-      "url": "https://www.nytimes.com/2026/08/21/us/lindsay-clancy-trial-defense.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T00:36:13+00:00"
-    },
-    {
-      "text": "Iowa HHS adds to list of potential measles exposure locations - KCCI",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGNMenJsZnVOSjdyMlRuOEJ0S0R3T3NLZVNSdXB0b29JajY4WFpQQ2t1OGMxYlhvNUV4RHVKV0owSm0yZGdhUFRuQmxEQk8zU0oxZjBNVVgzblZscmd5T3JJTmFrbHM3cGN6bnpwYTZYRWJHYzhOOTlRbnkyVy1SN0l0a0pKckZvWjU2TmxYYmNVdjdMdkhF?oc=5",
+      "text": "‘I’m on the ballot’: Trump lends a hand to struggling Darline Graham - Politico",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzBTNVVDS3VsU1VHR3J4Zmk3VU5MaGU2YlIxdFJlc0k0Uld4WGMtQ2YzMWllaGVvZVUxLTRjclduUXp1N2tiRHZrRUhwYmFrOW43a3lMazJLbFlGNE1pTURWbXBhTEV6X2pCSmNlV2NnQ25IaExxZl9ETUs5aTZHTVdFOA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T00:27:00+00:00"
+      "time": "2026-08-22T00:36:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Pentagon Fires Editor and Publisher of Independent Military Publication",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Kade Anderson set to join list of biggest pitching debuts of the past 20+ years - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSU3duSUUzaWNLWS1zX1BWR2c3NFByU0EwckFKTll3ZUhnYWFKU0NPN00zT29Ga2hNU2hqaWhYNXlCWDBKM2t1ek5tR1ZkRXVMUVJqaVFNQjF3RGdZZXRPTjVWaElaTlpz0gF0QVVfeXFMUHVqM0J0YnRzQlRsVWZJSTBwYUdhZklGbk94RHdjRUdOeXpvN1lDaVRfdk5pbDJzbURGRk80cmxCMFpHTkJBQ1VpcFpVSlRxNlFwU1FUZkpneEpJbzdKVTdIQlV1ckJFdGdpQXFSS2FFaDlWZEY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T02:37:47+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T02:51:36+00:00"
     },
     {
       "text": "Judge Strikes Down Trump’s 75-Country Visa Ban",
@@ -114,6 +114,15 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-22T02:12:16+00:00"
+    },
+    {
+      "text": "Former Browns, Texans RB Nick Chubb announces retirement - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0YzaXZPVFRSX1lCMGhPT1VDaGVmd0pVb1dBdkQ4S0xYaFhReW1yRUlLdHhIcjVjamNnZFVWM0F4dWxhdnp3NlFzZVlPeEowN0pNTXVIbjR3N09pb0M3UmxPd1ZnbXJ2TWwyNmpMdUJ4MkZXNkN6QnNlTGJQNl9udkRHUUxRRWp4REdOdWdGU3oxbUUySHRfZA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T02:02:00+00:00"
     },
     {
       "text": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
@@ -134,33 +143,24 @@
       "time": "2026-08-22T00:54:48+00:00"
     },
     {
-      "text": "‘I’m on the ballot’: Trump lends a hand to struggling Darline Graham - Politico",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzBTNVVDS3VsU1VHR3J4Zmk3VU5MaGU2YlIxdFJlc0k0Uld4WGMtQ2YzMWllaGVvZVUxLTRjclduUXp1N2tiRHZrRUhwYmFrOW43a3lMazJLbFlGNE1pTURWbXBhTEV6X2pCSmNlV2NnQ25IaExxZl9ETUs5aTZHTVdFOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T00:36:00+00:00"
-    },
-    {
-      "text": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
-      "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+      "text": "Desperation Mounts as Thousands in Indiana Endure 10 Days Without Power",
+      "url": "https://www.nytimes.com/2026/08/21/us/gary-indiana-power-outage.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T00:24:20+00:00"
+      "time": "2026-08-22T00:31:49+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+      "text": "Pentagon Fires Editor and Publisher of Independent Military Publication",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T02:37:14+00:00"
+      "time": "2026-08-22T02:37:47+00:00"
     },
     {
       "text": "US Postal Service rule tightens mail-in voting despite court orders blocking changes - The Guardian",
@@ -172,6 +172,15 @@
       "time": "2026-08-22T02:06:00+00:00"
     },
     {
+      "text": "Supreme Court says Trump can continue ballroom work as it weighs case - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmdNUTJ1X3NSdncwZDh2S2NlUm1OcTQ5SHdxVzNVTjM0T2NucEZrc2FKMjBZUWZueGFmcmdUN1VkNnBSc2pXOENMaHp1cmJPdWhMVV9zSVJCSzl5bW84UVFnV2lEWnhicXl3d09UNTkxYmlpMnJVbDN4YWNwaUtxVUNxd19HeS1jMm1hZF9DZTAzeF82UDlCbV95dTFBLVREVXpDSDJEVHhUd2NNckpjN3lsSnNPTExTQnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T01:55:56+00:00"
+    },
+    {
       "text": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHIwaGZjZ3FndDctbDlkV19MclI2aWlGSjhqSUJXYWFaemZuaXYxQS1veVV0bjNxYlhKbkxRN1dqQmtuWUZwUW9VMWw2ME9CNWxiTHZMV1BfcFIxQWV6aTRfMnRTRTNkV3NVNGtYc2FRY1lNXzV3SnloY2V1MFFUeWtmSWZpSzBGa1dYaUxfakxlbFFGdFhRWFNtVjJVMEd6UEtwV2NR?oc=5",
       "source": "Google News",
@@ -181,31 +190,22 @@
       "time": "2026-08-22T01:30:00+00:00"
     },
     {
-      "text": "Preseason 2026: Broncos vs. Packers - Live coverage - Mile High Report",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHVVNGlEa1RTRlJTSThidWFTZXhJVkUxTVlraG5SOVVRQS1HZW0ybEtkZWVMOHUtcDYxeVRUOEdLajYxamxJUnlkenYyZ0ZBSnJ1SWx6MGJDaXdwdGg0VWtMbHJjV2Z5LVF3WUEzbGpRRXowODQ5RmN5T3NHQ3lhWkI2Zl8yS2s1VkJGdnNLOGRpRE83T1NhR29wcDZZYTdDcC15cnlhMWt1dXR3N0Vz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T00:45:00+00:00"
-    },
-    {
-      "text": "Desperation Mounts as Thousands in Indiana Endure 10 Days Without Power",
-      "url": "https://www.nytimes.com/2026/08/21/us/gary-indiana-power-outage.html",
+      "text": "Defense Rests Case in Lindsay Clancy Murder Trial",
+      "url": "https://www.nytimes.com/2026/08/21/us/lindsay-clancy-trial-defense.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T00:31:49+00:00"
+      "time": "2026-08-22T00:36:13+00:00"
     },
     {
-      "text": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVB1MHNtMHFtTEZCeUp5Q3kyTDh2U25JOHNvOW43NlFUTVRvaGhzRkxuUnB0UUMyUnk1MG1xeWhpSElUTmVGUjNMOWJ1Vml4RjJWZzVpQnhlaXhxc1p4NHQzdWY2UXMtUGRaYy1pYVVWY2k5ZTJmQjVuMUpxeTFXSDlOeFN6RE0wX3FtZA?oc=5",
+      "text": "Iowa HHS adds to list of potential measles exposure locations - KCCI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGNMenJsZnVOSjdyMlRuOEJ0S0R3T3NLZVNSdXB0b29JajY4WFpQQ2t1OGMxYlhvNUV4RHVKV0owSm0yZGdhUFRuQmxEQk8zU0oxZjBNVVgzblZscmd5T3JJTmFrbHM3cGN6bnpwYTZYRWJHYzhOOTlRbnkyVy1SN0l0a0pKckZvWjU2TmxYYmNVdjdMdkhF?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T00:06:17+00:00"
+      "time": "2026-08-22T00:27:00+00:00"
     }
   ]
 }
