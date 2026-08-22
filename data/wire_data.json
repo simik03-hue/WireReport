@@ -1,26 +1,102 @@
 {
-  "generated_at": "2026-08-22T14:40:53.003157+00:00",
+  "generated_at": "2026-08-22T15:00:44.798271+00:00",
   "lead": {
-    "text": "Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now",
-    "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-22T14:35:23+00:00",
+    "text": "The US is using the wrong measure of pressure on Iran",
+    "url": "https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate/",
+    "source": "The Hill",
+    "lean": "center",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-22T15:00:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-22T14:35:11+00:00"
+      "text": "Harry and Meghan See Their California Dreams, and Riches, Fade Away",
+      "url": "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T14:55:23+00:00"
     },
+    {
+      "text": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-22T14:53:32+00:00"
+    },
+    {
+      "text": "Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now",
+      "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T14:35:23+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Ten days after storm, thousands are still waiting for power in Indiana - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkJzcG1wejZWbkdkXzRzdkxUSVlfVWM2LUltRWtsRTRpMkRzeWx2ZVNLR2FYUjA1aEwwRHNkcWVWYmlKY0pWaVJpVzRqOTdoaHk0a3hGN3NIU2QxZ0IyYWF2cnctb0RIcUNuVFF6OUhXb2pqbWZHa2tETkZNSmx2anpXYUNBZDlLQTlfUDZDZTlNN1FsemlIUTFCaDUzZFFrMUU5b3NGTUZvTjEzYXJCb0E3cUFYYVdO?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T14:33:17+00:00"
+    },
+    {
+      "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T13:35:43+00:00"
+    },
+    {
+      "text": "Swedish police probe online networks after teenage girl killed in school sword attack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T13:22:35+00:00"
+    },
+    {
+      "text": "UFC Sacramento predictions - MMA Fighting",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hQTFLMzVjMlpUZGpQb0ktS0lGSE5YU2FITWZGaWRrU2kwaXF5MFpLOVFfZ3h6a0RLVG9GWjBLaVdhZEtOUEI1OGU4QnZKaHZtSjRuWnA2Xy1scnd1T1MyUlB4bzFtUnBuaG04NzZiM1RDdTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T13:00:00+00:00"
+    },
+    {
+      "text": "Near-total lunar eclipse is coming up with the Americas in prime position - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYURReW5UejhzSXR6ZTl0d3F4UEtDUm5sSGFNZGdWbE9oRFZVWFZDb3haUHVQOWczeEgyMjBwWnBDa1N2a1VoQzcxRklrelVjMlkxUEU0cnNvY1RPQTZZQWxndnFpM0xGSm12UUhNMzl3UXIwNnNybDFBaDhuSFIzQVJBd1E5dDRZOUE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T12:01:00+00:00"
+    },
+    {
+      "text": "US kindergarten vaccination rates dip as exemptions hit record high - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDYwVC1pY3VtSzFyTVpUUjBqYi1jb2I2NUMwTFFQQzNFNWNCa2tad0tpbnBzWW5XTTdXTmR6ZW4yOWNBLTZseDI3NE9jQWhTQ0hmeHBma2ZiUmhST0xDLTl4MlBrSVZtVVdEdmRMZTJKSVR6MWY1ZVJvQzg2N01neUtSNG9uZmVLS3o5Mm5aMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T11:00:00+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTZ5SVhpaTBlZE8tVm9veEVrblI5OXF3Rm50WEY5Rmc5M2h5a29RTmFHSUdYRXZjU05NWlA5RVdDNlBuNUg4R3dhWlNGUDhzZVBQVEdQVUZNSEEyc3VCV0QtakYxaTEtd0h1RVVMLVllb0t4b0FST283S29Oc2NTSVZ4WjNuRGdwcVZpVlB1WmMwMXA0UHB6WlV4OGQ5ZmF0MGVQaFVRdTZXaHFDMEFsUGtpMA?oc=5",
@@ -29,26 +105,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-22T14:32:31+00:00"
-    },
-    {
-      "text": "Iran says 'world approved our victory' over the US",
-      "url": "https://thehill.com/policy/international/6044991-iran-claims-world-accepted-victory-sanctions/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-22T14:25:09+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "The race for power, money and influence at Washington’s IndyCar event - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHZteXRqZno3dVhJVHg4Mi1OVFFfclhxYXdPcXlBdTFJd1lPX1V3VGpTcHh0bDhpUGlJQTBheXJoZUNTX3ZrS2MzbEZOdDVURTloeVI4bDZZQno5ZVNkeFJMa09Sc0FhSzRlOVZHaGNtVmg4MFJJdUJUamttSFZrZGRjckdyNEFFRVYwdQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T14:12:00+00:00"
     },
     {
       "text": "Frank Smith, Who Served 70 Years for Murder, Dies at 101",
@@ -78,25 +134,25 @@
       "time": "2026-08-22T12:50:24+00:00"
     },
     {
-      "text": "It’s a miracle: Natalie Harp has turned Republicans into feminists | Arwa Mahdawi - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQy1ueUR3S2FIMkpWeGlhSmUyT1dwYlZGX2ZaUmdmRmJxcGlqSEF5ZUxZUThZOGFkd3k3SjV0YWxTZE01aTVpMHE4ajVLbkxOT1ROOUxFX3dHYkpNbGFuMGNvV2IwZWxhQ1RzRW1YVnRoQzg3c0Zpb3VFYXFlRWJRQ095NFlaVG9RajBybTJWMFFhQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T12:01:00+00:00"
-    },
-    {
-      "text": "The Right Is Rethinking MAGA. The Left Is Rethinking ‘Woke.’",
-      "url": "https://www.nytimes.com/2026/08/22/opinion/politics-maga-right-left-woke-primaries.html",
+      "text": "Natalie’s Magnificent Obsession",
+      "url": "https://www.nytimes.com/2026/08/22/opinion/natalie-harp-jon-ossoff-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T11:00:17+00:00"
+      "time": "2026-08-22T11:00:24+00:00"
+    },
+    {
+      "text": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T10:21:47+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
       "text": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
@@ -134,78 +190,22 @@
       "time": "2026-08-22T12:49:57+00:00"
     },
     {
-      "text": "Near-total lunar eclipse is coming up with the Americas in prime position - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYURReW5UejhzSXR6ZTl0d3F4UEtDUm5sSGFNZGdWbE9oRFZVWFZDb3haUHVQOWczeEgyMjBwWnBDa1N2a1VoQzcxRklrelVjMlkxUEU0cnNvY1RPQTZZQWxndnFpM0xGSm12UUhNMzl3UXIwNnNybDFBaDhuSFIzQVJBd1E5dDRZOUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T12:01:00+00:00"
-    },
-    {
-      "text": "US kindergarten vaccination rates dip as exemptions hit record high - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDYwVC1pY3VtSzFyTVpUUjBqYi1jb2I2NUMwTFFQQzNFNWNCa2tad0tpbnBzWW5XTTdXTmR6ZW4yOWNBLTZseDI3NE9jQWhTQ0hmeHBma2ZiUmhST0xDLTl4MlBrSVZtVVdEdmRMZTJKSVR6MWY1ZVJvQzg2N01neUtSNG9uZmVLS3o5Mm5aMA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T11:00:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "text": "The Right Is Rethinking MAGA. The Left Is Rethinking ‘Woke.’",
+      "url": "https://www.nytimes.com/2026/08/22/opinion/politics-maga-right-left-woke-primaries.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T13:35:43+00:00"
+      "time": "2026-08-22T11:00:17+00:00"
     },
     {
-      "text": "Swedish police probe online networks after teenage girl killed in school sword attack - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5",
+      "text": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzlnRC1Qb2g1M1I2TmlKMS00cklEb0R0dGhSVVdiSFRTLXBHaHRhTVQ1YWFUR2F3bkF2YnpaZWE3dDQzZDhOdTFvclNTdk1zc2JzbUk5d0h5TzZSQUJMQWlfN2pqeS1YRjFGcnVkekp1ZUxucEt6NG5qRnNpc3J0dDJfbUdQNWFJV0FlQzJuN096d0wyUmlTVVVjRzBhU2hCX3JVb1oyUmVVVGt4Y0HSAbMBQVVfeXFMTXI3cnZZZUI4UE9Yc0ZRN1c2ZzZISEkwV0lhREdOcnBhZUlpS1d6QVBUazRzNDB2clVoZ3pKUUFPdHczQTcxSlZHV3Awc2Fzb3pPbWZGcjdleDZ2TmgzRVRTZjZhc2VWVzN1bm95MDUxMUx5dF9qX1FjM3lReTRkOUpPVEFMcE1NRmtnR3RSYjFiX2RZdHhzU0ktNDBITDlpNHlpeFpLdmVaVHMwcW9QQ0VYRE0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T13:22:35+00:00"
-    },
-    {
-      "text": "‘GTA 6’ Leaker Has Now Reached A Strip Club As Rockstar Scrambles - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFdGWGV0M3A5V3drU3ozT29tM2liSzNJQlIxX2RXc0dZSkpLWWd0a1NoZ0JhSkNoNTNWdGNXXzFOb044ZzlVSExySG4tdDY1eGgtRGlVUURTSTI4cjdkdFVWUFVtTjQ3QjFQVEJoTTZuaU8wcEsyV1hwblFTaklBd2dEd0oweU01cktldHVXLUQzamRLV0NhaGtEMUZxVWdSajZheXdBb2RCbC1sWktNak9hNTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T12:50:39+00:00"
-    },
-    {
-      "text": "Harry and Meghan See Their California Dreams, and Riches, Fade Away",
-      "url": "https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T12:18:43+00:00"
-    },
-    {
-      "text": "Natalie’s Magnificent Obsession",
-      "url": "https://www.nytimes.com/2026/08/22/opinion/natalie-harp-jon-ossoff-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T11:00:24+00:00"
-    },
-    {
-      "text": "Real reason Prince Harry and Meghan Markle waited until the last minute to tell King Charles about their move - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlJUeE9DSFdvSTJoRzZiMXhWWFFWSUo4U09WRmVZaXJidlhTdFhWcXk1cE9EbjhSOVQwSmU4THZlVWZlMmprRzVDUWhaRVRFWlphdzdrbDdSRFg2VFF4QmZscG5rS2xWejJZOGdMWUROanowaDRhb3g1clFkRkxtbWdqbXQxZjFwRUMtMENUZzk2QmdkeDFuMjVFMXlZcFZTdnRN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T10:27:59+00:00"
+      "time": "2026-08-22T10:19:57+00:00"
     }
   ]
 }
