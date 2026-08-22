@@ -1,17 +1,102 @@
 {
-  "generated_at": "2026-08-22T21:01:57.324396+00:00",
+  "generated_at": "2026-08-22T21:38:54.220703+00:00",
   "lead": {
-    "text": "Surveillance Prices. Hidden Fees. Shifting Costs. This Madness Must Stop.",
-    "url": "https://www.nytimes.com/2026/08/22/opinion/surveillance-pricing-data-companies.html",
+    "text": "Trump’s Top Trade Representative Details Offer That Canada Refused",
+    "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-08-22T20:36:45+00:00",
+    "time": "2026-08-22T21:12:50+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Stock up, stock down after Steelers’ preseason loss to Jets: Mason Rudolph looks good by comparison - TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZm9saFlzT2NXOFloUl9JNmp5VUQ1Wk9MX0FmZ0liSGRPMzlOY1RESmdOTWdYdk54SGZmTzBmeXpyN2dVem9nTks4Znk4R2lHM1RtZjJ3MkIzXzNXa1pmaHRZNkEta1VxTnFRQjBLaWhlaGoyVHcyM2VSd0F3d2RManVyeXlGZGhtdUt1eTRKMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T21:02:24+00:00"
+    },
+    {
+      "text": "Rising data center backlash shakes up midterm races",
+      "url": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-22T21:00:00+00:00"
+    },
+    {
+      "text": "Egypt speaks with Iran after Tehran claims victory, and other Middle East developments - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmE4am10S043c0dka2x4cWdVWG9zanBfZkFVSnpyck5QWW9mUHNpLXdjaWxPYzhfSVBQTkxrb2hXS1c1dF9mbnlPZ2RzZnJzYlZFUTJsUGtSUXZRajQ2Z2tubkkyT3FNaXh1RWc1WXZwTEVSaVR0Zzhmc0ZKalg3OFcyeHZmWkJvWnRFV2RaNmJ6cGM?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-22T20:59:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Surveillance Prices. Hidden Fees. Shifting Costs. This Madness Must Stop.",
+      "url": "https://www.nytimes.com/2026/08/22/opinion/surveillance-pricing-data-companies.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T20:36:45+00:00"
+    },
+    {
+      "text": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzlnRC1Qb2g1M1I2TmlKMS00cklEb0R0dGhSVVdiSFRTLXBHaHRhTVQ1YWFUR2F3bkF2YnpaZWE3dDQzZDhOdTFvclNTdk1zc2JzbUk5d0h5TzZSQUJMQWlfN2pqeS1YRjFGcnVkekp1ZUxucEt6NG5qRnNpc3J0dDJfbUdQNWFJV0FlQzJuN096d0wyUmlTVVVjRzBhU2hCX3JVb1oyUmVVVGt4Y0HSAbMBQVVfeXFMTXI3cnZZZUI4UE9Yc0ZRN1c2ZzZISEkwV0lhREdOcnBhZUlpS1d6QVBUazRzNDB2clVoZ3pKUUFPdHczQTcxSlZHV3Awc2Fzb3pPbWZGcjdleDZ2TmgzRVRTZjZhc2VWVzN1bm95MDUxMUx5dF9qX1FjM3lReTRkOUpPVEFMcE1NRmtnR3RSYjFiX2RZdHhzU0ktNDBITDlpNHlpeFpLdmVaVHMwcW9QQ0VYRE0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T19:47:56+00:00"
+    },
+    {
+      "text": "Tropical Storm Moke advances toward Hawaii as winds strengthen - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFhJUENlV3lDN1gzczBrRVVjWEFpdWpqcFhjWmtveXlGOGREU1VLV0JNZVFhQU4zSE1jU3VWTjFMaVpQWVVqOF92ZlZmVlpPa0duN1RZZmthTjVSNjhCdnpNUFlOY21Gd3FNYi1JZk1xd1RWYTloa1UwYWt1QU42N1VNQVg1NmpvRVV1a0FHQjU3d21zNUdLUHNFaHl6R2g4R2xz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T19:04:00+00:00"
+    },
+    {
+      "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T18:00:54+00:00"
+    },
+    {
+      "text": "Anna Paquin speaks out about child stars after Hayden Panettiere's death - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2h4Z1lHcDJUaml6M2dwQnlYaTdVS0JMeHRzbGY0YVRmUHQ2WW9oX1FZeVFpNEhudWFTTzBKZHBXbnVFQ0NYNHdPd3RraGJRRmpnR0JSTlhHOGlFTnNCTmRxNVE5OWZBTDNMVGstWHB4ZURCVTZ3N3pwaWM3SnlhZ1RxbmliUkdYd1RRSjEzR240VnpEZnV0R095c3VZdGg0M21RcllRbUNRd9IBrwFBVV95cUxOX25EaTZYWTQ3TFdHYmtzNlhFTEVXRTNraW1IR3JTRTQ5dk5qWXBYRlpBbDVLTGI1MEhSYS1qOEVrZmhjSnNqM1Nsbm53Nlg4TFRWNS1uVWN3anhCX2JlS0hhcVM0XzZPQmJCR25vd1JpQVVoSGZPR1EwdC1ZZk45bkpKWnREMTdFVC1sOFIydktCYVQyc29YbzBJVWFicndHemhGN2ZYVHI2MDV4Q2FF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T17:20:29+00:00"
+    },
+    {
+      "text": "Russian and Ukrainian attacks kill 10 people, a day after deadly shopping mall drone strike - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVURpSFQ4WnVGVmZkQzdrYS1FTUVNdHRIREZWYU1iek1RV24tNjlINGRZSHU3bElZSFBHVHFTQklmdXRlaGk2eWFoM2NUWWVRTGkzbjdxM1FkTXFpM0hDOTBXaDZsQXFZZEJLcGtLai16ZjZHQmtpcVhLOG1Yc2dpSzJQSi1ObWNIT2xMbkwxQmxha0RmV0ZfNWFwQjFpeFNJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T16:41:00+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
       "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
@@ -22,42 +107,13 @@
       "time": "2026-08-22T20:35:48+00:00"
     },
     {
-      "text": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-      "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-22T20:34:13+00:00"
-    },
-    {
-      "text": "Nvidia customers reportedly warned about AI-related price hikes",
-      "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-22T20:26:44+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Death toll rises to 16 after Russian drone strike on Ukrainian shopping mall - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW1lSDYtMnZjeVRLUU5uLU5xcU1DOVRQRkNzWXBOM0dtazIzbk1Xd1E3REEtM2lRdmg4VVpOUWR1ZV9OWkd2X3FBSTRPOFNnbFJIOGJEcWFMbm9kWXVxRVdYT3JqOXZ5cko3LU8xeWt1WDRxa1ktV2ROb0JJdV9ITWt3NjJ6anpGRDdRRzE1MlJCbEczN0NLeXdRSlI0UnpF0gGmAUFVX3lxTE9NQ2NfUE5SM3M4OVI2cEQybmNacGZDU09ZQ09NMDBCS0hHSGlLMTFwQ29NcXRfMWFKRGppWnEzdU1IQzRFeVdYbUI4NmFhMnJQcDJBRnhueDhiSHVwOHFIckpmLVBEWUZJOENWOWVRd0xabURobkpvNlRweVAxR3B4ODlOX1AzaWY2ZDUyeTZmM1EwV09ldEo4RnIzNnBRRG1oR3RaRUE?oc=5",
+      "text": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVk5MElQLUN3NWNfbDM1VjhtbTVJaWF5RTl3MzlEakRRdGhoa0Z5MG1nS25KeUNXVWJuZFFENlpxX0hXbjM5ekhNcFpfV1hKVUFfQ09hZllxcl95dUtkMUdoVHI1THBrRVlsUGdkQ0xrNmU2WXZ2YmRRU2hBR2paV3BvR0xIZGIy?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T20:02:24+00:00"
-    },
-    {
-      "text": "Meghan Markle Reportedly Dropped From Guy Ritchie’s ‘The Gentlemen’ - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWV80blh2QkVPZjhXZVN2aTVSbl9GMTlwZm5OSjNoMU53QVNubHJtNEY4VnZ1Tm42NndZc3IzekZ5bUY5bUMtYUhnQ2dHdmFDUXhMbkNLWW81SHZnMmdyMzFzTjJ3WG5GRkZHVVZWMkpUdmlhY3hzcE16eFR6RFBmY0F2RjZYb3pGSnQ4RXNKUmxNNmdHLUx5akRVM19tNFhkUFo2Qk4tbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T19:12:35+00:00"
+      "time": "2026-08-22T19:20:33+00:00"
     },
     {
       "text": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
@@ -78,42 +134,42 @@
       "time": "2026-08-22T17:31:21+00:00"
     },
     {
-      "text": "Anna Paquin speaks out about child stars after Hayden Panettiere's death - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2h4Z1lHcDJUaml6M2dwQnlYaTdVS0JMeHRzbGY0YVRmUHQ2WW9oX1FZeVFpNEhudWFTTzBKZHBXbnVFQ0NYNHdPd3RraGJRRmpnR0JSTlhHOGlFTnNCTmRxNVE5OWZBTDNMVGstWHB4ZURCVTZ3N3pwaWM3SnlhZ1RxbmliUkdYd1RRSjEzR240VnpEZnV0R095c3VZdGg0M21RcllRbUNRd9IBrwFBVV95cUxOX25EaTZYWTQ3TFdHYmtzNlhFTEVXRTNraW1IR3JTRTQ5dk5qWXBYRlpBbDVLTGI1MEhSYS1qOEVrZmhjSnNqM1Nsbm53Nlg4TFRWNS1uVWN3anhCX2JlS0hhcVM0XzZPQmJCR25vd1JpQVVoSGZPR1EwdC1ZZk45bkpKWnREMTdFVC1sOFIydktCYVQyc29YbzBJVWFicndHemhGN2ZYVHI2MDV4Q2FF?oc=5",
+      "text": "U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kam8wUzBnbm9NT3lVYWFjNFhIS1hXaEhlWVVtTkF6SEtVeXk4WXhEZjFTcWdUaXZxQS1RZFYyOFcyZFNocVVVdWhrT3EtbnUtdzBWdUswZ2VDX1FmX1MwTHQybXZDSE82YzFJb185UXRUZlFkeHRlZGFKcw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T17:20:29+00:00"
+      "time": "2026-08-22T17:01:00+00:00"
     },
     {
-      "text": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUnNHY1otdDhxcVd1UktXNDR1VGxkUGNUM2N5aURIWW5JZDJiM2lKNy1tY0lXb1BRa0RJMkpqVVZUR1BGX3VPclRVUU9HZklORU1fNVEtcWkzcFl4VmFocHZ5S3hJOGlOREdSdXNPX3duQlFnN2hv?oc=5",
+      "text": "Free speech group calls foul play at prosecutors using Comey novel in case against him - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDFXOUE0a1d0aktDTXA5QzdfdlpyR29jRkJQaEZ2QjFwZkFpd0I2WXhPMUx0dlYwT2FGYjZGQlhrTTFBTG5nUWpFUVBtdzNIYlhtRi01OTRtYlVMT1pRM1VlcHFIb0gxNXhnZTU4VThDNUVuMFFXaHhZM2pWbDNmcjRxVVVEcFJnOVlz?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:05:26+00:00"
+      "time": "2026-08-22T16:32:00+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzlnRC1Qb2g1M1I2TmlKMS00cklEb0R0dGhSVVdiSFRTLXBHaHRhTVQ1YWFUR2F3bkF2YnpaZWE3dDQzZDhOdTFvclNTdk1zc2JzbUk5d0h5TzZSQUJMQWlfN2pqeS1YRjFGcnVkekp1ZUxucEt6NG5qRnNpc3J0dDJfbUdQNWFJV0FlQzJuN096d0wyUmlTVVVjRzBhU2hCX3JVb1oyUmVVVGt4Y0HSAbMBQVVfeXFMTXI3cnZZZUI4UE9Yc0ZRN1c2ZzZISEkwV0lhREdOcnBhZUlpS1d6QVBUazRzNDB2clVoZ3pKUUFPdHczQTcxSlZHV3Awc2Fzb3pPbWZGcjdleDZ2TmgzRVRTZjZhc2VWVzN1bm95MDUxMUx5dF9qX1FjM3lReTRkOUpPVEFMcE1NRmtnR3RSYjFiX2RZdHhzU0ktNDBITDlpNHlpeFpLdmVaVHMwcW9QQ0VYRE0?oc=5",
+      "text": "‘Attacked’ by Trump on Trade, Canada Is ‘at War’ With U.S., Carney Says - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUNRRk00blBmOVdhVDUyVzQ3T2o2bE9LbU1yY2doRXBlMkZEU3o1WXpqcXNNRGtsX2x2T3hzNGsyR1VYT2V1MTNNWlF6RldBbXoyRjlxNElHUHFIdHpETGYxdFBNR21Bek5qeHhLLU1qWkcwa0VoUTRidnpoSWxKdy12SWFJQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T19:47:56+00:00"
+      "time": "2026-08-22T20:35:48+00:00"
     },
     {
-      "text": "Tropical Storm Moke advances toward Hawaii as winds strengthen - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFhJUENlV3lDN1gzczBrRVVjWEFpdWpqcFhjWmtveXlGOGREU1VLV0JNZVFhQU4zSE1jU3VWTjFMaVpQWVVqOF92ZlZmVlpPa0duN1RZZmthTjVSNjhCdnpNUFlOY21Gd3FNYi1JZk1xd1RWYTloa1UwYWt1QU42N1VNQVg1NmpvRVV1a0FHQjU3d21zNUdLUHNFaHl6R2g4R2xz?oc=5",
+      "text": "Meghan Markle Reportedly Dropped From Guy Ritchie’s ‘The Gentlemen’ - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWV80blh2QkVPZjhXZVN2aTVSbl9GMTlwZm5OSjNoMU53QVNubHJtNEY4VnZ1Tm42NndZc3IzekZ5bUY5bUMtYUhnQ2dHdmFDUXhMbkNLWW81SHZnMmdyMzFzTjJ3WG5GRkZHVVZWMkpUdmlhY3hzcE16eFR6RFBmY0F2RjZYb3pGSnQ4RXNKUmxNNmdHLUx5akRVM19tNFhkUFo2Qk4tbw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T19:04:00+00:00"
+      "time": "2026-08-22T19:12:35+00:00"
     },
     {
       "text": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
@@ -125,62 +181,6 @@
       "time": "2026-08-22T18:20:55+00:00"
     },
     {
-      "text": "2026 Premier League live updates, scores: Opening Saturday of the new season - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlVlM3J4SVR2SENyMTVHb1o0cU04YTRrSTl4QWMyQ1F2YlJBeXhFNGFYZEF2VkppQW5qZEpvdko5Z3ktX3ItNXBKQnpyX1dyZFdYRzhrSGxOa0pncktRUFU3bWdGVVJPNmFXODdmcTZwdmlTc0trZlJfYlJ3cy1KdW9NNkJscHdJNGpDZkxCWE9ONUFsNVNXSEZXR3Y1VzZDSktMMFZqLWFmS3V4SkR5V2lYV2J0YVRRZjBZ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T17:26:00+00:00"
-    },
-    {
-      "text": "U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kam8wUzBnbm9NT3lVYWFjNFhIS1hXaEhlWVVtTkF6SEtVeXk4WXhEZjFTcWdUaXZxQS1RZFYyOFcyZFNocVVVdWhrT3EtbnUtdzBWdUswZ2VDX1FmX1MwTHQybXZDSE82YzFJb185UXRUZlFkeHRlZGFKcw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T17:01:00+00:00"
-    },
-    {
-      "text": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmx1MlE4ak9qOGpNUGN5UUFYTFdMOGNaaFU5aUdmR2ZFS3A4NGlnQ2NqbHlMSWI1eHc5bmQ1eW9rbnFudGt6ZTM3RG9QTy1PeTdtN1J0ZXRMTDRMNVVsMk1qcEhuSmNpTjhraXBXZUtERmw4M3VVbDh6VzF2ZE5vS1hnblpsUEpFLVpUSHpTUmI4dEVIcUxPNC1tUXFmdk0xaVJnX0FlclFHaUl3RHBaX2F0eGpKUkVJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:03:12+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVk5MElQLUN3NWNfbDM1VjhtbTVJaWF5RTl3MzlEakRRdGhoa0Z5MG1nS25KeUNXVWJuZFFENlpxX0hXbjM5ekhNcFpfV1hKVUFfQ09hZllxcl95dUtkMUdoVHI1THBrRVlsUGdkQ0xrNmU2WXZ2YmRRU2hBR2paV3BvR0xIZGIy?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T19:20:33+00:00"
-    },
-    {
-      "text": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T18:48:00+00:00"
-    },
-    {
-      "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T18:00:54+00:00"
-    },
-    {
       "text": "U.S. Economy Could Feel the Sting From Trade War With Canada",
       "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html",
       "source": "NYT",
@@ -190,6 +190,15 @@
       "time": "2026-08-22T17:25:42+00:00"
     },
     {
+      "text": "US military newspaper editor voices censorship fears after being fired - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ROEtkLTZSNVZjX0dUamhRUDkyTEVVajlQT0s5ZkFuV0dvQ3JaUkk3WV9wUG9XREdFRXc0N01CODRCYzRtOFlBYks3MldsdU0wTVFpSzlBaVBYdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T16:57:19+00:00"
+    },
+    {
       "text": "Box Office: 'Insidious: Out of the Further' Takes First Place on Friday - Variety",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmtrMGRkRUFlUDU4eTJjb3BtRkJyOWU2NmZwRllybTgwaUdjMjJzNkl1QzQ0U3RWSGdmMWR5QUpfcmlIUkREZjBfZ3hJM2dBZ1FMYUpNQ1NhZ05RMEROcndESDI0MlNidjl1R2dQWnluTWF3Y2daTHZpSE0zTFc2V1d1SXRBaEFRQ1NBb0RLT3E1VEx2MkpuYk9EaDdKUjRXODMybXBR?oc=5",
       "source": "Google News",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-22T16:06:00+00:00"
-    },
-    {
-      "text": "Deleted tweets show Natalie Harp’s zealous support of Trump on January 6 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllHZWs0QmhQS2dXOGlQWTRoSW9iUGdoR2xIMDlkX2s1TmlKV3RIZGt0bXM0VHhqd0hQWVJycllCNDBFa1hSRXpfNTJaT05JTjhjdTg2bGVhMUJjcmdGR0VMa3NmTUhrYk40dXJQZGxZalkwaWxIa0hVc1FDNk1ZRUpaQXdJLWZ4UVU5aWlONl94SEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:00:29+00:00"
     }
   ]
 }
