@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-22T20:34:31.920883+00:00",
+  "generated_at": "2026-08-22T21:01:57.324396+00:00",
   "lead": {
-    "text": "Nvidia customers reportedly warned about AI-related price hikes",
-    "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-22T20:26:44+00:00",
+    "text": "Surveillance Prices. Hidden Fees. Shifting Costs. This Madness Must Stop.",
+    "url": "https://www.nytimes.com/2026/08/22/opinion/surveillance-pricing-data-companies.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-22T20:36:45+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+      "text": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T20:35:48+00:00"
+    },
+    {
+      "text": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+      "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-22T20:18:15+00:00"
+      "time": "2026-08-22T20:34:13+00:00"
     },
     {
-      "text": "US Postal Service issues rule to tighten requirements for mail-in voting despite courts looking to block",
-      "url": "https://thehill.com/homenews/administration/6045248-usps-mail-in-voting-guidelines-tighten/",
-      "source": "The Hill",
+      "text": "Nvidia customers reportedly warned about AI-related price hikes",
+      "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-22T20:12:18+00:00"
-    },
-    {
-      "text": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-22T20:10:00+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-22T20:26:44+00:00"
     }
   ],
   "col1": [
@@ -51,13 +51,69 @@
       "time": "2026-08-22T20:02:24+00:00"
     },
     {
-      "text": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
+      "text": "Meghan Markle Reportedly Dropped From Guy Ritchie’s ‘The Gentlemen’ - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWV80blh2QkVPZjhXZVN2aTVSbl9GMTlwZm5OSjNoMU53QVNubHJtNEY4VnZ1Tm42NndZc3IzekZ5bUY5bUMtYUhnQ2dHdmFDUXhMbkNLWW81SHZnMmdyMzFzTjJ3WG5GRkZHVVZWMkpUdmlhY3hzcE16eFR6RFBmY0F2RjZYb3pGSnQ4RXNKUmxNNmdHLUx5akRVM19tNFhkUFo2Qk4tbw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T18:48:00+00:00"
+      "time": "2026-08-22T19:12:35+00:00"
+    },
+    {
+      "text": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
+      "url": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T18:23:02+00:00"
+    },
+    {
+      "text": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T17:31:21+00:00"
+    },
+    {
+      "text": "Anna Paquin speaks out about child stars after Hayden Panettiere's death - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2h4Z1lHcDJUaml6M2dwQnlYaTdVS0JMeHRzbGY0YVRmUHQ2WW9oX1FZeVFpNEhudWFTTzBKZHBXbnVFQ0NYNHdPd3RraGJRRmpnR0JSTlhHOGlFTnNCTmRxNVE5OWZBTDNMVGstWHB4ZURCVTZ3N3pwaWM3SnlhZ1RxbmliUkdYd1RRSjEzR240VnpEZnV0R095c3VZdGg0M21RcllRbUNRd9IBrwFBVV95cUxOX25EaTZYWTQ3TFdHYmtzNlhFTEVXRTNraW1IR3JTRTQ5dk5qWXBYRlpBbDVLTGI1MEhSYS1qOEVrZmhjSnNqM1Nsbm53Nlg4TFRWNS1uVWN3anhCX2JlS0hhcVM0XzZPQmJCR25vd1JpQVVoSGZPR1EwdC1ZZk45bkpKWnREMTdFVC1sOFIydktCYVQyc29YbzBJVWFicndHemhGN2ZYVHI2MDV4Q2FF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T17:20:29+00:00"
+    },
+    {
+      "text": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUnNHY1otdDhxcVd1UktXNDR1VGxkUGNUM2N5aURIWW5JZDJiM2lKNy1tY0lXb1BRa0RJMkpqVVZUR1BGX3VPclRVUU9HZklORU1fNVEtcWkzcFl4VmFocHZ5S3hJOGlOREdSdXNPX3duQlFnN2hv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T16:05:26+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzlnRC1Qb2g1M1I2TmlKMS00cklEb0R0dGhSVVdiSFRTLXBHaHRhTVQ1YWFUR2F3bkF2YnpaZWE3dDQzZDhOdTFvclNTdk1zc2JzbUk5d0h5TzZSQUJMQWlfN2pqeS1YRjFGcnVkekp1ZUxucEt6NG5qRnNpc3J0dDJfbUdQNWFJV0FlQzJuN096d0wyUmlTVVVjRzBhU2hCX3JVb1oyUmVVVGt4Y0HSAbMBQVVfeXFMTXI3cnZZZUI4UE9Yc0ZRN1c2ZzZISEkwV0lhREdOcnBhZUlpS1d6QVBUazRzNDB2clVoZ3pKUUFPdHczQTcxSlZHV3Awc2Fzb3pPbWZGcjdleDZ2TmgzRVRTZjZhc2VWVzN1bm95MDUxMUx5dF9qX1FjM3lReTRkOUpPVEFMcE1NRmtnR3RSYjFiX2RZdHhzU0ktNDBITDlpNHlpeFpLdmVaVHMwcW9QQ0VYRE0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T19:47:56+00:00"
+    },
+    {
+      "text": "Tropical Storm Moke advances toward Hawaii as winds strengthen - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFhJUENlV3lDN1gzczBrRVVjWEFpdWpqcFhjWmtveXlGOGREU1VLV0JNZVFhQU4zSE1jU3VWTjFMaVpQWVVqOF92ZlZmVlpPa0duN1RZZmthTjVSNjhCdnpNUFlOY21Gd3FNYi1JZk1xd1RWYTloa1UwYWt1QU42N1VNQVg1NmpvRVV1a0FHQjU3d21zNUdLUHNFaHl6R2g4R2xz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T19:04:00+00:00"
     },
     {
       "text": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
@@ -69,69 +125,13 @@
       "time": "2026-08-22T18:20:55+00:00"
     },
     {
-      "text": "Nearly one billion people in the Americas will have front-row views for near-total lunar eclipse - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHVkdGI2S2RaTWwwWUpTZGhjLXlCZGhvVVBxN0JDcnlfWGQ3QUVWSVJMcDFLejk5LUZEYkZuNk85dW9MaFJVWm5oYlVIRFdacHJjTUsyZGNWdlM2TFh6SWhDZzFJakZ0b1pLbjZpUVhKOXdES3V0S0J1Y1lBSEtkV3lPMzZ1M0VoU0Z3?oc=5",
+      "text": "2026 Premier League live updates, scores: Opening Saturday of the new season - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlVlM3J4SVR2SENyMTVHb1o0cU04YTRrSTl4QWMyQ1F2YlJBeXhFNGFYZEF2VkppQW5qZEpvdko5Z3ktX3ItNXBKQnpyX1dyZFdYRzhrSGxOa0pncktRUFU3bWdGVVJPNmFXODdmcTZwdmlTc0trZlJfYlJ3cy1KdW9NNkJscHdJNGpDZkxCWE9ONUFsNVNXSEZXR3Y1VzZDSktMMFZqLWFmS3V4SkR5V2lYV2J0YVRRZjBZ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T17:37:00+00:00"
-    },
-    {
-      "text": "U.S. Economy Could Feel the Sting From Trade War With Canada",
-      "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T17:25:42+00:00"
-    },
-    {
-      "text": "‘Spider-Man: Brand New Day’ Swinging to Fourth Box Office Victory as It Tops ‘Insidious’ Sequel - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdkZiZWdjQVB4Y2J4VnRYaEx5ZU1QLWhSTVZiWDNYQ3JxOXdTb3JndjBWdUxVVE5jVTBhMDRZVkh2YmVPLVZMaHV5dmFiM2dfWldjQXFBd2o5akJRbjhXOWZzNlJURVo2aWxkaDFBd09tNFpxLWJNUlQxNndzSG5ER0xFOWFNRVNuU0VaalgwRmJZTmswTlVoc21Xa0hXMzc0dlcyT09VaFFJbXU5aUY5QUdZR3NYTUlVNHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:48:06+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T19:35:07+00:00"
-    },
-    {
-      "text": "Trump’s foreign beef push to cut grocery costs sparks GOP revolt from ranching country - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSnFFVTBybVhueUc1VnVoalZGZDBvNzRhLVM2bVl6UHUxRG5rT211dTl2MWRHUFpTa0UxcXJGOWJnSjB5UWNFR3VJQ05TTE5fMUpxQWp0SEVZOExXTVhIeG5zNnk0bjlEbHcwQTN0Z0NvMHYyUXN2TW95VzJ0WkozY1dGSHpFb1A5eGM0NUhIbXplQXd1NGY4MlQ0Xzd3NUZtVFdUVy1wVEpub0lFLXN0ODd6UjY4d1hXMGxB0gHAAUFVX3lxTFB2b1FJRDBvTUdaSVpPdDBmQmFqUEw1RFlvQlhnUFhtNWpuYTN1R2JGZ1djemJDMlZnbWM0SGRjWGtMN3UyUjd1NjlmOEo4MzZEMG81a1Vhb3BhN0J0ck9fRnZya0hXZEpFdnRZOFlVOElRaU9pakk0ckhZX3laU3VMaWx3UWcxX0NraUZyNTB6STl5Qkd2bnh5UGRzbnNwSEZka3JqelIteW9HTF8wd1FzTUwzc09fRUVQQUQzV3JnQw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T18:39:00+00:00"
-    },
-    {
-      "text": "U.S. Cuts Colorado River Water for Arizona, California and Nevada - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWttMG1jZXlmR3dYTVpNZHRVdG1FNEdzaEhiV0l0SlNYQ09uSlZwd0xxUjJseGNTUndFd0hNdHhmVlRfNGVmWkdCRjNmMGRlRF9iVS1tSGVPZGwzSmNjNVhZbUZ5SVB6Z0VPMmUtejZUbEw1YURRUnQtWGR1SGpkOVViSzNmZzdC?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T18:03:00+00:00"
-    },
-    {
-      "text": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T17:31:21+00:00"
+      "time": "2026-08-22T17:26:00+00:00"
     },
     {
       "text": "U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News",
@@ -163,13 +163,13 @@
       "time": "2026-08-22T19:20:33+00:00"
     },
     {
-      "text": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-      "url": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T18:23:02+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T18:48:00+00:00"
     },
     {
       "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
@@ -181,22 +181,22 @@
       "time": "2026-08-22T18:00:54+00:00"
     },
     {
-      "text": "2026 Premier League live updates, scores: Opening Saturday of the new season - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlVlM3J4SVR2SENyMTVHb1o0cU04YTRrSTl4QWMyQ1F2YlJBeXhFNGFYZEF2VkppQW5qZEpvdko5Z3ktX3ItNXBKQnpyX1dyZFdYRzhrSGxOa0pncktRUFU3bWdGVVJPNmFXODdmcTZwdmlTc0trZlJfYlJ3cy1KdW9NNkJscHdJNGpDZkxCWE9ONUFsNVNXSEZXR3Y1VzZDSktMMFZqLWFmS3V4SkR5V2lYV2J0YVRRZjBZ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "U.S. Economy Could Feel the Sting From Trade War With Canada",
+      "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T17:26:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T17:25:42+00:00"
     },
     {
-      "text": "Tropical Storm Moke advances toward Hawaii as winds strengthen - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFhJUENlV3lDN1gzczBrRVVjWEFpdWpqcFhjWmtveXlGOGREU1VLV0JNZVFhQU4zSE1jU3VWTjFMaVpQWVVqOF92ZlZmVlpPa0duN1RZZmthTjVSNjhCdnpNUFlOY21Gd3FNYi1JZk1xd1RWYTloa1UwYWt1QU42N1VNQVg1NmpvRVV1a0FHQjU3d21zNUdLUHNFaHl6R2g4R2xz?oc=5",
+      "text": "Box Office: 'Insidious: Out of the Further' Takes First Place on Friday - Variety",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmtrMGRkRUFlUDU4eTJjb3BtRkJyOWU2NmZwRllybTgwaUdjMjJzNkl1QzQ0U3RWSGdmMWR5QUpfcmlIUkREZjBfZ3hJM2dBZ1FMYUpNQ1NhZ05RMEROcndESDI0MlNidjl1R2dQWnluTWF3Y2daTHZpSE0zTFc2V1d1SXRBaEFRQ1NBb0RLT3E1VEx2MkpuYk9EaDdKUjRXODMybXBR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T16:57:00+00:00"
+      "time": "2026-08-22T16:06:00+00:00"
     },
     {
       "text": "Deleted tweets show Natalie Harp’s zealous support of Trump on January 6 - CNN",
