@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-08-22T11:38:11.650113+00:00",
+  "generated_at": "2026-08-22T11:59:38.957421+00:00",
   "lead": {
-    "text": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-    "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "U.S., Canada fail to reach a tariff deal, deepening trade war",
+    "url": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-22T11:21:05+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-22T11:52:45+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Ukraine-Russia war latest: Kyiv hits Russian oil refinery after Putin’s shopping centre strike killed 16 people - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbTBYSVJtLWVXNkR2NFA2TlpNb2g0S1pWbkxobGROMlNrb0pCZkxSTF9vOEdNdTVWNVNOU1RqU1dtZnJUZmNWYk41UU05enhweFVaMGVQVTBkSlNlVnloYU04cW5CUGpmRE1Ua1EwcU93UVZfODZHcjVBYU5jMVhHTHNxY2Z2WXE4a2lDcjFYZnlnX1VkQkp6cktsWmR1R0E3OWVYWTlNQUxCelp4QjI2Ukl1YUVRR0xSM010SEpPNUc?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-22T11:44:54+00:00"
+    },
+    {
+      "text": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-08-22T11:43:25+00:00"
+    },
+    {
+      "text": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon",
+      "url": "https://www.cnbc.com/2026/08/22/ukrainian-drones-hit-warehouse-of-russian-online-retailer-ozon.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-22T11:27:58+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Natalie’s Magnificent Obsession",
       "url": "https://www.nytimes.com/2026/08/22/opinion/natalie-harp-jon-ossoff-trump.html",
@@ -22,6 +51,53 @@
       "time": "2026-08-22T11:00:24+00:00"
     },
     {
+      "text": "Partial lunar eclipse live: Latest news, viewing tips and live updates from Aug. 27-28 eclipse - Space",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTlvQXJER1k3VzUxcmZ3SnJyYkhmLXJiOElhUEhLRkZLSFRILUZjZmdqYlhaQ3YyWGN4V3YyYWc2emhKbUxRZjZPQ29SV2pMVzFQaHZSZGRzb0Vuak5RS1BHamtkM0tYc29YdEtoX2V6TUFkU0luOFZVSWtQV2xDZDR0QkNRMUQ5cU1jaw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-22T10:05:14+00:00"
+    },
+    {
+      "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:26:12+00:00"
+    },
+    {
+      "text": "Meghan’s Brand, As Ever, Will Live On",
+      "url": "https://www.nytimes.com/2026/08/22/style/meghan-markle-as-ever.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:03:53+00:00"
+    },
+    {
+      "text": "The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks.",
+      "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:02:32+00:00"
+    },
+    {
+      "text": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
+      "url": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:02:19+00:00"
+    }
+  ],
+  "col2": [
+    {
       "text": "The Right Is Rethinking MAGA. The Left Is Rethinking ‘Woke.’",
       "url": "https://www.nytimes.com/2026/08/22/opinion/politics-maga-right-left-woke-primaries.html",
       "source": "NYT",
@@ -31,16 +107,52 @@
       "time": "2026-08-22T11:00:17+00:00"
     },
     {
-      "text": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
-      "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-22T10:34:23+00:00"
+      "text": "What Does Harry and Meghan’s Return to England Mean for Their Children?",
+      "url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:54:13+00:00"
+    },
+    {
+      "text": "An Expert on Conflict Says Your Relationships Are Doomed Without It",
+      "url": "https://www.nytimes.com/2026/08/22/magazine/priya-parker-interview.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:15:06+00:00"
+    },
+    {
+      "text": "How a Progressive Democrat in Florida Gave Her Party New Hope — and New Fears",
+      "url": "https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:03:47+00:00"
+    },
+    {
+      "text": "In Ohio, Haitians Feel Shaken by Ankle Monitors and Increased ICE Presence",
+      "url": "https://www.nytimes.com/2026/08/22/us/haiti-tps-springfield-ankle-monitors.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:02:32+00:00"
+    },
+    {
+      "text": "Lebanon’s Efforts to Tame Hezbollah Stall Amid Israel War",
+      "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-22T09:02:01+00:00"
     }
   ],
-  "col1": [
+  "col3": [
     {
       "text": "Klay Thompson Reportedly to Sign with Heat After Agreeing to Mavericks Contract Buyout - Bleacher Report",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWNGWWxfQ1JYZGtUc2F6OW5DTjdwRHlaNDV2MW5zb0Y5V3BfUU1jTjg4SERvcXJya1BDSzNiUVluQmoyd3pfQXdRTmJfMVg2YlVDcWdZUXRBVGJwWVMwaUYtZ3A2MkIzb0hSTFNfVGFxbkdJdHE1bHJCZzluMWs0WVVBT1g4N2hFTG4xcFc2UDZSOU1mZXpxMzdOdWdIWmV3QjJZMDI2eW5RUW1qMFY0WHFZSXRaQndfTjhDQg?oc=5",
@@ -94,118 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-22T09:01:46+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Partial lunar eclipse live: Latest news, viewing tips and live updates from Aug. 27-28 eclipse - Space",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTlvQXJER1k3VzUxcmZ3SnJyYkhmLXJiOElhUEhLRkZLSFRILUZjZmdqYlhaQ3YyWGN4V3YyYWc2emhKbUxRZjZPQ29SV2pMVzFQaHZSZGRzb0Vuak5RS1BHamtkM0tYc29YdEtoX2V6TUFkU0luOFZVSWtQV2xDZDR0QkNRMUQ5cU1jaw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T10:05:14+00:00"
-    },
-    {
-      "text": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:26:12+00:00"
-    },
-    {
-      "text": "Meghan’s Brand, As Ever, Will Live On",
-      "url": "https://www.nytimes.com/2026/08/22/style/meghan-markle-as-ever.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:03:53+00:00"
-    },
-    {
-      "text": "The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks.",
-      "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:02:32+00:00"
-    },
-    {
-      "text": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
-      "url": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:02:19+00:00"
-    },
-    {
-      "text": "Sun Screen",
-      "url": "https://www.nytimes.com/2026/08/22/briefing/sun-screen.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T08:48:26+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "What Does Harry and Meghan’s Return to England Mean for Their Children?",
-      "url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:54:13+00:00"
-    },
-    {
-      "text": "An Expert on Conflict Says Your Relationships Are Doomed Without It",
-      "url": "https://www.nytimes.com/2026/08/22/magazine/priya-parker-interview.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:15:06+00:00"
-    },
-    {
-      "text": "How a Progressive Democrat in Florida Gave Her Party New Hope — and New Fears",
-      "url": "https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:03:47+00:00"
-    },
-    {
-      "text": "In Ohio, Haitians Feel Shaken by Ankle Monitors and Increased ICE Presence",
-      "url": "https://www.nytimes.com/2026/08/22/us/haiti-tps-springfield-ankle-monitors.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:02:32+00:00"
-    },
-    {
-      "text": "Lebanon’s Efforts to Tame Hezbollah Stall Amid Israel War",
-      "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-22T09:02:01+00:00"
-    },
-    {
-      "text": "SpaceX launches 100th orbital mission of 2026 - Spaceflight Now",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXhFWTdORDB3YWNJTl9lNUZrdVBWU0pmRUFad21SUl9FOFAxV3AwU3ZqdVllZEctVmYxalpRc0JWaEhCSkRmZE5HRV9EejNnN0FFR2ZleG84MzZHX2pkdFRnRjU0dXdDcXZYN0x2dzRISTlHTjJPaVdNUFF1VG9rTGhLNjJ6MkdnTGRmSnVDci15OS1NOExXamlMUUlqMWVw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-22T08:47:35+00:00"
     }
   ]
 }
