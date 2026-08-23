@@ -1,46 +1,64 @@
 {
-  "generated_at": "2026-08-23T12:00:28.312667+00:00",
+  "generated_at": "2026-08-23T13:03:54.303443+00:00",
   "lead": {
-    "text": "Dozens of co-ordinated arson attacks hit southern Thailand",
-    "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "The EEOC's mission is opportunity for all, not demographic bean-counting",
+    "url": "https://thehill.com/opinion/congress-blog/labor/6033723-rescinding-mandatory-demographic-reports/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-23T11:50:59+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-23T13:00:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "State of Texas: Big Bend construction paused, but for how long?",
-      "url": "https://thehill.com/policy/energy-environment/6045366-state-of-texas-big-bend-construction-paused-but-for-how-long/",
-      "source": "The Hill",
+      "text": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-23T11:46:49+00:00"
-    },
-    {
-      "text": "Ukraine-Russia war latest: Macron to deliver missile interceptors to Kyiv as Putin pulls ambassador from UK - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWhKMUl5SF9pVjE3TmxXVnNhT0lUdzZDT3FRck9JM25ySXJCNEZPTnc3S3c3OFd5N2VxUXB3V3NPX2FMcEZ3MXdUWi1CaUdTaTFjcldzTjgwVXlJQjJVUUhjYWlGa285MXlDUVJFWTdVQk11UjlsUjEtYzZKQVRBLTFSM3JTcDZVc1d6VGNTSnJKTzVQa3o2QkZ5NWJGMzhnb3hwUUNVVWNhb3B1RWxDbVliVl9GUndtRDgxaw?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
       "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-23T11:46:41+00:00"
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-23T12:56:43+00:00"
     },
     {
-      "text": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
-      "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-23T11:35:52+00:00"
+      "text": "See the moment when Republican politicians turned against data centers - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0h3d3N1UlREUG9md3JGMmRJVXJUeTgxSjhyWDBsWC1IakRYRk5nQUVUY21QdlJ5N0tGODhFQzgxWWM2dGlJalMxVWRiQ0ZwR0FGRXZDd3dnaVY0eDNqUUlyR1hxVnhkSWJ1Sl9LTEZOM0dhaHJzZkg0QVdiQnlCRGJyQzJKYzN5WmVKaXVNYURDblVGeEZLc2lpaEpfUS14RWlyNjM5bTFhYk1reUg2UXFCdkpKM1c2TVZ2ZVJSTzRnQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T12:50:25+00:00"
+    },
+    {
+      "text": "Becerra, running for governor of California, faces a health insurance problem",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-08-23T12:50:09+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T12:47:30+00:00"
+    },
+    {
+      "text": "America’s Desert Metropolis Is on the Short List to Lose Water",
+      "url": "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T12:00:27+00:00"
+    },
     {
       "text": "A Murder Trial in Massachusetts",
       "url": "https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html",
@@ -76,44 +94,44 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-23T09:47:28+00:00"
-    },
-    {
-      "text": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T09:23:00+00:00"
-    },
-    {
-      "text": "The Midterms Feel Like 2006 All Over Again",
-      "url": "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:01:57+00:00"
     }
   ],
   "col2": [
     {
-      "text": "This Canal System Transformed Arizona. It’s Now in Jeopardy.",
-      "url": "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html",
+      "text": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+      "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T11:26:18+00:00"
+      "time": "2026-08-23T12:39:05+00:00"
     },
     {
-      "text": "See the moment when Republican politicians turned against data centers - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0h3d3N1UlREUG9md3JGMmRJVXJUeTgxSjhyWDBsWC1IakRYRk5nQUVUY21QdlJ5N0tGODhFQzgxWWM2dGlJalMxVWRiQ0ZwR0FGRXZDd3dnaVY0eDNqUUlyR1hxVnhkSWJ1Sl9LTEZOM0dhaHJzZkg0QVdiQnlCRGJyQzJKYzN5WmVKaXVNYURDblVGeEZLc2lpaEpfUS14RWlyNjM5bTFhYk1reUg2UXFCdkpKM1c2TVZ2ZVJSTzRnQQ?oc=5",
+      "text": "Prenups cover more than just marriage and divorce these days - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzVZNjV3WGNpT0w0bnRBNVp6emZiVFpVV01zb0tCbzhkV095NEZFZDhyWGs1Uzc1NHMxWDlDVWNDY3NsakJaSEFQOVo1SlhoeE9Eb09nU2hWZk0yS0w1NEJFeUFoeFNLSUc0djQ3cFRQSXl1QWR0UHlKVkpNSGEwOTVoNnh1cVM4Wk54dnpjQk5wN1JvVU9fZUdoZ1ZWRkhfZ3BWZFhZbmZvc1lfU2pFQ0xCU1A2NEFEM2ZN?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T10:46:53+00:00"
+      "time": "2026-08-23T11:55:00+00:00"
+    },
+    {
+      "text": "Many Nashville Bus Stops Lack Places to Sit. These Locals Took a Stand. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90UTNtTTBfUFRMVkNEMXhCSFpEM3d2ckhWaWMwbm5KWWM5OEVmZVowbWVSX3I4NjRJdEdrdGQxN2RfX3dEQ2lwYWtLVFp0RFJFVXNNd1BpU21kUC1OTjlxUXdWRVNkb25XemZfLWgzYkh6Z0VGbklBTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T11:18:26+00:00"
+    },
+    {
+      "text": "Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHkwMjRsRV9PLVMtMGtNR1pKZ0lqLWFkVkdhRVpkTm1ISHh0WHZ5dG4xTXhYX1BoMlNxZDh6dkhsdkZZWDNSYk1VR3R3bFdQd3B3aVBqVm5zSzhfeGc5bkFGcXhEQ2kwSlFHZnFrTUt3ZWhWV2FuLUtvbTNnR1R3RFNualpuZnQ1SWxrQUp4RDh1cjVNZGcwcU5JQjR3MnM3b0U1ZlFiWldiaXJkOUZxRTBGalU0a3ZGQk9KLW5mTG5fSlhHZy1mOVdzNVdPdF96c1JGTTJrYW1sczNpMXp3SXptMXBOZ3Jy?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T11:08:41+00:00"
     },
     {
       "text": "Twitter Broke the Left. X Will Break the Right.",
@@ -125,42 +143,42 @@
       "time": "2026-08-23T10:00:21+00:00"
     },
     {
+      "text": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T09:30:00+00:00"
+    }
+  ],
+  "col3": [
+    {
       "text": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
       "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:44:57+00:00"
+      "time": "2026-08-23T12:26:57+00:00"
     },
     {
-      "text": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
-      "url": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:02:04+00:00"
-    },
-    {
-      "text": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
-      "url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:01:52+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzBpSF8weUI2bUNJSmhSS0lHMUlHVFpDQWRGYkpLLW1HVDVRWnNVY2kxSHlsQTdlVUx4MGJ6VnFHVlpIbnZiajNTQndfNlJGS2N1RVRSVWhGQXNDYlRqUlJDak44VkVPUFZnS19QdEZMYXd6cTM4RTRoZEVtQXRPQjl3S0szczZxT1FQOWFNU1BYLTBPbG5oRGpjNjRaUnhVQ3RyWm11U001eTBVaE1Jajh3ZEF1b00?oc=5",
+      "text": "Can Iran retaliate against countries that join US ‘economic war’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T11:17:00+00:00"
+      "time": "2026-08-23T11:54:48+00:00"
+    },
+    {
+      "text": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T11:15:00+00:00"
     },
     {
       "text": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
@@ -172,8 +190,8 @@
       "time": "2026-08-23T10:11:00+00:00"
     },
     {
-      "text": "iPhone 18 Pro Latest Release Schedule: What To Expect When - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVBRbmRsNWlaMXA5M3dPMi1pUklTVWp1cXJOM0s5a213WDB1a0NodE5JUGpKTldjbXZXalJ6bi1fUWlVaVJldXFleVlwUFNqTnEwYm1ZZWZ6LXQ5bXp2TllmczdldXo5c0FEZGZxdkstdnZGOWxDeHFPdEttWkp0MTJUTHE5N0Uta1dDTGxpUi1WcG1COS1vZEw4bUFrS3JYUkJudTR3cUF1VTI3MWFj?oc=5",
+      "text": "10 things we learned from Patriots vs. Eagles preseason game - Pats Pulpit",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdldxa05uc2FOS2N2djdyV1VIbWxUZGZkMDE1T1BQQ3hxMGRldW9pdS1laGpqekFaUlIyTXVjSTlXbk9laGJOWkZ0VVJZdGNSSTAyTUEzZ0RHWXhNRTVDRW1zT0tzR2duUkR4NUhRZW9mN0MtRUNsNFBmRnNoNmN2VVdnRzExMVJNRUVaVlM5MEJsYm1hNkh6bktsc3Y1QWo0OGl6LVBnSU50a0hXb1lxc2tndDhaNjM1RTFBa3doSQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
@@ -181,31 +199,13 @@
       "time": "2026-08-23T10:00:00+00:00"
     },
     {
-      "text": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
+      "text": "Hype for Moderna’s Cancer Vaccine Is Running Ahead of the Math - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUJZdlVWUWt6ZHB3YnpkSHZUampvbHpXbWNUNlRwY05KS2dIZzNJUEE3ZF9MS3Ywd0Q0ODZMS2M5UndUZHFKNEQ1OFE0NGNhd3hGdGVNSnlYSHhheVAxcGk3Zm85QXVBTE5IYVZibXVETWFzWnB3TWpyZ09Db0JaT2VlQ2tUNUdaU0pSQkxJM2hTU2piS0dsRGtUb2pwVVRXYzdjTE1jaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-23T09:30:00+00:00"
-    },
-    {
-      "text": "The Data Center Backlash Bursts Into the Midterms",
-      "url": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:01:58+00:00"
-    },
-    {
-      "text": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
-      "url": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:00:33+00:00"
     }
   ]
 }
