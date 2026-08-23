@@ -1,35 +1,46 @@
 {
-  "generated_at": "2026-08-23T20:34:32.956697+00:00",
+  "generated_at": "2026-08-23T21:01:02.170059+00:00",
   "lead": {
-    "text": "Barrasso: ‘Tomorrow is D-Day for the economy in Iran’",
-    "url": "https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-23T20:23:35+00:00",
+    "text": "IndyCar drivers roar through D.C. streets in auto race along National Mall - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
+    "source": "Google News",
+    "lean": "unrated",
+    "topic": "top",
+    "sourceNote": "Aggregated Google News top headlines feed.",
+    "time": "2026-08-23T20:33:19+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "text": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+      "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T20:31:49+00:00"
+    },
+    {
+      "text": "Barrasso: Monday will be 'D-Day for the economy in Iran’",
+      "url": "https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-23T20:23:35+00:00"
+    },
+    {
+      "text": "Trump waves green flag to start IndyCar race through Washington streets",
       "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
       "time": "2026-08-23T20:19:36+00:00"
-    },
-    {
-      "text": "Melania Trump talks about foster care initiative and racing interest at Freedom 250 Grand Prix",
-      "url": "https://thehill.com/blogs/in-the-know/6045927-melania-trump-freedom-250-grand-prix/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-23T20:17:36+00:00"
-    },
+    }
+  ],
+  "col1": [
     {
       "text": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister - AP News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
@@ -38,17 +49,15 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-23T19:59:00+00:00"
-    }
-  ],
-  "col1": [
+    },
     {
-      "text": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-      "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Lindsay Clancy’s murder trial has captured the nation’s attention. Here’s why. - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXZMSkhNQjdVWm1jRWc1RThhWTQ2dmpmREg1SE9NLTc4dGtwU0xEcUw3emRmaXNyMjFZRnB1X29CWEtCczlhUGQ1amhDcEZ2REtkYXlVYXg4YjBubUNZLWFiU1Y1THlnWDE5ZW1iamtBeTNybWJIbkRNUFpRN09Sd3BCeHZfSU44R01NZmRWNms4UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T18:56:27+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T18:33:00+00:00"
     },
     {
       "text": "China abruptly postpones ambitious lunar mission - Politico",
@@ -58,118 +67,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-23T18:00:00+00:00"
-    },
-    {
-      "text": "'The MMR vaccine is not a lethal vaccine,' Mehmet Oz says - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFZZklCckx1cVVjNEZ6SkxLeWUtb1FHbV84QVRfWmpvYWdtMFY3X1dBTE5rR2RJdkZfbGZZT3V5Nmt6d0E4X0ZJdUVzR2RMZlNnUnN2TUotU1ZPYzkxSERSYkQ1OHZTazl5bm5ESV85MmM5dVVZOEI4cjA3QWMxdEQ4Ulo?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T17:31:00+00:00"
-    },
-    {
-      "text": "Thousands in northwest Indiana still without power nearly two weeks after storm - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVJQbnY5eVBWRWltQlE5U2V2VnpJMENtdlJGZ0Eybmxwajd1V0pzbHhfLWRBUXlfbEtYendHSXVsdVpFLTFieGx0SHpndDhqRDkxck5OVDZ5aWVKZ0VWYU1QWVFaaVFoZkJCWnlTS0lHMW5aVFZ1a05DTEpLQjBuejQ2LTZxWWR0ZnVDTm9kTWxiRXNER3NJQk5XeDZMUk1fQktqbDA0ZC1rQ1lxLVJnQWFta2ZidEhmOXlPeEZTQmw1UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T16:55:37+00:00"
-    },
-    {
-      "text": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
-      "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T16:14:35+00:00"
-    },
-    {
-      "text": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGZ1S1dqaEZRWEJQVXpVQS00c0ZjN2gtUXhUbGFpVm1iNEZpLU1HVHJXWmx3MGhNV2h3R1NCYnlKU2FVXzNQek1TZzhnSTNpcG1MdFppZjZiNVpEQkdrNkk2THl6czU4ZjRkamxSbW5Wcjlib0V0d1M0akFud0ExMFpVZ2xwNDRKcGFuY0dLdnB0ZnBxQldXT2I4dFI1TGdpT051RWc0Ujk0bS1PcnRnWkVyRkU0d1I4MFcxbVFqbC1JS081?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:46:17+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T18:47:00+00:00"
-    },
-    {
-      "text": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFdhUmtGRnFsYnRJblp0NXZ6LVNsWC1BRl9rTll5NV9sTi1WcFNnelBvVWdIVUxmR3BpZU1RRjBOaDI4MjlxS0JueTN2QkJFNFktRlpRYUpoVU9hdVBhMVZGbjFDUHJsRXg1c2FSWU8xdW5kVFV6SWhjczJNM2x1eWRWYlhMVWRBcFQzNndocDJOcUtiTWtZOS1yb1RmdEduVC0xXy1mRUfSAa4BQVVfeXFMT1ptUGp6QnZ4VTdsSnBkUXFkQ1FzR3p5TXhRUXpTUHBxejVJMTlERGcwS0N6R3Y4MFpqMTdkRUIybzJRbEVWQm1CckRfWWQ1QWVrYUdzTlYzT3c1blU3dnJ6am9CVGF1TVZFTzZZWXV3ajRCcnE0Ym1tWUo1WXhMLTU3SWxOSllza1ptVExTUWstR0J1aC1aMjVvSFZzaVVOWjYzZ1VHWnlMMnA2V3N3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T17:58:06+00:00"
-    },
-    {
-      "text": "Live updates: Trump takes honor lap in IndyCar Grand Prix event - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2FWbk1jY3FlQVcyWDBvRDdPT19XcDc5YndPQXp4dDhGdm9kNFhWNTViOUlwdzg3b0RTTTh3TzFnVHBuSWdoS0d3Ml9uekMxSEs4cTE0a0Y0VnRzbC1kUjRjNzRUSjM1VnJ4NmRPVkRwM1haX3B0LXdMT3VTZmJCR0QyZGdjX3JyQVpQTmhUTnJFNngyOGVCV0N1c9IBoAFBVV95cUxPWGtmSlBGbWtsb25ZdWxxWVdjcGMyVFRYd0dOQk8tekJQR0xodnhNTlFmREsxUGg1VE1xN0ZnR1doT08wSldGMk9IQ2x3YUtSQ1JVWEEya20zNG9NQkRBTVZRdlY4SWpMMHlBVlY0NHVEQzB0TnU1RmNIc3VKTDlCTGxJVFA3MEFaU2xDWmlkd1NId0Y3ZXhsYUJwcmFPcjFB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T17:20:00+00:00"
-    },
-    {
-      "text": "Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex",
-      "url": "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T16:44:27+00:00"
-    },
-    {
-      "text": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T16:12:00+00:00"
-    },
-    {
-      "text": "Box Office: ‘Spider-Man: Brand New Day’ Triumphs Again in Fourth Weekend With $39 Million, ‘Insidious 6’ Launches to $25 Million - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemhhWUpVYldZUXdRV3RsUjEyMk1qbnlDdXZEaTJhbkFJVDVJYVgzd043aTZsUEJvZktqVHgxSUdTU3BMeVRZY2NKSC1zcjJqME1qUTlyUnoxTmRhSG1KNEd3RjVFcW1LN3N6c1dZTDZyM3Y4V3lvRThGR1pwWHFnZkduU003M3V0R3RZRW8xd0ZIWDBsenBQWWdYMEVHOE5OajFWVUVST2g?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:41:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2xtUVJrSkFLbUNuNkVrZ1c3cXZXNlBVNG5haXRmdENjbmFzRUp6LTNHR1p0N21tR3J0aUdzYjhhZS1WRWUxdEk1ODJtOG1LRlExOUh2UEVHUXdwMlZuR0NDOHRheWFucFExNjRLX3N5MXlCWWNqOTRjdEo3YTNBR0ZoTVNmM0JF?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T18:19:25+00:00"
-    },
-    {
-      "text": "‘Appalling’: Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFBtNjBRU05CZjBqWE5naVpTUlYxMmFOcTg5WEc3QlU2UVhMR2g2WG9kWVJBcHlibnppUnBTZGhLU2x3aXBTUzV4SHEybWZvQXpFNndlSnRFaVJndjlIcUR5aS1OdmtfcjM1VkpxWWl4MDRpbzhKSlhRZjRDbTE5V1BEQ01WamtnQlg5R2lkbFdpQ3B6ZlBNTFVhTnZXS2Z4THV2NEtnbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T17:49:06+00:00"
     },
     {
       "text": "Iran Warns Gulf States Not to Join Trump’s Economic War",
@@ -190,6 +87,62 @@
       "time": "2026-08-23T16:25:00+00:00"
     },
     {
+      "text": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T16:12:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T19:24:00+00:00"
+    },
+    {
+      "text": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2xtUVJrSkFLbUNuNkVrZ1c3cXZXNlBVNG5haXRmdENjbmFzRUp6LTNHR1p0N21tR3J0aUdzYjhhZS1WRWUxdEk1ODJtOG1LRlExOUh2UEVHUXdwMlZuR0NDOHRheWFucFExNjRLX3N5MXlCWWNqOTRjdEo3YTNBR0ZoTVNmM0JF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T18:19:25+00:00"
+    },
+    {
+      "text": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFdhUmtGRnFsYnRJblp0NXZ6LVNsWC1BRl9rTll5NV9sTi1WcFNnelBvVWdIVUxmR3BpZU1RRjBOaDI4MjlxS0JueTN2QkJFNFktRlpRYUpoVU9hdVBhMVZGbjFDUHJsRXg1c2FSWU8xdW5kVFV6SWhjczJNM2x1eWRWYlhMVWRBcFQzNndocDJOcUtiTWtZOS1yb1RmdEduVC0xXy1mRUfSAa4BQVVfeXFMT1ptUGp6QnZ4VTdsSnBkUXFkQ1FzR3p5TXhRUXpTUHBxejVJMTlERGcwS0N6R3Y4MFpqMTdkRUIybzJRbEVWQm1CckRfWWQ1QWVrYUdzTlYzT3c1blU3dnJ6am9CVGF1TVZFTzZZWXV3ajRCcnE0Ym1tWUo1WXhMLTU3SWxOSllza1ptVExTUWstR0J1aC1aMjVvSFZzaVVOWjYzZ1VHWnlMMnA2V3N3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T17:58:06+00:00"
+    },
+    {
+      "text": "Thousands in northwest Indiana still without power nearly two weeks after storm - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVJQbnY5eVBWRWltQlE5U2V2VnpJMENtdlJGZ0Eybmxwajd1V0pzbHhfLWRBUXlfbEtYendHSXVsdVpFLTFieGx0SHpndDhqRDkxck5OVDZ5aWVKZ0VWYU1QWVFaaVFoZkJCWnlTS0lHMW5aVFZ1a05DTEpLQjBuejQ2LTZxWWR0ZnVDTm9kTWxiRXNER3NJQk5XeDZMUk1fQktqbDA0ZC1rQ1lxLVJnQWFta2ZidEhmOXlPeEZTQmw1UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T16:55:37+00:00"
+    },
+    {
+      "text": "El-Sayed under fire online after taking aim at Usha Vance, female Trump aide in weekend social media posts - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlh0SDgycnRtLUFJd19rOU5TSGNDb0cwdGJ5MXdfSzhESEhncFA2NldGRTRhTHl6OWlEcE5TbnEwX3JNQWpwLTFEbng3TGUyWjFBTXNjQ2x0SnlDcUFwVEZjdjNyN0IxbUJneEc0Nkc0RG9wNVUwZG9USXFWM08wQ3BUOUNRV21KV25WMFVKZHlvZHhCT1VqaEN5cm41OXluaVNuTWVwOFRVTm10ZHMyYnQ1Vi0wbHYtWktnMtIBwgFBVV95cUxNdEVrQlA2Sm1KRC1MSzZXcy1SZGJkS2d0dlA3OEFaNVNBZFQwUDNMT2ZZeWEwczdISUx2Q2lpSnlVeVlRdzJhcDF1SXNIRDNQMnUzUmhqMkxCblRRby1EMFRjQVZLRXhpR3dIaVhDMFpLUTlFMUZFOW5kbHgyS3lEUzBhM09kblp1VkZnS1pfLUFxcnhxRHhHb2Z4M3BNWkJwcHZ5THJqUkJnUFpuNzZKTjJPVVhDeFZ6ekh5Z3JYbld0dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T16:17:24+00:00"
+    },
+    {
       "text": "Max Verstappen explains what caused his race-ending F1 Dutch GP crash - Motorsport.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BMjBoaU1GMloyUV9zTWRmNUE2YWVkdGFHbE5JclRxdmFNYklEdlJHVmxOVkJzWXIwZW0zanN5Y0RXX3NJcFNETnNsQTZuUkVERFVDZUtYX19qLUNsNGtIWTNxWW5lcmItVWROUk9QTjlIaHZjVzN3SDl6Yk5uMGM?oc=5",
       "source": "Google News",
@@ -197,15 +150,62 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-23T15:58:52+00:00"
-    },
+    }
+  ],
+  "col3": [
     {
-      "text": "Report: Apple launching updated iMac with M6 chip and new colors later this year - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEOUNPbmVGdEdvWTJGdVZQMWhaMXBfYS0yQjdKOUpyX1FVXzVFS3dUQ2RRX3A5X21uY0NNMm5hc0ZUNEE0cC14Wml1QkRCVVpqa2FYU3ZERnFZNXZDRklGcDRSWDQtZnhObkItX29mMUFXVThPYVc5akVpQQ?oc=5",
+      "text": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It” - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PUHBZS1h2dFNmc1RFeFJMcnF5UWIxenhSc3oxV0VrdnhUaS1vRUtzMjNTTG1qMjhCNFlLWjlKWU5kdk82ejJ5bGdwNDM3VkZOU29YeW10UW1abVFnRnkyZVNaM3lHT01oR1RnVlF5aWE4Y2hxeVc0b1lIVkdYUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:20:00+00:00"
+      "time": "2026-08-23T18:52:00+00:00"
+    },
+    {
+      "text": "Guinea rubbish landfill collapse kills 30 in Conakry - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISjU1R21yODRFNkthU0pRem9xb2ZZY2FsS193eUdiVTdGZ25IeU50enQteTl5akZOQkVhUG53ZlcxYjhiNWdRSEJwNzZTNmdoNVAySlNHaHR3UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T18:17:37+00:00"
+    },
+    {
+      "text": "'The MMR vaccine is not a lethal vaccine,' Mehmet Oz says - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFZZklCckx1cVVjNEZ6SkxLeWUtb1FHbV84QVRfWmpvYWdtMFY3X1dBTE5rR2RJdkZfbGZZT3V5Nmt6d0E4X0ZJdUVzR2RMZlNnUnN2TUotU1ZPYzkxSERSYkQ1OHZTazl5bm5ESV85MmM5dVVZOEI4cjA3QWMxdEQ4Ulo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T17:31:00+00:00"
+    },
+    {
+      "text": "Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex",
+      "url": "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T16:44:27+00:00"
+    },
+    {
+      "text": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
+      "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T16:14:35+00:00"
+    },
+    {
+      "text": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGZ1S1dqaEZRWEJQVXpVQS00c0ZjN2gtUXhUbGFpVm1iNEZpLU1HVHJXWmx3MGhNV2h3R1NCYnlKU2FVXzNQek1TZzhnSTNpcG1MdFppZjZiNVpEQkdrNkk2THl6czU4ZjRkamxSbW5Wcjlib0V0d1M0akFud0ExMFpVZ2xwNDRKcGFuY0dLdnB0ZnBxQldXT2I4dFI1TGdpT051RWc0Ujk0bS1PcnRnWkVyRkU0d1I4MFcxbVFqbC1JS081?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T15:46:17+00:00"
     }
   ]
 }
