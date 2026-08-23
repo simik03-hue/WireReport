@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-08-23T21:01:02.170059+00:00",
+  "generated_at": "2026-08-23T21:38:17.759162+00:00",
   "lead": {
-    "text": "IndyCar drivers roar through D.C. streets in auto race along National Mall - The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
-    "source": "Google News",
-    "lean": "unrated",
-    "topic": "top",
-    "sourceNote": "Aggregated Google News top headlines feed.",
-    "time": "2026-08-23T20:33:19+00:00",
+    "text": "Zeldin warns against banning data centers in US, citing China",
+    "url": "https://thehill.com/policy/energy-environment/6045971-zeldin-warns-against-data-center-bans/",
+    "source": "The Hill",
+    "lean": "center",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-23T21:26:14+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-      "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T20:31:49+00:00"
-    },
-    {
-      "text": "Barrasso: Monday will be 'D-Day for the economy in Iran’",
-      "url": "https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/",
+      "text": "Pence: Stopping ballistic attacks in Ukraine will 'take the last fighting tool out of Vladimir Putin's hands'",
+      "url": "https://thehill.com/policy/international/6045983-pence-zelensky-ukraine-defense/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-23T20:23:35+00:00"
+      "time": "2026-08-23T21:19:38+00:00"
     },
     {
-      "text": "Trump waves green flag to start IndyCar race through Washington streets",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
+      "text": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrdGVDWkZZTU1zblFQTnBheFM2ZHNGVTdUR3ljQXBINEh6cTlpTmFCVkxoeXlZYTdlWE5ROTZSMlVnSVZJZWRSdkRUaUJYSEZxYWhDVmk3WGxlRm03Wjlxb1VoWDhkNUx4bWlzNTRpQkE5SUF4MjJtWU1Ec0dEQnc?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
       "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-23T20:19:36+00:00"
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-23T21:00:05+00:00"
+    },
+    {
+      "text": "This week on the Hill: Georgia, South Carolina special elections draw focus",
+      "url": "https://thehill.com/newsletters/this-week-on-the-hill/6044652-georgia-south-carolina-special-election-trump-hush-money/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-23T21:00:00+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "IndyCar drivers roar through D.C. streets in auto race along National Mall - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T20:33:19+00:00"
+    },
     {
       "text": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister - AP News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
@@ -60,13 +69,13 @@
       "time": "2026-08-23T18:33:00+00:00"
     },
     {
-      "text": "China abruptly postpones ambitious lunar mission - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?oc=5",
+      "text": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWFDV3BDdVdXS3VHbUlpcUtKZ2puS3VZWDQ0TUJWVnBPMEFvblhtbkNHajJLUDBwSF9fZ1otV25RdmhsdTNaejZzSFJHMXpUS3lZSjZ6QnNLaVhsVzdmamEzUVVobThTdXZnZ1VYZXVzWWFvMk5VNzEyR2JoMXpxUjBGNHdxcDk1b3BGSGVTVV83TVpLejd5Ml9PTQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T18:00:00+00:00"
+      "time": "2026-08-23T17:50:00+00:00"
     },
     {
       "text": "Iran Warns Gulf States Not to Join Trump’s Economic War",
@@ -75,28 +84,28 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T17:00:09+00:00"
+      "time": "2026-08-23T17:00:10+00:00"
     },
     {
-      "text": "Melissa Gilbert On Child Actor Protections After Hayden Panettiere Death - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXBpNUtELXhROHlzTC13eG5qYkVqYmxpYmk2el94RHctY29DYW9iUlJaQXdqd0J5SXFzTS1BaWxCdEJtTklaajR4WWVyYVFkRTRJVVl3c3V0TDdhS3YzVVc1Qk1Gam1hUi0yLU0xQ0dHeG9jVTNydXgwVlV5M2xrUmZMbWxnMEZ4WDF1RXpXR192STY2RmlfdmNoZGNHeDFSaHUw?oc=5",
+      "text": "El-Sayed under fire online after taking aim at Usha Vance, female Trump aide in weekend social media posts - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlh0SDgycnRtLUFJd19rOU5TSGNDb0cwdGJ5MXdfSzhESEhncFA2NldGRTRhTHl6OWlEcE5TbnEwX3JNQWpwLTFEbng3TGUyWjFBTXNjQ2x0SnlDcUFwVEZjdjNyN0IxbUJneEc0Nkc0RG9wNVUwZG9USXFWM08wQ3BUOUNRV21KV25WMFVKZHlvZHhCT1VqaEN5cm41OXluaVNuTWVwOFRVTm10ZHMyYnQ1Vi0wbHYtWktnMtIBwgFBVV95cUxNdEVrQlA2Sm1KRC1MSzZXcy1SZGJkS2d0dlA3OEFaNVNBZFQwUDNMT2ZZeWEwczdISUx2Q2lpSnlVeVlRdzJhcDF1SXNIRDNQMnUzUmhqMkxCblRRby1EMFRjQVZLRXhpR3dIaVhDMFpLUTlFMUZFOW5kbHgyS3lEUzBhM09kblp1VkZnS1pfLUFxcnhxRHhHb2Z4M3BNWkJwcHZ5THJqUkJnUFpuNzZKTjJPVVhDeFZ6ekh5Z3JYbld0dw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T16:25:00+00:00"
-    },
-    {
-      "text": "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWZUcG45aEgwVnNzYTRhVGdVSkdYTUZLem9fRXhneGpWODR6ZDhqRndkNWJ6a1V3M1ItcGJ5SG5kX0lZYTY4alk4ZVllOU5sMGthVFUydHN3YUFyWFRGOGI5bDdrRjNaX3BnSGRESUJXWVBQTkJ0cHFXWlhuOVRSd0tOc0w4M28zTk41ZW11NC0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T16:12:00+00:00"
+      "time": "2026-08-23T16:17:24+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+      "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T20:31:49+00:00"
+    },
     {
       "text": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
@@ -116,13 +125,13 @@
       "time": "2026-08-23T18:19:25+00:00"
     },
     {
-      "text": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFdhUmtGRnFsYnRJblp0NXZ6LVNsWC1BRl9rTll5NV9sTi1WcFNnelBvVWdIVUxmR3BpZU1RRjBOaDI4MjlxS0JueTN2QkJFNFktRlpRYUpoVU9hdVBhMVZGbjFDUHJsRXg1c2FSWU8xdW5kVFV6SWhjczJNM2x1eWRWYlhMVWRBcFQzNndocDJOcUtiTWtZOS1yb1RmdEduVC0xXy1mRUfSAa4BQVVfeXFMT1ptUGp6QnZ4VTdsSnBkUXFkQ1FzR3p5TXhRUXpTUHBxejVJMTlERGcwS0N6R3Y4MFpqMTdkRUIybzJRbEVWQm1CckRfWWQ1QWVrYUdzTlYzT3c1blU3dnJ6am9CVGF1TVZFTzZZWXV3ajRCcnE0Ym1tWUo1WXhMLTU3SWxOSllza1ptVExTUWstR0J1aC1aMjVvSFZzaVVOWjYzZ1VHWnlMMnA2V3N3?oc=5",
+      "text": "'The MMR vaccine is not a lethal vaccine,' Mehmet Oz says - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFZZklCckx1cVVjNEZ6SkxLeWUtb1FHbV84QVRfWmpvYWdtMFY3X1dBTE5rR2RJdkZfbGZZT3V5Nmt6d0E4X0ZJdUVzR2RMZlNnUnN2TUotU1ZPYzkxSERSYkQ1OHZTazl5bm5ESV85MmM5dVVZOEI4cjA3QWMxdEQ4Ulo?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T17:58:06+00:00"
+      "time": "2026-08-23T17:31:00+00:00"
     },
     {
       "text": "Thousands in northwest Indiana still without power nearly two weeks after storm - NPR",
@@ -134,33 +143,33 @@
       "time": "2026-08-23T16:55:37+00:00"
     },
     {
-      "text": "El-Sayed under fire online after taking aim at Usha Vance, female Trump aide in weekend social media posts - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlh0SDgycnRtLUFJd19rOU5TSGNDb0cwdGJ5MXdfSzhESEhncFA2NldGRTRhTHl6OWlEcE5TbnEwX3JNQWpwLTFEbng3TGUyWjFBTXNjQ2x0SnlDcUFwVEZjdjNyN0IxbUJneEc0Nkc0RG9wNVUwZG9USXFWM08wQ3BUOUNRV21KV25WMFVKZHlvZHhCT1VqaEN5cm41OXluaVNuTWVwOFRVTm10ZHMyYnQ1Vi0wbHYtWktnMtIBwgFBVV95cUxNdEVrQlA2Sm1KRC1MSzZXcy1SZGJkS2d0dlA3OEFaNVNBZFQwUDNMT2ZZeWEwczdISUx2Q2lpSnlVeVlRdzJhcDF1SXNIRDNQMnUzUmhqMkxCblRRby1EMFRjQVZLRXhpR3dIaVhDMFpLUTlFMUZFOW5kbHgyS3lEUzBhM09kblp1VkZnS1pfLUFxcnhxRHhHb2Z4M3BNWkJwcHZ5THJqUkJnUFpuNzZKTjJPVVhDeFZ6ekh5Z3JYbld0dw?oc=5",
+      "text": "Melissa Gilbert advocates for young stars to be protected after Hayden Panettiere's death - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjRBazlrTk9lc1pTcG55VVc5N2lPU2xHa3BIYnNuSDRPaUpZeTRLaWd2amxzWi1zOGRFNWtyZnFROWZodDZnTEZFb3N2VEJpYnQ2UnBNMXo1ZDBOcXhjaE1URUFFM0NsU055eUVNcGliaGd1am1nd1hRNlI5TGVidkhzc0w0TGJ0NlFRcWsySmpvTzFnb21BT19KRkVxWmRMQkpIcElaRUNtaWRsX3NBLTVMdnNDYWFTU0dtM1l3WHhKeHRIeW1iaTUyV1ZwbWdO?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T16:17:24+00:00"
-    },
-    {
-      "text": "Max Verstappen explains what caused his race-ending F1 Dutch GP crash - Motorsport.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BMjBoaU1GMloyUV9zTWRmNUE2YWVkdGFHbE5JclRxdmFNYklEdlJHVmxOVkJzWXIwZW0zanN5Y0RXX3NJcFNETnNsQTZuUkVERFVDZUtYX19qLUNsNGtIWTNxWW5lcmItVWROUk9QTjlIaHZjVzN3SDl6Yk5uMGM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:58:52+00:00"
+      "time": "2026-08-23T16:15:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It” - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PUHBZS1h2dFNmc1RFeFJMcnF5UWIxenhSc3oxV0VrdnhUaS1vRUtzMjNTTG1qMjhCNFlLWjlKWU5kdk82ejJ5bGdwNDM3VkZOU29YeW10UW1abVFnRnkyZVNaM3lHT01oR1RnVlF5aWE4Y2hxeVc0b1lIVkdYUQ?oc=5",
+      "text": "‘Appalling’: Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFBtNjBRU05CZjBqWE5naVpTUlYxMmFOcTg5WEc3QlU2UVhMR2g2WG9kWVJBcHlibnppUnBTZGhLU2x3aXBTUzV4SHEybWZvQXpFNndlSnRFaVJndjlIcUR5aS1OdmtfcjM1VkpxWWl4MDRpbzhKSlhRZjRDbTE5V1BEQ01WamtnQlg5R2lkbFdpQ3B6ZlBNTFVhTnZXS2Z4THV2NEtnbw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T18:52:00+00:00"
+      "time": "2026-08-23T20:07:18+00:00"
+    },
+    {
+      "text": "Dr. Dre Admits He Uses AI To Produce, Doesn’t See It “As A Threat”: “I’m Embracing It” - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hcnJCZnZ2OTZuTGNJOFgxWms4TXpmSWtIUmtJVHpXRFlDZnp0VmZmLS02WDJaSWMzNERCWjVOV3NJYkx5bUlHRmRRbkxvcTM3ZUxkLXRNU3VPQm1VeTJCMnNob3B0WnBsazdIaU9yQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T18:52:20+00:00"
     },
     {
       "text": "Guinea rubbish landfill collapse kills 30 in Conakry - BBC",
@@ -172,13 +181,13 @@
       "time": "2026-08-23T18:17:37+00:00"
     },
     {
-      "text": "'The MMR vaccine is not a lethal vaccine,' Mehmet Oz says - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFZZklCckx1cVVjNEZ6SkxLeWUtb1FHbV84QVRfWmpvYWdtMFY3X1dBTE5rR2RJdkZfbGZZT3V5Nmt6d0E4X0ZJdUVzR2RMZlNnUnN2TUotU1ZPYzkxSERSYkQ1OHZTazl5bm5ESV85MmM5dVVZOEI4cjA3QWMxdEQ4Ulo?oc=5",
+      "text": "Treasury's recent moves in the bond and currency markets add up to 'soft-form financial repression' - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1g2Rk5FZkYtSTZueVRmMmpFTlJ4RXZtdGJnMUlEa0dFLUFKU1R4TFZWakgzQmd0S2ZseC1MdkxFUWVvZ2JRdERCQWJTUnBrT0EtVlV1NnM5aVg5WkZaQjNFelI3NE1VdGFNdE1QSktvUUh5aDJwVGxnUHVYOWVZdWROV1FUTV9VRTVEczFwQ2xwRkUxa1RsQzI5aVUwaWpPTmVWa3NUN1RRRjJxQWljZmhJRjRIT0k?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T17:31:00+00:00"
+      "time": "2026-08-23T17:22:00+00:00"
     },
     {
       "text": "Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-23T16:14:35+00:00"
-    },
-    {
-      "text": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGZ1S1dqaEZRWEJQVXpVQS00c0ZjN2gtUXhUbGFpVm1iNEZpLU1HVHJXWmx3MGhNV2h3R1NCYnlKU2FVXzNQek1TZzhnSTNpcG1MdFppZjZiNVpEQkdrNkk2THl6czU4ZjRkamxSbW5Wcjlib0V0d1M0akFud0ExMFpVZ2xwNDRKcGFuY0dLdnB0ZnBxQldXT2I4dFI1TGdpT051RWc0Ujk0bS1PcnRnWkVyRkU0d1I4MFcxbVFqbC1JS081?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:46:17+00:00"
     }
   ]
 }
