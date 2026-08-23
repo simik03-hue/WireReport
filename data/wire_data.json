@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-08-23T17:58:45.044939+00:00",
+  "generated_at": "2026-08-23T18:43:08.761398+00:00",
   "lead": {
-    "text": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-    "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Turning Point USA announces Charlie Kirk memorial on university campus where he was shot",
+    "url": "https://thehill.com/homenews/state-watch/6045850-uv-event-commemorates-kirk/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-23T17:54:34+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-23T18:41:28+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Duffy: Carney will 'come to the table' because tariffs will be 'devastating'",
+      "url": "https://thehill.com/business/6045845-duffy-predicts-carney-trade-negotiations/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-23T18:36:54+00:00"
+    },
+    {
+      "text": "Guinea rubbish landfill collapse kills 30",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-23T18:17:37+00:00"
+    },
+    {
+      "text": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-23T18:17:34+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
       "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
@@ -22,82 +51,6 @@
       "time": "2026-08-23T17:39:56+00:00"
     },
     {
-      "text": "France links sharp rise in drownings to heatwaves",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-23T17:39:33+00:00"
-    },
-    {
-      "text": "IndyCar drivers to zoom through D.C. streets, with Trump set to take lap in limo - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T17:33:19+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzBpSF8weUI2bUNJSmhSS0lHMUlHVFpDQWRGYkpLLW1HVDVRWnNVY2kxSHlsQTdlVUx4MGJ6VnFHVlpIbnZiajNTQndfNlJGS2N1RVRSVWhGQXNDYlRqUlJDak44VkVPUFZnS19QdEZMYXd6cTM4RTRoZEVtQXRPQjl3S0szczZxT1FQOWFNU1BYLTBPbG5oRGpjNjRaUnhVQ3RyWm11U001eTBVaE1Jajh3ZEF1b00?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T17:25:00+00:00"
-    },
-    {
-      "text": "Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex",
-      "url": "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T16:44:27+00:00"
-    },
-    {
-      "text": "See the moment when Republican politicians turned against data centers - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0h3d3N1UlREUG9md3JGMmRJVXJUeTgxSjhyWDBsWC1IakRYRk5nQUVUY21QdlJ5N0tGODhFQzgxWWM2dGlJalMxVWRiQ0ZwR0FGRXZDd3dnaVY0eDNqUUlyR1hxVnhkSWJ1Sl9LTEZOM0dhaHJzZkg0QVdiQnlCRGJyQzJKYzN5WmVKaXVNYURDblVGeEZLc2lpaEpfUS14RWlyNjM5bTFhYk1reUg2UXFCdkpKM1c2TVZ2ZVJSTzRnQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T16:00:00+00:00"
-    },
-    {
-      "text": "Spider Man Box Office: Brand New Day Leads Over Insidious 6 - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemhhWUpVYldZUXdRV3RsUjEyMk1qbnlDdXZEaTJhbkFJVDVJYVgzd043aTZsUEJvZktqVHgxSUdTU3BMeVRZY2NKSC1zcjJqME1qUTlyUnoxTmRhSG1KNEd3RjVFcW1LN3N6c1dZTDZyM3Y4V3lvRThGR1pwWHFnZkduU003M3V0R3RZRW8xd0ZIWDBsenBQWWdYMEVHOE5OajFWVUVST2g?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:41:00+00:00"
-    },
-    {
-      "text": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
-      "url": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T15:07:34+00:00"
-    },
-    {
-      "text": "Tim Scott calls support for Darline Graham an ‘easy choice’ despite her debate flub - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlF0bTh3TXdNUVgtU0JobjE5RWJiOHNLNzVlYk1lMHhic2g0a1piUTFCd3FyaXFYUk9Kc01yWERsT0dmWS1uXy1rczRhUE04TVJMeldocTh6RXZVZ3ZyM3EwV3R4RjBiQWhrV2tZYVBkVnN6ZWZveGRiRlRzSnc0RDRfcG9ZQUtTd3czMUpCZlJwVmJqTl9sSk5WbUZaQ2x5TGVN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T14:38:43+00:00"
-    }
-  ],
-  "col2": [
-    {
       "text": "Iran Warns Gulf States Not to Join Trump’s Economic War",
       "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
       "source": "NYT",
@@ -107,13 +60,69 @@
       "time": "2026-08-23T17:00:09+00:00"
     },
     {
-      "text": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+      "text": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film - AP News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1g3OXU1bHdwNTVnLXZQWlY5ZE52Nk1lTUxjb0tpU2s0RnlOZEJWTHc5UDlJNUNheVBlbEwtc1RoTFExNTluNVJUeFd1RnMtdUVZaDhoU0hSbzR3SEp2cVBKTGU0UThJVjQzcDVLdXdSTUxhOWt6b2Y4c3lEVWptblBZVXU0Mzg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T16:26:00+00:00"
+      "time": "2026-08-23T16:47:00+00:00"
+    },
+    {
+      "text": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
+      "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T16:14:35+00:00"
+    },
+    {
+      "text": "What caused Max Verstappen’s F1 Dutch GP crash - Motorsport.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BMjBoaU1GMloyUV9zTWRmNUE2YWVkdGFHbE5JclRxdmFNYklEdlJHVmxOVkJzWXIwZW0zanN5Y0RXX3NJcFNETnNsQTZuUkVERFVDZUtYX19qLUNsNGtIWTNxWW5lcmItVWROUk9QTjlIaHZjVzN3SDl6Yk5uMGM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T15:38:26+00:00"
+    },
+    {
+      "text": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "url": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T15:07:34+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "IndyCar drivers to zoom through D.C. streets, with Trump set to take lap in limo - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T17:33:19+00:00"
+    },
+    {
+      "text": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPci1jTzRHNU5Yb2FoRHBSZ0ZTUDlTcmc2aFdDaUxMLUI5OHBJMGZPcTBlcFN1MDhXTnd3Z3JXeDFZWmE5c2tNbUUzMjhZanBHNU9YWkdzQi1NcTBLT1BCcXlyT0VUSWlDVGJSQzQ4Vlg2SkpQeUl5by1tTGZVWGZ5N01MRXh3b2d1bDU5NUpR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T16:56:00+00:00"
+    },
+    {
+      "text": "Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex",
+      "url": "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T16:44:27+00:00"
     },
     {
       "text": "Thousands struggling without power in Gary, Indiana 12 days after severe storms - BBC",
@@ -134,25 +143,25 @@
       "time": "2026-08-23T15:30:19+00:00"
     },
     {
-      "text": "Melissa Gilbert calls for 'real change' after Hayden Panettiere death - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMk04MXJEcjNVa05oSVk2c1dBRjloMFpKeFVzVk5WUGh4MzVfMU1HUURHN3hsdlNEZHBza2NmWXBVZHBfd0hGUWV3aGNzeEV2NGxjejlpY0JiLTNXY1lJcDVEaTdqUHlKMk9XTDdFdzlZaWl6T19uMUlXRFlpdEFEWk5JMWVad21NejhqWktOWmxya25CeTVYOUpuTWlNY3BGUElhUGtMa1EtcUhURFV2LTJRdmpkM3d2YmtoMTlLZ05yX0ZpMEw0TmNTMlppUQ?oc=5",
+      "text": "Mark Ruffalo Fires Back At Paramount's Accusations Of Antisemitism - HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDBzOWVoOVJlZWNDc3NyOTRwUzB3TU14T2t6MWNzQXRRZmFlWGxkaEJoa08tTElyMkhrajM0OHpRd1Bvc2NvVEhZZXRMd3FaQUc0SXpJQVBMVHR1bk1jVFRuYW1VWXVjNTJYUkZrbUdlcmtvcFN4MWh2NUZTUXNoVHZJVHIza1FrSUNNX2JVQlpWMWpoSnk4Q9IBngFBVV95cUxOZUM0THdPSnBMa1pFZk9ySUpDbHRSMjI3STRTOGI1c2pEMUVUVHJkMHE1bFAtclFPYmxlNlJ3WGFwRkZDcFNWNFV5UzNXeVNxTkc4dTVsX0t6TUlxTFFyQngyNU1zYk85cENxaDYxbnh5S2wzWV9uTzFOR0M5NG9qUlU0VUhnR2dmQ2QyY2F1N1FjeEJTWktiVktmVkRNUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:03:00+00:00"
-    },
-    {
-      "text": "China postpones launch of unprecedented water-hunting moon mission amid space race - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlVOWVVJbFFHVWI2WWlCZ0tEVzJGZkF6SnB0akV2QjNVc0M0NzV6RkpXUUtvXzZXbFYwakI4ZHFiRWV2WWozcExXZm1pdWhPRS00LVdnM0lveVlGNlphZkNsdGhweU5DTDE3VEFDazlMY01aczRhR19jODBWcHBYNTFzRGZuVDc1dGVz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T14:36:33+00:00"
+      "time": "2026-08-23T15:00:27+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzBpSF8weUI2bUNJSmhSS0lHMUlHVFpDQWRGYkpLLW1HVDVRWnNVY2kxSHlsQTdlVUx4MGJ6VnFHVlpIbnZiajNTQndfNlJGS2N1RVRSVWhGQXNDYlRqUlJDak44VkVPUFZnS19QdEZMYXd6cTM4RTRoZEVtQXRPQjl3S0szczZxT1FQOWFNU1BYLTBPbG5oRGpjNjRaUnhVQ3RyWm11U001eTBVaE1Jajh3ZEF1b00?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T17:25:00+00:00"
+    },
     {
       "text": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
@@ -163,49 +172,40 @@
       "time": "2026-08-23T16:56:00+00:00"
     },
     {
-      "text": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
-      "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T16:14:35+00:00"
-    },
-    {
-      "text": "Wildfire approaches Reno, Nevada, forcing thousands to evacuate their neighborhoods - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
+      "text": "Meghan’s role in The Gentlemen leaked ‘to make her in demand’ - The Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaGtDYm1iRG9Bdk9nNXpoR0hYLXhPLXFGSHhYaE5KRW1hb1lWWFg4bFJoc2dCUnlKOUtwb1d4cWdybVdEcDVIazg1bG1FaGJmYUpZRFFGSE5nclBPanZuSDRqd09vVmw5YVd2Q2dVdElQWVpEODBocHdKVExfSXRLMEZCbk4wQVdnRGV4dWdOOExRc0lFcWdwME9tT2RSaDdo?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:46:00+00:00"
+      "time": "2026-08-23T16:40:53+00:00"
     },
     {
-      "text": "Norris wins dramatic Dutch Grand Prix as Verstappen crashes - Formula 1",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYXoyaTBCZ3hBZjBjMXhmUkwtWTViR0k2Q0FuTlh1dFk3aEQ1STItUDBORk82NElKMy1LdERIMHRMMTl4dE1uaTdIR2FONXNxbm5YdHRhdzBrQnIwYzFOUFpiaFIxUUwwOG9GeHhFMUJGak9iTkNfUlhHdm42Y3VrY0E5dlgtSEowQXF0S2pSZkppZUstT3p2MHd0WUU4S1JiWkNQeTF4bFBPRlZlUG1MT0dwbFliVEpNWXlIc3d3X3c2TUoxRnVIbVRZY0xyWkF2bmMzOWZ0UlZYNzI2OV9QUENwNGJxOVNoN3U0?oc=5",
+      "text": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGZ1S1dqaEZRWEJQVXpVQS00c0ZjN2gtUXhUbGFpVm1iNEZpLU1HVHJXWmx3MGhNV2h3R1NCYnlKU2FVXzNQek1TZzhnSTNpcG1MdFppZjZiNVpEQkdrNkk2THl6czU4ZjRkamxSbW5Wcjlib0V0d1M0akFud0ExMFpVZ2xwNDRKcGFuY0dLdnB0ZnBxQldXT2I4dFI1TGdpT051RWc0Ujk0bS1PcnRnWkVyRkU0d1I4MFcxbVFqbC1JS081?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:27:00+00:00"
+      "time": "2026-08-23T15:46:17+00:00"
     },
     {
-      "text": "Mark Ruffalo Fires Back At Paramount's Accusations Of Antisemitism - HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDBzOWVoOVJlZWNDc3NyOTRwUzB3TU14T2t6MWNzQXRRZmFlWGxkaEJoa08tTElyMkhrajM0OHpRd1Bvc2NvVEhZZXRMd3FaQUc0SXpJQVBMVHR1bk1jVFRuYW1VWXVjNTJYUkZrbUdlcmtvcFN4MWh2NUZTUXNoVHZJVHIza1FrSUNNX2JVQlpWMWpoSnk4Q9IBngFBVV95cUxOZUM0THdPSnBMa1pFZk9ySUpDbHRSMjI3STRTOGI1c2pEMUVUVHJkMHE1bFAtclFPYmxlNlJ3WGFwRkZDcFNWNFV5UzNXeVNxTkc4dTVsX0t6TUlxTFFyQngyNU1zYk85cENxaDYxbnh5S2wzWV9uTzFOR0M5NG9qUlU0VUhnR2dmQ2QyY2F1N1FjeEJTWktiVktmVkRNUQ?oc=5",
+      "text": "Report: Apple launching updated iMac with M6 chip and new colors later this year - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEOUNPbmVGdEdvWTJGdVZQMWhaMXBfYS0yQjdKOUpyX1FVXzVFS3dUQ2RRX3A5X21uY0NNMm5hc0ZUNEE0cC14Wml1QkRCVVpqa2FYU3ZERnFZNXZDRklGcDRSWDQtZnhObkItX29mMUFXVThPYVc5akVpQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T15:00:27+00:00"
+      "time": "2026-08-23T15:20:00+00:00"
     },
     {
-      "text": "America’s Desert Metropolis Is on the Short List to Lose Water",
-      "url": "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "‘The writing on the wall’: Trump’s staff departs ahead of possible turmoil - Politico",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa3FGNUJfOHFrZGdlQm9YMDd6dmM5aEVyT3YwNzV1Ri1pUXcxX3djWXd1Y1RUYW1uZkhfOVUwblFWUVh6NEJFZm5TOVFsMjcza1NkLXNPcjFpS0ZHdU04NFUzaU8xQ0F3MGJEaFhyQ0dyRzlrWFlYbGt2QUJXZWN0SmdhV1RkRllZY2JRdEhTODZaYnlLWVV0bkJzeEhSa3c5WlN2VF9LbEktSUd5TE5ndU9KU0RScS00STZ2ZQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T14:31:12+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T15:00:00+00:00"
     }
   ]
 }
