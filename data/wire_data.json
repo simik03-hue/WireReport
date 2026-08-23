@@ -1,25 +1,54 @@
 {
-  "generated_at": "2026-08-23T11:38:17.440757+00:00",
+  "generated_at": "2026-08-23T12:00:28.312667+00:00",
   "lead": {
-    "text": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
-    "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
-    "source": "CNBC",
+    "text": "Dozens of co-ordinated arson attacks hit southern Thailand",
+    "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-23T11:35:52+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-23T11:50:59+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "This Canal System Transformed Arizona. It’s Now in Jeopardy.",
-      "url": "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html",
+      "text": "State of Texas: Big Bend construction paused, but for how long?",
+      "url": "https://thehill.com/policy/energy-environment/6045366-state-of-texas-big-bend-construction-paused-but-for-how-long/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-23T11:46:49+00:00"
+    },
+    {
+      "text": "Ukraine-Russia war latest: Macron to deliver missile interceptors to Kyiv as Putin pulls ambassador from UK - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWhKMUl5SF9pVjE3TmxXVnNhT0lUdzZDT3FRck9JM25ySXJCNEZPTnc3S3c3OFd5N2VxUXB3V3NPX2FMcEZ3MXdUWi1CaUdTaTFjcldzTjgwVXlJQjJVUUhjYWlGa285MXlDUVJFWTdVQk11UjlsUjEtYzZKQVRBLTFSM3JTcDZVc1d6VGNTSnJKTzVQa3o2QkZ5NWJGMzhnb3hwUUNVVWNhb3B1RWxDbVliVl9GUndtRDgxaw?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-23T11:46:41+00:00"
+    },
+    {
+      "text": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
+      "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-23T11:35:52+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "A Murder Trial in Massachusetts",
+      "url": "https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T11:26:18+00:00"
+      "time": "2026-08-23T11:31:06+00:00"
     },
     {
       "text": "How Big Tech Captured American Schools",
@@ -30,17 +59,6 @@
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-23T11:13:40+00:00"
     },
-    {
-      "text": "See the moment when Republican politicians turned against data centers - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0h3d3N1UlREUG9md3JGMmRJVXJUeTgxSjhyWDBsWC1IakRYRk5nQUVUY21QdlJ5N0tGODhFQzgxWWM2dGlJalMxVWRiQ0ZwR0FGRXZDd3dnaVY0eDNqUUlyR1hxVnhkSWJ1Sl9LTEZOM0dhaHJzZkg0QVdiQnlCRGJyQzJKYzN5WmVKaXVNYURDblVGeEZLc2lpaEpfUS14RWlyNjM5bTFhYk1reUg2UXFCdkpKM1c2TVZ2ZVJSTzRnQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T10:46:53+00:00"
-    }
-  ],
-  "col1": [
     {
       "text": "Trump laying groundwork to impose national emergency by sowing election distrust - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjk5Ukp5RlFOeS1IWVFZdm92b2JRSllVSFltWGxyYnlDZ1VOb2QzVERSRGJWbmx0WFQ2LWlwQW5hNHhRTlFVcGlEZVlkSmJodVBxTTE5ZUNMcXB4c2Z1cGhZR0hzNkhJUnYxUzlHa0cxOWdoYUFIMUl2ZWVHZWhtenpoY2g?oc=5",
@@ -60,43 +78,43 @@
       "time": "2026-08-23T09:47:28+00:00"
     },
     {
-      "text": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
-      "url": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:02:04+00:00"
-    },
-    {
-      "text": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
-      "url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:01:52+00:00"
-    },
-    {
-      "text": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
-      "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:00:19+00:00"
-    },
-    {
-      "text": "15-year-old arrested in deadly shooting at Independence High football game - KBAK",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSE8xRW05aHlhNENRck1wcjhsazBxbkI4cWdwOHBURGxnUHVQR1g3WEtaOWEwbzZzSEQ5bVVpLW1kQVUtRTV3QkpkcmxoNEd5ZVluYy1ZWm1JYWllNHYtdGZuTmdKVkNzZ01kemtWeXFCbGVJSkVZcERpaWRsZi1rdGtMOXVFYk8wbFVoR1hYcG82WTNOdUJ6MGppdzNVb3hVcDg3VTZoMU9zc3BHUFQtMjM1dzVfS3VsOUFBZlJubWI5UzJOTlVKVVV6NjUtQjMyaUhxUUJUYVg3bFBkSkhsT0ttTHpJb0g3bXc?oc=5",
+      "text": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T06:29:57+00:00"
+      "time": "2026-08-23T09:23:00+00:00"
+    },
+    {
+      "text": "The Midterms Feel Like 2006 All Over Again",
+      "url": "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T09:01:57+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "This Canal System Transformed Arizona. It’s Now in Jeopardy.",
+      "url": "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T11:26:18+00:00"
+    },
+    {
+      "text": "See the moment when Republican politicians turned against data centers - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0h3d3N1UlREUG9md3JGMmRJVXJUeTgxSjhyWDBsWC1IakRYRk5nQUVUY21QdlJ5N0tGODhFQzgxWWM2dGlJalMxVWRiQ0ZwR0FGRXZDd3dnaVY0eDNqUUlyR1hxVnhkSWJ1Sl9LTEZOM0dhaHJzZkg0QVdiQnlCRGJyQzJKYzN5WmVKaXVNYURDblVGeEZLc2lpaEpfUS14RWlyNjM5bTFhYk1reUg2UXFCdkpKM1c2TVZ2ZVJSTzRnQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T10:46:53+00:00"
+    },
     {
       "text": "Twitter Broke the Left. X Will Break the Right.",
       "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
@@ -116,6 +134,62 @@
       "time": "2026-08-23T09:44:57+00:00"
     },
     {
+      "text": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "url": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T09:02:04+00:00"
+    },
+    {
+      "text": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-23T09:01:52+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzBpSF8weUI2bUNJSmhSS0lHMUlHVFpDQWRGYkpLLW1HVDVRWnNVY2kxSHlsQTdlVUx4MGJ6VnFHVlpIbnZiajNTQndfNlJGS2N1RVRSVWhGQXNDYlRqUlJDak44VkVPUFZnS19QdEZMYXd6cTM4RTRoZEVtQXRPQjl3S0szczZxT1FQOWFNU1BYLTBPbG5oRGpjNjRaUnhVQ3RyWm11U001eTBVaE1Jajh3ZEF1b00?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T11:17:00+00:00"
+    },
+    {
+      "text": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T10:11:00+00:00"
+    },
+    {
+      "text": "iPhone 18 Pro Latest Release Schedule: What To Expect When - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVBRbmRsNWlaMXA5M3dPMi1pUklTVWp1cXJOM0s5a213WDB1a0NodE5JUGpKTldjbXZXalJ6bi1fUWlVaVJldXFleVlwUFNqTnEwYm1ZZWZ6LXQ5bXp2TllmczdldXo5c0FEZGZxdkstdnZGOWxDeHFPdEttWkp0MTJUTHE5N0Uta1dDTGxpUi1WcG1COS1vZEw4bUFrS3JYUkJudTR3cUF1VTI3MWFj?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T10:00:00+00:00"
+    },
+    {
+      "text": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-23T09:30:00+00:00"
+    },
+    {
       "text": "The Data Center Backlash Bursts Into the Midterms",
       "url": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
       "source": "NYT",
@@ -132,80 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-23T09:00:33+00:00"
-    },
-    {
-      "text": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says - NPR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2V6emYzQS1xd2dtVDlKa1N0NVRxbWNUamptYnE0TDNpclJndXZsTm82RWpjb1NPNHVKUE1ZSjZFTDcyYWc3c0o1MWpyQnlhVFJUajY2OWpBblAtWU55ZDJseGZ3dWVjbHhKREdiMUxGcU9IeWFuOVYtZFdTUVgwYmFHNC1weVE4ZWpoMjBFYTB0a3M?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T09:00:00+00:00"
-    },
-    {
-      "text": "The Barbie Backlash",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T06:13:18+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Putin wants to draft 300,000 new troops, Zelenskiy says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T09:52:55+00:00"
-    },
-    {
-      "text": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONV81OVhGQUZYeXc2ZU5aQUlwZWRCdGU5OGlqdllsZXVZbEtJQzVXQ05ZMlZVRlVua0xUdDRpVmg3b25KRnNUbEVPc1JhQks5OHlPYi13RDdleGNxM2tlWnV2TUxYMXRsenNSN3VmdEoycFVSaFNEVll5Um1fOUFxbUNac3lfM1pTbTg3WVpHd21IdnU3R1ZkS2dyai0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T09:23:00+00:00"
-    },
-    {
-      "text": "The Midterms Feel Like 2006 All Over Again",
-      "url": "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:01:57+00:00"
-    },
-    {
-      "text": "Wildfires Are Turning Forests in the American West Into Shrubland",
-      "url": "https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-23T09:00:22+00:00"
-    },
-    {
-      "text": "Jay Leno Wants New Hampshire to Recognize Wife's Conservatorship So He Can Sell Property - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0ZuLXBkOVNzcDV0ZFFHSF9QY2FRam05YXV5ajVsdUloRFdPTDc2T1g5WXdvMEljRmxrU1NyRkltSVByRWxFdXFwS1Y0V3VBSHA1Z2s3Ym5OTTc0dmdnQzZtRlBEOU5MbVRUOXdZV3A1cEgxbHc4RGlUQ3NYNTUzNW15NFNGcXZhM3dncDI4dE4tcTEyaExja3Nn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T08:00:34+00:00"
-    },
-    {
-      "text": "Iran warns of retaliation against countries joining US ‘economic war’ - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-23T05:44:03+00:00"
     }
   ]
 }
