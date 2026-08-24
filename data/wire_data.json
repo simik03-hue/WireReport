@@ -1,54 +1,63 @@
 {
-  "generated_at": "2026-08-24T15:58:01.228037+00:00",
+  "generated_at": "2026-08-24T16:50:05.738258+00:00",
   "lead": {
-    "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-    "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
+    "url": "https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-24T15:54:16+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-24T16:38:55+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Existing White House bunker undermines need for East Wing renovation, officials reportedly say",
-      "url": "https://thehill.com/homenews/administration/6046804-white-house-bunker-trump-ballroom/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-24T15:51:53+00:00"
-    },
-    {
-      "text": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+      "text": "A massive trade just happened in gold. The options market is buzzing",
+      "url": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-24T15:50:50+00:00"
+      "time": "2026-08-24T16:38:37+00:00"
     },
     {
-      "text": "Watch live: RFK Jr., Rollins tout Trump's child nutrition agenda",
-      "url": "https://thehill.com/video-clips/6046872-watch-live-rfk-jr-brooke-rollins-donald-trump-usda-childhood-nutrition/",
+      "text": "Iran’s rial currency hits new record low as US prepares to announce more sanctions - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T16:38:00+00:00"
+    },
+    {
+      "text": "New York supermarkets sue over Mamdani's municipal grocery stores",
+      "url": "https://thehill.com/homenews/state-watch/6046875-nyc-grocers-sue-mamdani-administration/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-24T15:47:44+00:00"
+      "time": "2026-08-24T16:32:19+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Canada Said No to America. It Will Reverberate Far Beyond Its Borders.",
-      "url": "https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html",
+      "text": "We’re in a New Era of Class Warfare. History Points to a Way Out.",
+      "url": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T15:38:17+00:00"
+      "time": "2026-08-24T16:31:24+00:00"
+    },
+    {
+      "text": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T16:25:48+00:00"
     },
     {
       "text": "U.S. to Unveil ‘Economic D-Day’ Sanctions Targeting Iran’s Economy",
@@ -57,54 +66,137 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T15:12:17+00:00"
+      "time": "2026-08-24T16:18:55+00:00"
     },
     {
-      "text": "Illinois officer convicted in Sonya Massey killing has died, lawyer says - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFQ1NzItd25yeUk5YkdDQnlDS1VvRWV6R3RkMFZDWnhrWjkyN1JiSjU2M2FjSTZlQ29IaVVlS0o5cHZKWTJvdk5nZ2JTMi0zVkpqMFFqbEM0QjhWT2ZCLXUzZnBOdmlRcXo4T0JuaXZubExiUDcySUdGYWlZa3dmdnUxUEdqbi1UYlVYdjg3NXNjbTdZM0dkRno4NU92U3JrdWdPQlpSUzJnMWt0X210NVY2b25ZRndXRUE?oc=5",
+      "text": "Apple is about to launch five new products that I’m very excited for - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzgtN1o2WmRLbDBHVkRRclFqdExUT2kyQ3pUUGpOYnFITTBHbWNsYVExRG93TmtuTXhEa25sS3RoV291dEJUM0Q0bHNkUnpuMEhWWkVwMFFRbVhmZFRiWVpuVGlYZjk5NWdCSWpKZXpEdDlVMFcxRV94d3Vvd3VMS01UMzE2YWY2U0NHR1hSeTh4SzMwTG5ybWxBVU5WR0dk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T14:41:34+00:00"
+      "time": "2026-08-24T15:43:00+00:00"
     },
     {
-      "text": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
-      "url": "https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T14:19:30+00:00"
-    },
-    {
-      "text": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
-      "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T14:03:39+00:00"
-    },
-    {
-      "text": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NVnNJWGhDdTFvVFBMaGVjcldDel91bGg5eW1IdDNOOGJ0cWVnWVFTOWE0S3VHZlpjcWRIdW5lc1hCWEg5RGVMeXBBMDQ5aUpaR2xyRTZIVnAxUDJTdzJNWEkwd0drdjdiUk5TQmw5ejJFQTcyMjY0Wm9WRzjSAYIBQVVfeXFMUElPMnVlU3BVRGRvR19leEtvUzI0akZTdVRDb1VRY1NOcmQzMmVFdFNlUVZleU5LRDg0T01YRlM1djFUUmhPRTV1RjUwZlhWTV84UGFyVFl0bl9FQ1MzOHNEdUFEeHBTVzhwdEJUNTJKZlRaQzc2Q2tUSWhDR3NIVGFLdw?oc=5",
+      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T13:52:06+00:00"
+      "time": "2026-08-24T15:21:11+00:00"
+    },
+    {
+      "text": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUtndEJ6VGx1aUtyN3gxdUFsOVQxNVU2Ymx4dXZCRDZyT3pwSXFJYW5NcF9rZ1duMTFxUHFMeHRCTGhHVXJvd2tYRDc5SG8zQjJTXzJxM1VDQ2w5QVRPTm1LekxpYnZGNm1YVHhFZ0FqYXFSSmw0aUx2RUk4UEhRZEJ4UEtYTGlrelBmZS1LZ1JEVENVdENRWFlmUURzQzVYcllSWDlILURhRXhxaU5FWWpUaFF1a0x2MzZSZmw0UkdhUk0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T15:12:53+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Big Apple targeted in lawsuit over Mamdani's government grocery store plans - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXlPUWtXRkdVb0hRVU5acnVWajg5bFAtQWNXaUZLM3dzRnZVREtNTFZFMm91Mktkd0tZTERvYkJrYXFPRXllZ2dpX29YNFVXRW1ZMWR3WmJETU9qQzRlTm10R3hmSGJkbjVDN0dfRWNGcFZmM3R1ZFBoY0pDRTVJa1pDSXk3OTkxVlZRbDhyZUtFaDFXdS1MRE5QVGVHSlBiQ0dVSXhkRnVUM0VX0gGyAUFVX3lxTE5ZUjNicnFWNnhYTkhhTkNrZ29ISVBLR1c2SmljRGdyZUNjbV9acURpNnBNc2plWGdESjcyR3JodXN2a0N3a2ZMV25uclF0c2FzaDV4SFhScmZSXzFYaXdIbm42Y0VYcmVuLUtUUFNvUDRXUEo0MDZYSjlSWkNBbVFqUGgzcEtob0lPZmZtbFd4RzhWNkNISWEtamJQZDVLSnVTdXlzSzl3c2dOMUxrTWZXZGc?oc=5",
+      "text": "More Companies Are Promising Cloud Seeding Can Make Rain",
+      "url": "https://www.nytimes.com/2026/08/24/climate/cloud-seeding-west-drought-rain.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T16:29:55+00:00"
+    },
+    {
+      "text": "Canada Said No to America. It Will Reverberate Far Beyond Its Borders.",
+      "url": "https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T16:22:11+00:00"
+    },
+    {
+      "text": "Hawk Fire: Sierra County evacuation warnings for wildfire burning in Nevada - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTldQU25mT2FfczMzTjdGbGdjNTU1M0JpWTczN0dURUNjUE9rV0xmQk1GYVRQVTZhZ1BRbTF6SGJQVkVGbWYtcDh2OXJGMkFWTDBpZFlXR3l6RGRqLTNsa0R5TVk0dDVnOTNKOENiYk9BU1JtODJCaFkzUUFFRXd0dFlCbHZ3aThyZ1JncA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T15:15:00+00:00"
+      "time": "2026-08-24T16:18:41+00:00"
+    },
+    {
+      "text": "Trump hits back at Carney, threatens to hike auto, truck, metals tariffs to 50% - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1lmcVp0cU5yRWMtV3Y0eU4xUlR2aENvZ2hHZi1mM3ZYY1YzV0Z4UUw5STQ4Tms3X0N4S04zS3ppdWZObGpMcVNHZU5IN1lpOW51U2ZoRkhZbzFoMUJlc0tZYWYtWUdKMTRseTNkYWt6dGJwaVZXOG1Xc0lZZHRGMXhWckpfdU1HY09JRnRB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T15:34:23+00:00"
+    },
+    {
+      "text": "Big Apple targeted in lawsuit over Mamdani's government grocery store plans - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXlPUWtXRkdVb0hRVU5acnVWajg5bFAtQWNXaUZLM3dzRnZVREtNTFZFMm91Mktkd0tZTERvYkJrYXFPRXllZ2dpX29YNFVXRW1ZMWR3WmJETU9qQzRlTm10R3hmSGJkbjVDN0dfRWNGcFZmM3R1ZFBoY0pDRTVJa1pDSXk3OTkxVlZRbDhyZUtFaDFXdS1MRE5QVGVHSlBiQ0dVSXhkRnVUM0VX?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T15:20:00+00:00"
+    },
+    {
+      "text": "The Ruthless Efficiency of Ultrapotent Street Drugs",
+      "url": "https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T15:12:51+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "The Woman Guiding Tourists Through New York City’s Worst Day",
+      "url": "https://www.nytimes.com/2026/08/24/nyregion/the-woman-guiding-tourists-through-new-york-citys-worst-day.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T16:29:49+00:00"
+    },
+    {
+      "text": "In West Texas, Trump’s Border Wall Collides With Latino History",
+      "url": "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T16:20:58+00:00"
+    },
+    {
+      "text": "Lunar eclipse 2026: Will weather block it in the U.S.? - The Weather Channel",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDl5U1gyUVVGOUlyX2hwMnZKcDVya3RESUhSOV9sQVBnR2ZRQ0czcnlJb0Q4N1lSY3gxS2pJcThDdWwyNlJQX0RZVTN6RkE3TlY4NjlLa25lNVp1UktNdThYYTM0blZFdi1qNnJ5OG1fS3BLQnE1WFJCdl9kbkxYVDZfc3UydWhzVUE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T16:00:58+00:00"
+    },
+    {
+      "text": "Reggie Watts: Festivals Remove Comedian, ‘Comedy Bang! Bang!’ Drops Theme Song - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmx2ODhKcHN0N2VyTjJWU1B0c0JCdElYMS12eldzRXNqMld5d3ZzVkN2RVBJSldod0lfZ1R6OVZfRUZCREZJUVFob0d3bGg4eDctc3FPOE5ZeDYxU3lpU0J4UzhpQ1EtS3RwS1JybzRKdE01WjA1V1BucUdUdkluSEFvYUd0UE5MeWZzcTU3N3BHc3ZkS3k3RHJGemh0S3VtdlFpYXdIanpZdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T15:27:02+00:00"
+    },
+    {
+      "text": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVllyNmJZd09teXQ2LUlsZVBrSmFLbjF3MW1kc0JvbWxubGEwR1FBQXR3WjRrcldLOXFzMUJjSmFhczJYU1VRdFNNcnF5YnBjQWlzY0FmdmtjNXpBV3R5cW10dmtnY0w5XzltZDY0dDFTSnpmR2kySDFTcFkwaXFaMFhMN193WFB3ajE0VFZvSnh6MFUzckFFVjFScmhJRHprT245YmhfNTAwV1l1cUxEYW9DRdIBuAFBVV95cUxOTGNDUlBiX2VzOFNadVEtUW5UamdMTlcyZ2w1aGpJN3hIN1ZiZGd4RXJoT21iYlRmX3FKUXo2VlJwWk5iUHdEc1h2WHNKbjdLVTVoRXI1ZWhTZEllNnZfWWdUN3V0WXZsSkVxd2d5MktycEMtTGFLMk5xMzFGTk5QYTJaWlc1ZVZLTXNhUUtmRVRTU0xOMVRYOHBJWUZpdGROQXJZYVVjekd1SEZxclRtaE45QWxmLXVQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T15:19:59+00:00"
     },
     {
       "text": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
@@ -114,98 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T15:09:32+00:00"
-    },
-    {
-      "text": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T14:24:53+00:00"
-    },
-    {
-      "text": "Shelley Fabares, ‘Johnny Angel’ singer and actor in ‘The Donna Reed Show’ and ‘Coach,’ dies at 82 - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3RkQ1VWaWxKd1hUY3RCLWItWUVkQzIzb2hWYll4MjRWamEtWTFDbGdWLU9xaWpOb3lPT3VHVVhrR1FSSE5YMTNvMlpmVG5ldVU2YWZaUXpvQkFXTEg3aEF6RjdfYUE5UTAxV1hVUFVPdUtZdS1tNkRTLXhJMzNpVExGS3llZUNpTUFBcDVvUGRVUm1VeXRkcmFncmJlVl9MelRvT0ViLXB4N2c0ay1nQ1NEZkxLdExsUFE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T14:08:04+00:00"
-    },
-    {
-      "text": "We’re in a New Era of Class Warfare. History Points to a Way Out.",
-      "url": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T14:03:34+00:00"
-    },
-    {
-      "text": "Iran’s rial currency hits new record low as US prepares to announce more sanctions - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T13:51:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "The Ruthless Efficiency of Ultrapotent Street Drugs",
-      "url": "https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T15:12:51+00:00"
-    },
-    {
-      "text": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
-      "url": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T14:55:01+00:00"
-    },
-    {
-      "text": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
-      "url": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T14:20:34+00:00"
-    },
-    {
-      "text": "Iran Pledges to Defy Trump’s Economic Sanctions",
-      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T14:04:10+00:00"
-    },
-    {
-      "text": "‘I was just numb’: Hayden Panettiere's mother breaks silence on daughter's death - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzhDendCSlBuV2NDS0FPS2RTR0VNajhzQWVScTkxS0duc01UcHZHd2NVUVN5b0I2Z2xKOVhGZXF1b0FGSGFVOG16RFd5YWFkemMxVkhzc1hJY3E3Q0pOdjBHSkUwblh4UWhTdmM5NGVhV2NNR3pwOHNWN3VRYmtBR3phNVplNUNpUUNuTnFDa3hETFFfTTA3QURpa0NpTkRyb25FM0F30gGrAUFVX3lxTE9yZktRZmJSN1VCbTBRVVA5ellkS2d6MVNkTkQxQ1ZGMS0zRW91cVJ4cm5HbnNUd0xkNWpjb19JMDd5WEVKdmJJN0J3dFN1dm1EOTFjWmlFeXlic0ZFLUJnMzJXVkJxLWJRbGI0VW1zSDVnTnBvUFVmUG5zdm1pbFNNZ181dkZmYzdTQ1V4bFBzOUJLc0JaZDdGSnZST1lxSElGZlNTVjBiNE0zTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T13:52:30+00:00"
-    },
-    {
-      "text": "NFL Preseason Week 2 Takeaways For Fantasy Football: Christian Watson, MarShawn Lloyd And Packers Trending Up - FantasyLife",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUc1WV9XcXFrd1gtdDl2S3ZqSGxVaVAwaHVVZm1BN0VjVTkycjhGMVlCX0FkZXNoSGtZeW5LVFpyZmF1RlRBNUhTZE1MOHVVZXJiRUtpYUJJN1BROVFYbHp3cDdjdFBHYUluUEY3TzVUTHlBNEhiVTlDVS1QOWpyS0ZMeU1tdGd5U0l1MktMOHJycFpRdV9IUEFfUWM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T13:45:00+00:00"
     }
   ]
 }
