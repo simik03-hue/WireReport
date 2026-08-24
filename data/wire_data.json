@@ -1,17 +1,55 @@
 {
-  "generated_at": "2026-08-24T23:03:25.279485+00:00",
+  "generated_at": "2026-08-24T23:39:44.255831+00:00",
   "lead": {
-    "text": "Trump administration preparing to revoke visas of up to 200,000 foreigners in largest mass visa revocation ever",
-    "url": "https://thehill.com/homenews/administration/6048047-mass-b1-b2-visa-revocations/",
-    "source": "The Hill",
+    "text": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
+    "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-24T22:58:28+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-24T23:34:07+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-24T23:27:01+00:00"
+    },
+    {
+      "text": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "url": "https://www.cnbc.com/2026/08/24/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-24T23:24:12+00:00"
+    },
+    {
+      "text": "Back-to-school season fuels growing measles concerns",
+      "url": "https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-24T23:21:28+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Trump administration proposes $103,000 fee for H-1B visas after legal setback - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGlMenMwT3ZOUjB2dkMtTXdDUXN1Nml1ZXZPYllFMExKNFdidTJFMzVBOFd1Wm1Da3BEVHNqYzA2bGRmbXNKeGh1VG4zbjNNbElmcVFiTTVaZEZnY3BPLWZsM1ZpWFY3RmxlX3g4NlYxMnVEbUxneG1lQUF5bzFmbjAtbkhVUy1jcUtKSXdJOGhaVlRJckdJZDRaeTJFYXNZSlVVS193eGpHTVJMN1RKMXpqX1FBNTRQYWhqZUt1d3R5cDdE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T23:12:44+00:00"
+    },
     {
       "text": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
       "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
@@ -20,35 +58,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T22:52:57+00:00"
-    },
-    {
-      "text": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
-      "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T22:52:15+00:00"
-    },
-    {
-      "text": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
-      "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-24T22:51:22+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "What You Should Know About College Admissions Changes",
-      "url": "https://www.nytimes.com/2026/08/24/us/college-admissions-changes.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T22:47:20+00:00"
     },
     {
       "text": "The Mayor Went on Vacation. He Didn’t Travel Very Far.",
@@ -69,31 +78,22 @@
       "time": "2026-08-24T22:08:51+00:00"
     },
     {
-      "text": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to cooperate - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakFvUTN2Rk5LWkFMT2ZVQXVXcVZTbzRRZ1JXa2loVmxOWnQxZTNhRHpKb3p5NmNwTUY2UTY1dVItZW4zZnlkVk5qUDBQRUxmUkNpYkZZaC1RV1UxMlhqVmRHRy1fV2F4VW5NaDhaVllMUzc3MkVHS3g3b1hNRnVPX2xlVGNtWEE?oc=5",
+      "text": "Abdul El-Sayed distances himself from Hasan Piker’s comments on American Jews - Politico",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmV2NGJQUGstWlNoRm9wdW92U1c0NkZJN25BRkF1QkFfTnFneHFlbXlBMDlfQ3Q4ZG9Bd0ctUF9LaExHejFtUzNEWGdZYlpZMlpMVVcyaGhIN1pFVTRZX0VJV3o1OVRwR0JNOXJLNnZJTmhqZHRLSWRZbm9rbjFrdDZrYlI3cWxveTlCRDBUdDBHMXJxTUpmcVhFOUpiVTho?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:43:24+00:00"
+      "time": "2026-08-24T21:32:00+00:00"
     },
     {
-      "text": "'RHOBH' Alum Kim Richards Seen in Rare Outing After Eviction Drama - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0V0WkRDMm44ZEVobjhnSXlyUlFWQVN1WExIQ3FTeldaeFNQR1pjUFFDQmZwamhEX084aTJsY0NLN1NhOTZtOGFvMXdkTEQ2Tk1SREN1cTRZYlhUMGZGa290dElVQ1Z4NENUaGM1SktyVEZZVTFQQ0tOQ09RRkE2bE9QbXRtZHhjLVFGWUF4cHMzUQ?oc=5",
+      "text": "Lindsay Clancy's defense denied mistrial after witness references 'mortal sin' - WCVB",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2RlaENRSEQ3SEpHY2hfZTJpX2g5UXVlQkxjMkZtTkg3VXU3MmNLbTg3MGdTYkdZWEFGdUd1T1h3bXpUU3B1aHhVM1RtS3p2aWljdWdoZzZxRVh1UnR6MWdQNk00WUhWX3RiNTFRNFQ1S3dMSXRFY3J0eXFlTm1uTGdsTFY?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:30:23+00:00"
-    },
-    {
-      "text": "RFK Jr. may upend how vaccine recommendations are categorized - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnFodHllMEVUdlo4eE9ac1ZEZm9DQWQtUkR6ZXpQR1BCS3hoMnJrNVBPY2owMXF3ZDBWN1ZuRk5aM1kteTNIaDdyLUFWenlidVVYZXFQSU93VGtGZkdHVGt6cHRWTkdIcnJ3THIydkFVaDNrN0xLS2V1YUxYSmhTNUJ2cGNPcnRHaVo3a2tsSXhHT3dwdEZvaU9ieE4weDdXRVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:04:48+00:00"
+      "time": "2026-08-24T21:16:00+00:00"
     }
   ],
   "col2": [
@@ -104,7 +104,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T22:42:21+00:00"
+      "time": "2026-08-24T23:09:01+00:00"
+    },
+    {
+      "text": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
+      "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T22:52:15+00:00"
     },
     {
       "text": "Indiana Governor Calls for NIPSCO to Be Investigated Over Power Outages After Gary Storms",
@@ -125,13 +134,13 @@
       "time": "2026-08-24T21:53:34+00:00"
     },
     {
-      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "text": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:33:23+00:00"
+      "time": "2026-08-24T21:20:48+00:00"
     },
     {
       "text": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
@@ -141,26 +150,26 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T21:13:09+00:00"
-    },
-    {
-      "text": "Judge Orders U.S. to Return Deported Man at Risk of Torture",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/mexico-man-deported-torture.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T21:01:30+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Canada will announce retaliatory tariffs against the United States on Tuesday, official tells AP - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
+      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T22:42:00+00:00"
+      "time": "2026-08-24T23:00:18+00:00"
+    },
+    {
+      "text": "What You Should Know About College Admissions Changes",
+      "url": "https://www.nytimes.com/2026/08/24/us/college-admissions-changes.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T22:47:20+00:00"
     },
     {
       "text": "Gov. Kathy Hochul, Five Years In, Makes Her Case for Four More",
@@ -172,22 +181,22 @@
       "time": "2026-08-24T22:23:59+00:00"
     },
     {
-      "text": "Trump administration proposes $103,000 fee for H-1B visas after legal setback - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGlMenMwT3ZOUjB2dkMtTXdDUXN1Nml1ZXZPYllFMExKNFdidTJFMzVBOFd1Wm1Da3BEVHNqYzA2bGRmbXNKeGh1VG4zbjNNbElmcVFiTTVaZEZnY3BPLWZsM1ZpWFY3RmxlX3g4NlYxMnVEbUxneG1lQUF5bzFmbjAtbkhVUy1jcUtKSXdJOGhaVlRJckdJZDRaeTJFYXNZSlVVS193eGpHTVJMN1RKMXpqX1FBNTRQYWhqZUt1d3R5cDdE?oc=5",
+      "text": "Bessent threatens new Iran secondary sanctions, says Trump is asking world leaders to cooperate - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakFvUTN2Rk5LWkFMT2ZVQXVXcVZTbzRRZ1JXa2loVmxOWnQxZTNhRHpKb3p5NmNwTUY2UTY1dVItZW4zZnlkVk5qUDBQRUxmUkNpYkZZaC1RV1UxMlhqVmRHRy1fV2F4VW5NaDhaVllMUzc3MkVHS3g3b1hNRnVPX2xlVGNtWEE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:50:09+00:00"
+      "time": "2026-08-24T21:43:24+00:00"
     },
     {
-      "text": "Abdul El-Sayed distances himself from Hasan Piker’s comments on American Jews - Politico",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmV2NGJQUGstWlNoRm9wdW92U1c0NkZJN25BRkF1QkFfTnFneHFlbXlBMDlfQ3Q4ZG9Bd0ctUF9LaExHejFtUzNEWGdZYlpZMlpMVVcyaGhIN1pFVTRZX0VJV3o1OVRwR0JNOXJLNnZJTmhqZHRLSWRZbm9rbjFrdDZrYlI3cWxveTlCRDBUdDBHMXJxTUpmcVhFOUpiVTho?oc=5",
+      "text": "‘How to Lose a Guy in 10 Days’ Sequel in the Works at Paramount - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2NGTl9QRzVaNlQ0cldaOXgxUXl0clN6b2dKUVpNbzdEU0xERWZ6bHhfSkE3bS1XRlB5QVRBTlBoOVJBaENQUWptRDJQYW4xeHVSMzlkcWRFY1QtUllrVncxcERkWXd0eTdoaFEwUjN3VVZoN1JyUTBPcnVULVUtZmxyWFlaWmwwUExkQVFIdUtxMm9CLXRwTFo5UDRzdi1VUTFLQXFYaXVLclA0alNYblZ3VjJwdlRlVFgtNnVR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:32:00+00:00"
+      "time": "2026-08-24T21:20:25+00:00"
     },
     {
       "text": "Iran Pledges to Defy Trump’s Economic Sanctions",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T21:12:01+00:00"
-    },
-    {
-      "text": "Trump’s MAGA Inc. makes last-minute buy for Darline Graham in South Carolina runoff - Politico",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1kxN0VHX0RndTZ2YmlQY0hyQnZGT3pzNVE0Z2plcXNPTXlZaHMwRXNhYnlUWmJwM0NtUU5NLUl4V2dYdkxORHhrNDJhTXdNSEttZUozbmZWZ05Ib2pqNURPZVRSakw5X0Vqb29zeWJtNkQxdTQ2cURfTGo3czgxZEdNeV9sa3F0TnlTTklYNzdtd29NaHFyaEF3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T20:51:00+00:00"
     }
   ]
 }
