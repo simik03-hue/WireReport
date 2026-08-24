@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-08-24T10:06:32.643098+00:00",
+  "generated_at": "2026-08-24T10:55:46.781116+00:00",
   "lead": {
-    "text": "'Still scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-    "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-24T10:05:22+00:00",
+    "text": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+    "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-24T10:42:43+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Back-to-school season expected to worsen record measles outbreak",
-      "url": "https://thehill.com/policy/healthcare/6044574-measles-cases-worsen-back-to-school/",
-      "source": "The Hill",
+      "text": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-24T10:00:00+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-08-24T10:40:22+00:00"
+    },
+    {
+      "text": "Chili's has sent its parent company's stock surging. Baird thinks there's even more upside",
+      "url": "https://www.cnbc.com/2026/08/24/chilis-has-sent-eat-stock-surging-baird-thinks-theres-even-more-upside.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-24T10:35:56+00:00"
     },
     {
       "text": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
@@ -28,19 +37,75 @@
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-24T09:54:46+00:00"
-    },
-    {
-      "text": "'Half my business will be gone' - Firms in Canada and US fear trade war",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-24T09:47:22+00:00"
+      "time": "2026-08-24T10:25:05+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
+      "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T10:15:11+00:00"
+    },
+    {
+      "text": "Live Updates: U.S. Treasury to unveil new Iran sanctions after Trump warned of \"economic D-Day\" for Tehran - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEpzNDk2c1V6WnVlU0lpVnpZWlE4OC1YNl91RURET211TzluVGFCR0VYRm5qZkxMU1ZVTU9Sc2xzMXBudzhwcVppb1YxNlpDc1EySjVNV0xkSlRIS2VJU1FPMmtXdm52OHJJQ2cwUzdDX2NBLTQ1Tk5NNXk1RWtsSExqeDVRTnM0b2c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T09:51:00+00:00"
+    },
+    {
+      "text": "Guinea rubbish landfill collapse kills 31 in Conakry - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISjU1R21yODRFNkthU0pRem9xb2ZZY2FsS193eUdiVTdGZ25IeU50enQteTl5akZOQkVhUG53ZlcxYjhiNWdRSEJwNzZTNmdoNVAySlNHaHR3UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T09:03:43+00:00"
+    },
+    {
+      "text": "Can Democrats Win Back the Senate? Why Their Chances Are Improving.",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T09:03:09+00:00"
+    },
+    {
+      "text": "‘Cookies’ made from plastic may be on the menu for future astronauts - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGJ4eUcxTWY4SXkwYlVBNHE4bGkySTNyVW5jMTByb0F5YjZzc2FFMWJUdXhSNWJvczlaWmZvZWN1SVF5dnpxRmw4REpCSFhSX21NMXRFM1NlR3hXSE90UjJlMEZjRWxtOEpvTUprNVVxRDVKLTMtZDdGOGJxekRVWUU2T2dYT2lXVXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T09:02:00+00:00"
+    },
+    {
+      "text": "How Should ‘Huckleberry Finn’ Be Taught?",
+      "url": "https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T09:00:46+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Should We Read ‘Huck Finn’?",
+      "url": "https://www.nytimes.com/2026/08/24/briefing/should-we-read-huck-finn.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T10:14:31+00:00"
+    },
     {
       "text": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
       "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
@@ -51,8 +116,8 @@
       "time": "2026-08-24T09:29:32+00:00"
     },
     {
-      "text": "Guinea rubbish landfill collapse kills 30 in Conakry - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISjU1R21yODRFNkthU0pRem9xb2ZZY2FsS193eUdiVTdGZ25IeU50enQteTl5akZOQkVhUG53ZlcxYjhiNWdRSEJwNzZTNmdoNVAySlNHaHR3UQ?oc=5",
+      "text": "Nvidia's Q2 earnings to test resurgent AI trade - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeG1sTG1ra3lPVXF0YVI1TlRmUEg2bGJ2cjlzNThjQWV2TFVERTZnQlVnWVVNT29JaDhhYUZ4bVRzVFpIemdvZmozOTZLS05pTW5Ob1BPS3phU2hNSUpoLTh2VkZUZ290Y2NIeEtQQ2IxNmZBRnhRQkpGelUzcldoS2ZHd19EX0gtQjFhT0g5QTdrTEdJc0Fj?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
@@ -78,25 +143,25 @@
       "time": "2026-08-24T09:01:51+00:00"
     },
     {
-      "text": "As Democrats Struggle in Some Western States, Independents See an Opening",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/independent-candidates-challenge-republicans.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T09:00:16+00:00"
-    },
-    {
-      "text": "U.S. Treasury Yields Ease But Stay Elevated as Structural Drivers Remain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONG5FN2VwUW9rSm5iaHhNc2c4V3E5UXdSbUZmVENpOGxQQjN2a2RmQ2dWLW8xS2NPWkpQcERjVzhGa0d3STVBU0tSWUdMRVY2Wnh6cEVkM1Q2cHhJb2J6c1l1UWlzYTBDRWxxREF0U3NBU1VEM3Zzd3d3WGk0WmVEUWxvS2V6V3J1?oc=5",
+      "text": "‘Point Break’: The Totally Tubular Ride With High-Voltage Buddy Chemistry - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHI0OHBjcmNnR2lZdDYwdUczeXJLNjlLa0xVQWRvNTJScHVSNHR1RmlXUV82TENtWnNWN3ZPNHZRNUU0SDVabWgwRl9NdnYwNGxSUDlpdWlLbU51QTFHMXNCVEQxUzlhY2NzblI1a18tVXJDQTVUcDV6emdzZGhkWlVkSk5xcW0tZFZ4QU5pMA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T08:36:00+00:00"
+      "time": "2026-08-24T09:00:39+00:00"
     }
   ],
-  "col2": [
+  "col3": [
+    {
+      "text": "Canada Is ‘at War’ With U.S. Over Tariffs, and U.S.P.S. Publishes Plan to Restrict Ballots",
+      "url": "https://www.nytimes.com/2026/08/24/podcasts/the-headlines/canada-tariffs-usps-ballots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T10:00:12+00:00"
+    },
     {
       "text": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
       "url": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
@@ -134,78 +199,13 @@
       "time": "2026-08-24T09:01:08+00:00"
     },
     {
-      "text": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says - NPR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tWjNmNzVLell0UWQwMEJldEpBTFg4Vmo4ejQwSGVBdDUxbkhyRm1kUWhVQmthWi01TXp2U0Y3dW9vZHdzQmVyTjh6WDkyRGFFbzNvNXhBblRUQzZZMkJGREVWQkQ3Z0RSVm02am10MjFVYl9OcVFCTlNqc1k?oc=5",
+      "text": "Here’s what items could cost more as the US-Canada trade war heats up | CNN Business - CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RVUt6eFRlLUFQNFQxWHROZHlsVFBhVHB2TU9ETDdLckNmRy1aZWxtWXN2aUVjbWFSeVlhM1pJc3pRMVlBSGhiYlhDc3FRaXpiUFYwN1k3RWUwVE1ta2lrZzFuMVk3RGE4RlNV?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T08:53:36+00:00"
-    },
-    {
-      "text": "Trump’s Summer of Fun Ends With IndyCar Race on Streets of D.C.",
-      "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T08:15:51+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-      "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T09:08:25+00:00"
-    },
-    {
-      "text": "Can Democrats Win Back the Senate? Why Their Chances Are Improving.",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T09:03:09+00:00"
-    },
-    {
-      "text": "Live Updates: U.S. Treasury to unveil new Iran sanctions after Trump warned of \"economic D-Day\" for Tehran - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEpzNDk2c1V6WnVlU0lpVnpZWlE4OC1YNl91RURET211TzluVGFCR0VYRm5qZkxMU1ZVTU9Sc2xzMXBudzhwcVppb1YxNlpDc1EySjVNV0xkSlRIS2VJU1FPMmtXdm52OHJJQ2cwUzdDX2NBLTQ1Tk5NNXk1RWtsSExqeDVRTnM0b2c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T09:02:00+00:00"
-    },
-    {
-      "text": "How Should ‘Huckleberry Finn’ Be Taught?",
-      "url": "https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T09:00:46+00:00"
-    },
-    {
-      "text": "Where Iran’s Young People Gather, the Government Sees Threats to Its Authority",
-      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T08:47:21+00:00"
-    },
-    {
-      "text": "AI trade In focus, Iran sanctions loom - What’s moving markets - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHl2bW9ncDFLcXBpWDh1Y2VmVFJpcURmcVlzS1NoQ0tONnpETlBmZS1Xb1NuZmVwNHNTclV5TjdWcngtWWoydTZjb0VqX3FXRHJzc1MtMnJMU3J2UWt6NWh6UU9KTTJCeWxpLW5UQkdmQXFQZVJIZHFUT3Zhck5uZkZ4QmdSX3FEZEpFaEF2UEszWTJsVF9tSkpxc1g1bVh1Mm1RUkNMZVE1ZUwweDl5cA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T07:48:45+00:00"
+      "time": "2026-08-24T09:00:29+00:00"
     }
   ]
 }
