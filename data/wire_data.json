@@ -1,17 +1,55 @@
 {
-  "generated_at": "2026-08-24T12:04:02.494079+00:00",
+  "generated_at": "2026-08-24T13:15:22.077805+00:00",
   "lead": {
-    "text": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
-    "url": "https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html",
-    "source": "CNBC",
+    "text": "Editor's call: US-Canada trade war erupts; Trump faces beef backlash; Graham's final SC push",
+    "url": "https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-24T11:58:37+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-24T13:05:20+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "U.S. Military Kills 2 People in Attack on Boat in Pacific",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T13:00:37+00:00"
+    },
+    {
+      "text": "What does it mean to be Jewish in a time of rising antisemitism?",
+      "url": "https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-24T13:00:00+00:00"
+    },
+    {
+      "text": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-24T12:56:17+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
+      "url": "https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T12:35:04+00:00"
+    },
     {
       "text": "Research Firm’s Founder Explains $6 Million Payment to Fired Forbes Editor",
       "url": "https://www.nytimes.com/2026/08/24/business/media/forbes-randall-lane-shook.html",
@@ -19,36 +57,34 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T11:58:28+00:00"
+      "time": "2026-08-24T12:25:02+00:00"
     },
     {
-      "text": "Santoli: Why all the fuss about bond yields is happening now",
-      "url": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-24T11:56:04+00:00"
-    },
-    {
-      "text": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-24T11:51:45+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Live updates: US set to unveil ‘economic D-Day’ sanctions on Iran - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONlg1RUdVNjBlVUJoQXMwUWw0Vk9LU3FBelJ1Y240TmJqQlFyS2dxeU1Zejk5LW83cnA0QXg1dm11enJDd3gydnhfdnIzTmJydUdxRVZHRzFuZlZESG5ESXlUT2RTWVhMcXQ2a3Fn?oc=5",
+      "text": "Iran War Updates: U.S. to unveil new sanctions Trump said would hit Iran with an \"economic D-Day\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEpzNDk2c1V6WnVlU0lpVnpZWlE4OC1YNl91RURET211TzluVGFCR0VYRm5qZkxMU1ZVTU9Sc2xzMXBudzhwcVppb1YxNlpDc1EySjVNV0xkSlRIS2VJU1FPMmtXdm52OHJJQ2cwUzdDX2NBLTQ1Tk5NNXk1RWtsSExqeDVRTnM0b2c?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T11:51:00+00:00"
+      "time": "2026-08-24T12:18:00+00:00"
+    },
+    {
+      "text": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
+      "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T12:03:10+00:00"
+    },
+    {
+      "text": "De-Googled GrapheneOS is coming to Motorola’s foldables next year - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbEk1X3pyVzNiVWZJeUJidHlGR280LWZjOEJNdU0zU0xEUmVucDJtbEFVWEdlc3BWd2xJcDNYeFFVakhCd01vdWI3a2JfM0J0cy1TZ1dBdTRTbGY2SlNRclZQbUZKUEdIM2tJMTVvcGxWQWpjUzROTHM5OHVqalE4WW4zODl2cEFqekJseUQ1YkpYMGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T11:37:53+00:00"
     },
     {
       "text": "These Conservatives Want to Be Working Moms. The Manosphere Disapproves.",
@@ -58,45 +94,36 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T11:26:28+00:00"
-    },
-    {
-      "text": "Stock Market Today: Dow, S&P 500 and Nasdaq set to fall ahead of Nvidia earnings and Jackson Hole - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmp6eUh6bC12b1o4M0tDdS1rUmo5OWxfX0p5TzJNZXM0STBzd3l2Y2t2X0dsWS16NEdnT216SVlGNkwzbnZPaXBLTnhuNXV3b0FhYmdrRXYzR0wxN3JfLTBkUDNfVnZQSlUxLVRLdDFjNUE5cWRVdHVQOG44aGxYdG8yQlVKTGNCSDZDS1hvX1B5WGxKUGZRQzh1U2JwZURsYXRxcUJkaUxFSlJ2TlVrakE2X0hhQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T11:16:00+00:00"
-    },
-    {
-      "text": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-      "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T10:42:43+00:00"
-    },
-    {
-      "text": "Canada Is ‘at War’ With U.S. Over Tariffs, and U.S.P.S. Publishes Plan to Restrict Ballots",
-      "url": "https://www.nytimes.com/2026/08/24/podcasts/the-headlines/canada-tariffs-usps-ballots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T10:00:12+00:00"
-    },
-    {
-      "text": "California Attorney General Cancels Paramount Settlement Talks Over $111 Billion Warner Bros. Discovery Deal, Says He’ll Meet When They ‘Stop Playing Games’ - Variety",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlNlRWdsSEdESUthckRock5iUkRyeWRDLVhWbVpibVN0SXRkQVMxUnY0eE53elh0NWRYc3RwNER0UEFOQjc2S2U0RzRwaWx3WTNiZTZlU3I5YVJKaHUxczFET1dmYUFjVGNmWjJtek1uLWdCT3RLRng1VXJ2Z0lUMVIyRC1aamloYlBXSG9ZQXB4Q0RsejhwSVhDWHF6bFV3SjRmWGtn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T09:32:00+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EekJabXFaenV0eXFYMWRIM0dxbzMyTzBRMGN4Zzd1bUNQVlBiV3VMVTlfZkcxNEs2ZU95TTg5dEJzS3kxbTg1SnBNM1RKZWl2M18zRU5Ea0ljY0k5d0p6NnpJZ3NGNWVkZmRER3VWaE9EbXA1LXBvZQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T12:32:09+00:00"
+    },
+    {
+      "text": "Kyle Richards’ Daughter Farrah Aldjufrie Shares Identity of Baby’s Father, Hard Launches Romance - E! News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR28taXRiOWpKQkl0eUU2ejZnSFB6TXZ4OHljNXNaUUdHZlQ1Zm9XLVJSREVEVVZUMHBLQ1VvVVJVaWl4ZXBRQXBDSjFLNFB2dk9yb0pmT01OUV96ZXRRWjRweGlnb1k4MENIc1NuTlVDMTZLdHRRZ0lxLXZWRU1YR2xmRVM5UWdIeDk1dWNkNEMySjlYM1R5SkppdTIyTTBSZWFVSmRyTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T12:23:00+00:00"
+    },
+    {
+      "text": "AIPAC Wants to Back This Republican, but He Has Some Reservations",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T12:17:05+00:00"
+    },
     {
       "text": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
       "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
@@ -107,52 +134,61 @@
       "time": "2026-08-24T11:49:32+00:00"
     },
     {
-      "text": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
-      "url": "https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T11:20:26+00:00"
-    },
-    {
-      "text": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
-      "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T11:14:34+00:00"
-    },
-    {
-      "text": "This Nvidia earnings fact will frustrate you - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajcwMWRLT2pTNEYwQllDZXVDQ3VRM3FvekVxWUxJTjZidFZ1ckNhX08tU25sR1V5a3pIVVV5WXpDOXhRUnhxb0dOcjkwYXk4YV9Fa09YUlRJZFA5YmhDYlFLMXByeUVvTWFkU09rN3l5TXFfTUszUDVPNXpzVXE4bW42TFVNSngxcjI1WHNBOHBvUHhfQ2ZjelNCTjJPVUdqZDhYU29hQTZBczlV?oc=5",
+      "text": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNSUkxYZHM3YS04TWs4VDF1ZXVuY1V5aDE5dzdpbk41UTBSQTNWYTYtazVtLVByM3RySmFOVEh1aDlheFRaV21WbjNXRnZ4MkZsTEdHQW9wUGN4SUpfczlMLTBXVTlDOXRGTmZWMk1DcXpUV0tkdmRqWjV3RGhpcDBibU5Qako4M1luRERxa0NZRE1lR2ZUYjlR0gGfAUFVX3lxTE53OFFzUEdOSkhPbjdDLWpmZ0lpM1NHY0d6dWRqcXVQSVc5TGlHSDFmRHVtU0p3Um9GX2k3akU2YzlyVnlyWEc4OE54TzV2YUdMbkhyZjgxVFozREFWeGpnRG11XzZ6QWtzRm81QmRERlNKZm02OVdxMllUdGNhbHQ1QTl0YjR5ZlpyN0RMUzVQNFh4U09GcDZ5OV93M2FGQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T10:32:34+00:00"
+      "time": "2026-08-24T11:34:25+00:00"
     },
     {
-      "text": "'Half my business will be gone' - Firms in Canada and US fear trade war - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZHpVWGZwS0RVR2VuRjJxSmttX0NQNWw2bzcya0tzRWRhWlN6V0NJdFdyRzdMUWxyNTg3TS1LdFNfZG5ZYUVJTHFJeGY2ZkhEanVXY2V5TmlsZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T09:47:22+00:00"
-    },
-    {
-      "text": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+      "text": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+      "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T09:29:32+00:00"
+      "time": "2026-08-24T11:19:29+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "The Ruthless Efficiency of Ultrapotent Street Drugs",
+      "url": "https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T12:30:49+00:00"
+    },
+    {
+      "text": "Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjZkNXFDX1ZPQklPTnlSejBqQnBpb0sxN0VrVXlPVFRSUjFqa283bXRibUE5VDhGU2V5SnVTQk5yc3lpNHZmdHp5UjUwalFIcUZPcDJNU0ZFVERIZ25TNHk5UUV3VVVGOEh4c3o4WC04OG1BOVItSGpXRVFLRko1ZkVkWWxOYVdqcUR3Wnh6WGJwQ0pPNlo3V0ZXUkgtLWRjR0pBR05JNUdtRnRIT19WUXotZkpMZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T12:18:45+00:00"
+    },
+    {
+      "text": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T12:06:22+00:00"
+    },
+    {
+      "text": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1RLeVZWWUZDVlZaV2RpOG5UNmgwSkEyNFV6VGtxaHRTZTBZSjdfdUhrc3JlczJ6QXZkaXJiY2d6bjRlaF91Y0tGaVZQZm5YdV9qTTBxUW5nTzlWUEdlejVTMklrcGlmbW5sLXpNS2RfblFzZnFzd1hNQjd6ZUdXaEV0U3JkYmlzZklNVWxEd3ZYQ2t1N2EzMmFXNU1aN0JsTHJKRzVmMFBFVS1FcVAxQTN6S2d6aEVuZEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T11:45:14+00:00"
+    },
     {
       "text": "How Should ‘Huckleberry Finn’ Be Taught?",
       "url": "https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html",
@@ -163,49 +199,13 @@
       "time": "2026-08-24T11:29:38+00:00"
     },
     {
-      "text": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
-      "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+      "text": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?",
+      "url": "https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T11:19:29+00:00"
-    },
-    {
-      "text": "Hakeem Jeffries meeting with Jared Kushner sparks backlash amongst Democrats ahead of midterm elections – US politics live - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSjhwdlVUQUxLX0ZSNmNKYVdpcnY3dEdHYU9oWUo5emtEa1d1V0RGSzlPR1lWaGlGLUx0Nlp3a0l1N21hRVJiZkRDWjlzNEJNNDI0NGRqNzNaQjlaYkdRT3h3Qnp1MUNNdFJDSm9hSmZWU1ZkTjlNX3FJTXkycnh3N2dJZ1czbHRLWFhZV2VXeUtyVWRsU29LNUZnMVBoanNTOGVjRWc5OFRTWkdaZUJTcDlZS0NTc0paWC1FYWwwalIzRVMwVklKTXViN1dIa0tNRUdpOXZITmducVVuQXktcFpId0h4QzVuOHhtUlFJN2pwRFY2?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T10:50:00+00:00"
-    },
-    {
-      "text": "Should We Read ‘Huck Finn’?",
-      "url": "https://www.nytimes.com/2026/08/24/briefing/should-we-read-huck-finn.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T10:14:31+00:00"
-    },
-    {
-      "text": "Washington, D.C.'s first IndyCar race packed the National Mall - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVd1VlhmZGpab05rZVBhSEtKb0s1eVVIQUhJR0cyWXU2V09YeTdheHY2ZmJaeEN2dHlEVDc2Z0FPNWNkRVl5d01CRXZFN3NuWGpWR0tmczhtR3FlT3hCbF9KSXBERkJtQ2phcHZBUElOSS1EY21MNU94YjdjWW9Hbl84RndENDVFNWl3TzUyMTBhYkFaM2tEQnBZN0ZKbHZsZWFzdndZU3M?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T09:36:13+00:00"
-    },
-    {
-      "text": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
-      "url": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T09:19:46+00:00"
+      "time": "2026-08-24T11:10:31+00:00"
     }
   ]
 }
