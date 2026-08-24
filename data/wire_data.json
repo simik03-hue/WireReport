@@ -1,34 +1,63 @@
 {
-  "generated_at": "2026-08-24T21:13:15.937269+00:00",
+  "generated_at": "2026-08-24T21:47:55.944985+00:00",
   "lead": {
-    "text": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
-    "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
-    "source": "CNBC",
+    "text": "Zelensky says wartime election would 'destroy' Ukraine",
+    "url": "https://thehill.com/policy/international/6047727-zelensky-opposes-wartime-elections/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-24T21:02:09+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-24T21:39:32+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Britain, France pledge stronger support as Ukraine marks Independence Day - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWgtWjF6MDRmYXZHWDBTMWRvdEFnR3RhTGNVQS1vWHM4Vi0xSlp0TmloMmtCTlZhbk5JTVZPWW4zcnU5U0Q2QkktUW5BYVlJVHVRN2Y4TGhGRWhEUlV2QndPYTF0MExqUUYxYW1mdkxVeDltX0hyLWdsVTI0MDQwdFVoeXV0Q2NwOWZVUF9kV3R0cFo2al80djV3MFl0VlVCVVlVN1ZB?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-08-24T20:54:25+00:00"
+      "text": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+      "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-24T21:38:59+00:00"
     },
     {
-      "text": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-      "source": "NPR Politics",
-      "lean": "left",
+      "text": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+      "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-24T21:37:38+00:00"
+    },
+    {
+      "text": "Ontario's Ford warns U.S. power could be cut as he trades insults with Trump",
+      "url": "https://thehill.com/policy/international/6047866-ford-threatens-ontario-power-cuts/",
+      "source": "The Hill",
+      "lean": "center",
       "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-08-24T20:53:45+00:00"
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-24T21:36:33+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T21:33:23+00:00"
+    },
+    {
+      "text": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
+      "url": "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T21:13:09+00:00"
     },
     {
       "text": "Nevada Sues Trump Administration Over Colorado River Cuts",
@@ -38,9 +67,54 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T20:48:04+00:00"
+    },
+    {
+      "text": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T20:34:22+00:00"
+    },
+    {
+      "text": "What’s Behind the U.S. Treasury’s Latest Attempt to Lower Interest Rates",
+      "url": "https://www.nytimes.com/2026/08/24/business/treasury-bond-buybacks-impact.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T20:03:52+00:00"
+    },
+    {
+      "text": "Trump administration proposes more than $100K fee for H-1B visas - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWZCQWRWcHNLaDQ5QTVVUlVoSlVIcWU5bWREdnc1SThXZ2Jta0F6alQzTnB0NnFFbTVPYjRITDBOU3JieURjNldSOEt4a2RULVIta1hDYm1OaDA1ZFRpZzNCVTZnbDR3S25pMlAxcEJUVHdzVUJZNHB1ZWZaRkJ5ZUJPeUpJdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T19:52:00+00:00"
     }
   ],
-  "col1": [
+  "col2": [
+    {
+      "text": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
+      "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T21:21:03+00:00"
+    },
+    {
+      "text": "Judge Orders U.S. to Return Deported Man at Risk of Torture",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/mexico-man-deported-torture.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T21:01:30+00:00"
+    },
     {
       "text": "Canada Said No to America. It Will Reverberate Far Beyond Its Borders.",
       "url": "https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html",
@@ -51,22 +125,13 @@
       "time": "2026-08-24T20:42:53+00:00"
     },
     {
-      "text": "Expect higher prices after Trump admin's latest moves on Canada, Iran - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NjUmlhOW9sWndjb1pHWHdoY3JmMXBldTFXdG1fYmJULTVNQUZaM21nNWJGNUpXbXAtRDRJRy10Q0dvLWtGdGpoWFpHTVNYLWxaVFhxVUFDQkpMV0Y2VWNTVXYyZlcxSVRvMllYLXNadTFUa1BlUGs5bkJWSEZnYUx3b0dRdnhmcktCX1RwMDlBbEV6SU12OHhha3JJX0NKTk5PbUt1OA?oc=5",
+      "text": "Karen Solomon, Massachusetts woman, wanted in death of police officer husband, found dead - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GYjFEMGZOS0ZfeWszR0NndGIyNVNHVTFfRlNFc3VYMFNzc3drN3AwWXM1Z2VYcFV5aWtoTURNLXp2emwwQm5aNThCaEozbzdWZi1iLXF1Y0FjWDY1X1Rjb3dfaXRHSjN0RnltVE91M3pKOGRzbHc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T20:18:00+00:00"
-    },
-    {
-      "text": "The ocean just broke a temperature record that may have stood for millennia - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEVRaXlzdWZCODlOdHIzY1M2eENZUHFCUWg5VXhPSEF6QWJ2aUNhdGhJWjdrSmZEY2lmN1FYSFlqWEQ3UWZacW9ZRm1uNHp4eXhJaTFkbUhJZjU1NjhPVkozXzluZDc0a2dWZnlhSm5JWS05U3N6UnpMUkdIMldYODUxcjY1TXN6eE9PNHZmMC1hTnFORDlPclBFd2Q5TFUxczRpbmFrY0lGRFBDdGFwdWNDQk5zWE0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T20:08:00+00:00"
+      "time": "2026-08-24T20:19:51+00:00"
     },
     {
       "text": "Live: Trump wants to 'destroy' Canada's auto industry, Carney says of latest tariff threat - BBC",
@@ -78,25 +143,34 @@
       "time": "2026-08-24T20:02:52+00:00"
     },
     {
-      "text": "Amazon hikes hardware prices by 60 percent, blaming memory shortage - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGs0ZERBam9uOHFaRmZmSWR1Tm5UMmU4Z2kwNGxBWDBoaS1rTFdFaGZmdkw4WGEzOEFISXVwd0hBblRaQ0R4QzhyS1lyX2hxaFdaTjVEbVZZRzRJQnFIUDFETjJzYlNpbzFzWFhxUlRjYkZJZEtvb3hfYkZTRXlxUk95bGhHdEN4S1A3cVY5S2c2UmpkNFcw?oc=5",
+      "text": "Hochul expects ‘helpful’ Mamdani in her reelection bid - Politico",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWVUcGlDU3RzUGFYdWRFZEczVEhrSHpNdEt3ek9iS1kyMXhEVTZWOXlDLWlOd0tFVnF2OWVXb0l4bU05M1R5dF9oZGM5OGt1bmVOek02MHhVUUhGMzRNV2ZQY1hCRFFEXzdDZDYxRFQ3WktQTC1vZW5sS3pueDB5VTNMSWhYSVJDLXBJTkFDQlJJLU0ydW8yN0FQWlhRRHVhSTRhRg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T19:54:50+00:00"
-    },
-    {
-      "text": "‘How to Lose a Guy in 10 Days’ Sequel Set Up at Paramount; Kate Hudson to Produce (EXCLUSIVE) - Variety",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTk5HRjhPX0xKallBeGg2cVZBczQySUtMN016aDBva2EzcDJ2cF9VLXNSMmJVWnhWOVNDdENac0h1d0U1LS1zalNfOEp6V2MtQ2xaMUFKTFJUcGxRWnhsaUtraGhYcmZvMFVpNU9GNlhXeVRNd2d3empfSE02M2pvZ0s5UXBtWmdzN09iX1Z3cVJnZXEzZkliSldmUEI2MkU5cXpTYVVXVQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T19:37:00+00:00"
+      "time": "2026-08-24T19:52:00+00:00"
     }
   ],
-  "col2": [
+  "col3": [
+    {
+      "text": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T21:20:10+00:00"
+    },
+    {
+      "text": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T20:53:45+00:00"
+    },
     {
       "text": "The Tour Guide Who Lived Through 9/11",
       "url": "https://www.nytimes.com/2026/08/24/nyregion/the-woman-guiding-tourists-through-new-york-citys-worst-day.html",
@@ -105,15 +179,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T20:38:39+00:00"
-    },
-    {
-      "text": "Ads and tracking infiltrated TVs. Now they’re coming for monitors. - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWswZ0ZnMVlRTEM1VUFENEJnVW1RakE4WDBxZ0pZUG5yRmJBd2pXT0t6U1gwZ3dqdmc5R3hjbVNmTWFodkpnN0RjYjREdlNWcG5fRnk4QUM0dGNlUHVxaHZ5dzBBNkRNMnhmajhkWVNKTVdKd29iZF9URzE5SVp6N0ZmLXVCSjk2SVhpWjN0QU5tMjd4cG51cTZub1JFUi00R2xpeWt0bw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T20:17:41+00:00"
     },
     {
       "text": "Trump administration announces ‘economic D-day’ sanctions on Iran - Al Jazeera",
@@ -134,78 +199,13 @@
       "time": "2026-08-24T20:00:26+00:00"
     },
     {
-      "text": "Trump administration proposes more than $100K fee for H-1B visas - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWZCQWRWcHNLaDQ5QTVVUlVoSlVIcWU5bWREdnc1SThXZ2Jta0F6alQzTnB0NnFFbTVPYjRITDBOU3JieURjNldSOEt4a2RULVIta1hDYm1OaDA1ZFRpZzNCVTZnbDR3S25pMlAxcEJUVHdzVUJZNHB1ZWZaRkJ5ZUJPeUpJdw?oc=5",
+      "text": "Browns fans react angrily to Deshaun Watson starting at QB: ‘It’s a slap in the face’ - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNlp1R0FoMUk2TmNOeWI1WVV3MkFlMVhYNDBQaV8xcHBTaGhEYjE1NG16VGpQcWphTDBKN2Z4Z1h5Rk9xUlRVUlNxS2Rqc1VnUTVGcnpmY05zNHpSQWhjVVZSLVdTLXBWNU5rUUZoRmJ5TDF5ZGpRRWhGSXhmUmpVdGJLVG05UlNjcmxSVnRGZ0ppd2RXeG9WRHoxTzNVWUZWWTVsMUFCMHFNRlI1VUdyZWEyTXR3dVE0dHl1N1dFOGNwbVY1YXfSAdoBQVVfeXFMTW1Nc0FTU3NJejlyUUM0aGZfM3BTV2ZsX2dUdGV2QzdONGp4MUtsS1JhQ2RrQmpPaE42WHBxTGZmalV1ZGgyY3VhRUZOalFtYzJ3M0Iya2h4aUxlM25hTGJLVzM3ZUllMGF4bFI4ZHFJcXZQZDFhVE01Vzhxc2FyUFg4VFNodG56TVk1LUowQUpVZ3otN3huMmlOd0tzQWVLLWhsYjNsTnJVMEZBUmZDZElxMGI5Rk1iYUJlVzBzMExjem1SMUJxMGExTk4wUlk4T2x3ZTRkSkhQZXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T19:52:00+00:00"
-    },
-    {
-      "text": "College football Re-Rank 1-138: Where all FBS teams sit ahead of 2026 season - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREdGTF9hTjZqVWd1OWV2SDVidzNWbjdPRUE5MF9OWjRGR0tGMFVaTXpGWHEzRjBFaXBiRERtVUVaUGdpVTRJdzliN3dmZ1NVZnR2aGFkMUdvRmRUUFFSZGZySEFHT1ZTaHRMR3doT2dtWXE5TGdWZUtCazhrMEU2NDZLYUl1Vm56VE55MDhDUS1Ed1FibFdEOTI3R3AxOGhaTzBaUDNlWkJteW9GSVREZjVIS05iekVaTlVKcmJrdlJHSzhFRGJxZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T19:29:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T20:34:22+00:00"
-    },
-    {
-      "text": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
-      "url": "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T20:10:16+00:00"
-    },
-    {
-      "text": "What’s Behind the U.S. Treasury’s Latest Attempt to Lower Interest Rates",
-      "url": "https://www.nytimes.com/2026/08/24/business/treasury-bond-buybacks-impact.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T20:03:52+00:00"
-    },
-    {
-      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T20:00:18+00:00"
-    },
-    {
-      "text": "Hochul expects ‘helpful’ Mamdani in her reelection bid - Politico",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWVUcGlDU3RzUGFYdWRFZEczVEhrSHpNdEt3ek9iS1kyMXhEVTZWOXlDLWlOd0tFVnF2OWVXb0l4bU05M1R5dF9oZGM5OGt1bmVOek02MHhVUUhGMzRNV2ZQY1hCRFFEXzdDZDYxRFQ3WktQTC1vZW5sS3pueDB5VTNMSWhYSVJDLXBJTkFDQlJJLU0ydW8yN0FQWlhRRHVhSTRhRg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T19:52:00+00:00"
-    },
-    {
-      "text": "California AG Calls Off Paramount-Warner Bros. Meeting, Accusing Company of “Playing Games” - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa25tRTRRdWFGb3dVSzJJeTZyWUFrUl8zUEthRDl5RUNWWGlFRTRCX0F4aVhLUmdTQXlZZ2RjZlV0QlV3ekpTRkFOMkRHYXYzMVRRQWJUZk5fM00wdjQzdzFtU0RMQjhJVm9OQ1VHbkxFbTVzdmpoSlB3bDF2b0h0a0Vxa3dYQTlUTGZzRlZHTkVpMlY5UnNMU3Nhc3NuM29rQk8wZUViajN3RUdDVEoyMlB0SFhscVBybEZTWHlEQlgyMnFV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T18:41:17+00:00"
+      "time": "2026-08-24T19:40:00+00:00"
     }
   ]
 }
