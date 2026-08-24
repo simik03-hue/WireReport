@@ -1,46 +1,64 @@
 {
-  "generated_at": "2026-08-24T22:34:25.880790+00:00",
+  "generated_at": "2026-08-24T23:03:25.279485+00:00",
   "lead": {
-    "text": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
-    "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "Trump administration preparing to revoke visas of up to 200,000 foreigners in largest mass visa revocation ever",
+    "url": "https://thehill.com/homenews/administration/6048047-mass-b1-b2-visa-revocations/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-24T22:30:06+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-24T22:58:28+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Byron Donalds: Kushner 'just keepings lines of communication open' with Jeffries meeting",
-      "url": "https://thehill.com/homenews/campaign/6048024-kushner-jeffries-meeting-opens-communication/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-24T22:25:41+00:00"
-    },
-    {
-      "text": "U.S. withdraws from military exercises with South Korea set for next month - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVVFV01JMlVwYUZVM2ZEcjhlbVZKMkEzUHdHcnpEdTZKQm9QVnBNS2RnblN6UWcyT1NHVW95a2hCUjBzT1FrcUVwV1Z0RDNOOW5kY19rOWlEbldrRU9Bb3psZWoyS1hwc1lmaGlHZmhzNVd2QjVZaTJpRDViUHRXZUgyMXNJa0ZiTjhjcmUwZ2RPVlNuSkNtVFlHaEdqNVFuMUVBcTlpT3JGT1pXelhScnFn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T22:17:53+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T22:52:57+00:00"
     },
     {
-      "text": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-      "url": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
+      "text": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
+      "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T22:52:15+00:00"
+    },
+    {
+      "text": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
+      "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-24T22:16:51+00:00"
+      "time": "2026-08-24T22:51:22+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "What You Should Know About College Admissions Changes",
+      "url": "https://www.nytimes.com/2026/08/24/us/college-admissions-changes.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T22:47:20+00:00"
+    },
+    {
+      "text": "The Mayor Went on Vacation. He Didn’t Travel Very Far.",
+      "url": "https://www.nytimes.com/2026/08/24/nyregion/mamdani-mayor-upstate-ny-vacation.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T22:39:07+00:00"
+    },
     {
       "text": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom - NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
@@ -51,116 +69,13 @@
       "time": "2026-08-24T22:08:51+00:00"
     },
     {
-      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "text": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to cooperate - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakFvUTN2Rk5LWkFMT2ZVQXVXcVZTbzRRZ1JXa2loVmxOWnQxZTNhRHpKb3p5NmNwTUY2UTY1dVItZW4zZnlkVk5qUDBQRUxmUkNpYkZZaC1RV1UxMlhqVmRHRy1fV2F4VW5NaDhaVllMUzc3MkVHS3g3b1hNRnVPX2xlVGNtWEE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:33:23+00:00"
-    },
-    {
-      "text": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
-      "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T21:21:03+00:00"
-    },
-    {
-      "text": "Iran Pledges to Defy Trump’s Economic Sanctions",
-      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T21:12:01+00:00"
-    },
-    {
-      "text": "Canada Said No to America. It Will Reverberate Far Beyond Its Borders.",
-      "url": "https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T20:42:53+00:00"
-    },
-    {
-      "text": "Karen Solomon, Massachusetts woman, wanted in death of police officer husband, found dead - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GYjFEMGZOS0ZfeWszR0NndGIyNVNHVTFfRlNFc3VYMFNzc3drN3AwWXM1Z2VYcFV5aWtoTURNLXp2emwwQm5aNThCaEozbzdWZi1iLXF1Y0FjWDY1X1Rjb3dfaXRHSjN0RnltVE91M3pKOGRzbHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T20:19:51+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Justices Allow Plans to Restrict Mail Voting, for Now",
-      "url": "https://www.nytimes.com/2026/08/24/briefing/supreme-court-mail-voting-restrictions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T21:53:34+00:00"
-    },
-    {
-      "text": "Abdul El-Sayed distances himself from Hasan Piker’s comments on American Jews - Politico",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmV2NGJQUGstWlNoRm9wdW92U1c0NkZJN25BRkF1QkFfTnFneHFlbXlBMDlfQ3Q4ZG9Bd0ctUF9LaExHejFtUzNEWGdZYlpZMlpMVVcyaGhIN1pFVTRZX0VJV3o1OVRwR0JNOXJLNnZJTmhqZHRLSWRZbm9rbjFrdDZrYlI3cWxveTlCRDBUdDBHMXJxTUpmcVhFOUpiVTho?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:32:00+00:00"
-    },
-    {
-      "text": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T21:20:10+00:00"
-    },
-    {
-      "text": "Judge Orders U.S. to Return Deported Man at Risk of Torture",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/mexico-man-deported-torture.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T21:01:30+00:00"
-    },
-    {
-      "text": "The Tour Guide Who Lived Through 9/11",
-      "url": "https://www.nytimes.com/2026/08/24/nyregion/the-woman-guiding-tourists-through-new-york-citys-worst-day.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T20:38:39+00:00"
-    },
-    {
-      "text": "Expect higher prices after Trump admin's latest moves on Canada, Iran - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NjUmlhOW9sWndjb1pHWHdoY3JmMXBldTFXdG1fYmJULTVNQUZaM21nNWJGNUpXbXAtRDRJRy10Q0dvLWtGdGpoWFpHTVNYLWxaVFhxVUFDQkpMV0Y2VWNTVXYyZlcxSVRvMllYLXNadTFUa1BlUGs5bkJWSEZnYUx3b0dRdnhmcktCX1RwMDlBbEV6SU12OHhha3JJX0NKTk5PbUt1OA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T20:18:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump administration proposes $103,000 fee for H-1B visas after legal setback - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGlMenMwT3ZOUjB2dkMtTXdDUXN1Nml1ZXZPYllFMExKNFdidTJFMzVBOFd1Wm1Da3BEVHNqYzA2bGRmbXNKeGh1VG4zbjNNbElmcVFiTTVaZEZnY3BPLWZsM1ZpWFY3RmxlX3g4NlYxMnVEbUxneG1lQUF5bzFmbjAtbkhVUy1jcUtKSXdJOGhaVlRJckdJZDRaeTJFYXNZSlVVS193eGpHTVJMN1RKMXpqX1FBNTRQYWhqZUt1d3R5cDdE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:50:09+00:00"
+      "time": "2026-08-24T21:43:24+00:00"
     },
     {
       "text": "'RHOBH' Alum Kim Richards Seen in Rare Outing After Eviction Drama - TMZ",
@@ -172,6 +87,53 @@
       "time": "2026-08-24T21:30:23+00:00"
     },
     {
+      "text": "RFK Jr. may upend how vaccine recommendations are categorized - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnFodHllMEVUdlo4eE9ac1ZEZm9DQWQtUkR6ZXpQR1BCS3hoMnJrNVBPY2owMXF3ZDBWN1ZuRk5aM1kteTNIaDdyLUFWenlidVVYZXFQSU93VGtGZkdHVGt6cHRWTkdIcnJ3THIydkFVaDNrN0xLS2V1YUxYSmhTNUJ2cGNPcnRHaVo3a2tsSXhHT3dwdEZvaU9ieE4weDdXRVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T21:04:48+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T22:42:21+00:00"
+    },
+    {
+      "text": "Indiana Governor Calls for NIPSCO to Be Investigated Over Power Outages After Gary Storms",
+      "url": "https://www.nytimes.com/2026/08/24/us/gary-indiana-power-outage.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T22:34:00+00:00"
+    },
+    {
+      "text": "Justices Allow Plans to Restrict Mail Voting, for Now",
+      "url": "https://www.nytimes.com/2026/08/24/briefing/supreme-court-mail-voting-restrictions.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T21:53:34+00:00"
+    },
+    {
+      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T21:33:23+00:00"
+    },
+    {
       "text": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
       "url": "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html",
       "source": "NYT",
@@ -181,31 +143,69 @@
       "time": "2026-08-24T21:13:09+00:00"
     },
     {
-      "text": "Nevada Sues Trump Administration Over Colorado River Cuts",
-      "url": "https://www.nytimes.com/2026/08/24/climate/nevada-sues-colorado-river-cuts.html",
+      "text": "Judge Orders U.S. to Return Deported Man at Risk of Torture",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/mexico-man-deported-torture.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T20:48:04+00:00"
+      "time": "2026-08-24T21:01:30+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Canada will announce retaliatory tariffs against the United States on Tuesday, official tells AP - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T22:42:00+00:00"
     },
     {
-      "text": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
+      "text": "Gov. Kathy Hochul, Five Years In, Makes Her Case for Four More",
+      "url": "https://www.nytimes.com/2026/08/24/nyregion/kathy-hochul-new-york-governor-anniversary.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T20:34:23+00:00"
+      "time": "2026-08-24T22:23:59+00:00"
     },
     {
-      "text": "What’s Behind the U.S. Treasury’s Latest Attempt to Lower Interest Rates",
-      "url": "https://www.nytimes.com/2026/08/24/business/treasury-bond-buybacks-impact.html",
+      "text": "Trump administration proposes $103,000 fee for H-1B visas after legal setback - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGlMenMwT3ZOUjB2dkMtTXdDUXN1Nml1ZXZPYllFMExKNFdidTJFMzVBOFd1Wm1Da3BEVHNqYzA2bGRmbXNKeGh1VG4zbjNNbElmcVFiTTVaZEZnY3BPLWZsM1ZpWFY3RmxlX3g4NlYxMnVEbUxneG1lQUF5bzFmbjAtbkhVUy1jcUtKSXdJOGhaVlRJckdJZDRaeTJFYXNZSlVVS193eGpHTVJMN1RKMXpqX1FBNTRQYWhqZUt1d3R5cDdE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T21:50:09+00:00"
+    },
+    {
+      "text": "Abdul El-Sayed distances himself from Hasan Piker’s comments on American Jews - Politico",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmV2NGJQUGstWlNoRm9wdW92U1c0NkZJN25BRkF1QkFfTnFneHFlbXlBMDlfQ3Q4ZG9Bd0ctUF9LaExHejFtUzNEWGdZYlpZMlpMVVcyaGhIN1pFVTRZX0VJV3o1OVRwR0JNOXJLNnZJTmhqZHRLSWRZbm9rbjFrdDZrYlI3cWxveTlCRDBUdDBHMXJxTUpmcVhFOUpiVTho?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T21:32:00+00:00"
+    },
+    {
+      "text": "Iran Pledges to Defy Trump’s Economic Sanctions",
+      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T20:03:52+00:00"
+      "time": "2026-08-24T21:12:01+00:00"
+    },
+    {
+      "text": "Trump’s MAGA Inc. makes last-minute buy for Darline Graham in South Carolina runoff - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1kxN0VHX0RndTZ2YmlQY0hyQnZGT3pzNVE0Z2plcXNPTXlZaHMwRXNhYnlUWmJwM0NtUU5NLUl4V2dYdkxORHhrNDJhTXdNSEttZUozbmZWZ05Ib2pqNURPZVRSakw5X0Vqb29zeWJtNkQxdTQ2cURfTGo3czgxZEdNeV9sa3F0TnlTTklYNzdtd29NaHFyaEF3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T20:51:00+00:00"
     }
   ]
 }
