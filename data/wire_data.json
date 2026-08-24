@@ -1,54 +1,128 @@
 {
-  "generated_at": "2026-08-24T19:47:03.919087+00:00",
+  "generated_at": "2026-08-24T20:39:15.541561+00:00",
   "lead": {
-    "text": "S&P 500 falls slightly as chip stock slide outweighs yield decline: Live updates",
-    "url": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-24T19:30:15+00:00",
+    "text": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
+    "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-24T20:34:22+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "3rd person dies from flesh-eating bacteria in Florida",
-      "url": "https://thehill.com/homenews/state-watch/6046435-3rd-death-florida-flesh-eating-bacteria-vibrio/",
+      "text": "Abbott tells judge Minnesota's ICE officer extradition lawsuit ‘doomed to fail’",
+      "url": "https://thehill.com/regulation/court-battles/6047665-greg-abbott-ice-agent-extradition/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-24T19:25:38+00:00"
+      "time": "2026-08-24T20:29:03+00:00"
     },
     {
-      "text": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T19:22:54+00:00"
-    },
-    {
-      "text": "Trump administration lays out new $103K fee proposal for H-1B visas",
-      "url": "https://thehill.com/homenews/administration/6047349-new-h1b-visa-cost-proposal/",
-      "source": "The Hill",
+      "text": "S&P 500 falls to start the week, dragged down by a sell-off in chip stocks: Live updates",
+      "url": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-24T19:20:50+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-24T20:27:33+00:00"
+    },
+    {
+      "text": "Ukraine-Russia war latest: Moscow strikes cargo ship in Black Sea after Zelensky calls for talks to stop attacks - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjVHUFlGYmdDTjhnWkJnUmZGY093LW1xaGR1WTVWa1h4RlhZd0JWMGNOdW5GTHAxWTlzZlk1cjJfUVJodFZiSTItYU9uZTI0b3JVYTNnVXBrTk95TTByd28zTVM5a1hoaExtay0xYVhPOC1ReUUycDZyQXptTTJfamVheU83U210Y2lCR08xYXJKb1U5dGpjbVR3T19LZnN5WkxKQXM1b1BBTlpJX1ZQOVZLVmY0OEFDcUNoMU9ROA?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-24T20:26:40+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Bessent announces campaign to create \"economic onslaught\" against Iran and its partners - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0VHbVlxbl9lZldHSWhZTFNSOXk3YXJaQV83UVBwT2F1UWxNeTF5R3BWVF9ZSmtfbW0xS1pwR2FXRUFNbm9jZEJONURyRDVJaW83NDJFV0FSOXg1TEJ5eXFLcGMyVmNJZDh3QTFjbVVmT2FTc3JTX2hTM0FnUHQxWnozdXAxQ0VMU2dFLQ?oc=5",
+      "text": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
+      "url": "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T20:10:16+00:00"
+    },
+    {
+      "text": "What You Should Know About College Admissions Changes",
+      "url": "https://www.nytimes.com/2026/08/24/us/college-admissions-changes.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T20:00:26+00:00"
+    },
+    {
+      "text": "College football Re-Rank 1-138: Where all FBS teams sit ahead of 2026 season - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREdGTF9hTjZqVWd1OWV2SDVidzNWbjdPRUE5MF9OWjRGR0tGMFVaTXpGWHEzRjBFaXBiRERtVUVaUGdpVTRJdzliN3dmZ1NVZnR2aGFkMUdvRmRUUFFSZGZySEFHT1ZTaHRMR3doT2dtWXE5TGdWZUtCazhrMEU2NDZLYUl1Vm56VE55MDhDUS1Ed1FibFdEOTI3R3AxOGhaTzBaUDNlWkJteW9GSVREZjVIS05iekVaTlVKcmJrdlJHSzhFRGJxZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T19:18:02+00:00"
+      "time": "2026-08-24T19:29:00+00:00"
+    },
+    {
+      "text": "Melissa Gilbert pleads to protect child actors after Hayden Panettiere's death at 36 - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXpjRFlMeTZsbnptNTZxUnJiUWdmVkttWXdJTnEzUHZmUGFXNlRPNU9VOGRWN1JSZDhDb1dib1ZtQ0ljVW5idW1Wb2NrZEdkVkRjbVhtRVc2WGNQYk1kX3BmNEItbGtCSzRQaHJodThhcjhERVpLVVNTOW5aS21fYktJMVRxOW9mMmFvaV9NRGJEMWplWEZJOXkyRy1CMVZnNmhENmJUM2xpVkw40gGyAUFVX3lxTE05RWUwWm5zRXByNV9RRmZ3MzRlbjNLaGcyaVNvQUhBbHNoWWR3LVViWlJnbm9WN0Zlb01mMHhISVlEc0FuWC1PdjN0TFBSMW9CVFJGVlN4eEdMWlhCWkFzeDNjNWRxUndzUzBFMFYtUWtzdl80ZUZScEhFc2NOZU9TbkZ3SU13ZlJjbWtWTFFUOEY1Y3FLRDZuUXFtUEhXcG0yWXFSeExWY3FFMkJRYUVKbEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T18:42:25+00:00"
+    },
+    {
+      "text": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T18:27:38+00:00"
+    },
+    {
+      "text": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
+      "url": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T18:09:15+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to cooperate - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakFvUTN2Rk5LWkFMT2ZVQXVXcVZTbzRRZ1JXa2loVmxOWnQxZTNhRHpKb3p5NmNwTUY2UTY1dVItZW4zZnlkVk5qUDBQRUxmUkNpYkZZaC1RV1UxMlhqVmRHRy1fV2F4VW5NaDhaVllMUzc3MkVHS3g3b1hNRnVPX2xlVGNtWEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T20:06:41+00:00"
+    },
+    {
+      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T20:00:18+00:00"
+    },
+    {
+      "text": "The ocean just broke a temperature record that may have stood for millennia - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEVRaXlzdWZCODlOdHIzY1M2eENZUHFCUWg5VXhPSEF6QWJ2aUNhdGhJWjdrSmZEY2lmN1FYSFlqWEQ3UWZacW9ZRm1uNHp4eXhJaTFkbUhJZjU1NjhPVkozXzluZDc0a2dWZnlhSm5JWS05U3N6UnpMUkdIMldYODUxcjY1TXN6eE9PNHZmMC1hTnFORDlPclBFd2Q5TFUxczRpbmFrY0lGRFBDdGFwdWNDQk5zWE0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T19:26:29+00:00"
     },
     {
       "text": "California AG Calls Off Paramount-Warner Bros. Meeting, Accusing Company of “Playing Games” - The Hollywood Reporter",
@@ -60,22 +134,13 @@
       "time": "2026-08-24T18:41:17+00:00"
     },
     {
-      "text": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeW1HQTBPVVZlZEhfMkNQekxGc3FZMHpTb1hFUF9Nb2EzLWJsU3NjZlpiNzh3N0xuVTRfZlRUX3Y3ODVPUjNkSE4zLVRNMzBTUWk2b1BJUlI5SXprSi1admNRVU5MbE1fR0hrRXJYNHJ6RjhPRHo2WWpyWWdoNEVEVnUtN1NtU1ByNlhjV0phdUtwWDh4QXFKVmRjcWxfYngwY3FlOXdHVE1MX2JqdDFjQVJjTllmQTU1X1N0UEpCQ28?oc=5",
+      "text": "Nevada wildfire expected to burn for 48 hours and may spread further, officials say - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q1VzTHA2SVJ4MDhXSlBJRzNvU0owRnY0NUZHTGFNUklVUG9adGh5Z1NMQVpneHNtZmVtVXlTdGxrTGxmVHV0eUNkVDFGWXd4U2Z3OWpB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T18:20:43+00:00"
-    },
-    {
-      "text": "Carney says Trump’s demands would dismantle Canadian auto industry as Ford warns US could be cut off - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T18:15:00+00:00"
+      "time": "2026-08-24T18:18:07+00:00"
     },
     {
       "text": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
@@ -85,26 +150,35 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T18:07:41+00:00"
-    },
-    {
-      "text": "Stock Market Today: Dow rises but S&P 500, Nasdaq decline; oil prices dip after 'Operation Outcast' against Iran was announced - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmp6eUh6bC12b1o4M0tDdS1rUmo5OWxfX0p5TzJNZXM0STBzd3l2Y2t2X0dsWS16NEdnT216SVlGNkwzbnZPaXBLTnhuNXV3b0FhYmdrRXYzR0wxN3JfLTBkUDNfVnZQSlUxLVRLdDFjNUE5cWRVdHVQOG44aGxYdG8yQlVKTGNCSDZDS1hvX1B5WGxKUGZRQzh1U2JwZURsYXRxcUJkaUxFSlJ2TlVrakE2X0hhQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T17:51:00+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Here’s How Scientists Turned Plastic Bottles Into Nutritious Cookies - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1hjbmhCNUNoZkotTEdBSGNOb0Q0UUpDRzJUQ3RDTXBGVWZ1dUM0SFkxY0I4OVFBY0R6Y2trMXpuSTJKOHRTYV9lbnBwMXRUQ2dJYnlpa1h6QlhLSWRyeG9oVEVaS2JraUNJNUFKamJ5c3pBMVVMVFBYUGgzZDlhbjltUkZ5dXlTQlJvMUkwY2VIR0tueld5cmhrRmpfdlZhT2ZBVG1lM3RyN21ablp3NDJ3R2hLeE9Sa0R3TWl4ZENRMXlzVDcyM0R5a2k4ckhGc0pCUg?oc=5",
+      "text": "What’s Behind the U.S. Treasury’s Latest Attempt to Lower Interest Rates",
+      "url": "https://www.nytimes.com/2026/08/24/business/treasury-bond-buybacks-impact.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T20:03:52+00:00"
+    },
+    {
+      "text": "Trump administration proposes more than $100K fee for H-1B visas - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWZCQWRWcHNLaDQ5QTVVUlVoSlVIcWU5bWREdnc1SThXZ2Jta0F6alQzTnB0NnFFbTVPYjRITDBOU3JieURjNldSOEt4a2RULVIta1hDYm1OaDA1ZFRpZzNCVTZnbDR3S25pMlAxcEJUVHdzVUJZNHB1ZWZaRkJ5ZUJPeUpJdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T19:00:27+00:00"
+      "time": "2026-08-24T19:52:00+00:00"
+    },
+    {
+      "text": "8-year-old Louisiana girl dies from a rare brain-eating amoeba found in warm freshwater - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFXY0Q0TUxibUhub1Q3Nm01SC00cXlaR0VlOFlscWVsVFZzbDJ2cDdTcDlNNHEyOE0zdk1rZERRU1haaDAyaGdmRC02N1J1YXEtbEM4dUxjMzY2dkluMkU1NE5VQms4LS1xeU5vWG5LZXc4RW5PWUFZTm4taG9kUGQ1Unp2Z1pURTdtZVp2M1RrQW1tUkHSAZsBQVVfeXFMUGZ4YVlzOW9mcGxTRkVDamU3Nzg1bzh6SmF4M3RaZ3hzaXFFcmRjaTkzWlVjbTdyNERLOGZPNHAtY1hyU3RVTFpuelNlNTRCNTg0cWtQZHJDVmljZjYzM0tEZU5MR0FyeEV2YjZ1T2pqaGdZRkU2UzZRU1N6Q18yUlU4SkRhcXZoVlNUUlpwWVhSdDZWb29tX1pCalk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T19:15:05+00:00"
     },
     {
       "text": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
@@ -116,62 +190,6 @@
       "time": "2026-08-24T18:37:48+00:00"
     },
     {
-      "text": "Reno wildfire: Nevada blaze expected to burn for 48 hours and may spread further - live updates - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q1VzTHA2SVJ4MDhXSlBJRzNvU0owRnY0NUZHTGFNUklVUG9adGh5Z1NMQVpneHNtZmVtVXlTdGxrTGxmVHV0eUNkVDFGWXd4U2Z3OWpB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T18:18:07+00:00"
-    },
-    {
-      "text": "What You Should Know About College Admissions Changes",
-      "url": "https://www.nytimes.com/2026/08/24/us/college-admissions-changes.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T18:11:42+00:00"
-    },
-    {
-      "text": "Kit Harington Cast in ‘Harry Potter’ Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWNZaGNweENTc1FDM3ZVTGZUZFNNdjZfc2IteUZ6RnNwdkFma0lwQU5wbW5tRmczeHpYT3l6YXNPbUF5NXRuYU5QQnJDU0p1Y19pVUQwMEZ4R3pFNWZvWHZFRFFIMDB6RUI2N3RSUlp2YjNta3hENV9VNXFtN3NyakNLZEkwQWc0UnZrOGJfMnRYZFA0VThpNk1aelVwMDJEOGZoSGNNYTlzd3JCOWRj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T18:07:13+00:00"
-    },
-    {
-      "text": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-      "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T17:47:04+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Patriots agree to trade Kayshon Boutte to Texans - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1NaR3J3dGFCbVVWa0FXbUUxWE5Nd2F4azNlWHpwZlplcENvQ0NQal9kTGZvS1BqMzBRSjBmOHdEanBKYTh0Q3FLUlZMQmJUaVk0TlUydlhvUTdIV0twbmd1TzFTRFZrb2NCWTl0RF9ZTXJGTjgzWW9SSzJScC1RVnBVb0o1eUdrQkJoQ0pzSjFqYnp0eTkxdk1DSTFydVhUMDJWQUVucEYzV280OHFF?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T18:56:12+00:00"
-    },
-    {
-      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T18:34:23+00:00"
-    },
-    {
       "text": "We’re in a New Era of Class Warfare. History Points to a Way Out.",
       "url": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
       "source": "NYT",
@@ -181,31 +199,13 @@
       "time": "2026-08-24T18:16:19+00:00"
     },
     {
-      "text": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
-      "url": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T18:09:15+00:00"
-    },
-    {
-      "text": "U.S.S. Abraham Lincoln Sailor Says Father Was Arrested by Border Patrol",
-      "url": "https://www.nytimes.com/2026/08/24/us/uss-lincoln-sailor-father-arrested-immigration.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T18:02:56+00:00"
-    },
-    {
-      "text": "Roche, Eli Lilly's Alzheimer's blood test gets FDA clearance - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWkwYS1RRWJ2dXRqZlBWV1pRRjFsR3pXcnJWVE9NYzN6SXVjTUV1QWxiLW5wX3hiN0VTOWY4RXBlUGE0cC1RNmdrSkhOMUlTQkV0cHhta2s0ak5za2JHUkpLMmprVWd3U0FhTjd2QWJFMHlLanFhME9ZMUNOdU5peGpiamphU1dMOVQxY2VUaEtMSnVMNlNvdVVWMkVEc2R2ejNNMUVSbUYtSGlHUDJz?oc=5",
+      "text": "Kit Harington Cast in ‘Harry Potter’ Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWNZaGNweENTc1FDM3ZVTGZUZFNNdjZfc2IteUZ6RnNwdkFma0lwQU5wbW5tRmczeHpYT3l6YXNPbUF5NXRuYU5QQnJDU0p1Y19pVUQwMEZ4R3pFNWZvWHZFRFFIMDB6RUI2N3RSUlp2YjNta3hENV9VNXFtN3NyakNLZEkwQWc0UnZrOGJfMnRYZFA0VThpNk1aelVwMDJEOGZoSGNNYTlzd3JCOWRj?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T17:39:43+00:00"
+      "time": "2026-08-24T18:07:13+00:00"
     }
   ]
 }
