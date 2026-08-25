@@ -1,63 +1,137 @@
 {
-  "generated_at": "2026-08-25T00:00:41.765367+00:00",
+  "generated_at": "2026-08-25T01:54:24.409749+00:00",
   "lead": {
-    "text": "Nearly three million Teslas recalled in China over hidden door handles",
-    "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
+    "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-24T23:53:32+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-25T01:52:06+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-      "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-24T23:48:50+00:00"
-    },
-    {
-      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-24T23:48:25+00:00"
+      "time": "2026-08-25T01:48:24+00:00"
     },
     {
-      "text": "U.S. withdraws from military exercises with South Korea set for next month - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVVFV01JMlVwYUZVM2ZEcjhlbVZKMkEzUHdHcnpEdTZKQm9QVnBNS2RnblN6UWcyT1NHVW95a2hCUjBzT1FrcUVwV1Z0RDNOOW5kY19rOWlEbldrRU9Bb3psZWoyS1hwc1lmaGlHZmhzNVd2QjVZaTJpRDViUHRXZUgyMXNJa0ZiTjhjcmUwZ2RPVlNuSkNtVFlHaEdqNVFuMUVBcTlpT3JGT1pXelhScnFn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "El-Sayed and Watters clash in Fox News interview over culture war, gas prices",
+      "url": "https://thehill.com/homenews/campaign/6048221-el-sayed-watters-fox-news-clash/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-25T01:42:39+00:00"
+    },
+    {
+      "text": "California Judge Says Recalled Officials Are Unlawfully in Office",
+      "url": "https://www.nytimes.com/2026/08/24/us/avenal-california-recall-city-council.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T23:47:53+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T01:26:16+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Canada will announce retaliatory tariffs against the United States on Tuesday, official tells AP - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T23:44:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T01:10:23+00:00"
     },
     {
-      "text": "Trump administration proposes $103,000 fee for H-1B visas after legal setback - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGlMenMwT3ZOUjB2dkMtTXdDUXN1Nml1ZXZPYllFMExKNFdidTJFMzVBOFd1Wm1Da3BEVHNqYzA2bGRmbXNKeGh1VG4zbjNNbElmcVFiTTVaZEZnY3BPLWZsM1ZpWFY3RmxlX3g4NlYxMnVEbUxneG1lQUF5bzFmbjAtbkhVUy1jcUtKSXdJOGhaVlRJckdJZDRaeTJFYXNZSlVVS193eGpHTVJMN1RKMXpqX1FBNTRQYWhqZUt1d3R5cDdE?oc=5",
+      "text": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T00:43:23+00:00"
+    },
+    {
+      "text": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T23:12:44+00:00"
+      "time": "2026-08-25T00:25:52+00:00"
+    },
+    {
+      "text": "NYC’s 911 System Had an Outage. Officials Kept Quiet About It.",
+      "url": "https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T23:31:37+00:00"
+    },
+    {
+      "text": "Deshaun Watson named Cleveland Browns’ starting quarterback over Shedeur Sanders - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVRkZkhXT01waW1QYmdlSzR5VmZpLVVCZDB5N2h3RFlBVFZObEhJaGxPQVZBQ1hGUThjSkx5RERUT08tTURTMjVfYkhmZ3pFTVJHYmFqb0pZVTdqYkhkcFE0dkRjcTFnMXJwdV9hUHBlSUdWMlp4WXpMUktveW05YzBLNDk1U3g0Nnp2bUVOMk5jUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T23:10:00+00:00"
+    },
+    {
+      "text": "Lindsay Clancy trial judge denies mistrial request, but reprimands prosecution over witness testimony about religion - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck8wd0huUmVfTk5sc3BtSUNoeWMyTEQ2TGhmMThrcXNjYk5zUDRmSGlHRGlWc1dTT3k5RmMzeThOcnNuaHVYaGdUUzg4eW83UjM4WGFCbVN6T1BnVHp6bUUwWGlpZXczVkxKaEM5MzhBeS1HME5PdnRQVF9wRW9sdkV0T3V5U2RfcFFtQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T22:52:24+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T00:59:25+00:00"
+    },
+    {
+      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T00:35:52+00:00"
+    },
+    {
+      "text": "Court Allows Trump to Pursue Mail Voting Limits, for Now",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T00:09:09+00:00"
+    },
+    {
+      "text": "Religious References in Lindsay Clancy Trial Anger Judge and Defense",
+      "url": "https://www.nytimes.com/2026/08/24/us/lindsay-clancy-trial-religion-catholic.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-24T23:28:53+00:00"
     },
     {
       "text": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
@@ -76,53 +150,53 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-24T22:52:15+00:00"
-    },
-    {
-      "text": "The Mayor Went on Vacation. He Didn’t Travel Very Far.",
-      "url": "https://www.nytimes.com/2026/08/24/nyregion/mamdani-mayor-upstate-ny-vacation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T22:39:07+00:00"
-    },
-    {
-      "text": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHcwT0g5UzcyekNwSGtnemlMZ2Z0MkxJUWMzOWdhbjZjbTNLUldzRWRnazNUbnFaNzEtYmZkVVIzYlN3RlZVMDV6S3J1bVo5SWN6ZFdUWnVCa3hkVVo2Mmp0NHM2WkI1dlliWDZDWjFhMVhiNXh1SUM3UU5yU0lxSzdyUTJER3k3UjRScEZ1YzNocUQ0dUVPd9IBngFBVV95cUxOZFYyVTJhenhqUVlmc0FaNnkzSjFFV2ZMbDE1aFdPelBfa1RjeFdtSVBsWnQ5NjltdXVQd08wS3B6YTlNSl9ZY3plMDdjN296enYyeEhNTWpEYVo1dFpmaksySlBfcS1wc3BLYmpUS01JRmhvQTRhR2lsMXVmSlcxeHNFQXpNZVFyeHF5ckpIbTY5RXNrMEFDVTQxbFNZQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:55:43+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "NYC’s 911 System Had an Outage. Officials Kept Quiet About It.",
-      "url": "https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T23:31:37+00:00"
-    },
-    {
-      "text": "Trump’s ‘Economic D-Day’ for Iran Must Overcome a Troubled History",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T23:10:50+00:00"
-    },
-    {
-      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "text": "U.S. withdraws from military exercises with South Korea set for next month - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVVFV01JMlVwYUZVM2ZEcjhlbVZKMkEzUHdHcnpEdTZKQm9QVnBNS2RnblN6UWcyT1NHVW95a2hCUjBzT1FrcUVwV1Z0RDNOOW5kY19rOWlEbldrRU9Bb3psZWoyS1hwc1lmaGlHZmhzNVd2QjVZaTJpRDViUHRXZUgyMXNJa0ZiTjhjcmUwZ2RPVlNuSkNtVFlHaEdqNVFuMUVBcTlpT3JGT1pXelhScnFn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T23:00:18+00:00"
+      "time": "2026-08-25T00:44:55+00:00"
+    },
+    {
+      "text": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+      "url": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T00:33:34+00:00"
+    },
+    {
+      "text": "Trump Officials Propose Charging More Than $100,000 for Skilled Worker Visas",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T00:03:11+00:00"
+    },
+    {
+      "text": "Jed York filed for divorce in May 2026 - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGIyZzdvcGZMdElGMFZIYVVuQmE0UG90TTJzYzJfRE5FUUJ1ODRkTXlLNWdxUWFldFY2RlJQT1o3YjladTFiaGVUd0lPOWttYll4NHAwbFN5Vk9HMGZ4OUxoOWkwRFN4QmswZDhqSjdPUUkyYUN2eVhYZEU3UFFBQjQ4UlRtU0xRN085S0Q1T0tPSzhrWi1IczdqUHItVW8zLVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T23:23:48+00:00"
+    },
+    {
+      "text": "SEC subpoenas Wall Street banks over Situational Awareness - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeU5TZjlrVHZicGoxZEhiWnJzQ05SMUJ2cTBOVnRmcG1NcUw5cFo1RUszZm55b3MzUEhaY05KUHFyQ0hIa090R041X2ZRQk1WdjNmM2xIc3dqVEdKYjJwSWFnYklDa2lxZU5URHFlUE9NYUlNakVtWDBPNWoxT3dvTURNZmc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-24T22:56:18+00:00"
     },
     {
       "text": "Louisiana Girl, 8, Dies After Contracting Rare Brain-Eating Amoeba - The New York Times",
@@ -132,80 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-24T22:49:02+00:00"
-    },
-    {
-      "text": "Gov. Kathy Hochul, Five Years In, Makes Her Case for Four More",
-      "url": "https://www.nytimes.com/2026/08/24/nyregion/kathy-hochul-new-york-governor-anniversary.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T22:23:59+00:00"
-    },
-    {
-      "text": "Justices Allow Plans to Restrict Mail Voting, for Now",
-      "url": "https://www.nytimes.com/2026/08/24/briefing/supreme-court-mail-voting-restrictions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T21:53:34+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Religious References in Lindsay Clancy Trial Anger Judge and Defense",
-      "url": "https://www.nytimes.com/2026/08/24/us/lindsay-clancy-trial-religion-catholic.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T23:28:53+00:00"
-    },
-    {
-      "text": "Deshaun Watson named Cleveland Browns starting quarterback over Shedeur Sanders - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVRkZkhXT01waW1QYmdlSzR5VmZpLVVCZDB5N2h3RFlBVFZObEhJaGxPQVZBQ1hGUThjSkx5RERUT08tTURTMjVfYkhmZ3pFTVJHYmFqb0pZVTdqYkhkcFE0dkRjcTFnMXJwdV9hUHBlSUdWMlp4WXpMUktveW05YzBLNDk1U3g0Nnp2bUVOMk5jUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T23:10:00+00:00"
-    },
-    {
-      "text": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T22:52:57+00:00"
-    },
-    {
-      "text": "What You Should Know About College Admissions Changes",
-      "url": "https://www.nytimes.com/2026/08/24/us/college-admissions-changes.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-24T22:47:20+00:00"
-    },
-    {
-      "text": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T22:08:51+00:00"
-    },
-    {
-      "text": "Bessent threatens new Iran secondary sanctions, says Trump is asking world leaders to cooperate - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakFvUTN2Rk5LWkFMT2ZVQXVXcVZTbzRRZ1JXa2loVmxOWnQxZTNhRHpKb3p5NmNwTUY2UTY1dVItZW4zZnlkVk5qUDBQRUxmUkNpYkZZaC1RV1UxMlhqVmRHRy1fV2F4VW5NaDhaVllMUzc3MkVHS3g3b1hNRnVPX2xlVGNtWEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-24T21:43:24+00:00"
     }
   ]
 }
