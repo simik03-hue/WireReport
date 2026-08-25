@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-25T16:02:41.121026+00:00",
+  "generated_at": "2026-08-25T16:57:47.716103+00:00",
   "lead": {
-    "text": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-    "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-    "source": "CNBC",
+    "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
+    "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-25T16:00:40+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-08-25T16:56:20+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
-      "url": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T16:00:37+00:00"
-    },
-    {
-      "text": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
-      "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T16:00:20+00:00"
-    },
-    {
-      "text": "Iran's attacks on US water systems are just the beginning",
-      "url": "https://thehill.com/opinion/cybersecurity/6047624-iranian-hackers-water-infrastructure/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-25T16:00:00+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Trump’s Canada Tariffs Rely on Untested Law",
-      "url": "https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html",
+      "text": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T15:54:10+00:00"
+      "time": "2026-08-25T16:53:29+00:00"
+    },
+    {
+      "text": "Where to Eat in New York City Right Now",
+      "url": "https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T16:52:21+00:00"
+    },
+    {
+      "text": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
+      "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-25T16:46:49+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
+      "url": "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T16:45:28+00:00"
     },
     {
       "text": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
@@ -57,46 +57,73 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T15:41:27+00:00"
+      "time": "2026-08-25T16:32:41+00:00"
     },
     {
-      "text": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+      "text": "Two Unvaccinated People Died from Measles in Pennsylvania, Officials Say",
+      "url": "https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T15:28:25+00:00"
+      "time": "2026-08-25T16:04:43+00:00"
     },
     {
-      "text": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
+      "text": "Stock Market Today: Dow and S&P 500 edge higher, chip stocks jump a day ahead of Nvidia results and inflation data; global oil prices below $88 a barrel - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3R5QjNWRy1aNU9kcXZoRjU5emFRXy1SR1h3QU5rUWM4bEJ6b2pIckdPNFg0RmlQVFpiRVp1Z29FV3NoRUd6UEM0T21NbjI4c3dCRG1RZWVzU2EwcXR2UU5wZHhJc3FiNjhkWDQ3ek81SDg0anRKQm9FY1E2YXphS05MSTRVOVFjUnlhOFRoenpvaWlCWHVqZWl1NTBlelhKbmFENnI2ZHlsZmhDUHA4LWhwRjJxY201?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T14:54:37+00:00"
+      "time": "2026-08-25T16:02:00+00:00"
     },
     {
-      "text": "Trump Administration to Target Visas of Up To 200,000 Foreign Citizens Applying for Asylum - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXhmT3p5cUtzZXNYWXhWaU5reU5fdG9kdkhOOG9hempkMGNIWnRWVkF3eUJJRHdLVFo0YUVuc1dlT0kxRThHVEFOUldUR1FIZ3o0cXpYXzZCeDZ3TnpOUGFpQUU4SGVpbFN3Qkc0cjV2YnZnYTNwcVRSWEJ1N3RNSzZvSVRPOGxuTk9xa3dB?oc=5",
+      "text": "Angel Reese sets two WNBA records with historic rebounding performance - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1ltcmhFemJ4aFoyeHNQZXNkcVIycmhCUUtLQjhMemhqclpqWXZLcjgweHh1aVJiaW5WU244d0J1ODRQWVhKU09BbXNNODU0d2JDSExzZ1ViMlJyaFVlLTRIT2tmRnlfZHhRTFNON1MwTVFscEw5NjhhQVcySElyZktFZFV3eXFDa3U4Z0hUajRveFNEMHFJRVlxYmdDNWJtTHlEd2F6bw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T14:45:00+00:00"
+      "time": "2026-08-25T15:29:27+00:00"
     },
     {
-      "text": "Apple’s ‘new’ polishing cloth is the same except $10 cheaper - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1na3E1bDRCWWVCbXlhb0Zra1VwVjFxSksyNHZ0cFcza0tTa0wzUnptX0tEWVFjQVdsdlRaczBjSTVNeEF1UmhjbjN2eHdacWpHeDBsaENxU25oWjFlUURsaUxrdHg0bnJnRnY2X1JmX2dQWmZ0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T14:25:52+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T15:17:57+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "Trump’s Canada Tariffs Rely on Untested Law",
+      "url": "https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T16:37:02+00:00"
+    },
+    {
+      "text": "She Was Absolved of a Heinous Crime. Why Won’t They Leave Her Alone?",
+      "url": "https://www.nytimes.com/2026/08/25/us/nancy-smith-child-sex-abuse-exoneration.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T16:24:33+00:00"
+    },
+    {
+      "text": "‘They Opened the Door and Pulled Us Out’: How ICE Descended on a Town",
+      "url": "https://www.nytimes.com/2026/08/25/nyregion/new-jersey-ice-raids.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T16:04:19+00:00"
+    },
     {
       "text": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
       "url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
@@ -107,52 +134,52 @@
       "time": "2026-08-25T15:45:09+00:00"
     },
     {
-      "text": "In Pennsylvania, 2 Measles Deaths Are Reported",
-      "url": "https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T15:40:11+00:00"
-    },
-    {
-      "text": "Target ‘deeply sorry’ for children’s Halloween costume compared to blackface - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1lrUS1weW9VNmJYbUhwQWZfa3NKYVdWNWExZGZSYXNnSmxvTENSbXBIVHpzTEppYUZzeU44LUlxOHRWSFlvOGtWT3oxa2RfTEtHekpYSk1YQUhxaS1qbF9MVkpzbjc4dlU1T2FoQTdha1R6Wk1adVF4aklFckpRNldQWFVQN0lod0JxdC1tclhjTTI5Wkw5ekZ2bEtWcXQ2andTNF9PQnVweDB2enl0OQ?oc=5",
+      "text": "Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWs5d05oRTRrU0JENVBndV9uak1ENmJNQ1RJYW5IRU5MQ0RTb2ZLaWNwWFZmMEV5cS1aQ2dOUlVSNF92SW8tU1ZJYkJBNm9UenlwbnNRRGtGUDhsRTJ1YUYyMDVlZWlSd0lRbTZIb3RMRi1Cb3JTTTBYRW9QZjNLVzRFSl80Tk8yZ3N6T05pV0JrSXlLRXdhU0p4VHk0dlpBcTU2LVc3ajdUVWticGtZajBR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T15:25:58+00:00"
+      "time": "2026-08-25T15:27:00+00:00"
     },
     {
-      "text": "Apple releases new Magic Keyboards with one notable change - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEdoNHBGRzhYZHJuTmxLbF8yWjVNanJjM0c1bERzaG5HWGdPSnZlb3lrTTVxbG5yY0dFOGtSbHAtOEJnX3A1R3p1OWRsOW1fYVFXWUZ6b251eUpXN0FTMmptd2pRUlZVN1FXNVZIWHJ2Ni1DcHZrTFRXMnNaenlQZ2c2NGNTcW9PNE15QmZUVC04UHVz?oc=5",
+      "text": "Oil tanker attacked in Strait of Hormuz as Iran claims plan to shoulder Trump sanctions - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWG5TN0RrVWQzRmhQR0lNb1A4bk5qR3RtT2ZqQUp6QktHa1BzMlpNa1YxdERHbFFNREpXUFV5aHV3NEVXNzJDajJDTl9EUjByYkRoREdhbFVWTWtCcmxfTXJCWmpLVXMzeVlQTGZ1cVZvb1NuZWhyM053RmV1VWhxbWRMU2FTa1E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T14:52:00+00:00"
-    },
-    {
-      "text": "‘They Opened the Door and Pulled Us Out’: How ICE Descended on a Town",
-      "url": "https://www.nytimes.com/2026/08/25/nyregion/new-jersey-ice-raids.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T14:43:19+00:00"
-    },
-    {
-      "text": "‘Ali G: Who Iz I?’ Trailer: Sacha Baron Cohen’s Prankster Returns in Stunt Documentary - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGdWTlM0NjdlVXV0YlZJaFc3MEpMX3djcXlHOGVmSXNVSlh0MFBSQlhiZjloQkQ4VW1zTXZ1UWFQREtUT21UM010NHh0MFRoajNZSTZjbUlPOER2ejl5RmpCblA2OW82blVoazBhQlZRT2pZNl9ZVmJvWGxfQUZhMngyY0Y2bXBJcFJrYnJQNjNkOXVkSlYzR0l3UUtDaU83YmlRSldfOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T14:25:19+00:00"
+      "time": "2026-08-25T15:02:26+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T16:34:25+00:00"
+    },
+    {
+      "text": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFdUQXhtUHQxbG54QmNDR3NQM1BmaUJmUm1rUDB1YU5nNEtRbHJKS0JzN1BVeFBJbVhQU2p4RExITGtRakw4SHJmWi1lTXZpQXFsc3RHdC1mcUxHQkNGVDZHTDFlbG1Sc2JlVTM3aWxxQXFvYTFlWWFyalhCNjZFYnliZy1LNUpCSHJRWms2QzAzZGNOYzg1RGw0dGh6dDlwOXNr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T16:08:22+00:00"
+    },
+    {
+      "text": "Watch Live: Lindsay Clancy trial resumes with prosecution psychologist calling her \"criminally responsible\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUm5BX1pzSlRfSEhjNlRCX0pRN28zNU9KT1lBeldGM1pHQTZKdUlKMC02SmVILVR1Z3ItVV8yMVRZbmdWRkFWZXdjR1RkZzNQTkE2WTUzSkYtVFZMU3U0Q1F5ZEhfeldQb1dMSjZwOHVMZWFPVHFFNzN4NDBCVkNHVw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T16:04:01+00:00"
+    },
     {
       "text": "Lawmakers Push Hochul to Block ICE From Taking Over Upstate Warehouse",
       "url": "https://www.nytimes.com/2026/08/25/nyregion/newburgh-ice-detention-center-hochul.html",
@@ -163,13 +190,13 @@
       "time": "2026-08-25T15:42:03+00:00"
     },
     {
-      "text": "Watch Live: Lindsay Clancy trial resumes with testimony from forensic psychologist hired by prosecutors - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUm5BX1pzSlRfSEhjNlRCX0pRN28zNU9KT1lBeldGM1pHQTZKdUlKMC02SmVILVR1Z3ItVV8yMVRZbmdWRkFWZXdjR1RkZzNQTkE2WTUzSkYtVFZMU3U0Q1F5ZEhfeldQb1dMSjZwOHVMZWFPVHFFNzN4NDBCVkNHVw?oc=5",
+      "text": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens - NPR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUzBEQzUwY3ZWVGxIbzlzcGpFZDBRUE5GTHhyX3dhcVJxbzNwZmNodU9xT2ZrRXJSaExBV2xkLWFua2c3RHEtTmRHT1AwekdTRTFBbkJoUXVON3JnMWRxNngyNFBkd3FIdTdpV0NpNA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T15:34:47+00:00"
+      "time": "2026-08-25T15:20:18+00:00"
     },
     {
       "text": "China Pushes Back After Trump Tightens the Screws on Iran",
@@ -179,33 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-25T14:59:39+00:00"
-    },
-    {
-      "text": "Stock Market Today: Dow and S&P 500 edge higher, chip stocks jump a day ahead of Nvidia results and inflation data; global oil prices below $88 a barrel - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3R5QjNWRy1aNU9kcXZoRjU5emFRXy1SR1h3QU5rUWM4bEJ6b2pIckdPNFg0RmlQVFpiRVp1Z29FV3NoRUd6UEM0T21NbjI4c3dCRG1RZWVzU2EwcXR2UU5wZHhJc3FiNjhkWDQ3ek81SDg0anRKQm9FY1E2YXphS05MSTRVOVFjUnlhOFRoenpvaWlCWHVqZWl1NTBlelhKbmFENnI2ZHlsZmhDUHA4LWhwRjJxY201?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T14:51:00+00:00"
-    },
-    {
-      "text": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T14:32:31+00:00"
-    },
-    {
-      "text": "NFC North, AFC South teams reveal \"Rivalries\" uniforms - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1WMWJDYlkzUmlBa3JyNS05RXBiUlExOG1Ya2UwOG85NDI4OWNnRUg3VEdRMUdlQUpxTklURHpCeDF6aS1RNzNzUng3cGVWeF9hVHZvcHZJRlQxczdVWXRGOVR6dWVvNmh6d0duaDBhS1lHVl80UUlFTkJoT3JNTDJ2ZkZEOFZzQlJFWmt3cmxBVlJrTklxYVhjbUtFY21hQ29uQThSeWVCY3FzYlpKV0xybw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T14:22:52+00:00"
     }
   ]
 }
