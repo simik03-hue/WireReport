@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-08-25T04:02:30.178234+00:00",
+  "generated_at": "2026-08-25T04:56:02.634954+00:00",
   "lead": {
-    "text": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
-    "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+    "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-25T03:50:06+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-25T04:49:18+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
-      "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+      "text": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T03:41:38+00:00"
+      "time": "2026-08-25T04:48:50+00:00"
     },
+    {
+      "text": "Bitcoin surges past $80,000 as crypto rally gathers pace",
+      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-25T04:38:30+00:00"
+    },
+    {
+      "text": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
+      "url": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T04:01:08+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Trump Administration Aims to Revoke Visas of Foreign Citizens Applying for Asylum",
       "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-administration-aims-to-revoke-visas-of-foreign-citizens-applying-for-asylum.html",
@@ -31,17 +51,6 @@
       "time": "2026-08-25T03:37:32+00:00"
     },
     {
-      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T03:36:56+00:00"
-    }
-  ],
-  "col1": [
-    {
       "text": "Jeffries Defends Kushner Meeting, Vowing Tough Oversight of Trump",
       "url": "https://www.nytimes.com/2026/08/24/us/politics/jeffries-kushner-meeting-trump-oversight.html",
       "source": "NYT",
@@ -51,22 +60,78 @@
       "time": "2026-08-25T03:08:16+00:00"
     },
     {
-      "text": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T02:44:29+00:00"
-    },
-    {
-      "text": "Gov. Kathy Hochul, Five Years In, Makes Her Case for Four More",
-      "url": "https://www.nytimes.com/2026/08/24/nyregion/kathy-hochul-new-york-governor-anniversary.html",
+      "text": "California Judge Says Recalled Officials Are Unlawfully in Office",
+      "url": "https://www.nytimes.com/2026/08/24/us/avenal-california-recall-city-council.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T01:59:27+00:00"
+      "time": "2026-08-25T02:15:46+00:00"
+    },
+    {
+      "text": "Owners thrilled with 'family investment' of San Diego Padres - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkhFR2syY1lvQl82aGQtSy0zN1pPdjhuRHVySnhPNG9lX1RzOGtreEdZYUJCTjE5QVdBcno4bTBvVE1jRW00TGNkY1JlWEU5bm5zNzFUbFJVNEZ5V2RKTll2SENiZ3lGVlVuQy04YjRsdDFzdDQteFItemUxNjdrdWNZQk1MUV9pYk1HYVpZNXh5QkR3ajRHZlo4OA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T01:41:00+00:00"
+    },
+    {
+      "text": "US plans to revoke business, tourism visas of 200,000 asylum seekers - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUlo0OEhnMEd4MmszbWZZcFotZ1llcGNqMjlSNTJtQTduS3cwUW1yWXJZa2Z1bEQ0Ym0zamhxWUozd2RtMEwzb2xxZnItbENuNDNTMVRUd0YxODMxa01CSnJuU2pSa1FLVGMzUjA2a3NRYy1sbzhaU0hkWmlYUGlueFp4X1NCU3BTcE4xUlB4Tjl3MWpoRjFDX3NrU2xRYW5BZ3BrUVU1dThTWXPSAbABQVVfeXFMTU52UXBENHFVRHdnNy15Z215NGk4ZHlYUmwtaGtwSlRJMWFXejNtc1dMMmhUdmF3emZKeUZKc2NiUENQRnFOR0lzUFlPUVJ4OWVETXF6amRBZ2JjY0kzcjRKcnZyWTZ4blJRMHlqQWZZdDJoQ29RbC1yM3hPYnVFRFFvSU14S0E3MEtndDdsdWhzRnM0dE43OXNXMzJHNXhSREJwYkFjb0U5WVhyWkdaVWU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T01:09:26+00:00"
+    },
+    {
+      "text": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T00:43:23+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T03:36:56+00:00"
+    },
+    {
+      "text": "Abdul El-Sayed Joins Jesse Watters of Fox News for Some Light Verbal Combat",
+      "url": "https://www.nytimes.com/2026/08/24/us/abdul-el-sayed-jesse-watters-fox-news.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T03:04:08+00:00"
+    },
+    {
+      "text": "Target apologizes for children’s clown Halloween costume after backlash - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSndsYU5lNTZkVFVabV9FUnQtbndyNUIzQTZ4ZnhzUFNLeTVSUEJpUUVBY0xxcUNUcmZ0MFd4WnlReW9GdkJRelNYekhTUWRwZFE3Ukt6LTlwZHVpU2hDTlhkMkdEQU5lY08wSURjWUY1SVcxR3gxOXk4UFAtYTk2UEU0SktkZkpSSW14bVBnVXoxZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T02:06:00+00:00"
+    },
+    {
+      "text": "Abdul El-Sayed asks Jesse Watters if he is circumcised during combative Fox News interview - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHl1UjVNMGdmVHRMZW82bHN6VlFEaXJpa2RxbTh3cEplUTA0ZDAyLWp6NldPYUltNmNFUVlNVjI3MkwwYklGTnVibzBVcW94X3YwRXMxeC1xUmhSZmp1UkdGWnREalVoSFRLVHpYZy1ueVpXdjlFckQ4WWEzVnp1VlA4MHRFRWtzdnB3em1sZDdZX3J1MEg3S21nY2U3eDByX2RYcFZhemNSaVhlVy16QWRIUnlCejA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T01:37:00+00:00"
     },
     {
       "text": "Ex-Lakers player speaks out in defense of Enes Kanter, doubles down against WNBA's trans issue - Fox News",
@@ -78,42 +143,42 @@
       "time": "2026-08-25T01:08:40+00:00"
     },
     {
-      "text": "Iran War Updates: U.S. unveils new sanctions after Trump threatened \"economic D-Day\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEpzNDk2c1V6WnVlU0lpVnpZWlE4OC1YNl91RURET211TzluVGFCR0VYRm5qZkxMU1ZVTU9Sc2xzMXBudzhwcVppb1YxNlpDc1EySjVNV0xkSlRIS2VJU1FPMmtXdm52OHJJQ2cwUzdDX2NBLTQ1Tk5NNXk1RWtsSExqeDVRTnM0b2c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+      "url": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T00:36:00+00:00"
-    },
-    {
-      "text": "Firefighters make progress against a Nevada wildfire that’s destroyed more than 30 homes - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2E5WkZBS3F0am16QWJBTE5WbW1HclZNUU92OTFPVlFVemJCb2Uzb1pueERYOVZRdFVtYUJJbjlMM3RmSkJ5RTBza0hvVzNsb2w5NjFRSk5YUUVfOVN5ZVl4dEs1MDB2SzBBdlN2eHg5RXBaeVEwOVVxSW13djlLU0FYZkVnWjBPd1hyN09tRks3TFY3MmlpRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T00:26:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T00:33:34+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Abdul El-Sayed Joins Jesse Watters of Fox News for Some Light Verbal Combat",
-      "url": "https://www.nytimes.com/2026/08/24/us/abdul-el-sayed-jesse-watters-fox-news.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Supreme Court for now allows Trump to plan new mail ballot rules. California to sue again - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUkg5S1otcjYwd2FMcm5rdGN0WnQ0QWRFUklRRUtyYTlmbU12dlh2M0Nkc0lxYVNvQktNS0xLSm53NW15ZkJ5X1MwaGdaQnkwTVZaQ0tmSzBmTUNuZmJ5MmFQSTdxMTl4TERRX3IxQVBhWG5MVXhaZ29mTWhpZkR0NVZUeE1HalZ0SDZISnViLTNHb1VrSC1CUHk0N0w3UnBuc0N2VjFwemZ3WGx4TFFUTTJ1YllrZVgwVHBDamZWSDExOXljRkRZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T03:04:08+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T03:26:06+00:00"
     },
     {
-      "text": "California Judge Says Recalled Officials Are Unlawfully in Office",
-      "url": "https://www.nytimes.com/2026/08/24/us/avenal-california-recall-city-council.html",
+      "text": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T02:51:53+00:00"
+    },
+    {
+      "text": "Gov. Kathy Hochul, Five Years In, Makes Her Case for Four More",
+      "url": "https://www.nytimes.com/2026/08/24/nyregion/kathy-hochul-new-york-governor-anniversary.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T02:15:46+00:00"
+      "time": "2026-08-25T01:59:27+00:00"
     },
     {
       "text": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
@@ -134,62 +199,6 @@
       "time": "2026-08-25T00:44:55+00:00"
     },
     {
-      "text": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
-      "url": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T00:33:34+00:00"
-    },
-    {
-      "text": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjBrSWtRMndCRjhNMk9KeDJ2bmpEMWtPRGhBOWVzTm1sNG1lbzhHanZDdzk5dEZ5OHVpdlgxMDlGcTAxOUFlVnZKN3pGSDBZcDhiVTZyLVJ4NlMxY29VSlZ4SjBVSXhremtUY0dMak9uOWR1MU5YRm5WYjBJZk1tQ2RoSml1SGhMQ1lKeFQtZGFUMk96Nkt0WEdxTkloRlBuWlR1aHdhT0p2VkZOdzlwUExwaUJGaXF1QWdwVVJBcE12dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T00:23:12+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T02:51:53+00:00"
-    },
-    {
-      "text": "Target apologizes for children’s clown Halloween costume after backlash | CNN Business - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSndsYU5lNTZkVFVabV9FUnQtbndyNUIzQTZ4ZnhzUFNLeTVSUEJpUUVBY0xxcUNUcmZ0MFd4WnlReW9GdkJRelNYekhTUWRwZFE3Ukt6LTlwZHVpU2hDTlhkMkdEQU5lY08wSURjWUY1SVcxR3gxOXk4UFAtYTk2UEU0SktkZkpSSW14bVBnVXoxZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T02:06:00+00:00"
-    },
-    {
-      "text": "US plans to revoke business, tourism visas of 200,000 asylum seekers - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUlo0OEhnMEd4MmszbWZZcFotZ1llcGNqMjlSNTJtQTduS3cwUW1yWXJZa2Z1bEQ0Ym0zamhxWUozd2RtMEwzb2xxZnItbENuNDNTMVRUd0YxODMxa01CSnJuU2pSa1FLVGMzUjA2a3NRYy1sbzhaU0hkWmlYUGlueFp4X1NCU3BTcE4xUlB4Tjl3MWpoRjFDX3NrU2xRYW5BZ3BrUVU1dThTWXPSAbABQVVfeXFMTU52UXBENHFVRHdnNy15Z215NGk4ZHlYUmwtaGtwSlRJMWFXejNtc1dMMmhUdmF3emZKeUZKc2NiUENQRnFOR0lzUFlPUVJ4OWVETXF6amRBZ2JjY0kzcjRKcnZyWTZ4blJRMHlqQWZZdDJoQ29RbC1yM3hPYnVFRFFvSU14S0E3MEtndDdsdWhzRnM0dE43OXNXMzJHNXhSREJwYkFjb0U5WVhyWkdaVWU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T01:09:26+00:00"
-    },
-    {
-      "text": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T00:43:23+00:00"
-    },
-    {
       "text": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103 - AP News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNG1pQmxSU05ZSXVrVW9WUHlQYXNjNzNKRFFSVGlwd3A4ZENJM213YjdjR05semFkSEM2bUtMSVpSZlhsUnBSVXdlbFFTTWJ5Sk01TVVVcnAya0tZZzRGbWlfaDBrOHR0aTQ3QTdoU3FfcG5fTzRIQ2lzZXZiN3Ztel9aSEttMUQ0Z3Rwc0RFNUowdTFzYkMxUjhKV0Q?oc=5",
       "source": "Google News",
@@ -197,15 +206,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-25T00:30:00+00:00"
-    },
-    {
-      "text": "Supreme Court Allows Trump to Pursue Mail Voting Limits, for Now",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T00:09:09+00:00"
     }
   ]
 }
