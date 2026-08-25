@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-08-25T19:04:08.580154+00:00",
+  "generated_at": "2026-08-25T19:47:31.538357+00:00",
   "lead": {
-    "text": "DOJ to monitor Charleston polling sites for South Carolina primary runoff",
-    "url": "https://thehill.com/homenews/campaign/6049724-doj-monitors-charleston-gop-runoff/",
-    "source": "The Hill",
+    "text": "Investor competition for commercial real estate sees strongest growth in a year",
+    "url": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-25T18:58:55+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-25T19:44:55+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Agriculture secretary says beef import plan still under discussion",
-      "url": "https://thehill.com/homenews/administration/6049883-rollins-discusses-beef-tariffs/",
-      "source": "The Hill",
+      "text": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
+      "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-25T18:58:32+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-25T19:42:30+00:00"
     },
+    {
+      "text": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
+      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T19:42:26+00:00"
+    },
+    {
+      "text": "Hegseth’s Purge of Top Generals Leaves the Army Rudderless",
+      "url": "https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T19:41:31+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "Dolly Parton: Hear 15 Essential Songs",
       "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-songs.html",
@@ -28,36 +48,34 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T18:56:40+00:00"
+      "time": "2026-08-25T19:36:38+00:00"
     },
     {
-      "text": "Secret Service says it's aware of Iranian video threatening Barron Trump",
-      "url": "https://thehill.com/homenews/administration/6049838-secret-service-investigates-barron-trump-threat/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-25T18:56:08+00:00"
-    }
-  ],
-  "col1": [
+      "text": "Dolly Parton, country star, actor and philanthropist, dies aged 80 - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFViVWpSZnJmV1lubURHZG51NlNpNFZZQmcyZXNIdVRrenNEalBDSmlPSVZ6RlM0VjJEMUdYUDFSMHFUaGV1LXJJRlJqOVZYVHJBSVpFenVPOW9LanktOTNGVU5FQlFicldlLXJmOGpHb0dtT1RiLUxCbVVJYlFVVHE0eFQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T19:27:00+00:00"
+    },
     {
-      "text": "Dolly Parton’s Bedazzled, Bewigged, and Bodacious Style",
-      "url": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
+      "text": "5 Takeaways on the Fallout From an Alarming C.T.E. Study",
+      "url": "https://www.nytimes.com/2026/08/25/us/cte-nfl-football-takeaways.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T18:54:38+00:00"
+      "time": "2026-08-25T19:12:54+00:00"
     },
     {
-      "text": "Congress Needs to Stop Trump’s Tariff Madness",
-      "url": "https://www.nytimes.com/2026/08/25/opinion/trump-tariffs-illegal-canada.html",
+      "text": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T18:47:05+00:00"
+      "time": "2026-08-25T18:42:58+00:00"
     },
     {
       "text": "South Carolina Election Becomes Test for Trump",
@@ -76,43 +94,43 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-25T17:59:06+00:00"
-    },
-    {
-      "text": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzJ2NjVRTVo0RXlDM25tVENldV9ITmRCT1NFRjllbW5aQm5Td3RYVWNNQ2gwMm1BcjBMNmlVV2dkakVtT01VNGg5TWY5N2Vsdi1ZTVVvYk1KM3lKUWs3a1dPak43WU9seDZhdHhZeU5XbU1FdFlBWkZjQ0FOYWpCQ0hZNWJDTWZUMUhGSTB3U0did3llc2QwWFpqbnRHV3Jwbk5qdlRB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T17:35:11+00:00"
-    },
-    {
-      "text": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/supreme-court-trump-emergency-shadow-docket.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T17:17:43+00:00"
     }
   ],
   "col2": [
     {
-      "text": "8-year-old died of brain-eating amoeba. Who's most at risk? - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWx1alZncnljdXhqN0FrWW9tM1F5bkZBMDE3NElMZW43X1lZdzlWZFAxMGUzYS1SWEZVdzhvSEVZMkhOVVY0bC1nU1o0STVySjNLS0VFVjV3dTNUel9HOXZfR190bWRVWmw4WlYzbTlqOV9GMWpKYklxWmxjVVNGWmpLSHVWSWhxazdCNmoyYklYNnlSMG51OExNWm9PQlpIWWVaeEN3WUtzZ1FjRktJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T18:51:00+00:00"
-    },
-    {
-      "text": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+      "text": "Dolly Parton’s Bedazzled, Bewigged, and Bodacious Style",
+      "url": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T19:34:45+00:00"
+    },
+    {
+      "text": "Lindsay Clancy Deserves Mercy, Not Life in Prison",
+      "url": "https://www.nytimes.com/2026/08/25/opinion/lindsay-clancy-postpartum-mom-kids-death.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T19:15:49+00:00"
+    },
+    {
+      "text": "State Dept. to revoke tourist, business visas for those who claimed asylum - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenkxSjNjZzFFRjRYRHZTV3FiM1JKT2EtY1MzQjJFam5GX3RwU3NtS040LU5ndDlDVTlXZFUxZFZmSlZMOGNGN1VpSThjWUdhdWltS3B4VXBubmxrN0VpVHZRSUJXZ2R3YndLenRjUkl2ZlN0TFB3R2RSalVaeHVpRGdVUUlHWVJhdWV3WXhvQW1fRHBGM0t4aGQxNm5Nd2ZfUF9mWllSbTBDdVVRZWR0Y3RaWE9QZnNDU3V2RA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T19:04:31+00:00"
+    },
+    {
+      "text": "Canada Retaliates With Up to 50% Tariffs on Hundreds of U.S. Products - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakZzdURoeWVCRFVRUVotX3NidXdfX1h3YUU1WVF2RUlIRy02dzRsQ1V5ZTRTUW5tekR5Q1Y5LXVKNWRZMmVoLWxYTzNEUGRjeFlZY2s2NFR4aVVrSElJLW5Wd2QzUGRoOTd6RE5tMlZfWi1Ba2Zvbkw0ZmU3elZfLURSbl82Y29sUU9zSUluY0pVM1I4VWRN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-25T18:42:58+00:00"
     },
     {
@@ -125,51 +143,51 @@
       "time": "2026-08-25T18:20:31+00:00"
     },
     {
-      "text": "LIVE: Louisiana lawmakers gather in Abbeville to announce SpaceX development near Pecan Island - WDSU",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFJ0Q2dSQ1IyaExvWXA1UnFxQ1Qzak9tQ2tCS09HU1BnMXUxczBvR1lNM0Fia1pNbmVTOV9aaGNmVTRqbGZuVTJ1OWh4ZWo2cEtVZi1Fc2JWRFZIN2FFX3l5clFYYllLOGNmcUY1a1oyckpHcUFrYkV3SzRlV1o2Uw?oc=5",
+      "text": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzJ2NjVRTVo0RXlDM25tVENldV9ITmRCT1NFRjllbW5aQm5Td3RYVWNNQ2gwMm1BcjBMNmlVV2dkakVtT01VNGg5TWY5N2Vsdi1ZTVVvYk1KM3lKUWs3a1dPak43WU9seDZhdHhZeU5XbU1FdFlBWkZjQ0FOYWpCQ0hZNWJDTWZUMUhGSTB3U0did3llc2QwWFpqbnRHV3Jwbk5qdlRB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T17:49:00+00:00"
-    },
-    {
-      "text": "Fringe Views in Primary Campaigns Rattle Florida Jews",
-      "url": "https://www.nytimes.com/2026/08/25/us/james-fishback-florida-jewish-voters.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T17:23:22+00:00"
-    },
-    {
-      "text": "Target shares drop after Halloween costume backlash - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTl1Ni1Pel9LckVkOVZ4OHZyTFZuT2pwNzBvekpucHNhWHBpSW1iRmlOLTRpb2g4OGlzNXVSVHEycHF6eXlZZFppdUpmVnZ2NnZXOUE3bVpVTjQ3X1RSTXFSXzJ6VFQxcnBqZ1NHNnBHdjRwQW1Yc0FONGwyZ3dpbGtXQzlucUJ1RlJwUGdQVUFrTjNCWFpva2J5R0NiM28tZTZteW1udldRdUxkOEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T17:11:40+00:00"
+      "time": "2026-08-25T17:35:11+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjNZSl94UEFPZ2tOSHBYOU5tR1RqTjM4bmRBR2pXeHdFWk9hRWFJZ09oenpQb2FuUENDN3VxNXlwZnhjOXY1UE10SlJ1YWU3b0plTG5aZWtzcDl3Si01T0pneWctU1BMTzlTMTNJTmhDUnJWZ1RLc2o5UzdER0xybnNEXzNYdTRCR3QxT2JzWk5vcng1bDAycnJfVEFlVElKLUhuN1daWjlBVHZRaTRJcXRob1M4dVB5ejFSdGFR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T18:48:24+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T19:27:59+00:00"
     },
     {
-      "text": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+      "text": "What’s More Than ‘Maximum’? Trump Faces Limits on Iran Sanctions.",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T18:28:39+00:00"
+      "time": "2026-08-25T19:14:11+00:00"
+    },
+    {
+      "text": "Congress Needs to Stop Trump’s Tariff Madness",
+      "url": "https://www.nytimes.com/2026/08/25/opinion/trump-tariffs-illegal-canada.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T18:47:05+00:00"
+    },
+    {
+      "text": "Why Dick's (DKS) Shares Are Plunging Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSU83SENzUFliS014alJfRDZqVVlKR2xmOVpHMXJUWXVhNDhTRVEwM3BhZXZmRXdMbncyQXF4emRTbnBNeEpjeV9DZ2tJWEM4bW9PWktDMjdTUGZ4T0lrUUFpWTVvNUJpSGgzcDBFbkljMEhpMG1tMzJrWWZVajBiTzhabmFJR1hvUElSc1AtTzBacHpvY1RQal9B?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T18:38:44+00:00"
     },
     {
       "text": "Two Unvaccinated People Died From Measles in Pennsylvania, Officials Say",
@@ -181,31 +199,13 @@
       "time": "2026-08-25T17:59:11+00:00"
     },
     {
-      "text": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjNZSl94UEFPZ2tOSHBYOU5tR1RqTjM4bmRBR2pXeHdFWk9hRWFJZ09oenpQb2FuUENDN3VxNXlwZnhjOXY1UE10SlJ1YWU3b0plTG5aZWtzcDl3Si01T0pneWctU1BMTzlTMTNJTmhDUnJWZ1RLc2o5UzdER0xybnNEXzNYdTRCR3QxT2JzWk5vcng1bDAycnJfVEFlVElKLUhuN1daWjlBVHZRaTRJcXRob1M4dVB5ejFSdGFR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T17:48:41+00:00"
-    },
-    {
-      "text": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/trump-kennedy-center-demolition-lawyers.html",
+      "text": "Fringe Views in Primary Campaigns Rattle Florida Jews",
+      "url": "https://www.nytimes.com/2026/08/25/us/james-fishback-florida-jewish-voters.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T17:22:59+00:00"
-    },
-    {
-      "text": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T17:05:55+00:00"
+      "time": "2026-08-25T17:23:22+00:00"
     }
   ]
 }
