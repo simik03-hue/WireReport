@@ -1,102 +1,64 @@
 {
-  "generated_at": "2026-08-25T22:35:12.650697+00:00",
+  "generated_at": "2026-08-25T23:04:45.747142+00:00",
   "lead": {
-    "text": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
-    "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "Trump's pick for open House seat in Kentucky scrubs president from campaign website",
+    "url": "https://thehill.com/homenews/campaign/6050662-alvarado-scrubs-trump-website/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-25T22:31:39+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-08-25T22:59:02+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Paxton unveils data center plan",
-      "url": "https://thehill.com/newsletters/energy-environment/6050638-paxton-unveils-data-center-plan/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-25T22:22:03+00:00"
-    },
-    {
-      "text": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjNZSl94UEFPZ2tOSHBYOU5tR1RqTjM4bmRBR2pXeHdFWk9hRWFJZ09oenpQb2FuUENDN3VxNXlwZnhjOXY1UE10SlJ1YWU3b0plTG5aZWtzcDl3Si01T0pneWctU1BMTzlTMTNJTmhDUnJWZ1RLc2o5UzdER0xybnNEXzNYdTRCR3QxT2JzWk5vcng1bDAycnJfVEFlVElKLUhuN1daWjlBVHZRaTRJcXRob1M4dVB5ejFSdGFR?oc=5",
+      "text": "Court halts Ohio proof-of-citizenship requirement at motor vehicle offices - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajV2RXRTUXdEdGdFTzRBSkJEYXBXTkluWVM2NGk5dm9UMUxlQXlxT0dZeGVoTEdXcWhWLTNXMHp1QlZKb0UwenJNWEN0a1o4aFY2LUlBYTFPMHNHTFdPY09BS2JaMHZSUXdHTVhQU2NGLTR3NFZaaDFFRzlUSC1zTDRZQXdsQUM4cW9YaGt3dGcyd0ltakVjRGVzeTZWSjEycHJpUGpwVTI2VEoyak85S0dzUXFqSEY3RXFTMzJtUnc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T22:18:41+00:00"
+      "time": "2026-08-25T22:51:02+00:00"
     },
     {
-      "text": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
+      "text": "Dolly Parton’s Bedazzled, Bewigged and Bodacious Style",
+      "url": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T22:11:09+00:00"
+      "time": "2026-08-25T22:50:09+00:00"
+    },
+    {
+      "text": "EXCLUSIVE: Ukraine needs changes to avoid losing war, ousted defence minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXBSRW9mODVnOWFna2E4UGc1bUdycm5wMXlLYlpGWlBzZ2NEUTJ1OFNOaDh4RHRLUG5nNk1JWXNhMDNVOGJ1N2gtcVV5bHdMUHJWS1FxVGRfTFV0WUl4UVRDR2tvbGZKWmpXRDhTbUtUMnlCY3FHQXVhamRSZXZOTjRPdG9rSWRvV0tQQ09fSmt5MHZJS3lMSWo5am0zZGFYVHU2aFRMLVgtR2QwQWVtU3o5NG5nSmhEeTVyVmJWa2NILVdMc3NEVlpR?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-08-25T22:49:46+00:00"
     }
   ],
   "col1": [
     {
-      "text": "The Evening: Canada Retaliates With New U.S. Tariffs",
-      "url": "https://www.nytimes.com/2026/08/25/briefing/tariffs-dolly-parton-cte.html",
+      "text": "It Was Always Dolly Parton’s Show",
+      "url": "https://www.nytimes.com/2026/08/25/opinion/dolly-parton-death-america-legacy.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T22:04:10+00:00"
+      "time": "2026-08-25T22:47:22+00:00"
     },
     {
-      "text": "Court Documents Suggest Rebel Wilson Ordered Websites Attacking Producer",
-      "url": "https://www.nytimes.com/2026/08/25/nyregion/rebel-wilson-the-deb-producer-amanda-ghost.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T21:48:53+00:00"
-    },
-    {
-      "text": "Trump administration pauses immigrant visa applications - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnFJSUxFUmxkRUNkWGtzNWRVc18yQVJhRFhqXzV5UGk5aG1zOG4zSTA5TFBjbzVHS1cwTFVBaTFLdWJidWRJVmQ5V0FiWG1YaHVXdVJuMG00S1hFUVZFNFJsdVlmTjFuSldxOUNFblhBVl9tTXZUTHFEQmZxQm0wcFJLSmE?oc=5",
+      "text": "Orlando Bloom Quits 'Reset' Movie As Production Starts, Cast and Crew Livid - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jdDNPRFJTb0hwd3RLY1ZqaXY1aTFpY0hoS01TMHRDUHBLVnlDVWpiSGJyc3NHSUsxbWl0NGVOZlltVi1FMG90X1lUSUJtOXkzV2tXTjhDTVpySFU4YWY2c09OUXFjZUtkajlvX3lsRHI?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T21:33:38+00:00"
+      "time": "2026-08-25T22:13:21+00:00"
     },
-    {
-      "text": "Two Unvaccinated People Died From Measles in Pennsylvania, Officials Say",
-      "url": "https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T21:21:39+00:00"
-    },
-    {
-      "text": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/supreme-court-trump-emergency-shadow-docket.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T20:56:46+00:00"
-    },
-    {
-      "text": "Trump administration violated court order on mail-voting rules, judge says - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FWmIwMWxMM25kOEd1d2pVLUtZSEdGVFllRzJ5SEpDcVFqSkFkUEdjSzgwSElrNkVfZ08yTjB4bGNaUFRQakFlaGtWRDZ1bzltdXI2UHY2X0Z3aXlZaS1NbzdUbjRPT0ZOZC1hUjVSRDdNYVk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T20:42:20+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "Conservative Gay Rights Group Ends Support for Trans Causes",
       "url": "https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html",
@@ -116,13 +78,60 @@
       "time": "2026-08-25T21:41:11+00:00"
     },
     {
-      "text": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVThOWWROMUxXVGktT3F1UV83Vlo5UXJSckpQaDZNcVFYMTY5RUFhYXVlZHJQd0Z2QWprc0xfLXhZOGdIU2pibUh2ekRyeFJmSnREdnVKMl9IR3ZWcGhiMVlQR1ZnVF9meFdjVU1DLUx2emlXTWQxUy1NQVpQNzRSLUF1TQ?oc=5",
+      "text": "Two Unvaccinated People Died From Measles in Pennsylvania, Officials Say",
+      "url": "https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T21:21:39+00:00"
+    },
+    {
+      "text": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered - XBOX Wire",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY28yM1dpQVdRNW51eUJqTXZCMHNkRnhWX2EyWFNsSnlqZ2dNV3dtMFZQQUVrUFFqb28wSXEwZlpheGYwMGUwTkd5UU1mWW9yOEJWcWFTZmdfZjVVWEFLbGpqMl9DbFhOemxjZl9PRlVJZDcteHlOR2pIQS02TkpyaEpPTVh6SDlWNHfSAY8BQVVfeXFMTi1RZlprXzhOdjlONmlaTTlqS0M3X3RLUzZMR01mQ3VnZ0M3dktueklMZVEwaG0xeXNBYnhoSFMxZHkwMEVReUdVc3NvNGNwcll0MWhQS2c3blBybW5rVDFlSzh6MWlDT2FQOE9KSlhoazA2XzAyX1BHeHVsaXZZVGo1d2tfYkJ1ZjhsNUwtclU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T21:31:12+00:00"
+      "time": "2026-08-25T21:02:11+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjNZSl94UEFPZ2tOSHBYOU5tR1RqTjM4bmRBR2pXeHdFWk9hRWFJZ09oenpQb2FuUENDN3VxNXlwZnhjOXY1UE10SlJ1YWU3b0plTG5aZWtzcDl3Si01T0pneWctU1BMTzlTMTNJTmhDUnJWZ1RLc2o5UzdER0xybnNEXzNYdTRCR3QxT2JzWk5vcng1bDAycnJfVEFlVElKLUhuN1daWjlBVHZRaTRJcXRob1M4dVB5ejFSdGFR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T22:28:43+00:00"
+    },
+    {
+      "text": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T22:11:09+00:00"
+    },
+    {
+      "text": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T21:51:00+00:00"
+    },
+    {
+      "text": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T21:39:50+00:00"
     },
     {
       "text": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
@@ -134,33 +143,42 @@
       "time": "2026-08-25T21:12:46+00:00"
     },
     {
-      "text": "Dolly Parton’s Bedazzled, Bewigged and Bodacious Style",
-      "url": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
+      "text": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/supreme-court-trump-emergency-shadow-docket.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T20:51:07+00:00"
-    },
-    {
-      "text": "Lindsay Clancy Deserves Mercy, Not Life in Prison",
-      "url": "https://www.nytimes.com/2026/08/25/opinion/lindsay-clancy-postpartum-mom-kids-death.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T20:41:33+00:00"
+      "time": "2026-08-25T20:56:46+00:00"
     }
   ],
   "col3": [
     {
-      "text": "More than 50 kidnapped after violent gang attack in Haiti leaves 47 dead - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHh2dmcyaWU3UlA2RXhCUnJKNTFucVk5Q0ZsQXMyMWowekZxbC1YOVViTk1uWnJKbXE1VHZ0UHk1c2JHMzNIRThYdU1fNzVOMEotcUZBRThDQ3NvNTRWTmRIQm9uZDJMbllocDBlOENVcjgwYjBCZDBzUkp1S0J5NThTT0RVR05jRnZWaDRNOG5jaHo1b21Gd3JGMVVCQ3dYWElpRFcwYw?oc=5",
+      "text": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T21:51:00+00:00"
+      "time": "2026-08-25T22:26:00+00:00"
+    },
+    {
+      "text": "The Evening: Canada Retaliates With New U.S. Tariffs",
+      "url": "https://www.nytimes.com/2026/08/25/briefing/tariffs-dolly-parton-cte.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T22:04:10+00:00"
+    },
+    {
+      "text": "Court Documents Suggest Rebel Wilson Ordered Websites Attacking Producer",
+      "url": "https://www.nytimes.com/2026/08/25/nyregion/rebel-wilson-the-deb-producer-amanda-ghost.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T21:48:53+00:00"
     },
     {
       "text": "After 8-year-old died of brain-eating amoeba, here's who is most at risk - USA Today",
@@ -172,40 +190,22 @@
       "time": "2026-08-25T21:37:00+00:00"
     },
     {
-      "text": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/trump-kennedy-center-demolition-lawyers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T21:29:44+00:00"
-    },
-    {
-      "text": "Trump threatens to demolish Kennedy Center if $250m renovation not done - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGY0TGlhWURfVTh0NkNTNWt1d0RZcGV0dlJlbGpBcVRkMm1RQlNOdDAtYjR1RXlVNlFXUmNHcU55ZnhJbExpSENtRzdMN2ZTc3lyel9uOVltTmFQMkcxNlRuY21TVXZVOFZVTHhUdGJqaVBaVjlLdmRyZWJydnY2dVJVTQ?oc=5",
+      "text": "Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNjU1FkWDdVY0Q4SEw1c0N3UkkyWlhhb3RHVDZfR3NLUk8wd1NPSlk5ZlhZb2RvZVA0NTRXUi1zbFhXcnJmZkM4cVdoeTRJZUpfYWp3R3BOclp1M1c1SzMyaG8tb0xBc2libDJJM253RHhmenNiTXZpT01Eb0VUTXduMWZYa0ZlQVBWZDM1emVOWFBWUFktLU1OMVdpckdIZnUxUTltTXc3TVgydGdzNQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T21:10:00+00:00"
+      "time": "2026-08-25T21:11:10+00:00"
     },
     {
-      "text": "The Ludicrous Argument Behind Trump’s Tariffs",
-      "url": "https://www.nytimes.com/2026/08/25/opinion/trump-tariffs-illegal-canada.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Trump administration violated court order on mail-voting rules, judge says - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FWmIwMWxMM25kOEd1d2pVLUtZSEdGVFllRzJ5SEpDcVFqSkFkUEdjSzgwSElrNkVfZ08yTjB4bGNaUFRQakFlaGtWRDZ1bzltdXI2UHY2X0Z3aXlZaS1NbzdUbjRPT0ZOZC1hUjVSRDdNYVk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T20:46:35+00:00"
-    },
-    {
-      "text": "Where Does Trump’s Executive Order Restricting Mail Voting Stand?",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/what-to-know-trump-executive-order-mail-voting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T20:36:05+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T20:42:20+00:00"
     }
   ]
 }
