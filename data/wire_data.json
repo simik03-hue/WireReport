@@ -1,110 +1,72 @@
 {
-  "generated_at": "2026-08-25T17:39:14.334306+00:00",
+  "generated_at": "2026-08-25T18:15:01.904813+00:00",
   "lead": {
-    "text": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+    "text": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
+    "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-25T17:35:48+00:00",
+    "time": "2026-08-25T18:12:54+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-      "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
-      "source": "CNBC",
+      "text": "Dolly Parton dies at 80",
+      "url": "https://thehill.com/blogs/in-the-know/6049769-dolly-parton-dies/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T17:32:15+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-25T18:12:01+00:00"
     },
     {
-      "text": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
-      "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T17:30:54+00:00"
+      "text": "Dolly Parton, Superstar Whose Songs Spoke to Millions, Dies at 80",
+      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T18:06:11+00:00"
     },
     {
-      "text": "Stocks making the biggest moves midday: Dick's Sporting Goods, Marvell, AMD, Kura Oncology & more",
-      "url": "https://www.cnbc.com/2026/08/25/stocks-making-the-biggest-moves-midday-dks-mrvl-amd-kura.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T17:29:38+00:00"
+      "text": "Dolly Parton, country star, actor and philanthropist, dies aged 80 - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFViVWpSZnJmV1lubURHZG51NlNpNFZZQmcyZXNIdVRrenNEalBDSmlPSVZ6RlM0VjJEMUdYUDFSMHFUaGV1LXJJRlJqOVZYVHJBSVpFenVPOW9LanktOTNGVU5FQlFicldlLXJmOGpHb0dtT1RiLUxCbVVJYlFVVHE0eFQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T18:06:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/trump-kennedy-center-demolition-lawyers.html",
+      "text": "Two Unvaccinated People Died From Measles in Pennsylvania, Officials Say",
+      "url": "https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T17:22:58+00:00"
+      "time": "2026-08-25T17:59:11+00:00"
     },
     {
-      "text": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html",
+      "text": "Fringe Views in Primary Campaigns Rattle Florida Jews",
+      "url": "https://www.nytimes.com/2026/08/25/us/james-fishback-florida-jewish-voters.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T17:05:55+00:00"
+      "time": "2026-08-25T17:23:22+00:00"
     },
     {
-      "text": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T16:48:57+00:00"
-    },
-    {
-      "text": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+      "text": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
+      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T16:34:25+00:00"
-    },
-    {
-      "text": "China denounces US threat of sanctions over trade with Iran - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZRzVaNkNpTzdlV2Y2TE5LOTEwbXVlOXd2LXdKejI1OGp2eXlGM3JOZlNaQjk5U1RlSXFKc0dETVk3Uy16MDV0LWIwdmpUdTZla09FdS1NRjR3TlFEOWZ0eXVuV0lRa0FSbDhvaWtLYlYxSnlrSGpEUkd1SzVsdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T16:14:00+00:00"
-    },
-    {
-      "text": "‘They Opened the Door and Pulled Us Out’: How ICE Descended on a Town",
-      "url": "https://www.nytimes.com/2026/08/25/nyregion/new-jersey-ice-raids.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T16:04:19+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/supreme-court-trump-emergency-shadow-docket.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T17:17:43+00:00"
+      "time": "2026-08-25T17:13:59+00:00"
     },
     {
       "text": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
@@ -116,51 +78,51 @@
       "time": "2026-08-25T16:53:29+00:00"
     },
     {
-      "text": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
-      "url": "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html",
+      "text": "Hegseth’s Purge of Top Generals Leaves the Army Rudderless",
+      "url": "https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T16:45:28+00:00"
+      "time": "2026-08-25T16:47:47+00:00"
     },
     {
-      "text": "Partial lunar eclipse Aug. 27-28 live updates — 2 days to go - Space",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlROZExaWGNJWVQ2N2hNNXNENVZtdHdEUktIekNiOEFjazFqaEtUN3dtSURqTUc0VWZDcU9CUmVkZ0l4cS1BVTBfNko3Qkk4VjdUTml6Wk42Q19xbmczTjctRk9RbTRXV2VldEs4NEpoSzJyb29OVThaVFFsaDByNWtwQlRfOGtjTTBVdQ?oc=5",
+      "text": "Canada Retaliates With Up to 50% Tariffs on Hundreds of U.S. Products - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakZzdURoeWVCRFVRUVotX3NidXdfX1h3YUU1WVF2RUlIRy02dzRsQ1V5ZTRTUW5tekR5Q1Y5LXVKNWRZMmVoLWxYTzNEUGRjeFlZY2s2NFR4aVVrSElJLW5Wd2QzUGRoOTd6RE5tMlZfWi1Ba2Zvbkw0ZmU3elZfLURSbl82Y29sUU9zSUluY0pVM1I4VWRN?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T16:26:00+00:00"
-    },
-    {
-      "text": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFdUQXhtUHQxbG54QmNDR3NQM1BmaUJmUm1rUDB1YU5nNEtRbHJKS0JzN1BVeFBJbVhQU2p4RExITGtRakw4SHJmWi1lTXZpQXFsc3RHdC1mcUxHQkNGVDZHTDFlbG1Sc2JlVTM3aWxxQXFvYTFlWWFyalhCNjZFYnliZy1LNUpCSHJRWms2QzAzZGNOYzg1RGw0dGh6dDlwOXNr?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T16:08:22+00:00"
-    },
-    {
-      "text": "Livestream, live updates: Lindsay Clancy trial continues after failed motion for mistrial - NBC Boston",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXl1elk3d1lNQUZJZ2x6THlvVkdZZkhZYnFpRGlURTh5U1IzdVFRdGpIa09mMUdxU2ROaFI0VTd3WUVkXzVVSGZxMHJxYzBmS1ZoT3VOSTJoQl9vcm9nRXkxbzdUb2NpZFAxWExkM3owREc4WVFyU1lsajlKR2dOSUhCcnhFQ0lTNG1Ld3Bxd9IBlwFBVV95cUxNclEyT2JBeUc5RzR0emhxcnJKaE85aFNWV0ZEc2ZzMl91dVJIeVBTNmZ0elY3MUVENWZOdFZqaWFLUkZMSHRnSkQ3ZjRUdDZoNWozU2ppME9QWnZyTm5MVDc0WUx2Q1prZ2x0SF82eTBaR0h4NDA5VGxfaU9DejNwcE0xRnNqN3lUVGptUlVTZV9kemdGZ2Zr?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T15:54:43+00:00"
+      "time": "2026-08-25T16:34:25+00:00"
     }
   ],
-  "col3": [
+  "col2": [
     {
-      "text": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+      "text": "India’s Summer of Youth Protests Is Boiling Over",
+      "url": "https://www.nytimes.com/2026/08/25/world/asia/indias-youth-protests-cockroach.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T17:13:59+00:00"
+      "time": "2026-08-25T17:59:05+00:00"
+    },
+    {
+      "text": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
+      "url": "https://www.nytimes.com/2026/08/25/arts/music/trump-kennedy-center-demolition-lawyers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T17:22:59+00:00"
+    },
+    {
+      "text": "CIA Director John Ratcliffe Makes Surprise Trip to Moscow - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVNtcDAtZ0ZDQVVBRXk3UzdpaEM3dzloOFUtSGxaajVpYkdGa1JfYUk5ejhZZlh3MlJtdVp4QS1qcFFQb0t5V0NzaVNKOWtPTEN1UEh6QU5ETkNOT2Q0amcxeWREZ2lCM01NcmVWZTJaRjNZdFBxX2hOZWlYUHBIWEZSeExlUzdldEtCbVk1c2tRWUtrbUJv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T17:06:00+00:00"
     },
     {
       "text": "Where to Eat in New York City Right Now",
@@ -181,31 +143,69 @@
       "time": "2026-08-25T16:37:02+00:00"
     },
     {
-      "text": "She Was Absolved of a Heinous Crime. Why Won’t They Leave Her Alone?",
-      "url": "https://www.nytimes.com/2026/08/25/us/nancy-smith-child-sex-abuse-exoneration.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Trump: Mines fully removed from Strait of Hormuz - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T16:24:33+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T16:31:37+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Secret Service says it is aware of Iranian state media video threatening Barron Trump - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN1E5ZW9IQ3RraW5wTkpjalp2M3BsNU53N2J1a3U0WEk4M3NVNzdZajAzZEJ3WTkyMHhYR2UyOXZGUVRBZE5HLVFhZFMtcnlidHJ0ZHRpMDdkZFRsTk5SZ3ZuUU0tSGcyVzhLTmNldThoZUVBOThMSUFvV3RNN2hPcEZxS1Y1T3N6V0tBaWd6bV9KOEhjdVEyM3ZoNVZ4bzhRdkhuMWx3WUdUelpjS3hYUW9Ob2h1Q1ZuVng0Sm9lLW0tOVhRSVA4ZHlEejQ5dms?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T17:47:39+00:00"
     },
     {
-      "text": "Two Unvaccinated People Died from Measles in Pennsylvania, Officials Say",
-      "url": "https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html",
+      "text": "How the Supreme Court Is Issuing Orders as Trump ‘Emergencies’ Return",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/supreme-court-trump-emergency-shadow-docket.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T16:04:43+00:00"
+      "time": "2026-08-25T17:17:43+00:00"
     },
     {
-      "text": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
-      "url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+      "text": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T15:45:09+00:00"
+      "time": "2026-08-25T17:05:55+00:00"
+    },
+    {
+      "text": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T16:48:57+00:00"
+    },
+    {
+      "text": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T16:34:25+00:00"
+    },
+    {
+      "text": "Partial lunar eclipse Aug. 27-28 live updates — 2 days to go - Space",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlROZExaWGNJWVQ2N2hNNXNENVZtdHdEUktIekNiOEFjazFqaEtUN3dtSURqTUc0VWZDcU9CUmVkZ0l4cS1BVTBfNko3Qkk4VjdUTml6Wk42Q19xbmczTjctRk9RbTRXV2VldEs4NEpoSzJyb29OVThaVFFsaDByNWtwQlRfOGtjTTBVdQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T16:26:00+00:00"
     }
   ]
 }
