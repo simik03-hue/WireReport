@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-08-25T08:10:47.928150+00:00",
+  "generated_at": "2026-08-25T09:01:58.176793+00:00",
   "lead": {
-    "text": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-    "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Gold price hovers at three-month high on dollar weakness, Treasury bond buyback plans",
+    "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-08-25T08:08:26+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-25T08:39:14+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
+      "url": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T08:36:08+00:00"
+    },
+    {
+      "text": "Bitcoin price extends gains as crypto rally gathers pace",
+      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-25T08:29:11+00:00"
+    },
+    {
+      "text": "Tornado tears through village in south-west France: More than 40 injured and 300 homes damaged - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnpTb3NZTk1tUjNTNGNZQ0o1X0VrN2RHTnZGd1ZLZzE0VWVmQVMtck9lUlZBNUJzdXo1UlBUTUhTSTI3d0NJWjJXS1pkamJKNGxBRUxTNXJUV3VMMGJRRWRYTHNJZC0xOVFYT1Jodi01bFBPTmo0bzF5M1Nra0N2eV95WHJTaWpGcG5VOW5EMFVyOTg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T08:28:56+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "The Iran War Shows China’s Energy Strategy Is Working",
       "url": "https://www.nytimes.com/2026/08/25/opinion/iran-china-energy-power.html",
@@ -21,82 +50,6 @@
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-25T08:03:35+00:00"
     },
-    {
-      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T08:00:18+00:00"
-    },
-    {
-      "text": "Treasury yields steady as traders await more economic data",
-      "url": "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T07:48:57+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Tornado in Aude: over 40 injured and 300 homes damaged - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnpTb3NZTk1tUjNTNGNZQ0o1X0VrN2RHTnZGd1ZLZzE0VWVmQVMtck9lUlZBNUJzdXo1UlBUTUhTSTI3d0NJWjJXS1pkamJKNGxBRUxTNXJUV3VMMGJRRWRYTHNJZC0xOVFYT1Jodi01bFBPTmo0bzF5M1Nra0N2eV95WHJTaWpGcG5VOW5EMFVyOTg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T06:49:46+00:00"
-    },
-    {
-      "text": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T05:12:26+00:00"
-    },
-    {
-      "text": "Lindsay Clancy defense seeks mistrial after ‘mortal sin’ raised again - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHpKZ2xTdzUxanFoNl9FbmRBNENpRnNJM2tCamdweUpFZlpvVmxWMmV4TE9XdFdBWjFubkZnMTUyTWtwMFZnZTlrYzBqZW9YMEZBVzd2ZDNzQ0FQMHdHT3JOd3RfN2Q3cTlsOWFuVjV6blJMZFM2TkRIcEg0RDhjLXlkVmJocHhMekJWcnY1SGVSUmNfcUlCV05idTkzTm01LWZEZjF6ONIBrAFBVV95cUxNLUwySFVZZk5CVDFYcGtCT2Ftci10eG5tU0ZmeGExaFA5cnNud2lYbHdudEtwUy1PZWdTOThnNnNWNlhUNTBXUUhZMHg3ZGtpYzJ2R2gyZWppUkI5ZHlSWE4zVDdWOURHaDlTWElPb181Y19IQ01YR19GRkMzdThCb2luWk9RVk5EaFhSLTZ5a0YtbDBxQ0JTR3BieS1jVWh4R0d0c0kxZmdBam9S?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T04:50:08+00:00"
-    },
-    {
-      "text": "From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T04:01:11+00:00"
-    },
-    {
-      "text": "5 ways Iran's economy is wilting under Trump's pressure - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1veVZZOFdPSDlQQ09KZlJWaFpvY0VhNVBGc0d6QWFxVkxobjZVX3FhQmREYXdBU2RnNklOdGpZRjEzV1htdXZ2M1BMaHptNUZvS1dnZWo0TTNHUC1RMGM0Um5zM19NYkJyWG01Smd0Q0F1RVFuS3ZLcA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T03:35:34+00:00"
-    },
-    {
-      "text": "Abdul El-Sayed Joins Jesse Watters of Fox News for Some Light Verbal Combat",
-      "url": "https://www.nytimes.com/2026/08/24/us/abdul-el-sayed-jesse-watters-fox-news.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T03:04:08+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "German investigators find third drone, explosives after failed airport attack, media say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ1BpRThDZHRjZkV3dTVxQWVibzBvVWIwT3M3b0Vaa0UyOFNLeVNiX2UweTFmR1hXMDJ1Zmo1UXVJelEyb3B3dUl1WUVjcHFHSkxGcDJjMjRuWGtHR0dybEZ2VGhoNGdwVEVnY1Q4a1lWN3BrbV9vYXNmWDVRYkhlS3hhbUZVU1NSckJNRHdRWGlnRHhSZk5UZE9BRmItamVINFhJZmRwWlNzXzItUGRRbUZqMnlVdkdrdlEwTWFjaFVEd2dMOHNqRE9Fb21iYmd0eExTRGd3?oc=5",
@@ -114,62 +67,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-25T05:01:00+00:00"
-    },
-    {
-      "text": "Cal Raleigh hits 3 homers as Mariners rout red-hot Phillies - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnd5aFZlZm5ReEMxN3NOSnNLQWZUeTNUMDVJRzZkYXNXbXdiU1hScExTVWtQdWgyNE0zdGtGWnJ6YXQ2RnFpUDNaak8zdnJ6Y0NCR3AzUlNUdTYyUk5FRzdCY2R1eUZlVmk1U2RibF9mS3l3NTVlZmVkTFVxYTdiVkp0eXo0R1U5SWs1VGNGSDFYVW1sYkhVMTFOUXFXT1Q4SUVCZ1ZiWi1fU1lETzFwS3FRWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T04:32:02+00:00"
-    },
-    {
-      "text": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
-      "url": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T04:01:08+00:00"
-    },
-    {
-      "text": "New iPad Mini With Four Upgrades Expected to Launch by Late October - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcW5ycDlVM1p5bjhodWpTSEN2QUhvN2owYnBqemFiUURvWUFQOW5ESFd4VVZTZlB2WlJiX0RhMkV2MTZ4X0NHVUM5V2RpOWZWdk5ORDlObjFMVHVDblYxX0FpLXJNRlRKaDFOV005TDRvU21iQk40WmQ1YXJIdF9YRUd3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T03:33:27+00:00"
-    },
-    {
-      "text": "Apple could debut two AirPods 5 models next month, per report - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX29PNUQwcDlCOGdKVGtvY3B5SUdKY3BjTzdad1NHTUtPRHZBMUdFeVk2cVJnQVU2MnIwZDREZ2Q3akc1YWFUVlFkQjRJWTV1T3E1cERBNWRWYTIzQWZSRFd6bEZBdVdjQ28wenViRDFZcFlacDMweFZPVFdldkRjaXJVM0dVd0hBVFpIWkhKMm9QQl9kSWNj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T02:56:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Jelly Roll Celebrates His 300-Pound Weight Loss on ‘Jimmy Kimmel Live’",
-      "url": "https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T05:13:16+00:00"
-    },
-    {
-      "text": "Supreme Court eases path for Trump’s sweeping limits on mail-in balloting - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXpmRXpPQlBXSGpjSzVkajA3cF9xRmlVcnVxaXo1Rm8yWWNUU1JHVjJrTTUtRkw3cVF2aXNPdVNBcVhnb1NsSmh6UWZZQlVBdDJ5TVVtZWhoeW5jNkxFMjZMUTlGYXBqVE9WZVhyTlFScW9WQTJRVURDNnRPc3YyUGs4cy1seFhUMWZTLVh0U21FbUpzVVJhRXNBc0NibHdHUDVQRE1fRUZMOHhINFV2dlN6TFRHOWpx?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T04:57:20+00:00"
     },
     {
       "text": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’ - The Guardian",
@@ -190,6 +87,62 @@
       "time": "2026-08-25T03:37:32+00:00"
     },
     {
+      "text": "Multiple dead, including children, in Montana shooting and house fire - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXM0STdYaTVLdEhwSTFIRUpzZGoxeWJyUVpPdTZmYWFMVWwzbG52X2FkSUtLUjJOZ3NkV2ZkQ2R5czBFaU5PQV9mYjlOMG9lYk1SOXNTSi1oY0pKNjhCY25IUFJkaUl0akIzZ0d0U082eW0zd1ZPcU0wMnIxbHRnVEp3cmJfNGFYcVlFQnZuUjBEVVJTeDJaU3I2dElPWGxtdGd3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T03:30:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T08:00:18+00:00"
+    },
+    {
+      "text": "Jelly Roll Celebrates His 300-Pound Weight Loss on ‘Jimmy Kimmel Live’",
+      "url": "https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T05:13:16+00:00"
+    },
+    {
+      "text": "Horoscope for Tuesday, August 25, 2026 - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFdKZko1dU5rdURINGpTSGhJZ0FmaS15N1M3VXZDNlNmS3dBVUVKQV9oWHpGVzNjV2FSRmZ5dHhSLU45b21fVm5OdERORmlTRjdsMHRPdkVYOVNJNWFUM1lNcXFaclFnWWx5ZGR5OGNVb0htVmhaYU0xNU90WFN1cUh5MXhORmVvbXBLc0liQlk0dEs4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T05:01:00+00:00"
+    },
+    {
+      "text": "Trump’s trade war with Canada could rattle economies in states with key Senate races - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG40VWdpUHNfS0NDbFBSR1haNlhGYUtsdTk5TzlQcVhZV25BdmNjRlhBV3BiY3VRbzFNUDNwWlNxOXJlU0xXaHo2Wklvb0s2NnhqNFA5NHgwWXdQZlRKYkkxWkYtcnZNUFVDdWNkZmpvUlBhdGNPSVVadHp3Vmo0dzNzR0lSdmFrWXgzX21VME40NEM5dUtpREdWZVl2YTlIeFVB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T04:04:00+00:00"
+    },
+    {
+      "text": "5 ways Iran's economy is wilting under Trump's pressure - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1veVZZOFdPSDlQQ09KZlJWaFpvY0VhNVBGc0d6QWFxVkxobjZVX3FhQmREYXdBU2RnNklOdGpZRjEzV1htdXZ2M1BMaHptNUZvS1dnZWo0TTNHUC1RMGM0Um5zM19NYkJyWG01Smd0Q0F1RVFuS3ZLcA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T03:35:34+00:00"
+    },
+    {
       "text": "Jeffries Defends Kushner Meeting, Vowing Tough Oversight of Trump",
       "url": "https://www.nytimes.com/2026/08/24/us/politics/jeffries-kushner-meeting-trump-oversight.html",
       "source": "NYT",
@@ -197,15 +150,62 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-25T03:08:16+00:00"
-    },
+    }
+  ],
+  "col3": [
     {
-      "text": "El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: ‘Let me just answer the question’ - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOek9kcG5Sbng4azBWNGNpSFNsTHFGTDNqUlBjUzNpdjlTQkJPcnlnTTRxdlFPUF9YbVFGRG9PTlZvTTNDVldCWXAyajgtbndvUHpicElleHVYR3FzZTd0TWlqa2pqWnA4RGN4LXpoekhYS0pLZ0JOdkxxR3RFak5SU0xfMmdZSWPSAYwBQVVfeXFMTktCTG5BZERHZkFBZ3ZGd1FJOFdPRXFQSVdXcXhNUTNoakJHSXJuQVJZMDNaaUVYX01TVVh2eE5LS1RETzl5eXdNRTJNZmVhSFBPa0duSkdFVEg3SzdKSTEwdmpJODFMYk5jU2tocmxGY0M0a2tTcGtwb1VESzBMZWxEQ2RjWlVsZDNzUGw?oc=5",
+      "text": "Lockerbie bombing trial postponed days before it was due to start - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mMWh0dFdFVTV1ZDIxbGZBRm1hbU9SbU0xbVdKXzhUbWQxcWFmNkgzUnpCTEVpX1pfSnNUd29HdnBzZ3FUVFhZY2tld3dJanFFWGhYbnVDZ1FLZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T02:37:00+00:00"
+      "time": "2026-08-25T06:59:03+00:00"
+    },
+    {
+      "text": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T05:12:26+00:00"
+    },
+    {
+      "text": "Good company: Raleigh joins skipper as only Mariners catchers with 3-HR game - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkZQV2JlZDg1ckRyREVFTGVRd0phbXNaZ0pPNjQ0aVctUzl2OHgxcG9CMzA5UDhpdzROc1k2YS1URFdEcHZ0UXRyRkk0VjZDNGNyUF9ILWFKeW1qeVBYZkVRS2hxNmJIZUE1YWZJanFXa0VsSHFLNlNzUzdsN1pqTVhMLUN3OGs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T04:38:14+00:00"
+    },
+    {
+      "text": "Gary residents turn to prayer as power outage stretches into third week - WFYI",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekR3QWNmamdoaWRpbkQ4c093bkVZSWNyMXpRVUsxZXU4T1dVTjIzZG4tWlBrdm5NWnBXTFQ4OVV1aTc2S3hscmFqMVh0V2EwaXVrQU1fMndsSXQwNGJRQ3U5UG55REpENEtJUC1mckNfLXRENzRZMVhfZnZtdk1hNjI0bkdMWS04aU1yMkRNVTAzN1pQLUE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T04:00:00+00:00"
+    },
+    {
+      "text": "New iPad Mini With Four Upgrades Expected to Launch by Late October - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcW5ycDlVM1p5bjhodWpTSEN2QUhvN2owYnBqemFiUURvWUFQOW5ESFd4VVZTZlB2WlJiX0RhMkV2MTZ4X0NHVUM5V2RpOWZWdk5ORDlObjFMVHVDblYxX0FpLXJNRlRKaDFOV005TDRvU21iQk40WmQ1YXJIdF9YRUd3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T03:33:27+00:00"
+    },
+    {
+      "text": "Abdul El-Sayed Joins Jesse Watters of Fox News for Some Light Verbal Combat",
+      "url": "https://www.nytimes.com/2026/08/24/us/abdul-el-sayed-jesse-watters-fox-news.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T03:04:08+00:00"
     }
   ]
 }
