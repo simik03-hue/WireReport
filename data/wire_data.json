@@ -1,46 +1,167 @@
 {
-  "generated_at": "2026-08-25T13:02:05.537363+00:00",
+  "generated_at": "2026-08-25T14:06:09.306499+00:00",
   "lead": {
-    "text": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-    "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+    "text": "Federal judge rejects Ghislaine Maxwell's 'miscarriage of justice' claim and bid for prison release",
+    "url": "https://www.cnbc.com/2026/08/25/federal-judge-rejects-ghislaine-maxwells-bid-for-prison-release.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-25T13:01:45+00:00",
+    "time": "2026-08-25T14:00:42+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-      "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
-      "source": "CNBC",
+      "text": "Should Taiwan be worried after Trump drops support for South Korea?",
+      "url": "https://thehill.com/opinion/international/6047857-us-policy-shift-taiwan-china/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T13:00:01+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-25T14:00:00+00:00"
     },
     {
-      "text": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "url": "https://www.cnbc.com/2026/08/25/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "source": "CNBC",
+      "text": "China: New US sanctions on Iran 'will only further intensify tensions'",
+      "url": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T12:59:01+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-25T13:54:38+00:00"
     },
     {
-      "text": "Stock futures rise as Treasury yields decline, chipmakers gain ahead of Nvidia earnings: Live updates",
+      "text": "S&P 500 rises as yields fall, chipmakers gain: Live updates",
       "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-25T12:56:10+00:00"
+      "time": "2026-08-25T13:53:06+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "At Least 1 in 4 NFL Players Gets CTE, Major New Study Finds",
+      "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T13:48:51+00:00"
+    },
+    {
+      "text": "Many N.F.L. Players Get Brain Disease. Why Hasn’t OSHA Intervened?",
+      "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-osha.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T13:07:23+00:00"
+    },
+    {
+      "text": "2 people die from measles in Pennsylvania - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEd3QzBUU0F3a284MjlxcVZ6SEl3YkRwemhfRWFCZ3VGSThxb0VDaEdSOGtjbWhvUE5BazhPQS1ZMXF2ZTZwSlB5Zi1zNzAzX1RLQmxINnRyVElSbVlPbDZvN2VGc3I3eExSS2NuRFFFX0JRWmxuSHE3cURvbGg5UHBDUXRCUdIBiwFBVV95cUxQNFNvb0lHb1NsWHJtSmNKWF9fNVRDWDRoZU5TR3ZNNG5oTG40THZnenNHSHZHXzRVT0pFUDBGWHVPb2VjVjh1bHgyUHRaVUpOQlluLVF5blFVM1ZZQTdlV2R6UTZwSUJlQUN3YW8tX200dS13ZkI1bHIzNlh3VkxPSmd6ejFSdlFHYklJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T12:54:53+00:00"
+    },
+    {
+      "text": "Democratic Senators Ask Homeland Security for Details About Idled Planes",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/democratic-senators-homeland-security-planes.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T12:00:05+00:00"
+    },
+    {
+      "text": "Kate Hudson to make How to Lose a Guy in 10 Days sequel, 23 years on - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ME1KN3lWc0VYTDVxTzVzbVpQU3JlRDdIWU1yUGlQTjZ6R3J2ZnV3RjN5Vjg0TDlnUHVMY3Z3VE1HbFNoWU9VbG5TVFNMZzl2cnNBRXo5blJtdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T11:46:12+00:00"
+    },
+    {
+      "text": "SpaceX sets rocket-reuse record on 100th Falcon 9 launch of the year - Space",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNUZ3UWZVR2ZvQkR4UXVfWkZnUlZnT3VOcXNNRm5XTTZFRm5VQktVOVN3U3Y0WnVpTzhERHFGWXVfaDFUSDRuYUlKdWloOU5xVVBFZm5QQjRlNjg5d2J1V2FIRUFobWQwRjZvclBqNGlZdmUxQnlOMzVqOHhhTjJnRHBfWGVmclJER1hVYm9QTVhiRnN2YVJrZ1lDT3JrRTBlakhQaVpsSGhRN1pHSncwaHotWlZHNlhBTDgySF8zbjJKZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T11:20:16+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "China Pushes Back After Trump Tightens the Screws on Iran",
+      "url": "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T13:31:28+00:00"
+    },
+    {
+      "text": "Partial lunar eclipse Aug. 27-28 live updates — 2 days to go - Space",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlROZExaWGNJWVQ2N2hNNXNENVZtdHdEUktIekNiOEFjazFqaEtUN3dtSURqTUc0VWZDcU9CUmVkZ0l4cS1BVTBfNko3Qkk4VjdUTml6Wk42Q19xbmczTjctRk9RbTRXV2VldEs4NEpoSzJyb29OVThaVFFsaDByNWtwQlRfOGtjTTBVdQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T12:58:43+00:00"
+    },
+    {
+      "text": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T12:39:20+00:00"
+    },
+    {
+      "text": "China warns it will safeguard its interests after US widens sanctions against Iran - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CVnVRWFBpZ0Q3QVhFRjVhTkl5cC1jUldYUnVvdW96NnEzcGhrT0o1M2Vhd1RBd1lucUN6dmltSDZjdVdxd1BuMUVWRnVNMno3VThkd3ktanpkQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T11:53:36+00:00"
+    },
+    {
+      "text": "Mark Carney's defiance of Trump has Canada cheering - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVhiYlA0V21oenNwYk4zalJucFJRcTBwRkp3eGdoU3BDZnVqU2RLeW1EZ1gwSmFCUkVFX01sUlRoV3pRV3lMLXl5WmJ2dmlWaTR5d0hpZEhCWUdFRENYTkVWVDdOTW51aFczSXZqYXBGLTlTWFdXNk5aVzZLQi01eDc0eURSMW1tSURUZy16bw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T11:34:18+00:00"
+    },
+    {
+      "text": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+      "url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T11:09:48+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "‘They Opened the Door and Pulled Us Out’: How ICE Descended on a Town",
+      "url": "https://www.nytimes.com/2026/08/25/nyregion/new-jersey-ice-raids.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T13:22:35+00:00"
+    },
     {
       "text": "We Know the Risks of A.I. We Need to Act.",
       "url": "https://www.nytimes.com/2026/08/25/opinion/ai-risks.html",
@@ -49,6 +170,24 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-25T12:55:30+00:00"
+    },
+    {
+      "text": "Five more arrests in wrong-way crash investigation - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVTZlRVNELUVFQW9ma3Y2WUpCcHUtQm15RFVLMndpTUQ1UkNSMFhwVElvMWN1cXlYdlBQTHZBblNRNXVEY2xXc08waXFKSVY5VTBKbWpGTXl1Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T12:38:05+00:00"
+    },
+    {
+      "text": "Trump says he's considering renaming Lake Ontario as 'Lake America' as trade war with escalates - AP News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T11:47:00+00:00"
     },
     {
       "text": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
@@ -60,152 +199,13 @@
       "time": "2026-08-25T11:30:04+00:00"
     },
     {
-      "text": "Trump Administration to Target Visas of Up To 200,000 Foreign Citizens Applying for Asylum",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-mass-visa-revocation-asylum.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Dick's Sporting Goods misses expectations, cites 'challenging' footwear market - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbG9Zd3AwRGMyc0daRWNYVGx5YXJmeGRzUVY5Rlg4TXpLTldIUnpZcEVNU0VaaUNYMTYxdGVtanlkcG0xZTF4TnFrTWhFX19UdDVLaW1rY3hISXg4YkdzSUdiNkxvNEx0WlVpbUNCNWJ2WlpzV0Y1RndQYzZGZXlrcnZiTnLSAYoBQVVfeXFMT3phY2ViRkhhMDR0bGZTSktMdy03SGFkNG5jTm9HcFBwMzlXZlQzYktqOXl6Vnk5RzJVWFNEZWQxY0NVa2tUc09tRmtwU0ZEOE5OT3Bsb2FMT2lhMjFkakdWeW1fSENzcmJQWllMZzJfVE5KcUhvX0tCREs4V1dCdXdCckVqVzJ2NVln?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T10:59:32+00:00"
-    },
-    {
-      "text": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T10:47:25+00:00"
-    },
-    {
-      "text": "Trump Administration to Return Diplomats to Middle East Embassies",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T09:32:55+00:00"
-    },
-    {
-      "text": "3 Charts That Explain El Niño",
-      "url": "https://www.nytimes.com/2026/08/25/climate/el-nino-temperature-charts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T09:02:42+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T12:39:20+00:00"
-    },
-    {
-      "text": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
-      "url": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T11:09:48+00:00"
-    },
-    {
-      "text": "An Alarming New Study About Brain Injuries in Football, and How States Are Paying Millions for Rain",
-      "url": "https://www.nytimes.com/2026/08/25/podcasts/the-headlines/football-cte-rain-brat-diet.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T10:59:11+00:00"
-    },
-    {
-      "text": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T10:10:11+00:00"
-    },
-    {
-      "text": "Many N.F.L. Players Get Brain Disease. Why Hasn’t OSHA Intervened?",
-      "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-osha.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T09:09:02+00:00"
-    },
-    {
-      "text": "A Chinese A.I. Lab May Test the World’s Cybersecurity With a Model",
-      "url": "https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T09:02:38+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Democratic Senators Ask Homeland Security for Details About Idled Planes",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/democratic-senators-homeland-security-planes.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T12:00:05+00:00"
-    },
-    {
-      "text": "At Least 1 in 4 NFL Players Gets CTE, Major New Study Finds",
-      "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T11:05:44+00:00"
-    },
-    {
-      "text": "N.F.L. Brain Injuries",
-      "url": "https://www.nytimes.com/2026/08/25/briefing/nfl-brain-injuries.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T10:51:18+00:00"
-    },
-    {
-      "text": "Your Child Plays Football. How Can You Minimize Risk of C.T.E.?",
-      "url": "https://www.nytimes.com/2026/08/25/us/cte-prevention-youth-football.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T09:33:03+00:00"
-    },
-    {
-      "text": "Poll Shows Josh Shapiro Leading Pennsylvania Governor’s Race",
-      "url": "https://www.nytimes.com/2026/08/25/us/elections/josh-shapiro-pennsylvania-poll.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T09:03:19+00:00"
-    },
-    {
-      "text": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T09:02:25+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T11:01:03+00:00"
     }
   ]
 }
