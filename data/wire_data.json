@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-08-25T23:40:48.942228+00:00",
+  "generated_at": "2026-08-26T00:01:23.860864+00:00",
   "lead": {
-    "text": "Here's why markets are starting to care about the 2026 election 10 weeks out",
-    "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-25T23:35:24+00:00",
+    "text": "Experts for Prosecution Discuss Clancy’s Mental State at Time of Killings",
+    "url": "https://www.nytimes.com/2026/08/25/us/lindsay-clancy-trial.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-25T23:46:01+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "CIA Director John Ratcliffe on secret trip in Russia - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnd5N1Bjd1VhMVRidmJudVNJNXJHSFZrb1RtejBKY04yRU9jN1ZqSnRfVGVpbzhYdXZzVU50M211TkxyMGJoMHJOaklmTXI3ZGhwaXVvdmROTE9ka2U1RWI2RDN4aW5abVZIXy1yM19vQVZ6dElCdlhYY1JIWURSNTd3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T23:45:24+00:00"
+    },
+    {
+      "text": "Here's why markets are starting to care about the 2026 election 10 weeks out",
+      "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-25T23:35:24+00:00"
+    },
     {
       "text": "Dolly Parton, country music icon, dies at 80 - NBC News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcHM0bEtXZ3pRVDhvNGJYWHl5emltcmFkUVhva1ptbmU1Rld6WXd0alBEYTFweXdTRWhJT2Y5SEw2RmlFZzFEOFFUZmZFMVNJeXp2bWNNOEZ3RU1ZYnZQMG03d0ZVemFLenBaaGdvdkJlQTBRd1JDV2RCdVdSMWRCdldjSkdlVmJJSnVXYUVENA?oc=5",
@@ -20,16 +38,9 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-25T23:34:45+00:00"
-    },
-    {
-      "text": "Court Documents Suggest Rebel Wilson Ordered Websites Attacking Producer",
-      "url": "https://www.nytimes.com/2026/08/25/nyregion/rebel-wilson-the-deb-producer-amanda-ghost.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:34:43+00:00"
-    },
+    }
+  ],
+  "col1": [
     {
       "text": "Supreme Court Ruling on Mail-in Voting Could Add to Election Confusion",
       "url": "https://www.nytimes.com/2026/08/25/us/mail-in-voting-states.html",
@@ -38,9 +49,54 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-25T23:33:13+00:00"
+    },
+    {
+      "text": "Serena Williams Returns to Tennis and Thrills U.S. Open Crowd",
+      "url": "https://www.nytimes.com/2026/08/25/nyregion/serena-williams-alcaraz-us-open-photos.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T23:20:10+00:00"
+    },
+    {
+      "text": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T23:09:50+00:00"
+    },
+    {
+      "text": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T22:58:03+00:00"
+    },
+    {
+      "text": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T22:26:00+00:00"
+    },
+    {
+      "text": "Conservative Gay Rights Group Ends Support for Trans Causes",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T21:58:02+00:00"
     }
   ],
-  "col1": [
+  "col2": [
     {
       "text": "Democrats Score Victory in Campaign Finance Court Case",
       "url": "https://www.nytimes.com/2026/08/25/us/politics/court-democrats-republicans-ad-case.html",
@@ -67,62 +123,6 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-25T23:02:00+00:00"
-    },
-    {
-      "text": "Chris Hansen Not Backing Down Over 'Primetime' Feud With A24 - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS053T0tyclZoWWplR0FnUGdFM0ZaN3lnM01DQjNEazI4N2Z3bGZNQXhrTmQyZlBDMEZhR28xaU9YcVpvSW1UV2lFZUFtNHp3VnNjcFNscFNial9XanhTNVkzTnNxSzZnU2t3aW85ZTh4b2tnOWpXWlNfZ3VfanRlU1ZpbnQ2d2ZsMkczdU5KY2Etalk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T22:50:40+00:00"
-    },
-    {
-      "text": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T22:26:00+00:00"
-    },
-    {
-      "text": "Conservative Gay Rights Group Ends Support for Trans Causes",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T21:58:02+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:24:16+00:00"
-    },
-    {
-      "text": "Dolly Parton Had the Voice, and Concerns, of an Earth Angel",
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-voice-appraisal.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:10:23+00:00"
-    },
-    {
-      "text": "New NASA telescope to probe dark energy, dark matter and exoplanets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFdYY1BBZ0twUzM0TFVyVDRHUXk2OXdjbC1ZdXNBb3RyYTRKUVYzV0JJVy1LbVdGWXpIUVhiZTZhZE1MdWdQWmFEajI4NGRCRTg3UmpScTJna2x6NDVLZXBoUmJIdWtkTnFBMEdiV3NPUllaRlVvZkEtaElKNGdtMG1Cb0JvNURIMGU0NDVac1R4QS1lbDVnbGZUei10dXlaOHRNOEZRbGswUkNTSVYycTRFSHE5cE0tM0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T23:00:19+00:00"
     },
     {
       "text": "Dolly Parton’s Bedazzled, Bewigged and Bodacious Style",
@@ -154,31 +154,31 @@
   ],
   "col3": [
     {
-      "text": "Serena Williams Returns to Tennis and Thrills U.S. Open Crowd",
-      "url": "https://www.nytimes.com/2026/08/25/nyregion/serena-williams-alcaraz-us-open-photos.html",
+      "text": "At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:20:10+00:00"
+      "time": "2026-08-25T23:24:16+00:00"
     },
     {
-      "text": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "text": "Dolly Parton Had the Voice, and Concerns, of an Earth Angel",
+      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-voice-appraisal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T23:10:23+00:00"
+    },
+    {
+      "text": "New NASA telescope to probe dark energy, dark matter and exoplanets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFdYY1BBZ0twUzM0TFVyVDRHUXk2OXdjbC1ZdXNBb3RyYTRKUVYzV0JJVy1LbVdGWXpIUVhiZTZhZE1MdWdQWmFEajI4NGRCRTg3UmpScTJna2x6NDVLZXBoUmJIdWtkTnFBMEdiV3NPUllaRlVvZkEtaElKNGdtMG1Cb0JvNURIMGU0NDVac1R4QS1lbDVnbGZUei10dXlaOHRNOEZRbGswUkNTSVYycTRFSHE5cE0tM0E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T23:09:50+00:00"
-    },
-    {
-      "text": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T22:58:03+00:00"
+      "time": "2026-08-25T23:00:19+00:00"
     },
     {
       "text": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
@@ -187,7 +187,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T22:28:43+00:00"
+      "time": "2026-08-25T22:32:45+00:00"
     },
     {
       "text": "The Evening: Canada Retaliates With New U.S. Tariffs",
