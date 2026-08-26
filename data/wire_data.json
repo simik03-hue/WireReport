@@ -1,46 +1,26 @@
 {
-  "generated_at": "2026-08-26T16:03:15.766742+00:00",
+  "generated_at": "2026-08-26T17:51:05.099607+00:00",
   "lead": {
-    "text": "Mail voting questions surge after emergency Supreme Court ruling",
-    "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6052333-supreme-court-emergency-ruling-mail-in-voting-meta-settlement-discussion/",
-    "source": "The Hill",
+    "text": "S&P 500 is little changed after PCE report shows sticky inflation; Nvidia earnings on deck: Live updates",
+    "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-26T16:02:55+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-26T17:48:54+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
-      "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-26T16:01:48+00:00"
-    },
-    {
-      "text": "From a theme park to moss: The things named after Dolly Parton",
-      "url": "https://thehill.com/blogs/in-the-know/6051397-from-a-theme-park-to-moss-the-things-named-after-dolly-parton/",
+      "text": "Former Labor secretary calls Trump's Canada tariffs 'irrational'",
+      "url": "https://thehill.com/homenews/administration/6052631-reich-calls-trump-tariffs-irrational/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-26T16:00:00+00:00"
+      "time": "2026-08-26T17:44:58+00:00"
     },
-    {
-      "text": "Why high defense spending is bad for America",
-      "url": "https://thehill.com/opinion/national-security/6049822-trump-defense-spending-weakness/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-26T16:00:00+00:00"
-    }
-  ],
-  "col1": [
     {
       "text": "Tim Curry, Star of ‘Rocky Horror Picture Show,’ Dies at 80",
       "url": "https://www.nytimes.com/2026/08/26/movies/tim-curry-dead.html",
@@ -48,55 +28,19 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:57:01+00:00"
+      "time": "2026-08-26T17:44:28+00:00"
     },
     {
-      "text": "Prince Harry and Meghan are back in the U.K. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1F2akl0SEJFcGYxZHJHWVNTUjQxcU11OGNiVTZ1NDhoRVZIUTBFU3g5RTgtVExVSTFIa0VYQU5wQkViZ2Y1Z3dlbE5qc0RTcW5HYkZYdXpJRGc4ZGJ0aF82aWY1R0tOVTRocWNhVHNGTXVkYno0Q1RzZkpTRlZVVGRlTVVYRFgwb1Nn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T15:40:41+00:00"
-    },
-    {
-      "text": "Even as Trump’s Standing Slips, He Slingshots Darline Graham to Victory",
-      "url": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:34:38+00:00"
-    },
-    {
-      "text": "Fed, NASA and DOJ among victims of China hacker group: Court documents - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNG1sMXJ5ZGh6eXd0clE3YTJhUEN3ZndWclV2UGtvTWVSREdUZmwyd0VJTlN4YWNLa1lEeGc4Wjc1ZTdrNlBqQmNhV0sxSE82NXBzSjZyWFdJNlhOUGF3MU5QMzdsWFdVTFhFZDdVODJ5aUZ1OTZEYjVacUxhaGvSAYQBQVVfeXFMTVNhY0FuV1NqcDczTzRuVHhfLS1qaWdzak1CMGRCSGlmc2NxR1BVNVY4MGhXZ3VOZVVEcXk3Q09oX2lyYm4wMkt0cWxsMXQ2YWhVU3FuQjlTQ1BJQWJwd1ZtVTdmc19iVmxpVVV4Qnh5bzU4dUZCcjFVeVZzOXhiWTMwQjl3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T15:11:14+00:00"
-    },
-    {
-      "text": "Bessent Faces Credibility Test in Quest to Tame Markets",
-      "url": "https://www.nytimes.com/2026/08/26/business/scott-bessent-economy-markets.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:05:42+00:00"
-    },
-    {
-      "text": "Xbox announces disc-to-digital feature that digitizes your physical games - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbDc3R2k3alNJd2RTNm9RdHpfUmRzMURBeWxXVG93M1RtQlF2UHA5QzFnRTY5bmZMMmhiRDdPdjBJb0kyQ2VoYVhKbEZDR2hlUWJnMGtNUGlJcGgydk1laGdaT1VscEIzemNTR2E1Uy1Ub0pkTzctMUtFSC1GQkk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T14:30:00+00:00"
+      "text": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus",
+      "url": "https://www.cnbc.com/2026/08/26/apple-iphone-launch-date-john-ternus.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-26T17:40:28+00:00"
     }
   ],
-  "col2": [
+  "col1": [
     {
       "text": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
       "url": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
@@ -104,7 +48,43 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:55:23+00:00"
+      "time": "2026-08-26T17:37:52+00:00"
+    },
+    {
+      "text": "F.D.A. Approves the Drug Daraxonrasib That’s Poised to Transform Pancreatic Cancer",
+      "url": "https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T17:21:54+00:00"
+    },
+    {
+      "text": "Flash flood on Nepal-Tibet border kills more than 100, with hundreds of tourists missing - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T16:57:19+00:00"
+    },
+    {
+      "text": "Oil Prices Dip on News of Progress in Hormuz Talks",
+      "url": "https://www.nytimes.com/2026/08/26/world/middleeast/iran-oman-strait-hormuz.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T16:20:42+00:00"
+    },
+    {
+      "text": "Trump Administration Wants Billion-Dollar Businesses to Qualify as ‘Small’",
+      "url": "https://www.nytimes.com/2026/08/26/business/economy/trump-small-business-administration.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T16:15:18+00:00"
     },
     {
       "text": "Ukraine’s Most Potent Weapon: The Software Orchestrating Its Drone Army",
@@ -114,25 +94,9 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-26T15:38:54+00:00"
-    },
-    {
-      "text": "F.D.A. Approves the Drug Daraxonrasib That’s Poised to Transform Pancreatic Cancer",
-      "url": "https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:23:53+00:00"
-    },
-    {
-      "text": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T15:11:00+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
       "text": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
@@ -140,45 +104,16 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T14:32:54+00:00"
+      "time": "2026-08-26T17:32:54+00:00"
     },
     {
-      "text": "What to Know About Social Media Addiction Lawsuits Against Meta, Snap, TikTok and YouTube",
-      "url": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trials-meta-snap-tiktok-youtube.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "FDA approves landmark pancreatic cancer drug that’s shown to improve survival - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZjQ2VTNEZIc0ltY0R3cmxCcURlRGFEOTc2aVBURlRrVk1fVmVLeDdqeHd0UFVzLXVyZHZsWWhwNXk0ZjRqZWhDSXF6ZVFKbS12WGNieG5lWWhHWnNlLUhWTmNSOGZYX0Uydl84VUZtSUJXckhXZEg3VEpBcmRESXlzUDVEQUwzMjdFUmVxQnRfTkFpTWJWbl9JUU55LVkzREhZN0VVOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T14:23:44+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Deadly Nepal Flood May Have Been Caused by ‘Ice Avalanche,’ Scientists Say",
-      "url": "https://www.nytimes.com/2026/08/26/world/asia/nepal-flood-glacier-ice-avalanche.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:51:58+00:00"
-    },
-    {
-      "text": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:38:01+00:00"
-    },
-    {
-      "text": "With ‘Killer in the Code,’ Michael Connelly Puts His Reputation on the Line",
-      "url": "https://www.nytimes.com/2026/08/26/arts/michael-connelly-black-dahlia-zodiac-podcast.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:15:13+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T17:16:00+00:00"
     },
     {
       "text": "‘You’re Ruining My Dreams’: C.T.E. Study Adds to Family Tension Over Football",
@@ -187,16 +122,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T15:06:31+00:00"
-    },
-    {
-      "text": "What to know about the Lindsay Clancy trial as closing arguments near - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVBENWEtbkJJV3dqT0hPU2t5dlFpZGE3ZGpMd1VsMWNlM0xxOXdRRVFnT0FwTmxQVG9oU056MGF5ZlMwQ0ZWal9WQWVqazkyRjZIZEhIUTNpcjdtY1NlMklVejhhNzdnMmxWUmR2Sy1EZlhxZXNVQkZpT1pwcklZZG83bEJnbE9aY2lvNW9JQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T14:32:51+00:00"
+      "time": "2026-08-26T16:55:32+00:00"
     },
     {
       "text": "A Surrogate Refused an Abortion and Fled to Texas. Now She Wants Custody of the Baby.",
@@ -205,7 +131,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T14:05:41+00:00"
+      "time": "2026-08-26T16:20:33+00:00"
+    },
+    {
+      "text": "Apple announces September iPhone launch event - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hbWF3dFdkNTRGS0pyY3A0T09jQ0FKeXlwQTNmcnJ2RTFUdHppVU9oTEVyeExjX1g4anRCR3BzRS1uTm9CbHRuRzcwZ1lJaV9LenhKMGhLcGZBVDl5WHBlNzZ2ZXVjbWhKdjQ3cjFYeVJKdWMydjRsUzdfUlQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T16:03:49+00:00"
+    },
+    {
+      "text": "Even as Trump’s Standing Slips, He Slingshots Darline Graham to Victory",
+      "url": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T15:34:38+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Dolly Parton died after a brief period of cancer - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T17:27:43+00:00"
+    },
+    {
+      "text": "What to Know About Social Media Addiction Lawsuits Against Meta, Snap, TikTok and YouTube",
+      "url": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trials-meta-snap-tiktok-youtube.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T17:08:30+00:00"
+    },
+    {
+      "text": "Deadly Nepal Flood May Have Been Caused by ‘Ice Avalanche,’ Scientists Say",
+      "url": "https://www.nytimes.com/2026/08/26/world/asia/nepal-flood-glacier-ice-avalanche.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T16:49:05+00:00"
+    },
+    {
+      "text": "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia earnings - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSWVqeUE4QUV1d0RGQ3ROYVVGUEJobzVCcU95RGcwd3Q5bXh0b3h6YmVWM2dJQVlCZENPTW04ZlRvV1BTcDBqZFUyYUo5Q0RRc0s3YWU3dGpRZmhNUHJzdk5pQkZHX0w2ZWEyTFp0VGxGVnZxY1cxQzNvRlNXVG1pbVJmajhKVWpQZG5xT282cTU2WVRZdDJsa0I0MnVoWmpTSUNkdFNBenlMRDV0NXhCRjRROWRsbEtvZTRqcFpCV2dIWDVwOERndjVNY1VZUENtamNtUEZKaw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T16:16:00+00:00"
+    },
+    {
+      "text": "Red Bull misses out as FIA reveals fresh F1 ADUO results - The Race",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXZSemQ1bFdJaVY4THhFLWc0Mlo4cEpNTHFkZFNGa2dWNkVicWxnNDBQRjcyVUpmbTVnRkR2M0ROQ1lPaGdwWFZIRVVvZVM4Z3lMTGJNVTJBdmxReTlkU3RYeUtSMVo4WUhhWW50X0Z5aUtfaVl0ZWhvaXBEUlAxb1hWZlBNam8tY2pJeTFBWGNZakN0bGFr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T15:47:37+00:00"
+    },
+    {
+      "text": "Meet Dean Roy, the 15-Year-Old Running for Vermont Governor and Ready for ‘Impact’",
+      "url": "https://www.nytimes.com/2026/08/26/us/politics/dean-roy-vermont-governor-election.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T15:17:23+00:00"
     }
   ]
 }
