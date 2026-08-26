@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-08-26T02:00:38.872135+00:00",
+  "generated_at": "2026-08-26T03:26:58.321569+00:00",
   "lead": {
-    "text": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
-    "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-26T01:58:20+00:00",
+    "text": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
+    "url": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-08-26T03:10:18+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "N.Y.C. Officials Defend Second-Home Tax Rollout and Move to Ease Worries",
-      "url": "https://www.nytimes.com/2026/08/25/nyregion/mamdani-pieds-a-terre-tax-homes.html",
+      "text": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1g0Zi1LVEZtRElWZlduNnhGaEltUXdNSWxHR1VaOWVxNzZ6MjA3eTNLU0hQdUxMUldYNHNiY0QyWk1uaHJmUWcwN09mZFBGOTRvcDR0VWpWTzlTZkVfWno5MUtuVHRzMlYxTGg5MkRuQ2E3eUNVb3RBMkpBNUx1VnlYQzFYY1hpb19hQkhIanVDQUo1OUhGLWV2Q2NpSjNrWVlNYVFNYjY1SS1ZNndWOUdyRXVncm1EMGxZMVk5dHVMVlBKcE95S0xuZG0zaXd3ZDhjamZ3?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-08-26T03:07:00+00:00"
+    },
+    {
+      "text": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T01:53:37+00:00"
+      "time": "2026-08-26T03:02:19+00:00"
     },
     {
-      "text": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T01:53:23+00:00"
-    },
+      "text": "US launches new drug boat strike in the Caribbean, citing narcoterrorism",
+      "url": "https://thehill.com/policy/defense/6050947-us-military-drug-boat-strike/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-26T03:01:03+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "Court halts Ohio proof-of-citizenship requirement at motor vehicle offices - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajV2RXRTUXdEdGdFTzRBSkJEYXBXTkluWVM2NGk5dm9UMUxlQXlxT0dZeGVoTEdXcWhWLTNXMHp1QlZKb0UwenJNWEN0a1o4aFY2LUlBYTFPMHNHTFdPY09BS2JaMHZSUXdHTVhQU2NGLTR3NFZaaDFFRzlUSC1zTDRZQXdsQUM4cW9YaGt3dGcyd0ltakVjRGVzeTZWSjEycHJpUGpwVTI2VEoyak85S0dzUXFqSEY3RXFTMzJtUnc?oc=5",
+      "text": "LIVE UPDATES: SQ 846 passes; GOP gubernatorial runoff remains close - KOCO",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTVqUGNrNUhhQkt2d2tiR0lOcHhubDZjc015eVpkNlB2QnZhNXYzZ3VPbDZkNTBIUkEwQ3k1RUZ6RzBOZWo2MWFWcVBQOFRMU3JSTGVqVndxMWh3bFZWckFIdmVydXhWSnUzVUtqdDB1TjNrOUNzSEV2VWQ0cnV6dXlnREFJZHNHLWxvWXRxNUd3U0lXQVE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T01:51:04+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-08-26T02:57:00+00:00"
+    },
     {
       "text": "Dolly Parton’s Death Hits Home for Tennesseans: ‘She Was One of Us’",
       "url": "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html",
@@ -48,7 +57,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T01:49:58+00:00"
+      "time": "2026-08-26T02:09:20+00:00"
+    },
+    {
+      "text": "Musk's SpaceX to build $100bn launch facility in Louisiana - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zWU9HNUtmVGt6TDhqUUxxX3ZYVmpaVUhpMi1PSkVMbEluWEdqUXV1RGVJSjMtY0NUS1FRTng4ZXhTeTJSRkJKSEZIRThtbWc5bEo2THdfVzlpQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T01:32:07+00:00"
     },
     {
       "text": "Trump Administration Sends Saudi Nuclear Deal to Congress for Review",
@@ -60,107 +78,51 @@
       "time": "2026-08-26T01:09:25+00:00"
     },
     {
-      "text": "What Dolly Parton Told Me",
-      "url": "https://www.nytimes.com/2026/08/25/opinion/dolly-parton-death-america-legacy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T00:04:29+00:00"
-    },
-    {
-      "text": "Trump’s Efforts to Sow Election Doubts Get Boost from Initial Court Order",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-voting-doubt-mail-ballots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:52:35+00:00"
-    },
-    {
-      "text": "At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:24:16+00:00"
-    },
-    {
-      "text": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5",
+      "text": "'The Dog Stars' Review: Jacob Elordi in Ridley Scott's Apocalypse Tale - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTG9RcjlNRlk0SE5lc3dIbzNzQmR3MUJlZTlOelVFNzdCeVB5Z3hySzNPRGNkZ001aGgwbk5YVmlBempRUDg5Q19TZ0l1Zlc5TFlTeHcxUlNWaWc2bXZ3MzF4MGdxOWp2N3lHYXo2emdWMkNVWmhkX2I0SEFHbk9JYVJlMVhqS1Vjc2FvVFlUQ08?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T23:02:00+00:00"
+      "time": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "text": "Trump administration violated court order on mail-voting rules, judge says - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FWmIwMWxMM25kOEd1d2pVLUtZSEdGVFllRzJ5SEpDcVFqSkFkUEdjSzgwSElrNkVfZ08yTjB4bGNaUFRQakFlaGtWRDZ1bzltdXI2UHY2X0Z3aXlZaS1NbzdUbjRPT0ZOZC1hUjVSRDdNYVk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T23:56:07+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Dolly Parton Died After Brief Battle With Cancer",
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T01:28:46+00:00"
-    },
-    {
-      "text": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWJ4MHVqaWkzakIwaHRZWWo4SVg5b01UeXhTWWVfeXE4TXp3aXhqNzdMQTFGdFhsODZjSjd3Y0NraWZJQk1PQ2k5bkxhbDJEdnl5TnlPOTYtXzVOdlMtSzBwVlVpU2ZMV1NnT3JBc3U2cjY2RDNZOFBZT1JiNWZmRnBQZldVXzdPZmJ5N200M2s2TE9ScndnRENmbnhSdHNmVVlhTldmckk?oc=5",
+      "text": "Live updates: Sen. Darline Graham of South Carolina, with Trump’s backing, wins GOP nomination to run for a full term - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0dnQVZYRVZBa1A4eFdoVzRrdzJvWGZvWjYwc1BCc3lUU1Vsek5fckhubm1YbFN4eUdxY24yRHFCQkMxeHN0SDk2bnhkNXpNS3V5cmhFeGV0RFFPaDlaM25SQWcwNUlfN0hZWE05cEVLMFRxZUdmem5wT0tvdlFsSnFSbHdfRUZhaXAwUXRuU2h1SW5wYU02REJlNVBUSlk2MEZCNVk0aGU5eXNFNUtONFBNN0ZzYi1VVGVGb0hZZ2VpVTZJeVl5WnBLc2dpOEVTM3pIemJHTldCSEdn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T01:01:32+00:00"
+      "time": "2026-08-26T02:48:41+00:00"
     },
     {
-      "text": "California couple and their surrogate testify in Texas court as dispute over newborn escalates - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZExvZTRSTkFnTFVPb1htOGRmZlhSRnppY0tJM3lDZzl4R2kzMDNjeUxjczhXSmNhR3NQX3pRYjdYQW10eXJ3MzhYemFhV0QxaXN0UFREVlBiUURObjl2T1Nmb3FFcmM0ZTg3dDJXa2EzbGFnSmtBUF9wV2hfcXVwd2xlTDN0WWt2RTNUNFBaRHJ1RWJuVFYzcDBNQ0xFQUlER2cwRHhwYnJwQQ?oc=5",
+      "text": "Dana White's Contender Series 89 results: Historic upset leads contract winners - MMA Junkie",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYk1wcllwMmtDUlJPUTVWd3BLSHVfOGdMWDZhY0IxOERSNk9Zd1I2QXY5QmRfcWNrVGhoNk5NcHpmaUx4VDAwVFdmejIxUERKa0YtaXdRbmhxOTFvYnJmQW1LWlEyZTVxaWJ1MXhBV01zUGNzNUNJbXdqWlRIUTNYNHh5ZkZqOTNnWV9YWFZkV3B3TFpKUFBEX2hJMHBPOVRtUFl0bFlYWlNyaWpMM2I5RllrQ3d3RHRxbmMtWHplNFd6a3dvRlRsbUVaWWZ5TjgtV3RJc21PTjM2QVk3MHBr?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T23:59:00+00:00"
+      "time": "2026-08-26T02:02:00+00:00"
     },
     {
-      "text": "Supreme Court Ruling on Mail-in Voting Could Add to Election Confusion",
-      "url": "https://www.nytimes.com/2026/08/25/us/mail-in-voting-states.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:33:13+00:00"
-    },
-    {
-      "text": "Serena Williams Returns to Tennis and Thrills U.S. Open Crowd",
-      "url": "https://www.nytimes.com/2026/08/25/nyregion/serena-williams-alcaraz-us-open-photos.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:20:10+00:00"
-    },
-    {
-      "text": "New NASA telescope to probe dark energy, dark matter and exoplanets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFdYY1BBZ0twUzM0TFVyVDRHUXk2OXdjbC1ZdXNBb3RyYTRKUVYzV0JJVy1LbVdGWXpIUVhiZTZhZE1MdWdQWmFEajI4NGRCRTg3UmpScTJna2x6NDVLZXBoUmJIdWtkTnFBMEdiV3NPUllaRlVvZkEtaElKNGdtMG1Cb0JvNURIMGU0NDVac1R4QS1lbDVnbGZUei10dXlaOHRNOEZRbGswUkNTSVYycTRFSHE5cE0tM0E?oc=5",
+      "text": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVpaRlUtV2U3Qm1ITjFPc1JKUkgwME5FQkM2LU9QakRfdUxVWkV6WV9vZmlHcFVxcDNZTk9zcE9CUVU4ekhnRGZOX1FsbnpteXhDNjFDbHRSdEZwYUNNVVZhUEJuX1pQN3dSZmFRM1AwdGxWbE9hRFNCMFpnbm52UFpXZDFFWmJBazJRRDNOLVFVQTQ1ZExEUDV4djU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T23:00:19+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Musk's SpaceX to build $100bn Starbase launch facility - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zWU9HNUtmVGt6TDhqUUxxX3ZYVmpaVUhpMi1PSkVMbEluWEdqUXV1RGVJSjMtY0NUS1FRTng4ZXhTeTJSRkJKSEZIRThtbWc5bEo2THdfVzlpQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T01:10:17+00:00"
+      "time": "2026-08-26T01:31:00+00:00"
     },
     {
       "text": "Everton Blair Jr. Wins Race to Fill David Scott’s House Seat in Georgia",
@@ -172,40 +134,78 @@
       "time": "2026-08-26T00:41:09+00:00"
     },
     {
-      "text": "Deloitte to pay $21.5 million to end Trump administration DEI probe - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1BUNk1yak8yOWhCZGs1TmRqbU5jMVJTTm93UHMyZHFLeW9mNi1BeEpCY2N3NnJpSXgxVVF0UEdoemtEZDNYR0ZBWXREenhSRWoyZk15UWxpbW1JNXU1VlZKbUVFak9KOHpZZHlrbEsyTFdWcC1LNWFSc2FRWHk0b3RLLUllMGY1eGZBNjlTX3paQQ?oc=5",
+      "text": "California couple and their surrogate testify in Texas court as dispute over newborn escalates - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZExvZTRSTkFnTFVPb1htOGRmZlhSRnppY0tJM3lDZzl4R2kzMDNjeUxjczhXSmNhR3NQX3pRYjdYQW10eXJ3MzhYemFhV0QxaXN0UFREVlBiUURObjl2T1Nmb3FFcmM0ZTg3dDJXa2EzbGFnSmtBUF9wV2hfcXVwd2xlTDN0WWt2RTNUNFBaRHJ1RWJuVFYzcDBNQ0xFQUlER2cwRHhwYnJwQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T23:55:00+00:00"
+      "time": "2026-08-25T23:59:00+00:00"
     },
     {
-      "text": "Mamdani Lawyers Defend Pied-à-Terre Tax Rollout in Court - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0VBSTNKVmhkcW5HNU1jdWphWXpINF9BbHB2Vm5XWUNEbkwtNUZYby1JdU80TDM2RVNoV09HMkNqb092eTl1SGxoUjVEaU53Nm54eTNEQVBza2U4bUd4M1daTVlpU19aOVpEOVJ2NDNYUzdnVUU0ZTc1X2pzb04zdG9vQ2JTMFVlN3hwLThJcnJobXMwT2RucA?oc=5",
+      "text": "Trump’s Efforts to Sow Election Doubts Get Boost from Initial Court Order",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-voting-doubt-mail-ballots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-25T23:52:35+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
+      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T02:17:48+00:00"
+    },
+    {
+      "text": "N.Y.C. Officials Defend Second-Home Tax Rollout and Move to Ease Worries",
+      "url": "https://www.nytimes.com/2026/08/25/nyregion/mamdani-pieds-a-terre-tax-homes.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T01:53:37+00:00"
+    },
+    {
+      "text": "Dolly Parton Died After Brief Battle With Cancer",
+      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T01:28:46+00:00"
+    },
+    {
+      "text": "What Dolly Parton Told Me",
+      "url": "https://www.nytimes.com/2026/08/25/opinion/dolly-parton-death-america-legacy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T00:04:29+00:00"
+    },
+    {
+      "text": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYU91VUx2bDVfM1V1NDN3eGYtVk1kNzBLUEpUS2tkcW9ULXV2U0NqaVdEUG03aXc2SVd2Q3J4QXVtYWlnbFRpQWszb19mR3JqWTh3RHlKMVZfeTFwalZxLTJMRGhSbHJVeHdHUjlTOVBDcklqVXdLcDYxbXk4VW85VWZpZEhRdHNNTzJiemtnUHlESWx0LWJmbVFQaHVTVzBqbmZRUFRlS3hqN0hWRVkxTlVXWWJDdE1wTk02RUd4cmxKaUU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-25T23:27:00+00:00"
+      "time": "2026-08-25T23:57:57+00:00"
     },
     {
-      "text": "Dolly Parton Had the Voice, and Concerns, of an Earth Angel",
-      "url": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-voice-appraisal.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Experts for Prosecution Discuss Clancy’s Mental State at Time of Killings - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQLUJiZkJVd3E1YVJFekhxbjBlN2ZlMnFKd2VHVWhhcTNHSmVWQkNKc1A5bGhVZENYbUloSmZXckg2TmVxOFpHaVU0bUpGRk5XdDZOLUtQN3BjM1pMd1AzU09EeWE5VG9uQThmOUtkeVI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T23:10:23+00:00"
-    },
-    {
-      "text": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-25T22:58:03+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-25T23:46:01+00:00"
     }
   ]
 }
