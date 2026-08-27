@@ -1,81 +1,137 @@
 {
-  "generated_at": "2026-08-26T22:26:03.951027+00:00",
+  "generated_at": "2026-08-27T03:30:59.501833+00:00",
   "lead": {
-    "text": "Early government projection showed thousands of Americans at risk of harmful exposure after East Palestine train derailment",
-    "url": "https://thehill.com/policy/energy-environment/6053698-east-palestine-train-derailment-chemical-risk/",
-    "source": "The Hill",
+    "text": "Stock futures rise as Nvidia shares jump 4% after earnings: Live updates",
+    "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-08-26T22:24:13+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-08-27T03:22:57+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Meta reaches $18B deal on kids use of Facebook, Instagram: Four takeaways",
-      "url": "https://thehill.com/policy/technology/6053718-meta-pays-states-billions/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-26T22:23:28+00:00"
-    },
-    {
-      "text": "Maine Lobstermen's Association fear becoming 'collateral damage' in Canada tariff war",
-      "url": "https://thehill.com/business/6053700-maine-lobstermen-warn-canada-trade-war/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-26T22:22:35+00:00"
-    },
-    {
-      "text": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-      "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "text": "China industrial profits growth cools to slowest in seven months as economic slowdown deepens",
+      "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-08-26T22:22:35+00:00"
+      "time": "2026-08-27T03:22:14+00:00"
+    },
+    {
+      "text": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-27T03:20:14+00:00"
+    },
+    {
+      "text": "Josh Turek says Kamala Harris should not campaign for him",
+      "url": "https://thehill.com/homenews/campaign/6053965-josh-turek-denies-kamala-harris-campaign/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-08-27T03:16:41+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+      "text": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
+      "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-27T03:13:13+00:00"
+    },
+    {
+      "text": "Trump Administration Wants Billion-Dollar Businesses to Qualify as ‘Small’",
+      "url": "https://www.nytimes.com/2026/08/26/business/economy/trump-small-business-administration.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-27T02:39:32+00:00"
+    },
+    {
+      "text": "As a Storyteller, Tim Curry Had the Gift",
+      "url": "https://www.nytimes.com/2026/08/26/theater/tim-curry-rocky-horror-spamalot.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-27T01:26:07+00:00"
+    },
+    {
+      "text": "CIA Director John Ratcliffe warned Russia not to attack NATO during secretive trip - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUkzMHpwU19pTVNicHZoSm9aY1ZGbndBRXdSemxyVF9LdEVTME1KZVJPOUpnM1I5MC11eE9QUnpjVGJlTkFMdTZ1czhRSzBPZDAxZ2pWNzVxWld4NTAxRWpLbEllcWJQR2RabGpYVUxQZXpNMkt5Nmpxek1IejB5WDZXMUQ1TUFRaVdiSkp0bjBESGlSRlpaNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-27T00:39:00+00:00"
+    },
+    {
+      "text": "Susan Sarandon and Carol Burnett lead tributes to The Rocky Horror Picture Show star Tim Curry - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHTU9ybEtISm91QUwwcElIeDVjd2hiUmZGRE9GTkthUFNZRC05RVdNQllmVW9WSE9fNzVTNndaOXIxdi1vRkFHSFRYUnowVHR5dmNNVFhtSVdTZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-27T00:32:27+00:00"
+    },
+    {
+      "text": "Apple's iPhone Event Tagline is Different in Every Country - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YMFNoc1J6aUx4R01EWWRqTVNtQTRpeXNaR0VnMnRtNFR3aGI5Z3FrS2JScGFiZlh5VzVjcG03UEN5SVV2cEwtMU1MLUl2OFpDZUk0WDNtOURwRUZDVzJFZXpCS0prb095RVBFOWFkcGNIY00?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T23:41:10+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "More than 150 dead after crushing floodwaters wipe out villages on Nepal-China border - CNN",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T22:16:00+00:00"
+      "time": "2026-08-27T03:12:00+00:00"
     },
     {
-      "text": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5",
+      "text": "Lisa Cook Hits Back at Trump’s Latest Attempt to Oust Her as Fed Governor - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBTjJrU1ZxQmZweVpQX3A1WXExcGNCYzdwamdOTkgxc21YUTR6R1JjVmhqREJhRGtWa3B0azV3T1gxRzdXVHpQdG1YMjZjbWVxU3EyWmtKZk5LUWUzRnFzNUFHUkJCREc0MHR5MGc5NUVNdFRmbUxF?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T22:01:00+00:00"
+      "time": "2026-08-27T01:53:43+00:00"
     },
     {
-      "text": "He Once Launched a Grenade for Trump. Now He’ll Be White House Counsel.",
-      "url": "https://www.nytimes.com/2026/08/26/us/politics/will-scharf-white-house-counsel.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Secret Service officials placed on leave in inquiry over ‘potential misconduct’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVB5SG1icGF4dzdvT2xKOG5BQ1pyazVWZnBPQWVKNHlNNVNsMnFnOWdBYmFvaUJPTm8ydXdUTy1QY0dyQXJuTE1QUkJwVXFsdWM4clJOQzBFbXM4SFhXSDVvRG1ybHpFcGxLUTZPMklNR1QwMXFTNm5NdXFJb2xhN1ZwNWFiem10M3IxZGpKdFk2S1N4LVJTWnBobHNQQ1JKX2dfQnVCem80RVhXU3l6NkdYYms2OS1Zd1BRQ2ZSOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T21:44:18+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-27T01:19:00+00:00"
     },
     {
-      "text": "Mamdani Persuades C.E.O.s to Join His Business Advisory Council",
-      "url": "https://www.nytimes.com/2026/08/26/nyregion/mamdani-ceos-business-advisory-council.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T21:35:24+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-27T00:36:00+00:00"
     },
     {
       "text": "Judge Sides With Texas Over Minnesota on Extradition of ICE Agent",
@@ -84,128 +140,72 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T21:16:15+00:00"
+      "time": "2026-08-27T00:21:38+00:00"
     },
     {
-      "text": "NFL ending Pro Bowl game. Player honors will remain, but alternates no longer acknowledged - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXd5ajE2Q0RfcjZpdlUxNERzSGF1c1lGZG4zSU44bW1mc2VqVEMtVUc2VWR1X3F1NU4wb2MtUi1xRldqTm0zX1ZTYkhaVGxEZmJjaFR6OUZuaGxtM1hEU2piREg3bFZEMFZSRnpFUWpONG5xR2piMjFHaWFJVjNMbHFFTVJlSU9zYllV?oc=5",
+      "text": "Big Ten, SEC, Big 12 approve ban on pro players returning to college to play; ACC considering move - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVDk3NVZtX2loMXBsdEI5WUdja2dlQTRqdDF3UWFJTHVpekpqaUZHc0ZtdllsakZWX2lnQXVka3NCS1duYnJUblN5ZTUyU08xV3A1eGRUeGNoWDZiT183NU1GdWtnb2RvNzljb2o2YnVFWXBrYWRyMXhsbFZnZUY4VHZqTWtHWTJhWGMtSk00ODRvcmRCUWt6cUV1ZXpVOHByUVgyYzVXdHdKX05FMVZiRzM5OGNKYzhyQXhnWEdNRHp5b2RZbDhqRm1rVDZIaEpyODZLTHU3ZE5RcktrYTNmdmRSWHJKVkppTUtyc0ZmZWdrZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T20:49:51+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Dolly Parton died after a brief period of cancer - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T22:15:47+00:00"
-    },
-    {
-      "text": "FDA approves landmark pancreatic cancer drug that’s shown to improve survival - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZjQ2VTNEZIc0ltY0R3cmxCcURlRGFEOTc2aVBURlRrVk1fVmVLeDdqeHd0UFVzLXVyZHZsWWhwNXk0ZjRqZWhDSXF6ZVFKbS12WGNieG5lWWhHWnNlLUhWTmNSOGZYX0Uydl84VUZtSUJXckhXZEg3VEpBcmRESXlzUDVEQUwzMjdFUmVxQnRfTkFpTWJWbl9JUU55LVkzREhZN0VVOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T21:53:00+00:00"
-    },
-    {
-      "text": "Maryland Judge Blocks Democratic Redistricting Measure",
-      "url": "https://www.nytimes.com/2026/08/26/us/maryland-redistricting-constitutional-amendment.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T21:42:33+00:00"
-    },
-    {
-      "text": "A Movement to Restrict Social Media for Children Has Taken Hold Globally",
-      "url": "https://www.nytimes.com/2026/08/26/world/americas/children-social-media-restrictions-global-movement-meta.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T21:29:29+00:00"
-    },
-    {
-      "text": "Tim Curry: A Life in Pictures",
-      "url": "https://www.nytimes.com/2026/08/26/movies/tim-curry-a-life-in-pictures.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T21:16:01+00:00"
-    },
-    {
-      "text": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVVSbWExeHlUam9QVzg2SEtXNXEwcG4yYU9qTnBPVWxqZG44ckxpaFhETGRFRWpvY0RZM0MtRDZPR2s3dzZkWndfYW5CR1dSVmZxUVdkOWoxYWxVbkpXaE1vSEk3ZGFQYkltUVZBRjlqT2pPQS00VWNha2ZiUHdOX3RrRmZhTkpGZHNIRXhhdVRNbWRGb2t1RmgxTG9IWlJKQ3ZnUUJXRkJaLXPSAbABQVVfeXFMT3YwUFMxRXpwRnZZSnBfQ2I1UGdnRlBaaHpUV3kxLUVMbzRzZFV2N0k4Q2w2N2tmUEVqWHZiWjdncmdMMk9MUFFnWXJRbzZoVUNValF0S1NmRnR5ODFuMEdTVUlTUnhPZEpObS12cE1hbWtSeC1sZnVpY1VkcGtrREZ0S3ZzTU5LWS0ySGdMYXJUbnRydEtHZHlvVWRzRjJuWENBTmdxX2xOLXliRGVaQ1I?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T20:49:30+00:00"
+      "time": "2026-08-26T23:32:54+00:00"
     }
   ],
   "col3": [
     {
-      "text": "NFL owners approve Seahawks sale to group led by Khosla family - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUh1Vmg4MmJuU0pkY2dKUTJBQ2RrdUF1eDhGVG5wSzdOQUFxSUd1LWZlQVp3WXI3ZTVXZW1tdnE2eFJJa1NkaUwxNlFSbThXWl81a3E0TnFjUUtZWFM4UXlUY2NPejI0OFItczhqd21IXzRldklUSkN4eEpBN1ZtVHRKSUFEdmtJQU9YR214R3Zzbk16LUc5ejFYVkxjQi1VRTh3ZEl6U1lqY1Nk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T22:15:35+00:00"
-    },
-    {
-      "text": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T21:45:17+00:00"
-    },
-    {
-      "text": "Judge Allows Postal Service Effort to Restrict Mail Voting, for Now",
-      "url": "https://www.nytimes.com/2026/08/26/us/politics/states-lawsuit-mail-ballot-order.html",
+      "text": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97",
+      "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T21:40:41+00:00"
+      "time": "2026-08-27T03:09:16+00:00"
     },
     {
-      "text": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
-      "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T21:22:27+00:00"
-    },
-    {
-      "text": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
-      "url": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-26T20:52:27+00:00"
-    },
-    {
-      "text": "Jed York was not spotted at Wednesday’s meeting of NFL owners - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM21fQnAyNmNSUy1LamkzaWwxM3JDUjhkZjF1VFpsM2xqNnFidEdrbWhFX3FxcTQ0QmdHY2NyYXYtWHpYb25aUzFWdU11cWRaNnE1OUJSTVVGQWNUdEstWWxZWDFVMm1XdVhuVGtHRnB3WGdxUmJlVEhVZUFSTURwc1FqZGx0V1c1ejl0a0hiR1JPd2N5RGJMQmdhSENZRkpVVml1blV4cWxMaURocVNfdDEzQzBPODR6Y3JGU3FUTQ?oc=5",
+      "text": "RFK Jr. says Shapiro’s office may have fabricated measles deaths - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVU8zNmdxSmNpQkthaTlKM3RXbDJseDhseW9NanhYUE5xQ1ZIVU84R2xvckVoU2hVZHNRcXgwWlFXdDNnOEVLRThDYm1QMlNpd01vV19xYk9adUFuVWV2WDJLWWFESHM3MUREZFJ4eUxGVUMzNGtPQ3FWSUJIWDU2UXhaaW9hdE05elo2d2tySUhDN0hCV2c?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-26T20:49:12+00:00"
+      "time": "2026-08-27T01:32:00+00:00"
+    },
+    {
+      "text": "New White House Counsel Isn’t a Yes Man, but He Won’t Say No, Either",
+      "url": "https://www.nytimes.com/2026/08/26/us/politics/will-scharf-white-house-counsel.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-27T00:40:52+00:00"
+    },
+    {
+      "text": "Leah Remini joins ‘The Real Housewives of Beverly Hills’ Season 16 - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHFlUjNxZGhtVkVYZ1AyWDc4S0NMU0ZLWHdReC1RNE9DYTJfVUtHbGlaMXAxaG5BNTVsM0ZxME9BXzJmaGstcUNDWlVKbGtjdHFaMlpOUE9PTEhmZEluaTV0S0RUSDVHNkRNYWpwc3ozY092YlU5Z1VNc082M08yZjByRnY0QWZGMG9oUGtORy0tMEt2VzFGWWx1Z19TblFVdFo3SHUtRWc4Z1BTMS1Z?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-27T00:35:00+00:00"
+    },
+    {
+      "text": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-26T23:42:00+00:00"
+    },
+    {
+      "text": "Deadly Nepal Flood May Have Been Caused by ‘Ice Avalanche,’ Scientists Say",
+      "url": "https://www.nytimes.com/2026/08/26/world/asia/nepal-flood-glacier-ice-avalanche.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-26T23:28:05+00:00"
     }
   ]
 }
