@@ -1,17 +1,82 @@
 {
-  "generated_at": "2026-08-29T18:54:22.003769+00:00",
+  "generated_at": "2026-08-29T21:38:39.554486+00:00",
   "lead": {
-    "text": "Nancy Grace Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad - Space",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2x5NzZVQTFfWFU5SGlBNHNIemladENNQjZJQjFKUW81Sm81V0tnVFVxb00tTHFENTRETkxOaTBWaVAwbTlpTGtzZ0hQendvWklaTkFwaHdtZUpzRFdlNzQ2ZXNUaGtPd3JWb0E1NFpUTnlLZk1icEhQRHozeTdwZjRMeUxXTEVOdkZyemRpSVFVWVlsOGQxbnlCVmE0eGdWMHBxdHlMeXdRbFN5eFZhOVU4TWZuN3Q0?oc=5",
-    "source": "Google News",
+    "text": "Beijing expands purge of top generals - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXR4elIxa0dDX3BfUk5nRDhBVkszSERjaG5nOXgxS1d1amFiRVFpWVZfOWNXS0lteFVvU1FtWlVUQnlKMmpnUW1BS0VVU3BfMkt2d0VUbXRJRFRxcXV5NDNfamdaQ1ktN0ZvLXRmNkc4QU9HYzR0VGpZdUc3QmJsVlMyVlVwRUIybGc4?oc=5",
+    "source": "Google News World",
     "lean": "unrated",
-    "topic": "top",
-    "sourceNote": "Aggregated Google News top headlines feed.",
-    "time": "2026-08-29T18:49:35+00:00",
+    "topic": "world",
+    "sourceNote": "Aggregated Google News World topic feed.",
+    "time": "2026-08-29T21:29:57+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Relative of Afghans Who Helped U.S. Military Is Deported to Africa",
+      "url": "https://www.nytimes.com/2026/08/29/us/afghans-deported-us-central-african-republic.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-29T21:25:50+00:00"
+    },
+    {
+      "text": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover",
+      "url": "https://www.nytimes.com/2026/08/29/world/americas/venezuela-oil-us-takeover.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-29T21:11:11+00:00"
+    },
+    {
+      "text": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+      "url": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-29T21:11:02+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Judge declares Rubio’s speech-based student deportations violate the Constitution - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWJYa3FwWjh2bU0ybUkwX1hlNkJMSUp4UXNBamJ4M1pMWUpPVThnczZvdHF2b0pEOEprZ2RFZjU2eFFvbUlyQnNYNnM2VHR1T25ZbEpLbE9sdkdkeXdac2Y0LXZFenlaVTc4NWh6ZzhIMDJwYU5SaHgtbFVVYnFBSl9UX0lWX1hGSW9FOFJ4TG45STNM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-29T21:06:00+00:00"
+    },
+    {
+      "text": "Ontario premier answers Trump’s ‘Lake America’ with giant ‘Lake Ontario’ sign - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekRSeFpiMVh4X2NPd1FIX19aOEl5QzJHSno2RWNTYTkzd0g0S3lVQ2ZhSUVhamtZdml1XzdWNnhvQ0tHZzJ3ZXpOOHVuank5YzM1NzI4NWlCQjlMUjdUWHlteENqWUNMTjh0SnNTUEV5aF9lcXhsTngtbkoxSDFMWUg1cHJJTDB1cEpGT0s4a1ppeE1WblBTS0pwT1V2YXM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-29T20:22:00+00:00"
+    },
+    {
+      "text": "Tennessee governor says he backs airport name change to honor Dolly Parton - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUk1YZ0p3TXRzb01qRWpjT2t6a3dtSTU1d29nUkN3Sjc1dXJvaUdKeS1EVDAxZE1fRFR3NW1rdllyY1REVDFjeGdrczlHTkVZZ2lvRkdWbk9HLWNPZG90YV91dTlzU3BwNlN5S0J4dTd6bjkycHBOTHA3clVLVlV3aDVUXzJ5Vm9EQU0ybVZ6T2d5UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-29T20:00:00+00:00"
+    },
+    {
+      "text": "Milo Yiannopoulos, Right-Wing Agitator, Deported Home to U.K.",
+      "url": "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-29T19:24:52+00:00"
+    },
     {
       "text": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
       "url": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html",
@@ -22,33 +87,60 @@
       "time": "2026-08-29T18:39:30+00:00"
     },
     {
-      "text": "DHS confirms Milo Yiannopoulos was deported to UK",
-      "url": "https://thehill.com/homenews/administration/6059100-milo-yiannopoulos-deported-uk/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-29T18:38:23+00:00"
-    },
-    {
-      "text": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
-      "url": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-08-29T18:30:32+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Relative of Afghans Who Helped U.S. Military Is Deported to Africa",
-      "url": "https://www.nytimes.com/2026/08/29/us/afghans-deported-us-central-african-republic.html",
+      "text": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
+      "url": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-29T18:27:13+00:00"
+      "time": "2026-08-29T18:10:38+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "India’s Gen Z Cockroach Movement Was a Joke — Until It Wasn’t",
+      "url": "https://www.nytimes.com/2026/08/29/opinion/india-gen-z-cockroach-movement.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-29T21:00:03+00:00"
+    },
+    {
+      "text": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-29T20:07:50+00:00"
+    },
+    {
+      "text": "UNC opens Belichick's second season with upset of TCU - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXRLbzRMaExfenBHN214eE1BUFJwaDdJT0ppdUxBTjVzbE53aVd2azNrdktmazBJZ1dtZlVwaXNyOHJEeS16TFJTV1hyXzB3a29LbFlkdXpHTmJHbDEyTlF5aVlfUy1jVy1LQmpvN29COTd5THVzWWJUVWlVc01qMFRqV0FpOHhrWUJmZnpXWHVJWnVkZ1lMYVNpdFZNNDFQc0hF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-29T19:58:00+00:00"
+    },
+    {
+      "text": "Nancy Grace Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad - Space",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2x5NzZVQTFfWFU5SGlBNHNIemladENNQjZJQjFKUW81Sm81V0tnVFVxb00tTHFENTRETkxOaTBWaVAwbTlpTGtzZ0hQendvWklaTkFwaHdtZUpzRFdlNzQ2ZXNUaGtPd3JWb0E1NFpUTnlLZk1icEhQRHozeTdwZjRMeUxXTEVOdkZyemRpSVFVWVlsOGQxbnlCVmE0eGdWMHBxdHlMeXdRbFN5eFZhOVU4TWZuN3Q0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-29T19:12:06+00:00"
+    },
+    {
+      "text": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-29T18:26:47+00:00"
     },
     {
       "text": "Multiple baby goats had rabies at North Carolina mobile petting zoo, attendees urged to contact local health officials - CNN",
@@ -58,45 +150,45 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-08-29T17:49:52+00:00"
-    },
-    {
-      "text": "All of Dolly Parton’s Former Homes, From Her Tennessee Estate to Her Charming California Cabin - instyle.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2ODNSeFlZOS1GbnAwTTNBU2ZjWVlCS19fX0N4amZwV1JWdDlxSnFYMWN1Ql9vYnhWSXMxRVQ2SzBUU3ZYUjNzdHVzSzg0Y3QtM1EzUkdCcXdkYWJuTnZ4VEpaNGVJZFI1SXltZFg4WTI4T2NwYmg5cTVsMTU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T17:30:00+00:00"
-    },
-    {
-      "text": "Anne Hathaway Joins Tom Cruise in ‘Days of Thunder’ Follow-Up; Paramount Sets Release Date (EXCLUSIVE) - Variety",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMHJvZkNoVEVjMnR0VzNzcG1vQ2o1cVZ2c2pFYzRKNVZ1RUNVVk9lY0k4dFNoUDVuVU9RX0E0TThoRzI2LUhSNDg1cFc0OG95eDZjYWJyUkVGc01NR19MaXNMd0FoY2NFaWhhS2JzanQ3X2g0ZmEyQ29VYmc2bUZTeXdVNXBDaTdJZTNRU3pTZzJRWF9WdWU3a0lR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T16:58:00+00:00"
-    },
-    {
-      "text": "What Lake Ontario’s sailors think of Trump’s name change to Lake America - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnVvSkVBX0RPSDMwOGpRV0N5N1RLUFFZYkVkVF9XVTI0RHlHVWgxMExWQlB5M1pFWWhuWE45OXFiTWFyTTc0dERYXzFSamprSEJSMHp2WThzN190V0ZBbXRTREtBMzdRQ2NJWG5ucjBFX1hxa1JiQTBHR2d4Z0N3OU1reVBUOXI5bzhCYWtmZm9ac2NxVTRtZ2RDV3hzTEVmSVh6OA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T16:33:33+00:00"
-    },
-    {
-      "text": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUw1cUExcWtnWGZWQUw0c241d2pVZEpfaVV4eHdpWkVzUVQ2cENsVEo3Um9PMkE2a3hHaWJfVXpYRnpXaGk2ZmJWTFhNSWdVUnozczkzejlmVHlkUHEtYW9fQzFyUWhra2h5UTJ3NFcyc2t0WDdSamQxWnlEbWJfYU5NVVpKQzhXS180V1Z6cExiWklVUWlNdGx4TXViZUtEQ25jSHNuTFZLN1pTV0VYQzJR0gG3AUFVX3lxTFBCekRaVF9QYmtULVVYQjlXblBLa1lSSlZXdVB5bVdOdHQyTk5GMUF3WVMtV2RuSFFsYnE0SzdVYnQ1TFBxLTgzUXJNZFhISU1kVUZkSVJ6ekZOTXZwQ3JXc1JRS1JfWm5BWHlRR2FUU25GR1J3b0plOUg1ZWF2OGktVU0tZUkyRDBMQzVieUUyOG85MW5sY0ZEODlVM3F0Z09GZ0tlZkhGbDREZ0ExZWhqY2RmS09zbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T16:25:55+00:00"
     }
   ],
-  "col2": [
+  "col3": [
+    {
+      "text": "Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates",
+      "url": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-29T20:39:23+00:00"
+    },
+    {
+      "text": "British far-right provocateur Milo Yiannopoulos deported by ICE - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxjcFc3WTRjX0tnRWJSU1hDUnNCODh1cm5oSm5IVFZEbkloOC1TMWlpamVKbjBsZ0ZCTWFSNWg5YVFRSndheTFNN2NmUGFEcnprUmRPcWMyTzBsMjRFZnlXc0NmRXJmRTA0ZkpIWFZ2YWFQQ2V4VXBEUzBzQk8wWTcwc3RkMERCcVRFNTg1bHppOGZrczRqakZhQWplajVEX1N4Z25pdHBwWTg5czhpeVNqNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-29T20:01:36+00:00"
+    },
+    {
+      "text": "Nepal flood death toll rises to 675 as nearly 2,500 remain missing - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlhDSkRCbjF3VHg4eTZ2X2VwcndGdW5Yclh2a3BiZUx3RlZ2cDk0Vzd3Q2Y0dFhsa2ZjUThLeWQxTlZqMzhGclhIMXlFWWtsc2JYblJxVjRZNXB1dGtZU0NWR3BGNTR2NzNQMU1fdmxpY2NWTHFyODBCczBjXzdLZW82T3pkaHpLYjRDYzQ5RURacVo1N3RLX2F1TV8zRVVs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-29T19:36:31+00:00"
+    },
+    {
+      "text": "‘Days of Thunder’ Sequel: Anne Hathaway Joins Tom Cruise, Release Date Set at Paramount - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEltbGxJV2x0UnBob1UwRFlTV0hLSzZxTmEyZ2dsQXF6YXB0LUZ2eGFJWTJUbDVpS1lPTTlEM2pZX1pDLWc3c3NhR3MyekhSMy1XQ3BRRmtkUjZ6U0tZVzRSOF9ycGVkRXVNMEpBT1RpbWI2U0hXLVhRSkpCRjBUS1NkU09KSHVqVDE4Ri0tT2N3Y18tSW9PcTR3LVg5YUhvRkdBTFBHak1fWjhDWG9nZ2N0NzlWTmZwYkdz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-29T18:50:12+00:00"
+    },
     {
       "text": "How Trump’s Deportation Agenda Spreads Overseas",
       "url": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
@@ -114,98 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-08-29T17:49:37+00:00"
-    },
-    {
-      "text": "Right-wing commentator Milo Yiannopoulos deported from US to UK - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41STNneTlxSENqbHF0Z0dTa1ZwaG1jSUlNcW43Mk9SOW5idVp1NHp4dGZwSEZvWlRna2NST3dEOUhlcTFHbkNnbEVwUmVmT29aU0dfN0kzU3o2Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T17:25:01+00:00"
-    },
-    {
-      "text": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
-      "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-29T16:53:10+00:00"
-    },
-    {
-      "text": "Tens of thousands mourn King Harald V in Oslo as Norway enters a new royal era - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmNzTko5NFY4RGZra3B2OWxDX2VTRGluTjd3UmJ1ajdWX0JvMnJsejdUV0pLRGtINnFtRUl3by1aSTd2d3NuRjl1VU5xZ29SWGJTeDFjZTV6WDZuUmtyV2s0Z2NBcVNtZlVwNVlTOXUwZ2lIZldFZk52WUdlZGZ3eUNlZGs3UXFDQTFEUm80SlRTUmpQaG4zMjZkdkRDWkFoZzdN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T16:33:00+00:00"
-    },
-    {
-      "text": "Lil Nas X Announces Mom's Death - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53U3VWV3NLd25vcm5ibTBQSjFkU3EzMUpQVnFzaXpSUkR0Q01ZSUhhNDNDc0ZUZWtMbE81NjY5c3dZNWFHN2J2S1BBN0ZNRjVTanlQcTdSYW9CWE9YSjFBV3gyUHk2ZmtJV0dPVmwtYw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T15:30:12+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
-      "url": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-29T18:10:38+00:00"
-    },
-    {
-      "text": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
-      "url": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-29T17:34:45+00:00"
-    },
-    {
-      "text": "Pennsylvania commissioner accuses Shapiro of 'deceptive' measles death framing as RFK Jr blasts Dem governor - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQek1zVmdyanVXTzN5NE84SXNIeTZkeWtSSENlb3FFc2szMWFTalJxZVF1WVVmYThVZjBmR1VrbFJ1SzNsZWJSWllXNEE3aXV2eGRIMlJMNzczWWFvQnhQS1hoNVJMWlRhTmlJZDRvNVYzTEJYeEZabXhpbTh6aDNLalV4NHlRWjZmdmZ3SWdJbGloOVNjemJKZVhybEVHY3owMlRmc0piVEpOR1lTejM3S3hFSzZ0ODZyanRBcldXTjZUYmJsaW9PQUN0LWZ6Z9IB0wFBVV95cUxPVFl0NGJwbV9SREdCUFdsUy1xMHNhblZEa3JrTU96WmhfcVNpcFlDZzZYTm1EYmtMNFRJa2FMNEpHWGRNU2JIS1k2aEwtSmxmY1ZvWFlqYkx2dUk5MWNHQjZ5ZmRLbnlodjRkb1dmRzJCaEMxUFBvY0V1ejNNNUkyMHI2enVOay1NbGZxN1l0dVlIRlVhZTlxR05DOXlldUFLN0JIQ1RzUGNpcWhtOXgxY29BdE80eUZsR1pqT0FEZHNMMGJEcXVnT0ZZV3lJenp5WXQ0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T17:07:53+00:00"
-    },
-    {
-      "text": "An ICE Shooting, an Extradition Showdown and the Federal Case That Stalled",
-      "url": "https://www.nytimes.com/2026/08/29/us/christian-castro-ice-agent-minnesota-texas.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-29T16:40:55+00:00"
-    },
-    {
-      "text": "Trump says US has a deal to take huge stake in Venezuela’s oil reserves - Politico",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE9lVk5pOWR5dkhyZnBWMUhENEMtcVQ4ZUplS1VlSTFlRVVTSUdEb2JGdUlkNzFJS09BYzNCYl8tTmhWT2locy13eW9ZLWsxeTVhZzd5NmdMU1A5UXNJWUNzYjhpLTJjU1p6VXRSVEpDQWJFcmNBdjNqeFgtQWlVbm1sV1V4S2lnRFdlSmZmR0h2c1lnamRwR1BkbFBfTHJqX0pfMjQ2Z2xyX3BKUExCaEdJbU9MdmpXNWxJZQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T16:32:00+00:00"
-    },
-    {
-      "text": "Liverpool 2-2 Nottingham Forest: Andoni Iraola frustrated by long wait to make substitutions - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VZ3dma19YNjRKTUJjT2U3V2NHUEV5Q3hDS0JEOUIyTk5UWm5VakVGSjcxTmR5R3N0eWJoZFFMUC1KTXZVV29zMmh4ZzNWZ1Vnem1yM2VqTW9ZOHFCYXNvZnVhQXNndDg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-29T15:27:43+00:00"
     }
   ]
 }
