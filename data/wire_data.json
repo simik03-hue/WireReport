@@ -1,46 +1,129 @@
 {
-  "generated_at": "2026-08-31T15:30:09.046995+00:00",
+  "generated_at": "2026-08-31T21:03:14.466009+00:00",
   "lead": {
-    "text": "G20 meeting live updates: Bessent, Warsh kick off summit with growth-focused remarks",
-    "url": "https://www.cnbc.com/2026/08/31/g20-finance-meeting-live-updates.html",
+    "text": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
+    "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-08-31T15:26:37+00:00",
+    "time": "2026-08-31T21:01:43+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump: Reflecting Pool 'almost completely fixed' with improvements",
-      "url": "https://thehill.com/homenews/administration/6061024-trump-reflecting-pool-renovations/",
+      "text": "Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month",
+      "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-31T21:00:40+00:00"
+    },
+    {
+      "text": "Bessent pushes back on Druckenmiller critique of bond intervention",
+      "url": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-08-31T21:00:15+00:00"
+    },
+    {
+      "text": "Trump approval dips to new low as Iran war weighs on support: Poll",
+      "url": "https://thehill.com/homenews/administration/6061903-umass-poll-trump-performance/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-31T15:26:18+00:00"
-    },
-    {
-      "text": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-      "url": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-31T15:22:43+00:00"
-    },
-    {
-      "text": "End of an era at Apple: Tim Cook's last day as CEO",
-      "url": "https://www.cnbc.com/video/2026/08/31/end-of-an-era-at-apple-tim-cooks-last-day-as-ceo.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-31T15:18:48+00:00"
+      "time": "2026-08-31T20:52:26+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-31T20:41:00+00:00"
+    },
+    {
+      "text": "Death Toll Rises in Grand Canyon Flood as Search Continues",
+      "url": "https://www.nytimes.com/2026/08/31/us/grand-canyon-floods.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T20:17:10+00:00"
+    },
+    {
+      "text": "US health officials exclude measles-related deaths in Pennsylvania from counts - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-31T20:06:00+00:00"
+    },
+    {
+      "text": "DOJ Issues Grand Jury Subpoena to James Comey Confidant Daniel Richman",
+      "url": "https://www.nytimes.com/2026/08/31/us/justice-department-subpoena-james-comey-richman-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T19:32:37+00:00"
+    },
+    {
+      "text": "IRS Audit Revenue Has Plummeted Under Trump, Watchdog Finds",
+      "url": "https://www.nytimes.com/2026/08/31/business/irs-audit-revenue.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T19:29:09+00:00"
+    },
+    {
+      "text": "Live updates: Donald Trump rolls out new lower drug prices; House returns from recess - thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd01lQ0NuTjFyTUtBbndRY0U1M2tNNGxhU2RaUUNuNkYzeGhBc05GYTByVnNWd1VQZnFRNXBXQ2pIN0NtbUZVcnlxRmtyQWRCM0Y3NnUxbzFROXBsWWpVU1cwMXNRSk1aSlpjUU1xMS03WjdZd1pPaEoyTFBDRWo5UEZFeWZWMnRxSnhWc3BBaTFkVFF3RkUwWWFB0gGfAUFVX3lxTFBsemZ5NVJyQmVkQ25pY2lUcDJpUm1iQW85bnV5Zk1xbC11ZzdiclZ1V0p3dXN1YkJJdnAtRUlfTEpJY29GdFVSQVBJazZvMm51UnRzZXFXOERaZlQ0aVRLM3I0QkdKREc5OXdRRDVGeG83VC1Xdmh4MnBnWnE5MXJlcjZpQ21WdVp4ZGZSRlhzSm83WmMxbjRLZ09pV2VKdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-31T19:19:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Olivia Rodrigo’s Daisy Chain Fields: A New Feminist Music Festival Takes Shape",
+      "url": "https://www.nytimes.com/2026/08/31/arts/music/daisy-chain-fields-olivia-rodrigo.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T20:27:33+00:00"
+    },
+    {
+      "text": "Houston-area school closings: Districts announce closures, delays due to Tropical Depression 5 - KHOU",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdG80VU1iSGpfSHgtdE1sVDNobkNOQ0Zvbm9pOWVNQ0lYSC1xY0VxcmxmVUEtQjVzRmNuZ0R5NVRESjliWnRwcHZFTDdhdThfeldOdFlhMDFyWGVuM0xSVllndjh3dDJPV1ZQUlNDUm5RZ003djFWRHV3VGVDeEZBb2h5Q3BhdUEtUHhIbGlVVmxzcmVpRy1vNm9FYTFrb0F4RFJfM3VWdUotTEhna2hia1lqUHBiNXlnaThoR01mcEhkSXNJaUE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-31T20:16:00+00:00"
+    },
+    {
+      "text": "FTC and 22 States Sue Amazon Over Advertising Practices",
+      "url": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T20:05:56+00:00"
+    },
     {
       "text": "John Galliano Bows Out of Met Museum Show After Criticism Mounts",
       "url": "https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html",
@@ -48,63 +131,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:39:11+00:00"
+      "time": "2026-08-31T19:30:08+00:00"
     },
     {
-      "text": "Americans Hate Data Centers. Why?",
-      "url": "https://www.nytimes.com/2026/08/31/opinion/data-centers-ai-populism.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:35:18+00:00"
-    },
-    {
-      "text": "After Floods, Grand Canyon Opens on a Limited Basis. What to Know.",
-      "url": "https://www.nytimes.com/2026/08/31/travel/grand-canyon-reopen-floods-what-to-know.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:18:17+00:00"
-    },
-    {
-      "text": "Missing in Nepal-Tibet Floods Reaches Over 4,700. Here’s What Else to Know.",
-      "url": "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:13:41+00:00"
-    },
-    {
-      "text": "Tropical Storm Edouard could form in Gulf, soak east Texas - The Weather Channel",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHhHX0tPdFZEMlE0LUZLa1pwZUhtb21Jamh6WldlQ19nZkxWRE5YWTFKNU9iWG1Ba09LNGtZb04xMlI2Y05rSEwyYmFtRHEzNUdkUDZTZkRfWE9BTVhJRmtYdnV4Nk1JZl9Tck80WTRoSkdxWEVTTUNsRE84N1RaRzdWbzVORjNxZlRiTU1HRDFtZFpGM201b0xnMFhFX0p2aUIxZmV1bw?oc=5",
+      "text": "Iran’s economy in crisis as US launches new sanctions campaign - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T14:06:00+00:00"
-    },
-    {
-      "text": "Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.",
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T13:22:14+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "What Is Phantom Ranch? Inside the Grand Canyon Lodge Hit by Flash Flooding",
-      "url": "https://www.nytimes.com/2026/08/31/us/grand-canyon-flooding-phantom-ranch.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:38:45+00:00"
+      "time": "2026-08-31T19:25:00+00:00"
     },
     {
       "text": "A Principal Saved 900 Students Before His School Was Washed Away in Nepal",
@@ -113,55 +149,10 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:34:04+00:00"
-    },
-    {
-      "text": "Ex-Congressman George Santos Receives Kalshi’s First-Ever Lifetime Ban - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMktYQnlJWkZqcmNUOXBzMkE0dXpCYzFhRGpoNmxkRU92TWJwSHlYU3F0NVR4MkNkVWN0Y25LT3dPcEYybjlTdWxGcHZuQThXWmtCY1o3TExGQ1pvakJhY1NWanh4OWUzVWU3U3ZJZ3FZOWwyLUNVTEk3RmRtN01BWW5hS19reV9qYWg3LTVPUDNQQlIwcmxlZG0tVUFSeXVmNnN6aHI1QTNPR0U?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T14:14:00+00:00"
-    },
-    {
-      "text": "China Prepared for One Kind of Himalayan Flood. Then a Different Disaster Struck.",
-      "url": "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:08:31+00:00"
-    },
-    {
-      "text": "G20 finance meeting live updates: Bessent, Warsh to give remarks - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZMElCdDlGOFVqV2JqRFRpeEktUTRfYW51aXpYaEtVY0FzMHRNMEFjVWJkYTJxSWZlNmtnbEpoWnJLMFZRamVQOVB0WUpoQmNMNmprUmNqVTJLZXl6X280b0I3RzdXUWtlN1NLY0oweWROVnF1dGhmY9IBfkFVX3lxTE15NDB3VXpqX1ZsTXNqcGhOSmdJMDN1NzFONnU3UkhQNEpQT3VMU2M4SG1WZ08xSHZXZXJ3b3ZvTWdfQ2VRMVVtdGkyNHc3cXZ1aFQtTHZXa3RSejdSeThSTjlmdE9EUXVZVnlXcV9pSjdaMG41b2o5aEZOa05OQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T13:51:00+00:00"
-    },
-    {
-      "text": "Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1RaRjJaenRoMjVSVG16Nmx3Ym0wV3IxVy16WXVFT1NqdVRncm9SQmpMNnhENDRORmRxdkZ2bk51R210NVVvUjNkUGljaUNzYmZPemtSOUVVUmJNVjM1VFJGOEV2bDF1N1owR3hZb3ZBU1NMekNyU182dmxzTEU4aC11NVFTOHBpNk03MVkwOVRsSnBhMGNNazY0UjdzaU9Od0UxUmR2akdBaVdlQXJXcmxpWWQycnExd1dIUExfMVlER3Y1WENTVGZ3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T13:21:09+00:00"
+      "time": "2026-08-31T19:16:35+00:00"
     }
   ],
   "col3": [
-    {
-      "text": "One Dead and 15 Potentially Missing at Grand Canyon After Flash Flood",
-      "url": "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:36:07+00:00"
-    },
     {
       "text": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
       "url": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
@@ -169,43 +160,52 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:24:30+00:00"
+      "time": "2026-08-31T20:21:06+00:00"
     },
     {
-      "text": "Howard Stern Cuts SiriusXM Show to Once a Week, Inks HBO Max Deal for Streaming - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlNPNXY4WXZ6T1lCOUg3UmNjS0ZocGQ3ZWFTSTlSZlhSUzl6UEhEWEduMzRJMkJNdGdmOVBlUkZsOS1NRnpnWWZzYzlxWUVScDQ5UWFzQlFJT1BZQzAwakF4MlowNEJCMjlOR0JVX3ZMRlk0SE9seUFpaWNPaUh3MDBCMEJYME43T0xreEpaZmpySHd3UnNHMDZ3bkRZX1BPeHNRMHpxS0Q3REZTRWtDc0M3cw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T14:13:43+00:00"
-    },
-    {
-      "text": "Warring Cartels Target Women in Mexico",
-      "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
+      "text": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
+      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T14:07:57+00:00"
+      "time": "2026-08-31T20:11:10+00:00"
     },
     {
-      "text": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "text": "Supreme Court allows Trump to move forward with White House ballroom construction - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbU5sR0RfV1QtM3kyTWR4X3dwSXh0Y2EyRE9IVE1JSWdjSVJWaUJxM25MaktlRExhRlpKRkhQYnFxeXNLYUdXSmVzUEtJR3QtUDVDZjVlbURzS0NaWnlaYm1sS3dvTnFIa1gtb2ltUjdQdmpGMHY4c3VRalNmOGhmdld2c3VITVQ2SGNtNFRjZ3ViTHc1ZjlGSldvQlNjbS1qOUpPWjFLTmstU2ZmczRaTnR6bXdpeHlwV3F4UzBWdkk0WVhjRWkw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T13:35:00+00:00"
+      "time": "2026-08-31T20:05:00+00:00"
     },
     {
-      "text": "Ella Langley honors Dolly Parton with emotional 'Jolene' cover during Alabama concert - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeExSTXJIbF9lRkIyV2QtUGhyZVUzMElTc1F2VWNiU092WDBMeUlra0JWSVowbkpuR0NzRTdDa25pb0dSMHlvRnFpZVUwdkRYLWRuUXpOSDFUaGh5R3I0MW51M1djYTk4elhxX2NNMFNyM0Z6RlFKSzJqaEVqdFJpQm9ZaGRNSC11M3paMk9oTmZra0J2MjNkellOSEZPODNabWpuYU5DWHgzVHVCNF9IcA?oc=5",
+      "text": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T13:13:28+00:00"
+      "time": "2026-08-31T19:30:00+00:00"
+    },
+    {
+      "text": "Democrats Have a Trump Card for Attacks On Wokeness",
+      "url": "https://www.nytimes.com/2026/08/31/opinion/democrats-wokeness-republicans.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T19:20:31+00:00"
+    },
+    {
+      "text": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
+      "url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T19:04:43+00:00"
     }
   ]
 }
