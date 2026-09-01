@@ -1,128 +1,72 @@
 {
-  "generated_at": "2026-09-01T10:31:54.154644+00:00",
+  "generated_at": "2026-09-01T15:13:19.619646+00:00",
   "lead": {
-    "text": "Teen girl charged with murder over recording of San Diego mosque attack",
-    "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Property Play: How one of largest student housing investors sees university markets changing",
+    "url": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-01T10:26:50+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-09-01T15:10:50+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "13 fastest-growing jobs that pay over $100K",
-      "url": "https://thehill.com/business/6062174-fastest-growing-jobs-100k-salary/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-01T10:25:10+00:00"
-    },
-    {
-      "text": "Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more",
-      "url": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-premarket-nvda-hood-nvs.html",
+      "text": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
+      "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-01T10:19:12+00:00"
+      "time": "2026-09-01T15:10:28+00:00"
     },
     {
-      "text": "GLP-1s may work by activating an unlikely weight loss ally",
-      "url": "https://thehill.com/policy/healthcare/6062638-glp-1s-unlikely-weight-loss-ally/",
-      "source": "The Hill",
+      "text": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
+      "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-01T10:10:40+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3lDeFpHVlptcnBMcThtNzhEVVM2d1AyMkI5bVQwSUlCQjhWd0VhbXdqaTF2NzJUc2FXSHpJX20zTVBmRlkxMG5BWXptMTQzejdQU3hqQUZHcno1bldsdE5iUG5BMFY4cUNBMDBfaGE4RG9jSElQSndGNGNBMlNMdXcyTFJaVUFhS0trQnJncFRsMExRZGluZFVOVkgzUHlFYWptTkNjQTc2OGFXYWc1Yzl3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T10:08:28+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-01T15:07:58+00:00"
     },
     {
-      "text": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T09:56:54+00:00"
-    },
-    {
-      "text": "The U.S. Military Must Learn to Say No to Trump",
-      "url": "https://www.nytimes.com/2026/09/01/opinion/air-force-military-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T09:02:45+00:00"
-    },
-    {
-      "text": "At 70, Yo-Yo Ma Is Modeling a Way to Be in the World Today",
-      "url": "https://www.nytimes.com/2026/09/01/arts/music/yo-yo-ma-profile.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T09:00:21+00:00"
-    },
-    {
-      "text": "A New World Order Is Coming. We Aren’t Ready.",
-      "url": "https://www.nytimes.com/2026/09/01/opinion/world-order-international-relations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T07:20:49+00:00"
-    },
-    {
-      "text": "Army Secretary Dan Driscoll resigns from post - Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T06:47:06+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Whistle-Blower Says Trump Officials Are Defying Court Orders on Voting by Mail",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T10:00:16+00:00"
-    },
-    {
-      "text": "U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad",
+      "text": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
       "url": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T09:03:01+00:00"
-    },
+      "time": "2026-09-01T15:04:17+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "The 100 Best Easy Dinner Ideas for Right Now",
-      "url": "https://cooking.nytimes.com/article/2026-easy-dinner-ideas",
+      "text": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T09:02:05+00:00"
+      "time": "2026-09-01T14:50:57+00:00"
+    },
+    {
+      "text": "Satsuki Katayama, the Woman at the Center of Japan’s Currency Fight",
+      "url": "https://www.nytimes.com/2026/09/01/business/japan-finance-minister-yen.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T14:09:36+00:00"
+    },
+    {
+      "text": "JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech",
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T14:01:39+00:00"
     },
     {
       "text": "How the Supreme Court Locks Away Its Own History",
@@ -131,36 +75,128 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T09:00:12+00:00"
+      "time": "2026-09-01T13:59:33+00:00"
     },
     {
-      "text": "Duane \"Keffe D\" Davis found guilty of 1996 murder of rapper Tupac Shakur - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzYkFSbHhzcmxhcEVONzVUekFjaWFlQkxGVkEyR1h1YURKUFRLZmZSTk5INmt0UEQ2Nm80MTYzbUxQbW5walZIbU0yeFByUURJN3ZqZFQ5X3E5dw?oc=5",
+      "text": "Mel Gibson apologizes after mocking sign language interpreter onstage - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnN1T2ttSmtMcVBuSUZ2bG95OFpxUU1TV1FLZXpuOFJJUUNEOUpNTzdfTmhmblBla3pEMXBBUkxIX2FsdTlqUjRCNW5ZODY3dnU4Q3EzMEFRa2I2NDBwdFl1N3BaOG5DcGoxblp0dDFMSjJGMU8wVkFxeGpvVTl2cmNIQUMxWDZVS1NJUUM3RjNEeG5neDdfN1VsZEhWekZ0dlU0XzVSa3dOaklrTVJVNmRsZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T07:02:58+00:00"
+      "time": "2026-09-01T13:18:05+00:00"
     },
     {
-      "text": "Chinese rescue work in Tibet flood disaster zone still trudging along days later - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYml6a3lySVRlNG81RGpQVmFWa2w1MGUzZnI4RDE2YmRoUUdFMXRaaHdyUkp0VWlJOEYxOUxHcG9NSXpjSzQyYzNNbXdOck5LY3NubDR4cHhQZUw2TVU2R2ZJdWF6Z19ndUl6RWhycFZaYkUySGQ3aWc1OWRnb3MxUWlGeGZRUkRfS1ZVWW1QS05oUS1yZmlUZjM1QTMwVjVSMlB0UE9jZXdqRnJNYjNhNzJvbzF5ZGV2NDNnems3VGdSVUExaDg3VjJFdmNHMzg?oc=5",
+      "text": "Dow futures fall 300 points to kick off September as global bond yields rise: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hazhOTnRDN2llRzM5b3FMY1d2X1pxaVZqN2dEa3h0Tm5lMHpES0FXS0xaRUlDbFMxYTJhQUxObjVyQTduNGdEU1l3ZHc3Q3BMaFFVTU5MNHpfdmtnd1JKLTNoODUzOHJaQktsQmJBQWVVOUNMVk1r0gF8QVVfeXFMTTJhei1Nc1M2SmNlZ1N2UG51VkJTcEVRcEhIdW5vZ1dGUVhXTzRGWi1lR256M1ZNYXJmT3phRzBqU0VSTTBZeWFMS1FlVW9sdUkzRnpLTUJFUS1NZ0ZUN2ttc1RpYTUwRi1XemZMbnZpT0Z5SlRMbklHYlNRZg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T06:35:00+00:00"
+      "time": "2026-09-01T12:49:09+00:00"
     }
   ],
-  "col3": [
+  "col2": [
     {
-      "text": "The Supreme Court’s Secret Documents, and an Unusual Order From the C.D.C. Director",
-      "url": "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html",
+      "text": "Lindsay Clancy Murder Trial: Jury Struggling to Reach a Verdict",
+      "url": "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T10:00:10+00:00"
+      "time": "2026-09-01T14:32:58+00:00"
+    },
+    {
+      "text": "Ozempic Maker Novo Nordisk’s Investors Are Nervously Looking Into the Future",
+      "url": "https://www.nytimes.com/2026/09/01/business/novo-nordisk-ozempic-wegovy-glp1s-stocks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T14:06:34+00:00"
+    },
+    {
+      "text": "Iran is again talking peace after Trump's warning of retaliation, consequences - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUlENTlQdV9BcnM2RGVSajVRRVhCVTJRQUFIS1ltdmNjWHVBczlVa3o1ZFpNa2dMemNkdUxma2ZYYmVMYTV0VWptYUxLX2dKblp3cG9VZENaZmgyMTFXT294MjdEQ204a0NheDdMY011dDRDWndpaDQyajdrRzdYUUxWVXlURVp6Z01iWWstM2hKdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T14:01:15+00:00"
+    },
+    {
+      "text": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3BTRFVuNEVtODZNbS1CeU45elVlc1RLWE56SnZib3lJdWhCU19OejZLZUtJdTZ1aDNSM21fYl9iVzlra241clVpMGI3OWVIZDktNC1EdUJ3R2J0ZE1FZkRyYm5XNXNfeEY2bWpwTmxpV1hUby1BOXhlOXo4ckdmOQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T13:52:00+00:00"
+    },
+    {
+      "text": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GYTlVQ2xhMUttamkyWXlHckFBdmljNjBWbnJKRERuQjJJanp0MGZQOU5UMFVPc0Vac2lualhDbV9qMlhZM2tBZ0hqc1ZkMFdUMkRFZ0hOR3FRbkdaSXk2YnhlQVFERjFxUGhaVUU2MWxGOXJS?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "text": "Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWhfenVoMUN6dnRmLWZVQ2c5bkZKQTBRRG9XRjEyOHZSTVp1MVlTMTh2bkRzdGRvZXRIbUJGeFhYbjBkcDZXNVgwa2lXZExTREI2VWJ4dzc4aHhIYkRzNFFrMVMzZGFhdTZqR29IVE04cURuM2xlQ1ZOR2NnMk5Hd09Bbk84SS1vWHY2bmo4QkZLc19rTnBQeUxDcUQ2TDlOTlBkLVVqbkZlVXZYbEJZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T12:43:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Microsoft Outlook Hit by Exchange Online Service Outage - CNET",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUl2YW1tRkRvY3hKNW5SUDNONERVYmVuQXUwR2JSS0dSVk1IcGdnU19zU1RmeHhqUUJ5ODJacE1RLTEzSEpUSFRmaV9oUFZ3WUtMSFZZTnJTSDljVF9Uanc0bVd0QnAzRU1ockVGY2RoX1YwUDIyc19kZE1HaHR2NldTc0U3LUk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T14:18:06+00:00"
+    },
+    {
+      "text": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
+      "url": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T14:01:45+00:00"
+    },
+    {
+      "text": "After two years of turmoil, Sonos attempts a triumphant return. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmJSVi1SWVhEVlBvUFdpZHZGZ0VtV2QxOXV6aHJjcGkxMEpKUG1TTG0yYTFTVkpwaVhqVDRuYkxSMWZyZVo2ZTU3R3VHQ1Ztak95TlZoTTg4ZlF4NnFqODJkWDBpdnNuZ0gyYTk1WTdTdmh0YWZlWEF6TkkwRUlvMFBVc2RHQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "text": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T13:30:10+00:00"
+    },
+    {
+      "text": "The 100 Best Easy Dinner Ideas for Right Now",
+      "url": "https://cooking.nytimes.com/article/2026-easy-dinner-ideas",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T12:59:38+00:00"
     },
     {
       "text": "What to Watch in the Massachusetts Primary Election",
@@ -169,43 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T09:02:52+00:00"
-    },
-    {
-      "text": "John Ternus Replaces Tim Cook as Apple CEO",
-      "url": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T09:01:55+00:00"
-    },
-    {
-      "text": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ektIcGtCOTU5YVNSNlhnTk1WU1VrdEU3Y0hmZXNMZksxS2pzdHFTdUJsQ190NzBXb0VfTUllOXhYNVo3Y05xbmJkRkZWNUFiSGtWQjcwNDQ2QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T07:37:24+00:00"
-    },
-    {
-      "text": "The CDC hasn’t added 2 deaths to its measles database. Here’s why. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUVZekc4UERTUzVPWHB1ZTg4Xy01cmVGLUd2cnBPLUs1RmRfNTMycTQzakNjNk9WWmxncl9zRHZvZlo1RGhpc044WGViVUNjZDNzRng1Zi1lSlVYX2EwU3FDSGJsdDhrX2FBZms4WTNvTjdjTEF0aVB2cU9JcTk0ZmlFdnlEbVlVM2dWLS1JTWhRNFBjS3AwaHZYcUkzU01tbFlUZ1RLeG54Ym9GaVFERHNTMA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T06:57:52+00:00"
-    },
-    {
-      "text": "Live Updates: Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3VPTi0xVlBhMThyb19kVkpfWmJ5Q054dGxfeEFUMFFlN1NGZ2pwYU82ei03S28yNHJSc1lsampHMnFJYXpQbjJSR1hGNWpNT3pUTC05V1dhT1BfTTVQVkd1eF9BSU45bU1udS01QXRhdHdaY0pfUS1NZ0tac2JoeTlvSW9nVkNHdjRrbUZpN1o?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T05:58:00+00:00"
+      "time": "2026-09-01T12:33:33+00:00"
     }
   ]
 }
