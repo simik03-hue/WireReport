@@ -1,110 +1,63 @@
 {
-  "generated_at": "2026-09-01T18:37:47.098553+00:00",
+  "generated_at": "2026-09-01T21:24:27.757321+00:00",
   "lead": {
-    "text": "Lindsay Clancy Trial: Judge Sends Back Struggling Jury to Try to Reach a Verdict",
-    "url": "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-09-01T18:36:12+00:00",
+    "text": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+    "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-09-01T21:24:07+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "MapQuest tops Apple, Google Maps in downloads after refusing Trump's 'Lake America' change",
-      "url": "https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/",
-      "source": "The Hill",
+      "text": "US strikes Iran as state media reports four killed at wedding party",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-01T18:33:31+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-01T21:21:51+00:00"
     },
     {
-      "text": "Stocks making the biggest moves midday: Palo Alto Networks, Fervo Energy, Chevron, Apple & more",
-      "url": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-midday-panw-frvo-cvx-aapl.html",
+      "text": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+      "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-01T18:30:21+00:00"
+      "time": "2026-09-01T21:18:02+00:00"
     },
     {
-      "text": "U.S. Launches Strikes in Iran Targeting IRGC",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T18:29:49+00:00"
+      "text": "Zelensky warns airlines Russia's sky 'completely unsafe'",
+      "url": "https://thehill.com/policy/international/6064459-zelensky-russia-airspace-ukraine-war-unsafe/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-01T21:15:38+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
+      "text": "Did the Met Just Cancel the Wrong Fashionista?",
+      "url": "https://www.nytimes.com/2026/09/01/opinion/met-gala-anna-wintour-john-galliano.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T18:22:25+00:00"
+      "time": "2026-09-01T21:00:05+00:00"
     },
     {
-      "text": "Stock Market Today: Nasdaq, Dow Fall as Bond Selloff Intensifies — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcl9Ibkp4OTFIVzB6WGMzSUlxRi11RXUtSHY5X2l4WFRPRHVNVGZ3WFNSWDgwY3MxY1NnUDN6aUxmMW5wcURwdnNlYXVrbXlFOFZRWFZPdzlhb0NTZWloWlNvQ0FDZjJlN3BKcXhZSDJUYTQ4OFB1THRQZDk2UnlxUnlWQ05zRjQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T18:01:00+00:00"
-    },
-    {
-      "text": "Sept. 2026 Android Drop: Find Hub ‘Remembered’ list, Motion Assist, & Keep in Google Messages - 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaX3dEZVo1VlVvX2Y0VVNSM3JTbEVBemRiUi1VbVJjcTRrLUw1djVaX2UxVmhZVElQSHExcmthUUxiaTczc1VIZG1QZ21uYktfYmtoQkdLNDhXYXVUYTFCTEoteDVOaEhwN05pazBfWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T18:00:00+00:00"
-    },
-    {
-      "text": "Why MAHA Rallied for a Mother Seeking Alternative Treatments for Her Son’s Cancer",
-      "url": "https://www.nytimes.com/2026/09/01/magazine/maha-cancer-treatment-doctors-cps.html",
+      "text": "U.S. Announces Thousands of Arrests in New York Immigration Operation",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/immigration-arrests-new-york.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T17:26:29+00:00"
-    },
-    {
-      "text": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T17:05:00+00:00"
-    },
-    {
-      "text": "A New World Order Is Coming. We Aren’t Ready.",
-      "url": "https://www.nytimes.com/2026/09/01/opinion/world-order-international-relations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T16:57:20+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDlzNjRxNjd5dm9oNzZoMEJsYlRRR3Bwa0V1ODd3WVlEcW1OUDNlT05kWFk5dHRWMklKRUdBdmR6bmF6eUFpdFh5WjRYLVFHT3FEMWFXRXhLaXV1bVhNYzA5ZVp2RnpWZ29qUzFKNUktT1hZWnk5bWRtd1FKem5Ra2pObzZzRHJsY1J0SXNjTkJkeDk2VjJCR25KMlZTc2RTYkQ5Z2pn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T18:09:00+00:00"
+      "time": "2026-09-01T20:28:39+00:00"
     },
     {
       "text": "Two More Oil Tankers Are Attacked in the Strait of Hormuz",
@@ -113,81 +66,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T18:00:25+00:00"
+      "time": "2026-09-01T20:19:03+00:00"
     },
     {
-      "text": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T17:57:37+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T19:56:00+00:00"
     },
     {
-      "text": "These Ukrainian Children Go to School Underground. They’re the Lucky Ones.",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpYk9lSk1acVF2Q0NXZmxpZFdKQktJaFduU256M0VtVTNwTnVwWERLaFhFb1V3cXY2TXBHVGI4aXV2bFM3VDlKTlJ0WGI1UHJsekliNlBTSXJ1QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T17:11:38+00:00"
-    },
-    {
-      "text": "Was John Galliano Ever Really Canceled? Not by the Fashion Crowd.",
-      "url": "https://www.nytimes.com/2026/09/01/style/john-galliano-dior-margiela-met.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T17:04:41+00:00"
-    },
-    {
-      "text": "What the Jump in Global Interest Rates Means for the Economy",
-      "url": "https://www.nytimes.com/article/treasury-bonds-yields-economy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T16:47:55+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "House Votes to Avert Government Shutdown Before Midterm Elections",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/house-vote-government-shutdown.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T18:06:15+00:00"
-    },
-    {
-      "text": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
-      "url": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T18:00:02+00:00"
-    },
-    {
-      "text": "What to Know About Venezuelan Energy Following Trump’s Oil Deal",
-      "url": "https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T17:54:05+00:00"
-    },
-    {
-      "text": "Ozempic Maker Novo Nordisk’s Investors Are Nervously Looking Into the Future",
-      "url": "https://www.nytimes.com/2026/09/01/business/novo-nordisk-ozempic-wegovy-glp1s-stocks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T17:09:01+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T19:20:21+00:00"
     },
     {
       "text": "At G20 Summit, Scott Bessent Says U.S. Has Support for Economic War Against Iran",
@@ -196,16 +93,119 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T17:03:11+00:00"
+      "time": "2026-09-01T18:56:26+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Woman Killed in Times Square Stabbing Identified as Bank of America VP",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T20:49:48+00:00"
     },
     {
-      "text": "Middle East crisis live: US military says it’s striking targets in Iran as hostilities flare - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXBUNnFsTFB3TDd6UFF0V3VDNUh1TFdHU1pqMGd0WVg5R3lmMW1ENkEzUGR6clhPWW1TOHNIanBSNy1qWkNEd1hiNXdtQzI3LXNYclJrdVlCaklwRU5mMG1ZQ0ZNZnkwanUxd1BYRTlVTXdXV1V0N0JtYjZfNEtyRWdiOHoxM0JvZEhOeXVwa1FUdw?oc=5",
+      "text": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
+      "url": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T20:24:09+00:00"
+    },
+    {
+      "text": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T16:47:00+00:00"
+      "time": "2026-09-01T20:09:19+00:00"
+    },
+    {
+      "text": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
+      "url": "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T19:47:32+00:00"
+    },
+    {
+      "text": "Andy Burnham promises more devolution and public control of essential services - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYeFQtRERKWmxxTlFRTW9rc09POWN6dl9iQVo4WmlISVRZS1RnNzY2WkVwQkdSTjJuRXhmQWpZbzk0RUlnYS1uTFExVkp1cDhqZkpENDhGcjFyQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T19:18:30+00:00"
+    },
+    {
+      "text": "California Assembly kills wildfire liability plan Gov. Newsom agreed to with legislators - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnZJazM0TFNVeGUtY1ZGYjMwX3RYQUwzMG1uamdFR2otckJnejYyQ0Zha1pBdkFMQXU4T0xMdUtjc0NwekdsV2kyMFFjNlZVbHBvQzJZZ0hqZ1VDQmYtZDhRR3dtTG5UWHQzbV84V2kxc3VrWndsYmNEX0EzVUItNEtLNkJqQk5kV1MtamkxWjM5WnBtbGlWVktJNXFBeTlTYVBRVU5R?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T18:49:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Stocks slip on Wall Street under pressure from higher oil prices and rising bond yields - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T20:48:00+00:00"
+    },
+    {
+      "text": "Lindsay Clancy Trial: Jury Deliberations Will Stretch Into 5th Day",
+      "url": "https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T20:19:21+00:00"
+    },
+    {
+      "text": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T20:08:43+00:00"
+    },
+    {
+      "text": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREs2aUZVMkFlanBOSnNzTUprdmxjVWhWSXZvUzhCRWM2eUlRX2dLb2VCSldTR0JRZjNpVEJmU1V2QXlxVllKeTZld3k4clBTZE1DdVpBTmp3TjNRellpY01vMnkwYkU5ZTVEc3VRd19lMzZDY1FZUGtMZU1fVkJ2LXRodXdULWhMTVdWSTZNZmRCakZDNlFRbkZOZ3lxcGNyM2Rn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T19:45:28+00:00"
+    },
+    {
+      "text": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
+      "url": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T19:08:16+00:00"
+    },
+    {
+      "text": "CDC reported then deleted two measles deaths that were questioned by RFK Jr. - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFNra1pYdWlkUlZKYXVfaDFtOWFZam4wT25adDVyQ3Z6Q2Q3U1VZUjNwWC1CZEI2NVNfN1hZSHlURXlNMllTYVFodXZmVk9NOEJoV0JpUm1Rdkk3YVlaeDZXUENRVFdKcV9UanlLZmNVbTVhQnBseTdraG5Uekx6U09jdUM1QktTNzJRbDd0ekxnWG03YWVBa0RnWXE1NlJtM2pYWGczSDljeEpUSk1fM1REajRSdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T18:21:16+00:00"
     }
   ]
 }
