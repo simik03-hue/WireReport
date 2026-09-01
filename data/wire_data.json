@@ -1,34 +1,193 @@
 {
-  "generated_at": "2026-09-01T05:43:28.696255+00:00",
+  "generated_at": "2026-09-01T10:31:54.154644+00:00",
   "lead": {
-    "text": "These emerging markets are favored to get 'a wall of money' from carry trades",
-    "url": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
-    "source": "CNBC",
+    "text": "Teen girl charged with murder over recording of San Diego mosque attack",
+    "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-01T05:12:38+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-09-01T10:26:50+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-      "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "13 fastest-growing jobs that pay over $100K",
+      "url": "https://thehill.com/business/6062174-fastest-growing-jobs-100k-salary/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-01T05:11:23+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-01T10:25:10+00:00"
     },
     {
-      "text": "Vance Defends Approach to Antisemitism in Remarks to Jewish Conservatives",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html",
+      "text": "Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more",
+      "url": "https://www.cnbc.com/2026/09/01/stocks-making-the-biggest-moves-premarket-nvda-hood-nvs.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-01T10:19:12+00:00"
+    },
+    {
+      "text": "GLP-1s may work by activating an unlikely weight loss ally",
+      "url": "https://thehill.com/policy/healthcare/6062638-glp-1s-unlikely-weight-loss-ally/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-01T10:10:40+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3lDeFpHVlptcnBMcThtNzhEVVM2d1AyMkI5bVQwSUlCQjhWd0VhbXdqaTF2NzJUc2FXSHpJX20zTVBmRlkxMG5BWXptMTQzejdQU3hqQUZHcno1bldsdE5iUG5BMFY4cUNBMDBfaGE4RG9jSElQSndGNGNBMlNMdXcyTFJaVUFhS0trQnJncFRsMExRZGluZFVOVkgzUHlFYWptTkNjQTc2OGFXYWc1Yzl3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T10:08:28+00:00"
+    },
+    {
+      "text": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T05:05:59+00:00"
+      "time": "2026-09-01T09:56:54+00:00"
+    },
+    {
+      "text": "The U.S. Military Must Learn to Say No to Trump",
+      "url": "https://www.nytimes.com/2026/09/01/opinion/air-force-military-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T09:02:45+00:00"
+    },
+    {
+      "text": "At 70, Yo-Yo Ma Is Modeling a Way to Be in the World Today",
+      "url": "https://www.nytimes.com/2026/09/01/arts/music/yo-yo-ma-profile.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T09:00:21+00:00"
+    },
+    {
+      "text": "A New World Order Is Coming. We Aren’t Ready.",
+      "url": "https://www.nytimes.com/2026/09/01/opinion/world-order-international-relations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T07:20:49+00:00"
+    },
+    {
+      "text": "Army Secretary Dan Driscoll resigns from post - Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T06:47:06+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Whistle-Blower Says Trump Officials Are Defying Court Orders on Voting by Mail",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T10:00:16+00:00"
+    },
+    {
+      "text": "U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad",
+      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T09:03:01+00:00"
+    },
+    {
+      "text": "The 100 Best Easy Dinner Ideas for Right Now",
+      "url": "https://cooking.nytimes.com/article/2026-easy-dinner-ideas",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T09:02:05+00:00"
+    },
+    {
+      "text": "How the Supreme Court Locks Away Its Own History",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T09:00:12+00:00"
+    },
+    {
+      "text": "Duane \"Keffe D\" Davis found guilty of 1996 murder of rapper Tupac Shakur - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzYkFSbHhzcmxhcEVONzVUekFjaWFlQkxGVkEyR1h1YURKUFRLZmZSTk5INmt0UEQ2Nm80MTYzbUxQbW5walZIbU0yeFByUURJN3ZqZFQ5X3E5dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T07:02:58+00:00"
+    },
+    {
+      "text": "Chinese rescue work in Tibet flood disaster zone still trudging along days later - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYml6a3lySVRlNG81RGpQVmFWa2w1MGUzZnI4RDE2YmRoUUdFMXRaaHdyUkp0VWlJOEYxOUxHcG9NSXpjSzQyYzNNbXdOck5LY3NubDR4cHhQZUw2TVU2R2ZJdWF6Z19ndUl6RWhycFZaYkUySGQ3aWc1OWRnb3MxUWlGeGZRUkRfS1ZVWW1QS05oUS1yZmlUZjM1QTMwVjVSMlB0UE9jZXdqRnJNYjNhNzJvbzF5ZGV2NDNnems3VGdSVUExaDg3VjJFdmNHMzg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T06:35:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "The Supreme Court’s Secret Documents, and an Unusual Order From the C.D.C. Director",
+      "url": "https://www.nytimes.com/2026/09/01/podcasts/the-headlines/supreme-court-secret-documents-cdc-director-tupac-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T10:00:10+00:00"
+    },
+    {
+      "text": "What to Watch in the Massachusetts Primary Election",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-election-what-to-watch.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T09:02:52+00:00"
+    },
+    {
+      "text": "John Ternus Replaces Tim Cook as Apple CEO",
+      "url": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T09:01:55+00:00"
+    },
+    {
+      "text": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ektIcGtCOTU5YVNSNlhnTk1WU1VrdEU3Y0hmZXNMZksxS2pzdHFTdUJsQ190NzBXb0VfTUllOXhYNVo3Y05xbmJkRkZWNUFiSGtWQjcwNDQ2QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T07:37:24+00:00"
     },
     {
       "text": "The CDC hasn’t added 2 deaths to its measles database. Here’s why. - The Washington Post",
@@ -37,45 +196,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T05:04:36+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Shein’s Lackluster Debut Shows a Fast-Fashion Model Left Behind",
-      "url": "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T05:02:13+00:00"
-    },
-    {
-      "text": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3lDeFpHVlptcnBMcThtNzhEVVM2d1AyMkI5bVQwSUlCQjhWd0VhbXdqaTF2NzJUc2FXSHpJX20zTVBmRlkxMG5BWXptMTQzejdQU3hqQUZHcno1bldsdE5iUG5BMFY4cUNBMDBfaGE4RG9jSElQSndGNGNBMlNMdXcyTFJaVUFhS0trQnJncFRsMExRZGluZFVOVkgzUHlFYWptTkNjQTc2OGFXYWc1Yzl3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T04:52:12+00:00"
-    },
-    {
-      "text": "The Ritual of Coffin Making in a City Hit by Ebola",
-      "url": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T04:01:12+00:00"
-    },
-    {
-      "text": "Congo authorities report more than 6,000 confirmed Ebola cases and nearly 3,000 deaths - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmFVa1ZEd1M5TFMyN3Q3WV9oZ0xQUHFRenNpNklMcGtxa0t4STJPb1pUNmQ1cFFxOHRoOGZOT21ENWN6ZlhSWlNRU2I4RmNUMzJ4dGxSaXUwOVZISmk1bGY5MXZyeU5Ha0prdHo1ckNNLXhYcG9RRWx3bEZZdjlwMFpGWTdTZ2RBeE5ER0lCOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T03:45:00+00:00"
+      "time": "2026-09-01T06:57:52+00:00"
     },
     {
       "text": "Live Updates: Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks - CBS News",
@@ -84,128 +205,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T03:28:00+00:00"
-    },
-    {
-      "text": "How El-Sayed Could Dispatch His Hasan Piker Problem",
-      "url": "https://www.nytimes.com/2026/08/31/opinion/el-sayed-hasan-piker.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T03:07:13+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "A New World Order Is Coming. We Aren’t Ready.",
-      "url": "https://www.nytimes.com/2026/09/01/opinion/world-order-international-relations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T05:00:05+00:00"
-    },
-    {
-      "text": "Some Jewish Republicans bashed JD Vance. He went to speak to them in person. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXV2Ni1DZXZuWVlpUzM2bEdJcFh4WmsxcEl6eWx6N21IT0dLdEZZWlRZR0Rsb2h5TDZ0WFVwUWN0Y2pTVUVMQnp4a1hNdmhlTHlYLVJpTUtlUE5hVkNrclNCMklVNDhERTEtSXFJUFFBVEFINEtTdG1sbjhVNTU3V183Q3VYS3E3ZjJZYS1xY3ZFRlE4alFxSlY3NnJRSG52VnkwM3d5bmR2RWFoWExhNE9pUGQ0b3cw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T04:17:50+00:00"
-    },
-    {
-      "text": "Death Toll Rises in Grand Canyon Flood as Search Continues - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oaDJ2U0NRbE12dVZIOEpCQVB4dmpoYzVWaGg4X1FFMEl1RGhnVWpNdjFkb2pqc3JhWGc2YmJnNmcxWWpNd0NMU0N6dXZPY3ptZHRNT2VyckhLMFMwczVOYkJKNGNtcjU0c1JMNWxzTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T03:57:25+00:00"
-    },
-    {
-      "text": "Ex-gang leader convicted of murder 30 years after Tupac Shakur’s death - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWFzQ3BOQkNZR2VuSjVpcGR2M3E1aGJQTE9STVc1eGFKQjVObFhKOFVLUE9ncm50dTRuTnUtUjk4OG5IVkdfaEd3QjdGb2VSOHd1N1ZuY2ZTeE1fbTNnYzhqaG5OMHF4RHVYYVdXNjQ3UVFESUg5a25NU1V3ai0zQzcwRlZ5Q0tld0NPMlQ1NVRvcXBTZzVPaWV4Sk9oVUIyLUh1Z1hCSVhyWl9mNk9DeEd0QWo5WlU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T03:41:00+00:00"
-    },
-    {
-      "text": "John Ternus to lead Apple into the age of AI - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFJXbVlMMGdzcl9FRUhKTloxbDJ3X3N5V3MwV0JlV0lCQTV3THhBdWQzb0JSWG5neTFVY2NlVlNmM0YwX0tiMVRVdzYxdzNpeG9yWGp6alRJZmdVcmNaS2IzYkZYRjdiOWgwNVBOZHZqUC11V0Vyb3IyTlhlSkZPNUVMWFJXOWt5MXktcl9LUHbSAZYBQVVfeXFMUHNER09BS20zb0IyMUowSm1hd0tlcFB3NEZFenNSYTdiLVlyclVsTEU5R2haMnZlY25GaDg1YkZqc3EwWm51ZXFNelVPNE5sUDVWci1HUHhBb0daUzJtMl91Nkt1WWs2OGdVMG1WRDMwQVAtMnc5Qms2emd3TEpPUDQ3ZjFLMEE1UFhGSFViWkpJVFpJZHhR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T03:24:09+00:00"
-    },
-    {
-      "text": "Duane Davis Is Convicted of Orchestrating Tupac Shakur’s Murder",
-      "url": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T02:54:47+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Carlos Alcaraz returns to the US Open with a victory, Aryna Sabalenka also wins her first match - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUM3YWtaNHI0Q0JsZTg2UWRRTXUtRWY1bmF2OVRyZERZaDVQbTdLNDNfTFp3bmlKZUlWdERkQ1p4bmFHakRNbm16aDZ2Sk9iS2lVV3hNYkU5dFdLS2RHVnlvMjJuVGRuZnlCZXFFOHVNWmdtam40aTBNOUZjOU9yb1IxQjlwNXBqZVJN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T04:55:00+00:00"
-    },
-    {
-      "text": "Shein shares fall in long-awaited stock market debut - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OXlfeUd1N19UMTBXX2FNTzFadlpmVnU0LWttZlI5SE1ucUJlVEl0YmJxR0VMYnlzcjhTNjFkbmtCV1Z2OHo5NHJZa0YzYi1LRHFxRDBYMW42QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T04:15:15+00:00"
-    },
-    {
-      "text": "Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars",
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T03:48:22+00:00"
-    },
-    {
-      "text": "Meteorite from 'once-in-a-lifetime' Great Salt Lake crash on display at University of Utah - KSL News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdk1iU3NERzRDbUdZMXUtZzNZNHZSSTBYYW9tZ2VvdTVEbXdTTm5ZeWNoRmhEcG9NSXpyTXNkWXhmY2xuUWlCRTI2OUVqZENTUUtNeUhORkE4V3VXMnVDUWFIWHZlN2VrOUk4UjFXNHFLZGJldUhaNDgtZ3NWMkY4d25ma003d09QWlFnRFk4aFdjSUFIVm96V0NlLUpGZ2dyYmpYX0wtMmJFMWdCSHg5SS16cHFDY2FHOFY5WUl2ZG44bnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T03:34:33+00:00"
-    },
-    {
-      "text": "Army secretary submits resignation to Trump after repeated clashes with Hegseth - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVjlmcEk3S0xnSjdNMjNVSWl5ZTN2MFd0VXJROEJ1OWYzdlFzNVgxdldGeEZERURhU1R1eVVUd0lYU2VFcFhxUDhBaXdLbEdiQ052WlNCTlVadHdkdnBQTG01WFhieEVPSFljeENzMXRwTnpMQkZ5SzBmNkdvOVY4TXhLb2FFcW96Y2JMVW8xYXRGakF6c1czQXZPblRDZHRnblIyTHd0OUlLaWd3UG53NVRFTmJhVWRheHVCOVJac3RqUXQ2akZSWm40dVdQN09RZUhn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T03:12:03+00:00"
-    },
-    {
-      "text": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T02:50:48+00:00"
+      "time": "2026-09-01T05:58:00+00:00"
     }
   ]
 }
