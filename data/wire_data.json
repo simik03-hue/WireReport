@@ -1,54 +1,72 @@
 {
-  "generated_at": "2026-08-31T21:03:14.466009+00:00",
+  "generated_at": "2026-09-01T00:39:18.862796+00:00",
   "lead": {
-    "text": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
-    "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-08-31T21:01:43+00:00",
+    "text": "Woman Stabs 2, Killing One, in Times Square and Is Shot Dead by N.Y.P.D.",
+    "url": "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-01T00:34:33+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month",
-      "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-      "source": "CNBC",
+      "text": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+      "url": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-31T21:00:40+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-01T00:31:20+00:00"
     },
     {
-      "text": "Bessent pushes back on Druckenmiller critique of bond intervention",
-      "url": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-08-31T21:00:15+00:00"
-    },
-    {
-      "text": "Trump approval dips to new low as Iran war weighs on support: Poll",
-      "url": "https://thehill.com/homenews/administration/6061903-umass-poll-trump-performance/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-08-31T20:52:26+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "text": "Live updates: Jury begins deliberations in Tupac’s murder trial - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JenZSZy13MWVKUnZucWh5OS0yNDdhdU5NVGw1NzFsMkJWNnNuVUZSVVM2RGZaQmxMNndlVHlvUGdhVi1kT3N2RHFoTlk4STlUVnAtYlNPWHg1Q01Dbm1mSmVTTE1OTHBva2dmNU0xVEM2bGI1YlE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T20:41:00+00:00"
+      "time": "2026-09-01T00:20:00+00:00"
+    },
+    {
+      "text": "Democrats propose counter to GOP’s anti-socialism resolution",
+      "url": "https://thehill.com/homenews/house/6062370-democrats-socialism-resolution/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-01T00:19:38+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Wendell Berry, Writer Who Extolled America’s Agrarian Past, Dies at 92",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T00:16:17+00:00"
+    },
+    {
+      "text": "Family identifies Texas man among those killed in Grand Canyon flood as rescuers search for missing - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-31T23:19:00+00:00"
+    },
+    {
+      "text": "US army secretary Dan Driscoll resigns over reported friction with Pete Hegseth - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWk5Mmw4WkxkRm1DVHNOaFR1Sll5YV9LMUplT3JfbEE5ZGs0emQtQ2YyZlJCTEhZNE9HOFRBWE9IUGhmQ2o3cEQtdkdRRDgzNngxdDJ4bHJMaHpBTWMyQkZMeTFrRnFPR1BiVTNFdF9ETnFPY000WTFVTVFmbUxrd3l1cWVmc09wYlVz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-31T22:56:00+00:00"
     },
     {
       "text": "Death Toll Rises in Grand Canyon Flood as Search Continues",
@@ -57,155 +75,137 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T20:17:10+00:00"
+      "time": "2026-08-31T22:25:46+00:00"
     },
     {
-      "text": "US health officials exclude measles-related deaths in Pennsylvania from counts - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T20:06:00+00:00"
-    },
-    {
-      "text": "DOJ Issues Grand Jury Subpoena to James Comey Confidant Daniel Richman",
-      "url": "https://www.nytimes.com/2026/08/31/us/justice-department-subpoena-james-comey-richman-trump.html",
+      "text": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
+      "url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T19:32:37+00:00"
+      "time": "2026-08-31T22:08:38+00:00"
     },
     {
-      "text": "IRS Audit Revenue Has Plummeted Under Trump, Watchdog Finds",
-      "url": "https://www.nytimes.com/2026/08/31/business/irs-audit-revenue.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T19:29:09+00:00"
-    },
-    {
-      "text": "Live updates: Donald Trump rolls out new lower drug prices; House returns from recess - thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd01lQ0NuTjFyTUtBbndRY0U1M2tNNGxhU2RaUUNuNkYzeGhBc05GYTByVnNWd1VQZnFRNXBXQ2pIN0NtbUZVcnlxRmtyQWRCM0Y3NnUxbzFROXBsWWpVU1cwMXNRSk1aSlpjUU1xMS03WjdZd1pPaEoyTFBDRWo5UEZFeWZWMnRxSnhWc3BBaTFkVFF3RkUwWWFB0gGfAUFVX3lxTFBsemZ5NVJyQmVkQ25pY2lUcDJpUm1iQW85bnV5Zk1xbC11ZzdiclZ1V0p3dXN1YkJJdnAtRUlfTEpJY29GdFVSQVBJazZvMm51UnRzZXFXOERaZlQ0aVRLM3I0QkdKREc5OXdRRDVGeG83VC1Xdmh4MnBnWnE5MXJlcjZpQ21WdVp4ZGZSRlhzSm83WmMxbjRLZ09pV2VKdw?oc=5",
+      "text": "Vance characterizes Democratic Senate hopeful Abdul El-Sayed as ‘evil’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRk1LYlF3VXRoMUNVdmoyVVN0dDl5UzRrSjVKT0lSUW1DdXdmTTFYTC01NEVVaHVpTUFBcnNyVHJCNGtQZ2JITlYteWtrUzlzelVla1pmeVREOE54X0lreGpMSGJ4bDZkM1lrdDZQMTlUbzh6Vkp6MnBqM0tQbXBxQTl1NTBqek5wYXcwSHhBM3NmOHM4SDZpUDJZM2JnSXRjdHlDM2ZUdWNlVElNaFR3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T19:19:00+00:00"
+      "time": "2026-08-31T21:54:31+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Olivia Rodrigo’s Daisy Chain Fields: A New Feminist Music Festival Takes Shape",
-      "url": "https://www.nytimes.com/2026/08/31/arts/music/daisy-chain-fields-olivia-rodrigo.html",
+      "text": "This Marine Died in the Iraq War. His Mother Asks, ‘What Was It For?’",
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T20:27:33+00:00"
+      "time": "2026-09-01T00:10:14+00:00"
     },
     {
-      "text": "Houston-area school closings: Districts announce closures, delays due to Tropical Depression 5 - KHOU",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdG80VU1iSGpfSHgtdE1sVDNobkNOQ0Zvbm9pOWVNQ0lYSC1xY0VxcmxmVUEtQjVzRmNuZ0R5NVRESjliWnRwcHZFTDdhdThfeldOdFlhMDFyWGVuM0xSVllndjh3dDJPV1ZQUlNDUm5RZ003djFWRHV3VGVDeEZBb2h5Q3BhdUEtUHhIbGlVVmxzcmVpRy1vNm9FYTFrb0F4RFJfM3VWdUotTEhna2hia1lqUHBiNXlnaThoR01mcEhkSXNJaUE?oc=5",
+      "text": "How El-Sayed Could Dispatch His Hasan Piker Problem",
+      "url": "https://www.nytimes.com/2026/08/31/opinion/el-sayed-hasan-piker.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T23:13:50+00:00"
+    },
+    {
+      "text": "C.D.C. Director Challenges Pennsylvania’s Report of Two Measles Deaths",
+      "url": "https://www.nytimes.com/2026/08/31/health/measles-deaths-pennsylvania-schwartz-kennedy-shapiro.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T22:35:47+00:00"
+    },
+    {
+      "text": "Scott Brown Was a GOP Star. Will It Matter in the New Hampshire Senate Race?",
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/new-hampshire-senate-scott-brown.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T22:17:59+00:00"
+    },
+    {
+      "text": "Can cut-price Shein shine in its long-awaited stock market debut? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OXlfeUd1N19UMTBXX2FNTzFadlpmVnU0LWttZlI5SE1ucUJlVEl0YmJxR0VMYnlzcjhTNjFkbmtCV1Z2OHo5NHJZa0YzYi1LRHFxRDBYMW42QQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T20:16:00+00:00"
+      "time": "2026-08-31T22:08:30+00:00"
     },
     {
-      "text": "FTC and 22 States Sue Amazon Over Advertising Practices",
-      "url": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T20:05:56+00:00"
-    },
-    {
-      "text": "John Galliano Bows Out of Met Museum Show After Criticism Mounts",
-      "url": "https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T19:30:08+00:00"
-    },
-    {
-      "text": "Iran’s economy in crisis as US launches new sanctions campaign - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
+      "text": "Republicans are losing patience with Trump’s Iran whiplash - politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYlBYRGJDN0NHei1neTlTLVMwVXJ0WjA4bDZkZG5OcUpkWEhfdS0tNWNvcVFQbmJrY0s2RkY4eWhOdHJMTkdFeEdzZG1HMFNrUWpQNGNLclNHUjB6d05pamRlTDVRN21PSXRZdzAtMGcwa0RZU2JVaGpJbnR2SElnSThCSlZxUzlLNXFQNlZIczQ2eEFHbUtyOVFMWFluNEo0dElBZ2xva2NoWFU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T19:25:00+00:00"
-    },
-    {
-      "text": "A Principal Saved 900 Students Before His School Was Washed Away in Nepal",
-      "url": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T19:16:35+00:00"
+      "time": "2026-08-31T21:52:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
-      "url": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T20:21:06+00:00"
-    },
-    {
-      "text": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T20:11:10+00:00"
-    },
-    {
-      "text": "Supreme Court allows Trump to move forward with White House ballroom construction - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbU5sR0RfV1QtM3kyTWR4X3dwSXh0Y2EyRE9IVE1JSWdjSVJWaUJxM25MaktlRExhRlpKRkhQYnFxeXNLYUdXSmVzUEtJR3QtUDVDZjVlbURzS0NaWnlaYm1sS3dvTnFIa1gtb2ltUjdQdmpGMHY4c3VRalNmOGhmdld2c3VITVQ2SGNtNFRjZ3ViTHc1ZjlGSldvQlNjbS1qOUpPWjFLTmstU2ZmczRaTnR6bXdpeHlwV3F4UzBWdkk0WVhjRWkw?oc=5",
+      "text": "Chatbots got safer but will still role-play self-harm with users - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWNYMU9GeWw0M1Y5YV8wOVBrak9pV3RyYmRaTjUySmEwQmw5US1SUmRGNjJtLWp0UHljbzVfVVV3Y0ctRERjTHZBTFBGQ3NqcUhndXZLVmNUSld5eVprMUlRQnhtMi10TUpESWpNeThGSTF6bnZNdllCZUx3aXBnRFBTLWtQanRLaFllNjNLbDY2UE5lVEs2UjA3YUd5MnRIb0V5MENEaE1JcG81NGxLWFZhLUlLX0dyTjd1QQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T20:05:00+00:00"
+      "time": "2026-08-31T23:32:53+00:00"
     },
     {
-      "text": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
+      "text": "JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech",
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-08-31T23:05:13+00:00"
+    },
+    {
+      "text": "The Google TV Streamer now costs $50 more - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pWGRrekVZa09VOGdIOG9zVG5XRHVRQWpkRVUxUFRWajVHRVIxSXJ2RVhzcFBpZURqUjhyekJRQmE5TnAtaU83b0VfMUxvM1JfR2d4Z0FtMG52dmhoUlBwTVl2RHFGOVNBMTB5eDU5R1Z6SmtIVDJRTlVR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-08-31T19:30:00+00:00"
+      "time": "2026-08-31T22:32:51+00:00"
     },
     {
-      "text": "Democrats Have a Trump Card for Attacks On Wokeness",
-      "url": "https://www.nytimes.com/2026/08/31/opinion/democrats-wokeness-republicans.html",
+      "text": "First 'space elevator' — a 66,000-mile cable to the cosmos— closer than ever before as scientists make breakthrough - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcDZrdEhFeUo0VW8zR0tDUXFYSjdmdmlsc0kwVkpPY2dySWtMcWRTUGZ1VkhHM1BudFA2THJjcy1UQWd6NHNzb1J0dl9uTFFpTXFxejYzY2ppdTcxS3dGTXpFSFltcWU3cnp4R3Q4RVJTUXkxaExUa1gwUjVkZTVkb19rb2llOEtITjd0Tm9tT3ZhZm9kV19kQ1J0RGlvaTExOWtmZ1JZNURhcVBuZWRkVEtPeVIxVms3UWxzbTdZWVc5cjZld0QxS1lDdDktdXVybVNsLTlXLVBOXzhJdVFrTjB3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-31T22:15:00+00:00"
+    },
+    {
+      "text": "Supreme Court Allows Trump’s White House Ballroom Construction",
+      "url": "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T19:20:31+00:00"
+      "time": "2026-08-31T22:01:38+00:00"
     },
     {
-      "text": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
-      "url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "FTC Sues Amazon, Alleging It Deceived Advertisers and Drove Up Prices - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-08-31T19:04:43+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-08-31T21:45:00+00:00"
     }
   ]
 }
