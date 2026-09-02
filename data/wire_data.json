@@ -1,46 +1,64 @@
 {
-  "generated_at": "2026-09-01T23:31:09.356751+00:00",
+  "generated_at": "2026-09-02T01:26:49.804374+00:00",
   "lead": {
-    "text": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-    "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+    "text": "Judge Lets Case Against Tyler Robinson, Charlie Kirk Shooting Suspect, Go to Trial",
+    "url": "https://www.nytimes.com/2026/09/01/us/charlie-kirk-shooting.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-09-01T23:29:09+00:00",
+    "time": "2026-09-02T01:03:09+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Putin pledges support to Iran, rallies leaders to challenge U.S. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGFTdTZwSlMwRGFYemJGNlpqcXRsWkFmMXJLRE1NSGRvTEZscC1OZ01pZm9qZHJKalZCdXpHd1JOZERUM0tyYmZRNzVlbV9sbjJOdVZ0NzBoa1RUZF9xSkEyWTVEXzdyQ0s0ZnJBdnVvSUZYNEJOVXZUWHBnQS0tS2NoZk9RUVh2VnBJYVRhZnNwWTE1alE3TWI3eElET1NJU1BFOEJkdw?oc=5",
-      "source": "Google News World",
+      "text": "2027 Lexus NX Debuts With A New Look And More Hybrid Power - Motor1.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUE1lbW55R0FXTmVrVVZnRHNDdzl2MnZHMUdyeG9BUDBfYnk2bjR5RkxaT1JkUmRxZHlRalZZem9oSmlzbFh1WGVOWHdLdzJKSWVCeHZpTzhuRGF2NGFxLVQza1pIVVBxT2IxX04zUDNaYW16cG1GZkMtOA?oc=5",
+      "source": "Google News Business",
       "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-09-01T23:26:24+00:00"
-    },
-    {
-      "text": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
-      "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-01T23:17:10+00:00"
-    },
-    {
-      "text": "Jim Cramer says Nvidia should do a half-trillion dollar, Apple-style stock buyback",
-      "url": "https://www.cnbc.com/2026/09/01/jim-cramer-says-nvidia-should-do-a-half-trillion-dollar-apple-style-stock-buyback.html",
-      "source": "CNBC",
-      "lean": "center",
       "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-01T23:13:00+00:00"
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-09-02T01:01:39+00:00"
+    },
+    {
+      "text": "Ed Markey Wins Massachusetts Democratic Senate Primary, Defeating Younger Challenger",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-senate-democratic-primary.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-02T00:58:47+00:00"
+    },
+    {
+      "text": "Hegseth removes 6 Army officers from promotion list",
+      "url": "https://thehill.com/policy/defense/6065013-hegseth-again-removes-army-officer-promotions/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-02T00:56:44+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Despite Duane Davis’s Conviction in Tupac Murder Trial, Some Still Seek Closure",
+      "url": "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-02T00:37:51+00:00"
+    },
+    {
+      "text": "Live updates: Case against suspect in Charlie Kirk’s killing can proceed to trial, judge rules - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZWwydDBtZURUXzhZXzFlcVBoY2VLQkk3a21FN1lfeGFmQlFpSmVGVzBiYnZFTjRldmZyeEZ1Z0llUjlhNEVHTHh3QUQ5bVBiUWZSMjc0Y2JqSUtCcjVFVlBpbGp4eHg5QXVvLWZuQUNPbkMyNW84YTVQTWhkYVFJeW90OENWUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T00:32:00+00:00"
+    },
     {
       "text": "Woman Killed in Times Square Stabbing Identified as Bank of America VP",
       "url": "https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html",
@@ -48,72 +66,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T23:01:29+00:00"
+      "time": "2026-09-02T00:25:16+00:00"
     },
     {
-      "text": "Some Allies Are Pushing Back on Trump’s Economic Approach",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html",
+      "text": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T22:45:57+00:00"
+      "time": "2026-09-02T00:00:07+00:00"
     },
     {
-      "text": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T22:41:25+00:00"
-    },
-    {
-      "text": "House Censures Republican Accused of Sexually Harassing Two Aides",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/house-censure-chuck-edwards.html",
+      "text": "Haitian Student, Despondent Over Ankle Monitor, Dies in Apparent Suicide",
+      "url": "https://www.nytimes.com/2026/09/01/us/haiti-ankle-monitor-immigration-suicide.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T22:22:45+00:00"
-    },
-    {
-      "text": "Andy Burnham promises more devolution and public control of essential services - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYeFQtRERKWmxxTlFRTW9rc09POWN6dl9iQVo4WmlISVRZS1RnNzY2WkVwQkdSTjJuRXhmQWpZbzk0RUlnYS1uTFExVkp1cDhqZkpENDhGcjFyQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T21:48:44+00:00"
-    },
-    {
-      "text": "Rams owner Stan Kroenke agrees to buy Angels, ending Arte Moreno’s troubled tenure - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzI3aHM4QVl1OGxCTDBGa08tTmFkaHlsekE1ZzZlRlB2VDB0WFdWSUhsVWY5TW5ZUDhjZkkxRXVZR2hlbU5panNPQS14VWNMWm1iejZuY0J0NjdjczBkZnhaai1UYWlfcUJ0M0VRa0pKYUhLdklBbWdLRVNfa3R4LU5FZGh6YjlZa2xWWG5HMHcwbW5xektzTDQ5N2phMmxMX3FvVVlBS2liVkNsY0Eyd3hnSkVEdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T21:32:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T22:57:00+00:00"
-    },
-    {
-      "text": "Ed Markey’s Massachusetts Senate Race Is a Generational Fight, With a Twist",
-      "url": "https://www.nytimes.com/2026/08/31/us/markey-moulton-massachusetts-primary-democrats-age.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T22:45:53+00:00"
+      "time": "2026-09-01T23:23:42+00:00"
     },
     {
       "text": "Hegseth Targets 7 More Officers as His Frustrated Army Secretary Quits",
@@ -123,53 +94,53 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-01T22:30:11+00:00"
-    },
-    {
-      "text": "Shooting at Tucson Gay Bar That Killed 2 Investigated as Hate Crime",
-      "url": "https://www.nytimes.com/2026/09/01/us/tucson-gay-bar-shooting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T22:16:05+00:00"
-    },
-    {
-      "text": "U.S. Launches New Attacks on Iran",
-      "url": "https://www.nytimes.com/2026/09/01/briefing/us-iran-strikes-global-bonds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T21:36:15+00:00"
-    },
-    {
-      "text": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T21:19:46+00:00"
     }
   ],
-  "col3": [
+  "col2": [
     {
-      "text": "‘Wheel Of Fortune’ Announcer Jim Thornton Suspended, Role Recast - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdm5Pc1FXRHNhU2V4VW91RVNDcGs1MERJdnZYV2NLVWQ5YXBMemg4eUZLcHFBanIzeldyWlNJQUk2TmRVU215SFNwN2p0NEQtVExaeWlBLUdjZ1ZQNWhmdTNWUDlJTDMzYlA3cVI1QXVSRVh0NjZJNmV1YVZqaVI4bGNubHFqSmFZcHIzdzB5czZ4bmsz?oc=5",
+      "text": "Senator Ed Markey wins Massachusetts Democratic primary - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHI5TXFoSTN2Si1nbFpka3RJVk5Edk1YLU1BazRtUG55Zms2Z2NXalJzeHp2QUxfdUVhWDhYemhrSUphdXZhclFDbUhSQmgwUkNld29XMjhnaDZWZnI3QnpGc2lFZkRBV05EWHM2V3VTZUt6TXVGZ0VjS01aNEZrMDcxWkpiZVQ1eWk0cmFHQXg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T22:52:00+00:00"
+      "time": "2026-09-02T00:34:00+00:00"
     },
     {
-      "text": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
+      "text": "Grand Canyon flooding harms an economy that’s still recovering from a fire - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR203TXk3RVY4QllwSGwxM2lOQUJNZktBNFh4UDJWMWdNdjNhbVJ5dUdIem5JQ1FUNkJ1SWZrV2xtRnU2WE9KanRfcWxNRDJ0RW5XZHJUQXNtTUo4WDlWeWlDMEV3bTkzY1B6T2JiQl9xNG9wWUd4UG1fcjZUcFFWZDZBZFdFNlRFNjZMc3FhSUFqelo2emRhWHlIX1ZIaUhTanB0RWMzUnlqUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T22:42:36+00:00"
+      "time": "2026-09-02T00:29:00+00:00"
+    },
+    {
+      "text": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-02T00:23:07+00:00"
+    },
+    {
+      "text": "Times Square Police Shooting Was Justified but Put Others at Risk, Experts Say",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/times-square-shooting-stabbing-nypd.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-01T23:56:52+00:00"
+    },
+    {
+      "text": "Democrats warn of ‘hollowed out’ leadership after army chief resigns amid clashes with Hegseth - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXVmdl9XT1dqZ3J2d1llR1RJM1NaVzFRVUg1YnlWSHNxaFBOenZ6U3ZSc05ERkpPaUxidERTekMtZHRKTXJPWUd5NmRITFZWdjJzWDRDQTlMa2pVVU5WVEdjcUxvWm9YQUQxbEU0WmgtVG50cUZrTUs2cXVsX3hvWnNtVEw2YmM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T22:41:00+00:00"
     },
     {
       "text": "Wall Street ends lower as higher yields, rising oil prices mark shaky start to September - Reuters",
@@ -179,33 +150,62 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-09-01T22:26:55+00:00"
-    },
+    }
+  ],
+  "col3": [
     {
-      "text": "GOP Rep. Chuck Edwards rebuked by House over allegations of unwanted advances toward female staffers - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpaX3RTZFVUM1VJLVpzT0ljT1hNQTY1bll3UDJDUzZuVFE0WDBncDBkWENJbXJ2dS1ZRnVveGx2TlZVbl9vem1MdlFSbnVvYnNpbEgzTVM0VXVCaU9PQkY4d0JjSzg1S3lxWl93aEdtbzdobkh2SDZ1ZmZWMzhhdQ?oc=5",
+      "text": "‘Wheel of Fortune’ announcer Jim Thornton suspended as Sony investigates allegations - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcThnYi15YmpzUzJOYk9vSU1tUV9kcGM0SlhEZXJJN24tVUxYZV93ZEdWa1NMSTgzR2NmUlVjck85ZFdiczhnTUFsdnVDRVdEcF8tUHlER2c2blNXRzJSRndUeXE0TlUtLWNZYXRCTjQ3TnhBMC1oQ2NYWVJPdXEzMWViQzJ5UWtrb2IzNHJWQnlOcWJ6T0gyRXFXTUxVc2N0UkhhUmJ0anNrcGtHLUp0TUlWS1ZqcjZk0gG-AUFVX3lxTE5wazBZaTAyX1I5dGI3cTNIZm1Lbjd5TzlqNkgwRXdwSkk3Nm5ZQ0xUaFZGRmZNT25iWGVmSE9yV2NvTm9NWEdBVUQ3aW9zOHlmLVlOcnY0M25vUmI2X3ZJdEM1Tm10LVBSQUdrNlpGd21mMWZBbkVrODk0bXRMdTVpWTBvRVh6ek85ZDllMldCbVVjcGd6eVMtRlprMUh4V0t4MlN1RG8xc2ZXRGd5UklqY19sZ2VBaXBSNVppaUE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-01T22:11:37+00:00"
+      "time": "2026-09-02T00:32:14+00:00"
     },
     {
-      "text": "How Monsoon Season Supercharged the Deadly Grand Canyon Flooding",
-      "url": "https://www.nytimes.com/2026/09/01/weather/grand-canyon-flooding-monsoon-el-nino.html",
+      "text": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy - Axios",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TDRUZnBBNEU5R2QyU2Zzc0V0Z2tFb3YwSFlzZVB5S2huMXU0bEpOQzBmLXdpczcxRnpHdGpXT2VkbzVhZmdidEsyR0NydFktRVF4NkF1N3BoYjlFd05zVmtLQlhfNGozVVhIMXZWVUk1UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T00:25:59+00:00"
+    },
+    {
+      "text": "House Democrats left reeling after shock defections - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3YxUEExbV9wbnJSZlJxSHAxMU9tT2Y3LW93NzZ5bTMxalBWaUpaaVpvV0FHWldmM2lzQ0RGZEtsSmpONmF1bjlWZFdvWWlaZURFR0RVSnJVdWpwZHZSQUVfajZLYkhWREFXaW96QkJtTG5LMXNTVjFza0VkTVFUcXY4SE9ra2o0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T00:04:26+00:00"
+    },
+    {
+      "text": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+      "url": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T21:34:42+00:00"
+      "time": "2026-09-01T23:29:23+00:00"
     },
     {
-      "text": "Did the Met Just Cancel the Wrong Fashionista?",
-      "url": "https://www.nytimes.com/2026/09/01/opinion/met-gala-anna-wintour-john-galliano.html",
+      "text": "Apple Maps changes name of Lake Ontario to 'Lake America' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjVNcWhLam9PNXJMYTE1QmhDWlFwTW41eHdYZnloYi1ya2ZkWWhRc25ROGw2RWk4V3VQc25hQmFtN292NnV5WlFfUnV1bnNFaElSUVJvMnNNenpYd05Da0hnTk1jZ0lVT3pSeUJtb1BtZkNmWGxZeEtmVTVhbVM4WTdCR0YyT2tLRzdZeGQ0OUVxa3I0R0RpdHFn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-01T22:34:38+00:00"
+    },
+    {
+      "text": "House Censures Republican Accused of Sexually Harassing Two Aides",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/house-censure-chuck-edwards.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-01T21:00:05+00:00"
+      "time": "2026-09-01T22:22:45+00:00"
     }
   ]
 }
