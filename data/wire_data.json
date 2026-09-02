@@ -1,63 +1,90 @@
 {
-  "generated_at": "2026-09-02T21:43:25.842541+00:00",
+  "generated_at": "2026-09-02T23:36:23.420767+00:00",
   "lead": {
-    "text": "Five things to know from G20 finance summit",
-    "url": "https://thehill.com/homenews/administration/6067626-bessent-rally-g20-support/",
+    "text": "Federal judge blocks Trump’s new birthright citizenship order",
+    "url": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-02T21:42:25+00:00",
+    "time": "2026-09-02T23:35:40+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Google avoids ad tech breakup",
-      "url": "https://thehill.com/newsletters/technology/6067634-google-avoids-ad-tech-breakup/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-02T21:42:10+00:00"
-    },
-    {
-      "text": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-      "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-02T21:41:35+00:00"
-    },
-    {
-      "text": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
-      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-02T21:38:21+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "I Went to Princeton to Become a So-So Indian",
-      "url": "https://www.nytimes.com/2026/09/02/opinion/indian-identity-princeton.html",
+      "text": "2 Police Officers Among 7 Shot in Minneapolis",
+      "url": "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T21:18:12+00:00"
+      "time": "2026-09-02T23:34:32+00:00"
     },
     {
-      "text": "Tehran targets U.S. allies in Gulf after U.S. launched ‘large and powerful’ strikes on Iran - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
+      "text": "States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-02T23:16:33+00:00"
+    },
+    {
+      "text": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks",
+      "url": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-02T23:09:09+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T20:52:00+00:00"
+      "time": "2026-09-02T22:56:00+00:00"
+    },
+    {
+      "text": "Trump’s Fantasy-Reality Problem Is Deepening",
+      "url": "https://www.nytimes.com/2026/09/02/opinion/trump-fantasty-reality-politics.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-02T22:06:17+00:00"
+    },
+    {
+      "text": "Cassandra Wilson, Star Jazz Singer, Dies at 70",
+      "url": "https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-02T21:55:04+00:00"
+    },
+    {
+      "text": "Deadlocked Lindsay Clancy jury wraps up fifth day of deliberations without a verdict - CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mdmR1R2lfVjh2OW1INGRvODFYN0NhaTNiX2RFbXIxX0RRRUxleHE1RFJVVGRNa1RkbXFpWndpaDlrVDczZDFkTzFaRE9DLThqNkhJUjMwYjloeGtBWkFyclZaZnI5X1l4YnpqSS1mUGxZZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T21:32:00+00:00"
+    },
+    {
+      "text": "Broadcom stock sinks as chipmaker results 'not enough to keep investors happy' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWi1FQVA1Q2FubEZJbUloSnRsRlBSWnBzTkVZSU85RTNJdE9LUEV0N1NBM3U0NDNPSHczc0I5aVozWTc4TjBwMXBiUTdYbGt2OTJEMk9oQkpzVDJiYXF0UWlWNjZHb1pGX2hRTjFoM0lkWjRtUEZjQVdzY2hjUGY5cjgwVzBueFp4ZjhjY2YwRW1BMEZZcXo3VWx5U3J6MkZJOUpSby1ySUFaUGVHZnV4dU41MDlQTFpfWUtQRHFWYjNNUEh3bzg5WlNNWGxXQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T20:59:29+00:00"
     },
     {
       "text": "USPS Is Building a Mail-In Ballot Screening System Despite Legal Battles Over Trump Order",
@@ -67,101 +94,65 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-02T20:38:12+00:00"
-    },
-    {
-      "text": "What Is ‘Narrative Art?’ The Lucas Museum Finally Shows Us Its Vision.",
-      "url": "https://www.nytimes.com/2026/09/02/arts/design/george-lucas-museum-narrative-art-opening.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T20:16:49+00:00"
-    },
-    {
-      "text": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T20:05:22+00:00"
-    },
-    {
-      "text": "As Trump Throws a Midterm Party, Some Vulnerable Republicans Send Regrets",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-midterm-convention-republicans.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T19:17:08+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Woman Killed in Times Square Stabbing Identified as Bank of America VP - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEJVSmtxSjdVdGZKM0RCYkpZUVp6aG81OGRrekFYMVFIaDNQYjNoczlucmNVR2lSZktMZXlucGwzN29pWmhPc2xTTDhObUxSUmVHWDExTHdhYXRJVlJpR2QtS1J5SHlYVE5nc1dZc2EyTW5oZnJCQ2lteUtqNzdXeVBfWVp4UHZyQUE?oc=5",
+      "text": "Multiple people shot, including 2 officers, in Minneapolis, police say - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1JWcUQxTThOMV92UWYyTVV2TVZtei1jUXdPaDEtdi15bDRQWjkxYmZUM3lBaURveXVmaUxvbG5ZMFp3OEk5bVJzSFBNZ0JkZzg0TUpUSFM2WElvcTd2WFlobGt6bDR3YU9QbFRwVzJIM3owVmM2aHYzdTl3X25HaWxQaTFwcTRFU28wUVFtX3JlbU0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T21:07:00+00:00"
+      "time": "2026-09-02T22:52:00+00:00"
     },
     {
-      "text": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "text": "Lindsay Clancy’s Trial Prompts Patients and Doctors to Rethink Postpartum Care",
+      "url": "https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T20:50:30+00:00"
+      "time": "2026-09-02T22:04:22+00:00"
     },
     {
-      "text": "NBA strips Clippers of 5 first-round draft picks, fines Steve Ballmer $30M in Kawhi Leonard salary cap circumvention probe - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObmoySzZ5LTcwajBHN1R2ODd1NVpaR1dyR3pVOXp1Vk10YzRRYkF4UzkzZl9DQnhidER4Y1V2cENaOTV3U05GVmdrekdud0VoZ2p3NmtoWVlxNWNqZzZCQ3RtUFhEMGRyS0xENnFBSi1lWWZuRG5naGpTN2tiLUl3dEs1TWNoN0ZzX0tIcVkyZnBjTWxZMzFTWm9PRWlNeTJGd0dZV25lSFNoM2phZkFveTQweTNNRXNNaWQwb1F5NXZIWkU5VEpLTnRNWmNuUHFTR1otVmdNSlRSZWg4YnVTby1mZ1JuUG8zeTBFUFNITkVQNThieS05LVREUjlXQW9INXIxNFJ4M0hFTlpOSXRTX0VzSU14cXloRFprNkwxZ0xzZw?oc=5",
+      "text": "Trump Administration Hunts for Elusive Noncitizen Voters",
+      "url": "https://www.nytimes.com/2026/09/02/briefing/dhs-voter-fraud-google-monopoly.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-02T21:52:14+00:00"
+    },
+    {
+      "text": "Progressive Senate candidates rack up primary wins even as they get outspent: From the Politics Desk - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaEZfRTlXdEZfQ25NWE5VV1UyeUxzWlZTREFOY25id2g0S29jbDRJQVpNY1Q2TGRIZUM0ZDZXdTVFcGNfbWtzVW5ZUllkNnJ2VlpPaklEclEtSVBfS283c2NjVFlsUEcwUFhuQ19FYlRWZUVYdUU4R1lkY1Z0blBpbjFmZU1aeUhvc1pvWjRQMjE5dGtkSUlLeXYtSW9XMnZYMTRaaEFVWUVzR2FkWkZDUGVzX3pHeVFBQXdIa0xHczM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T20:26:37+00:00"
+      "time": "2026-09-02T21:05:45+00:00"
     },
     {
-      "text": "How the Met’s Galliano Show Fell Apart",
-      "url": "https://www.nytimes.com/2026/09/02/style/john-galliano-met-exhibition-cancel-anna-wintour.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "House rejects GOP constitutional amendment to limit Supreme Court to 9 justices - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkZsOThTU2NaV3ROVmlHWnZCVk5vaWlTcVcwYTdHQ05IY3pWODJNYUN3X1RkektyOWRVUTAxRU9Sa3VHOS1seEVBUW5YYVh5UXVMenNzOVRFU2ltOEhkc0liSGVWenJTQ1FxalN1SXpaN2hMV09ucGluQk5ORVZ1MHFwWTh4Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T20:15:47+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T20:49:00+00:00"
     },
     {
-      "text": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Jury in Malta acquits businessman in killing of investigative journalist - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlVmQUxKbFNXVXhYNWQwOEJkbVFZSnEtSk5RMkZfbUZacmd2UmNiSXpJdURkVlhOeDdHSER5R2tEYUIyYmxhck1xZ3dNeXROR1V1c0xSY2E1QmxuU3R3SDlSbTBnQk1BT21tWGduY2phVGxfMEswUDhQMEFWYzNTV29LVmZfSVlJdHdTX21PRy0yR1FqTmgtM25GTE56b0otM2YzclhVY0l0dGVRR0N5VlRaZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T19:56:52+00:00"
-    },
-    {
-      "text": "How New York Times Reporters Traced Dark Money in Politics",
-      "url": "https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T19:13:44+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T20:30:00+00:00"
     }
   ],
   "col3": [
-    {
-      "text": "Cassandra Wilson, Star Jazz Singer, Dies at 70",
-      "url": "https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T20:59:13+00:00"
-    },
     {
       "text": "Deadlocked Jury in Lindsay Clancy Trial Again Says It Can’t Reach a Verdict",
       "url": "https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html",
@@ -169,7 +160,43 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T20:48:19+00:00"
+      "time": "2026-09-02T22:09:44+00:00"
+    },
+    {
+      "text": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T22:03:00+00:00"
+    },
+    {
+      "text": "Is Steve Hilton the Future of Trumpism?",
+      "url": "https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-02T21:42:44+00:00"
+    },
+    {
+      "text": "Markwayne Mullin safe after Coast Guard jet makes emergency landing due to engine failure - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTdfYTljRndLZkJMQ2VzYmh5NTlmYWNBMXlFcUE1LUs3ZGZtMUI2M1J0Y0lTSjk4ZHF4ZVpoUkJybFQwSGNzb1ptY3F1eFJFRXhPRlhfeTJrVDM4QUhoTW1ILXFWT19uUDdBcTR1eXFOQi1KZnU2d0hvRUFyZ0EyS1JneDRhaFpPWjRYUXJLVHpTd0hK?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T21:03:00+00:00"
+    },
+    {
+      "text": "‘Rocky Horror’ icon Tim Curry’s cause of death revealed - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFA5ellhRF9rcWVsMkJxRGhGWHRDNmdLNlBhSnFmZUg3TzUtZndUYVR4OUZXWGc4WlRsbDlNMHVnTDNDdjBGdGFPRTdNZ1V6d2pOTVB4MW5PSm5SMjZLS2daclgzM0c5RFVxQk9EQmYyZmRlVW9YUFFXczhDMFJ3V0hSeURvYkNUQjBZbjFSejFnWUdsU1BCRzJhdXZ0Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-02T20:42:05+00:00"
     },
     {
       "text": "The Filipino Star at the U.S. Open Igniting a Neighborhood in Queens",
@@ -179,33 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-02T20:26:33+00:00"
-    },
-    {
-      "text": "Lindsay Clancy’s Trial Prompts Patients and Doctors to Rethink Postpartum Care",
-      "url": "https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T20:15:14+00:00"
-    },
-    {
-      "text": "Coast Guard plane carrying Markwayne Mullin makes emergency landing after engine failure - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXVfWFNudGw5VnRxdnZBN1NpaDNWSEp1NzdFb21hSkVaUTBqckdHdEJhbWh0RHdIQktwLTBiYlRBZjFrLXk1QXhWbVFGWU1teDZ3QVV6a0c1QlQtSFhIaDhsQmZ6MWotNWlLWkhYQzZPRlBSU3UtV3JmQjBWS2hkU05NakkwczJxSVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T19:21:00+00:00"
-    },
-    {
-      "text": "Ask Us Anything About Our Midterm Reporting",
-      "url": "https://www.nytimes.com/2026/09/02/insider/ask-us-anything-about-our-midterm-reporting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T19:07:08+00:00"
     }
   ]
 }
