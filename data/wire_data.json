@@ -1,63 +1,72 @@
 {
-  "generated_at": "2026-09-03T15:14:51.829157+00:00",
+  "generated_at": "2026-09-03T18:46:13.958295+00:00",
   "lead": {
-    "text": "CNBC Sport: NFL set for first-ever game in Melbourne, Australia, in international expansion",
-    "url": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-03T15:13:06+00:00",
+    "text": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+    "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-03T18:38:57+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday",
-      "url": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
+      "text": "Maria Bartiromo Is Out at Fox News - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3BoYUhsbFJrZEJ4eU9QRE1qaXd6b21VMzlJZHdGa1pSa0VGbGo4d2VkdzhJZmYzYmtzSW9kVnRVTktUbVlLQVA2OXk1TnVWdU8yRHZnWG1TajhHeTVHb2dtcjNELXVYVlZVR0JiNFQ0YTZfbzduZHRsSjRwbUV3cGJFTGhIeEpwR0NDOGlkTzJXOVNkZGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T18:32:41+00:00"
+    },
+    {
+      "text": "Fox News parts ways with longtime host Maria Bartiromo",
+      "url": "https://www.cnbc.com/2026/09/03/fox-news-host-maria-bartiromo-leaves.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-03T15:12:24+00:00"
+      "time": "2026-09-03T18:28:17+00:00"
     },
     {
-      "text": "Trump Moves to Strip Tax Exemption From Schools That Aid Minority Students",
-      "url": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T15:12:03+00:00"
-    },
-    {
-      "text": "Live updates: Vance to helm White House's press briefing; House slices 2 weeks off DC schedule",
-      "url": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
+      "text": "Leading medical groups update flu, COVID vaccine recommendations amid confusion",
+      "url": "https://thehill.com/policy/healthcare/6068925-ama-vip-vaccine-recommendations/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-03T15:07:35+00:00"
+      "time": "2026-09-03T18:28:09+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
-      "url": "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html",
+      "text": "Rate Rise in Play as Fed Officials Await Inflation Data",
+      "url": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T15:04:40+00:00"
+      "time": "2026-09-03T18:19:18+00:00"
     },
     {
-      "text": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-      "url": "https://www.nytimes.com/2026/09/03/todayspaper/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+      "text": "Stock Market Today: Treasury Yields Retreat on Fed Official’s Rate Comments, Yen Jumps — Live Updates - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkh6R2NHVE1RTVR2dmduNEtRMWJBZEYyRFU1RDVEb3VocmFWRzE2bUw2SW1xekZpcXotTUFNM1I4Qklmc2VJT3o1TGtWYUdNbTVkcllZdDRnME9ZUEFGQnA0aWFYLVVjVmhsSHh0SjhyYmxSbnpWWUZCT3FrQ0kyQlBkekhFb2s?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T18:04:00+00:00"
+    },
+    {
+      "text": "Hillary Clinton, Meghan Markle, Lena Dunham and Others Pay Tribute to Gloria Steinem",
+      "url": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:41:56+00:00"
+      "time": "2026-09-03T17:54:09+00:00"
     },
     {
       "text": "MAGA Is Feeding a Separatist Surge in Canada",
@@ -66,37 +75,46 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:29:57+00:00"
+      "time": "2026-09-03T17:26:35+00:00"
     },
     {
-      "text": "U.S. Trade Gap Ballooned in July",
-      "url": "https://www.nytimes.com/2026/09/03/business/economy/us-trade-defecit-july.html",
+      "text": "SEC files lawsuit against LSU, Lane Kiffin in wake of push to bring back former NFL players - On3",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFZtYm56WWQtbThTTWFQZHBfTXViTWtrVWRxZHFwclA2Sm4xYk1XWVJHYk9ScEotRWhQcDUycWNvX3RFekVKUkhsSzVpeGd0NEpwSDN1Q25vLTIzQUZXZEp6ZFhMQ0xEa2lOUUVQTWs0VlVLWGJacXEzZ2NNRGlHTXVnLWREZkNMNldubkVDb3I0QjRORzd4NlllN3V5bWxUWC1YUFFkVV9SMTRNUjh0T1ZwQmU5NWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T16:50:43+00:00"
+    },
+    {
+      "text": "Travis Kelce’s New Ohio Home Has Neighbors Buzzing With Excitement About Taylor Swift",
+      "url": "https://www.nytimes.com/2026/09/03/us/bratenahl-ohio-taylor-swift-travis-kelce.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:12:13+00:00"
-    },
-    {
-      "text": "Oil Jumps for Fourth Straight Day and Diesel Nears Record High",
-      "url": "https://www.nytimes.com/2026/09/03/business/oil-diesel-prices-iran-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T13:59:22+00:00"
-    },
-    {
-      "text": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T11:35:44+00:00"
+      "time": "2026-09-03T16:37:36+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "What Happened When Gloria Steinem Was 22, Pregnant and Fleeing Her Old Life",
+      "url": "https://www.nytimes.com/2026/09/03/opinion/gloria-steinem-feminism-abortion.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-03T18:12:37+00:00"
+    },
+    {
+      "text": "Federal Prosecutors Charge ICE Agent With Lying About Minnesota Shooting",
+      "url": "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-03T18:03:00+00:00"
+    },
     {
       "text": "Reading Jonathan Franzen’s ‘The Corrections,’ 25 Years Later",
       "url": "https://www.nytimes.com/2026/09/03/books/review/the-corrections-jonathan-franzen-25th-anniversary.html",
@@ -104,72 +122,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T15:03:51+00:00"
+      "time": "2026-09-03T17:48:28+00:00"
     },
     {
-      "text": "The Athletic Says Dianna Russini’s Relationship With Mike Vrabel Violated Its Standards",
-      "url": "https://www.nytimes.com/2026/09/03/business/athletic-russini-vrabel-relationship.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "A pair of spacecraft draw closer to Mercury after nearly decade-long voyage - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpLTHduNk1tNmhIWDBPbEJvWHFoMjVBRk90Y3BsXzBWVjJCQ3VmX2U4VEZkeVpxME92V29oVFlaamFuRzdUM3Q4NWZGUzJ6QnpPTEEyUnlhdUFyWHFZRHBtc1o2aTBUbGNsbFpYdWdTMDAybzEzbl8yLVBzUFgwYUxVd1Rqc3NtNkN3ZlNiRkw3aDBq?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:40:19+00:00"
-    },
-    {
-      "text": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
-      "url": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:25:01+00:00"
-    },
-    {
-      "text": "Rate Rise in Play as Fed Officials Await Inflation Data",
-      "url": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:07:45+00:00"
-    },
-    {
-      "text": "Gloria Steinem’s Glamour Was a Means to an End",
-      "url": "https://www.nytimes.com/2026/09/03/style/gloria-steinem-style-feminism.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T13:46:09+00:00"
-    },
-    {
-      "text": "U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics",
-      "url": "https://www.nytimes.com/2026/09/03/podcasts/the-headlines/us-iran-wedding-attack-influencers-politics.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T11:17:01+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Linda McMahon’s Letter to Colleges Is a Trap",
-      "url": "https://www.nytimes.com/2026/09/03/opinion/trump-mcmahon-harvard-compact.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T15:02:41+00:00"
-    },
-    {
-      "text": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
-      "url": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:39:47+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T17:26:00+00:00"
     },
     {
       "text": "After Trump Rift, Musk Begins Spending to Boost Republicans",
@@ -178,34 +140,72 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:15:15+00:00"
+      "time": "2026-09-03T16:50:00+00:00"
     },
     {
-      "text": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-      "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+      "text": "Mortgage rates jump to highest level in over a year - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzJqNDNVaTN1YldZdG8xMFlqS0NQLTh2ZktMT0hKbExmSUxIVkZtSjUxOTdzV3FTQ0hEREI4MjQycnBTbEF0U0FpS1JVWlZlc0Rodjl1T2xIQXNUZGpqUHhqMUYzQWRpZTdQZ2RNcVRXTkR3Mkx5YVpkZUFCT082MUJmUGx6QdIBiwFBVV95cUxQQ2Rub0hZSlNIMHB5UUlNWkJiM0Jyc3dKQUpvanVxLTQ1XzRkUHY2LTZlMzZDYjEtVHhFb3VpVGpXdWY2ZVVUTTJENFlLNGUzd0dGS1ZNS0N5Q1ZkS0dCODRjM0xHVWhVYms4WVRaY2FMOGZEZEhpb0t5NVJVT1VXbGxOcDg5dTVPWUpr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T16:35:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Bessent Blames Ukraine for High Energy Prices",
+      "url": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T14:03:49+00:00"
+      "time": "2026-09-03T18:09:19+00:00"
     },
     {
-      "text": "Can the Lindsay Clancy Jury Break Its Deadlock?",
-      "url": "https://www.nytimes.com/2026/09/03/us/lindsay-clancy-trial-hung-jury.html",
+      "text": "Schools Giving Aid to Minority Students Could Lose Tax Exemptions Under Trump’s New Rules",
+      "url": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T13:13:52+00:00"
+      "time": "2026-09-03T17:58:55+00:00"
     },
     {
-      "text": "Pete Hegseth’s Military",
-      "url": "https://www.nytimes.com/2026/09/03/briefing/pete-hegseths-military.html",
+      "text": "Trump administration aims to strip schools’ tax exemption if they consider race - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXBPOGdZQkpuQVZWalNxR0RFaEtGRFZ3YklZVGNneXMxNmhvZTRwcVBpeHpoVVdReTk2TWpmOFY4UEhxQjlyMnQ1NzFyY0JPYndKc2RpcDQzM3gyTnlNMC01VnlSNlpjQW9VSjlUeDhTcWViRDltMC1yQjFOM3Z4eGhkcDFUazRDMmZMSlp3elkxazF4UEdCZ2FDLW51VUlSb2VEaWlqQ05CVjJYNzZ4LWhEX0dzVXJDMTFXTUpVS1R5YUlmWkZF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T17:46:49+00:00"
+    },
+    {
+      "text": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KNXpZOERfQmJsdnNOeGhfdC1HMy1pVGVkNG1KSEdPeVRTTHA0VGVBdXg5X0hoU2hCa2p2YUc3QlVsZU03NGJVQ0xzQWtJOTZUbFZudE9CZnJsVEh5VkhuZlZaMHJtQ0xNck50NnZvM0R3ODdCdnFlZVVOWklHa1HSAYQBQVVfeXFMUHJIMjJJaGo5c25zcDg1VDVFZVBteTh0UGp2a2xnR0hLYkdkQUZxZXZNZFdzRFVNM1VDeG5nRFkxQnJ3eWtnLUFvWktIVXRjclhZQnRSSldNQXA4c1VjLThDdVd4R0RSY1B0ZUU0OWtfRWZMTzctTHpjcDFqcG5Ra0ZwRGwx?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T17:00:01+00:00"
+    },
+    {
+      "text": "Trump’s D.C. Makeover Projects Are ‘Only an Idea,’ Until They’re Much More",
+      "url": "https://www.nytimes.com/2026/09/03/upshot/trump-dc-mall-garden-heroes.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T10:54:04+00:00"
+      "time": "2026-09-03T16:41:05+00:00"
+    },
+    {
+      "text": "AP Source: ICE officer charged with lying to investigators in the shooting of Venezuelan man - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T16:22:00+00:00"
     }
   ]
 }
