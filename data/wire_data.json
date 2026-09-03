@@ -1,211 +1,211 @@
 {
-  "generated_at": "2026-09-03T01:30:26.265564+00:00",
+  "generated_at": "2026-09-03T06:30:25.090309+00:00",
   "lead": {
-    "text": "Cassandra Wilson, Star Jazz Singer, Dies at 70",
-    "url": "https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-09-03T01:23:26+00:00",
+    "text": "LA Clippers fined $30m over Leonard pay scandal",
+    "url": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-09-03T06:17:37+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "2 People Are Killed and 2 Officers Are Hurt in Minneapolis Shooting",
+      "text": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates",
+      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-03T06:05:03+00:00"
+    },
+    {
+      "text": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+      "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-03T06:04:11+00:00"
+    },
+    {
+      "text": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-03T06:01:54+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Trump encouraged Army secretary to stay in job - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWgxRGlNVC1BQUNiS1ZjS3ZPUlV3ZWdGM2FrNUtKbGlCWExpUnhjWUFOUVJiclctU2lRaUJVSXJ5bGVRbDQwZ19LNkFBUDJtRFo5X0FoRS1ZYkZ1by1nUlNLZW9QVlRXbnlmbktqc0JGR1A3djNlSjNsMGxWSjRZc3BkVHJvWFREY2Y4Rm9DSEh3akhjeVlLVkRvN0lwcHJsbWpZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T05:33:23+00:00"
+    },
+    {
+      "text": "MAGA Is Feeding a Separatist Surge in Canada",
+      "url": "https://www.nytimes.com/2026/09/03/opinion/canada-alberta-separatists-trump-maga.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-03T05:00:09+00:00"
+    },
+    {
+      "text": "Trump Puts Tariffs of Up to 100% on Foreign-Made Drones",
+      "url": "https://www.nytimes.com/2026/09/03/business/trump-drone-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-03T04:01:05+00:00"
+    },
+    {
+      "text": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlg0cGlseUFSOG9lUWpLZE9SbVlmZmdjZVpmXy1nZ3lzb04tQ1NLZS1pcHBNZlIybjJhVTdXSHJqVl9OWmk2R3JUd002Q2ZtNlhWRk5TLTVQNE9FOGZYcVpLeVFtVV9qdkhEQVpuRFVrS0VKaEtKRXAtcmg3NE0zVmRhWFJibExUMVRTeFkyTmxnNll2SGF3b0ltaHVJbzVQSXFrVGJIcjZkeEhyaWIwZnJLdHc3QU1Cd3M0TzM5NHJNUmN2NWI2SXRISjEwbUZNR3JfUjBDUTVLUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T02:38:00+00:00"
+    },
+    {
+      "text": "Tehran targets U.S. allies in Gulf after U.S. launched ‘large and powerful’ strikes on Iran - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T02:13:00+00:00"
+    },
+    {
+      "text": "Judge blocks Trump’s birthright citizenship order aimed at ‘birth tourism’ - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY281ZW95TGloNk1CdDBpd0hWSHdBU01JRWtmQmU1TmUzSVA2NGk5WTM5WklRMGhKNVRsNkZtbzI1NE1CZ19SLVNtaExnZTA0WTdNeDFjdzdEdVhjaUlBNVZEdm9aRF9XT1pESTAtUlRLSHpaRDlTc2N4bDBTdlhRZ2Zn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T01:41:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVdRVkJTSmh6dDVnNk1rXzdHaDNSUGE1SU5xVUJkd2JPcjZubGh3Z1JsbHUwSGhPc01mSDhhVGhqbDdlZFFrRkh3VDVKS1hheHJrMW5uRmZCcUZ1eU5hVnlWZWpJUzVBZVRkTzYxRUM3bU5NdEVqWVhpMUtDdU1IX2dJZUdpN3JNLUotVg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T05:20:00+00:00"
+    },
+    {
+      "text": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T04:12:00+00:00"
+    },
+    {
+      "text": "Trump $1 coin makes him first living president on US currency in a century - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GR0JWWFpxbkRRaE1Ga18wN2RaNzM3UXVLRlgzZ0k3STRaZjZHSmxVbEpVekFvNnVGVkYyVVlFX3I0US1sVlBoZmZGbldvUUZkU2pvM0NsVU9GQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T03:39:53+00:00"
+    },
+    {
+      "text": "1Password Wades Into a Right-Wing Mess After Funding a Linux Project - Slashdot",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR3NFTW9TdHhzcngzQU5aTVdxTkFtMHFBbmRYZWNsMklDVUllVmdGY20xaDhUbzNjbUg4c1NZY3g1MHB5UmxDbkhtQzFUZS1SS1hXNERkb2M3MWY4U3FHYWhpdXNTZFlHT05JSGhNQ0E4NWc3M1hCSWRhblBEYUo2Qm8tZUJ3Tjh0TXdsVkJlZXJ6cDI2RnFIRS0zUXBQRVJoQlAwNGRRSUxYeVBvRWNLYjVVRENFbzhx?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T02:34:24+00:00"
+    },
+    {
+      "text": "D.S.A. Chapter Endorses Nithya Raman for Mayor of Los Angeles",
+      "url": "https://www.nytimes.com/2026/09/02/us/nithya-raman-dsa-la-mayor.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-03T01:53:16+00:00"
+    },
+    {
+      "text": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUZwa2JSV1dfS2Z3Znh3OGo1eEFUdkJFd1hLVGQwQkZfREIwT3k2QU5rLVlmckM0X0Y1VEhDX0NjZGtmMnlObHhCbTdCdlNocDdHSlpad1pFRllVYURzRkhIa3hIMHAydjVxMjRxRWU1Z1lSckFEa0ZwczJNUThzZG03QlZwWXdTV293WUFGTUxSZU5hZXU2bjd3NGQ1ZDBQbDkydVhKcDh6T09lc0l3RS1oMNIBuAFBVV95cUxQX0VSbmw4XzBDU0UxbDFSUXhwUFJ6NGptc1QzcnIwZWFUZDBqQnFaZ3dSc2VvQmxlZkNIU2FNLWFWc3RiQWpEamVkNWdLdjFfcC1XTUpXeEROTGVCdnQtUlZvNldQc2c3X25LWEFYT21EUjlzUmZxWUlfZDU1cXJOMVNhaTFUYlk0MTAzX1g0ekY4cHFYN28zRXJPVVMyLUoyX0FsQlVUbDJHc2IxMWdLeUVHZnZITFFp?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T01:26:33+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "World’s Unusually High Dollar Exposure Risks Fueling Selloff - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWQzQzFfUmVlRlRHQkxaMnM0WC1oamw3eER3VzZVeEtGSExkTHRxOU1mQTdYWFVTYU1QRkZTcW5Xd2xBQVFJMWRUNF9ieXJUTlhyVFlwcHBlbHo5Q2ZZaHdSZnk5MTVmelNMakYyb1c4Q1ZtRWpRSjdoUWJmSmd6bWZrMEx2bGlWNGtabnRnbHRlZXBjRF9aNkRuUS1KMTZ6WW91ZHcwUGE1QlZTTkJldg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-03T05:13:00+00:00"
+    },
+    {
+      "text": "2 Killed and 2 Officers Shot at Minneapolis Apartment Building",
       "url": "https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T01:19:26+00:00"
+      "time": "2026-09-03T04:01:34+00:00"
     },
     {
-      "text": "Inside the Fight Against a Flesh-Eating Fly in Mexico",
-      "url": "https://www.nytimes.com/2026/09/02/world/americas/screwworm-facility-mexico.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T01:14:05+00:00"
-    },
-    {
-      "text": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T01:08:35+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "What Is ‘Narrative Art’? The Lucas Museum Finally Shows Us Its Vision.",
-      "url": "https://www.nytimes.com/2026/09/02/arts/design/george-lucas-museum-narrative-art-opening.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T01:04:22+00:00"
-    },
-    {
-      "text": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
-      "url": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T00:03:43+00:00"
-    },
-    {
-      "text": "In the Midterms, Will the Nepo-Baby Attack Work?",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T22:55:07+00:00"
-    },
-    {
-      "text": "Deadlocked Jury in Lindsay Clancy Trial Again Says It Can’t Reach a Verdict",
-      "url": "https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T22:09:44+00:00"
-    },
-    {
-      "text": "Trump Administration Hunts for Elusive Noncitizen Voters",
-      "url": "https://www.nytimes.com/2026/09/02/briefing/dhs-voter-fraud-google-monopoly.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T21:52:14+00:00"
-    },
-    {
-      "text": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnBGTFk1d1dxelY4OGtZb0dCd0xmYnFJNmx5cmhGR0tSMDlieEV5Wm5pamxwVTljZXVDNWtJYXpnLXlWQ1JSejZPYzR2NlVZUkZTZFNNSVc2RUFjTmV4cFBOWl9lTzZoWV9rRlhpS1JsM3o2T2VyNkRidVl3YlhDWmlMcjc?oc=5",
+      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYV9ZN2R2OTZjZzlXU19jcGJHRF9qNjRHZHp1ZElzdG5OWVZtWVJxVEhLeHpxbjBTSGJKZnJFWlFwV3N1LUE5WVl1Nmh4NVgyUWFwd0FScGJmdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T20:51:00+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-09-03T03:21:24+00:00"
+    },
     {
-      "text": "As Midterms Loom, Democrats Feud Over Defections",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/democrats-defections-internal-feud-midterms.html",
+      "text": "The NBA Drops the Hammer on Kawhi Leonard and the Clippers",
+      "url": "https://www.nytimes.com/2026/09/02/podcasts/the-nba-brings-the-hammer-on-kawhi-leonard-and-the-clippers.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-03T00:17:00+00:00"
+      "time": "2026-09-03T02:17:04+00:00"
     },
     {
-      "text": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T23:24:00+00:00"
-    },
-    {
-      "text": "Balogun pulled out of Everton move over handling of his medical, claim Monaco - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNam0wXzIzOXRWMExFdzhDaGIyVFhPMFk1SDdtYlowTGxYclZmemdTMDJPa2dPOTJqYms5bkVWc0E4b2Nqc1g1LWpxNkRxTEJJQ3ZGc1lPTmhyRDJiY3ZrcWFaZnhwcDJ2cC1MSUUzQl9rVkc3bkExalB5S29pYWVuX296Tl9GZ0dqbVpGZmNoY2wzVHZkVUdMbUdMcnh4MlptSHFuUWczNDhXZk5DZkZhVTFBMDR6UnBuUHpZUWtaYWQ1dkZGYnJ3cjRWUjk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T22:47:00+00:00"
-    },
-    {
-      "text": "Trump’s Fantasy-Reality Problem Is Deepening",
+      "text": "The President Can’t Handle the Truth",
       "url": "https://www.nytimes.com/2026/09/02/opinion/trump-fantasty-reality-politics.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T22:06:17+00:00"
+      "time": "2026-09-03T01:52:29+00:00"
     },
     {
-      "text": "Is Steve Hilton the Future of Trumpism?",
-      "url": "https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html",
+      "text": "Cassandra Wilson, Star Jazz Singer, Dies at 70",
+      "url": "https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T21:42:44+00:00"
-    },
-    {
-      "text": "Broadcom Stock Falls Despite Better-Than-Expected Fiscal Q3 Results - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejFpVFFiYk5qcXlWUDhHN2JHR0x3MFpQT3NuT1A5ZEVYVHB3d2YxRHEwdUIxRDhKbF9TSEN1Uzl0c1hrOGJtV1E0SFhwT041TW16V2JLdzNzMF9pd1A4eEtoMjlvSHhoNHM5Sy1pc0ZjM2hSMG9QUjdoU2RiLW5DRmZkek41SVBFV2JTeTB2Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T20:50:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjNIdlpwb3dnZVZTQ3BsNzR1WTh0dTA5dXB4TFVfVWd3VlFZWGMzWlZSLURhdERDTExHbkppVGxtWHpvQlhQaC02M21IQXpETVI5d3VpZGJvMTAzcHhDTFJkM1JLYzNIcG5mdFQ2REFMS25RcVcyaHNuYk43Rm9SbEViVGp5OXpZeGZqVC1rb3lDQ1NFV0pPX3BzaXhRYjdhRnNvdU5TVkdtNzJvOERvd2xfbFc3OWh1Unc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-03T00:09:00+00:00"
-    },
-    {
-      "text": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T22:56:00+00:00"
-    },
-    {
-      "text": "Multiple people including police injured in Minneapolis shooting - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSER0VkZUMDNEVGk1bEtvbW9nVmNCckdVLWp4S05fNTE4SFQyNjJzZnhsRk1Ba21HQ1pqX3FrWHNDdnMyYnFNUmM5dEROY2pGOHB1QnRlcXY4R0dfUkxKeW9ySGRrTVhobW1Ma0VRcnlKRG8tU3Y1ZGxGNFFLVDMzXzBfVXdmVWFib0Y1RUlyUkNvd2lQaFlGSGg2dDVkVi1ramZvd05aS29uQU82MWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T22:27:00+00:00"
-    },
-    {
-      "text": "Lindsay Clancy’s Trial Prompts Patients and Doctors to Rethink Postpartum Care",
-      "url": "https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-02T22:04:22+00:00"
-    },
-    {
-      "text": "Progressive Senate candidates rack up primary wins even as they get outspent: From the Politics Desk - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaEZfRTlXdEZfQ25NWE5VV1UyeUxzWlZTREFOY25id2g0S29jbDRJQVpNY1Q2TGRIZUM0ZDZXdTVFcGNfbWtzVW5ZUllkNnJ2VlpPaklEclEtSVBfS283c2NjVFlsUEcwUFhuQ19FYlRWZUVYdUU4R1lkY1Z0blBpbjFmZU1aeUhvc1pvWjRQMjE5dGtkSUlLeXYtSW9XMnZYMTRaaEFVWUVzR2FkWkZDUGVzX3pHeVFBQXdIa0xHczM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T21:05:45+00:00"
-    },
-    {
-      "text": "‘Rocky Horror’ icon Tim Curry’s cause of death revealed - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFA5ellhRF9rcWVsMkJxRGhGWHRDNmdLNlBhSnFmZUg3TzUtZndUYVR4OUZXWGc4WlRsbDlNMHVnTDNDdjBGdGFPRTdNZ1V6d2pOTVB4MW5PSm5SMjZLS2daclgzM0c5RFVxQk9EQmYyZmRlVW9YUFFXczhDMFJ3V0hSeURvYkNUQjBZbjFSejFnWUdsU1BCRzJhdXZ0Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-02T20:42:05+00:00"
+      "time": "2026-09-03T01:23:26+00:00"
     }
   ]
 }
