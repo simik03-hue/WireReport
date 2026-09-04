@@ -1,34 +1,175 @@
 {
-  "generated_at": "2026-09-04T18:27:42.797439+00:00",
+  "generated_at": "2026-09-04T20:59:44.968794+00:00",
   "lead": {
-    "text": "Stocks making the biggest moves midday: Sandisk, Tesla, Lululemon, Quanex, AMC & more",
-    "url": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-midday-sndk-tsla-nx-amc.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-04T18:24:34+00:00",
+    "text": "Alejandro Betancourt, Trump’s Partner in Venezuelan Oil Deal, Has Faced Investigations",
+    "url": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-04T20:55:12+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Dow falls 250 points after much stronger-than-expected jobs report: Live updates",
-      "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
-      "source": "CNBC",
+      "text": "Trump offers first comments on Lindsay Clancy case",
+      "url": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-04T18:24:28+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-04T20:54:22+00:00"
     },
     {
-      "text": "Gloria Steinem Stayed Positive, Even as the Manosphere Took Hold",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-feminism-manosphere.html",
+      "text": "Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T18:21:13+00:00"
+      "time": "2026-09-04T20:52:39+00:00"
+    },
+    {
+      "text": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+      "url": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T20:51:28+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-Murder Case - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T20:44:04+00:00"
+    },
+    {
+      "text": "Supreme Court Sides With Republicans in TV Ad Fight",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T20:17:33+00:00"
+    },
+    {
+      "text": "Trump Administration Issues Subpoenas For Voter Data in Nevada",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-nevada-voter-data-subpoena.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T19:55:36+00:00"
+    },
+    {
+      "text": "Vance says Trump, US military have prevented ‘energy crisis’ during Iran war - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGFIVGlBaUNiekdjQ3dleWxrQUNJcHBWSklSRHR2bWk3VUswUmZnOHpELWhlbEplRVVOWHZHREJMQ0x4LWVkdDl5eVEtMnpHOUFSYmxRYy1LcVpnTUJBZk1NM1V3S3Z2eTgxYnRKMkVCUTNZUzRsOXQ1LTRvc3dvcGNNSnNHVE5QYVc0VTNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T19:30:00+00:00"
+    },
+    {
+      "text": "For Gaza to Recover, Hamas Must be Expelled",
+      "url": "https://www.nytimes.com/2026/09/04/opinion/gaza-hamas-palestinians.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T19:05:29+00:00"
+    },
+    {
+      "text": "Feds charge ICE officer with lying to investigators in the shooting of a Venezuelan immigrant - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGNteDNiQm95SlNad3gzNkM0TGE0WDIzdWtFZmlnQXM5NTctWENCUzAyLVNBSXBCVzA2R0piTUxzdVpfSlVSNUp3bUxyczNLZHh2eGE3SXY3cDJDeDgtaWFUOUEyeGVDTXN5aGYxNHZCVGlsZTRVRXR2TkROQWVJVTAyTTF4RWFxVHk5WF9Bd0VOYko0bXhmVnNKX1pSckhWUk5HSnNWQ1IwdHk2Q0VCdE85dlpYNWk1WHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T19:04:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "‘It Was Insulting’: When Steinem Said Young Women Backed Sanders to Chase Men",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-clinton-sanders-2016.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T20:37:46+00:00"
+    },
+    {
+      "text": "Homeland Security Dept. Asks for Inquiries Into Voting Machines",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/mullin-homeland-security-ballot-devices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T20:11:00+00:00"
+    },
+    {
+      "text": "What Lindsay Clancy’s Trial Tells Us About Ourselves",
+      "url": "https://www.nytimes.com/2026/09/04/opinion/lindsay-clancy-trial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T19:48:56+00:00"
+    },
+    {
+      "text": "Six-week-old child in Pennsylvania dies from measles, coroner says - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnVjQS1zeklNQnJ6aDN2TGF1Uy1KdHdDbUM3YUhFbXlfaXB6TDBlRzlHTVRBNEtVTjk4SFoxTXlJcHFZdjBmaVFZOUtHeG1jdmhYM1IyZTRCUDhteFBkcXI4YjJtODJtblJfbGdYMHdwbzJmY2F6OWFKVTlFWVAtUDJMX1BGZWRK?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T19:28:00+00:00"
+    },
+    {
+      "text": "Miley, Beyoncé, ADÉLA & More: New Music Friday Guide - billboard.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckc2XzJ1UTdjNE9LdWZnRGQ5OVQ5WVY0dkdFd210aFdTeHJvY3haTnlGYlZuWC0wdDJ0X0o1V01iVUEyY0paaHkwbzc2aHg5V1kxc01oalJiUmdiRC1veTJ5NXdRZ0p0SjljM3NzUXFIRzFnQUdMcHVPMnJFejR0Q3FlY1JCUGlra0ZxMzMzaDVncUtTNEY3X1pkRTB3UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T19:05:11+00:00"
+    },
+    {
+      "text": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T18:49:58+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Quiet on the Court! As U.S. Open Grows, the Crowd Gets Rowdier.",
+      "url": "https://www.nytimes.com/2026/09/04/nyregion/us-open-social-media-influencers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T20:28:06+00:00"
+    },
+    {
+      "text": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHduWVYtMzJYQk5UcVJNbWxaY1Z4YnA4ZWZ5dFRQSXEtTERLTUd3Y2gydFJ6MUdTeWstd3k2NTZWZnR1ejNwWEhOY05SRnFUOURrZi1qWUpLeXAyWWR4ZlJSOXBUZFBkY1Q2dmNzbkxncVkwNzZtU0ZtWlluSll0bjB2SDFtTUNvMmNwTlBRY1RNOE5EdGZHRDV3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T19:56:00+00:00"
     },
     {
       "text": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
@@ -37,10 +178,8 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T18:17:28+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-09-04T19:45:22+00:00"
+    },
     {
       "text": "Robust Hiring Reinforces Strength of the U.S. Economy",
       "url": "https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html",
@@ -48,128 +187,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T18:04:35+00:00"
+      "time": "2026-09-04T19:17:35+00:00"
     },
     {
-      "text": "Gloria Steinem Found Community and Clout Over the Dinner Table",
-      "url": "https://www.nytimes.com/2026/09/04/dining/gloria-steinem-dinners-food.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T17:39:07+00:00"
-    },
-    {
-      "text": "Trump Administration Moves to Drop Protections for More Wetlands",
-      "url": "https://www.nytimes.com/2026/09/04/climate/epa-wetlands-water-protections.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T17:24:40+00:00"
-    },
-    {
-      "text": "Alcohol-related cancer deaths in US have more than doubled over three decades - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2hHOGlfdHEtV3czOFNaazlQNk9VSzJoc3lmb2NxR1hoOWMzT0RjX0NTdHFTQU9MVlFoT1Qxd0tMVDhxWFo3SnY3b1NzT2ZvTGRBd3JoSjBNQ3BkemxpZ216U1BTLWxvai1jUk54SHJoMDVPNEV5d0ZTMWNoVEtFSW94QQ?oc=5",
+      "text": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T17:12:00+00:00"
-    },
-    {
-      "text": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T16:51:14+00:00"
-    },
-    {
-      "text": "Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T16:35:54+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Stock Market Today: Bond Yields Climb, Dow Slips After Jobs Report — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2FSU0ctdGtjRG9DOWVDNVJKNDRjR216S080eW5hN1dlZHV5OEl4UzlKT1VVT3k2Z1hqSERTSEJpWHNrZG9QbWg4RlpxbXFoM2VCNEtDT0JFdnJQWGwtbTVQeUNpMXN4OG5yQURYcUtBN2pjS1p5TnkxOWN4MjFBaw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T17:53:00+00:00"
-    },
-    {
-      "text": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T17:36:49+00:00"
-    },
-    {
-      "text": "N.Y.P.D. Fatally Shoots Man With Knife on Brooklyn Bridge",
-      "url": "https://www.nytimes.com/2026/09/04/nyregion/nypd-shooting-brooklyn-bridge.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T17:16:33+00:00"
-    },
-    {
-      "text": "Live updates: Judge in Lindsay Clancy trial says he intends to declare mistrial - CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fd2JiWE1ucDBCR29tXzhZV0htRExFN3JyMERPeVFidE55M3ZpWGpDb1Q1UXR3blRHWG9SdEVkOXpMYXR2eWxMQ2hoM2ZCaHMwQ2FyVnNpellQODVvd0VTQVdlaGpJQ3JpVlNXMi1DVW9Bdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T17:10:00+00:00"
-    },
-    {
-      "text": "Maria Bartiromo’s lawyer says she was not fired from Fox News - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0ZMZ18tM3BiRzU5aUoybWs4aEtGbVptMkFlOElGdS1XRlFWRGJIMTc0RGNQV1FIUDNQNWE0TUtKMTc4OGc4WXB3dy11RWN6bnE1UFNrbzF5RUZpQjJfZ2l5S1lNbE0xNFEwYXFqaGcxdm9IbjliWU0zSC1TTm9iZWNmUFo0cWhRRXdLRVZsYXF4MlFkNHdxVjk5ckhNZGItMEkw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T16:49:28+00:00"
-    },
-    {
-      "text": "Brain of a male fly completely mapped, joins earlier map of a female brain - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMExXSUVqa0w4a3FxdW02UlBEeVRrRnJweXlqdG8xdDROeWV3eUtnREsxZXR2bXhENWtGTDVXYlk2cXJTWUdXeWt0Q092d1c4bVNJaGM0MEd1dzdESlBoVC0zX3ZVYnNuS2VRNU5wT0VuN1ozTk83cmxzeEY2a24xVXNuMjVnOGdFTmUzTGJGenQ5M2tjRmgxNF9XWWpJZ3ZMakN0aGRvOUFTRUx4UTMtUFZCQjE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T16:24:24+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal - Missouri Independent",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlZOeFh2VVYtYllOT25KN2RhNDA5YzVtdFdOdU5vNy1OSnlfX0M1bWVMRDJodDBZOGgwZmxfREVjQ1VSR09hQ3VSUFMxZzZsN0p1WjM0TTF5RUotRGNmLU1IVW9tbTdaV2twVHFJZWhTYk0tdUpGNFhIbkpBLXYxRW00OUtZWFZVXzh5d2M0Wk5uMEdxMURQX1RuTk1XWjdtWklhd0VsVmpMMV9jRmxFalpmMk80cU0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T17:41:49+00:00"
-    },
-    {
-      "text": "Inside Mamdani’s Private Army of Public Influencers",
-      "url": "https://www.nytimes.com/2026/09/04/nyregion/mamdani-influencers-emilia-rowland.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T17:29:05+00:00"
+      "time": "2026-09-04T19:05:00+00:00"
     },
     {
       "text": "ICE Agent Charged With Six Counts of Lying About Minnesota Shooting",
@@ -178,34 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T17:15:09+00:00"
-    },
-    {
-      "text": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM29VQllNaTNMRF9GdDY1LVM3VzZGNS1wLWlCRDJseU1oRHVSdTdBM1FMUHFnSnlxLWZIS1BvaEM3VjNlYzZIcDdDMDY3eS0wMFYtZU1jMXNpUzFLZWlob2wxTmlDbXBRdEMxNUVkSVFpTG9La3RxSUpQWUpTc0RUMTYyTjU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T17:08:30+00:00"
-    },
-    {
-      "text": "How to Define the ‘Reasonable’ in Reasonable Doubt",
-      "url": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-reasonable-doubt.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T16:47:44+00:00"
-    },
-    {
-      "text": "US opens probe into Tesla self-certification of Cybercab robotaxis - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T16:16:42+00:00"
+      "time": "2026-09-04T18:43:11+00:00"
     }
   ]
 }
