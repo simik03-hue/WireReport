@@ -1,25 +1,90 @@
 {
-  "generated_at": "2026-09-04T20:59:44.968794+00:00",
+  "generated_at": "2026-09-04T23:00:24.308553+00:00",
   "lead": {
-    "text": "Alejandro Betancourt, Trump’s Partner in Venezuelan Oil Deal, Has Faced Investigations",
-    "url": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html",
+    "text": "Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots",
+    "url": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-09-04T20:55:12+00:00",
+    "time": "2026-09-04T22:57:17+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump offers first comments on Lindsay Clancy case",
-      "url": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/",
+      "text": "9 Days After Flood, 2 Men Are Pulled Alive From Mud-Filled Tunnels in Nepal",
+      "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T22:54:24+00:00"
+    },
+    {
+      "text": "Judge denies bail, orders jail time for ex-Kentucky Gov. Matt Bevin",
+      "url": "https://thehill.com/homenews/state-watch/6072673-matt-bevin-sentenced-jail-contempt/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-04T20:54:22+00:00"
+      "time": "2026-09-04T22:50:47+00:00"
+    },
+    {
+      "text": "Robust Hiring Reinforces Strength of the U.S. Economy",
+      "url": "https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T22:41:51+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T22:31:51+00:00"
+    },
+    {
+      "text": "Judge again blocks Trump’s effort to restrict voting by mail as ballots start going out - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTd1MEZMWF9KdTNTOGFhSzJQMUs1eDNDbnJ1YjhsRjdwbVpDOFR0M2R6U3YtUFltVFpQb2hiSVkwQjJ1aFR6WnRnSm1GUThlZFZjTkRVMVpJcjBlRkdhcmNyUm5TVkhuc1lLTm9kRHd6QVJndkRoZm9SMW1XbGtqSzJ6S0R0NGN1VkR2YlM5YVVMdXcxT3dHc0x1YnpfajllaEpnd0JKSmd5bzVQdHRadFI4cHFZb2E5WUlaVy16UDAtdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T22:11:00+00:00"
+    },
+    {
+      "text": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T21:56:31+00:00"
+    },
+    {
+      "text": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says",
+      "url": "https://www.nytimes.com/2026/09/04/well/measles-infant-pennsylvania-death.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T21:43:42+00:00"
+    },
+    {
+      "text": "Homeland Security Dept. Asks for Inquiries Into Voting Machines",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/mullin-homeland-security-ballot-devices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T21:06:58+00:00"
     },
     {
       "text": "Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund",
@@ -29,27 +94,65 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-04T20:52:39+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
-      "url": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+      "text": "C.D.C. Says No Deaths This Year Attributed to Measles",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/cdc-measles-deaths.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T20:51:28+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-09-04T22:28:34+00:00"
+    },
     {
-      "text": "Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-Murder Case - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
+      "text": "For Gaza to Recover, Hamas Must Be Expelled",
+      "url": "https://www.nytimes.com/2026/09/04/opinion/gaza-hamas-palestinians.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T22:07:08+00:00"
+    },
+    {
+      "text": "Judge Declares a Mistrial in Lindsay Clancy’s Murder Case",
+      "url": "https://www.nytimes.com/2026/09/04/briefing/mistrial-lindsay-clancy-jobs-report.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T21:55:11+00:00"
+    },
+    {
+      "text": "In win for GOP, Supreme Court greenlights lower ad rates for political parties - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1R5OVdsTjlLTlJNeXZqQTF6VjF4WUhQR3lYalVnNlJaSEx6ekdiNWNjZjFEdno3Vm16ZnpxRGVkU0pNaHZGM1R5NHFlVXhwVnFpZE5uS2NHaThHRXpodmxFTU5maUFncGxXeUhpNmtoQ2lVX3pwX2E4aXItRkw1UUh1LU1JRDFVd2drcTlqU25YYThoQWxZ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T20:44:04+00:00"
+      "time": "2026-09-04T21:42:00+00:00"
     },
+    {
+      "text": "‘Wheel of Fortune’ Announcer Jim Thornton Fired by Sony - Variety",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlo1eXRmeW9sSmtGQ00xVXNMSjdJN0t2cWZsT2MyaGtfaWwzOHhYbFNBdzVXRElwSjloSjNmbmI4a2hJWk1XQndNN1o3Mk95UFozYkhzZk5rZEtfOUJoU3ctSWRvOEwyYUxaNFBaWHVUVXNHWWY2VW9CeWJOQUxxYnlBM0xlQmxuMmVjQzJVTG8wcWJLVnotV3RDSQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-04T21:02:00+00:00"
+    },
+    {
+      "text": "RFK Jr. Hires Army Doctor Who Opposed Covid Shots to Investigate if They Killed 2,500 Troops",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/military-covid-vaccine-deaths.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T20:43:21+00:00"
+    }
+  ],
+  "col3": [
     {
       "text": "Supreme Court Sides With Republicans in TV Ad Fight",
       "url": "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html",
@@ -57,46 +160,44 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T20:17:33+00:00"
+      "time": "2026-09-04T22:23:54+00:00"
     },
     {
-      "text": "Trump Administration Issues Subpoenas For Voter Data in Nevada",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-nevada-voter-data-subpoena.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T19:55:36+00:00"
-    },
-    {
-      "text": "Vance says Trump, US military have prevented ‘energy crisis’ during Iran war - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGFIVGlBaUNiekdjQ3dleWxrQUNJcHBWSklSRHR2bWk3VUswUmZnOHpELWhlbEplRVVOWHZHREJMQ0x4LWVkdDl5eVEtMnpHOUFSYmxRYy1LcVpnTUJBZk1NM1V3S3Z2eTgxYnRKMkVCUTNZUzRsOXQ1LTRvc3dvcGNNSnNHVE5QYVc0VTNB?oc=5",
+      "text": "Pro Football Hall of Fame overhauls voting after Bill Belichick snub - usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObE1MTExhcndIUXhKaW15Vkx1enNuOUxFc1dmU2hHT0toSHgxcUNrNTlQcWl0X3hLMVI4dzZkaUVyY282ZGxKSDROdnBGb3RaQmY1aHdHM3EwbUxaWVJFc0JDRzRZLXpPTVFzM2otcnNJVldZaGRkaTB0MGhqa0pOWkZ5ODMzT2JwanNLWnlEUm9BeWIxdWxlRGFWWGxYZ0U3ZkJkRlRDU2hkS0dLZ3VmN0dScmNwekw0WWZGSHFB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T19:30:00+00:00"
+      "time": "2026-09-04T22:02:00+00:00"
     },
     {
-      "text": "For Gaza to Recover, Hamas Must be Expelled",
-      "url": "https://www.nytimes.com/2026/09/04/opinion/gaza-hamas-palestinians.html",
+      "text": "In Complex Cases Like Lindsay Clancy’s, a Unanimous Verdict Can Be Hard to Reach",
+      "url": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-unanimous-verdicts.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T19:05:29+00:00"
+      "time": "2026-09-04T21:49:07+00:00"
     },
     {
-      "text": "Feds charge ICE officer with lying to investigators in the shooting of a Venezuelan immigrant - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGNteDNiQm95SlNad3gzNkM0TGE0WDIzdWtFZmlnQXM5NTctWENCUzAyLVNBSXBCVzA2R0piTUxzdVpfSlVSNUp3bUxyczNLZHh2eGE3SXY3cDJDeDgtaWFUOUEyeGVDTXN5aGYxNHZCVGlsZTRVRXR2TkROQWVJVTAyTTF4RWFxVHk5WF9Bd0VOYko0bXhmVnNKX1pSckhWUk5HSnNWQ1IwdHk2Q0VCdE85dlpYNWk1WHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Influencers, Noise and Weed: Has the U.S. Open Become a ‘Zoo’?",
+      "url": "https://www.nytimes.com/2026/09/04/nyregion/us-open-social-media-influencers.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T19:04:00+00:00"
-    }
-  ],
-  "col2": [
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T21:22:27+00:00"
+    },
+    {
+      "text": "Alejandro Betancourt, Trump’s Partner in Venezuelan Oil Deal, Has Faced Investigations",
+      "url": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-04T20:55:12+00:00"
+    },
     {
       "text": "‘It Was Insulting’: When Steinem Said Young Women Backed Sanders to Chase Men",
       "url": "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-clinton-sanders-2016.html",
@@ -105,107 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-04T20:37:46+00:00"
-    },
-    {
-      "text": "Homeland Security Dept. Asks for Inquiries Into Voting Machines",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/mullin-homeland-security-ballot-devices.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T20:11:00+00:00"
-    },
-    {
-      "text": "What Lindsay Clancy’s Trial Tells Us About Ourselves",
-      "url": "https://www.nytimes.com/2026/09/04/opinion/lindsay-clancy-trial.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T19:48:56+00:00"
-    },
-    {
-      "text": "Six-week-old child in Pennsylvania dies from measles, coroner says - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnVjQS1zeklNQnJ6aDN2TGF1Uy1KdHdDbUM3YUhFbXlfaXB6TDBlRzlHTVRBNEtVTjk4SFoxTXlJcHFZdjBmaVFZOUtHeG1jdmhYM1IyZTRCUDhteFBkcXI4YjJtODJtblJfbGdYMHdwbzJmY2F6OWFKVTlFWVAtUDJMX1BGZWRK?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T19:28:00+00:00"
-    },
-    {
-      "text": "Miley, Beyoncé, ADÉLA & More: New Music Friday Guide - billboard.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckc2XzJ1UTdjNE9LdWZnRGQ5OVQ5WVY0dkdFd210aFdTeHJvY3haTnlGYlZuWC0wdDJ0X0o1V01iVUEyY0paaHkwbzc2aHg5V1kxc01oalJiUmdiRC1veTJ5NXdRZ0p0SjljM3NzUXFIRzFnQUdMcHVPMnJFejR0Q3FlY1JCUGlra0ZxMzMzaDVncUtTNEY3X1pkRTB3UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T19:05:11+00:00"
-    },
-    {
-      "text": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T18:49:58+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Quiet on the Court! As U.S. Open Grows, the Crowd Gets Rowdier.",
-      "url": "https://www.nytimes.com/2026/09/04/nyregion/us-open-social-media-influencers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T20:28:06+00:00"
-    },
-    {
-      "text": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHduWVYtMzJYQk5UcVJNbWxaY1Z4YnA4ZWZ5dFRQSXEtTERLTUd3Y2gydFJ6MUdTeWstd3k2NTZWZnR1ejNwWEhOY05SRnFUOURrZi1qWUpLeXAyWWR4ZlJSOXBUZFBkY1Q2dmNzbkxncVkwNzZtU0ZtWlluSll0bjB2SDFtTUNvMmNwTlBRY1RNOE5EdGZHRDV3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T19:56:00+00:00"
-    },
-    {
-      "text": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
-      "url": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T19:45:22+00:00"
-    },
-    {
-      "text": "Robust Hiring Reinforces Strength of the U.S. Economy",
-      "url": "https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T19:17:35+00:00"
-    },
-    {
-      "text": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-04T19:05:00+00:00"
-    },
-    {
-      "text": "ICE Agent Charged With Six Counts of Lying About Minnesota Shooting",
-      "url": "https://www.nytimes.com/2026/09/04/us/christian-castro-ice-agent-charges-minnesota-shooting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T18:43:11+00:00"
     }
   ]
 }
