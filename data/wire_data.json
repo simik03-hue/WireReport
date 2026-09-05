@@ -1,102 +1,82 @@
 {
-  "generated_at": "2026-09-05T16:17:37.641549+00:00",
+  "generated_at": "2026-09-05T18:31:44.149469+00:00",
   "lead": {
-    "text": "US envoys arrive in Moscow ahead of Ukraine talks",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-05T16:15:35+00:00",
+    "text": "What the War in Iran Has Cost One Gold Star Family",
+    "url": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-05T18:27:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "What different world maps get right - and what they get wrong",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-05T16:14:24+00:00"
-    },
-    {
-      "text": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-05T16:13:01+00:00"
-    },
-    {
-      "text": "RFK Jr. accepts PA child died of measles, says Shapiro hastily 'politicized' death",
-      "url": "https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsylvania-measles-death/",
+      "text": "Former Stars and Stripes publisher: Pentagon lawsuit will 'continue on' after court setback",
+      "url": "https://thehill.com/media/6073267-stars-stripes-staffers-pentagon-lawsuit/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-05T15:48:39+00:00"
+      "time": "2026-09-05T18:18:50+00:00"
+    },
+    {
+      "text": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-05T18:18:22+00:00"
+    },
+    {
+      "text": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-05T18:14:17+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
-      "url": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
+      "text": "Putin Orders Pause in Kyiv Strikes Ahead of Visit by U.S. Envoys",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T15:13:16+00:00"
+      "time": "2026-09-05T18:10:01+00:00"
     },
     {
-      "text": "How Naomi Osaka Became the Fashion Queen of the Tennis Court",
-      "url": "https://www.nytimes.com/2026/09/05/style/naomi-osaka-fashion-us-open.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1VWdFM2RXpITnpxMEVEd2VPZTRzcG9wRUtmekRUZjZGYlBocC1wQV9xRmpvN0lTRi1SWXlVeFVucnIydEdXVmdHTUdZS3BTd1JodW9feWFBN2NadWFCS2lGeFN3OHNjbXlla2Z5RklfRm5wQnVLMmVsNENjZ2dubGtNeXdOSjN1M05oNmR0THZRQVBZWUZQVzhqSGE5UDBQQUcxblBrSUEwUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T14:42:16+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T16:27:18+00:00"
     },
     {
-      "text": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T12:35:46+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T15:52:40+00:00"
     },
     {
-      "text": "What Will Happen to Lindsay Clancy in the Long Term?",
-      "url": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Trump says 'Stupidity causes inflation' and threatens to stop trade with foreign countries - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTg3aERvS20wSlN2WDdlNXB1N3dwXzVLR2NXQXVGa3VlaDY1ZkVUS1dsN1hOWDBPSTRxVlQzMmUxQmItQnFNZjR2ZGFrYU93VnlxZFoyN2xMQVA4U1UyVEc0VGJWcHZ6ZEp5a2FjbDdVcUpVNjM1UHpTVUNGWEY0NlJvRi1TUHA4SjRJcmhyUUFjTm5OYWc5M00xbnpzRUdvdmFKSVAxRHNuTmdH?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T09:04:11+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T15:16:00+00:00"
     },
-    {
-      "text": "In Red States, Law-and-Order Republicans Turn Against Flock Cameras",
-      "url": "https://www.nytimes.com/2026/09/05/us/red-states-republicans-flock-cameras.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T09:02:36+00:00"
-    },
-    {
-      "text": "In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T02:08:41+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
       "url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
@@ -107,53 +87,6 @@
       "time": "2026-09-05T15:04:39+00:00"
     },
     {
-      "text": "What Led to Maria Bartiromo’s Downfall at Fox News",
-      "url": "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T14:31:04+00:00"
-    },
-    {
-      "text": "The Purest American Culture Lives on at Local Festivals",
-      "url": "https://www.nytimes.com/2026/09/05/opinion/unique-american-local-festivals.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T11:00:19+00:00"
-    },
-    {
-      "text": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
-      "url": "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T09:03:09+00:00"
-    },
-    {
-      "text": "Harlan Coben’s New Book Is a Tough-Talking Writing Guide",
-      "url": "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T09:01:57+00:00"
-    },
-    {
-      "text": "In Complex Cases Like Lindsay Clancy’s, a Unanimous Verdict Can Be Hard to Reach",
-      "url": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-unanimous-verdicts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T23:47:39+00:00"
-    }
-  ],
-  "col3": [
-    {
       "text": "Ossoff and Talarico to Share Fund-Raising Event in Hollywood",
       "url": "https://www.nytimes.com/2026/09/05/us/politics/ossoff-talarico-rhimes-fundraiser.html",
       "source": "NYT",
@@ -161,51 +94,118 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-05T14:49:58+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "Putin Orders Pause in Kyiv Strikes Ahead of Visit by U.S. Envoys",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "text": "The Purest American Culture Lives on at Local Festivals",
+      "url": "https://www.nytimes.com/2026/09/05/opinion/unique-american-local-festivals.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T14:24:08+00:00"
+      "time": "2026-09-05T17:31:48+00:00"
     },
     {
-      "text": "Scenic Route",
-      "url": "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html",
+      "text": "Xbox Cloud Gaming's new hourly cap is reportedly set exactly where Microsoft stops making money on it - Eurogamer.net",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50UDREV2VxYlFkeHVuc1NHWmRodjhfLVVTblBFSWhxQkd6SG9UN1lsN3BJZFFsaU1EWUc2RThndkxOR2JSbl9FYnFqaFlNV2NlNlpBelY3Z0dYeFJvSnBHWER6WmEyNU94aVNDOTFOeHlaMjJUMFJIWDVSQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T16:11:08+00:00"
+    },
+    {
+      "text": "Lane Kiffin: Leaving former NFL players off roster in best interest of LSU - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlVuZkUzZElqdDMwLTMtNnBzVTkyZTRJby1uMXltWkozZ3dwcVZ1LWxCeG5pLWNKcTZqZ1EweHNoV0dmWU1wNDQyN3hwYVNXMmFEZU5KTXFXQXVUZjhzVmVBQVhhMUFESlBXYlp6RnpkbHdZaHJWRmNTTnFQRGJwZVFrclN2bzhva2dnZ0VYcERJYjdDZzdRbkNqSjV4bHp4djBBM1dWLVdBN0ZvSU01U09YWFBqb01iclRaOFJ5Qzg5SHRXX2wyOTBkaXN2NnVo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T15:40:03+00:00"
+    },
+    {
+      "text": "Italian Grand Prix: Pierre Gasly beats George Russell to stunning Monza pole - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80SGprcHAtaDZBVlZyc1BvVWRtQnZPUTR0NFVJem80amd3ZEg0TEluY0JQM3F0UjR6OVFVN2dDUmI4NG43MkMzb0Y2SmZoVjhKOWZ1WURNZURUSlJ4Y0pHeWoyT0FVdW8?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T15:15:03+00:00"
+    },
+    {
+      "text": "Man duct-taped to plane seat after hurling slurs and attacking other passenger, witness says - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXk4cWFGak5rRldCOTBmWmR4bWZvSUFYNEtOM1NmMlp1OEpETFQzeVFNNGp3dHNmYm9EaHdZUWFXYl9EaV9NZndHcWo4QUs2VnFGS0oyNHkyQWRZbGNEdERfTHo1YkNSelMxSk1MNmVvdEhVTVAxQ29fd0ZGMldyU2tORHA5U3lONzVSV1pvNTdCNjVsb1R4SVlFV2I?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T15:02:53+00:00"
+    },
+    {
+      "text": "How Naomi Osaka Became the Fashion Queen of the Tennis Court",
+      "url": "https://www.nytimes.com/2026/09/05/style/naomi-osaka-fashion-us-open.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T09:56:32+00:00"
+      "time": "2026-09-05T14:42:16+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Russia-Ukraine war: US envoys in Moscow ahead of Ukraine talks - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hbWFaVHAzX3NCR3BCWjdSTjJsVHJubUhkVjRabXBjdHY5Ry1IZU1xemJPbHlXMzlydHRpaW53eXlmV3p5MTl6MWxsOGR3VzlXZXB5cjcyUEY3Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T16:48:40+00:00"
     },
     {
-      "text": "What the War in Iran Has Cost One Gold Star Family",
-      "url": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
+      "text": "'Primetime' Reviews: Reaction To New Robert Pattinson A24 Movie - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazRLMUtsLWp2aGNMTGU5MTFuNC02dVJUbHkzNElhUDdfMW9LUmNKWXFKZkpxMzJHWGpIMW9UVkhfU2c0SUlTc0lPOUZGWjc3MDJpQW5TVHdQdnN4VnE3UnBRcEJxajRISnVEaXNZR2FSOC05TmQ5NXlqcjdaNzBudk53MFlCZGdST21Va19zZVRBLW9GbE5JeA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T15:54:00+00:00"
+    },
+    {
+      "text": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T15:28:31+00:00"
+    },
+    {
+      "text": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T09:02:53+00:00"
+      "time": "2026-09-05T15:13:16+00:00"
     },
     {
-      "text": "Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists",
-      "url": "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-05T09:00:49+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T15:00:36+00:00"
     },
     {
-      "text": "How Gloria Steinem and Ms. Magazine Transformed the Publishing Industry",
-      "url": "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "College football odds, picks, predictions for Week 1, 2026: Computer backing Auburn, Cincinnati - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUWFuOFJLMUFRNGhPNWM0ZVBoUy1LTEdnOUFKZmhXOUhsWXdJX3k1UmxfXzlSUkNLTGZMMkVjY21SM3EzdElIeUsxZG1jRUhKRG9tYVBhLUlsSlVBdXlrUFlvUXVkX3g3WGp6MGJrakRFazJHNkxQRmRQS1lVWnl0ZVBnU1RscWNPZTJiUTRScWxzTks1QWJMN20zQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-04T18:47:12+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-05T13:59:02+00:00"
     }
   ]
 }
