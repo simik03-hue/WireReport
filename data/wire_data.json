@@ -1,211 +1,211 @@
 {
-  "generated_at": "2026-09-06T08:58:12.764438+00:00",
+  "generated_at": "2026-09-06T12:50:01.611327+00:00",
   "lead": {
-    "text": "TV presenter among 12 sentenced to death in Egypt drugs case",
-    "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Live updates: Energy secretary set for Sunday show interviews as US, Iran trade strikes",
+    "url": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-06T08:05:22+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-09-06T12:29:12+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlZUtHclZYRDFFYjRlUTQ5S3VaNnc0SGx1WEM5ekVHb21CSndzSUQ4VmtxOVlGSk5TVlo5SWZPZFlrWGJyN0J5RWFiX192NVBkUWdIdUZOc1NjWHJvWDlyWlczSUVqcDV0a0NocmozQllweEpPZml6VjRhcjhFYkU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T08:00:05+00:00"
-    },
-    {
-      "text": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "text": "Trump Envoys Make First Visit to Kyiv",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T07:58:55+00:00"
+      "time": "2026-09-06T12:24:54+00:00"
     },
     {
-      "text": "Novartis Says Pelacarsen Heart Disease Drug Missed Primary Endpoint - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWxqSWplY21mUVFmelpyUm82aEdFOVNETndUR3o2OHRKZzhmbkRILWRia2VTZkg5OWJoc3M5ZjkzcVl5NzV5cEIwUVNwXzkwRGZYcjlRNERMdElDNFZCT3ppdzdVd0NpS3U3TlR3LVRGWVB0Y3FVVm5CYkN2eEhNMG9rU1AzNHAzYkZIVklhclJLcDFXRUJEaThwU0ttaWJWNEo0VDVPSzQxWlpOeHBJ?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
+      "text": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "source": "CNBC",
+      "lean": "center",
       "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-09-06T07:47:20+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Category 4 Hurricane Lowell holding steady; tropical storm conditions possible by late Monday for Kauaʻi County - Big Island Now",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVJpdG5iU2lBM2FGX2M2SmplNXFxMUo1LVlKMFZLQ1JaSHpXdFA1RzU2VGpjUmRxSU5GanZoMlVJV1NhcW14XzBmcy1veXdQc2FIdzI1ODZQODVPUk13YmpoMjE5cTNRQzlOQmFlWTg3VlE0dk1ad2tXMUNlZTlsZnV5NkgyZTNvQ1NIbk5LOVg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T06:28:00+00:00"
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-06T12:13:49+00:00"
     },
     {
-      "text": "It’s Not Just the West Bank Settlers. It’s Israel.",
-      "url": "https://www.nytimes.com/2026/09/06/opinion/israel-west-bank-settlers-violence.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T06:22:36+00:00"
-    },
-    {
-      "text": "Tucson real estate agent duct-taped to seat after becoming unruly on flight - Arizona Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkY0b1ZsM3NmeEU0bm1GSE1fYmlDMnhKbUdXWGpITUZxOU1SbHBPNmhqMUYwRHlpZWNZLVI2YU1SU21vbmRVRkpYaUk0dGFPUXZsTTQzRktZS3NTM3g4dlNfNzFlTVAwaFVvZEFzRktkWUtXdS1QelR1dXlVbGRyZ3NHYnBVUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T05:22:48+00:00"
-    },
-    {
-      "text": "In Germany, Ulrich Siegmund Is Bringing the AfD to the Cusp of Power",
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-election-ulrich-siegmund.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T04:01:32+00:00"
-    },
-    {
-      "text": "Hurricane Marie to impact Southern California weather into next week - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1VHc0tmVnMwRV9zTEM5XzlxT0hSRm5rZmU2UGdDVkdWVFdhX3AzWnZiMzZQdDd3MDNuMWN3NDllTi1zRVozZWdXX0JiRVFJQTViQ3FJVk83RjBPMk9aTDVmeVI3dDdxMFFQeGRCUngyTmJrQ0s0Qk01ZjE5RndSM2pjSHhHaTdvbGE4V0lPWlc3cHdCRmE2aDVn0gGfAUFVX3lxTFBSMWZkRFItVm9lRzdNYnZtUkRucERsNmFtUG5xT2ZnTkhmTGZCdmNndnZOZ3c2am0yajlJUEkyMWZUYUlPNnQyZU1jWGZLTUVwd0xPZUZmWld4THBMZHoyaDVkaW1WX2VVVnpUZDdmZHJrLTJBQnRiZlNxTjc2VWFXbUNBSTBhUHh6amFaanNlckRreHRSNmpGN0FyS3lQZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T03:48:07+00:00"
-    },
-    {
-      "text": "Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYV9LY1JLSHlZeDl1dXA5cTJZeXFCdUdaREphR2NJNVBXLUE1NXlzRnV0d1JCVlVqSkF2LThqcFJZVVlNTzVFYV90N2RYQnh3QzFQVmNtOHkzVUktNUNiR2xIak9oYXhNNXlWQVNKdlNIUWltYW54NS00eXZQQ1hydVdaYjJpZG5wZmhDek1VTjhQVWhyU0JZTUVTQnBNeUdtVkE1b3dSMVRPeFBGSHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T03:22:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
-      "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T06:27:16+00:00"
-    },
-    {
-      "text": "U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXUyT3djU2gxZUJQcWxaN3ZwMGRzU1VJSmhsNWVzYmpXTmtnR2dFYnpXN3BUa3hmUkhLVG9FSnZMdXJ5NmRqanBGLS1oS3VQcWJ3SndiT1lsS3hkb3VJUGFzbWQ5UmVDUjJweTBYdkN4X2JFWHNMUVRxLVdQWS1jTVJub014WFRRdG02M0gyNXRna2FDRE42OEFPRWtuTmx1S3Z0bEg2VU5SMFlpd1k4ZWVrMDJDUWZF?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T06:14:32+00:00"
-    },
-    {
-      "text": "Lane Kiffin's LSU era begins with easy victory over Clemson - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXA4cmlwRzNjdXZudzVDblpjSUJ1aU9NeGNudFoxek45ZDVHeXctbWZONlVwZnc3aGZneVRsN1JjVWVQUDhscnNjemNkWFNKejcyMmlST0gtbWlDREp1dC16WDM2TVhZeGIxY01XeFo1cWg5NkpaVndjXzU2NHIxMm90b1hjS09yWUZFQjdvTlFPQ3k3WnRkdmx5TGkwN3JidzhPNUNKSlk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T05:03:00+00:00"
-    },
-    {
-      "text": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
-      "url": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T04:01:15+00:00"
-    },
-    {
-      "text": "Michigan football stuns WMU with miracle Hail Mary after game seemed over - Detroit Free Press",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZFo3bzVDa3dONFBQejBmamhJQ2RSWldSZ1FIellxcHdaU1BlNUt5Y0ZjSUtEYnZWR0hUang2WFQxLV9oMF9tOXU0eTBfM2k1di03OGNhZmo2ZlE5RDBMRFRmbXlmdkJ0eHQ0aG1LS0czRk9EWWRkU0hTS0UyY2xiLXI1a3BfYW1FcGpSald4Zm1aUVZ3cURzcXpTeVc4T2xISDRRcm4wajNKd0JrR2NmZmhoaGJJZU8yZTc3SjdkLUt1VU1CUUszeUVkVGNvSUE1TGdvYllJZlBLNHVzcnZaQjVhYTRmTnJBX2s0ZnVYdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T03:34:15+00:00"
-    },
-    {
-      "text": "Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lfVzJ5SVRIMUFBZEZpZkx5NzQ1cHU5cFMySTVUeEZzTVNNLV9WOGpMQXh5MFd1SUhiQ2V5T0FHSUZhZ1Jiblg4XzZfZkh3SzFBZVBvSXZNRElXcndKeWM5NGROanNCd2hkem9ieWxieUp3VEp5dzVMeVI3VzdQQjd2Y1VJWFJSQlczbkF6SGotaU12T1Q0RHBhSFo1X19pMFNlY3NIV1lfNUJ5UW82dW4wNzXSAboBQVVfeXFMTlBLcWhqSU1tMmxRWDNKajgzSldXRnl1cFlNeHZLMThQT0dmZjhkbHpCaE12NXVzZGw0LTVtMTY5N1ZQMlZhRWIxSU11TVdYanVHU3hvN0hHRXpfR2JDamVMWC05bmFjNS02SFduNWtRT3Z0YVNmLTNZVEhmbEdpdG9lOGZKdEt4WUlRQXA2YXRIZG5fYmlPQmx0U1pXcVpMRGszN29tRHF1NFZ6aElVR05CU0JVMmFRYmx3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T03:06:06+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "A Sympathetic Defendant and Well-Crafted Defense Dominated Clancy Trial",
+      "text": "A Sympathetic Defendant and Well-Crafted Strategy Dominated Clancy Trial",
       "url": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T06:23:37+00:00"
-    },
+      "time": "2026-09-06T12:13:46+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "Influencer dies after penis enlargement injection during Bangkok vacation - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UMWwtTWd1alUza3gxOXEwT2NWMi02VXZHREhnZTlabXJXTjQ3andaZ1Q5Snd1X19UX3pzZ0YtMzRJbW5NX0ctdTUyRzFqNXk3Q3ZaT3lBLTlPTTVlLVRqTQ?oc=5",
+      "text": "OPEC+ keeps oil output policy unchanged for October - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T06:10:20+00:00"
+      "time": "2026-09-06T12:03:29+00:00"
     },
     {
-      "text": "German voters head to polls as far-right AfD party eyes historic state win - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXREUlFDZGE3YkJhSFE4ZGtBc0V1NzJlX1lmb2NpS1RldUhNUTJabjI3UGlQbVBZYkQwVG9fNW9YUGJJTGY4VGpudUQzbVdYbkpFQVA1ZW1kNjZmbXZYcjIwVk53Ymx2dkhNcC1OaWVJeS1GYjQ4X1o0YThlaEVLS18tbE9EUjZWel80UVNrUnE1dy16R0EtX0hnSEpiTDZUdWdRcHJleEgxX3V2QlZBUHRTaWbSAboBQVVfeXFMTnBhUFp4QUZoOUdjZVpFZTlUVVUxUFhNVk13ZEhmZUlYRlkyX05ucXFMck5IR19MVlNSY0JHOEk2eDl3TDJObWV3dEU0VTRzZzZCRHhGUUFzWHdWa0pZbUtxMk56bzZKdV95NU5xSVFtVzBzb1l6MXdhUnpRR1FxNjQtZmg2Sjl4MTNSNExJXzJjT1NhdEJRYVpYVGQySlBJU1BvaE0yOW1TSTJnVVRPRnhVWm1SX25Bc3pn?oc=5",
+      "text": "A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUhvYWh0MlVEQ2RMUWJ0OFRtclJlOTZGOFFXbFoxSDNzTGpjb0V1dlI2V19sRDdoNGNJVXRHNVNUWjh2UzB3VlR1Nm1TLV9aMm1ia2lkczF4VTlSLUh5cWM5QzRIMUFJUWl0TGgyRUFZanhfUVlVZVZQdFlKajFSZTF4OGRCQUdZcWtDeklZZGRsQXgzalRib1VHZ0p0MWtsOGRua0tHVEhSY1QzWmc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T04:14:51+00:00"
+      "time": "2026-09-06T11:26:00+00:00"
     },
     {
-      "text": "Dodgers Notes: Ohtani, Rushing, Hernandez, Wrobleski - MLB Trade Rumors",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamd0UG1JQTFQYl8xMklid1VUaFZNbGw0U0YxX1dRSkVjeGJKSVdleUU3RDZSNUE3d0pIcXpRcXAtckppTTdvbTlUNWIxYm9lTVlYRFpyU3pyNGxZMEhGckdJdFp4U3dGUkEzOVpmTXZmTUN1TGNNREJjR0RoejZNXzVEM25kNUNtMVJFN0Z1QU9XTmRxOEVj?oc=5",
+      "text": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push - cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zZXluNThTaTdPOW1wc3pCTjdVUV9PNHFhTTBjTzlpSVRmWm1qZkZmTkExYTdLdVZaQ3FQRFBRdUFTcFJYejJPSDd5eGpJU1NJZ0dZMU1xc1VRSmZMUmFLSURkU09fR256U3l6YWx4MndwdjBZUzhlZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T03:48:29+00:00"
+      "time": "2026-09-06T10:23:44+00:00"
     },
     {
-      "text": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
+      "text": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFBLZnVuUWFGOERHMUVNRVVyUXV3XzdWTUVUbzE2WG9hTndsc2ZybThwcFZqS1pfSG54cjBmYU9sTEk2dlJPSlB4d2pjTGo1TUNJa3hyTDI5SzRuci1pU1lsZGJaZVpzcUh6VnBwN1p5VEdZOG56Mm15RFVlY3BROWxNbG0yMDNXM3Y0ejZKT2QyaGc4UmNoZ0hBV0x0OEFGLXhNMUZjZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T03:24:10+00:00"
+      "time": "2026-09-06T09:30:00+00:00"
     },
     {
-      "text": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "text": "How a Memphis Gambling Raid Became a Sweeping Immigration Operation",
+      "url": "https://www.nytimes.com/2026/09/06/us/memphis-cantina-gambling-raid-immigration.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T02:49:50+00:00"
+      "time": "2026-09-06T09:02:22+00:00"
+    },
+    {
+      "text": "Trump’s War on Mail-In Ballots Has Voters Baffled. That May Be the Point.",
+      "url": "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T09:01:56+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "LSU had a revival, Clemson was at a funeral: Lane Kiffin’s debut sends a loud message to college football - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ01vdzZ3b0NZQjF4WDE3Vzc0WXVub3FfdVNVV3NBUUNCa1kwX2t3VmMxSG80S09GeFUwSktpNGY0c1RTM3A4eDJHd2ZTcHlYMHdqTUt0MzJqVXBjTTBrWHdsN0ExbThVV1Q0Vk1CbFBfLTFnLXBHdWV2b0NLTXNyV0dEOUNaTWd2WnF6SHJoSW9taXA1NmhxTnRLdEVFQ2Mtak1rRTlWSWM4UUs0THd6TmtsdXYxX1MyZm9Leg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-06T11:35:04+00:00"
+    },
+    {
+      "text": "The Women Who Escaped Kabul for America but Left Their Dreams Behind - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzWUd6ekZwMnJDekNLMGNrN1ZqU00zV2t3YnQwTkFZV1o5STBTS08xa1paZHNKSHMwbTd0SEk5eVVCVlFHbnF4R1VTZkJzWDllMkJSYkFBdlY1Y1J0RFFyLXEwb2FBUk1YRHh1NjUwN3lOa2w1WF9CZGVWUks?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-06T11:00:00+00:00"
+    },
+    {
+      "text": "Pete Hegseth Is a Wrecking Ball",
+      "url": "https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T10:00:25+00:00"
+    },
+    {
+      "text": "As Midterms Approach, Republicans Find There Is No Escape From Trump",
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/trump-miderm-elections-republicans.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T09:04:46+00:00"
+    },
+    {
+      "text": "Why the United Methodist Church Is Suing a Thriving Texas Congregation",
+      "url": "https://www.nytimes.com/2026/09/06/us/highland-park-united-methodist-church-dallas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T09:02:16+00:00"
+    },
+    {
+      "text": "New Hampshire Democrats Sound an Alarm: ‘We’re Losing’",
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T09:01:55+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Bummer Time",
+      "url": "https://www.nytimes.com/2026/09/06/briefing/summer-heat-wave.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T11:29:10+00:00"
+    },
+    {
+      "text": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+      "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T10:36:31+00:00"
+    },
+    {
+      "text": "Indonesia volcano eruption cancels hundreds of flights in major airport hub - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XZG9KVG1XT2QwY0tna0otWkM2eldIcXRnczBzbFVBdml1QWlFWUp1ek5DSFl4LXJMcHhTTnFmLTBpWXVraXE4M2hScWdkdXNXVGx5NTRsUVJmWUQ0cVQwNXdzSWk3UGVlUnBzcDFqVjdiLXVKNC1xb0oyRUo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-06T09:36:00+00:00"
+    },
+    {
+      "text": "What Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T09:02:23+00:00"
+    },
+    {
+      "text": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
+      "url": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T09:02:14+00:00"
+    },
+    {
+      "text": "The Battle to Save General Donahue From Hegseth’s Army Purge",
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T09:00:35+00:00"
     }
   ]
 }
