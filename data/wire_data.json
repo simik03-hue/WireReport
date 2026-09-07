@@ -1,110 +1,72 @@
 {
-  "generated_at": "2026-09-06T22:27:15.113420+00:00",
+  "generated_at": "2026-09-07T00:17:33.093635+00:00",
   "lead": {
-    "text": "Live Updates: 5 dead, 5 injured after Amazon cargo plane overruns runway at MIA, sheriff says - NBC 6 South Florida",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkxlQzQzanRxb1oxM0RodWcyNldQdkF0VmlKM2JVUE9SYzhmMGo2eE5VekVWNHpUMGJ1RUlDN2VLMUprdklyY0FnUl9MX2ZQeWV6NzBVRDBPRC11WnM2MDZuZzdJbXplRGpfRXIxUUFmZGI3RElkS0tLT3Z5czVZRVU5cUxmelhfUnp5NmZRd3FtSzNKcm5QY19TaGhZd01WQ2tWZ2lyc9IBrwFBVV95cUxOWkdjUm50ZnBoZlVFc044dl9zU0RsTlBrUVFidm5IejZySDlZdzAxSU9xekFXeXh6WklYck0tRVM1X053UGVJdWtnOThOTUJoMFhZdFQwNkswTm53ckxmdUNjXzAtazQwSDEydWtrYThrTzNVajJUWkFGWlZiRmYtLV9xTzFvQUx0aHRDTUliN1dOZnZ5Mi1RYzZlT1BoS2F0enprS2oxRkF4d09VTUZ3?oc=5",
-    "source": "Google News Business",
-    "lean": "unrated",
+    "text": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+    "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
+    "source": "CNBC",
+    "lean": "center",
     "topic": "business",
-    "sourceNote": "Aggregated Google News Business topic feed.",
-    "time": "2026-09-06T22:13:08+00:00",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-09-07T00:06:18+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Duffy warns of delays and cancellations after plane overruns Miami runway",
-      "url": "https://thehill.com/policy/transportation/6074224-amazon-cargo-plane-overruns-mia-runway/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-06T22:09:09+00:00"
+      "text": "Giuliani Says Mamdani Should Skip 9/11 Memorial",
+      "url": "https://www.nytimes.com/2026/09/06/nyregion/mamdani-911-memorial-rudy-giuliani.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T00:02:08+00:00"
     },
     {
-      "text": "Amazon-branded cargo plane overruns runway at Miami airport, strikes multiple vehicles - NBC News",
+      "text": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-07T00:01:32+00:00"
+    },
+    {
+      "text": "Asia-Pacific markets set to open mixed as Middle East worries dent sentiment",
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-07T00:01:31+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles - NBC News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T21:55:18+00:00"
+      "time": "2026-09-06T23:37:03+00:00"
     },
     {
-      "text": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-06T21:37:05+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T21:27:08+00:00"
-    },
-    {
-      "text": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
-      "url": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
+      "text": "Man Arrested After Pushing Toward Democratic Candidate for Ohio Governor",
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/amy-acton-governor-candidate-ohio-arrest-incident.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T20:49:45+00:00"
+      "time": "2026-09-06T23:12:45+00:00"
     },
     {
-      "text": "Trump appeals to Supreme Court as time runs out on push to restrict mail voting - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXAyQlp5eGUxc0c5VEZlY3duVzh2TzlvVjljbV9HTDltWnFuRmdzbDQ4N3RTZ3A4STl1VFNKYlZoRm5ISHVsMW5hOTBEazZ0ZTFpNUJPb0VvM2kwZFhidmdGZ0FlcHpRdlhuWWdaQldQa2RjcEFxU2tTTUVnYnVpNno1T1NzR3BoMDBoU3VqNGtfSU9VQWZiX0JBZEVQNDNCR0N2UlNMb2g3WkU?oc=5",
+      "text": "Armed person confronts Ohio gubernatorial candidate Amy Acton at event, campaign says - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGRnN1R5UG90cERpY0hCMFNLb2t4RjdYaDZZSlEzeXRUcjd5LXJ2U1hWWkJkR3hXYzd4dGQ2bWpoRld4VDQ0cmloaFpRc3d1SWRTcjhZTFlyNEFHZHVfamtodWVDVXJOSERyZDg2YjZCeXBCMWFUSXBGU3hXLXJIb1YtOF9GV2NsYllrNWsxX2xpS3FOMzVHTEhYSlpINWt3cEJVdWR5bVdMN09sWUNzSHRhX24xUjNFNmJPUHlQajUtYmduMFc0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T19:29:14+00:00"
-    },
-    {
-      "text": "Indonesia's main airport suspends operations after volcanic eruption - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUFUajdiQ2cwNTFvUE9iRFFNYXhTYTFuVUEyQXhIY1NMZ2FOcHdCbmNLajlXRndUdUxGajgxUktkdU1BRE8tRm5LS1JTdm0xUTlUZ0tSdTJFem1wS2kzaDJBdXVqTU9UMmdiaml3THdVOEM5OE4xZ3BueWdfOW1HbXlRNjhEVDlWb1h0b29TRkx1cTRCWE5PUE5JUVBPTVcxUjZ3NkF3SkNYaTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T18:17:06+00:00"
-    },
-    {
-      "text": "2026 Creative Arts Emmys: Full winners list from both nights (updating) - Gold Derby",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sOUhPM0JWUEIxXzdoQVE0d0xhZ3RXRG1BZGF5SjBSd0dXWndRNDVGSjRmR2NlWXlYU1hPcjQyQjl5d1gyN3NNQ1lKSFhfV2gycklPbjVNdUlRRUQ4VU1YMmswa28zNEttNEV6eXFZMG9XNHB0RW9OSWNvMnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T17:38:00+00:00"
-    },
-    {
-      "text": "Andrew Williams, Every Time I Die guitarist known to wrestling fans as ‘The Butcher,’ dies - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVDak5RRG9oUi1WbHJiTzFldjVmQkw2NW9xQmc3LWlpdkFkQkk2eUtPczAySjk5NEMyeUZ5ZE1lbkExcUJ3b2tTZVIzSHhjRVZJa0g1enhYOWlhV3ZWMlEwc1hWTHk4NEZCLTdSc3JKNDh2SjZGUHByVGhMYW9DejRhY2NxRzdaNWtYeXBYY3E1dVh3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T16:45:14+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJdzQxc2R1d2tYTW5PYlJRaHlpRHVsQkV0UXo2UVpRQnExc0xCQmZON0owVnl3RmFBODUxalNBdTUwY0JXTG5hbk52OV9yUXp4eC1lUkpUWUpOT2l0TmdBTV9ZNmpTQXFjTGJuUmhMQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T21:23:28+00:00"
+      "time": "2026-09-06T22:48:07+00:00"
     },
     {
       "text": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
@@ -113,48 +75,10 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T20:00:12+00:00"
+      "time": "2026-09-06T22:17:53+00:00"
     },
     {
-      "text": "Hawaii declares state of emergency as Hurricane Lowell approaches islands - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXFsMnVBWFpYaVZIUU5SRVJLbzB3enRkVnBreVJIdnFHU3B0VkxkYUFuYVpDNnJBZnk5dnp0Rmtlc0RhUXJBbnFGN0poRUtTTXdfcXJEQThBeHR0SElCUW1LdUVwV1JteXdRYXhUOVdfYTRwYTBfOGxXem5WSlNIWDg5amhCMmItTXlGMjRjZE02N2sz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T19:14:00+00:00"
-    },
-    {
-      "text": "Winners and losers from F1's 2026 Italian Grand Prix - The Race",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXNmMjNFTWhoSFJXUVhwdUtDbFNub3N2d0EzMEt0UXhRZGVZR2hkUklwZ1duMWNRVzBHdGNsUV9sa0M4V0xZb01sZzZFeExxcDZOUFctYUp2SGdmeEpQZ2NjYWJUN3RSelY1X1NodnZtSlVwY0lzeUFlTU1adjFmMmtFMA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T18:08:11+00:00"
-    },
-    {
-      "text": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 in Sixth Weekend, Nears ‘Avengers: Endgame’ All-Time Domestic Record - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbV94QWFTbU4zME5YSG5HR1IwY3g4cnNmd2lQT3NQa1FaNXVEZkdEamlmNkI5cnVKUUxYMUxXZ2w3LVdLY1cyMFFaai1JdGMyb3ZXazMyUTVicjVpeXo3VHdoTnFzV3ljSGhJdXRGbHJ0YnZJREgxOVZ1bGludjRmd1R5OGZqaXh5a201QWNNWlc3S0JEOGYwdnpEZ1oyeUVwTVh3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T17:31:00+00:00"
-    },
-    {
-      "text": "Boox’s tiny Picco e-reader should land in November - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb3g4Mk5WMlVMal9rNEZoZ3NoeVVkZmJaaTRCbGNpWmFVNlFsWnBBNmRFQlZ0eUUtaHlxbUctbVdPRzRLVTdnRXpTRk5tOWFZSUlLN3p4M0hzM2R0NzNQbGNwUjRiXzdTcmI0VjR0Y1NuT1BKMUJqVnBJVlJybzA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T16:28:58+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Team USA escapes with win over Italy at women's World Cup - ESPN",
+      "text": "Team USA escapes with win over Italy at FIBA women's World Cup - ESPN",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEVHWUcyUWxhb3liRVB2enVuSnhwRkExcmxYdkVnYWttMlh2YkZXR2x3ZDJPLTZmTnJHeWUxT3kyMWVyTTFMV2dPVXI2RDUxd1BaU0VuM1dHODhDaHdra3RveWVZM1p6ZVV3RXpONlZTRmpZOGRvZG9pY2F2MERSZktJUmhlMWxDU0N4eGppeDJBaXI1Zm5F?oc=5",
       "source": "Google News",
       "lean": "unrated",
@@ -163,49 +87,125 @@
       "time": "2026-09-06T21:04:00+00:00"
     },
     {
-      "text": "Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjFZYld3STFWaVdhR2hGb25NdVJQeml2TU5PRDlsa2lFbVc4a1huRXU0MlFYd0lvem4tR3dablZsMDBkUVpQMjNDb0dlTjdicVVLMWwtUDh1cnlBSkUwUDFYUlNfLUs3QTB0SmU4d3VXQmxady1jRkhQMnRYdjZ1bDVKTEhRaVpWT1dZaXVCYmNhMEZGOVAyeHI1Z3o?oc=5",
+      "text": "Trump's apparent hair color change sparks buzz on social media - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVgta2h2MGdBMTM4UmVyWmpwb2dtckoyX2p4bVRHUXIzNjNQeFRfa2twMXJrN0F6cWZOQm5XVjBJOE5sNDc5NHpyNzNGTGl1ZmE2S01OTDVVM1VHOW9EQ182OHpNQksxQWRKUmV6czFsc2FJUDFIdFdVb1hSZGk1bFF0aTQxWG9OYVR0Q2l6ZkI1bXRwNi1QbVBwbGhQQWdxa2RWeC1TdnV5R0Jm?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T19:51:10+00:00"
-    },
+      "time": "2026-09-06T19:53:00+00:00"
+    }
+  ],
+  "col2": [
     {
-      "text": "Unruly, disruptive Tucson man taken off diverted flight no longer has a job - kvoa.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ1o5NTF4YnB0ZUh2X1ZzMmNOZER4eEh0aXJ5SUliS09tUUNkVjZiRzR3ZUh0N09wZFE0ZVZkeHEzQkQyS29JSXcxd2Y4MzQ2Z1V4WTk1alZCMXFzVV8wcnlFanFWaU1VVWtIdExLMHVobzBPQmV3OGRHaG1EenRGRTJpc3JrdE0xUEZGdGh2b2NQakttMW9tdHJoMXlaQ2d5R3ZGS2Y1OVpDclhPUndvZFJKYjVhdlJvc2hQWUxON3Y0TkZHemRELUhmbExzR1p5ZG01cW0zRDNGalEzRUJhd3Zua05LVndmaXVFdEtkSGtjV3V6?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T18:19:03+00:00"
-    },
-    {
-      "text": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
-      "url": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
+      "text": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-06T18:01:21+00:00"
+      "time": "2026-09-06T23:15:46+00:00"
     },
     {
-      "text": "Iran vows 'more painful response' for US, Trump sinking 3 oil tankers in Hormuz Strait - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVRCUTJDbU1rM3VXMlV0U0lONk81WDlCendLTXVDTnBJc1JWamJfdDJtVzhOeFJxVnVHeWo5SnJ5WVkyQThNS2FDVmhSaDUzQnMzbGFRUVpEdDdmQ0V1X3pGMlFNMnVQdElab0dqNGNobzRSMGQxeGdPWEVYNVR3WE1FVXcwdTVzbzNyaWN1RTJiTmg2a1NMSFBBWTZPb05oYWRwV2NR?oc=5",
+      "text": "The Battle to Save General Donahue From Hegseth’s Army Purge",
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T23:02:08+00:00"
+    },
+    {
+      "text": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
+      "url": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T22:47:19+00:00"
+    },
+    {
+      "text": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXNKcllFR3pBVUpvRm9hUkcwV0d6YlJabVRjcy00QW5pcE0yRDkzclpSTE9MSjI0SjNFSnBrTXlwXzRUdWRuSzlvdXo3dDZrb1pDZEg4eER2b1hyWnlZRHozTmlick5vMk50enVZdU5YMi05dlhSY0d1amx0OUNfTF9QMk9WMElFVmpYeUlXMHdNZzJXRFdPQXdhSmNLV3pGOE1oeUhuaVFCQjVVZEVPYzBROUV4SVM1U3c?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T17:13:23+00:00"
+      "time": "2026-09-06T21:13:21+00:00"
     },
     {
-      "text": "Iran touts military response as US maintains blockade, hits tankers - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
+      "text": "Trump appeals to Supreme Court as time runs out on push to restrict mail voting - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXAyQlp5eGUxc0c5VEZlY3duVzh2TzlvVjljbV9HTDltWnFuRmdzbDQ4N3RTZ3A4STl1VFNKYlZoRm5ISHVsMW5hOTBEazZ0ZTFpNUJPb0VvM2kwZFhidmdGZ0FlcHpRdlhuWWdaQldQa2RjcEFxU2tTTUVnYnVpNno1T1NzR3BoMDBoU3VqNGtfSU9VQWZiX0JBZEVQNDNCR0N2UlNMb2g3WkU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-06T16:28:45+00:00"
+      "time": "2026-09-06T20:32:44+00:00"
+    },
+    {
+      "text": "US debt is even worse than it seems, and Treasury yields are now an 'all-hands-on-deck situation' - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmtOTTJUMUMtNFFMcmRRWFJ4R0YwZ3BXMkVGanRYbGxyekthUnBad0FGZ2pzSTYzdFlqd2pSNFRhTkxnbDdBaDRCV1hnNDBhM2lhQzF1SmlYUmdHVmtsQnJqa0QzbHoyVU5rek9QdWprYnYyNGZlMGV5X2RnUHpkanFSaFAtaTc1T2d0NlF2TV9Td09Da1FfSkFLRTRHNWhwRDdmMXdB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-06T19:41:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T23:14:43+00:00"
+    },
+    {
+      "text": "Germany’s Far Right Just Misses Majority in Crucial State Election",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-afd-election-saxony-anhalt.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-06T23:00:08+00:00"
+    },
+    {
+      "text": "Acceptance over outrage: Inside how Western Michigan leaders dealt with controversial loss to Michigan - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXh1LWxxT3dDMWlCUUR2WE13d1FDakx3ME5KSE9nc1BLQTZEUmV0SkoxSnE4SUQ5UVMwS1JZc3gwWnRhTHJFWllCaDB1WTBZQUZ2cXA5Wm1ybTJHOVJfbGVqRmMxTVdsVEtLMFJlNUNyOTM0Q3lBS1VmY1NDMUhiN0tqSHNrQ052LTkwblhHSXFmZFpTN1RSeU41WVFMVVh1T1BtaXZzYjNndE5tQXhoNndid1ZndzBP?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-06T22:20:00+00:00"
+    },
+    {
+      "text": "Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-06T21:08:48+00:00"
+    },
+    {
+      "text": "California experts crack earthquake predicting — and where a big one will strike next - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZWNuME41UHkzM1hnQ3Fta2UxRkp2YTQzUUtrOVFMVElqQi1PLUlVOENhSmdNa3RZdnZ4ZTRjc3ZueTU4V0FrbVJrN1JKNTA2aFJhMEVyWmhWWjlnTXlOTU95WVBCbktEQXRTZTZJRmxCMHl3ZXdaUWJtWFlSUVB5SnQ1b3A2T1RwV09KSVdaaTRlNkFBeVRlYnp3ckFvaTRVR1R0ODdSMF91MFZj?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-06T20:28:00+00:00"
+    },
+    {
+      "text": "iPhone 18 colors, Galaxy S27 Ultra camera detailed, Poco F9 series unveiled, Week 36 in review - GSMArena.com news - GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGRRcUVXTXZhWGFFV0R5OFJRTlBGbEE4RTE4RUprZU9BLWRxV19fbGlWSTVXS3I0UG9NRHMxbkg2aVNrVUd5R2dQYWZzbVFrUzh3QjNLUkNEbk4xMzJUVGhueFdBdk9ZTEdveTMxSFJ1VUhlMlNZYUV4ZU1zd0FJV1RNRHFrYkFfRXJHSDJKR3dyRGJ3UHgyUTdqMDdsM3l4eEZyTGNQTUpxTXVtNTk0bGdpS1ZzbVBQZ1cxQVRYVVhvTmFQN0Y1dmZaY9IBxwFBVV95cUxQd09UUi0zaTMwUnctTUhQT1BXRHUzREhKcEJxQlBacU9JUlpNMEFrdmVYcml3Vy1feVY2VjFDM0JiUXN1UzZlckhqbDgtYV96MFZ1V09ydTB0QzdYX21TTWhuNFpXTWVxWGtsZlEyckZNM1lDdl9NWXlvRWlpc1kzUHoxUkY0WFdRVklocmM5Zmw1MHROV3hjNVYzNEl2X2toNjlRNFBNbjlXWFF5aXlfYnRaSzY2RHBLWVlNWWduMVNmMkQ4V013?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-06T19:31:02+00:00"
     }
   ]
 }
