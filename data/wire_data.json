@@ -1,184 +1,54 @@
 {
-  "generated_at": "2026-09-07T10:24:30.090833+00:00",
+  "generated_at": "2026-09-07T16:00:41.895867+00:00",
   "lead": {
-    "text": "Israeli strikes in southern Lebanese village kill nine",
-    "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Where is 'King of Debt' Trump when we need him on the national debt?",
+    "url": "https://thehill.com/opinion/white-house/6072093-trump-king-debt-40-trillion/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-07T10:16:56+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-09-07T16:00:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "German far-right party candidate thanks Musk after state election win",
+      "url": "https://thehill.com/policy/international/6074993-afd-wins-german-election-elon-musk/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-07T10:14:51+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-07T15:56:37+00:00"
     },
     {
-      "text": "Ukraine's Prosecutor General denies involvement in scam call center protection racket - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlVMUzVYWV9QUURVQmgtQzgxUlpaNXVHVmVWRzhxamhjSXp5NU1fcHF4RjNFYmc5ZHJJM2gzMjdvX0NjY0J3Ukh6dGZWa3dYRTMyQU9YUzdGdEhKaDN4bEttTmxqSWRaQ1BHdXdhdHVEZVVDVEdhYUs3Nzlhbm9qdmRHakRUcXpnSVpHbzRLWkpKbWRBdnlQcW1hN1pueHFibDlIM1Y5Mjh2bXBmdXBLYm5IMA?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-09-07T10:11:49+00:00"
+      "text": "'Ah! Rejected, yet again': How this 45-year-old turned his 'demoralizing' job search into a one-man show",
+      "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-07T15:55:48+00:00"
     },
     {
-      "text": "After Victory in German State, Far Right Needs Help to Take Power",
-      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T10:10:35+00:00"
+      "text": "European stocks close mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities",
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-07T15:45:05+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T09:53:15+00:00"
-    },
-    {
-      "text": "As War Grinds On, Trump Relishes Renovation Projects",
-      "url": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
+      "text": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:04:10+00:00"
-    },
-    {
-      "text": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs",
-      "url": "https://www.nytimes.com/2026/09/07/business/rivian-r2-review.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:03:29+00:00"
-    },
-    {
-      "text": "Andre Agassi Hated Tennis. Can He Have More Fun Playing Pickleball?",
-      "url": "https://www.nytimes.com/2026/09/07/magazine/andre-agassi-pickleball-tennis.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:02:21+00:00"
-    },
-    {
-      "text": "Germany's far-right AfD hails big victory in east, but falls short of majority - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZbVlmQWpuWUg1RkMweEVFYUNTTzQ0YkJobDQtS0Yzc0tYOGd3VFdpSkwxWFVGejk2Y3pSYW9oeTRPQ3BiOVhGX2lOMldobnhQWEI5Q1JXM3JBQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T08:52:04+00:00"
-    },
-    {
-      "text": "Oil on troubled waters - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWdRNmlrYmd6NkpwZUFUOWFXQklhVDZOSzNtUkFxU05teTdiRDlPUnJSSXVMNEFtTklRWVVwTTZVSVZjVWUwcEllZ1l5NHA5U3JQQjJwLVZSV3dRMWVsdWhfS2Z2WndhWGtsYmE4VENoOTdndnh5S2pVRDNZS2xjMWUtTHpiY3dUdGhfMmFONmtOVlN0TjFj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T07:24:43+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "As Gas Prices Soar, These Drivers Squeeze Every Mile From Every Gallon",
-      "url": "https://www.nytimes.com/2026/09/07/us/hypermile-car-gas-prices.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:04:23+00:00"
-    },
-    {
-      "text": "Somewhere, Roy Cohn Is Smiling",
-      "url": "https://www.nytimes.com/2026/09/07/opinion/roy-cohn-kai-bird-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:03:56+00:00"
-    },
-    {
-      "text": "How a Colorado School District Is Fighting Trump’s Anti-Transgender Push",
-      "url": "https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:03:15+00:00"
-    },
-    {
-      "text": "With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control",
-      "url": "https://www.nytimes.com/2026/09/07/us/politics/wisconsin-legislature-democrats.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:00:31+00:00"
-    },
-    {
-      "text": "Indonesia shuts airports as volcano erupts - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkctUkhFeWk1aVBKaFdyWHlTdnVHX21teU5xRDVwRjZSaFJybk41eWtMeUtZQWRxMTRSTndKZXNHOGtUckZPLUIyeVBVRWhzM1ZpMk9sSGRGSFJHd1A3UUFuVG5CM0s1SlBQRVhHbUZRbzVBMmRuMEttd1hEVldScUxXb0g?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T08:23:14+00:00"
-    },
-    {
-      "text": "Giuliani Says Mamdani Should Skip 9/11 Memorial",
-      "url": "https://www.nytimes.com/2026/09/06/nyregion/mamdani-911-memorial-rudy-giuliani.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T07:18:22+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Fact-Checking Midterm Ads Referring to Jeffrey Epstein",
-      "url": "https://www.nytimes.com/2026/09/07/us/politics/fact-check-midterm-ads-jeffrey-epstein-files.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:04:18+00:00"
-    },
-    {
-      "text": "Erika Kirk: What I’ve Learned About Grief",
-      "url": "https://www.nytimes.com/2026/09/07/opinion/erika-kirk-grief-faith.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:03:37+00:00"
-    },
-    {
-      "text": "Neighbors Rally After a Manhattan Preschool’s Corn Stalks Are Vandalized",
-      "url": "https://www.nytimes.com/2026/09/07/nyregion/upper-east-side-corn-vandalism.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T09:02:56+00:00"
+      "time": "2026-09-07T15:39:19+00:00"
     },
     {
       "text": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
@@ -187,16 +57,146 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T08:54:41+00:00"
+      "time": "2026-09-07T15:15:09+00:00"
     },
     {
-      "text": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
+      "text": "For a Photographer, the Towers Were an Ever-Present Focal Point",
+      "url": "https://www.nytimes.com/2026/09/07/nyregion/twin-towers-photographs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T14:49:52+00:00"
+    },
+    {
+      "text": "After Victory in German State, Far Right Needs Help to Take Power",
+      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T14:33:18+00:00"
+    },
+    {
+      "text": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T14:24:08+00:00"
+    },
+    {
+      "text": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
+      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T13:54:51+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "The Film Industry Is Worried About Survival. France Wants to Save the Day.",
+      "url": "https://www.nytimes.com/2026/09/07/movies/france-south-korea-film-industry-hollywood.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T15:32:58+00:00"
+    },
+    {
+      "text": "How a Colorado School District Is Fighting Trump’s Anti-Transgender Push",
+      "url": "https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T14:58:18+00:00"
+    },
+    {
+      "text": "Armed individual lunged at Democratic nominee for Ohio governor - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdFh2d2k4NERMMlIwdmtBXzhMRXRVY3pGcG0yNld3TUNLUXk2T1dTT21QYzJyblJOMkNGWWJvekhuZ2hmbGN6clQ4Z0U4OE9FU0p4N2pMTmVCTDByeFlFdXhtRk1IeTRyRTJWeGpER2E1MVhtbWxzZlVYMXprOFVnV1J0NXJhVmdVRDhKMGhpUXVxNkVnSjBnc1Rybnl3cnJKSVZaUm94QjVWLUNJQl9DWGRsak1lSzhNM0U2Zw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T07:25:57+00:00"
+      "time": "2026-09-07T14:49:41+00:00"
+    },
+    {
+      "text": "Trump’s Trade War Is Shaping the Fight for Congress",
+      "url": "https://www.nytimes.com/2026/09/07/us/trump-tariffs-iran-congress-colorado.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T14:33:18+00:00"
+    },
+    {
+      "text": "Nathan Fielder’s surprise Elizabeth Holmes documentary debuts at Telluride - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNajktQTZreHJUZGVYOHZoX2pxSDc4NHdBdGhQLU1TWk1vSVoxVEtwVFE5T1VNaGRCcENBRXlVMU5iM0prdUlxODZXaXZsNVl4WUhuUllNbWN6UkRneHdySVJaYk5mcVlaTmFzZm5kSUk3MzQzQWlqY1pSUTA2NmdVcEdzbkd3NkxXTi1zYUt3M3Zzc19ibld0Ui1FLV9vUTl5VVRoRzR6RDNnSV8zMmVXMkpIYTRUMkY3ajhxTw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T14:13:53+00:00"
+    },
+    {
+      "text": "Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T13:47:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
+      "url": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T15:28:23+00:00"
+    },
+    {
+      "text": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T14:51:00+00:00"
+    },
+    {
+      "text": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T14:45:00+00:00"
+    },
+    {
+      "text": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVJ6MDlUWURyZnpLVFdqMnRudnh0bjRaYXlYdHFVLUtPQkhXLVR1Vk1XV3Z0UVF6cFBfRXd5TnBIQ1BHeHNkdm5DdmZCVEE5ZUgzVVBsRU5RSF9YMFZGVDNzcXAxTkQ0b0Y3Rmo1RWdMaG5qZ2h0VVR4Q29NYUZ5V2N1M1pHOGJIWXhhSkNYRVRqeFVDZUFuaEFHd3JBdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T14:29:00+00:00"
+    },
+    {
+      "text": "The death of ‘hello’: how gen Z – and scammers – put paid to the greeting - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTTZvMVlMeGs3emFZcHlwVjlSV29oRTdIWUlybEJMeks4ZVpkbEVCVkRSOElxaXloSGlXU0FRN3RQUGlEemZ3OFlLMDRFclZxVFFEWmlIdTF0X2t6QldFSWVfbE1kYTQ4YUcwdHNodGRlcFN4M1Mwc1VfSW92a1ZKM3dleUxVRnkxMmtidEl6aw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T14:08:00+00:00"
     },
     {
       "text": "9/11 Shaped Their Lives, Even Though They’re Too Young to Remember It.",
@@ -205,7 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T07:00:10+00:00"
+      "time": "2026-09-07T13:45:56+00:00"
     }
   ]
 }
