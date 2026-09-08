@@ -1,17 +1,102 @@
 {
-  "generated_at": "2026-09-07T22:46:26.383188+00:00",
+  "generated_at": "2026-09-08T01:05:59.836583+00:00",
   "lead": {
-    "text": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-    "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-07T22:23:03+00:00",
+    "text": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+    "url": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-08T01:04:12+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-08T00:48:43+00:00"
+    },
+    {
+      "text": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality",
+      "url": "https://www.nytimes.com/2026/09/07/nyregion/sept-11-air-quality-cancer.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-08T00:30:08+00:00"
+    },
+    {
+      "text": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-08T00:18:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Amazon Plane Crash Starts Debate About Requiring a Buffer for Runways",
+      "url": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-08T00:14:16+00:00"
+    },
+    {
+      "text": "Victims of Miami plane crash were in a cleaning-company van and an SUV, officials said - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0pqbnpockRTbzY4X3ZPUTZET3JZMW1RN1hnbGtsN1RjVm1xRTZKNk1WMm5sbUNzLUR1NVpwX0w2NTZOR09LRTBZX3VhbmRtX19tTEV0UW5YblVqNnN3eE1za21pM1Q5VlFhbUdnMk9rNWc3MFZLcnMyQzJDcnlqUkltc3JDMWxFSHBRU2VLczd6MEZj?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T22:27:51+00:00"
+    },
+    {
+      "text": "Macklemore Says 'Free Palestine' Is Not a 'Criticism' of Jewish People - Variety",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2djS3dDWkpCVWFocGhBTnNpeUlGR1UtZE5NSnZPUk1HSTMwYWlzQmdxeWhjNkdJVWNRdTFpQ0ZlY2dQYkZYd2tNblhqemJWNDFraWtNVmhyb3NoQ2hPSUxxSlJxLUNNZktkY2NpZS11akltV3l6anNtb2pMbm1MZE83cThaanJyWC1YRkpSbmZFYWJZcDRtVm9RTHR0UnRHMTVQTlRR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T21:59:00+00:00"
+    },
+    {
+      "text": "Florida State releases update depth chart ahead of Labor Day game with No. 19 SMU - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZmltOHJfTGFrYXNjMmE3SU43Q2xkSVVVWUNTQ3FVa0Nydkk2VWlHUEg4Z3hLMEM5YWs4NE9lUlFMZjh0ZlNJSkhhS1FPdzZfSkViN3VFMENqYl9ESTlabjRuc2ltbmV0OVNNUGpUYy14RFUzVS1jWnBoaGtVQm1pTTFHY0NZd01qdXhJYWd6MlJFcEkyQ1I0ay05S3Zremsxa3Y2NGd5RTE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T21:07:16+00:00"
+    },
+    {
+      "text": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’",
+      "url": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-07T19:43:24+00:00"
+    },
+    {
+      "text": "Police seek to identify protesters behind Portsmouth anti-migrant disorder - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qaG5telpOVXg0aFJ6RnhCNzg5dWRZcHNyNDNHZzlUSHlWaHFvazFVcnRaTWEtUUhvUEp1MEJjNVVNMHZZRG92djJGdVhyc0p5c2JIMHBaal9Bdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T19:04:09+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
       "url": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
@@ -19,28 +104,17 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T22:21:53+00:00"
+      "time": "2026-09-07T23:41:13+00:00"
     },
     {
-      "text": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates",
-      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-07T22:17:16+00:00"
-    },
-    {
-      "text": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
-      "url": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T22:04:15+00:00"
-    }
-  ],
-  "col1": [
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T22:04:00+00:00"
+    },
     {
       "text": "Caribbean Revelers Celebrate at Parade, Even as Many Are Missing",
       "url": "https://www.nytimes.com/2026/09/07/nyregion/west-indian-american-parade-haitians.html",
@@ -57,63 +131,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T20:04:31+00:00"
-    },
-    {
-      "text": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’",
-      "url": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T19:43:24+00:00"
-    },
-    {
-      "text": "Brushing Aside Trump’s Threats, Canada Retaliates on Tariffs - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb015UGswWm1Na0pCWTRkc1B6bUR6Q2FrdndPNTdkdDlITkFEQmtTRV8xZGFlbDhRWmVFWUhLZ1dZblNjbzhSZlMzYVJJdE9ld3dKcFByQ2J4R2dXejZlVE01N1dnSW5jWi0xLUNudFMzYkdoaEtkV2RCNmo2eHkyQXhTUTVjNk9VNUFN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T19:04:59+00:00"
-    },
-    {
-      "text": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T18:17:00+00:00"
-    },
-    {
-      "text": "Alex Pereira seeking Ciryl Gane rematch for his next fight: ‘From what I’m seeing, it’s something that’s going to happen’ - MMA Fighting",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3BpdGFxOU1GSko2SHdyVjdEc3dRd0dKbHB1NFJvZmxSdTUtcDBVYWdWVjZLUTltWXVpVFFFTGp1dUhuVkg0cG15UUVVX2FCcmd4a01tTmVOeHpLOFpwWWZVODQxNE9lVEZ2NWhwNklod2tpUVFqS0N1eGFXeDBmLXNBa0IzdWM2bjNFdnQ3VVM4VnhPN1lDSno5RE1qbHFBSFVSMDFRVEp2cHpaUnlGeUFKTzlaeVpqbmNXTEY0Mkg3Tk9YWnpjdnVYbjlYU1QwWnhNeklmLWMySDJ6WjlFLUxfcFVJYy1l?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T18:00:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "AfD just won 44% in a German state. Now Germany's firewall faces its biggest test. - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG5aNFkycE8xTjJQSEszWm8yVFE5TXhXTGU0SHEySUZaSnFOTGRvLU9LR3FodW1TZF9rMk1UaE1XTnpSV3RJNnVINkhHMVR2VDdZRkJPSHB3NWtNbHlnMFl1NV95TkFMakRoVnR2bHVZOWp4dWphRnJIS24weEh5dUppQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T20:40:31+00:00"
-    },
-    {
-      "text": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3UzZHBQV0NZTjd0MzM0OW1EN2M4WFg1TC1TaWo1QTUzOTVRNUIyak56T2tiRk41aEdWRGtGUzU0cEZ2NUNua2h0UkdITTJBMHJ4aG85YTdpUHRKT2RMbEcxcXFHRlNTb1o2M1NJWFFYXzlQcFc0TTRuWk8zQktYVnZYNWY1QUx6TUMxZtIBkgFBVV95cUxNMGkwWUhRbGJlOUxzRTI5dXNWMFdLdjg2NS1XcUgtbXBWT2k0ZU1RX0RXYWVNTU5mYmZ0Q3UyWDFGOWZhdnVkTmpaaTZPNm9JZWpIR2I1d2ZDTER4MkFnS21HUVdoRkxZOWVQSE4xSGlPZHRWOFR1SVh5UnNtczl1czhKLXJCYl85R1VnV0I5QnJPQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T20:00:00+00:00"
+      "time": "2026-09-07T20:04:00+00:00"
     },
     {
       "text": "Ousted Kennedy Center Chairman Buys Dismantled ‘Blue’ Sculpture",
@@ -125,87 +143,69 @@
       "time": "2026-09-07T19:28:45+00:00"
     },
     {
-      "text": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
-      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T18:35:45+00:00"
-    },
-    {
-      "text": "UK government condemns anti-migrant protests at ports over Channel boat crossings - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamx1N1dneVVhRHAwRWNwZVFMN0QxOHpjdC1HNHQxU3FyV0VGcUc3d0tyazlaRHM5d2FYOWFiRGtzZEdVVW1fLUN1bnp4Ull0NW9IT2xSNDItSzVjQkZNYzVLaWhpX215UlpTVUZzV19UWVg5VGRZMmNsT3RaSUhOWklVdV9zeE8xaml5TlBMeEdjcGNSd1FQcTgzUm9VVWh3VEJGR0R4UQ?oc=5",
+      "text": "Texas' Steve Sarkisian 'Shocked' Michigan Fans Stormed Field After Controversial WMU Win - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1N6OXM2SWVLa3NKVjdFSTVKc1ZJOHhfTHpzdUlaNjB6Rm1DUzRKZk43VlVlNWpDQ05hdHQwdTQyX2gwTkNRWWg0SUlNMlFKMUx1TEdDMGxvSUU3Vk5tNHRkZDg5YlBxWjRKbUllbjlNc2lsTmxVbWZveE54M29wUFI0eE9RTGdYQ0pMWnFJdmViLWlfTEFxYXBrc3VYZkRSWnVLZWx6ck5DSmRjMklxb1A0bmlPTTI0TllWTDFZcWN1ZTdNUEJiQ1lB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T18:08:00+00:00"
-    },
-    {
-      "text": "Gloria Steinem Knew How to Live",
-      "url": "https://www.nytimes.com/2026/09/07/opinion/gloria-steinem-aging-feminism.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T17:35:58+00:00"
+      "time": "2026-09-07T18:24:26+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Iran describes new Strait of Hormuz route during Operation Epic Fury - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0FkU0lFTGVobHIwMThjWEhxeFIyUXhMNjk5Q0tjUjZ1d0o4ZmV0NldKWV9zc1QxMzNESnZQM2JCSE9PdzZiMjgxbF9hVVQ5M2hINUg0RW40MkJ0RzQtWHc4M2tMeTJWY1pKT00zekJMUUVEcXRYa095eVNkUk93cXFhX0hVVDBnZ0phX3Z3?oc=5",
+      "text": "Taylor Swift looks radiant in flowing gold dress for romantic date night with husband Travis Kelce - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0NPWmVrMG1jYU90LTExclRaNnhfRU5TcDlaei02RUtDaElxbDNkRGs4N3V0SU55VkptQXhYckx0blJ2cV9KRlV0UTRDWl9HaWUtWkJ2QzZDTXFtNkUwZmgtRHJvdlNmMlBlQlV0d19OSWtqVl9RbndsZDFoaG93VjVmclNabExuWUJzekVoZi1MUnlQb3h5M2JJRlo3d0RuN0lBdTZwdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T20:33:22+00:00"
+      "time": "2026-09-07T23:07:31+00:00"
     },
     {
-      "text": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
-      "url": "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-07T19:50:48+00:00"
-    },
-    {
-      "text": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "text": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0tYMlJiSnROMHFKX3dJV04wTU50bkdYWHdheVdTN0dJRHJDbUZMYkhEX0JFa2pxNFNadzdEWW95bndCQ1ByRGhUZzQ1T0pJQWhFSWVmSU5IOUY2MEJTaWF5bl90N2JrdGxxMVJ2MWdoTHlpVEJJWWY1dGl2TGlDanZ3MXMxUGJnR3RPMmRMSjlEdVVVdFlIWlRpdDZodHF0Ym1uTlJFZEJmTGFIN0lKT1hXVWFRdW9XU1VHbmk3OGZQcGZEX0E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T19:16:00+00:00"
+      "time": "2026-09-07T22:03:49+00:00"
     },
     {
-      "text": "Prince Harry and Meghan not working royals, says King - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qOG02Y3hCUUgydXhOWmJCQVFtNGRjN2lFc2xZTE5sLVJfaHRwbGY3SndtdEtvTlZYSlVQQ3Y0T0E4WUsxTVVqQVQ2MTZ6OGl2MWt4WWQ2YzVDZw?oc=5",
+      "text": "Trump threatens to block Canada’s Bombardier sales unless planes made in US - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1ZzZ1czS3BlcVI3UEFheFhtMm5oMFM5YkszM3JaMDVUc3MxS2l6a2t3aGViVzhLUnhFcXRKNHl6MmZSbE9LakVIOGJZaHYtcmdQeWhsYTNtUXk0X1lLWWo5R1lpWWZ6clRsM2VpbElzeUVVYTRyLUk0RHFxbk1sQ2JoRERoX1drbkpNMTNndWlKY2VGcklkR0JIYkhGOXB2N2dVWHdxcVI5U0g4dFAzVGc2aVnSAboBQVVfeXFMTVJLanV6VjJJbWM0SFM1djlTM2RWX3BlMUt0X01FUzJncVBkMTJ2Qndac2VwTUw4OEVIUXVadlVOZlBfcXFmeHJaN1d1aEFISlNYOWNtSURUZTlNSEl5MXJONll3cGJpd1N0MThqZ1luMndQRlZ0U2ZReUhNNG1nU2hkbF81S3l5bGxJV2xwZ1phamZ1UlNNTkdVRV9meWxFamszUkN6b3BwS3lwUzktQXJkQUFJMDlNZjBn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T18:23:31+00:00"
+      "time": "2026-09-07T21:20:29+00:00"
     },
     {
-      "text": "Pink Calls Out Macklemore After Pro-Palestine Comments During Concert - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFcyVXpNSl9DSk5JaWpIWTh6VzNobHFQVFhqUkprSUk5TV9WQXpGN1dWUWgwSEhZYzN2Zkkxd1RFVzM3Y1BKdnM2N0NnT0dQekFXelhYdUd1enZDTUJBUG0xWlpLcnhzTEU5bURGcGNPRXU3dktWWC1XWjh5SEphMi1WLWgtRy1PNkxtTDhWQQ?oc=5",
+      "text": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3UzZHBQV0NZTjd0MzM0OW1EN2M4WFg1TC1TaWo1QTUzOTVRNUIyak56T2tiRk41aEdWRGtGUzU0cEZ2NUNua2h0UkdITTJBMHJ4aG85YTdpUHRKT2RMbEcxcXFHRlNTb1o2M1NJWFFYXzlQcFc0TTRuWk8zQktYVnZYNWY1QUx6TUMxZtIBkgFBVV95cUxNMGkwWUhRbGJlOUxzRTI5dXNWMFdLdjg2NS1XcUgtbXBWT2k0ZU1RX0RXYWVNTU5mYmZ0Q3UyWDFGOWZhdnVkTmpaaTZPNm9JZWpIR2I1d2ZDTER4MkFnS21HUVdoRkxZOWVQSE4xSGlPZHRWOFR1SVh5UnNtczl1czhKLXJCYl85R1VnV0I5QnJPQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T18:06:14+00:00"
+      "time": "2026-09-07T20:00:00+00:00"
     },
     {
-      "text": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMENNcE5uNHZLQ0ZybVgyaXBQTXZZaWN6VnkzcGdjMUlFUmVramlSQXdsNWREX0VnQV9KWkpMeThYSG1kajJaUk9rc20xdGE3YW5yYk02NFVqTEdydnFPZDRGaDBpMWFwY2xXUmNQajl2bkdWNlU3OXdrc2J5VHhyMTU0NUN4Z2hxNVpWd2Y1YnZuZ0E?oc=5",
+      "text": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDQwV0N5TEVua05mMi13aVo5TnFoTVVIRHlDVjllLWh1RTY3bm13NkkzOHRDZU5qYkNOZlFkRzZhTlZjYnFjV2ZLdzJPYzB5R1FUR1RCRW1ISzZYSzVySC0zSXUxbTBVM0ZZVUMzUVAxZmswQVhIYTVMaEZoYkxiVU1UdldVbHdYUlNFczhqWkY2NjVvaFJGT3F3X1YxdzB3N0E?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-07T17:30:14+00:00"
+      "time": "2026-09-07T19:25:00+00:00"
+    },
+    {
+      "text": "Canada Set to Hit at Trump Tariffs, Risking Wider Trade War - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE0tVzdBN21qWjZjZTVSV2ZhX1VibDN1eVgwcjZaeUxlR0RhRGVNWlN4ZnBiSkVlTUNiTXdPdW9BYjFqMWVtcHlNR01iNEJnbHZrM2stLUpMR2tFS3lCQnNLMnJiTVB4OUMyMTBqaG8ta0FLUW1rcVotbEJYbWZONXNOQnVfb2RGcFFBbkpUZU9nSmtUS1o2QnFrSFhMQmp4TVZ2bVFBaHd6Vmk5OXY4Y3lwc2g?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-07T18:22:28+00:00"
     }
   ]
 }
