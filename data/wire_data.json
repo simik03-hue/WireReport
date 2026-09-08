@@ -1,54 +1,63 @@
 {
-  "generated_at": "2026-09-08T11:09:46.845552+00:00",
+  "generated_at": "2026-09-08T15:09:16.656978+00:00",
   "lead": {
-    "text": "Roger Marshall Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.",
-    "url": "https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-09-08T11:06:34+00:00",
+    "text": "Dow drops more than 500 points to start shortened week as oil prices climb: Live updates",
+    "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-09-08T15:08:51+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "EverBank to combine with WaFd in $3.9 billion reverse merger",
-      "url": "https://www.cnbc.com/2026/09/08/everbank-to-combine-with-wafd-in-3point9-billion-reverse-merger-.html",
-      "source": "CNBC",
+      "text": "Live updates: Canadian tariffs take effect as Trump threatens Bombardier; White House hosts Sept. 11 remembrance",
+      "url": "https://thehill.com/homenews/administration/6075462-live-updates-trump-canada-tariffs-rnc-midterm-convention/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-08T11:03:05+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-08T15:07:57+00:00"
     },
     {
-      "text": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "text": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-08T11:00:10+00:00"
+      "time": "2026-09-08T15:03:11+00:00"
     },
     {
-      "text": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against",
-      "url": "https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-08T11:00:01+00:00"
+      "text": "King sends letter to clarify Harry and Meghan’s status in U.K. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlpXOWxadGtMQllKY19nNDVjandzRzV6Zm9uOWZDSGFKQmJqVmhZTEU2MFdmbnpyejhHS21nWlVhMUdKSXRMSk1CbmQtMXNUb18zSk1kZ2FDWnRzUTU3a0RHZjFQQVl0Q3hkd0hLSXBNYnBoOFBOb0pRNU9MWnhaVm93dXZSUjV6LXljQXFCdVdraVZLZzYyeGRvUTZNRkpXZ3dLNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-08T15:03:01+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
-      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+      "text": "Near the Border, Americans Fear Losing Ties With Canadians",
+      "url": "https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T10:54:53+00:00"
+      "time": "2026-09-08T14:56:09+00:00"
+    },
+    {
+      "text": "Woman who helped torture and kill transgender boyfriend sentenced to life in prison - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWZWRHBTMUgtSjZWaXp3UHlneWpsZ2xvdnh1OW1RZ085LVpBcVpDbnVmMXRyeTF2Y2RIaTR6dFFUdHJWbjNpVnpyRjNZQzNwRHY3Wnd4T2k4QjBSRDJxbzhmZWdycTRDY3Z3V0M4WkFlM3lxWTJGQTVRSTktS1pRcFZoNzlwRVZ0cmh1SmFsVDdRM2c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-08T14:23:00+00:00"
     },
     {
       "text": "The Truth About Brain Rot: It’s a Cry for Help",
@@ -57,110 +66,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T10:40:37+00:00"
+      "time": "2026-09-08T14:16:24+00:00"
     },
     {
-      "text": "Why the Pentagon Is Doing Polygraphs, and Officials Prepare to Release Huge Set of 9/11 Documents",
-      "url": "https://www.nytimes.com/2026/09/08/podcasts/the-headlines/pentagon-polygraphs-9-11-documents-crushable-concrete.html",
+      "text": "Navy Failed to Protect Pilots From Brain Injury, House Report Says",
+      "url": "https://www.nytimes.com/2026/09/08/us/navy-pilots-brain-injuries.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T10:00:15+00:00"
-    },
-    {
-      "text": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
-      "url": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T09:32:59+00:00"
-    },
-    {
-      "text": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQcXFTQzJlWGRBYmdVMnQzbVVFS2k0M3Z2MXdTNnF5T0ZiSzdXQzBaZ01tZTNFSTZVQWRSbTl6TWdZU3d5bDJTZFpHbllFUFlNVVZRdFZxcFljQm1ENmNxaVlnd091aW5kVnpXOHVVZUNJNzd6aHNTYVlR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-08T09:09:46+00:00"
-    },
-    {
-      "text": "A.I. Listings Are So Widespread Even Zillow Is Concerned",
-      "url": "https://www.nytimes.com/2026/09/08/realestate/ai-real-estate-listings-legislation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T09:04:57+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "UK Set to Impose Sanctions on Israeli Settlements in West Bank",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T10:48:28+00:00"
-    },
-    {
-      "text": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
-      "url": "https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T10:34:52+00:00"
-    },
-    {
-      "text": "New Hampshire Senate race tightens, Rhode Island governor on track to lose: 5 primaries to watch - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPby1Weko3UlRqejdxZnYzUURCOEI2WVJNN09VOHJkUWY1bEoyRnoza284c0s5SmFkbXRmams1cDZSUHo2ZXQzY1oxSFFMOWVPc1pTYWI3UzFZZng4RmtDd2hvN01HbWVncmVoSGo4RmRVZk85U2xpR2gwcWtXMFlMbEtXV2NzUVhIX3BRUXhvdHgyR0U4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-08T10:00:00+00:00"
-    },
-    {
-      "text": "Five killed in Miami plane crash landing were in two vehicles, investigators say - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wSkw0UXZKdFc1ZGdldUhtb3pxeGdXcXRQQXNUcC1IQi1QcXJ4RFpWTHZUTEFBbnlEUGk0c0RRelVuTFdacVZGc2R6QmkybFJlYzl4Mjh5R1BSZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-08T09:31:26+00:00"
-    },
-    {
-      "text": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
-      "url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T09:05:09+00:00"
-    },
-    {
-      "text": "Near the Border, Americans Fear Losing Ties With Canadians",
-      "url": "https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T09:04:51+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "A Trade War",
-      "url": "https://www.nytimes.com/2026/09/08/briefing/us-canada-trade-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T10:41:41+00:00"
+      "time": "2026-09-08T14:04:33+00:00"
     },
     {
       "text": "Thieves Steal Artworks From Renoir Museum in France",
@@ -169,43 +84,128 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T10:32:53+00:00"
+      "time": "2026-09-08T13:52:39+00:00"
     },
     {
-      "text": "A Far-Right Win Puts New Pressure on Germany’s Leader",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T09:49:42+00:00"
-    },
-    {
-      "text": "Russian strikes on Ukraine’s Kyiv kill at least two people - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
+      "text": "U.S.-Iran War Updates: Oil nears $100 a barrel as Strait of Hormuz stalemate keeps ship traffic down - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-08T09:15:46+00:00"
-    },
+      "time": "2026-09-08T13:41:00+00:00"
+    }
+  ],
+  "col2": [
     {
-      "text": "The Democratic Party Is Afraid of Its Own Voters",
-      "url": "https://www.nytimes.com/2026/09/08/opinion/democrats-midterms.html",
+      "text": "Don’t Have an Official N.Y.C. Trash Bin? Now It’ll Cost You.",
+      "url": "https://www.nytimes.com/2026/09/08/nyregion/nyc-trash-bins-fines.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T09:05:02+00:00"
+      "time": "2026-09-08T14:55:25+00:00"
     },
     {
-      "text": "Rubio to Push Colombia’s New Leader to Tackle Cocaine Trade",
-      "url": "https://www.nytimes.com/2026/09/08/world/americas/rubio-colombia-cocaine.html",
+      "text": "Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War",
+      "url": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-08T09:04:50+00:00"
+      "time": "2026-09-08T14:21:11+00:00"
+    },
+    {
+      "text": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-08T14:10:12+00:00"
+    },
+    {
+      "text": "9/11’s Dust and Ash Coated Their Childhood. Is It Still Making Them Ill?",
+      "url": "https://www.nytimes.com/2026/09/08/nyregion/9-11-children-health.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-08T14:03:18+00:00"
+    },
+    {
+      "text": "Roger Marshall Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.",
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-08T13:50:04+00:00"
+    },
+    {
+      "text": "Apple’s new CEO John Ternus expected to debut foldable iPhone at event Wednesday - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaHhBRzNtVkVsRDM3WTc5Qks2enZNRjZHMTBVSWNSRDZSQ1h6bmlwRzgzZGxVVjVERkl3Y21pOERIRXh6VFdySmdOVmtpOEpqcnNySlEwN1VXdnU5d2xGUzRxbkR0TmlSS2s2Nzh5OVZ6UFYwaW43NzVpX3IxbkFVYkVudWwzNmVkdDZEN0NpOE14UTdoVlhoRzF2dGMyV25iZnhwcmFvZUdIUXZYYUdCZ2hIbEE4N0ZvSUJEQVBEaE1EU2dGVHQ3UlZEN1lRZzFSS3FDSlNR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-08T13:22:14+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "29 Nonfiction Books Coming This Fall",
+      "url": "https://www.nytimes.com/2026/09/08/books/review/new-nonfiction-books-this-fall.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-08T14:46:00+00:00"
+    },
+    {
+      "text": "New York City’s Race Against Time to Floodproof Its Subway System",
+      "url": "https://www.nytimes.com/2026/09/08/magazine/new-york-city-subway-mta-flooding.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-08T14:19:43+00:00"
+    },
+    {
+      "text": "A word with a woman who’s trying to pull off a crossbody phone strap - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vMXNDTHpyZC1JNUlfMEtBZDNzQ2ZoWGtlUFNndW14NWV4bXoxVUxid2dWOTZ5V3k2U0R2LXJ2Q2VtZ2JqZnFtSGUzVlpJeVBpZ2otc3NOUmQ4X1RIeUdDNk1NZGg4Q1FhWTFEdTFoZ05kZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-08T14:04:37+00:00"
+    },
+    {
+      "text": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
+      "url": "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-08T13:53:50+00:00"
+    },
+    {
+      "text": "PFT’s Week 1 2026 NFL power rankings - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDVuS2NrTTNVbE83Ny0tWW5VRG5TQktxdmxwRm9waUNmZEN3b1FQVjZ6clp2YWtVekYzTnBQeUtSa2YwT1hZc19hSDJXWFIzMms5OFc0ajU5RFgwWlhYTFV0VDFuVFA3aV9hQ3lvMldwUnAwVWExejFCb3JwdVhlNUU5cUl0b1YtSWJQS2RRSTVvR0VkSk1aUW9tTlcxdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-08T13:47:33+00:00"
+    },
+    {
+      "text": "Lindsay Clancy’s attorney makes public plea for Trump pardon - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWYtVi01NTR1aHZyckIwZGY3ZFRhR1U3YkdERUwwU1QxMVNmRHFRajVjb1ctbHpPdUZQYV9QMFAzSU1vRjk5cWtGQU15eE9VYTdkZnRaUzNoX2RYVVJoTGV3b0hGODZfM3I5dmVTTmtEd2c4SlBEYjVjZkRXemd3SVZ4U0c1aGhZTzBsV3gxQm1CMlRGRVVQaHRnaFk2VnpEZ05VRjJ5djdxa2s?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-08T13:17:52+00:00"
     }
   ]
 }
