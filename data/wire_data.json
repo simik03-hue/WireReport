@@ -1,63 +1,90 @@
 {
-  "generated_at": "2026-09-09T19:30:48.921219+00:00",
+  "generated_at": "2026-09-09T21:58:58.221018+00:00",
   "lead": {
-    "text": "Trump predicts Iran war will end 'immediately after the election'",
-    "url": "https://thehill.com/homenews/administration/6079754-trump-comments-iran-midterms/",
+    "text": "Missouri’s chaotic redistricting battle: Where it stands",
+    "url": "https://thehill.com/regulation/court-battles/6080105-missouri-redistricting-congressional-map-legal-fight/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-09T19:27:52+00:00",
+    "time": "2026-09-09T21:53:34+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Hunter Biden’s laptop-linked meme coin soars, then falls after market debut",
-      "url": "https://thehill.com/policy/technology/6079738-hunter-biden-laptop-meme-coin-launches/",
+      "text": "Live updates: Trump to address Republicans in Dallas at GOP midterm convention",
+      "url": "https://thehill.com/homenews/administration/6077751-live-updates-trump-republican-midterm-convention-dallas/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-09T19:23:54+00:00"
+      "time": "2026-09-09T21:48:08+00:00"
     },
     {
-      "text": "Lindsay Clancy attorney will ask for jury to be sequestered in new trial",
-      "url": "https://thehill.com/homenews/6079380-lindsay-clancy-attorney-will-ask-for-jury-to-be-sequestered-in-new-trial/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-09T19:23:03+00:00"
-    },
-    {
-      "text": "What a historic summer box office reveals about massive shifts in the theatrical industry",
-      "url": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html",
+      "text": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
+      "url": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-09T19:21:58+00:00"
+      "time": "2026-09-09T21:45:34+00:00"
+    },
+    {
+      "text": "Treasury boosts debt buyback cap to $6 billion",
+      "url": "https://thehill.com/newsletters/business-economy/6080260-treasury-boosts-debt-buyback-cap-to-6-billion/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-09T21:41:10+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
-      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
+      "text": "Bond Market Rebuffs Treasury’s $6 Billion Plan to Reduce Borrowing Costs",
+      "url": "https://www.nytimes.com/2026/09/09/business/economy/treasury-repurchase-bessent.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T19:18:54+00:00"
+      "time": "2026-09-09T21:38:28+00:00"
     },
     {
-      "text": "Anthropic researchers say AI could cause human extinction by 2030 - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
+      "text": "Zelenskiy's plane almost hit by drone on Tuesday, Norway PM says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JTaC1oOWFvY2xYWEI5a3VVdTlpaktkSXJud0xnbTRNY3lNVzZoTU1zX2ZuZWZlckpSM0oxbHdZcUt1WnRlUFROeW80eDQxZEpQM2RQSlppcXRpNGpBMG1pb1FweXhwZjYydGtNNjM5cDVVVlo1d184UXRlUFUtTjhJN19nTjhKd2trWFF0a0g1SHByOHd6VWJFSFpwTVRZNk1TS1dZd3VkS3JS?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-09T18:58:00+00:00"
+      "time": "2026-09-09T21:33:21+00:00"
+    },
+    {
+      "text": "2026 NFL predictions: Experts pick Super Bowl winner, MVP - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGFBbEotdUtFeWh3SXVYUklRdzVfR1pYR0JfMnN6andFUzAzZ2EtWG01cS1IbFdpM0k0TGZPTUYtN2Z0QWVZTXBGbDVjUGVIUVBMQ0ZEbzVnRGc1VW1hWWdZRFk4V3VJNXNSRzFVekhXa0NUcnEwUl9NazRsZk1zalJ2LWxZUlJEb3RSa3FpbXNlU0tsQlRpWVY1Mi1HV3ZTdWN2VkZJWVk4WmhRd0dqV1JFbGZwTi1aWllB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-09T21:10:00+00:00"
+    },
+    {
+      "text": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpNDNacjh4TlZHVS13ZFk4Zldla0pZSDZHTklBTHRWYThjVHEtUlVTNm1EMl9xMXNTMnN1eElERkQ1OW03N2NjMWxONUY0V0RWWFlsakcyWldDQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-09T20:59:24+00:00"
+    },
+    {
+      "text": "Lost at the U.S. Open? Find the Super-Cheerful People in Straw Hats.",
+      "url": "https://www.nytimes.com/2026/09/09/nyregion/tennis-us-open-ambassadors.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-09T20:31:19+00:00"
     },
     {
       "text": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
@@ -66,45 +93,45 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T18:52:20+00:00"
-    },
-    {
-      "text": "Democracy Is on the Ballot in Both America’s and Israel’s Elections",
-      "url": "https://www.nytimes.com/2026/09/08/opinion/israel-us-elections-midterms-netanyahu-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T18:10:38+00:00"
-    },
-    {
-      "text": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-09T17:49:00+00:00"
-    },
-    {
-      "text": "Apple Announces Apple Watch Series 12 With S11 Chip, Upgraded Health Sensors and Ceramic Models - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHRZQnN6elJ4Q0M1ZzV5REcyTERESlhfZU1vYTlxM2Y5UmY3MFA0ODh6VUhZVHVUMFJsbzNQYTI4Y2tTWlNEX0N2dWF2blAtdWtmOFEyd3RWVGVfTS1rMkFXbHlia1FONWxZTGIwNW5YUlcwc2JzSEF4Q0FvT3pNeDZPN2JqS191N29TVERjTFU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-09T17:42:20+00:00"
+      "time": "2026-09-09T20:20:20+00:00"
     }
   ],
   "col2": [
     {
-      "text": "60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality",
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
+      "text": "The Data Center Conundrum",
+      "url": "https://www.nytimes.com/2026/09/09/opinion/data-center-ai-resistance.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T19:01:23+00:00"
+      "time": "2026-09-09T21:38:28+00:00"
+    },
+    {
+      "text": "Election Officials Grapple With Uncertainty as Supreme Court Considers Mail Ballot Plan",
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-09T21:23:18+00:00"
+    },
+    {
+      "text": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
+      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-09T21:09:08+00:00"
+    },
+    {
+      "text": "Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckZFblplNHZIRmJXc1k4TjhwOWU2ZUtfM190MkpWUW5aN1FxbnJpVVlLZ21fZUF4QXRjcmtmS3Z0ZXExTkFJS28ybE5QUGVHU2JOaGc5Y0NKSzYyWmZ0aXRNS1B6MktTbUt1NTRvWlNVOE0tbEtEbXlWc1RJNDF6eVE2NFBSUEpwOXBFR0xBV1FFVTVZR2ZtbEVkMGpQTUFCM3I1anI5TVc5azNTZk9QYlF0NlNtZkVtOHRlMEpZbw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-09T20:48:55+00:00"
     },
     {
       "text": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs",
@@ -113,63 +140,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T18:53:05+00:00"
-    },
-    {
-      "text": "Trump says oil and gas prices won't fall until 'right after' midterm election - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPemN6MWZDcVYwWUU5X0VmNHNFcEdRNGtSN3NLcDg0VjZjR3NQMlUtLVBueXdtWUtfWnhfaFpiSVE2MnQwcFdzLVVoZFRkRUZBbm4wenp2UlZ1WmJjcWhGcWsta3NZUnJVQTN0OXJlTVFJbTF4QWlabDBsN2c4VkozYdIBhgFBVV95cUxOUlRjYVBTamNadnY2TElUdG5ldUhoa1FjNGhyNFRZVUh3c1JvZVdCeFY2OEhrbnFoWWs5R2NhUFFnSlRPZkZMdzl5aDNraXpYT1JmcGVYOHZ6VVE4dTkxWXhiM1VOWUZpaFdjQnU1dGdHX24yMWZFaXVVREZCS2xac3QzZTh0UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-09T18:34:23+00:00"
-    },
-    {
-      "text": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
-      "url": "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T18:04:07+00:00"
-    },
-    {
-      "text": "House Democrats weigh AI select committee - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelg5WlFsZHR0VU83MDlCQm1TcGNYaDVobEdCM1hXV0ktM1JaY0xaSnVoaUU2dVhhYXRkc1llWG5DMUVYNVVMTU4tNUM3VW13djJwb1Q4LVpRWHF0OXR4NmtkQzAwMzVsY0d6R0o2ZUtNYTd6U0lTamgyN2pfcFpuZXVGTkRBOF82N05oVEhLNXlqdUpQUHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-09T17:49:00+00:00"
-    },
-    {
-      "text": "Blame Ronald Reagan",
-      "url": "https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T17:39:38+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Dow slides 400 points as rates jump, international crude price tops $101: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVWZhUUhTR016OG10ZS0zRG9YYjZUcUNQSVZJbkZzbFVvREpTSzg3NXI3Ry1US085NDRndjRzRFp3Z0NBdm10ek1OWTNuSjVyV1h0c2V2ampsQTJOSURMSGhqWWJ1YzhVODFSYkZiQXJKTUloaVY00gF8QVVfeXFMTjdLSXBKbXFzdFRiVWdzVzY1LXdRS3B2ZFY0Rl9ZNGZTTkhYRW9US25pQmhHVXR2eUE4VmNkS3o0blJFMDZMWjYtaElOS2NoQnNzdE82UUhhbXFwWTJDbVBxQnBVRVU3VnV3dFgtV1lJRV83Q2NFaS1BZVlCLQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-09T19:01:00+00:00"
-    },
-    {
-      "text": "Bond Market Rebuffs Treasury’s $6 Billion Plan to Reduce Borrowing Costs",
-      "url": "https://www.nytimes.com/2026/09/09/business/economy/treasury-repurchase-bessent.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T18:53:01+00:00"
+      "time": "2026-09-09T20:29:49+00:00"
     },
     {
       "text": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
@@ -178,34 +149,63 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T18:10:42+00:00"
-    },
+      "time": "2026-09-09T20:17:38+00:00"
+    }
+  ],
+  "col3": [
     {
-      "text": "Man charged with assisting Russian intelligence services - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxanRhUVdXUW56UmpvcXM2bE5RVkJyeXJjLXV3UUlER2dWMm5nNHpKQTB0RWkzNExLM2l2bW9WblVnV1ppRFJmZ2NKdS0ycTdWanJyWUNLQU93UQ?oc=5",
+      "text": "Artemis II moonshot commander and pilot are hanging up their astronaut suits at NASA - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY01JRy1Bb0lMX21IeVpXNkFndVZQVDFDbExjX2R2ODV1Ui1pQmF6d1lWaEJ6U0didUJ0b0NzbVo1UG00VGpXVlNmbVltYWpvMnpWNUlyT1JldHUxV2pSODdQSlNGdHZ1QUhvZkVMNUJRUHdEMTN5Q1VNS093eWpITUc0RVFVcXI2ZURzRmNZUGNFanI1cFIydWRjbFhEN1k?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-09T18:00:01+00:00"
+      "time": "2026-09-09T21:38:00+00:00"
     },
     {
-      "text": "Film and TV Portrayals of A.I. Go Beyond Science Fiction",
-      "url": "https://www.nytimes.com/2026/09/09/movies/ai-tv-movies-robots-science-fiction.html",
+      "text": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-09T21:18:00+00:00"
+    },
+    {
+      "text": "I Worked on Safety at OpenAI. The Fix Isn’t Hard.",
+      "url": "https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-09T17:48:49+00:00"
+      "time": "2026-09-09T21:00:03+00:00"
     },
     {
-      "text": "Scientists Who Study Sleep and Narcolepsy Win Prestigious Lasker Award - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTl3X2tJRVhBa3ZSMi1IWU1MUFJTX2p4WUxQX0dCNVJ3VUM1TEFkdkRCb0x1ZWQzNTdSVmVDRHBfYW5OZkdTdEdZYVl6aXowSzh4TW1RLTRwNjhqS2ZFYXVaMF85UFVVdy1YLVFLd0ZrNkNOWlJ4a2ZIUDJaZ3BYb2Z3ME93ejB5UUJMbnlmbkJHX2s?oc=5",
+      "text": "Lucien Smith, Art-World Star Whose Career Abruptly Turned, Dies at 37",
+      "url": "https://www.nytimes.com/2026/09/09/obituaries/lucien-smith-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-09T20:44:11+00:00"
+    },
+    {
+      "text": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-09T17:32:10+00:00"
+      "time": "2026-09-09T20:26:00+00:00"
+    },
+    {
+      "text": "Report: Brock Bowers to miss \"a game or two\" after meniscus trim - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzNYT05ZU1EzYUNIYUJlVDVwN2tvLXgxM0hQQ0llTDJ1TlJrU0pmZldMVXdMdGxzWGNtTnd4TmREYkRQb1JyWFhBSEZLSWdfQ1VnSlFxQVFTUUpEclJkNGlXLUlMTVVkdHZKbjNaUHdCaUxSX0wyeGVpeXp5VHc2UXNZVXhHbFNIMDA0NjAxcGRseWZKV1lkSFNPTlp3QmNqcE1CZ2p1c01BTGdzMXpEMXdDckJCVjZDUHlpRzZkZWw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-09T20:08:51+00:00"
     }
   ]
 }
