@@ -1,81 +1,25 @@
 {
-  "generated_at": "2026-09-10T17:38:09.403034+00:00",
+  "generated_at": "2026-09-10T20:04:32.165400+00:00",
   "lead": {
-    "text": "Stocks retreat as U.S. oil prices top $100, threatening economy: Live updates",
+    "text": "Dow tumbles 300 points to notch 4-day drop as Treasury yields and oil prices surge: Live updates",
     "url": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-09-10T17:34:48+00:00",
+    "time": "2026-09-10T20:02:10+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Rep. Madeleine Dean slams Fetterman, calls video appearance 'gravely disappointing'",
-      "url": "https://thehill.com/homenews/house/6082394-dean-calls-fetterman-video-stunt/",
+      "text": "Fetterman fundraising off GOP midterm convention appearance",
+      "url": "https://thehill.com/homenews/senate/6082917-fetterman-fundraising-gop-convention/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-10T17:34:33+00:00"
-    },
-    {
-      "text": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-      "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-10T17:31:38+00:00"
-    },
-    {
-      "text": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-10T17:28:07+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "A Sprint to Decipher U.S.-Canada Tariffs: ‘Are Sprinkles on the List?’",
-      "url": "https://www.nytimes.com/2026/09/10/business/economy/canada-tariffs-sprinkles.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T17:22:21+00:00"
-    },
-    {
-      "text": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
-      "url": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T17:14:02+00:00"
-    },
-    {
-      "text": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T17:00:05+00:00"
-    },
-    {
-      "text": "It’s My Party and I’ll Lie if I Want To",
-      "url": "https://www.nytimes.com/2026/09/10/opinion/trump-midterms-dallas-convention.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T16:45:00+00:00"
+      "time": "2026-09-10T19:59:11+00:00"
     },
     {
       "text": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as U.S. oil prices surge to $100 a barrel and Treasury yields jump; stocks on track for weekly losses; Oracle earnings on tap - MarketWatch",
@@ -84,120 +28,75 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T16:38:00+00:00"
+      "time": "2026-09-10T19:45:00+00:00"
     },
     {
-      "text": "Report: Sam Darnold is expected to miss time, MRI under review - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0FUQjIzMGtMdi0tODhZbG5YS3pRZWpzdnpDaHBlTlFnYVFEVTVNTnhVYzZVU2xvdC1QT2V1LXdaQUk0ZkE5TDVSUXRuaVppN3U5VkhrMDQ1OW1YRmktS3RwY1BFYjUwUzVQZGpsUWZ2cGFrV09qM3daYW52NU56TldZaVpaOUV4d19BUjh0a0FjZXBNSEstUnJRbFFsZld0NUhJd2t6WkR0OGFUdzM0M2pzeXlSMzVQcUpIdkRXdw?oc=5",
+      "text": "Iran is producing ballistic missiles again: Report",
+      "url": "https://thehill.com/policy/international/6082738-iran-ballistic-missiles/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-10T19:42:40+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Trump Announces $500 Rebates for Some Obamacare Customers,Weeks Before the Election",
+      "url": "https://www.nytimes.com/2026/09/10/business/trump-obamacare-rebates.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T19:37:25+00:00"
+    },
+    {
+      "text": "Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.",
+      "url": "https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T19:22:30+00:00"
+    },
+    {
+      "text": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRjdDJFQkpOdjFuMzV2ZjExM0hJZjdXOWNxUHBsbGtHQS1aNHdsYlRhYkpJbTdLMlRYQWNRZTh5ellzejZsS3hYZTcyVTZsVGQxZ19YWnpaZzRoTlQzUTBCM2Z1UFJOVW9zbkFVT1M5SVF3d19TNmtoMXp5RlJ1TXVtX1pXMldmSHBJZTlsVEtfbmgxMktRZzUwM3dVVWhGMVRQVjNlVHVsT1V4TWZZRFExQUxpVDRDMnNxRkw4Yk5adzQyLUE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T16:26:03+00:00"
+      "time": "2026-09-10T18:54:34+00:00"
+    },
+    {
+      "text": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home.",
+      "url": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T18:39:47+00:00"
+    },
+    {
+      "text": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T18:28:00+00:00"
+    },
+    {
+      "text": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T18:19:00+00:00"
     }
   ],
   "col2": [
-    {
-      "text": "Why is Apple’s New Foldable iPhone Duo $1,999?",
-      "url": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T17:20:51+00:00"
-    },
-    {
-      "text": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas - NPR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T17:13:48+00:00"
-    },
-    {
-      "text": "He Lost His Mother on 9/11. He Grew Up in Her Childhood Bedroom.",
-      "url": "https://www.nytimes.com/2026/09/10/nyregion/9-11-child-grandmother.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T16:59:15+00:00"
-    },
-    {
-      "text": "‘All the persuasiveness of a North Korean newscast’: Democrats decry Fetterman video at GOP convention - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXFrWV8tRnNtRmhPcVk3dVBwSEY1bEt3WXU1LTZmVWtNdkpyTS1BU2UweHZSZ3p4blZPMk5tNVVyNDdJMEowUHUtZFN0eWFUUERORUtELXg2anhPaURwMG5TcC1Nak44T3dLbEhleEI3akNmNFJLQ0FnZ055czNjVUpEVFB2Y1l5VjlTNDRiZk9VTTF0R3Nn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T16:44:00+00:00"
-    },
-    {
-      "text": "Dudamel Lands in New York, With Big Ambitions and a Packed Schedule",
-      "url": "https://www.nytimes.com/2026/09/10/arts/music/gustavo-dudamel-starts-job-at-new-york-philharmonic.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T16:33:15+00:00"
-    },
-    {
-      "text": "How the New iPhone Duo’s Glass Screen Bends Without Breaking",
-      "url": "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T16:21:33+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem",
-      "url": "https://www.nytimes.com/2026/09/10/science/tristan-buckmaster-openai-math-navier-stokes.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T17:18:48+00:00"
-    },
-    {
-      "text": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFo5SEY5aEFkOUE1cm5HcGw2Z3NVN0w4NGNfT21HSnhyaDdvdWk0cDRKejN0ZjdpMXdaalJEYjEyZ2VfT2tzWjhyc0Y5WmtsOUxXNEVIMzZKSUhPWno4SHlKM3gwa25vcXVKUjZHVFN6ODdnMEYydlBpSEpDVXM2TG14TWlCamk4Sk5TOEVheHNPcS1QVTJLZlhlOXNDcTdlVG5CR1p0VnpkamtxeERjRGp5a9IBuAFBVV95cUxNRHVJS3I4Vy1lX0RpWjNHdzNNVzFIRkZqWGRfZWc1d29xSGpYQl9ZelQ3LUYwU3BQQmQzeUVvWFYtQUkwd202Q3MwZHQxZm5veTNNVnYyUW5PbFpDSVJLUVNNX253MFgteVYzcEtrZkxRWEVtclhVV0U1WGtpZ2pEUl9yQ2ZwbnVXWjFDdmZIeE9mVzI5dzFKVTl5NjRGY3Y1VFl2TmhCSXdweFFJUGJweWxPS1pXQ3Ba?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T17:00:27+00:00"
-    },
-    {
-      "text": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T16:55:28+00:00"
-    },
-    {
-      "text": "Trump Wants to Give Out $5,000 Checks. It Would Cost More Than $1 Trillion.",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-check.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T16:42:07+00:00"
-    },
-    {
-      "text": "U.S. crude oil hits $100 for the first time since May - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUc0eUlnRzFSZkJ5NWp4TFc3c3RqY2t5YVV2N1p4c3lFZmJZdHE5NG1KRDF3S0NIc19YdTZsMXB1T0VYTUFCRWx5eDd4aVF4WnpUcVJyUzJpbzB1aUZ3cWtwRExJeGk4c0VGNjVDVzdmZEpYQmMtcWxhWUxXT3BHZDMxSTBxRHV1?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T16:32:00+00:00"
-    },
     {
       "text": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
       "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
@@ -205,7 +104,108 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T16:20:47+00:00"
+      "time": "2026-09-10T19:31:30+00:00"
+    },
+    {
+      "text": "D.O.J. Escalates Threats to States in Battle for Election Records",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/department-of-justice-election-fraud-states.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T19:21:24+00:00"
+    },
+    {
+      "text": "Big Tech Fooled America Once. The Second Time’s Not Going So Well.",
+      "url": "https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T18:50:17+00:00"
+    },
+    {
+      "text": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T18:39:00+00:00"
+    },
+    {
+      "text": "UK Sanctions Against Israeli Settlers Divide British Rabbis",
+      "url": "https://www.nytimes.com/2026/09/10/world/europe/britain-israel-jews-sanctions-settlers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T18:22:23+00:00"
+    },
+    {
+      "text": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T18:15:29+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
+      "url": "https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T19:27:47+00:00"
+    },
+    {
+      "text": "Mercury may be shrinking faster than scientists expected - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmZRTXEtS0NXT3JsRi1yaTFqbm9sZnRrZmZvdzhQSWQxUEV5UndfVjZjNi1SQUN4YU53ZHJ3aTN6TEFkQ29LeXJaTGxBOHlDQ0FsSG9TeUpEZVBCT2R1Y0Nyb3FLelB6c2IzNGpSMjJnY1FBalNnZ015TWlSUDljRVNuZ19IM3BXT3c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T18:59:47+00:00"
+    },
+    {
+      "text": "Republicans Court Donors at Midterm Convention With $88,600 Photos and AI-Sponsored Suites",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-donors.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T18:45:38+00:00"
+    },
+    {
+      "text": "Trump’s Trade War With Canada Is Making Even Sprinkle Makers Nervous",
+      "url": "https://www.nytimes.com/2026/09/10/business/economy/canada-tariffs-sprinkles.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T18:32:37+00:00"
+    },
+    {
+      "text": "Mike Vrabel: A.J. Brown still undergoing tests, unsure of Week 2 availability - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUFdIMG1PaGpCeV9ZcVlyOU8zSm9ZbGlrNUlZMUxDTHkzNmtpTVdhWUp1Vkhmckg3LWxIQ2hvbDloMXNUOWR5bDlpQWZNQjBnaW9WZGR4RE5yQlJxbkV0TFFmeVBDQlluNUt1VTh2alBxQVdCMGdvMmdTU2NOSkZjbC1SOUJMZVQ3R2dMOWJIWFJ0REkzSjRjUExqeWthOUNfeEZCRmhZRVliNGJJVnBGZGJYN29xUWE4WFZ5TlJjNVNJcFJLeGpDMk96NkUyM2lsamc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T18:19:21+00:00"
+    },
+    {
+      "text": "A U.S. Open Match Ended at 3:30 a.m. It Wasn’t Over for the Workers.",
+      "url": "https://www.nytimes.com/2026/09/10/nyregion/us-open-late-night-workers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T18:12:34+00:00"
     }
   ]
 }
