@@ -1,72 +1,137 @@
 {
-  "generated_at": "2026-09-10T09:33:47.641180+00:00",
+  "generated_at": "2026-09-10T13:51:40.420517+00:00",
   "lead": {
-    "text": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-    "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-10T09:32:34+00:00",
+    "text": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say",
+    "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-10T13:46:01+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Coinbase CEO says clearer U.S. crypto rules are coming — with or without Senate approval",
-      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+      "text": "Coinbase partners with Moov to boost community bank stablecoin capabilities before Clarity vote",
+      "url": "https://www.cnbc.com/2026/09/10/coinbase-clarity-moov-banks-stablecoin.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-10T09:25:34+00:00"
+      "time": "2026-09-10T13:45:17+00:00"
     },
     {
-      "text": "An ECB rate hike is ‘all but certain’ — but investors divided on what comes next",
-      "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+      "text": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+      "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-10T09:24:59+00:00"
+      "time": "2026-09-10T13:44:20+00:00"
     },
     {
-      "text": "Oil prices extend gains, Brent stays above $100 a barrel on Mideast worries",
-      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-10T09:17:43+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Dear A.I. Companies: This Is Why America Hates You (and What You Can Do About It)",
-      "url": "https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html",
+      "text": "Oil Prices Surge as Fighting in Middle East Escalates",
+      "url": "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T09:04:00+00:00"
-    },
+      "time": "2026-09-10T13:41:32+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "Scoop: Anthropic whistleblower gave up his equity to leave the company - Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zeWRlMEZLY3JubENWSWYtR2dUS0xGbHVfcjVqSExIdDdocl8wbzNyZnhmVlNOc2szMVJiSVVDeXVRaXVmUzlZUjduQ0ZRU08xMVppbjlJbkZzcnRWZ0d6empyM3BOUW5TbzRVemZvdkFyckh6a042akhZaDUyZXM?oc=5",
+      "text": "Why scientists are starting to worry popular supplements could harm the aging brain - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T07:46:17+00:00"
+      "time": "2026-09-10T13:31:54+00:00"
     },
     {
-      "text": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast - NPR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BekpHSXNzcHlnV0dhZzBmNDMtM2J1NFQxZXVQUGh3T1Y4RmlFR2VFSExuWWVQbjVySncwYnlJZExtRW1kX1VsZHBuaEQtckhxcGZ4dGdiQVRMUW5OdFM0c1R4YjZrd2tyNFVBS0RmOXpmdHo3?oc=5",
+      "text": "Stock futures tumble as U.S. oil prices jump over $100 a barrel: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T05:45:00+00:00"
+      "time": "2026-09-10T13:16:32+00:00"
+    },
+    {
+      "text": "Bayeux Tapestry Exhibition Opens at British Museum",
+      "url": "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-british-museum-opening.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T13:06:24+00:00"
+    },
+    {
+      "text": "Twenty-five dead after fire erupts on cargo ship in Qingdao, eastern China - state media - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T12:24:54+00:00"
+    },
+    {
+      "text": "Where to See the World’s Bayeux Tapestry Replicas",
+      "url": "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-replicas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T11:42:23+00:00"
+    },
+    {
+      "text": "Jimmy Kimmel’s Interview With James Talarico Heading to YouTube to Avoid FCC Hassle - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpORXBNcERCTm5WYnpFQi1lY3djQ0dnd1N4QWROTjlyLWJuZ09UY2V2U1padVdhTjdSLW8xYWo5VWxiZE5fNTJlY3ZMbFBvV2MtcmY1d0pHbTdUMzdnZFVJQ21XYnE3T2JxNnBjcXlCS0lobi1BQlNpZ3Z6U3F3MnM1Z3ZaNVhnamNLaGpocUZJRVNrTzRPbmt2MnNLazZEQjd0WWU1SlVCOUdSWHNfQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T11:12:29+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T13:29:15+00:00"
+    },
+    {
+      "text": "Memorial on Anniversary of Charlie Kirk’s Killing Splits a Utah Campus",
+      "url": "https://www.nytimes.com/2026/09/10/us/charlie-kirk-assassination-anniversary.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T13:10:09+00:00"
+    },
+    {
+      "text": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+      "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-10T12:35:12+00:00"
+    },
+    {
+      "text": "Federal judge allows Missouri’s top court to hold contempt hearing in redistricting dispute - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T12:10:00+00:00"
     },
     {
       "text": "Fetterman praises Trump in bombshell GOP convention video - Axios",
@@ -75,81 +140,16 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T05:30:17+00:00"
+      "time": "2026-09-10T11:31:26+00:00"
     },
     {
-      "text": "Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3Ytd2I5UDhvbzQ1MnhiUUtUZFVJQ3BaTXpUaGhhZDMwQ2RHS2EwR19SSkNKaWZXYXlnUWI2WmU1cTEzcHFWcjExSW9sQ1NRTlJhdHdvTExQRW1EOGM1LWxGOF9qSEk5QXBCQTFqN2NhQm9EWnJRaDZfNUttR0gyckdYOHBXZVVBNHc?oc=5",
+      "text": "iPhone 18 Pro and Pro Max Benchmarks Reveal Speed of A20 Pro Chip - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHF5V0llMzhQT3BSaGpZVkQtcFZ1SHhJUzBwVVlZSlNOVkdPU0VBS1U2RW1DZHlubXVIZ0tYaG44MXYtZ1N5b2NHT193U1NfZTZYcHc3dUQ3OHRUVnFVZVROLV9jekxNUEFZY1g1ZWN2bVFQLW9QU0hUQU9uMDNZTGlNNlNVclBmZU9STVViQmI?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T05:18:00+00:00"
-    },
-    {
-      "text": "Horoscope for Thursday, September 10, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnlyN2N4ekVRTWNJc05iMXRaRXVqN0o3VW5XWlpmMEFSVi1SMElKY3V2eFZVOXpWUmtjR1NGbFRwRW1wdk02N3E0Y0lTNHV6Sk1la0F6SHcyUzFDR2dnMzhVQUlOMEVMWmk4VDMwbnllSnNkdU83V1YtdmltdWloUlNZeDNwRDN2akU3eC13NFB5VWtzN2JyVXhB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T05:01:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Civil Libertarians Knew This Would Happen. We Should Have Listened.",
-      "url": "https://www.nytimes.com/2026/09/10/opinion/911-patriot-act-trump-politics.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T09:03:51+00:00"
-    },
-    {
-      "text": "Jimmy Kimmel to Interview James Talarico ‘Under Unusual Circumstances’",
-      "url": "https://www.nytimes.com/2026/09/10/arts/television/jimmy-kimmel-james-talarico-interview.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T07:26:53+00:00"
-    },
-    {
-      "text": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T05:35:19+00:00"
-    },
-    {
-      "text": "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUm5OUVNzU0prMDh0b1hlUVBlOVdqQkRRZkliaUhEMUpWZ05NVXdFNVlHZzRBV1dIRGMybWE3OUljdnpYOUJTRTlfYW5PV2s1WkpEMWFJQVdDVXFtanRxSl9ScUV0YWFUVGxiSnZPOEt5VXZUWVg1VmlxNGc3Z3doNEw2a1lwNEpjR0stVWEydzJYN3JmUS1zaTdUNng2QXNEanplZ2tjaVVoaldkRENBV0MxOWtFYXJMMTJEOTd2X0lpRGdx?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T05:28:00+00:00"
-    },
-    {
-      "text": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T05:09:24+00:00"
-    },
-    {
-      "text": "Supreme Court is asked to settle Missouri dispute causing electoral chaos - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVpQS1JsQnNXQXdxT2x0VmVBTGhhUWtfYTZXWFJJQ0RuWWJmdUVKSHlIS2tONjhtWFBoYVl6cnR3TW0tWGF5Y3ZVbFdFTFRyb2JNVURwbFd5WXg3Ui16aGlVejVfcEJ0bGJoUmhXRlNDckVoZDV6VkNVX2JXVHlBZDJ6T0JzQnlTQXFyTVB4TTRGTUsza2tXZFJCQ0lPRnRoSnhoQVJwSkFzc0dEQ2VneG5yMjdEOEVxdFpGQktHRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T04:39:04+00:00"
+      "time": "2026-09-10T11:06:15+00:00"
     }
   ],
   "col3": [
@@ -160,52 +160,52 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T07:56:44+00:00"
+      "time": "2026-09-10T13:17:54+00:00"
     },
     {
-      "text": "Patriots WR A.J. Brown ruled out vs. Seahawks with ankle injury - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcThZWUYwa0xPZ0RwSWk5RW5HeUxGRk84VEtvSk4xNGxIS2NKMEVtNUdOb0dTeGlZSTkxNWVBUXRFSEdYU25UQkVZUFdONGxJNGtQOVhlbk5SOEl3YmQ3VnVlckhZcFNxdFZ3U0hBUWhrMFFteFg5RS16eXVrc0phS0o5VDQ4Vm5RREZoejJmeHhrMHIyeGMw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T06:11:15+00:00"
-    },
-    {
-      "text": "Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say",
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
+      "text": "European Central Bank Raises Rates in Bid to Quell Inflation",
+      "url": "https://www.nytimes.com/2026/09/10/business/european-central-bank-interest-rates.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T05:31:32+00:00"
+      "time": "2026-09-10T13:08:37+00:00"
     },
     {
-      "text": "Fighting Wildfire Haze With an Airplane and Lots of Salt and Water",
-      "url": "https://www.nytimes.com/2026/09/09/world/asia/indonesia-wildfires-malaysia-cloud-seeding.html",
+      "text": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-10T12:31:00+00:00"
+    },
+    {
+      "text": "The ‘Forever War’ in Afghanistan: 25 Years in Pictures",
+      "url": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-10T05:26:38+00:00"
+      "time": "2026-09-10T11:52:52+00:00"
     },
     {
-      "text": "Jimmy Kimmel Says James Talarico Interview Won't Air on TV After Trump's FCC Threatened His Show - Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakdteFR1Y3lDZ1VKZFFkSlNLWDhoWlZYSk5LSWM3MENTdWJJa0MyUXpHMDF3Q0pLTzQ1am10azh5RDZON09hRGxHQW1nczNnMHRWYU40ZGZLaUlncEF2SlVDR2NYdHlSeGVULXBXWHo2Ml90ZkNoV2twdUtsczVxR05TNG84VDdHMFVNOEluUHpPTk1maVlfWXNOR0F5SDJPUzlpY05ISUxDd1pVY014aGRra0xYXzVHOEg5aU9XbGg?oc=5",
+      "text": "Bessent fails to shock and awe the bond market - Axios",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQXluVjJ3SUhrMWhwNWEwZS05cGVUdzdiUDRNWUpNSW9WNWtGTi1WQ2x1Z3NUU3p0d29zZzk2TFFacjhia3FHNnJFeG55dG9qMUdCVXA2SjA0WDVFUXBKbE5lcmZWWG1BVGRmZ2Y4d3Y?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T05:05:07+00:00"
+      "time": "2026-09-10T11:15:47+00:00"
     },
     {
-      "text": "Mike Macdonald: Sam Darnold did not suffer hip fracture, more tests to come - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDlHMWc1Y0Z2bEwwbmlwczBNTGhnSVhJeWtaMmxTeG81ZURPRTJhVk5raGhDb1NVU3lXaWhNcFFhN2pobVAtMjNQeU9JQkFhdEZwN3NlclltaXZLbldjWVhCRm1ZSmdCa3gxME41T1lmRExVSlBsakp3cHV5bzBqbjhEVGliVmsxd1RUY2JNZkUyNm4zd2V6NXh0RElfY1V5Z1ZGRE5JX3lGRWFGd2FSZE9zUzVKVHMyOXNBbDJ0WTZKdDRsUUFxd3dJV3FZQjNx?oc=5",
+      "text": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcmpkOGJ4Y203VmctbUV1d0xuV2FweC0xVjJRRDRJNTFVMkpLdkVWVThGNmxieFlTZEFtdjY0MTlYZm1MVF9HYXFFMmJ4dnlhV0wwQXZISlpaUFRlaVdzQnJQdFFsRFphOUFyQWhjRzhQRVQwUjBDcEY4NlhySFNXelhnSVNRblpnRjlB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-10T04:06:33+00:00"
+      "time": "2026-09-10T11:04:00+00:00"
     }
   ]
 }
