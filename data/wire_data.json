@@ -1,17 +1,120 @@
 {
-  "generated_at": "2026-09-13T21:22:55.474645+00:00",
+  "generated_at": "2026-09-13T23:24:49.724032+00:00",
   "lead": {
-    "text": "Swedish party blocs tied after Sunday vote, projections say",
-    "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-13T21:17:15+00:00",
+    "text": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+    "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-13T23:15:48+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Pennsylvania woman dies of measles-related complications, local coroner says - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlfcUptR19DWXJLQ2hrWURiOEJrejA3dW9zR09GbDFtNFZDOS02dkF6dFJyQzBBdlZMSTJlMERfSmNIRG5VNW5sWU9oNWIyY1NlZWpySy1qX0lmZFU3ZUViLTl6T3k0emJ5LURZS0dpajJHZ041YTJZWnoxa0xJNm9GQjd6bFBLaDlTS2Fsci1MdU45RmtEZGxVVzhFWGFsdFZaQ1hZaTV2XzFwOVJTUWpZcWZTRTQtWk9LWHJaQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T23:09:15+00:00"
+    },
+    {
+      "text": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-13T23:02:26+00:00"
+    },
+    {
+      "text": "Houthis' Yemen advance leaves Gulf states with uncomfortable choice - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0JoY2VGb08xV0N2bWR6cnNzaFZoVm9MMGZ4WW1aa292SHNWTVBoVERfLW96ZVllX2thQjdUU1RMOTBvRkRoMGpDd2ZyMXVyb0t2bEFabVBJczM2SnhwM0w5c3diVnZiT1E4QnBxZ3YxaEVnYjE1cVJndExhaUloWENHQjlWdmtvUHRmNG1sSWtWQ3ZIRTJQUU5wQTFDaEw0MDVIdThHdnl5NnVCSTdHUmUwR3RPU0tXalFfSA?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-09-13T22:51:07+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T22:50:00+00:00"
+    },
+    {
+      "text": "US Open 2026 results: Alexander Zverev beats Ben Shelton for second Grand Slam title - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tbVoxVVZTZENUalpLM1E5YjlzekQwVDd5eG1FckM4V08tQlpIQ2NhRmQzblhXTjhITjRPRnBRdHNZRXBiRzVDYkVoZGo3ZEFLR3JtNXYtVkxjckdtek02TGdFMWU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T22:02:29+00:00"
+    },
+    {
+      "text": "Sweden election forecast says vote too close to call - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmp1czdEc0VQY3NLcUMtVjZEU2hjNjBNMXNfWkktMUpQSUtBT0ZLTURGcjZjS3ZadzZFWW9hZVA4RmEtNEFOUGdScHJ3OUNldVBSZkNPYUZkU2tYZXlaQjM0S3hsS0tKMTBOeXl1c0NPNUtaOTZzYW9lUHFVYTBMU2xrQTNCcEZqNWIwY1VuYmM2QUtWQTBUNUV5dXdKUGZEcTgzbQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T21:16:10+00:00"
+    },
+    {
+      "text": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T20:36:00+00:00"
+    },
+    {
+      "text": "Tom Tiffany's plane forced to make emergency water landing after campaign event - WISN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblJ1UXd6NjV2WEtOV1hhS05aOTQwMkk4ZmtOSU1PdlFCUDdJTGtYSGduOEV1WnNKcmowN3dsSUpDYlBsZktUUndlZm45a0QtZWlTS2xCckdMX3ZpLUF5QUZIa3BROE1QSThnbWttbzdUbmRZTDZsUEVrUGZZWXRTbmNPWEdRbF9iMXhfSWxHS0drUFZ4dzdtV1hiOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T20:07:00+00:00"
+    },
+    {
+      "text": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLS1ZV0kyb2w5c2szWC15SGgxZGVsMXM4dDNiVkdTdmRPcV9kQ001dnpkODMya0xkTWQtLWhoYzZsdlFUVFV5SnJaVGpUbUNaaW4xNEN0VTVGdDlRempoRzhMYV9PcGo0UWhjUkhlZnJMRHVVVzB6WDBybXVMY1dfM181b3JYXzZIclJpU0xHbjRPdVpmUUJpbHFvdTYwdHFOWUVVYmp2M3hsN1hhcGJSbGRSV1Vqak0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T19:59:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES - Spaceflight Now",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzllanRITFdPSHNOVTdFeDBFamJ3RnJ5SmFWYnYtakxaX1BqSW15eFNRZ18xb3p2T2ljUTJ5dmI5aUdWNm5hZEp4UXlNb3lyWHdpejBEQ2t5VHROTFoyUF9KcGxVWEpoc1ZCbWE5Rm1iVmd2amhQbGFyNG96SU1wb2c2cVhmdkNTQlVRc1V5Y24wZnIyZjRBSTd5SDBUUFR6cF9hUU1GQm04ODg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T22:38:00+00:00"
+    },
+    {
+      "text": "Baltimore Ravens vs. Indianapolis Colts Live Score and Stats - September 13, 2026 Gametracker - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5paHd6ck5LWGI5S2RHQ0dobklmRzV6dzVZbW9PT2ZGaGRrMzViMnYzUUMxQVJXRjIyQ0tZN1hLVnJKYVpFTXFibnZSYnBpMUxWSEdUYjVLMmF6bEFSVld1SWdFeWs2MHB1cXlwNU9QTGNmMTdrS3lyVA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T21:53:35+00:00"
+    },
     {
       "text": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
       "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
@@ -20,6 +123,53 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-13T20:58:17+00:00"
+    },
+    {
+      "text": "Meghan Markle shares 1st look at family life in UK - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHFwMTdYRU1wZlNQZVIwZ2I0dENfYWlrZjh1UG4wUVY5cXNFMGpKRVRlWkwxQ1k0UE1GTlV5SXJyQXZQdHBhQ3ZnTjhtdFU2SUdjWnAtRDFfNndVTmdQR0VueVQwTHdzSmN0X2ZtM0tzV1UzZGs4RmlnYnhDV1F6OUszdUtVd3A4TlJkTmVBVGp0WmJE0gGaAUFVX3lxTE5KSjI3ODE4Q3pTSFNZTVc2S3hPaDZWMFhZY3d1RENkb201OGZuaGNTT055MldILXpQaVJtcTBzcUg0V2J6ZnFRaFlKZjB4QWU3MVNMVHBrTDZnQXdJaHZKZVpYRkdXXzBrLUc0c2h6b09MM055WXpQWHFRZGRmbGg0d1BIUVdDak9wdlNTc2w1V08wRS1FdlQzU3c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T20:35:28+00:00"
+    },
+    {
+      "text": "Trump resists AI slowdown as the political tide turns - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T20:03:03+00:00"
+    },
+    {
+      "text": "Johnson calls for AI solutions but says Congress won't take the lead - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rX2UtSmVzWkNWTGpIUVpEZF9Ud3BOMUlIdDZnblVjcVB6OXZBNy1hU1o2UXh4dFYwZUtPX2lNSTl1YnJjTlc4SmVHMlZIWXFkOThLX1lZeHhFUGQ1aXZrdi1pMmVXaEdFN21CVC14TE5oZGZ3UGtR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T19:56:57+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Oil Prices Jump on Energy Supply Worries",
+      "url": "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-13T22:29:36+00:00"
+    },
+    {
+      "text": "Hayden Panettiere's boyfriend Brian Hickerson involved in bloody bar altercation weeks after star's death - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGh3ajNaeHl5QjhJdHNSZG9pY3NVVzJNeUQtUVlZbDJ3YW52SHg1bVItZUI4cEhpd2VfWUFzY0JlSUhRbGo3aGE3T255cERIZ3F6eEIzM3RkOU1LTnplcFB3YlBfcXdlMzlneEJrMW4xb3B2YVNkcEc4UDRsa3F0ZG9ZSlZLX25GT1l3VngyNmRJZDB6NzFFdTRRWjRrWHRVaFFhNVpVNXBiUVdsNmV0VktlMkU3UjYyRFAwV2lzXzFldmZ1LWfSAcsBQVVfeXFMTlBtblNNNTZqRHJia0U1SkVsRlRLSmNNWkdQZUxZWVN1am51UENsaUVGTGVsSzNhYUw4VkFRY0RDMUs1UlpjRWpmQkFNM0g5TmtBQXdXbTU5N1ZjZkdTYUU0ay1tbUF5R1ZyRzltS2tMT2JHUXNWZVRtbXhQcDFpMkRLbkdOZnNhcHBNWW1mOFJrb3NZSUo1REV0N3gtWDktVVc1RFNSb1hGbVZiYmVudXoxX01ZTF9tNF9WUnFoMENCVDl3UFZhRzJnbGM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T21:34:06+00:00"
     },
     {
       "text": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
@@ -31,17 +181,6 @@
       "time": "2026-09-13T20:49:16+00:00"
     },
     {
-      "text": "Sweden election forecast says vote too close to call - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmp1czdEc0VQY3NLcUMtVjZEU2hjNjBNMXNfWkktMUpQSUtBT0ZLTURGcjZjS3ZadzZFWW9hZVA4RmEtNEFOUGdScHJ3OUNldVBSZkNPYUZkU2tYZXlaQjM0S3hsS0tKMTBOeXl1c0NPNUtaOTZzYW9lUHFVYTBMU2xrQTNCcEZqNWIwY1VuYmM2QUtWQTBUNUV5dXdKUGZEcTgzbQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T20:35:07+00:00"
-    }
-  ],
-  "col1": [
-    {
       "text": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
       "url": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
       "source": "NYT",
@@ -51,13 +190,13 @@
       "time": "2026-09-13T20:23:47+00:00"
     },
     {
-      "text": "Live updates: SpaceX to launch SES satellites from Cape Canaveral, Florida - floridatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOckhPVmFmV0lMLWktWFZLdWtieHlkQ192TllCQWpBSl95MElsT0QxSU5lUFU1LUZvaG4zN01jNEd6bC1WaEtNUERvb0tQNWplVWRaa3Bibkw0UFN6Tm1YbGwxZXdMUUN4QnJnaDhldzY4OXJoVkFZb3gyWHFSTG9uRDRqUjRpS2xkNmZlMVBNeUU5Rkp3RWR4NEhIVGxyVENYQmtQWUQtT3ZxQmh1UkdyU1duRFFsVmNOd2hPQVY4ekd2WWpCaS1iVk9rdml6enFtUnhnSTFTcGJXZW5Ub1lGTm5tUlJ0a1VaOGhxRnE1bEtrN3pzQlZrd20wcjdkTHBKcUpxOTloaWQzUQ?oc=5",
+      "text": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhZzhtem1ITHl2LWpyR2M5QjJiSzBqM1Fsc1g3QkpLbGdTV2wtZUlKdVhoZGhqWjUzMzlla0diUFNDQkpXb3BYeWZtRGJidm5hbjRHZmZnTllvaFhyQ3pLbHlYNVM0SlctRXF0OXkydHZOcUZxNXRmRlhTY0R6RzQ3YVFIelpxajgxNEhCWkp6NUp1dkpKVXlNOVJQMjlLM200LTM2Y2tOdWFENHQ3Q2d3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T19:51:00+00:00"
+      "time": "2026-09-13T20:00:00+00:00"
     },
     {
       "text": "Unvaccinated Woman Likely Died of Measles Complications, Pa. County Coroner Says",
@@ -67,145 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-13T19:31:17+00:00"
-    },
-    {
-      "text": "Ravens' Henry passes Allen for third all time in rushing TDs - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2JoQXRZbGhGbU9FbnJSeEQ3ZkpybXpZc2VoTWl5dTQwdHp5R1FKOFI3c3FqSkd5V2JRcWJtSldNa1MxcUV6X2hFclJOdjFGWXBIbzEwNlpGSXBwY1NZczV5bTIyMGZiemR4cmN2d21wc2ZtSkhFRUVPV043aUVyZXEySDFjWFNiSlFkbG96TUIxemVRSWc4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T18:39:00+00:00"
-    },
-    {
-      "text": "The step-by-step story of how Lando Norris' Spanish GP miss played out under the VSC - Motorsport.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWEktVEoyQ0N0bVA2dkRLM1RvZGFmd1FTVDRTQUJIX0diSUxjVjJWTmpGMUJYZVZjV2dCb3pTbGxNT0NwekE5a0E5aFlYaTUzRlVJdS1tUS1YUTB0VTlvcUpsb1M3LTZGLWRNcGJIbmtoRnFaOGlhbTRpNHQ5R2RIeTRMZTFreDRSRktSTFdSakpfdmxSWjdtMnJ6ZGdTNjhSSXJjYWFwNE4ybGhacEU2QUxBVm1OUldPZlotTWpnWjRBcExOdEtJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T17:47:52+00:00"
-    },
-    {
-      "text": "Trump reiterates $5,000 ‘dividend’ pledge if Republicans win midterms - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wel9jLTNENkVLcFZOLUlRZ1JzRnlJT1k1aGlEOWJRWE02VlR2NGlBWW5hTEdHNHA5eVRqYkYwa29LVTNJdGZPbHRxVGVySC1rWEQza2x4b1RpdUk5LTRnM2NpYURPc1ZZWUwwdXBtV2NSZmNUelFFMVVIR3N6OGs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T17:21:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Rep. Tom Tiffany says he sustained minor injuries in emergency plane landing on lake - nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXNMVEhJNFQteThLTXVZRkxJcTFxNTZzZzhIaU9hSGVhd0ZsZF9rWWV2RnViLTFVX05Lei1mN1d4c29KVURCaXk3clQ3UnB2MmVjRWV2TnNNZzV1MDh6ZDJqakdreG9IWGhzVzROeHRXMHZqc2pJZEZWdzhGYURoMEZLM0xpd1V1ek9uYXpWSC1NaFB4TnhTbjdSVWN4ZFZ6OUxVZkNnRmEtY3VkekhPWnZkSk1rdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T20:20:02+00:00"
-    },
-    {
-      "text": "Deshaun Watson’s return and Todd Monken’s debut couldn’t have gone worse in 34-10 loss to the Jaguars in the opener - Cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa1lNMUJmU2F2Sk04R3dJV0gta01hdTRjQjl2ZlV1eUF3S3FCc2Jia1hwUTdWRWU1SkJ0bHdNTUt6MkZETktmRFpibTVpUFF6VFhGYTIzMkVSNjh2ZUFOREgtdERuR04wV0JKdk5iWlN2dE5hMWFsMW5ZNnRGY091enotcDA3c09fTkNYd1V0Q29ySzZsVmt4ZndqSDVuSTNEamlGMmtOVzdlWE5RTzN1Ym5YeklrcjMyY2NYRVlmOFhlTE9aeE9yMnQ2RnkzZG9lamlZTUFWblNtbmVxenNnalkzNjdYV2dlLUx3Q2dnaw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T19:46:00+00:00"
-    },
-    {
-      "text": "Trump calls on Ukraine to stop striking Russian diesel refineries - ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzltMVZ0WC12WkxEeWIzZEUwUHVQZzJLNlZxOWFqaGlXVkdOR0hydjAtOUxCR1B5cDE1VUVjaUtjYWRmekl2T3o1TzlMemZsaWp3aVdhRy16eEdzMURneHBER3J6VFpqd0NZSy11NGRaU2x3NXFrLXQ4Ukk3S3pVWWpCdTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T19:08:31+00:00"
-    },
-    {
-      "text": "Kroy Biermann Attends Church With GF Jillian Green Amid Son KJ's Legal Drama - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFllVDVvaEZyVno0ZFhGd1NidGJKdmRWTjlaSE5NTXNpVXdUaUVvQlMxdDhmR1JIZXc2QnU1ZEk5YXVWT0MwZGpUdTdzdEtVdW5OWkd2dVRKNGVVcHpBS1lsNGdpWTQ4UWt3RS1TazY1NHB4bDA3cGFfWnIyN3pucjBSZlphbzFoeTVRYg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T17:51:45+00:00"
-    },
-    {
-      "text": "A fresh midterm headache for the GOP just hit a national record - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWURDcVZtcTVHNFBDNHp2WnBZZHpmdUFHc1habVkxLXVjbEJJLXJnN2FNMlBDMDNkV2pWMHNLTVc2MEFwTk9nWmNQemw3MGJnYzhYdVhWZUJmVFF6VlhKZlZqeGRGTFdoVG5sQzJBSEE1QUdhXzMtaVZQTnNPSXpqYUU0SzlxTmJMUlVWdTFyMzAwYVpjTVVleG5EUEU2Ym_SAaQBQVVfeXFMTWJLRjdwelBZTzdaMkl3d25aRkdmZm1LSWRDSlJjVF9Ya3dzeVNNVVFIQjdycjNKZzNKMmZieGNtR2Ezck5mWTJrQmZuVmV2ZHpkZFp1OU1TbVRocUxmc3Jsa09WSDJtRDBqRkJUZXNsQmktVnkzOVFsWUdpYTRpWnRROU1laTBHWTFFWjZScmdRVlpHYTVhRWs5Q3ZlOWptY0MxQ1U?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T17:43:00+00:00"
-    },
-    {
-      "text": "Dario Amodei Says AI Industry ‘Lied’ About Technology’s Risks - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOay1kS3l4dFZvOE9GOHhTWmxIS2pybGxCQlJKLW5KemRoT3VIaWk2cEN4UFFuZzdCNHNhTmdkZlZBcm1RUzhqdmd2WUR5X1Z3SDlQRDlQVVRsbnlHY0w4OUN3RkxfcWhTdjBtVnNoQWZXdXJFSVVMcHltTEZCQXNDN2RHWnlmWm1LQzVXcWt0RmN1NURzRnhxRlpKRWI0UFMwamtSX0ZpOWtteGJBM0VlOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T17:12:20+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Pennsylvania woman dies of measles-related complications, local coroner says - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlfcUptR19DWXJLQ2hrWURiOEJrejA3dW9zR09GbDFtNFZDOS02dkF6dFJyQzBBdlZMSTJlMERfSmNIRG5VNW5sWU9oNWIyY1NlZWpySy1qX0lmZFU3ZUViLTl6T3k0emJ5LURZS0dpajJHZ041YTJZWnoxa0xJNm9GQjd6bFBLaDlTS2Fsci1MdU45RmtEZGxVVzhFWGFsdFZaQ1hZaTV2XzFwOVJTUWpZcWZTRTQtWk9LWHJaQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T20:18:15+00:00"
-    },
-    {
-      "text": "Why Trump's united Ireland stance hit such a nerve - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1naDV0SklkbzhsVUJJVEpKZFMzdmhIOUdRVVVRMzNKWjN5Szd5cl9wOWRkNGpfYzJxR2ljbFR2eXlQWVpJTzVydWtnb2ZMbGgyZ2lVN25ZcUVXLTNnSEZNSUswR3NVNjFVa0tCNkJyU2tfLUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T19:39:06+00:00"
-    },
-    {
-      "text": "Trump downplays AI risks after dire expert warnings and calls to slow development down - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Va0d5eEp4ZUxtaHRQMU9obnE2UDFYcjlYV05YclYwcXA5c00wQU9hVEphQmcwOWdMUTRjblNoS0d3Mm5qRGVsSHBzbmdwQU00aV9vcXpTYWpoUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T18:49:37+00:00"
-    },
-    {
-      "text": "Will record donations to Reform go down as a moment of political change? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82bkhJVUkzZ1hoSVBOLTRQODNDMXNuMzJmUWxjQzI4MUtOa2QwdTlqVXBQdGNoUU0wX1d6STNrSXZKM2FvSzRabVhTTkRyRlBReGxmbVpsRkhOdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T17:51:19+00:00"
-    },
-    {
-      "text": "Retirees spent their lives saving. Now they're afraid to spend - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3FiVl90aUZtRE1VZ2tpZGNXQWhvZU1oakxVRFN1TWdNYURPYVBGT0YyeGVQeDFBcDNMQVB2bEdxb1B6VTU1amYybTE5aE4zUlFmSVRQYUp5N2R1YXFwbWxfRXpvcktLbHBIQjExWFI0Q19TQmZvNlA2Umg2WEdFYnctZ182OFYxZlhwSnphSU5FX2NYT3ZrVk95aWx5c3FJdWxmWnE4ZlFUWXNyMDdj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T17:23:00+00:00"
-    },
-    {
-      "text": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T17:02:00+00:00"
     }
   ]
 }
