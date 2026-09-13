@@ -1,46 +1,64 @@
 {
-  "generated_at": "2026-09-13T12:04:25.283410+00:00",
+  "generated_at": "2026-09-13T16:22:51.132506+00:00",
   "lead": {
-    "text": "A $100,000 sticker price says very little about the real cost — and value — of college",
-    "url": "https://thehill.com/opinion/education/6084870-higher-education-sticker-price-myth/",
-    "source": "The Hill",
+    "text": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+    "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-13T12:00:00+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-09-13T16:05:41+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Goldman picks China healthcare stocks for a post-AI trade",
-      "url": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
-      "source": "CNBC",
+      "text": "Data center hysteria is our latest group chat gone wild",
+      "url": "https://thehill.com/opinion/technology/6085695-data-center-panic-solved/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-13T11:54:40+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-13T16:00:00+00:00"
     },
     {
-      "text": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-      "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-      "source": "CNBC",
+      "text": "Obama pushes Jeffries to move AI oversight to center of agenda: Report",
+      "url": "https://thehill.com/policy/technology/6086768-obama-urges-ai-oversight/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-13T11:53:35+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-13T15:59:39+00:00"
     },
     {
-      "text": "NFL and midterm elections set up prediction markets for a critical fall season",
-      "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-13T11:52:33+00:00"
+      "text": "What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development",
+      "url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-13T15:58:51+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Russian drone hits Kyiv-Warsaw passenger train near Polish border - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjR4OUw5R0lHei13UEhrbVRaVG5qbXVQR1pLWHNyaFdyTHpzLWhRTFFYZGNXZ2t5RlA5NW5pTVI5a09GdFFDaXFjUnRBVDIzV1RfRnBPc2RBZFVEeGVld0pUWjlpOVdHbGd3aWdyM3lFVnc5UHBmZWVDVFF0UldycXloWjB1X2puU2pQb1lDNTdCRmNPd0Q1bG5lTjBUd2Jtdzlqa21qbjA1QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T15:55:00+00:00"
+    },
+    {
+      "text": "Sources: Rams' Myles Garrett to have knee surgery, headed to IR - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2hXWG1rbnk5WjRTc190QTQ5OS1MNGtuendvOEdUb3VIZWlWUWtuT0VtVVpaMGd5UG9kcFRVb29OMVI2bFhXUzloS1FwbFBNRnEzYng4ZHh0clRfSGJkQWdWSE8wdUlONUh3bHdiWUhiWmhhZ1VsMFFlZ1dCVkpDOFd1ZGxBMnJZTjBySkE3UG5MOXRvLVk4MU53?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T15:26:00+00:00"
+    },
     {
       "text": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
       "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
@@ -48,43 +66,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T11:52:17+00:00"
+      "time": "2026-09-13T14:57:13+00:00"
     },
     {
-      "text": "The College Catwalk",
-      "url": "https://www.nytimes.com/2026/09/13/briefing/college-fashion.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T11:16:44+00:00"
-    },
-    {
-      "text": "The Fix Was Almost In",
-      "url": "https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T10:00:22+00:00"
-    },
-    {
-      "text": "Search underway for about 130 people missing after Indonesian passenger ship overturns - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHc5VVA1ZE8yZnB0VWlLbS1MdlM3UEhHaDhzYWJuZG11eW82eDRpdjVNYWF5aE1hQzVmZ21WMG5LZl95Y3BxTFc1OW5maGdCNHJTOEFrZHBVNkplV3R6UXM2T2RLYnFnSDZ3R0VsVjQzUXhDaDR1U1JLbG9mTHg2TmVCMElDNzFYUGx0WkdZcTJCV3l3UUVjWA?oc=5",
+      "text": "Speaker Johnson says Congress could work with Trump to deliver $5,000 checks to Americans but there are no guarantees - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekFrYVk1dDdNUG1yaFVSR3NoeVVJam5IOFBUNmxkRHZ2NWgwUk01akJyTC1hcGIxbUJiUmJlczZpRld3a2RHRlp4cGxuQ1U5ZDloTldxQ3JWS2lGenhfbUxvaS1lS1pYMmpvQzY4WlBta25XTnRYc2ZzVElrakpPejg5MGRMa2dHeExhWXNVYjNFWkNqYjhDMkYwODdxaFBCV2dKajdiemJoZHZLY2FLWWY2QkE4Tkk1ZXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T09:09:00+00:00"
+      "time": "2026-09-13T14:23:28+00:00"
     },
     {
-      "text": "Angie Nixon, Candidate for Senate, Takes Florida by Storm",
-      "url": "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Apple’s iPhone Duo Will Turn Foldable Phones Into the New Normal - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWm9qdVpOck5JejdoX1FQdXRHWEFaVjhsOXoxdnZCcmotU3BxcnpxdlVwcmVQeFlqSkZnTFlYQXF2NlNXM3ROVE14ck5sLVRTQnB0S28yY0RYcV92VUdXbUUzVW5WX0hmNUtCZnJTbm5XSVU2QjR2TllPOWF4RjVxbUZRQ1pKN0tHSl9IMEt0OW5HUnpwVlFjVHkwaUFtbGQ3Ui0zS3JzdVNHaE9ia0VqY2tRb0VKZ0xHeHE1aTk2TFdfMmJuWWZTRFFhR0twTDEwTHkyNjRfbno?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T09:03:08+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T14:00:01+00:00"
     },
     {
       "text": "Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career",
@@ -93,45 +93,27 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T09:02:24+00:00"
+      "time": "2026-09-13T13:52:37+00:00"
     }
   ],
   "col2": [
     {
-      "text": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
-      "url": "https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html",
+      "text": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
+      "url": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T11:51:48+00:00"
+      "time": "2026-09-13T15:39:02+00:00"
     },
     {
-      "text": "At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZExrNlZaeERENWNmaHFtMERIUTVLVl9GWXJJbnBIZ3B3c2dhNTZUQTRnTjlHSVhjWElrdmNuaEJWcEJJNjU4RkszVXNLQWdJNmtPaDN6bjBDX1JrTTB2NmFJNGdXNGpxQmtscTJFeWlOZU1tVWVSaDdKeGJpb3QyMnFEbWFtdEdQZmpoZlpKVkdoTjhRS3FGZVl4WUludzBH?oc=5",
+      "text": "Wisconsin Congressman Tom Tiffany suffers minor injuries after emergency landing in a lake - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGdJWVRXZ1ZFQmxDaERPODVndnF4WVJQRlNjaHZFa01JaWxKVnRjcFRPa3MyODFkWlhCcVhQZ2FUVFFqdkRzckZOcF9qa05mMU1najY3OGVpTUdJRzdwWDFSYVhnY2ROendnUFhlNFYtSGw4QUZ5TzNfeDN5Q1ZjNENBak05ckI4b2lJbXpCVDE5VTJVSUlTaDE4RQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T10:50:00+00:00"
-    },
-    {
-      "text": "Here's When iOS 27 Rolls Out in Every Time Zone - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91VXNUaXRPa3g1LWxad2hXVXhjSUpoZVE3VnZXeUI1X19NRERQQTR5R2FtTU1LT0N6X202RmttdE9xOGNtSlVnY09aMElWMllZNF9TbkcxUThLQ3V6MjY4X3hNdjQ1YWliSFhIOV8xR29EVzdzbm4w?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T10:00:00+00:00"
-    },
-    {
-      "text": "Did Trump Win the Battle Over the Smithsonian?",
-      "url": "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T09:03:41+00:00"
+      "time": "2026-09-13T15:16:43+00:00"
     },
     {
       "text": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
@@ -140,45 +122,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T09:02:53+00:00"
+      "time": "2026-09-13T14:38:44+00:00"
     },
     {
-      "text": "Arch Manning puts \"nightmares\" behind him as Texas beats Ohio State - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0JDQkp1WkpSa3c2RnpWZnpsZ0YtZ0pPQTFEb3U3Zno3eFdfR2ZWdmFJbllBcmUwSG56ME9PM1R4ek02X1owdzF1TjU1MGxWTlYyWGFZaHphajVUM2RncTZWTFlFWmpITXlmQWVGRWpmVEZBbjNtU2xpV1NCZTJobGMwZnRfUGd3bk5sSUQ5X016UFN2elZIVG5ieURSQXRVbXdzSnAxVGtPeWx6MHNvRnBXdDdwSUNaeXJkZ1pqczl2VHR6WEE?oc=5",
+      "text": "A Galaxy S27 Ultra upgrade to match the iPhone Duo - PhoneArena",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EYjhWM1R2MVphWWsyLXo2ZTBaNVFYMVRsb1U3ZzNpT0lyc09uTHRFOEJieGlqQlhwUHZPMklsekozbWkzS0FmU0w3THl4VGNmczA4X09rNzdvemNUbC03TU5IaldaT09WMlhNcVJCS1Nna1lEODVQTGZSQjhsQTA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T09:00:51+00:00"
+      "time": "2026-09-13T14:20:51+00:00"
+    },
+    {
+      "text": "Kamala Harris’s California home targeted by trespasser, officials say - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnpUSVVRbF9jSkwwMDYxMC1jMWFTWkc1bkUzRG85TFdOZkZOYnF4aGR4NVVyQ0NMYTlBOGJXdmQ5NHdnMWFZQVU0elVHLVgyN29DcFBZUnNyY2NWRE53c2FpMlo0emtMTy1YbzU5V1F2Q21xQTVmdmdlVUh0SG5wMVhOUV80QnNPcHM5Yg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T14:00:00+00:00"
+    },
+    {
+      "text": "Trump Pushes Fed to Lower Rates Despite Pressure to Raise Them - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXRScjkydGRvalg0a1Z4aDlWLTVmSFRZVXR2Z0lTbVVtN25iSlBwMnd2aW85aU5kanFmZzhnNjEwT2QzWGVlWFQ2RjhhMzFZZE9qWnhFd0xCZ2pQMjEzT0ZRZ3NzT044RGo0b2Nzem5Jbks1OWFPOHM2eXZHbVNsN1diQkc4TlpRMnVrd2I0VXpaUEFnNGJ4MFNkNVBIZjEtSEFhdnEzaUsxZ1VDaXpuSEMwNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T13:45:52+00:00"
     }
   ],
   "col3": [
     {
-      "text": "College football Week 2 winners and losers: Big Ten’s slipping reputation and bad QB investments - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSENJU0FsVzlZZWUxV2JVZ2hoVmoxVmdvNEVJaFZRcXVKaXZsYnkxMkFUVWh0YWdXTEJRLW0tOGpoS3h3U20yZ3dDczBrQ19scXI5OHlBUGxRSXhCTlR3V05xeWt2NlpVY1M4ZVFvMUREYjlEUjJRaWtRMU94MDd3eHBIX25oUm1ZenZEXzk0Rll3R3hNRUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Angie Nixon, Candidate for Senate, Takes Florida by Storm",
+      "url": "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T11:32:09+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-13T15:27:53+00:00"
     },
     {
-      "text": "Exclusive | Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the EU - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zMUd1WkZ4SmNfSHlGUmFOTnkySVBSYmdIZHNjakFidkNqeThycGNEQVF4R1pGOFRiZU9USDBkTHFPSFBSVzc5TERGQkJlRkpUc19lWXhVcFkxb2xFNWszcm5KMENHN2xsYk5IdG1mRk96T3VUWlE?oc=5",
+      "text": "Tech companies must be responsible for AI safety, Mike Johnson says, not Congress - Politico",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cEw1YlVDYVFfZHQ4eFpvdk1tYUhVcE0yYkRmWkZ5ci1EWGUwY1pfY2FlN0ZaZmVZa1djVF9Td25oZDJTUUtkSUVmNU9McEt5bGs4T0k2VXhnM3Ztc1poTklWLWY3ZVoxRC03aTYwaGhuaEV5VWVlTFNrdU0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T10:04:20+00:00"
+      "time": "2026-09-13T15:09:00+00:00"
     },
     {
-      "text": "Iran reports commercial vessel struck in Strait of Hormuz - CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxVVpfeTFKbWs2RXFtSllGY1JCek5Vd2pvb0UweDF3RFRadENXb2NlV1pIWmtmN25aZ3RHSUlTdWREZEc3U3k3MkV1UGxlbmlnWjEtLWM4VVhia1ZpVFZReGk5SWljeDhmS1d2b0I2NTdsbFdEV21YV2hkWQ?oc=5",
+      "text": "Meghan Markle Breaks Her Silence on Return to U.K. With Prince Harry - instyle.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY01iQ21xZzlzSTVIVktGdVB5REM4LW5PaVR5MUNXaXVJTHgyMWkyNHhCYVBKcm82U3JVYnJBMkkyR2p5RW5TaDU4aXBkNmJ2N3RSVEZ2M1dYSWNhemZyV2dOUUVjN0REUHpOejNWU1dSY0dvQWd4TE1XWlFoRTNRWUZwLVEtbURHSFN4UQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-13T09:29:23+00:00"
+      "time": "2026-09-13T14:32:26+00:00"
+    },
+    {
+      "text": "Let the U.S. Open Fly Its Freak Flag",
+      "url": "https://www.nytimes.com/2026/09/13/opinion/us-open-tennis-influencers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-13T14:17:57+00:00"
+    },
+    {
+      "text": "Mullin seeks to win over immigration hardliners with messaging blitz - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03SEFmYzlEQnVLSTF2RjhxcjNSaDlIdnBQUm82ZWJTVWM3ejFxUURmc2tfUVpPekdrZmtleDlFLTdrazB0aWdZNm41bk5FVnJFTEhfdDZMRHBMY2pJTEZfNlln?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-13T14:00:00+00:00"
     },
     {
       "text": "As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers",
@@ -187,25 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T09:03:37+00:00"
-    },
-    {
-      "text": "For Populist Democrats, a Movement Fueled by Anger at Both Parties",
-      "url": "https://www.nytimes.com/2026/09/13/us/democrats-populists.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T09:02:42+00:00"
-    },
-    {
-      "text": "How Candidates Have Addressed Affordability in the Midterm Campaigns",
-      "url": "https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-13T09:00:11+00:00"
+      "time": "2026-09-13T13:37:48+00:00"
     }
   ]
 }
