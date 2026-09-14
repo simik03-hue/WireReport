@@ -1,25 +1,63 @@
 {
-  "generated_at": "2026-09-14T19:25:26.720358+00:00",
+  "generated_at": "2026-09-14T22:42:09.297718+00:00",
   "lead": {
-    "text": "S&P 500 falls slightly, trades off worst levels of the session as rate and oil pressures ease a bit: Live updates",
-    "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+    "text": "Stock futures are little changed as traders eye rising oil prices and rates: Live updates",
+    "url": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-09-14T19:22:08+00:00",
+    "time": "2026-09-14T22:41:19+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "10-year Treasury yield hits 5 percent",
-      "url": "https://thehill.com/business/6088598-us-treasury-yields-surpass-five-percent/",
+      "text": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-09-14T22:36:33+00:00"
+    },
+    {
+      "text": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
+      "url": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-14T22:29:25+00:00"
+    },
+    {
+      "text": "McConnell returns to Senate to cast first vote since June",
+      "url": "https://thehill.com/homenews/senate/6089224-mitch-mcconnell-returns-senate/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-14T19:20:56+00:00"
+      "time": "2026-09-14T22:26:13+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran",
+      "url": "https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-14T22:23:29+00:00"
+    },
+    {
+      "text": "Scientists Find First Adult T. Rex Trackway – And The Footprints Are Human-Sized - ScienceAlert",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlhYclhyYjFhYU05T2EyUUQtd1lzM1hjekVhbnFhNm9qQWlkNldUcWp4S1dHdFJiYlFoMlpGcHVubUZPQ1FHcUx4SUhPdTg3UjAtVThjb0QxakhwNVF2c1d0Q2Z2cGU5TEFCNkJaSlp6a19Rb3FfY0hxajdPRGhIajZVR2NJY20zZnhGMDJqVnUwWjJFZ29pdnhRQ3ByUTRHM1d3LU1xeU94UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-14T22:18:42+00:00"
     },
     {
       "text": "Bob Mackie, Designer Who ‘Dressed Every Spangly Woman in Show Business,’ Dies at 87",
@@ -28,148 +66,119 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T19:19:27+00:00"
+      "time": "2026-09-14T22:06:24+00:00"
     },
     {
-      "text": "Whistle-Blower: Federal Agents May Have Broken State Laws in Search For Voter Fraud",
-      "url": "https://www.nytimes.com/2026/09/14/us/politics/homeland-security-voter-fraud-investigation.html",
+      "text": "Trump Rejects Calls for an A.I. Slowdown",
+      "url": "https://www.nytimes.com/2026/09/14/briefing/trump-ai-slowdown-epa-pollution.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T19:18:57+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students",
-      "url": "https://www.nytimes.com/2026/09/14/nyregion/mahmoud-khalil-columbia-lawsuit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T19:11:49+00:00"
+      "time": "2026-09-14T21:56:41+00:00"
     },
     {
-      "text": "Fed's table is set for a rate hike, a first under Warsh - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
+      "text": "Hegseth allies campaign to put loyalist in Army secretary job - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnM2ZFMwT080X3ZfdmhMQXpsUmh0ZWtXSHE4M3FxazFwSHg2eTJMNzVMcGV1M1dzMllHOFR2QnJfa2YxTVlibHg1cGtzR0dXNjQyRVh0bFJmZTFxQjhzcmFpUGhDTXRUWmtsS3hRdVNSR1BhSkozaGt1aDVaRk4wZmt2RmYwOHQzNDVKYmFLakxBR2M?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-14T18:25:51+00:00"
+      "time": "2026-09-14T21:31:00+00:00"
     },
     {
-      "text": "Saudi Leader Meets U.S. Commander as Houthi Attacks Threaten Oil Markets",
-      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T18:00:28+00:00"
-    },
-    {
-      "text": "Bob Mackie, Designer Who Bedazzled Carol Burnett and Cher, Dies at 87 - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUQTkzVWE0V0RqYVV4SldIWldodHFSTTF4d0NyMGk2cjFsWlYzTmdsTmVENlR0aF8yUXdpekxJNkE0ZURVSndyaVAtWjFjcG0yTmNHUjdzYkkxQjhzZjBwVEdWZFpkQTR3Rm12ZUx3?oc=5",
+      "text": "Stock Market Today: 10-Year Treasury Yield Touches 5% as AI Warning Spooks Tech Stocks — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-14T17:49:19+00:00"
-    },
-    {
-      "text": "Taryn Simon’s Giant Exhibition at the Guggenheim Tells the Story of America",
-      "url": "https://www.nytimes.com/2026/09/14/magazine/taryn-simon-guggenheim-exhibition.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T17:43:06+00:00"
-    },
-    {
-      "text": "Trump Administration Moves to Integrate A.I. Into Medical Care Despite Concerns",
-      "url": "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T17:38:00+00:00"
+      "time": "2026-09-14T20:56:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Immigrants’ Lawyers Say U.S. Is Redacting Documents Proving Legal Status",
-      "url": "https://www.nytimes.com/2026/09/14/us/politics/immigrants-foia.html",
+      "text": "How to Watch the 2026 Emmy Awards",
+      "url": "https://www.nytimes.com/2026/09/14/arts/television/emmy-awards-how-to-watch.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T18:58:17+00:00"
+      "time": "2026-09-14T22:23:04+00:00"
     },
     {
-      "text": "Kennedy Center says it’s on the brink of bankruptcy, might close as early as Tuesday - npr.org",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkNuSnFmNVFNTkwxeEc0UkZjQzlDM2RoYjB0SGlzaFN0elZfNmd5dUFXZzhXemNrSmNfMzVaWFpKalRvWGM1TDdET0YyMnhiS0hVNW8wM3NhMXVaM2c3R0t6cVdpYU4wZkpTbUhxNUh0cFV3ZURxdjFfa2dkY1NSY25ieDZPTmpjWE5aUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-14T18:25:04+00:00"
-    },
-    {
-      "text": "What Happens on the Subway Doesn’t Stay on the Subway",
-      "url": "https://www.nytimes.com/2026/09/14/opinion/america-killing-abandoment.html",
+      "text": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
+      "url": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T17:54:44+00:00"
+      "time": "2026-09-14T22:17:15+00:00"
     },
     {
-      "text": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
+      "text": "E.P.A. Will Erase Limits on Climate Pollution From Power Plants - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5nbXRrakhxSVVxQm9YZm5xLTIzVTUzelJwa28xeUxldEtTQnc1cEZjNTJxMVh5NU5zeElNd1VtX0M3MTNfRmY0TTN6LS03T3VJcDJtREZMcURTMkFMYUJsZG02Z2x3RXN0S0gxdzZtWXBndEtQUTZvNVN1OFA2WEV1NA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-14T17:47:07+00:00"
+      "time": "2026-09-14T22:03:00+00:00"
     },
     {
-      "text": "‘I Have a Lot to Say’: Brain Implant Helps a Disabled Patient Speak",
-      "url": "https://www.nytimes.com/2026/09/14/well/brain-implant-helps-woman-communicate-in-real-time.html",
+      "text": "As A.I. Fears Rise, Experts Suggest Focusing on the Humans in Charge",
+      "url": "https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T17:41:28+00:00"
+      "time": "2026-09-14T21:53:49+00:00"
     },
     {
-      "text": "DHS watchdog finds immigrants held at ‘Alligator Alcatraz’ in outdoor cages the size of phone booths - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYllZY1dzaTFPNDRTdEdSSWU4cXBRR3hzWmtpYmpSSTZkb1JUbU9tTHlsOFUtVllvOXhoVE9XZzVnbnloTzhyc2NXRHlqZExmX3BuX2hScFNMcFIyeG1JSk5IUUtKV0d4YlM2ZUgxQlNmb2JBMkVMY3B6MkMwa3J2OWJTUURxWnhkM3htR0xLeU1aRWh1WkF3aDFQaGYwdkE4cmM3RHItSkZLU1Y3TW5HdlRTdGlRdXlBUjdYQ18xVy1qaHFROWc1LU1fSFk?oc=5",
+      "text": "Deadly bacteria detected as NYC orders emergency cleaning of cooling towers - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3cyc2J1VDRJZllqZTZpR1drR0hrdFlRRDRxamgtZjNoclVpU2xDSVdmSC1EeldSMlo4MXZvN04xbXN1WngtOXVSVUhrY1MzdFZPWGpsNjhEbXE1ekI0ckZfMFZCUGYtY2lGN2tTSGJqZHdMTWhxdHNITmpHZVBkWWEyM3VBZzNBcVc0WkxfR1pvRnZsTGtmbEZNNHZqeVJ1QUHSAacBQVVfeXFMT3E0a1VwVnhRckc4Z2hpUnBMZEpENl8yYWJFWHB6SjRmcHVVeTdrcFdDbkI1ZXI0MkNZNG9VSGNud25lMVQ1UDBmdGVTeFlxVHo1Nk5OWHlGOWliSjZNQU04dG5XTld4bWNrQ1ZIXzIzcTI1Y3VYM3NfclNxTV8zVV90M01ldzBMdWU1RVhNcnNRejQtT0RpZ0pNQ1FrQjk4bUNjOXh5YWM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-14T17:31:28+00:00"
+      "time": "2026-09-14T21:04:42+00:00"
+    },
+    {
+      "text": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO",
+      "url": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-14T20:53:24+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-14T18:39:00+00:00"
-    },
-    {
-      "text": "States and Cities Sue Over Trump’s Policy to Restrict Green Cards",
-      "url": "https://www.nytimes.com/2026/09/14/us/politics/green-cards-immigration-lawsuit.html",
+      "text": "Emmys Photos: All the Looks From the 2026 Red Carpet",
+      "url": "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-photos.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T18:08:25+00:00"
+      "time": "2026-09-14T22:22:36+00:00"
+    },
+    {
+      "text": "Dario Amodei’s Essay Was Gutsy. It Didn’t Go Far Enough.",
+      "url": "https://www.nytimes.com/2026/09/14/opinion/ai-pause-anthropic-openai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-14T22:12:58+00:00"
+    },
+    {
+      "text": "New York Seized Their Property. Now It’s Offering a $60 Million Payout.",
+      "url": "https://www.nytimes.com/2026/09/14/nyregion/nyc-settlement-housing-property-owners.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-14T21:59:31+00:00"
     },
     {
       "text": "Macklemore says he was dropped from Ed Sheeran tour after Patriots owner Robert Kraft organized boycott - NBC News",
@@ -178,34 +187,25 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-14T17:53:02+00:00"
+      "time": "2026-09-14T21:50:48+00:00"
     },
     {
-      "text": "Stock Market Today: Dow Slip; Oil Prices Surge; Nvdia Stock Down — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
+      "text": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-14T17:47:00+00:00"
+      "time": "2026-09-14T20:58:29+00:00"
     },
     {
-      "text": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-      "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Bank of America CEO Sparks Bank Stock Selloff With One Small Word - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTh3OEh1dVJfRmRuYURMX0lwOUlxeGlMcy1YVzZqeW84d2lOaVV2VzVpZVlucUtkMmd1d3ctZWRtNE1xX1BfZDZmZ3M1TmY1UzZSWU5fUFlYeDgxMENkS290RURLUjBhRFVtRHhkeVFhWHJFa29QNFJEOFljTW1Zeg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T17:38:15+00:00"
-    },
-    {
-      "text": "Risks for Clicks: Why Online Influencers Push Shock Content",
-      "url": "https://www.nytimes.com/2026/09/12/us/influencers-social-media-algorithm.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-14T17:25:39+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-14T20:42:00+00:00"
     }
   ]
 }
