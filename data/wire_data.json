@@ -1,48 +1,75 @@
 {
-  "generated_at": "2026-09-15T20:07:14.472703+00:00",
+  "generated_at": "2026-09-15T22:55:38.106678+00:00",
   "lead": {
-    "text": "Ms. Rachel calls out Ed Sheeran after Macklemore dropped from tour following Palestine support",
-    "url": "https://thehill.com/blogs/in-the-know/6091205-ms-rachel-ed-sheeran-macklemore-callout/",
+    "text": "Fetterman attended retreat with Fox News executives in Montana",
+    "url": "https://thehill.com/homenews/state-watch/6091792-fetterman-fox-news-montana-retreat/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-15T20:06:26+00:00",
+    "time": "2026-09-15T22:52:12+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Stocks post back-to-back losses as oil surges, 10-year yield hits 19-year high: Live updates",
-      "url": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
-      "source": "CNBC",
+      "text": "Data centres and pipelines up for grabs as Carney pitches Canada to investment giants",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-15T20:02:49+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-15T22:46:20+00:00"
     },
     {
-      "text": "Key U.S. Borrowing Rate Rises to Highest Level Since 2007",
-      "url": "https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-15T20:00:46+00:00"
+      "text": "Senate votes to advance bill to regulate college sports, athlete compensation",
+      "url": "https://thehill.com/homenews/senate/6091791-senate-advances-protect-college-sport-act/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-15T22:37:51+00:00"
     },
     {
-      "text": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
-      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-      "source": "CNBC",
+      "text": "Democratic defectors rescue Republicans — again",
+      "url": "https://thehill.com/homenews/house/6091761-democrats-defect-gop-rule-perez-golden/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-15T20:00:16+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-15T22:36:53+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Patel Suggests F.B.I. Agents May Be Sent to the Polls",
+      "text": "Trump Approves $2.8 Billion Arms Sale to Israel, Including 40,000 One-Ton Bombs",
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T22:31:28+00:00"
+    },
+    {
+      "text": "It’s Already Too Late to Stop the A.I. Threat",
+      "url": "https://www.nytimes.com/2026/09/15/opinion/ai-china-us-tech-future.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T22:15:30+00:00"
+    },
+    {
+      "text": "Has A.I. Become Death, Destroyer of Worlds?",
+      "url": "https://www.nytimes.com/2026/09/15/opinion/ai-trump-amodei-coxon.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T21:00:05+00:00"
+    },
+    {
+      "text": "Kash Patel Suggests FBI Agents Could Go to Election Polling Sites",
       "url": "https://www.nytimes.com/2026/09/15/us/politics/patel-fbi-agents-election.html",
       "source": "NYT",
       "lean": "left",
@@ -51,60 +78,51 @@
       "time": "2026-09-15T19:58:44+00:00"
     },
     {
-      "text": "Could AI really wipe out humanity – six experts spell out the risks - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T19:17:00+00:00"
-    },
-    {
-      "text": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
-      "url": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+      "text": "Supreme Court Stands Up to Trump on Mail Voting and a Few Key Issues",
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/supreme-court-trump-mail-ballots.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-15T19:12:34+00:00"
+      "time": "2026-09-15T17:56:37+00:00"
     },
     {
-      "text": "2026 Emmy Awards winners and highlights: 'Widow's Bay,' Matthew Rhys and Jean Smart make history - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcEJNdUJJb2plSndPNmoyZ0hDQWdpSG5SZkVmeVpnRGJoVlBES3picjQ2ellYeFhEMXBad3JFQ2Zwa2I3TW45bkhJUE9tRTNkMl85OTlZcmZlMFpxa0Z2QmRFQko0bGRaZEJHR1lEWmZySjJMWHFEQXpYQ0lzblpXQTJYWFZRdm9QUWw3NWhwNUpXcUgwaV8yamJtZVBRZGF3dnF6ODRNWHA5NFhPWDZGeDhQLUF0OWNaeXFYM1ZVMUZlMEIxdl9nQlZBUUF1WmQ2bzF1US1qS1B1bjhfUUVZNk8xMDA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T18:57:02+00:00"
-    },
-    {
-      "text": "Texas' Arch Manning apologizes for reaction to violent AI video - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUldScDJaMDNqNFRNc09sLVNpQ1l3VFhtQU5CQ2p2aVM1ZFUyeWh1djZIY0dkdkhkclNzYVVfZmo5N0Naa3hVMWluMnpoX3JwMnpKTExqYzFneVRBQXlKTWs2dUxlaVYwa2tHUThGam5OZkdmNlczQ1pmTkhUN0RfR0F3RkY0NFhMTm11SVpwRHNWWjNNb0p3NENMLW1DQXY1TE9VNzM5MVJzdjlnU1F0eDVGNA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T18:47:00+00:00"
-    },
-    {
-      "text": "Half of Voters Dislike Socialism Amid Progressive Wins, New Poll Finds",
-      "url": "https://www.nytimes.com/2026/09/15/us/politics/democratic-socialism-poll.html",
+      "text": "Candid Photos From the 2026 Emmys",
+      "url": "https://www.nytimes.com/2026/09/14/arts/television/emmys-candid-photos.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-15T18:19:33+00:00"
+      "time": "2026-09-15T14:14:36+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Pennsylvania Officials Report Fourth Measles Death, as Outbreak Grows",
-      "url": "https://www.nytimes.com/2026/09/15/well/pennsylvania-measles-death.html",
+      "text": "Kennedy Center Closes Its Doors Despite a Judge’s Order",
+      "url": "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-15T19:32:50+00:00"
+      "time": "2026-09-15T22:26:50+00:00"
+    },
+    {
+      "text": "Trump Threatens to Cancel Kennedy Center Renovation",
+      "url": "https://www.nytimes.com/2026/09/15/briefing/trump-kennedy-center-crypto-bill.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T21:48:20+00:00"
+    },
+    {
+      "text": "Independent Budget Office Estimates Iran War Has Cost $38 Billion",
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/iran-war-cost.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T20:26:41+00:00"
     },
     {
       "text": "Prosecutors Will Not Seek Death Penalty for Nick Reiner",
@@ -116,96 +134,78 @@
       "time": "2026-09-15T19:15:20+00:00"
     },
     {
-      "text": "Poverty Rate Was Stable Before Trump’s Safety Net Cuts Gained Force",
-      "url": "https://www.nytimes.com/2026/09/15/business/economy/poverty-rate-trump-safety-net.html",
+      "text": "The 3 Emmy Awards Our Readers Would Have Changed",
+      "url": "https://www.nytimes.com/2026/09/15/arts/television/readers-emmy-awards.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-15T19:01:20+00:00"
+      "time": "2026-09-15T16:29:00+00:00"
     },
     {
-      "text": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVSS0d4ekNlSEVvSWtYajNDcFN4SjBsZDhZU3VLdTc3eFBTV2g1ZTkweGZyaHpBRzB2Q2JaLTBxWEVGM1JYSVBWSUZyc193VXU2Q056di1CZmJ4cGZORVJ5eWZDSS1PWTRqTW1WSzBnUkVwUVRhUTZ4NnJSRjBjc3g1SU9YYWRPNkpjU2RRS1Yza1ZNWGhQNmQxSUFsMnJiRC1kRmtOamVWQlNQRjdoYmljVVpka3NLVHpLTw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Yemen’s Houthis Show Growing Sophistication and Self-Reliance in Weaponry",
+      "url": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T18:54:00+00:00"
-    },
-    {
-      "text": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmZ6ZWVGendWVHM4dm1raHp1ckZOaGpHd2Y3SmNVYXRIUzhlMEI3b1lKNFhuTU5EMWVEc3dDb2FpTWU0SlJjSTJ1RTFmR29wdzJ4bGgtMW9xVkxtNnpoX0Z2TjNic0R4SXF5ZXZtc2RYMXktNFFGWEQtY1ZhQkpDY2pneWNKWURHRm84MFBnVF9qZmNMSktfRm1aUUZjbmk3bEh4SVdMNElkWHRlWHlRdHpwY3E4VGxSTFE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T18:30:50+00:00"
-    },
-    {
-      "text": "Trump’s handpicked Kennedy Center board votes to immediately close venue for renovations - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUs4cW5ObUl6MlVlTWNkNElRVGNQaVFrNU5pYUZJOGJBMEpYaVFEbmtnTk9OVDZRNGlUNF9fams2QzIxWUdOU3JlUE1wNTFFbFJWUlZyODByYm1lU2FjLWN2d3ZzU3lnUXBvcU9LMDFtcDdjYjZqTGwycGZzb18yc3E4UUtEY3hsX3ltM3A4d05ERmRycVMwamFheXB2dzNxX0d3LTJyLVg2dmtHbVc2TzRKWXF3cVVZc2VrRDkyN0pmR3M2cWZWZGtXMWVEdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T18:18:20+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T14:03:21+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Stocks drop as 10-year Treasury yield hits 19-year high, crude oil tops $106 a barrel: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T19:17:54+00:00"
-    },
-    {
-      "text": "Pennsylvania teen dies from measles complications, the state’s fourth death - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajdpY21QMGl6NDdBdHVFVzVTeG0yMF9rYnVhRGt6WkUxcmxVZmZpdDYxQ3ZDUHJiWFZNdlBIU1VEMGNnZ0V5cnVWaTVKb2JSSEFxU3BkZlF3MmJhVVVoNXRLNGdfYklWdF9hWjRiQU5hd0NEVHRBWTU4RzlfVXMtSy01VnRQWlR6aU9CcDJiSG1MRHZCSmRUdHR0alJsQ2lUXzIyVFVTNEszSTRIeWtaTHFoMVp6UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T19:13:50+00:00"
-    },
-    {
-      "text": "Trump’s Name Must Stay Off Kennedy Center, Judge Rules",
-      "url": "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html",
+      "text": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+      "url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-15T19:00:13+00:00"
+      "time": "2026-09-15T22:17:56+00:00"
     },
     {
-      "text": "The push for AI regulation gains unlikely allies. Trump and Congress aren’t among them - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T18:51:00+00:00"
-    },
-    {
-      "text": "Bessent Defends Faltering Bond Market Intervention",
-      "url": "https://www.nytimes.com/2026/09/15/business/economy/scott-bessent-congress.html",
+      "text": "House Kills Bid to Impeach Trump as Democrats Split",
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/house-trump-impeachment-democrats.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-15T18:28:17+00:00"
+      "time": "2026-09-15T21:03:47+00:00"
     },
     {
-      "text": "Kash Patel defends FBI hiring policy on applicants who have engaged in bestiality - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOG8xVEhsMDVRV0IzRUNLMEVuTG1fVjczMTBieWhuZjNac2VyMV9LcDkyRnp4NHNiU1psd2IzR3hXWmtzU0EtV25UVHk5cDc1ZXd4NWVLQXYxUjV3TFZqR1JSVl9rSU5TTXhUSDNlSU9aSS1ZWmQyd252MGZWVjNXRzlNbjRFQ01udExhbGJJVGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+      "url": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-15T18:17:22+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T20:06:21+00:00"
+    },
+    {
+      "text": "Half of Voters Dislike Socialism Amid Progressive Wins, New Poll Finds",
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/democratic-socialism-poll.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T18:19:33+00:00"
+    },
+    {
+      "text": "Rising Fuel Prices Set Off Anger and Protests Around the World",
+      "url": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T15:03:01+00:00"
+    },
+    {
+      "text": "Trump Slams Supreme Court Over Mail-In Voting Ruling",
+      "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-15T14:01:16+00:00"
     }
   ]
 }
