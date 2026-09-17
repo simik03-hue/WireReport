@@ -1,46 +1,111 @@
 {
-  "generated_at": "2026-09-17T06:35:12.366108+00:00",
+  "generated_at": "2026-09-17T12:09:40.653699+00:00",
   "lead": {
-    "text": "Stock futures rise after Fed's rate hike spurs a market sell-off: Live updates",
-    "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "Ninth woman's body found as South African police investigate string of deaths",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-17T05:46:13+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-09-17T12:07:23+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
-      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "text": "Dow futures rise 400 points as market tries to recover after Fed sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-17T05:42:46+00:00"
+      "time": "2026-09-17T12:04:40+00:00"
     },
     {
-      "text": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
-      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+      "text": "Swedish PM Kristersson resigns after election loss",
+      "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-17T12:04:27+00:00"
+    },
+    {
+      "text": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
+      "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-17T05:37:58+00:00"
-    },
+      "time": "2026-09-17T12:02:41+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
-      "url": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+      "text": "Carney Calls for E.U.-Canada Pact Amid ‘Ferocious Storm’",
+      "url": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T05:33:41+00:00"
+      "time": "2026-09-17T12:01:15+00:00"
+    },
+    {
+      "text": "Bank of England Holds Rates Steady but Warns of Inflation Pressures",
+      "url": "https://www.nytimes.com/2026/09/17/business/bank-of-england-interest-rates.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T11:12:07+00:00"
+    },
+    {
+      "text": "Moneyball",
+      "url": "https://www.nytimes.com/2026/09/17/briefing/college-sports.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T10:45:59+00:00"
+    },
+    {
+      "text": "Samsung Fans Are Thoroughly Unimpressed by Apple’s Foldable Phone - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU09GUjYydExXc05JTXhsbkdHc2VQTU1SUnFpd0tUZVMxdTBHUVFWSi0tWVJ1ZnFuUldydjlHT0wwbmwzRFJxa25Fcnh0cE5ZODhzVENTSlBtN1ppQXRtR1pvZkpOT3pGT0dqcWtlVEhtRTkxaEJ6TER2Sl80bm1vQl9OWDdMWjdueExrZktiVmsyVVRMNlB2YlhVV3NKNzg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T09:30:00+00:00"
+    },
+    {
+      "text": "Global Economy Is Running Out of Wiggle Room",
+      "url": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T09:04:23+00:00"
+    },
+    {
+      "text": "Weird and Wonderful, the Lucas Museum Lands in L.A.",
+      "url": "https://www.nytimes.com/2026/09/17/arts/design/lucas-museum-los-angeles-star-wars.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T09:03:37+00:00"
     }
   ],
-  "col1": [
+  "col2": [
+    {
+      "text": "The L.A. Helicopter Crash Highlights a Sky Full of Hazards",
+      "url": "https://www.nytimes.com/2026/09/16/us/helicopter-crash-safety-faa.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T11:40:21+00:00"
+    },
     {
       "text": "King Charles Meets With A.I. Executives About Safety Risks",
       "url": "https://www.nytimes.com/2026/09/17/business/king-charles-ai.html",
@@ -48,128 +113,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T05:00:05+00:00"
+      "time": "2026-09-17T10:52:45+00:00"
     },
     {
-      "text": "The Hidden Human Cost of Kim Jong-un’s New Power",
-      "url": "https://www.nytimes.com/2026/09/17/world/asia/the-hidden-human-cost-of-kim-jong-uns-newfound-power.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T04:11:08+00:00"
-    },
-    {
-      "text": "Do whales grieve? Rare footage of humpback alongside stillborn calf suggests they might - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXdUZzlra1lVcFVXLWFYSlJPNG1Rd3BKMlhaRWZUSmJjRkpZWjNDTWpFejYwVm0yNFJobm9nNDY4TlBwZ1pYMzh1VkZ2N2V6VmZHTXIteC1xcHowY3JWMGkzRVNEZTItdi1Oa1l5Q3ZUQ2xpaUFsTDdxVWRKWXFFZms1X2ZSWm9ycFVjZlVWQ2ZzbEZPdWlfVHhwemZjeFpYSlFDdlNxWUY2WkhON2x0enFHc250bkc5OEVqdXY3d0FMYmpQZzZVOHhYNGhGb1U?oc=5",
+      "text": "Testosterone scripts for women rise, along with denials and delays - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T03:51:00+00:00"
-    },
-    {
-      "text": "Former police chief recalls 2009 arrest of RC Horsch, the man linked to Philly house of horrors - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlJBemhWMU55a3pTYkF1ZjdpOFRaMTFwSEFfeWxVQTJ1aXd0VWJfcS1JWVNVMjJQTkp5NVMwUm5vZDNMUjlndDA2aWxvcmZVMF92SGVxVXlIMUtndEg3aEYzMTl1UDRqVVBsRnA5NmhUa1VZc1NLdUw5R2JoWXdLZ0tZSFE4UU1pN0ZYamVvU2sxc243NEdON2RhZW5KRmV1NWNWV0ROY2hhTVhlTC0yZEVSa9IBuAFBVV95cUxPV24waDBZODNsYTc3UmdTVG9WUFpZYWpJM0lGT3NsMjBBVXM1LTRUR2VKWVpDS2FlTFljUXFSSFhSMUpVaHBWOEtHTEZybVFjUFFIZUxicFFDcU5NNHV0amdFS1NPYkFwOFJ1aW9zLWx2Ym0xREg1M0NuVzBiZF9PMmFfVVhYRjUzb25jYVdtODNSbnZrWWVGTUFzQ042WnVxYV92UzFjSmpUWEVWOXRtQTFJVldLa3hl?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T03:07:35+00:00"
-    },
-    {
-      "text": "‘Dancing With The Stars’ Recap: Season 35 Kick Off Continues With Ladies Night & Another Elimination - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPem4wVGU3TzBMaWhBcExiYVFDX0MzS3VETzBxaFRWYzhwYTM2NEhUYnpjS0g3N3RqblFxQ0VZVXBFWmppNDBCOTdFYUdqejJybmNhaVRKUjJUMmdBLXZIVUlUWjhUdlpaRGpaYy1rbXl2Z0tTaktSOGo0NUQ1WmtFY2dVUlE4TjZ3SnNKbHByNGt2NTQ5MHFQREtINEU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T02:02:00+00:00"
-    },
-    {
-      "text": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T01:50:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGJ6Q21DNEtiYWstRzJmajd5aURLNjNyR1RJYTFmUmZPZElZcDdFOXZwVHgtMVkybDBLaTFMVnQ3WWZXUVhBeDVwQ3ZkTjdiZEZMU0dPVlRqYkNwQVZjN3RLeE56TDc3dUZEcmFfdzNmb3p4YjRhOXVHZGZKX25QVFUzODBtNnlocnfSAY8BQVVfeXFMTW9iUTVqVi0zVnB2Ym9URW96RFpQNlZnZXNaZWRoNG9LdFRSZlFaeTM5U2kyTnpSZF9VMVdXLW1Ecm8xY0xmYXYyakFOcVJCTklvVlhqTHdoME0tMHFMRndvMDc1NEZ0RzhpMk5HWUo5bnVCU2luMFhpTTNzLXY4eUNNTmxieWVwRzhhYnFLWFU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T04:40:21+00:00"
-    },
-    {
-      "text": "Donald Trump fails to bend the Federal Reserve to his will - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1dQRV9XLUcxZkxLcUlBeEtxM0RxM1dWOF9FM21EckpLT3d2Yk1rX2xzaVdES2dyTURTOEdkTEoxRWwwQ01PQTA4cHZNM3FXeG1oak81Q3N2Uzh6WUJyTUxBRzl3My1HdEM3ZDNMSHh3dDViYVUzZlNxazRwNFkyWllfbXM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T04:00:31+00:00"
-    },
-    {
-      "text": "Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTlWWW5WSy05SEktMGFXa25nMFo3UWNqSmJXY3ZQd2RuQ3pyWGJUQ1E3d3c1VDVZZGw1NDF1QzBEZU5PbmFIdXNjb1lrNlUtYnZNbFdwMjdqVk1BYXVqQlR6blVDZzBzUEE0d1hfYk1pQVV5cDRidGdyd3lXWVhJRGpHeVgtc0NjQVppOC1sQ1hyLUpSSE5pbW54cnltR0hTSTNLSW94ZTBWdXZIWkEzMGc2eTdqRkdTSHVQRjJmazM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T03:31:00+00:00"
-    },
-    {
-      "text": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
-      "url": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T03:06:27+00:00"
-    },
-    {
-      "text": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEVJc0oxa0dmMXN1eW1DbTZWSDB5TGpPUGxaNEtRWFpITEZvUTNVQnczYkdkX1NUV2JIejl2Y0V0MmNWc2U0WmFrLV9GUWRNUHR3Rmk4eHRYa2d0MmFkQ1ZWQ0o3RTZQMGdPbFNNeTQzYVhtYlVacXFoaUlwaEh0RmJyWmI4UdIBiwFBVV95cUxOcHdJVXpwdHFBbkc5M1E4RzUxOXN4emVFS2gyajNLRVI2b0JtdllRWXF6TE5DQ0pPTFhSaUNTNGNVb05NY3RUdmtsZ1pNaGN2aG1ManlLOWtqeTBKSjNBbmRCdFVSb3B6MXljcnBkRHMyQmVjQnZJWWpIM3k2RVN4U0VrVzJkeVJndE1Z?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T01:59:00+00:00"
-    },
-    {
-      "text": "See the latest measles count for the Pennsylvania outbreak - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFp3ZF9vYVUyQno0ZzVONi05cXBhcjZMSUtNQ0JqT0lMbGlzRlJCcjZrN09JejVRR0w1V3E1MFZTNVZ6QzI2elhRc0QzYWdJc1NpSGF0ajAxTDh4dlRmY3d1MUEtQlJaajVWcDIwREYxQW1LTTExdFQ0M1IxSV9xaGloS0ZBT2d2TmF3YmJ5VkxYSzNVVHpTQndmdVc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T01:36:44+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Canada could become the EU's first \"associate member\" - axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0VteVBYSjJHYjUwOXM2bnk4NE84N0YzX2Roalo5WXNvV0hhQnVhdk9mZEdGTjlrVkVHcmhXUFNkSzhKeUsyR0hqWmw0M0hxOXFMdlg3MXg3S3pJUDVrdHBfVlRNWnVfS2ZDNWN6enhvWVI1RVBxSjhfUVRZMzN0N0h3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T04:16:46+00:00"
-    },
-    {
-      "text": "Macklemore pledges his $1m Ed Sheeran tour salary to Palestine - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUGF6WE5pREdvbDdDc1EwSjVhaWpFMU4yRGJQMkNPZnFrbWVYeVNIMmZqYkNReDhTX1MzcmE1YnZrSzNXSFBEUHY1bTZjcnJmMWNyTWw3bEIwMXRzbGtqcm1GaVM1aEN3UTV3bEQzYUFRRmxad2NZbDUzcVhyTE1QOWdWTlp4ZE1JOFNJZ1BnTGpHSjQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T03:58:00+00:00"
+      "time": "2026-09-17T10:00:29+00:00"
     },
     {
       "text": "State Department Extends Visa Ban on Abbas, Other Palestinian Officials",
@@ -178,34 +131,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T03:10:35+00:00"
+      "time": "2026-09-17T09:24:20+00:00"
     },
     {
-      "text": "Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88",
-      "url": "https://www.nytimes.com/2026/09/16/arts/peter-max-trippy-artist-of-counterculture-era-and-beyond-dies-at-88.html",
+      "text": "Who Will Win the Midterms? Republicans Are Reeling.",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T02:05:21+00:00"
+      "time": "2026-09-17T09:04:13+00:00"
     },
     {
-      "text": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
-      "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html",
+      "text": "Democrats Hope Voting Rights Decision Will Drive Black Turnout in South",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/black-voters-democratic-candidates-south.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T01:58:24+00:00"
+      "time": "2026-09-17T09:03:24+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
+      "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T11:21:23+00:00"
     },
     {
-      "text": "OpenAI says it found more instances of AI models acting deceptively | CNN Business - CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNOFQ3b0xDNlhxck1mTFAzWGRPZGw2OWhMdWNZbFJCOVhyRmJiWWd0OXI4VmQzS1VQY2w0b2RhRktyU295akdVTjdEOFZzRFRMbWFVNkZ4S3d1WXRCNVFUdXMwWEplZl9qYWtidTZHUjNqVDZBeE55NXB6QQ?oc=5",
+      "text": "The Deadly Choice Facing Many Gazans, and a New Disclosure of ‘Concerning’ A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/17/podcasts/the-headlines/gaza-ruins-concerning-ai-behavior.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T10:49:05+00:00"
+    },
+    {
+      "text": "From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routes - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTloQUtCSlh4UWxLNkt6TXZzeWFWamxxdFRSOEdoV2R2VGhWR2llNGViSG0wYnFhRUVpSmJ3Vy1FdUFXbTB3cXpvS3BJX3pTUGRnUVBjaU1CeFJoZG9MZ3VSNFNSR0NnVTBMTzNuUWlSOThPN1lFU2ttSU9aaVZHaUNRY1g1cC1XWkdYXzA1OVB0ZHpoNnhRd2ZJakNtdlg4VmxaT0FVN1hwQdIBrwFBVV95cUxQTXBBYjhQNjVIbl9kbnJQU3YwWkdDN0ZXZF9hSVltc3hwMDM2NmpmdmFmQTlHUllvbjg5SktlRWw1N09teGN2Rmd0eXhvRVRPRHlMQmlIaWhTbnB5Z2xZdzZyMm1tVHVhMHBfVFZocTB3ajhlSEg2aVc2cGdsaHFZcmt5NlRidFNrUV9FVm8wY2Vmcm5tYkMwQm52TUgyOWhMYldWNGttbk9heFBhNUtn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T01:33:00+00:00"
+      "time": "2026-09-17T09:45:15+00:00"
+    },
+    {
+      "text": "The Fed Raised Rates. What Comes Next?",
+      "url": "https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T09:05:11+00:00"
+    },
+    {
+      "text": "Jewish Leaders in Michigan Urge Support for El-Sayed’s Senate Bid",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-michigan-senate-jewish-petition.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T09:03:57+00:00"
+    },
+    {
+      "text": "Before My Dad Died by Suicide, He Recorded 694 Videos to Help Me Understand Why",
+      "url": "https://www.nytimes.com/2026/09/17/opinion/social-security-disability-insurance-father-suicide.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T09:02:26+00:00"
     }
   ]
 }
