@@ -1,17 +1,111 @@
 {
-  "generated_at": "2026-09-17T20:21:51.558321+00:00",
+  "generated_at": "2026-09-17T23:00:54.715935+00:00",
   "lead": {
-    "text": "This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked",
-    "url": "https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-09-17T20:19:12+00:00",
+    "text": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+    "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-09-17T22:59:23+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Moore says he would 'absolutely sign' statewide data center moratorium",
+      "url": "https://thehill.com/policy/technology/6096844-moore-supports-data-center-moratorium/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-17T22:53:49+00:00"
+    },
+    {
+      "text": "House heads home to campaign amid calls for urgent AI action",
+      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-17T22:48:08+00:00"
+    },
+    {
+      "text": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T22:44:03+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "RFK Jr. Names New Members to Powerful Health Panel Whose Work He Has Blocked",
+      "url": "https://www.nytimes.com/2026/09/17/well/rfk-jr-uspstf-panel-health.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T22:15:35+00:00"
+    },
+    {
+      "text": "Searing Elon Musk Film Nears U.S. Release Amid Overseas Concerns",
+      "url": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T21:40:49+00:00"
+    },
+    {
+      "text": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE - NPR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFBBVHg3MTVlN0hudzh4MEcwTW5pSGpldkJsZjNiNy0tVVBuYWxwTnBLd1RiYnVMT2R4N0xMUjFIOXNpQWFTUTZrR280b3pXQ0dvQ18wQjFfZ0FqdVMzWGpDSjBvV2NZLXZheGM1QU9NTm5LbHkyMW5BM1hCbzhzODV4czhfNWhKbTVmekVWQXBMT2psajR5bGlqMDFmenR4emlMNmNoR2tYOEpGdng0dFYxbG1CanVtN2F4ZVhUS3c4Y3c2djNPekFVQ1BwVkU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T21:17:39+00:00"
+    },
+    {
+      "text": "Kennedy Center Closure Prompts Legal Fight Over Trump-Backed Renovation",
+      "url": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T20:31:28+00:00"
+    },
+    {
+      "text": "C.J. Huff Rebuilt Joplin’s Devastated Schools. Then Came the Backlash.",
+      "url": "https://www.nytimes.com/2026/09/17/magazine/joplin-schools-superintendent-disaster-rebuild.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T20:28:26+00:00"
+    },
+    {
+      "text": "This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked",
+      "url": "https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T20:19:12+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Montana Ballot Measure Would Strike at Political ‘Dark Money’",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T22:09:05+00:00"
+    },
     {
       "text": "Hasan Piker’s Comments Create Headaches for Abdul El-Sayed",
       "url": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html",
@@ -19,7 +113,90 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T20:19:02+00:00"
+      "time": "2026-09-17T21:34:41+00:00"
+    },
+    {
+      "text": "For a Border Tribe, Trump’s Wall Is a Betrayal: ‘They Want to Erase Us’",
+      "url": "https://www.nytimes.com/2026/09/17/us/tohono-oodham-nation-border-wall-arizona.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T20:54:35+00:00"
+    },
+    {
+      "text": "Universal, Facing Backlash Over ‘Musk,’ Now Holds Internal Talks to Keep Alex Gibney’s Doc - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWZxUVFtTUd1d3B3QjdxSGdESDRfMmtIM3dKRWtQYlBIYVJ5aGp4WkRVcEc3Nk83c3c3Q2h4QVhmOGxwc2lZeW05Yk03bUpXNUw4ZW9KMHhXMEF4SW52XzBJRjc5SjA1MW55RFA4TkpRUjV4dGNzMC16Y2V6V0lEMk8zeS1kMHYta3VmekxycGJFQVRF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T20:30:09+00:00"
+    },
+    {
+      "text": "Steve Belichick’s wife issues statement following his resignation from UNC - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZTlsSkY0UHZraEpvMm5yeWFkdnh1OUN2U2VZY2dxNTltcjJPREpVaTg1N1Q1TkJYQ3J0czEwWkhPdGZJc18zOGZ1M3dYSm5NU0VXUm1wbkxKTjdnTTBrSWptWDFHR0lNQWhrd0pwMGEwOU4tYWQ0SzNOaENaWHo1aHJNdy02VHpTbGRhWjJ6ODJyZ0p3emw2VVhpVlNxNFRTcHk5d01FemNUUG9MczNSQU50VXFOYk9vcW5IOW52QXRBUzVJeUNuUDZLMXRmMnpD?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T20:24:47+00:00"
+    },
+    {
+      "text": "EXCLUSIVE: Pennsylvania asks for CDC measles help amid Kennedy dispute - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR040WVpTSC1HTG5WV0IwMzRWb2VMQmdJT1k3Ui1rVWlqV08xYkgzRzhBQ3lfUk4tSGNHWU54VXdhZnVfb1Rta3BVMnM5VUxGbUpRRnB6RXN1MmFXb1NEU1hTeW1uSnhKR25jVEdkNmNCYVBvblBFaU9Wc1dCdDNiQS1Xcm5FWkRqcG4yQm9DVTFHRE5TWWNhQzVqZEEwZ1Vtd3p1bktPQmptYVNKRmVXQ0g4M1Q1SHE1TWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T20:18:59+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Republicans Face a Tough Path Ahead",
+      "url": "https://www.nytimes.com/2026/09/17/briefing/republicans-midterms-yemen-fighting-gene-editing.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T21:53:51+00:00"
+    },
+    {
+      "text": "RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’",
+      "url": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T21:19:58+00:00"
+    },
+    {
+      "text": "OpenAI caught its models leaving notes to successors to hide bad behavior - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekFPOXhiUFNXem5jSFV2VU54TTZpM3JYRThaNDhFTldnMEJTTWdnalFMSzVEaFV2WVBDS2xPMFQzd3lCbk1hbFEzQXAyUDRXTEwxUGhhTW51aWVsRHkyeVpDMGVzaXpxR1EtTmpKc2ZodzFsa0V4N0JNaUZtclpXakRPV1hyY3RycWRPREFDaE1uLXp1NGNrMFppTGxwaFlPS2pYaXRxWF9vWl9V?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T20:34:24+00:00"
+    },
+    {
+      "text": "The Next Gene-Editing Technology May Also Be the Oldest",
+      "url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T20:29:25+00:00"
+    },
+    {
+      "text": "ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEhMLU1ybjhKTkRaSVRZbTF1ZzY4R2RraEJYTlc3aDlYcjFJR1VWWDVXbFVkeTM2LVVXZWVDYU5PSEREb3RuTmU4Qm4zR0NHMUdOcjdtRVZHTHFTbHo0RC1BcXYxNzh4Vl9aMG94TkN2SHFrUnFRZFozR2JNYTN6c2J0NXpEWElHT2locmdwMEpmQ2ZqRlYtSG9lc205a1dQdXhF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T20:23:34+00:00"
     },
     {
       "text": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
@@ -29,183 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-17T20:14:36+00:00"
-    },
-    {
-      "text": "Stocks surge as oil and bond yields retreat, recovering from Fed-induced sell-off",
-      "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-17T20:12:53+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "The Next Gene-Editing Technology May Also Be the Oldest",
-      "url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T20:09:39+00:00"
-    },
-    {
-      "text": "How Trump’s New Green Card Policy Could Affect Immigrant Families",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/trump-green-card-benefits-immigrants.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T19:39:26+00:00"
-    },
-    {
-      "text": "Trump administration says Kennedy Center closure is ‘temporary’ after Trump alludes to broader shutdown - politico.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ05XTVZ3X0ZwbTliZXVqOW81SDRvcF9CV181ajNHT2dVWFc0ODJkc1dLMXJPajhmQ08tenpoTndySmdCNVJfNlV0V01jWENFN2hWOXVPMy1GaVdMM2RzS3AyelJqNUJfZzFjcnUweXFOSVg0ZFlTak1lVURPdzQ5cXFWVXY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T19:27:00+00:00"
-    },
-    {
-      "text": "G.O.P. Representative Breaks With Trump in Ad Criticizing the Immigration Crackdown",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T19:07:55+00:00"
-    },
-    {
-      "text": "Senate Democrat blocks House-passed bill to shield Americans from data center energy costs, proposing alternate measure - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb3JaWUJDcjhVMXRZSTE2bHFCVHN5N0J6Ym4wVlVDazl3UEFDYmdrUmp6SkN0WTFlWXFHYVphYklmMHpIT3JUUVFMaG9BY0ROSW5pbm1qQjZqWDI5TFZnQlh2dU43WkI0Y1YtalQ1dVAtNEVsbHBrNnRrSGpqRFBFSlh3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T18:40:29+00:00"
-    },
-    {
-      "text": "White House withdraws nomination of ex-state trooper Lance Schroyer to head ICE - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNld3ZHJQeXFqR1B0ZzVSMThJTHkyaXJNRmhDSTcxTVE1M0xPcFhLQ0ZpUHJsbmszQUlvSUxyY053TFNITFYxM0JRUUF2TkpwVzVEai1zRnlaVW9HSWwzYVpTUEJfLW1KVThRSEZkLUljLWR3d1JpWlNvUTFteTJmZ2o5UzQ1Sm1JMUlmN1NSa2hVdG9GVzdjSnMxOXA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T17:38:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Kennedy Center Closure Prompts Legal Fight Over Trump-Backed Renovation",
-      "url": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T19:53:32+00:00"
-    },
-    {
-      "text": "Russia and China Veto U.S. Bid to Renew U.N. Monitoring of Iran Nuclear Program",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T19:34:10+00:00"
-    },
-    {
-      "text": "UNC's Steve Belichick to resign; investigation finds 'a disregard for Carolina’s values' - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSEZDY1pHVmIxeFYtaGZMUFYyS0lyTUVnd1NfNkVyalFDbjBoUEFwQjVTMG5xVElGS0R6MzNkYkMzc1hPdjNUZDhwS0M3LVF0VWhsVXRoWmE4MUo2d0l2c2VKY2FSa0c5czdDN2lvOFZ4Q3BpWmtEN2U5V0dHc0RRQUpOOXFVaXloczZ2Sm1SWkpLWVhzU3BiQkFZRkozWHBvek1MVkVDNA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T19:24:03+00:00"
-    },
-    {
-      "text": "What Happens When A.I. Stops Doing What Humans Want?",
-      "url": "https://www.nytimes.com/2026/09/17/science/ai-alignment-misalignment.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T18:59:40+00:00"
-    },
-    {
-      "text": "A.I. Agents as ‘Co-Scientists’? This Lab Says They Could Speed Drug Research.",
-      "url": "https://www.nytimes.com/2026/09/17/well/ai-drug-discovery-stanford.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T18:08:24+00:00"
-    },
-    {
-      "text": "The Face of London in the 1960s Is Living Her Best Life",
-      "url": "https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T17:35:13+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Yemen War Intensifies as Houthi Militia Advances on Marib",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T19:49:48+00:00"
-    },
-    {
-      "text": "Sharon Stone Says NSFW Basic Instinct Scene Still Makes People ‘Terrified’ of Her - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51LXExVWJRX0xLQ3JKbkdTeGpIcEhxMHc5SFczcDRQLS15cVNkaU84QS1ZbEFqbXQzbC1ENzJfVGVBdzN0Nm80ZjVQazZmMVFBNUQ2bFpjUm5FQ0hyQjBHYlNZeHVMZXBDWkJnVHpsUUZEaTVWT2VOU25SU1g?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T19:29:23+00:00"
-    },
-    {
-      "text": "Trump Air Force One Photos Fuel Kennedy Center Demolition Speculation",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T19:10:25+00:00"
-    },
-    {
-      "text": "Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88 - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSDhjbnJfd05CeFdGZ0tkR24yT1hoZU5jSU5TWXNIR3dlY0h6bFZudGNHb1dtQVR0NjhSTnFjMXBSY3paQ3RKRFRUcVVCLUN2Rm9MMEl0YlRWSVBiXzBJRWJSM2hmZGNpTk9UUS1JeFlVZzBsS1c0YVY0TkpEUEZJc1RmdGF4VDFkaVRPYWFkVzBZU2M5MTUybmg3R2Zpa2hoVzJVWFBPQkEyampjakhnVmR3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T18:58:00+00:00"
-    },
-    {
-      "text": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTk1bDJGcUJ5TkJVd0dyd3FZcXRoR1pPUmt4TERQSFBuR1RyZWdSaEZmWXZmZ0RPeTZVLTFWelExNlFrZ29idV9zMk1JbkYwRWxIQTB3WVl5cVNXVEtBYk50TGtHTnFfZ2J1ZVI5MThDY1NoYWtFOXlpb0dUM1JyLThUbHg4VVF0OG5xZE4tdDZBdEw1VkJV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T18:02:33+00:00"
-    },
-    {
-      "text": "Jon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/jon-kyl-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T17:34:48+00:00"
     }
   ]
 }
