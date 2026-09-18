@@ -1,34 +1,81 @@
 {
-  "generated_at": "2026-09-17T23:00:54.715935+00:00",
+  "generated_at": "2026-09-18T01:18:15.286019+00:00",
   "lead": {
-    "text": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
-    "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-17T22:59:23+00:00",
+    "text": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History",
+    "url": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-18T01:12:52+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Moore says he would 'absolutely sign' statewide data center moratorium",
-      "url": "https://thehill.com/policy/technology/6096844-moore-supports-data-center-moratorium/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-17T22:53:49+00:00"
-    },
-    {
-      "text": "House heads home to campaign amid calls for urgent AI action",
-      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "text": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+      "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-17T22:48:08+00:00"
+      "time": "2026-09-18T01:04:06+00:00"
+    },
+    {
+      "text": "G.O.P. Representative Breaks With Trump in Ad Criticizing the Immigration Crackdown",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T01:02:45+00:00"
+    },
+    {
+      "text": "Anthropic says its chatbot Claude is taking over the work of building its own successor - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-09-18T01:00:22+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "S.U.V. Driver Charged With Murder in Los Angeles Bus Crash",
+      "url": "https://www.nytimes.com/2026/09/17/us/suv-driver-murder-los-angeles-bus-crash.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T00:51:36+00:00"
+    },
+    {
+      "text": "Montana Ballot Measure Would Strike at Political ‘Dark Money’",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T00:25:20+00:00"
+    },
+    {
+      "text": "EXCLUSIVE: Pennsylvania asks for CDC measles help amid Kennedy dispute - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR040WVpTSC1HTG5WV0IwMzRWb2VMQmdJT1k3Ui1rVWlqV08xYkgzRzhBQ3lfUk4tSGNHWU54VXdhZnVfb1Rta3BVMnM5VUxGbUpRRnB6RXN1MmFXb1NEU1hTeW1uSnhKR25jVEdkNmNCYVBvblBFaU9Wc1dCdDNiQS1Xcm5FWkRqcG4yQm9DVTFHRE5TWWNhQzVqZEEwZ1Vtd3p1bktPQmptYVNKRmVXQ0g4M1Q1SHE1TWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T23:27:00+00:00"
+    },
+    {
+      "text": "RFK Jr. Overhauls Powerful Health Panel Whose Work He Has Blocked",
+      "url": "https://www.nytimes.com/2026/09/17/well/rfk-jr-uspstf-panel-health.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-17T23:15:09+00:00"
     },
     {
       "text": "Yemen War Intensifies as Houthi Militia Advances on Marib",
@@ -38,17 +85,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-17T22:44:03+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "RFK Jr. Names New Members to Powerful Health Panel Whose Work He Has Blocked",
-      "url": "https://www.nytimes.com/2026/09/17/well/rfk-jr-uspstf-panel-health.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T22:15:35+00:00"
     },
     {
       "text": "Searing Elon Musk Film Nears U.S. Release Amid Overseas Concerns",
@@ -58,101 +94,45 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-17T21:40:49+00:00"
-    },
-    {
-      "text": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE - NPR",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFBBVHg3MTVlN0hudzh4MEcwTW5pSGpldkJsZjNiNy0tVVBuYWxwTnBLd1RiYnVMT2R4N0xMUjFIOXNpQWFTUTZrR280b3pXQ0dvQ18wQjFfZ0FqdVMzWGpDSjBvV2NZLXZheGM1QU9NTm5LbHkyMW5BM1hCbzhzODV4czhfNWhKbTVmekVWQXBMT2psajR5bGlqMDFmenR4emlMNmNoR2tYOEpGdng0dFYxbG1CanVtN2F4ZVhUS3c4Y3c2djNPekFVQ1BwVkU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T21:17:39+00:00"
-    },
-    {
-      "text": "Kennedy Center Closure Prompts Legal Fight Over Trump-Backed Renovation",
-      "url": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T20:31:28+00:00"
-    },
-    {
-      "text": "C.J. Huff Rebuilt Joplin’s Devastated Schools. Then Came the Backlash.",
-      "url": "https://www.nytimes.com/2026/09/17/magazine/joplin-schools-superintendent-disaster-rebuild.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T20:28:26+00:00"
-    },
-    {
-      "text": "This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked",
-      "url": "https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T20:19:12+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Montana Ballot Measure Would Strike at Political ‘Dark Money’",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html",
+      "text": "RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’",
+      "url": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T22:09:05+00:00"
+      "time": "2026-09-18T00:34:26+00:00"
     },
     {
-      "text": "Hasan Piker’s Comments Create Headaches for Abdul El-Sayed",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T21:34:41+00:00"
-    },
-    {
-      "text": "For a Border Tribe, Trump’s Wall Is a Betrayal: ‘They Want to Erase Us’",
-      "url": "https://www.nytimes.com/2026/09/17/us/tohono-oodham-nation-border-wall-arizona.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T20:54:35+00:00"
-    },
-    {
-      "text": "Universal, Facing Backlash Over ‘Musk,’ Now Holds Internal Talks to Keep Alex Gibney’s Doc - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWZxUVFtTUd1d3B3QjdxSGdESDRfMmtIM3dKRWtQYlBIYVJ5aGp4WkRVcEc3Nk83c3c3Q2h4QVhmOGxwc2lZeW05Yk03bUpXNUw4ZW9KMHhXMEF4SW52XzBJRjc5SjA1MW55RFA4TkpRUjV4dGNzMC16Y2V6V0lEMk8zeS1kMHYta3VmekxycGJFQVRF?oc=5",
+      "text": "Gas prices are about to take a big jump, analysts say, with the worst still to come - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTdzd01ZMk5zSlJxcXFLb1BTSkRMa3VrZGRYRHhNblNYZWJ4bEM5NWpmX3dfdjB3cWZuV0pjNEIyTG1UX1k5RE1yMmJMMTNQWFdydTZycjVWTFZ3UWVNNUIweTI1MTNBOW5ZQW5GSndnVU84dWZuVkNaR053N05DNGp5ZG0wbUFPaE01MHVneEkyV0U5M1BBOWJBVEJ0U2tvcHJmSkxIMDlqX3k4N1I0YTRCVQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T20:30:09+00:00"
+      "time": "2026-09-18T00:17:12+00:00"
     },
     {
-      "text": "Steve Belichick’s wife issues statement following his resignation from UNC - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZTlsSkY0UHZraEpvMm5yeWFkdnh1OUN2U2VZY2dxNTltcjJPREpVaTg1N1Q1TkJYQ3J0czEwWkhPdGZJc18zOGZ1M3dYSm5NU0VXUm1wbkxKTjdnTTBrSWptWDFHR0lNQWhrd0pwMGEwOU4tYWQ0SzNOaENaWHo1aHJNdy02VHpTbGRhWjJ6ODJyZ0p3emw2VVhpVlNxNFRTcHk5d01FemNUUG9MczNSQU50VXFOYk9vcW5IOW52QXRBUzVJeUNuUDZLMXRmMnpD?oc=5",
+      "text": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGthY0luQlRSdV83a2g1VktUVlRKMVJCeXVjME5lNEU3MUNocU55OUhIQXhoRThxT0ZiVlUyMkM1ZENVVlowLWNaX0p5bFpjVnpfMDhPTl9EYU01MV94Y19fOE91Ym9oQS1XdENUbGotVjVRcjNsZzFGbnJDQi13Z0tSSEhMYlBiZ2pSallYMkRBb2F0Q24xT0ZpcnRUdzR0OEJLTUo4NEZtazJidEl5N3ItbkhFZmdpWVM5Mw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T20:24:47+00:00"
+      "time": "2026-09-17T23:23:27+00:00"
     },
     {
-      "text": "EXCLUSIVE: Pennsylvania asks for CDC measles help amid Kennedy dispute - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR040WVpTSC1HTG5WV0IwMzRWb2VMQmdJT1k3Ui1rVWlqV08xYkgzRzhBQ3lfUk4tSGNHWU54VXdhZnVfb1Rta3BVMnM5VUxGbUpRRnB6RXN1MmFXb1NEU1hTeW1uSnhKR25jVEdkNmNCYVBvblBFaU9Wc1dCdDNiQS1Xcm5FWkRqcG4yQm9DVTFHRE5TWWNhQzVqZEEwZ1Vtd3p1bktPQmptYVNKRmVXQ0g4M1Q1SHE1TWc?oc=5",
+      "text": "Trump ordered DOJ not to appeal ruling that loosened limits on \"gangster weapons,\" sources say - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlktUVhadFhKVG1sNWFZaURyWG95WHhVQXVJWWVOMGlIQjZPT1dRcXJyd2VxanJ4NENNN3pIbVFHY2pvTmZGdW5CLVVkZko0X2lqNW5DWXJUTTdoYVd0S3N2UXJVUFM2UkZaNG5GVFJxS3gybmFIdjEwUDEtQnB3RXl5T21WLWs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T20:18:59+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-09-17T23:02:00+00:00"
+    },
     {
       "text": "Republicans Face a Tough Path Ahead",
       "url": "https://www.nytimes.com/2026/09/17/briefing/republicans-midterms-yemen-fighting-gene-editing.html",
@@ -163,49 +143,69 @@
       "time": "2026-09-17T21:53:51+00:00"
     },
     {
-      "text": "RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’",
-      "url": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T21:19:58+00:00"
-    },
-    {
-      "text": "OpenAI caught its models leaving notes to successors to hide bad behavior - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekFPOXhiUFNXem5jSFV2VU54TTZpM3JYRThaNDhFTldnMEJTTWdnalFMSzVEaFV2WVBDS2xPMFQzd3lCbk1hbFEzQXAyUDRXTEwxUGhhTW51aWVsRHkyeVpDMGVzaXpxR1EtTmpKc2ZodzFsa0V4N0JNaUZtclpXakRPV1hyY3RycWRPREFDaE1uLXp1NGNrMFppTGxwaFlPS2pYaXRxWF9vWl9V?oc=5",
+      "text": "Jalen Brunson to guest star on 'Law & Order: SVU' episode in November - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM19PcmlHUHhUcWpUd0VBODBwLXQ0aXdHTzh5YTVnemotMXl0a3Y2eG9XSlBjTUExdzFKLVdtRC1KODR0Qm9YMjlyUFRjRGdJb1I2NnE2V3BwSkNodTJJNHFqRjk4aTJEQ0xfQ1Bhb3Z5ZEdWeDVtOGs4U0toTHI2N3AxWk5nVGxtWm1nZ2RIRklHNEZXbEhkdDhyRmI4VEJzaWlMR2RkNzZtcXloSGpYRHFTaVdtaTVpRUVTSXlkNA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T20:34:24+00:00"
-    },
+      "time": "2026-09-17T21:26:28+00:00"
+    }
+  ],
+  "col3": [
     {
-      "text": "The Next Gene-Editing Technology May Also Be the Oldest",
-      "url": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T20:29:25+00:00"
-    },
-    {
-      "text": "ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEhMLU1ybjhKTkRaSVRZbTF1ZzY4R2RraEJYTlc3aDlYcjFJR1VWWDVXbFVkeTM2LVVXZWVDYU5PSEREb3RuTmU4Qm4zR0NHMUdOcjdtRVZHTHFTbHo0RC1BcXYxNzh4Vl9aMG94TkN2SHFrUnFRZFozR2JNYTN6c2J0NXpEWElHT2locmdwMEpmQ2ZqRlYtSG9lc205a1dQdXhF?oc=5",
+      "text": "Thursday Night Football live updates: Bills vs Lions start time, TV channel tonight - usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1I5MkJULVVkSEZfcFhxYXAzSGNVVkNMbnRYMW5mUWlvS0d3bzJrZDNkZWhWLTdObUNIX1RGNk1xM3A3a3JxQ2NVM1hnOU1Bb1pKUURob0JFc0tEVjR1Um9zeHZYbHl5U1NRYVh3ajVzRzhNRFJvZmhIakJRaDJ3QWwxRkthcnRYejA1SjUwRVV4TlF6QldrakpvaWpiOTRHekh6M0JzUnFzd0V2Wl9MdVNEblBKV1FteFg0V0dvVGdmaXFaMjUwdGl1VXY?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-17T20:23:34+00:00"
+      "time": "2026-09-18T00:34:00+00:00"
     },
     {
-      "text": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
-      "url": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html",
+      "text": "Blanche’s Political Activity Breaks an Ethical Norm Going Back to Watergate",
+      "url": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-17T20:14:36+00:00"
+      "time": "2026-09-17T23:51:18+00:00"
+    },
+    {
+      "text": "White House pulls stalled ICE director nominee - politico.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWkZHNjNqcjFkNUFzaGhfUmFMdXJZaXFaci0yTWs1YjhWeV9SYXRHa0hrVzdlTmdlZllQQkhKWFpXRGRjMWYtVVdTRWV0YkhLQkpBb09DTU5nWlliMFJ1S3BDU3l5THhSXzRNZGlBVERyQ3Y0aVBGa3ZNZEllbEFfZlVoU2NrN0U?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T23:17:00+00:00"
+    },
+    {
+      "text": "Here’s what’s being banned from Ole Miss student section; Violators ‘will be removed’ - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmtiNmFkTGY4b1hPa3kxeG10LWZQNmhvcFZGYTVjTWdidl90NkFXV2R1aUIwSS03dnJaZHgwWFRHZjJXYkVSdFNXSTdUS0VfX29NbFhnZFRRRUlmV21TVlM0TUlDSXFsYndoU0Q1NGJ5U2RabEF0eXliSl94Y0hIQV9IZXo4RjRaWFZRM1BBMnJZRWk4NWFXX1FjeWI3QmNEcW92czFUZGowbXZ5QTVSWER6NjR0VXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T23:00:00+00:00"
+    },
+    {
+      "text": "LSU QB Sam Leavitt returns to practice ahead of Ole Miss - louisianasports.net",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnJHOUZEazZZYlZPUThkY0xzcDFwUTRIWGNySkdUOUoxRHVWOTgxNDVBSkl1STJJOHQ1RF9DeWJPRW1nWEx2czJOYXpkQWNqZFFHajhaNkVWcTFYSUo1dzA2RElBV3pycERZSDRwNTBrWmlUdXN0cXhQeHMyWlhJS040NEJ3UzdZbWJoWjlEUXcyY2RrQnI1aUlEejc1MWdMcGlPWjkxdlNaeXAyRTZ5OA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T21:42:32+00:00"
+    },
+    {
+      "text": "RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVQ3UWE1eWZmcnVMenFZWVJEQ0l5bXR0akhpcVVxX3BfUFRIRHpWakV0M040aHVCNE9mektqQm9MQWNJTmJQbkJpV2dpV2I3czVsRFM0RkpuUURlQ3FmczVqaXhHeTJxTnRmQ19pSHVrVklSNndrRmYzRHB5QVg2V1dDQ0xLek5ZSnpKc3pxRTNLZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-17T21:22:00+00:00"
     }
   ]
 }
