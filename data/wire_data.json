@@ -1,46 +1,91 @@
 {
-  "generated_at": "2026-09-18T16:17:19.697968+00:00",
+  "generated_at": "2026-09-18T19:08:04.612242+00:00",
   "lead": {
-    "text": "We're buying more of this defensive stock ahead of an upcoming long-term catalyst",
-    "url": "https://www.cnbc.com/2026/09/18/were-buying-more-of-this-defensive-stock-ahead-of-an-upcoming-long-term-catalyst.html",
-    "source": "CNBC",
+    "text": "Lindsay Clancy holdout juror believed she was guilty 'from day one,' didn't have any doubts",
+    "url": "https://thehill.com/homenews/state-watch/6098321-lindsay-clancy-holdout-juror-speaks-out-guilty/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-18T16:14:27+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-09-18T18:58:49+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Disney names CTO for the first time as media giant expands tech push",
-      "url": "https://www.cnbc.com/2026/09/18/disney-cto-tech.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-18T16:14:26+00:00"
+      "text": "Judge Who Struck Down Trump’s Compensation Fund Asks: Will Trump Just Pay Allies Another Way?",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-compensation-fund-judge-alternate-payments.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T18:56:47+00:00"
     },
     {
-      "text": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
-      "url": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+      "text": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
+      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-18T16:13:00+00:00"
+      "time": "2026-09-18T18:56:13+00:00"
     },
     {
-      "text": "Auto industry urges Trump to not allow Chinese automakers in U.S. ahead of Xi visit",
-      "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
-      "source": "CNBC",
+      "text": "Wendy's franchisee with hundreds of locations across 15 states files for bankruptcy",
+      "url": "https://thehill.com/homenews/6098417-wendys-franchisee-with-hundreds-of-locations-across-15-states-files-for-bankruptcy/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-18T16:10:01+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-09-18T18:50:11+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Stock Market Today: Dow Steady, Yields Edge Higher — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREJ5Yk9UbmJ6QXV0bVV2cUM3cnF5eGJRTzhpdmpkNmxWTFhfOGpaTXJlZ0JheG4xd0ZBUGNvNERSTlJObG9QejlfVVN2OXBlZGFTYUc1N3lTeUg2M2U4QmhWdFE0X1czSXJrTlk5U1dhOHl0Y2w1by1GWUgwRVplNGpicGhTVkU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T18:30:00+00:00"
+    },
+    {
+      "text": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T18:09:23+00:00"
+    },
+    {
+      "text": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T17:18:59+00:00"
+    },
+    {
+      "text": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
+      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T17:02:43+00:00"
+    },
+    {
+      "text": "How Trump Became an A.I. Evangelist",
+      "url": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T16:34:21+00:00"
+    },
     {
       "text": "At Gettysburg, a Reporter Captured a Nation’s Loss, and His Own",
       "url": "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html",
@@ -48,26 +93,10 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T16:09:27+00:00"
-    },
-    {
-      "text": "Early voting begins in US midterm elections that could flip control of Congress - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T15:41:00+00:00"
-    },
-    {
-      "text": "As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker",
-      "url": "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T15:30:28+00:00"
-    },
+      "time": "2026-09-18T16:09:28+00:00"
+    }
+  ],
+  "col2": [
     {
       "text": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
       "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
@@ -75,137 +104,108 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T15:10:35+00:00"
+      "time": "2026-09-18T18:24:10+00:00"
     },
     {
-      "text": "Missy Mazzoli Debuts at the Metropolitan Opera With ‘Lincoln in the Bardo’",
-      "url": "https://www.nytimes.com/2026/09/18/arts/music/missy-mazzoli-lincoln-in-the-bardo-met-opera.html",
+      "text": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzdjM2JZeko0ZnllcFFLLW40ZEVYUkdVQ1ZBSGdsY0hQYTA2N0k5N05DWDZWcXZTUUR2azNTR0FVdU5Ic3NGSlRxOFVVa1NZMTRtQ01pUVlxMHZmUjBwRHV3LXBZQXhOeURENzVTMFBUVzlYUlJFR0hCZ2EyYUVmeWRJU2RWYnlwd2x0eUc4VkIwT0Q2ak44LW9sekxWVjN4RnZFc3FJb2lWQdIBrwFBVV95cUxNM0p3aFN0SkNZN01VSWd5aG4yLUluUFhOb095VFJBVHkxa0dScWktVW1iQS1vRTk0YkFYRFZOV216UVFBV1puMUQxYkhReDNZU0dtTGlpWWswZlAxUkFORkNkczlsUWd4S0lqb1oxNUc4bUVYRVVoczNzQ0wybm9hbEpzQTdVbGI4X1M5NFRjMGZHZWU5akdXVl9NbTh6Mk96Ymp2Rk9FRTc4c1pzMWFV?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T17:41:45+00:00"
+    },
+    {
+      "text": "The Kennedy Center Is Trump’s Most Grotesque Obsession",
+      "url": "https://www.nytimes.com/2026/09/18/opinion/culture/kennedy-center-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T14:48:53+00:00"
+      "time": "2026-09-18T17:15:06+00:00"
     },
     {
-      "text": "Apple AirPods 5 Review: The Choice Is Clear - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qWWFCRGxHRlR2Yi1DeVg1R3NNa2NJTTNfVGhLSjBmZDZsc2tfM0prSHZESC1VR28ydUljazJIR05BbUJuX01DeHIxWFFwNHd4UnVmSVoycDZKV1hYTGY5SDEtWVdoRUk?oc=5",
+      "text": "Cooper Rush is expected to start for Falcons vs. Panthers - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVNpbEJKeDVHMzFXczUyN0k4cG9oZTY4QzVhcE42RXd1OEFUMDlRRjZmWmloUW5QWlMyUmRjTGRCWVhqQWJBd2d6SjREUkozUS1oZ0FLNWg3Z3hPdTBtdVlCQ3RIa1EwTlVoLWlOc3ZjWEpyb1Z6Z2FpZ0lMV2R2NkZzQ1ZTeWRJM1RIZ3M3WF9VSXVhV0YyMmotOC1JdEdwN1ZsZ19PZzJtMm12c1prcTN2dlZXTkxidVE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T14:00:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies - NPR",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQlg0YmhYenljb21GdWdmRURvTmV5dGJyTlROZlROblpNck5paFZteEl6NFhDUlVLMnB5RkFlTXBPempnSFFwTU1RTFh6T1Z6QTA5U2ZRbjlxMGk5TEd0THYtZEVsZEt6enZ0LWc0MzI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T15:48:23+00:00"
+      "time": "2026-09-18T16:42:57+00:00"
     },
     {
-      "text": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
-      "url": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
+      "text": "New Species of Cat Discovered for First Time in a Century",
+      "url": "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T15:35:03+00:00"
+      "time": "2026-09-18T16:30:04+00:00"
     },
     {
-      "text": "37 Miners in Nigeria Die in Police Custody, Sparking Protests - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2FzRmZiTG1FQkMwQ2YySk5IemFNaF9VQV9LZm5fQmpnRUgybmVrNzFQOE1sNEVBOUFZcVkzdEJDTkhHNXpCVnJxYTZ2UW93bi0yMXlNRUtpeWZYSXlhTU8yN0g5UHJQRkppMDNWbkwtTUtCeE4xc0pZOHhMZVhTeUdQQ3NUTWZrUUVWZjNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "F.B.I. Temporarily Halted Cooperation With Canada Over References to 9/11",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T15:27:09+00:00"
-    },
-    {
-      "text": "California Gov. Newsom issues executive order to rein in AI 'before it's too late' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02VU9ZNUVjMndvUEVjTHAzdzhaczNpRmVpX05mNW9fbzRvUWJSdWJpemJJSl9la2tQTnJDeDgwTVRGRmZrb09ILWRITmkxSEhveUNGb1lMbi1uSUEwejRTZzI0eHVuWDV2Rlo2WmlWUThoTlh2cFdXamZUeS00Z9IBgwFBVV95cUxPN2IzNlM1MkM2OFp2VDBwb1J6eXk1Z1hZdEpwSWdJbExPdXBvdDBFelVESmtWVGZ6UnRGVUFXaHpPU1AyMnduOFBxdURacTNhUWdRUUhGdlB4VzFOa0Z1Q0VwSnRQTmNRZElmb3NKZFhiOG15Y09pME1jUjlTc2pVV2lpRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T15:02:50+00:00"
-    },
-    {
-      "text": "What a Fed rate hike means for credit card debt, car loans and savers - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXhjSXBGWXhmcWtYZlBuU0g3M2F1YVJuSGNxNUlWZzE2RFctQVFESVhiLXdnS2I3UU1DaWxRc0hpUXJBZWNDZTZiRXNkcDJScHROamZjYkt6b3E2NERZSnhmSVBob1NoN0NhNW1CdmN1U2NhV2hzMERGWnVjeTVYc0NOYlVTd1Y2d0M0RnJWSWV0aEI0TGhodG9JaHFkSVpIMlpRaVhFOS0zMHRF?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T14:22:00+00:00"
-    },
-    {
-      "text": "Jack Campbell fights back tears in explaining Lions loss to Bills - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWEY0U3E4cUYyZlVTeVlrSlpOakUtbkJTa0Qxd3RSbUVua3dVSW9zeGRPREhKVHBkalM4U1p1U18ya00zWW11NnhNV0wyQ2hraWJtQ2RNcTZSWEJjVkEzalZGWC1KanFlN2g1OFZyR3p1WlJKQ3lGQkgwdmp6MkQ1YjhUZnJ2VXdlcm15ajgyd2lvRmxyZU5kRjI0b1pubDE4Z2xRdnRBV0NiVzEtekJHcTBVU296bzJHSHN3eWdtaXNZY28wd0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T13:57:27+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T16:04:19+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Holdout Juror in Lindsay Clancy Case Says He Didn’t Doubt Her Guilt",
-      "url": "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T15:45:01+00:00"
-    },
-    {
-      "text": "A Timeline of Warren Buffett’s Career Defining Moments",
-      "url": "https://www.nytimes.com/2025/05/04/business/warren-buffett-career-timeline.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T15:33:01+00:00"
-    },
-    {
-      "text": "Why Autocrats Care What People Think",
-      "url": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T15:14:31+00:00"
-    },
-    {
-      "text": "‘The Traitors’ Season 5 Cast Revealed: Kristin Chenoweth, Dominic Monaghan, Whitney Leavitt, and More - variety.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FZWt1Z255UGs5bUhkRGt4aVlxY1c0SmpaUnFVbl93OFNZVXFOUExWMHo2d3pKT0Jtd04zNjROS29sUDdMdWYtcTlwRzMzV0VzZjJlMWN1R2ZUM3BIdzBabW0xc3RNZF9GVWcyZDluRzI3SjRPMlZHM0lMVQ?oc=5",
+      "text": "DHS’s Mullin takes swipe at Florida Republican’s mass deportation concerns: ‘Every one of them was a criminal’ - Politico",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMGZOd0hocERHc1lKRnVYQzJ3czh1Znh0ei1pdno4ekZmdUtuc014MG50Um1aTl9uR1dEWWp6MTFLektJU1IxMlNoTW1HRWc5RjBzZFBoa0s3OFVnejQxeDhtLWtWYmF3WmI1azl1ZXN0TWxDTnNScWl1N1FzVVliZDZ0T0dQaXF5OWpMbXdfZXhxWGJ5RXo0WkVXNThGellkWWpnWGRQaWdaUHAzbE9lVEhIeS14TndRaDYzX01DZF95anBPY0g4cGtFc3ZoRzlRVVlpQjVMNWxiU1JIOHdrV3ZpY1BvMzhGYXdr?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T15:00:00+00:00"
+      "time": "2026-09-18T18:11:00+00:00"
     },
     {
-      "text": "Why Israel Fears This Searing New Documentary",
-      "url": "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html",
+      "text": "Obama's brother-in-law rejects civil rights, racism argument against college sports overhaul - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTV3YU5XMWZEYTlsbndRcDdrb3hUQnFjc0V0dmRhRzZ1M0JnU2JJazN3QV9QMWlWX3BrUnZ3NFB1dXY4RTBDa1FXSmdPNjExOHQ1RjZjbjctLXYxNzl3UzFBWmw5OVZpbk5zSm90Z3UyUlA5bFJuZHJWQ2xZVnpKT0UtS0N5c29XU2MwNXc3RFh4RElfTlgwRUFiT3dKQ2ROSEJmd0lFdzR3OE5Ob1B1VS1CNGwtdWRGZXNveUJodVjSAcYBQVVfeXFMTkpfU1ctaUNPV2RhVzRtRlRwb19kUXBCVWw4VFNwTGxVWnFPMzQ3eE9sa0VoYi1oTFR0UF9PSlUzeFJfLS1aZ3E1WGNwV2ljbXdlNUpIRWRHQlZBTWxhUy1uRURpUHdENFR5cWVHZFBMMzhCU3dOWkd5WG9IRkxaVEdnRzQwcHJaZ1ZaRXJtdEZfSy1EdjdQYjM3NW9QRjVBUlgtTDdJUGFIdFVPZ3JnWG5GeE9lRjJHY3piQk5KR0dhTmNsRl9R?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T17:27:07+00:00"
+    },
+    {
+      "text": "Trump on war in Iran, Houthi advance in Yemen: ‘It’ll all work out’ – live - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOWhvcVJtTTZyUmxhYUN1b2tiQ1RpWFNCQXFDM0ExZFc5TjJya0ZEdXRIb0JLMF9kcmR3ZWg2SnZYSzZMWGRKQVptYWFHeWZZSlptUU90MkJMdG52c3JkV1VncFgyVy1SY0pEbnRJd3p4UGNTRVVKS2VWMmxSenpucDJaOUtLd1dqSng1enlXMllpbV8tWjVCQ0x6NndhWlNBRDNsZU5WZUF6NTFpTzZSNDVjYThzXzJnejQ5U2Z4YmRGNUY4R3VUYXVydGVocGJiUDVoMXpUZzh2bWZjMFBMTEs2TTZZQTgwMnRPNWZVbmZ2VXZrMmZMVjVwNnF5cDg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T17:14:53+00:00"
+    },
+    {
+      "text": "What Set Off the Rise in Interest Rates? Mainly, the Iran War.",
+      "url": "https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T14:14:17+00:00"
+      "time": "2026-09-18T16:41:23+00:00"
     },
     {
-      "text": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
-      "url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html",
+      "text": "Who Is Howard Buffett, the New Berkshire Hathaway Chairman?",
+      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-son-howard-berkshire-hathaway.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T13:47:18+00:00"
+      "time": "2026-09-18T16:16:44+00:00"
+    },
+    {
+      "text": "How this common age-related eye disease leads to hallucinations - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1ZoRnNtSlh1LUQ4c2F5eVByRDBaaDAyRHpaWmNsV0UwQXMxRWNhODViOF9QaU5CUGFQcTNPMmpodW1CdzVEalJ6SWJRZUZWeHFEdDlzdHZhUEZVaTViQ0k3VUF0eFZFTWdKc3hFRXJDLUR1S245R3JZa29YbWlzTjZ4aXB5dlh1RTR0OFpnRjROS0thSUxqWWtMRFhhYS1w?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T16:00:00+00:00"
     }
   ]
 }
