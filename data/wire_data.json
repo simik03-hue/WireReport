@@ -1,46 +1,26 @@
 {
-  "generated_at": "2026-09-18T19:08:04.612242+00:00",
+  "generated_at": "2026-09-18T21:43:06.098193+00:00",
   "lead": {
-    "text": "Lindsay Clancy holdout juror believed she was guilty 'from day one,' didn't have any doubts",
-    "url": "https://thehill.com/homenews/state-watch/6098321-lindsay-clancy-holdout-juror-speaks-out-guilty/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-18T18:58:49+00:00",
+    "text": "New Species of Cat Discovered for First Time in a Century",
+    "url": "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-18T21:40:19+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Judge Who Struck Down Trump’s Compensation Fund Asks: Will Trump Just Pay Allies Another Way?",
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-compensation-fund-judge-alternate-payments.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T18:56:47+00:00"
-    },
-    {
-      "text": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
-      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+      "text": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-18T18:56:13+00:00"
+      "time": "2026-09-18T21:37:38+00:00"
     },
-    {
-      "text": "Wendy's franchisee with hundreds of locations across 15 states files for bankruptcy",
-      "url": "https://thehill.com/homenews/6098417-wendys-franchisee-with-hundreds-of-locations-across-15-states-files-for-bankruptcy/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-18T18:50:11+00:00"
-    }
-  ],
-  "col1": [
     {
       "text": "Stock Market Today: Dow Steady, Yields Edge Higher — Live Updates - WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREJ5Yk9UbmJ6QXV0bVV2cUM3cnF5eGJRTzhpdmpkNmxWTFhfOGpaTXJlZ0JheG4xd0ZBUGNvNERSTlJObG9QejlfVVN2OXBlZGFTYUc1N3lTeUg2M2U4QmhWdFE0X1czSXJrTlk5U1dhOHl0Y2w1by1GWUgwRVplNGpicGhTVkU?oc=5",
@@ -48,43 +28,27 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T18:30:00+00:00"
+      "time": "2026-09-18T21:37:00+00:00"
     },
     {
-      "text": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+      "text": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-18T21:35:55+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
+      "url": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T18:09:23+00:00"
-    },
-    {
-      "text": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement",
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T17:18:59+00:00"
-    },
-    {
-      "text": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T17:02:43+00:00"
-    },
-    {
-      "text": "How Trump Became an A.I. Evangelist",
-      "url": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T16:34:21+00:00"
+      "time": "2026-09-18T21:12:37+00:00"
     },
     {
       "text": "At Gettysburg, a Reporter Captured a Nation’s Loss, and His Own",
@@ -93,27 +57,110 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T16:09:28+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-09-18T20:49:49+00:00"
+    },
     {
-      "text": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
+      "text": "Asus Googlebook shows off a big trackpad and plenty of ports in leaked images [Gallery] - 9to5google.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGV3cTNSZDBFVi1fNUlTbjBGaG1JYk9VaFlWWE52cVF5dk5IcUg2TkFXbFg0WTlJS0JJT3VKR0VlMU1ESTZ6T2FDaEN1dUdVTWk4WWRuazU5X1oyQ3RKNzNlTy01NW90bHhJaFp3bzV6ZFBBT0xUQ3NoMDNvbTNsN1A5NEJDRVc0SUljT1YxVkhSVGNJSTdhdXFpNHN6dWhqeF92TS1oQTZXcHc4S0puZmRSQkJZZ2JjeDRLbA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T20:25:00+00:00"
+    },
+    {
+      "text": "Holdout Juror in Lindsay Clancy Case Says He Didn’t Doubt Her Guilt",
+      "url": "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T20:15:49+00:00"
+    },
+    {
+      "text": "‘American Psycho’ Was Duncan Sheik’s Darkest Work. Was It Also His Best?",
+      "url": "https://www.nytimes.com/2026/09/18/theater/duncan-sheik-american-psycho-spring-awakening.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T19:53:38+00:00"
+    },
+    {
+      "text": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
       "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T18:24:10+00:00"
+      "time": "2026-09-18T19:06:40+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T21:03:01+00:00"
     },
     {
-      "text": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzdjM2JZeko0ZnllcFFLLW40ZEVYUkdVQ1ZBSGdsY0hQYTA2N0k5N05DWDZWcXZTUUR2azNTR0FVdU5Ic3NGSlRxOFVVa1NZMTRtQ01pUVlxMHZmUjBwRHV3LXBZQXhOeURENzVTMFBUVzlYUlJFR0hCZ2EyYUVmeWRJU2RWYnlwd2x0eUc4VkIwT0Q2ak44LW9sekxWVjN4RnZFc3FJb2lWQdIBrwFBVV95cUxNM0p3aFN0SkNZN01VSWd5aG4yLUluUFhOb095VFJBVHkxa0dScWktVW1iQS1vRTk0YkFYRFZOV216UVFBV1puMUQxYkhReDNZU0dtTGlpWWswZlAxUkFORkNkczlsUWd4S0lqb1oxNUc4bUVYRVVoczNzQ0wybm9hbEpzQTdVbGI4X1M5NFRjMGZHZWU5akdXVl9NbTh6Mk96Ymp2Rk9FRTc4c1pzMWFV?oc=5",
+      "text": "Lane Kiffin's visit to Oxford isn't the first time a coach made an unwelcome return to his former school - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOWo2RzgzYUVFanpTWUtaNERSejhBaGcwU1NPRkhjNExXUkFTZ1R5Sk9FclROYXA1amdBalkxaGlzd25MM2VYRTUwdHAybExhYW5Gb1RQYTFfandCeXlWTjd1T2JUTzhKcXRUQmxxbTFWbmdvRlhYbm9nc3B1LXdEY0VremdMSF9XdkFFUnJFWkJEZDl3MHFfUDlQdFRXdnAySnRRZF9CaExvaHJTTFFMZG1hNkxVLXBsWTF3b01n?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T17:41:45+00:00"
+      "time": "2026-09-18T20:37:23+00:00"
+    },
+    {
+      "text": "Trump says he’s banning CNN, MS NOW and Politico from the White House - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORnNreDlBeldEa0RtRE9GTFV2SUdBZXg4Sk5mTjVEbW8tMWVjeUV1SEtZcTBuVG01azY0eWEzQ2ZkTTU5X0kwWEZyN3RWak9yaEtfTTdXR2JXS1RJM0NkeXMwOTd4OG80a3RJRHNwT2ZxczdRMHV1eUdzQVFYMkRZcUVyeHAzNVlwbl9fQnNScjZaS3lrWmNz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T20:24:44+00:00"
+    },
+    {
+      "text": "Why Israel Fears This Searing New Documentary",
+      "url": "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T20:12:29+00:00"
+    },
+    {
+      "text": "Cost of Iran War Estimated at $43.6 Billion",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/iran-war-cost-pentagon.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T19:43:39+00:00"
+    },
+    {
+      "text": "Fantasy Football Start/Sit Advice: What to do with Travis Etienne Jr., Quinshon Judkins, more players in Week 2 - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVktudkVXZkowdEhqRUYyTHRkQTlrN0xwYU1xRkpNSTJjeGxMcGJjWHNNQmRRb0tpRUpWbXF2MVloei11T2U4OWdXSlRSNkYzN0VBMWNoTXBMV2NrWk43cG5hVmlBZEF5SklPTERlVVVYQ29PX2gzRU9xTHFOV1dGZEhtOUxOeDNDZGcyMTJLUndDdVp0dVlWUVZJUTQ5Q0tFSDVObnQ2RWNTdlhkM3dlOUozR0p6UVpTUXF3MGpVZEtiQ1paOV96RG9wYUVqSDlYcTNoVjlUV1JSRkZfVmZPMGhwNncyTko1OFF2X2YwX1QxLS0z?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T19:05:41+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Belmont Park Got a $550 Million Makeover. Will Fans Show Up?",
+      "url": "https://www.nytimes.com/2026/09/18/business/belmont-park-renovation-entertainment-zone.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T21:02:46+00:00"
     },
     {
       "text": "The Kennedy Center Is Trump’s Most Grotesque Obsession",
@@ -122,90 +169,43 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T17:15:06+00:00"
+      "time": "2026-09-18T20:25:06+00:00"
     },
     {
-      "text": "Cooper Rush is expected to start for Falcons vs. Panthers - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVNpbEJKeDVHMzFXczUyN0k4cG9oZTY4QzVhcE42RXd1OEFUMDlRRjZmWmloUW5QWlMyUmRjTGRCWVhqQWJBd2d6SjREUkozUS1oZ0FLNWg3Z3hPdTBtdVlCQ3RIa1EwTlVoLWlOc3ZjWEpyb1Z6Z2FpZ0lMV2R2NkZzQ1ZTeWRJM1RIZ3M3WF9VSXVhV0YyMmotOC1JdEdwN1ZsZ19PZzJtMm12c1prcTN2dlZXTkxidVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T16:42:57+00:00"
-    },
-    {
-      "text": "New Species of Cat Discovered for First Time in a Century",
-      "url": "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html",
+      "text": "F.A.A. to Roll Out New A.I. Tool for Washington Airports",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/faa-ai-dc-airports.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T16:30:04+00:00"
+      "time": "2026-09-18T20:21:00+00:00"
     },
     {
-      "text": "F.B.I. Temporarily Halted Cooperation With Canada Over References to 9/11",
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html",
+      "text": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T16:04:19+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-09-18T20:06:31+00:00"
+    },
     {
-      "text": "DHS’s Mullin takes swipe at Florida Republican’s mass deportation concerns: ‘Every one of them was a criminal’ - Politico",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMGZOd0hocERHc1lKRnVYQzJ3czh1Znh0ei1pdno4ekZmdUtuc014MG50Um1aTl9uR1dEWWp6MTFLektJU1IxMlNoTW1HRWc5RjBzZFBoa0s3OFVnejQxeDhtLWtWYmF3WmI1azl1ZXN0TWxDTnNScWl1N1FzVVliZDZ0T0dQaXF5OWpMbXdfZXhxWGJ5RXo0WkVXNThGellkWWpnWGRQaWdaUHAzbE9lVEhIeS14TndRaDYzX01DZF95anBPY0g4cGtFc3ZoRzlRVVlpQjVMNWxiU1JIOHdrV3ZpY1BvMzhGYXdr?oc=5",
+      "text": "Dow falls Friday and posts worst week since March as Treasury yields rise: Live updates - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zb1FPNjVUSjZxQjBrLTQtUmxMUk1DZVlPcmMyZDk4cy10VXJ1djlDNVJKUVRJcUdQN0t1N1VMZl9pNUdNT3ZLRXpyZkhESDRjdlR0T2EwUFYzSEVyR3ZsaEQzbTlUVno5UzRBTTJCckt4N09xb1h30gF8QVVfeXFMTkNJQ1JtdXJ5cnhhZnB4OERzOFBZS0tkaFNCLTR5TUVGR1VwWEM2cEVKT2dNN0RXRW9BNXJwYl9oN00wSm14b196ZEZoMnpoOVc5NDB6T2UwQ21yV2pVYzZFRWFlTC1YRE1SeC1wLVhEMWU2VGZ1eUZVel9IbA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T18:11:00+00:00"
+      "time": "2026-09-18T19:26:42+00:00"
     },
     {
-      "text": "Obama's brother-in-law rejects civil rights, racism argument against college sports overhaul - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTV3YU5XMWZEYTlsbndRcDdrb3hUQnFjc0V0dmRhRzZ1M0JnU2JJazN3QV9QMWlWX3BrUnZ3NFB1dXY4RTBDa1FXSmdPNjExOHQ1RjZjbjctLXYxNzl3UzFBWmw5OVZpbk5zSm90Z3UyUlA5bFJuZHJWQ2xZVnpKT0UtS0N5c29XU2MwNXc3RFh4RElfTlgwRUFiT3dKQ2ROSEJmd0lFdzR3OE5Ob1B1VS1CNGwtdWRGZXNveUJodVjSAcYBQVVfeXFMTkpfU1ctaUNPV2RhVzRtRlRwb19kUXBCVWw4VFNwTGxVWnFPMzQ3eE9sa0VoYi1oTFR0UF9PSlUzeFJfLS1aZ3E1WGNwV2ljbXdlNUpIRWRHQlZBTWxhUy1uRURpUHdENFR5cWVHZFBMMzhCU3dOWkd5WG9IRkxaVEdnRzQwcHJaZ1ZaRXJtdEZfSy1EdjdQYjM3NW9QRjVBUlgtTDdJUGFIdFVPZ3JnWG5GeE9lRjJHY3piQk5KR0dhTmNsRl9R?oc=5",
+      "text": "Brain-eating amoeba map shows which states have the most cases - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGJEVXdGY2E5MndBZ3F4Yk8tTTE2LXY0TE5vUkNqeW1UQ3hMRm5QT2dyQWpkUEJsd1ZsX0NFdGNBZ1gtbXl1cDdCMWpPZEpkZVNLR3FEajBadzg0UThIMk50aU1WRnlwV2JhelFZRmw2SzdHZkw5Mk5YLUhxWFZ3eHloczF3d0plZWNUSXZEelVqazVFNUpz?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T17:27:07+00:00"
-    },
-    {
-      "text": "Trump on war in Iran, Houthi advance in Yemen: ‘It’ll all work out’ – live - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOWhvcVJtTTZyUmxhYUN1b2tiQ1RpWFNCQXFDM0ExZFc5TjJya0ZEdXRIb0JLMF9kcmR3ZWg2SnZYSzZMWGRKQVptYWFHeWZZSlptUU90MkJMdG52c3JkV1VncFgyVy1SY0pEbnRJd3p4UGNTRVVKS2VWMmxSenpucDJaOUtLd1dqSng1enlXMllpbV8tWjVCQ0x6NndhWlNBRDNsZU5WZUF6NTFpTzZSNDVjYThzXzJnejQ5U2Z4YmRGNUY4R3VUYXVydGVocGJiUDVoMXpUZzh2bWZjMFBMTEs2TTZZQTgwMnRPNWZVbmZ2VXZrMmZMVjVwNnF5cDg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T17:14:53+00:00"
-    },
-    {
-      "text": "What Set Off the Rise in Interest Rates? Mainly, the Iran War.",
-      "url": "https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T16:41:23+00:00"
-    },
-    {
-      "text": "Who Is Howard Buffett, the New Berkshire Hathaway Chairman?",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-son-howard-berkshire-hathaway.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T16:16:44+00:00"
-    },
-    {
-      "text": "How this common age-related eye disease leads to hallucinations - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1ZoRnNtSlh1LUQ4c2F5eVByRDBaaDAyRHpaWmNsV0UwQXMxRWNhODViOF9QaU5CUGFQcTNPMmpodW1CdzVEalJ6SWJRZUZWeHFEdDlzdHZhUEZVaTViQ0k3VUF0eFZFTWdKc3hFRXJDLUR1S245R3JZa29YbWlzTjZ4aXB5dlh1RTR0OFpnRjROS0thSUxqWWtMRFhhYS1w?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T16:00:00+00:00"
+      "time": "2026-09-18T19:04:00+00:00"
     }
   ]
 }
