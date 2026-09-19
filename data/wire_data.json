@@ -1,17 +1,64 @@
 {
-  "generated_at": "2026-09-19T20:29:27.718490+00:00",
+  "generated_at": "2026-09-19T22:27:34.001393+00:00",
   "lead": {
-    "text": "Houthis say they targeted Saudi capital with ballistic missiles",
-    "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+    "url": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-19T20:16:07+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-09-19T22:13:28+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaXV5LWIza0xuckFMcm13VktjbHFpNWc0T2kxRmhTUUh1OTMzTlM4dE9OX2ZVa29PVnQwYVQ4bVUtMHBPZ2c2ODNmODZnQktYTDlaQ0pwaXdUcTVLN2hZTTFTb0x0QW43Qmk1MmkyZjh1bjJ5YkpaVkpYeU1kYW8?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-09-19T22:00:05+00:00"
+    },
+    {
+      "text": "News Outlets Express Solidarity After Trump Bars Some Reporters",
+      "url": "https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-19T21:48:10+00:00"
+    },
+    {
+      "text": "Trump says he will appoint a new AI adviser, without providing details",
+      "url": "https://www.cnbc.com/2026/09/19/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-19T21:42:05+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Vanderbilt recovers fumble with 1 second left to stun NC State - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVM2QXhjYVlMYUEtMmJ4b0lIYkJnU2JfUnQ1ekNTVGJxTTRqamJQdEhJdktwWkV0UW5aWTJqdHhfZFVnbThuOUszejRTOU4tU1pSRXhwOFUxUW5FbXE5b0Z2SXEyOEVhUGJObTNJamlzRGNYWFRGdU15eWNTWTBaOGlRc3pVQjMyYjc5V0sxd0pOMEZLNjhhb1NnY3Vubk5Pa2M2MVJia1JRMVAtOXo0Rkdn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T21:26:00+00:00"
+    },
+    {
+      "text": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm5OcEJPRTNTNExGNHF4djlyWlNHNUhpWXEzNnIyUTl5M2NXeWZXYUl4YXRfaEtIWDRGYUdXMHNIYldhYUlhZzJjZjRHbWZ3em5VeGNyWkxVc2xGUnJwQlpJOFktVUtiXzY3Q0F4UTNwaEFja1RfSnc1ZENweWM2VExlNlNlQ2xYWEF2T2hDRFdYSVRQR00zVTRxMDVmcUIyZEE4ay10VW5URzNjUkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T20:43:00+00:00"
+    },
     {
       "text": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
       "url": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html",
@@ -22,25 +69,108 @@
       "time": "2026-09-19T19:57:56+00:00"
     },
     {
-      "text": "In Significant Escalation, Houthis Claim Attacks on Saudi Capital",
+      "text": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
+      "url": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-19T18:58:53+00:00"
+    },
+    {
+      "text": "M6 Pro Chip Result on Geekbench is Likely Fake - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mN0dDN2dEWk1CNFFwUmNzVkxSS3YwYVF2dUxBSERlR0p6T3E2bndqYTZhUFF1VGVmVHBPLUU3UnJqd3dJV3BfbllPMEx0QUhtRGNYamhjSUw5cC1paUl2VTN4SS1rX1RlLVRvZ2FmNTE0cFJwUTQycTZkcVUtZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T17:59:01+00:00"
+    },
+    {
+      "text": "Google’s Gemini is the latest AI model to hack other companies - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T17:30:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T21:01:56+00:00"
+    },
+    {
+      "text": "CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGJkU1ctMlBmRjBIWUlJQkpUVUFXVjdqUHM4MGQ0b29iZXF6SHh0eTdWWGx1TXdrSGhhNi03NU1IU3VNcXJTdW5BX0N0dUhMd3lRTFdmaTE2VUs4OUJDRFhuNkJfVW5RUWQzUHB2MlpXVUVDaGpXMG04TE1aVEY3OVVsRFNIcVFLMHpZRHIzTjVSNnBTeF9FVmxWZmpHMHIxTU4zenRyQm9xSE9ZV0F1WC00STI4NUkwY0ZEeWdn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T20:37:33+00:00"
+    },
+    {
+      "text": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2lldDl5X2JLbUFvNElfNWs5eG9ZMHl3Um5pYWYyelJCaEtPLUc0b0VNdThfeEFhNWdSclM5b2N3NVhKR0ptaE84Zk05c3VyaldDLWZsT1RZT05BOEVuU21yVVB6UnBkNUE0VTF3dEFmdFZ1b1pZQW5sbEZIUGNDeElaMDFmYmtMd0h3TzFobm9pQ3d5MVZEMg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T19:31:00+00:00"
+    },
+    {
+      "text": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T18:41:00+00:00"
+    },
+    {
+      "text": "California warns of measles exposure in six counties from unvaccinated train passenger - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTR4LUU3MWNkd0c3bUd3X1p6aXh1c2UyR3ZRbWlIMVhYT2VtOENraTBWWWdmeE9BMUN0R1NvdTktbTN4TWpwZEdKa0x5dHlfNE82bHdKM1lmd3pNUlU5Qk1pdHFvUzAtRHc1WWs5SWRwTzFia1lqZ1lSbjlKLUlTc1lpQ2tObFpTeDYwSEpZZkpzMmhZWUhTc3R4eUx6cFV1alRTR1hSWW5zd2pjT0E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T17:58:00+00:00"
+    },
+    {
+      "text": "Ed Sheeran concert set to go ahead after outcry over Gaza - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTlUaTlKVHdTUEN5UVdVeXdVU095XzZNQ0FMcVJwRUV6MHFLR0huVmtKNkxKM0NxTzdZc1drMHBYZVFXZ3JZVFpqYkFzdHJTeTUwU2hvRFpQUEhEbEYxS0RUb1p3cUp3cXJLa0FGXy1mSmpSaGxERVNlUHN1eVEzSjN5MHhDM0lxdVN5dDBUTXhoNVVJSi1veGk4X0tEVk3SAaQBQVVfeXFMUHMzYVdEeWtaTTlIYjRZd3pQNG4zR3hJMGRHSy1FejBLSkxiOVdFTElZWjlYUnQ1WG92OGxlZmlwV0UzVEhaRzZpZ3pteXBVU0ZMWUpxTHpKaEhFdXhGMU5XNVpSYmJwdDU0ZkEzZXI5cE5aZDFQTGRPRC1yM3dyMGwwMmlDbWEwQ0k4T05jRVlqLXBvc01IWDJjaTdVVHo2MzZ5LUg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T17:27:51+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "In Significant Escalation, Houthis Attack Saudi Capital",
       "url": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-19T19:20:17+00:00"
+      "time": "2026-09-19T20:43:46+00:00"
     },
     {
-      "text": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0M1RqdlhDaEtlM0o2NEJqWEgtclk1NWZkeklLQTl2NUFFSEdLOFlPRVp2Mm1Lemx4czFSZnlBRVVhVkh6a0hJcXNQbWtoMF9JUVFKTUR1WVdUczQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
+      "url": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T19:09:49+00:00"
-    }
-  ],
-  "col1": [
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-19T20:35:27+00:00"
+    },
     {
       "text": "UFC 331 fight card predictions: Expert picks, odds for Joshua Van vs. Alexandre Pantoja in Los Angeles - CBS Sports",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelhSU0hFMjhTU3VheGZ4V3BBMGxoczBkWmlrUlJnS2NSeldrUGVuQVNhazdVaDZlZTFlMUllU1hXWnZCUXplaVRPblVnb3pQVUYwSGpZT2VBLWZuYTZnSDNRalcwaEJXdkVTZExkSG5CeDc4QXFadEd4b2J6ZkZsbmpDWGJCdEdGekxrSkpyS1JlZGIzQk5zWFJ5MmFlRi1vWUhEU3lrOFZ0dUVKOUlUMl9EYw?oc=5",
@@ -51,116 +181,13 @@
       "time": "2026-09-19T19:00:00+00:00"
     },
     {
-      "text": "Trump says he will appoint a new AI adviser, without providing details - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5",
+      "text": "Greenland, Denmark say Trump deal won't compromise sovereignty - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T18:34:17+00:00"
-    },
-    {
-      "text": "Google’s Gemini is the latest AI model to hack other companies - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T17:30:00+00:00"
-    },
-    {
-      "text": "A deadly crash and the perilous history of LA’s news helicopters: ‘The eye in the sky’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM2xmZ3hkMzhORm5oLWdVYTRrU2ZwMVVPeUJCZ3c1Y1RTYnZfVkRPeE43MFFUOVpTNlFpMDRURXoyMDhxaVQycGFvUndHX0lPME1lWURYcm4tWnhXSGF6cE9IcDk1RGFBRWRJYW1PTVNPTEpSVVBjaFlJYWF4ZkE4VU9HRzdMNTA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T17:07:00+00:00"
-    },
-    {
-      "text": "Pete Davidson and Colin Jost’s Comedy Ferry Has ‘Hot and Nauseous’ Debut - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHJ1UkZyeWV3TUlvSXZJQTlpOTZQMjZUSm9VNVQtOU15RF9NejAySEk1RE5JQXAxLTR0U3BMd2ctUlhsVW9ZbUpwTjFHdEtyTGd3WjZXYjhWTzRzbGdfdV9DWTRPai01b0lXYTFBMVBEUXhQcXFtOWVGTXI4SkFzN2lwWTB0OWNXdFBuUFVHVDRTZXM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T16:32:09+00:00"
-    },
-    {
-      "text": "Box Office: Zach Cregger’s ‘Resident Evil’ Scares Up $26 Million on Opening Day - Variety",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1pNeXJfYVdBcEJHQjVkWWxydzFSRE42bVRfNHhuVVZJM0JEWEJNUTRyTC1KVndHeERjU1otaXBrV0hJc0pSaWwxRkJ0ZGNDMkI1akRkdEhfUVJnZFI3VF9HUzBWVTRYMDEtZzNDOUZ2MVFKck9mdExab0s1cnZiZ0RPQnVsT012TzJhRUVKc2tLWEdE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T16:06:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
-      "url": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-19T18:58:53+00:00"
-    },
-    {
-      "text": "POLITICO, MS NOW and CNN journalists denied access to White House after Trump media ban - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZjY3bUdfVGRIRl9MQW91ZVRxM3o0dUJTRnJ5Z2ZBYzVVYVE0V1JKdG9PZUdfZjRHUlppTU5tamQ5TDdMakVfdGxHSlNGNzhEcHVCTzl6RHo5YklQRk0xdzY5Y1ZYS1FaN0NvQUdBU05OVGZlaTBELWY2OEpZNGt3ZmMyM1lTRUhGNS1nZEV0TGx0Q19VS1AzVm0yRTVoNlhFVUZIeldmSkxsd0EzUXJKb0VJRHhOcUd4amV3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T18:23:00+00:00"
-    },
-    {
-      "text": "Ed Sheeran concert set to go ahead after outcry over Gaza - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTlUaTlKVHdTUEN5UVdVeXdVU095XzZNQ0FMcVJwRUV6MHFLR0huVmtKNkxKM0NxTzdZc1drMHBYZVFXZ3JZVFpqYkFzdHJTeTUwU2hvRFpQUEhEbEYxS0RUb1p3cUp3cXJLa0FGXy1mSmpSaGxERVNlUHN1eVEzSjN5MHhDM0lxdVN5dDBUTXhoNVVJSi1veGk4X0tEVk3SAaQBQVVfeXFMUHMzYVdEeWtaTTlIYjRZd3pQNG4zR3hJMGRHSy1FejBLSkxiOVdFTElZWjlYUnQ1WG92OGxlZmlwV0UzVEhaRzZpZ3pteXBVU0ZMWUpxTHpKaEhFdXhGMU5XNVpSYmJwdDU0ZkEzZXI5cE5aZDFQTGRPRC1yM3dyMGwwMmlDbWEwQ0k4T05jRVlqLXBvc01IWDJjaTdVVHo2MzZ5LUg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T17:27:51+00:00"
-    },
-    {
-      "text": "Secret contracts reveal undisclosed terms in Trump’s drug-pricing deals - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVFhT2dTR0Rzbi1aS2xxbFJESUtLSzN5QkVqckZrX0hEV19MTkgtUDY2LWdfZ1pSdW41clEtZm5oWUxIOGdkMU4tejM4UmhZeU11aWhfMWNoVHJsNGxsTGZ5cFJhQVp1eDV4aFg2Z3pHMDF4STlOQVJkcE42ejl4dDFHVXR2Snl5aGlHVFpGT2FHWDhkRDF3czhVTW1raTJzWkdFSmFBRlFpZDVhSnlSYTVsRjA3VWY3bG0w?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T17:00:01+00:00"
-    },
-    {
-      "text": "Trump Says His Son Will Pay Back Russian Businessman for Wedding Party - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZU5wOXE3YmlURk5JXzBBLXliakg0Yy1ZSEptSXVYQ2dGQU1QQzRqUjd0bFJTcmI1UGhZV1BFT3o4TEZFd0RtNXVib3ZNaVFtZlFCUnNwRVZ2TWNQclFIWTVTMmlBQmJLQVNDaGVONWhDNzNFcWU4Q05FLUpmRFcxUHJOUWFxa3FJYTZxSTlQUjVraUZZbFoxcjVOSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T16:29:59+00:00"
-    },
-    {
-      "text": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
-      "url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-19T15:41:02+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T18:41:00+00:00"
+      "time": "2026-09-19T18:33:10+00:00"
     },
     {
       "text": "Newsom Signs Bills Meant to Prevent Trump’s Interference in Midterms",
@@ -172,40 +199,13 @@
       "time": "2026-09-19T17:37:33+00:00"
     },
     {
-      "text": "Thousands protest Kennedy Center closure amid fears Trump set to demolish institution - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVFBudHBxcF9JWUtvbF9VZ2Y5NHhMVHF0QmItcW5BdVctMjJtekJNTHU0cERGZHQwMHNYLVAtVElYSWVabEZmZTQ1cGpVaW8tZ3ZVV29YQjBGM1RWRFRYcHRhWWVxTjRMQkphRHB0T24wTy16a0d3emJMbUVidDcyZVlJd0xpdURwaVlqdk5vNHNNaGFwblQ2XzBaWFA0Zm1qOGw1UmhmV1BCd0djQXpJUzZMRXZvWTZKbkp1bGpqTXlNWnR2X2hMb19oUldkRXVFZV92R0FrcVRqX1FUS2VjSw?oc=5",
+      "text": "A deadly crash and the perilous history of LA’s news helicopters: ‘The eye in the sky’ - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM2xmZ3hkMzhORm5oLWdVYTRrU2ZwMVVPeUJCZ3c1Y1RTYnZfVkRPeE43MFFUOVpTNlFpMDRURXoyMDhxaVQycGFvUndHX0lPME1lWURYcm4tWnhXSGF6cE9IcDk1RGFBRWRJYW1PTVNPTEpSVVBjaFlJYWF4ZkE4VU9HRzdMNTA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T17:14:00+00:00"
-    },
-    {
-      "text": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVU1LUjNMcThjZVdmdE9seVR2cVkxYkE2b1NvR1FMakFzMlNWRFBHN3N3QTJyZTlIOGNSM0k2UkVGbXVNdlZYcGFMM3FaazQyY2tBWDE1eldPRlZnak5YUEZpOFFnOTRmZnF3WW53aU5PM2tMd2s1RHVoQlRLRnhwMEFvd2JBWkNFU05nWWk5d2JOV2Fpck0tT09XeXo5YXJmWTlQUW9FemJFandJN19VLXpqVmhUQdIBuwFBVV95cUxOTHl1X2Y5eS12U2d3eXZScEdIRk9rSDlrNmc5elVxaTBXOFdUVHhxcDZZc3o4UmF2WExpYTJ5LUprWjVLNkdfYVdlLXhIbWNfNC1IVFI0dFRxRnV0ZklweTgzWGdxVkU1eXR1UFlIUUVIMUtyeUNYa0prSHFxLXRxTTBPTjY0OWxOOEpXd1Y5TW1SSzV2VVl0Y1REUzU2UDRBWUVDclB2aFVXWXJBU2FlQWZDZF8xenFEZnVV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T16:44:53+00:00"
-    },
-    {
-      "text": "Here's how Apple circumvented the battery shipping restrictions for iPhone 18 Pro Max - GSMArena.com news - GSMArena.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2J2dzNLMHNGclc3SDhOWnYzZ2dFVFlaQzBlNTMzeTBjMGl0TUNDd3NnVW5CS1AzLXZoNTBodEVqWENhd3picEd1R1pCVlVFNlVzSFI2eWRwa3V3djd0X2tiOENoV0Vyb3dseGtOM2FvV3BMRmxqNFp5RjJlU2tqU3pKc2d0OElnazhiRnFSbDZJc1lPa3lJSHkyTGlMQXhCRGtYLTlHdGRDTHp6ZVhhTmxucThmQdIBsgFBVV95cUxQRXJjOU9CN1RiUkJMWklFR3VEd2Vmc2FRUXRsOFM2OEM3ZlE5ZDc0d21vbkducnNzNUp2MGRPTGFvcFRBUG1tSzl4c3hzVWt2RkZibWFQNzJ2YkNOaEQyeFpIWVVkRm53RGZ2TU80TlZXSlZXSk5DUVFYRkFFOHZ3ZWxvUTkzU0Y5TTB3aXBRY2tGQjIyQmt3MGVXYnpKaU9UMjloQWphY0VKbEtzZnVYRmlB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T16:09:02+00:00"
-    },
-    {
-      "text": "Denmark's leaders are cautiously optimistic about Trump's announcement of a Greenland deal - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmw2bGhWR1ZlemVQbEdTSXNDR0lZVTdUX3VmdWgzb2NteEx0SmhIRmpxTU4xT1V5aWhuQW1aZmszemRtTkh6andTcDNWcUZyc2Y3Q2hwX25hMlUyVVliaElXSzluQVJZMkJsemVXZEVFeF9xM0xFNGJyZndBUDNpUmJMQUJUU21RcVBodUNYNE1ibTJnVE8w?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-19T15:31:00+00:00"
+      "time": "2026-09-19T17:07:00+00:00"
     }
   ]
 }
