@@ -1,63 +1,90 @@
 {
-  "generated_at": "2026-09-18T23:38:07.552016+00:00",
+  "generated_at": "2026-09-19T01:39:28.820753+00:00",
   "lead": {
-    "text": "Pentagon’s count leaves out some deaths in Middle East during Iran war",
-    "url": "https://thehill.com/policy/defense/6099284-pentagon-omitted-service-member-deaths/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-18T23:31:51+00:00",
+    "text": "The Kennedy Center Is Trump’s Most Grotesque Obsession",
+    "url": "https://www.nytimes.com/2026/09/18/opinion/culture/kennedy-center-trump.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-19T01:10:30+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump says he is banning CNN and Politico from White House",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-18T23:26:48+00:00"
-    },
-    {
-      "text": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
-      "url": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-18T23:14:10+00:00"
-    },
-    {
-      "text": "CDC director says RFK Jr. has final say",
-      "url": "https://thehill.com/newsletters/healthcare/6099295-cdc-director-says-rfk-jr-has-final-say/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-18T23:08:12+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Trump and leaders of Denmark and Greenland announce plan to sign Arctic security pact next week – live - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOWhvcVJtTTZyUmxhYUN1b2tiQ1RpWFNCQXFDM0ExZFc5TjJya0ZEdXRIb0JLMF9kcmR3ZWg2SnZYSzZMWGRKQVptYWFHeWZZSlptUU90MkJMdG52c3JkV1VncFgyVy1SY0pEbnRJd3p4UGNTRVVKS2VWMmxSenpucDJaOUtLd1dqSng1enlXMllpbV8tWjVCQ0x6NndhWlNBRDNsZU5WZUF6NTFpTzZSNDVjYThzXzJnejQ5U2Z4YmRGNUY4R3VUYXVydGVocGJiUDVoMXpUZzh2bWZjMFBMTEs2TTZZQTgwMnRPNWZVbmZ2VXZrMmZMVjVwNnF5cDg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T22:49:18+00:00"
-    },
-    {
-      "text": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-      "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "text": "Steven Kolb, CFDA Head, Resigns After Confrontation With PETA Protesters",
+      "url": "https://www.nytimes.com/2026/09/18/style/steven-kolb-cfda-resignation-peta.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T22:32:05+00:00"
+      "time": "2026-09-19T00:56:37+00:00"
+    },
+    {
+      "text": "Russia Holds Stage-Managed Elections",
+      "url": "https://www.nytimes.com/2026/09/18/briefing/russia-holds-stage-managed-elections.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-19T00:53:59+00:00"
+    },
+    {
+      "text": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-19T00:53:27+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-19T00:53:23+00:00"
+    },
+    {
+      "text": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+      "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-19T00:31:38+00:00"
+    },
+    {
+      "text": "Two Centuries On, Smithsonian Connects Jefferson’s Hair to Hemings’s Children",
+      "url": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T23:45:28+00:00"
+    },
+    {
+      "text": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+      "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-18T23:38:22+00:00"
+    },
+    {
+      "text": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWVudVZFMERYYlhsNEJxTFdxZjlYaFFLZkZPZF9zTDJ6dEItZDRfUngtOGVvNm1HQnNHUVZhVl9RMkYyNzF2YTFQNTBmcHFYVC1RMXFzeFhoR0ZqVlNDZVdCaXNDYUROVTVhNXpxSlotTGJTRGJPQXBqdm8ydm93VVk3YkRRdzl4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T22:44:00+00:00"
     },
     {
       "text": "Republicans Are Now the ‘Elitist’ Party, Voters Say",
@@ -67,92 +94,45 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-18T22:16:17+00:00"
-    },
-    {
-      "text": "Trump Has Tried to Ban Reporters From Government Spaces Before",
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-bans-media-white-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T21:57:48+00:00"
-    },
-    {
-      "text": "Yankees To Place Aaron Judge On IL With Calf Strain - MLB Trade Rumors",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdkhBLW5iXzdnblJGXy1FREFEalk0MkFaLWFwek1nOF90eDZ2ZVQ2SVkxWm5GNnZGd182TXZ4ZVVoYW1sTDNvMVBDaUlVaEd5V3F4cjV5YkxVT0ltSDdManFJMDNEWUFVNVhWUTBXVU41cU5PUXNRRHhaajYtTnh4TWNWMlVXaE9UXy1HNXltWTRFamhHSlY5YUtBcw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T21:23:34+00:00"
-    },
-    {
-      "text": "Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds",
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T21:03:01+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
+      "text": "A New Buffett Takes On the Task of Preserving Berkshire Hathaway’s Culture - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWRUcUhDRzZmdXFnYWtRamlSNUNJaVlORHdKMHFjTHBGaFZvci1WcUk4Y1BXSjVSc1VoaXdOSjNmSEhnenR4X0hvV1hTampMTVppUUNCNVg0aEVvMU9jWmlRSUxDVUVTYVVmSXpNcGFGcjNYUnlpR1BhTTduSzVXLXowc3J1cl9ITEo0Z2huRGIySzJ2bktoaG1iRm1pWFB2RkdWNFhMNVJiWE5GblRJ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T22:38:44+00:00"
+      "time": "2026-09-19T00:34:00+00:00"
     },
     {
-      "text": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says",
-      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
+      "text": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T22:22:00+00:00"
+      "time": "2026-09-19T00:23:01+00:00"
     },
     {
-      "text": "'He's Dust': Ole Miss students rip Lane Kiffin as LSU coach prepares for hatred in Oxford - foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEhwQm1Ec2RwOFBFQld6c2IxcFNlbkxvWTZfQlBOeVE2RVJ0Z2VOQlh1YUV1bXotVnZNNld1N1lDVGpPbkhydVQ0MFJmdGFHVmJHTG1WT3d5dng2MjlLaFpqbUZ1dDhuUWp1Q0dQNGh5LTc5Wjh3OWhjLUFYeDVEQnBNdzNaemVCTWtValZ3Y1g0U3I1WGtsR1hxRHNBNjBGUXlRcy1tYk5MejhoWmpOTVJxOXI?oc=5",
+      "text": "Paramount Negotiating With State AGs Ahead Of Antitrust Suit Settlement Talks - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0lXbm9nQXYzMmpNeVhEZ2JMMF9OY1ItdVYyd3ZmMjRFZC1LN2hJaDRDNWhsSXFwb250V21wR3A1T0JtbzM0eS11Wmd3S3ZHZFlaeTFkeDFRNm9QRU1ZcWJUYURuQ0pJR1d1MnJfNVVhMUVQSjhPNV9DUW1HNTNrWjMzZWd1TjJU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T22:11:39+00:00"
+      "time": "2026-09-18T23:44:00+00:00"
     },
     {
-      "text": "NASA scientist discovers largest, newly formed 'once-in-a-century' moon crater after asteroid impact - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWItYi1telBOSzJvWlNkRTA0enBQVjVhSU1INkM1WUJrWGI4c3FvS19HZEFPbkYyNVNURHpHMER6RHJhaXlVT0tOMnBrT0VxSEZ4OEZIakdLUGN2OC1qMWRrTGoxZjZmSG1GS09sY01UR1ZaRDZKNFRJVE01QU5vRFlfbUFZZkhkcVHSAY8BQVVfeXFMUGM3Um1jUXVZNXR1TGpYNUpxQkJkc2ZLdzZ3bngzVTVnbk8zLUdZSU5HSHl0T2pHMmFJVVFob2RNU2Q2Um55WWx0MGJ5V0VaTjdjSWx1azFZSlR3TnRKZmJYaVI1dkYyQVgybUhXTmh1WFZzdXFCM2hiVFd6S00zX3JqYXc1RnZzOXJ2TmFYOTA?oc=5",
+      "text": "Trump and leaders of Denmark and Greenland announce plan to sign Arctic security pact next week – live - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOWhvcVJtTTZyUmxhYUN1b2tiQ1RpWFNCQXFDM0ExZFc5TjJya0ZEdXRIb0JLMF9kcmR3ZWg2SnZYSzZMWGRKQVptYWFHeWZZSlptUU90MkJMdG52c3JkV1VncFgyVy1SY0pEbnRJd3p4UGNTRVVKS2VWMmxSenpucDJaOUtLd1dqSng1enlXMllpbV8tWjVCQ0x6NndhWlNBRDNsZU5WZUF6NTFpTzZSNDVjYThzXzJnejQ5U2Z4YmRGNUY4R3VUYXVydGVocGJiUDVoMXpUZzh2bWZjMFBMTEs2TTZZQTgwMnRPNWZVbmZ2VXZrMmZMVjVwNnF5cDg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T21:49:00+00:00"
+      "time": "2026-09-18T23:36:51+00:00"
     },
-    {
-      "text": "Russia Holds Stage-Managed Elections",
-      "url": "https://www.nytimes.com/2026/09/18/briefing/russia-holds-stage-managed-elections.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T21:20:02+00:00"
-    },
-    {
-      "text": "Vigil at the Kennedy Center expected to draw about 1,000 supporters - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmxHMG00bUY0M0VDVHJHenYtdXhCVXdPRmxjTDN0OEhEWE5QYWlnUEJzeFZFV1pYMFhjWWlCNU1yZk1IQlBMcHdybzhVYjhLV19peUlwWDg1SUZGVWRmZFdIdFprZG83Ym02dWQ5T2RZV2FVY0Jpd3RqaVFxZU5sY2kzb3ZKZGJTRUZUeDlIVnVRVGRkcUw1TUotNDZib1VDWGY4aHdxei0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T20:52:05+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "Appeals Court Restricts Trump Administration Deportation Effort",
       "url": "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html",
@@ -161,6 +141,53 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-18T22:38:43+00:00"
+    },
+    {
+      "text": "'He's Dust': Ole Miss students rip Lane Kiffin as LSU coach prepares for hatred in Oxford - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEhwQm1Ec2RwOFBFQld6c2IxcFNlbkxvWTZfQlBOeVE2RVJ0Z2VOQlh1YUV1bXotVnZNNld1N1lDVGpPbkhydVQ0MFJmdGFHVmJHTG1WT3d5dng2MjlLaFpqbUZ1dDhuUWp1Q0dQNGh5LTc5Wjh3OWhjLUFYeDVEQnBNdzNaemVCTWtValZ3Y1g0U3I1WGtsR1hxRHNBNjBGUXlRcy1tYk5MejhoWmpOTVJxOXI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T22:11:39+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Trump criticizes Republican who said immigration enforcement had ‘gone too far’ - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWWZTUGFiSHVNR2VqaTNBNW8xTVVCV3JDclBCSjd4UktHa0s3U1FWdTVKcUdUajJNQ0FiUHR2NHhCU242YUJPZ0paLUpuMEc3SVU4WkxKRmlqRExST3N2M2pYcmZGQ1FsZnJEbDZxS093SzRUc01Md1Bsd2VOM3ZiN19PYU9RWDdzMWQ2SUo0Njc2VVR2ME9JbmNvbVU4RTh4S0NqQUdpUHhhOGxnZ2NKd1FsUVlpOFBQRG41U243c3pZVGVCTGgwTXpjdDZBbEhoN25IRVdyUm81V3FwSHl2bGx2YkdNc01QSWQ0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-19T00:33:10+00:00"
+    },
+    {
+      "text": "Kennedy Center Supporters Rally Amid Fears of Trump’s Demolition",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-19T00:16:49+00:00"
+    },
+    {
+      "text": "Dropkick Murphys' Ken Casey Says Ed Sheeran 'Took the Knee' With Macklemore: 'Doesn't Sit Right With Me' - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTFjQmM3OWo5by1qNThhZnJybVFjTHBsNFZaR25neUd1WkhJNWlZSThYMUV0M1FqRXE4R1BZazZaVGIxR1RQZG9oR2dEclBWVHAxSnhvMDdpQ3lDVWtseWxuSUdQWERMdjVKdDMtM0trT0tqcjduQThma205bzgwclR1ZXVwZkdtTWtieGxZWmtEUzFsTmJrRGNQOE1sWnExMlJRdG5URVFlbEJjc0pxTHVxVnd0U2c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T23:38:47+00:00"
+    },
+    {
+      "text": "Trump says he will demand drug companies split up vaccines into more doses - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-18T23:00:26+00:00"
     },
     {
       "text": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’ - Al Jazeera",
@@ -172,40 +199,13 @@
       "time": "2026-09-18T22:21:52+00:00"
     },
     {
-      "text": "Brain-eating amoeba map shows which states have the most cases - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGJEVXdGY2E5MndBZ3F4Yk8tTTE2LXY0TE5vUkNqeW1UQ3hMRm5QT2dyQWpkUEJsd1ZsX0NFdGNBZ1gtbXl1cDdCMWpPZEpkZVNLR3FEajBadzg0UThIMk50aU1WRnlwV2JhelFZRmw2SzdHZkw5Mk5YLUhxWFZ3eHloczF3d0plZWNUSXZEelVqazVFNUpz?oc=5",
+      "text": "NASA scientist discovers largest, newly formed 'once-in-a-century' moon crater after asteroid impact - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWItYi1telBOSzJvWlNkRTA0enBQVjVhSU1INkM1WUJrWGI4c3FvS19HZEFPbkYyNVNURHpHMER6RHJhaXlVT0tOMnBrT0VxSEZ4OEZIakdLUGN2OC1qMWRrTGoxZjZmSG1GS09sY01UR1ZaRDZKNFRJVE01QU5vRFlfbUFZZkhkcVHSAY8BQVVfeXFMUGM3Um1jUXVZNXR1TGpYNUpxQkJkc2ZLdzZ3bngzVTVnbk8zLUdZSU5HSHl0T2pHMmFJVVFob2RNU2Q2Um55WWx0MGJ5V0VaTjdjSWx1azFZSlR3TnRKZmJYaVI1dkYyQVgybUhXTmh1WFZzdXFCM2hiVFd6S00zX3JqYXc1RnZzOXJ2TmFYOTA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-18T22:04:00+00:00"
-    },
-    {
-      "text": "New Species of Cat Discovered for First Time in a Century",
-      "url": "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T21:40:19+00:00"
-    },
-    {
-      "text": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
-      "url": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T21:12:37+00:00"
-    },
-    {
-      "text": "At Gettysburg, a Reporter Captured a Nation’s Loss, and His Own",
-      "url": "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-18T20:49:49+00:00"
+      "time": "2026-09-18T21:49:00+00:00"
     }
   ]
 }
