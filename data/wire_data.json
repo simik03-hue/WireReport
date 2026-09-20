@@ -1,34 +1,146 @@
 {
-  "generated_at": "2026-09-20T05:18:24.660435+00:00",
+  "generated_at": "2026-09-20T10:02:14.622065+00:00",
   "lead": {
-    "text": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-    "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-20T05:04:54+00:00",
+    "text": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+    "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+    "source": "NPR Politics",
+    "lean": "left",
+    "topic": "politics",
+    "sourceNote": "Public radio, nonprofit newsroom.",
+    "time": "2026-09-20T09:16:42+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Watch: Fans cheer as Ed Sheeran speaks out over Macklemore controversy at show",
-      "url": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-20T05:01:47+00:00"
+      "text": "Pennsylvania Measles Outbreak Leads to an Increase in Vaccinations",
+      "url": "https://www.nytimes.com/2026/09/20/us/measles-pennsylvania.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-20T09:03:12+00:00"
     },
     {
-      "text": "We’re Not Losing Control of A.I. We’re Giving It Away.",
+      "text": "In Fighting for Every Black Child, Did I Betray My Own?",
+      "url": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-20T09:01:41+00:00"
+    },
+    {
+      "text": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+      "url": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-20T09:01:40+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "How President Trump Broke the Kennedy Center",
+      "url": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-20T09:01:23+00:00"
+    },
+    {
+      "text": "This Is What I Fear Most About A.I.",
       "url": "https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-20T05:00:06+00:00"
+      "time": "2026-09-20T08:14:03+00:00"
+    },
+    {
+      "text": "Republicans Seize on Democrat’s Defense Contractor Ties in N.Y. House Race",
+      "url": "https://www.nytimes.com/2026/09/20/nyregion/cait-conley-lawler-ny.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-20T07:00:05+00:00"
+    },
+    {
+      "text": "A cathartic win 293 days in the making: Hanging in The Grove for Lane Kiffin's return - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek0yM3RzN1A4VUNPX29yRXJwSHljel82aHpFdUxxa2pmRnM3dTNZMEhXMm5nc2hGZENNUmJHQmo3ZzJhVFBKRlJEcXBGS2JGcXJGSjMyS25IcWFFZ25MWElLRy1xVUVJb3FMa1VwcHJFbXFMaEJEeUJEYk05Z28wOHlxM19BSE9aNU1pSEZqRmcyTkZsOXF1V2w2Yw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-20T06:00:00+00:00"
+    },
+    {
+      "text": "Burned Out and Unemployed, Young People in China Are Launching AI Startups - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-20T05:21:42+00:00"
+    },
+    {
+      "text": "Horoscope for Sunday, September 20, 2026 - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVM0dU56djRaT1l5M0wtUjBxLXFPMUY2YjhjMzQ4THhUaS1MLXlUUWoyR2VaNTRuXzV3cmZSejlFc3NvY0gtemFtZDl6Njh5OXpYbGhQQWJLcHlDT2pvY1pNeUtjSUtyN3ozbWRsSTE3MzNOZ2xUb2p6NVd0MVFtNk9wX1cwcE9INlZ6b0VkcnNhb3F6R2dr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-20T05:01:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Troy Jackson, a Progressive Brawler, Tries to Flip a Senate Seat in Maine",
+      "url": "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-20T09:01:15+00:00"
+    },
+    {
+      "text": "Jack Avery Fights Ex Gabbie Gonzalez's Latest Bid to See Their Daughter - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEo5b28yNkpEc3NUUFktenZ4ZHNINnM2anBfUHd6aHNoSWViSmF6RWE3ZTNoRlI3bG96Z05na3FIWllqek5kelQ0aVdnRF9pR3N3VTZwd3ZTaWVzdHAtNjhwVDdUUnVRdUhDNWZTQzJDTHFhSUhBVTVJai1BU3Etb2laRzYtVk9x?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-20T08:00:30+00:00"
+    },
+    {
+      "text": "California officials warn of possible measles exposure in 6 counties due to infected Amtrak rider - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRm02a2FoSDdBUU45OUthaGVUcE1UY2NqSlpSYWxIM1hDV1Z3dDNrWDBHRzFQeDY1V1pwOHkwc0xaWVVyYlNKTTEwQmxuNlpNWG4xWjhGYXVEMHlpeGIxUUh4eWdTZU5Da0pGbEJKcG44NUxYNTZEMGJPSWRBWDhzZFR5UVp3U0RpQmlNMVpTM2NhNVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-20T06:49:00+00:00"
+    },
+    {
+      "text": "Two German states go to the polls after far-right gains - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0pzS0VlR1BEa0tfZ0laeE1fdGM3VjAtT1U4Tnh6OUgxRm85c2ZWa19XdGhWWlltckh5VEdaSWtfZGdaakJnOXJZUEZtSmMxVWJObF8yenBFRWZ3YV8tRzEwaDNUZTEyN0tER1ZfS3hfWkJjRnN4SHN6MkFidjdEeTdCVGVKbEsyYzRGVEcwUjBlMFg1cjFoUXlidEPSAaIBQVVfeXFMTUNaZkIyRk9iMUV3U2o2Rm03QzA1ZXdaVnBVT25DeUhhbGQwWWs3Y3pZeVliZHJFSDRhNWo1Z0Nwa0I4RDg4QXhkSXJwSVpPaXhzdDZyTko4cjJKdGxPcW1JSGhPN0dja1JRSUk2X2EzRDVQUWZoelZzaENLcmVkYTV3aVBLbTVnV2dEQjJOSXVtcm5uS3QtZWVTQmttaFRUZkZB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-20T05:48:08+00:00"
+    },
+    {
+      "text": "College football winners, losers: Alabama QB Keelon Russell has arrived, Texas A&M faceplants - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3FnQTlXV1ZQODVfT2JCSk1SSHZ6bjVwWTBUV256T09LMDdEWmZ1bFRSRXlWVlFsR2RReE5NMDQwWDh4Y290OUNsOG9pc1F6ajNncVpsdmdUSEYzMzc2eU5xMTV0MW9iSy1teHJwdVI1STN1RkNRZkpTWFhmX2xrQmptUjRSQzlmdk5Ca1ZKUnRGSkdHOVpqWWhjdkx0ZWFxT0xGVXRNcWpQcXpCcm9mX3hqZlNmTVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-20T05:18:00+00:00"
     },
     {
       "text": "The End of American Exceptionalism?",
@@ -40,172 +152,60 @@
       "time": "2026-09-20T05:00:06+00:00"
     }
   ],
-  "col1": [
-    {
-      "text": "Ole Miss, Chambliss spoil Kiffin's return to Oxford, upset LSU - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQellyVXVWZjRHY0FZUC1pbUF2VzhXVm1IaVl4SlBjYVc0NGZjeWtoRDBPNmhFVXI3QlFhTlJyUjBfX2ZpV1FTZzg1ZldSZGZ0Ty1KOHBNVHJzYkZYR1FyRjBmVWp6bmZaSFJCbk5RQ2hKZl9qT2EzS1FYU3hEQ3pjQ3hpVUd6ODAwd1RYdTJZbEQtYV9iY1BBcjVIR0I1bXhmOVd2Y3NuMG9DV2VFRE1GMk9NUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T03:39:00+00:00"
-    },
-    {
-      "text": "UFC 331 live updates: Joshua Van vs. Alexandre Pantoja 2 results - MMA Junkie",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdW5jZXZzTHlPRG9HUTlCc20wNDdiTTJQRUp0OGozc1gwWVVnSnVJeURUc3hlN3A2RkhhMWloRnIwc0xSRTlkR1RGVGNqblR3TEh1eE1TR0FwMmZkay02amlhUW9VUjVnT3lFZkR0REtnZlFkMDBXVW9CbkNfT1FBZEtNZUFNQmdVNjVrNXVvVmd4SmwwRmZzaTdEeW04MkplQ01uYTktZ3FyaXdzcWk0MUZ2aG42aFJ3SGsxUGxpMG40ekdEZkllWGswR1ptOGZjUG5WQTRvdVQ2Y0ZsYnJBYUU1RWRJOW45dFNmYWE3aGJMR0R0NkdweDJDRWxlOVFMWW1pQ2lCNkNIQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T03:07:00+00:00"
-    },
-    {
-      "text": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
-      "url": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-20T02:39:25+00:00"
-    },
-    {
-      "text": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWdwLUY4cGVyaDVQcXdGb1Rfa2J4X1VkQ2UyakVBQk5sbzMtTG1PZk1rMk9ZbHRXclA1ZlpveTlrLUQ5R0V5VUphbENyM29Bc0w4YlUxVVRyQk9DT1g0ZlY1S0d4a1hPVXVXWGVXRzFoWEt0Qi1iNGVCQ3JKWTRJV1UxU3dMTjZUZ2tabkVaRU9iR0xodjZaLU5iU2xlb1JsenpnQ2lqcl9CbzNXZURV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T02:13:51+00:00"
-    },
-    {
-      "text": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3ZQdTJKbzNUNVFFeGV0NG0xYTlhTURSZ24wTGRxWUVsNFc3cUswUHpFWWFuM0piU1kxVmZlWURxbnZkT1Zvc0gxNHZPaVQ0di1hTmRoTDA1Z3Nib3phUjkycVIwN3czNlBDZl9tb2tpZ0liSVItaGVpQmpBUTEwSDl5UnZOTnhZdlh2UjcyRjAwSkFGN0N1UjBPcWp3NVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T01:46:00+00:00"
-    },
-    {
-      "text": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
-      "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-20T00:37:08+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "The Rise of A.I. Is Raising Threats From Drones, Police Group Warns",
-      "url": "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-20T03:35:54+00:00"
-    },
-    {
-      "text": "US, China Trade Teams Set to Huddle in New York on AI, Iran - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTUxdmFkX1BreWRBbXV5MlhmbkMtYVJxZmNhbHBFUUpHWG1ndFo3QWZrb0h6RzJFRHJoVl9TZUNMUkMwTE5rZnl0MzJaeVhrakNndFZHaGpLOTlick5GS2tBdEFYSGZLMlB6aUNuNXBUbjA5T2VIdVhpUDF2UFFrZmpFZnp6UGhSdnpwOVl5aVlQemJ3cGdfSTJkeVRfa2ZjemVUdWQ2a2Y0Tzh5?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T03:00:00+00:00"
-    },
-    {
-      "text": "Ed Sheeran says situation in Gaza ‘unjustifiable’ in first show since tour plunged into turmoil - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnRQUDUwUVktZU85Y196R2IyMGVJVVVFbWtRem9rQnhBT3NsZGJIa0NMSlY5RHpIel9GUmJsUDVKZ1E0ZlM1YjV4d2pDVnpTS2F1bnNfTW02T3hIb2x0MHI3S1d3N3VwTHVaRHdXYkFFMXB6WXlvR2tnUS14MWZqNG5BRnhsT2xEUHJ4MTNVVEFtdjRMUDNQcFRPRDVNaDk3dnBtd0dTbllRcGdtZVpvcEZNc3RWQzVBWGtacC12X0dUTW5PU3N6WA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T02:31:11+00:00"
-    },
-    {
-      "text": "An SUV slammed into a city bus, then the news helicopters took flight. How one tragedy led to another - CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DZ2JtSFg2UXlrbm85aVVaeC1vX0syMFVfSURlMlZhQ1FJbkU5eXdMWE9yZ1hHUkZkaGZxQi05akVtV3pRMHllV0x2YkNSV084NzZzVkRVZklkVjZEYm5mRWFLVXZyOTdkajktQU5lUGdWUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T02:07:00+00:00"
-    },
-    {
-      "text": "'Devoted' father and grandfather-to-be swimming at popular beach killed in suspected fatal shark attack - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXRoSktwdXRxb3RqRlZMZllZdzhKM2lVOVE2WEJ4NVNPYURYMldnVTRuOHpfOEl4YnFCRVE2cjdBdHdwaXlNMVYtS1Z6V0tqQ19GRlYwdmNTU2dEU3JhRDlVV01PY2tleWF0SEROT0cyNDJKdW5Qb0tNMWRjUzd6VS0tZEcxeVA4Wi1FNlVYZDgtcjRjRXNYQjFnb3pRVXVJRU5GMTY1SW1lZFVDYk85bkdDV0ZCQ3V2TU9pM2Jn0gHDAUFVX3lxTFBkMktvUTEtM1piajNFQjFONkRqNlk1YVZEd0FuUGNwOEV4RXdDRDVYcjl0S2MzaFlkRl9IQnZNUmh6Ym5jNlJ0b2g2ZS14dDNkbk9ySC1BSlZFUUtERUxBb09VNVh2VklRQ3dVU29WNmtfU3Y4NFloMjJIUnV1VHJUNFdkUFpVSm1wY0F6SnBIXy10ZkZDRHNuNElzbGhqWUVVQTVMSW9sUVN6Q3g5TWV5WnRxYVpGa0xNelkyTmsxbXdsOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T01:32:17+00:00"
-    },
-    {
-      "text": "A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’",
-      "url": "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-20T00:19:34+00:00"
-    }
-  ],
   "col3": [
     {
-      "text": "Ed Sheeran Addresses War in Gaza After Macklemore is Dropped From Tour",
+      "text": "Mistakes? We’ve Made a Few",
+      "url": "https://www.nytimes.com/2026/09/20/business/media/new-york-times-journalism-errors.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-20T09:00:56+00:00"
+    },
+    {
+      "text": "Ed Sheeran Addresses War in Gaza After Macklemore Is Dropped From Tour",
       "url": "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-20T03:17:53+00:00"
+      "time": "2026-09-20T07:59:29+00:00"
     },
     {
-      "text": "Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXQ4S045TEtXYmtrTWh6bFQtZks0N0dzUVVsQmJFU1Z5UWdOWkEyZEM5cWlwZ251bTNJbmgyT0g1b0JrN2U2T1ZKUnVMNHlEQmhoRFFxa2RLVWwtNVplNXdVNF81TG45bE1SX21qLXFpMGFqS0FzZm5vTnJHNDdLY0pn?oc=5",
+      "text": "Billionaire Tata scion faces battle of his life to avert listing - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQms1QTZyUThUcXZDR3cyal9DZzQ1UDNiUUx1d3ktWnl0aks4QWVnNzMwMzZBdnlQNlRVbFIxQXhkWWQ4bktJMndDeFV0bGhnMFhOOTJYenFhZzBuVnBqR3lzbnJFTnE2TVViOTMtVEQzWnJQWEc3bTB3cThKZVR3Zjk0Mmw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T02:57:38+00:00"
+      "time": "2026-09-20T06:26:41+00:00"
     },
     {
-      "text": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg - Spaceflight Now",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZk9xc2tFc2RBNXJaNGNYNG5fdDhod1F2enpRaUdHZWllWEdkVHZrRFViNjNvU0FZcVB3TnJ0aDlLczBYM1JIN3FWM2YtcTdyODhLbDZ4RktULVpvbFVnX3dKY1QzQVR6MXpJeG41UEtQbHpSTkVqQ1FIWEQ1bFFHQmhEQXpZRFNHSGVPMjBqRFkzRGNtd3ZvVUhCQUZFY3ktazl4QXFEeVlkV0JsejAwY2V2NkRjMldPY3RxYmRHMkJBSGI0VFJIZmh6ZHpfWkJa?oc=5",
+      "text": "Two dead in Moscow region, drones hit oil refinery in Russian capital - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVNJbGZEQXkzaEQ0UGs4U192Sks0X1UtRWtrYXhIbG0tdDhKLU4xYU1kZTFTY2g3VG4xSUE1b3MxVUNzLXlNUjZrSnRiQy1jeWo2bmJhNElYME1DUWxKdHBtbktxSUpNUkNJcjRkc1NMUmtkT2hKOWpZRGdfdDRiV0JaZVNnTWd5Sk1qbnA3N0oyWEFULTVBcllkZGsyOHZLenl4ZHNLbHRIX1B0RDRJdA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T02:19:29+00:00"
+      "time": "2026-09-20T05:44:00+00:00"
     },
     {
-      "text": "Future of German chancellor hangs in the balance as two states go to polls - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEJjUTFUODBrME02NTF5dGVEbmR4LWFWX2dZVGdDOEJyT0RDUlhQZnIxcWxaWnVfd0hsZG10dEdpbDJ4NUZrSmdoTEh6M0x3U0dodHQyd2xxTE5VVzNJT1MzNVo5Zzl1NzFHbVdIZU4yanppRE1wTnVHbkRWQWNlU2lqYzBvdTBpOXVJNkFkMnFvYk5MeHh3VUxucGJ2VDNHSVk3WHhGN0hTNGc2Q3dvSQ?oc=5",
+      "text": "World leaders return to UN amid wars in Middle East and Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T02:00:00+00:00"
+      "time": "2026-09-20T05:05:00+00:00"
     },
     {
-      "text": "College football winners, losers: Alabama QB Keelon Russell has arrived, Texas A&M faceplants - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3FnQTlXV1ZQODVfT2JCSk1SSHZ6bjVwWTBUV256T09LMDdEWmZ1bFRSRXlWVlFsR2RReE5NMDQwWDh4Y290OUNsOG9pc1F6ajNncVpsdmdUSEYzMzc2eU5xMTV0MW9iSy1teHJwdVI1STN1RkNRZkpTWFhmX2xrQmptUjRSQzlmdk5Ca1ZKUnRGSkdHOVpqWWhjdkx0ZWFxT0xGVXRNcWpQcXpCcm9mX3hqZlNmTVE?oc=5",
+      "text": "Joshua Van Beats Alexandre Pantoja, Judges' Scorecards, Prize Money, Stats & UFC 331 Highlights - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVMyMC1ieDl3MlgwY3pZRWVWb1ZVOUpZRmxERUJxSGpfcHN0WElhU01Pc01xS1pLNHRXa1ptenUzamkxTlpndWJ6dUh2SlpzbjNsTFlwekFReUVlRWxTYnRNZVdrQWpkVkZiV0ZMMFliUmRSS1JQRUdJalJBRU1PQ1F4dTJnOUFrc3FZdmpBb1dwQUtfWUdiTHgzUEQ1Y0diRGExakFHYnVzVEVBdWM0NjV6bnVnUG1OeXVhYmpBQ3JyOTRxZk52eHFLdFZkb00?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T01:21:05+00:00"
-    },
-    {
-      "text": "US says it killed four in strike on vessel in the Caribbean - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3ZDNjluUlBlYTVDbFpkamRIZUdhVUNsTk5XUFZ0UzU5MmpUZ0NtZGs0NFNuWXJ6aUx1dnNsN2VMd1RuNGlfZTZUNklVQXRUa2R5a19wUGc0SmJ0SzlsSW9aRGRGTnExYkRYZXp3TGE5eThhekFRTlFKejdhZGRmbzRrdDYyM2dkNEFDMTl2bDNlX1pRUlUwTVZXQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-20T00:19:00+00:00"
+      "time": "2026-09-20T04:14:16+00:00"
     }
   ]
 }
