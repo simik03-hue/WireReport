@@ -1,72 +1,90 @@
 {
-  "generated_at": "2026-09-21T11:00:55.464506+00:00",
+  "generated_at": "2026-09-21T17:05:35.097061+00:00",
   "lead": {
-    "text": "Treasury yields ease as global borrowing costs tumble",
-    "url": "https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html",
-    "source": "CNBC",
+    "text": "Seven Ethiopian rebel groups form new alliance",
+    "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-21T10:55:37+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-09-21T17:02:47+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
-      "url": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T10:53:05+00:00"
-    },
-    {
-      "text": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-      "url": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
-      "source": "CNBC",
+      "text": "First UK charges brought over 1994 Rwanda genocide",
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-21T10:50:45+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-21T17:01:28+00:00"
     },
     {
-      "text": "Flight delayed, canceled? Rule coming in October could impact your compensation",
-      "url": "https://thehill.com/business/6100705-flight-delayed-canceled-rule-coming-in-october-could-impact-your-compensation/",
+      "text": "We needed the Driver's Privacy Protection Act. Technology found a way around it.",
+      "url": "https://thehill.com/opinion/civil-rights/6101063-license-plate-readers-privacy-laws/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-21T10:48:47+00:00"
+      "time": "2026-09-21T17:00:00+00:00"
+    },
+    {
+      "text": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
+      "url": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-21T16:59:16+00:00"
     }
   ],
   "col1": [
     {
-      "text": "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access",
-      "url": "https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T10:44:38+00:00"
-    },
-    {
-      "text": "Who’s Winning the Race for Congress?",
-      "url": "https://www.nytimes.com/2026/09/21/us/politics/whos-winning-the-race-for-congress.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T10:17:09+00:00"
-    },
-    {
-      "text": "How Trump turned a refugee bureau into a $410 million deportation operation - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ295SUJVcFQ4cHhLZjhvcUlDNTZBUVo5X2Y0TVpqQjVJUEVNQVFWaVNhbW9lQklJSnNVZUFWOW9OU3c5Rjh3TXVEeWlWSXhiSVNIdGVSMEJ1UVRfV1hVX0ZQTjludTU4LVExMTA4RzNPUnhMd2FXTzNKa2JkOUppM1ZRS2lpU085eHRlTTZTbWtYVlBVOVVOZ0lPSkdMT3BfbTVrZGFZWTRIc1NOd1p2djdjV3VXNHJ4czlqYWQtb1dnRTJUTzhpNVhacXVXMmM?oc=5",
+      "text": "S&P 500 rises 1% as AI-related stocks surge, oil and yields slide: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PV3BMZGlwWktIQVdmYWdJMWl3eVJHMUFfR2pPNUQ3dVk5OVROd2ZYQ3BzNEdSbElpSW5UREJmLVJxbVdJUzdITzNTM2QyM3FlV1hlZUp6anc5MFd6cEtPeW84WWNzZHZGaXVjd0Q3STRJRUFERmFN0gF8QVVfeXFMT1JBRmVDRWpaTXhKZDhZSTVWbllXZ3dZNzVhQVlPdjExaXNsY3daUVF1ZmFIOFNsQlJzeXpTc0plejhnNGhvRjdaZWlyYlp5QlFmMVFncmZvNEJNQjNUZTdLUldiMWJfS2JMYm5YaUJaNWRHekNLX1FqeXl6dw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T09:32:20+00:00"
+      "time": "2026-09-21T16:39:21+00:00"
+    },
+    {
+      "text": "At 92, the Bard of Bollywood Is Still Writing About Love",
+      "url": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T16:27:45+00:00"
+    },
+    {
+      "text": "College Sports Bill Prompts Clash Among Senators, Including Some Ex-Athletes",
+      "url": "https://www.nytimes.com/2026/09/21/us/senate-protect-college-sports-bill.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T16:06:45+00:00"
+    },
+    {
+      "text": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5V2F1ZTZjdWJmb1NpNHZXNHZTSVZSa0FsNjAtQnJycGh1YXZ4aUZ4UVN0c2YwOWlYVHJIeWtBVHF4R1pxRm1mV094RTRGaHZrQlNJZmp2QjhseEU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T15:58:53+00:00"
+    },
+    {
+      "text": "The A.I. Party House Where Networking Has a Dark Side",
+      "url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T15:37:40+00:00"
     },
     {
       "text": "Ed Sheeran, Macklemore and Why Politics Is So Hard for Celebrities",
@@ -75,16 +93,110 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T09:04:36+00:00"
-    },
+      "time": "2026-09-21T15:08:17+00:00"
+    }
+  ],
+  "col2": [
     {
-      "text": "Bernie Sanders, Steve Case and Others on What Washington Should Do Now on A.I.",
-      "url": "https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-jack-dorsey-ai-policy.html",
+      "text": "Mistakes? We’ve Made a Few",
+      "url": "https://www.nytimes.com/2026/09/20/business/media/new-york-times-journalism-errors.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T09:03:40+00:00"
+      "time": "2026-09-21T16:33:10+00:00"
+    },
+    {
+      "text": "Paramount settles with US states in big step towards closing Warner Bros merger, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenhoaTR3UW55VHltMmhpTEhhZmNHN0FJQ0VNSTBzLUVlVXozLTVSc012RlNUZG5tbk1NVXBqOXhmVU9wN2N4V0Q2ZWY1OW9HSXFVLVZjSG8tYnlhcXRxcGhOajR2SVh6TEZSM1k0QnZpam53bnAzd0Q1Q2s2N1VxanJnWk9zdWRTZkxiekJ4LWtkTzA5VFFmMzA0SU0tVzFBX3RzZHBPN1FFZWhxYmE2ODIzLVAyY0JBa0dkSVlxU1hpUnFpUzZvREJWeHRPUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T16:27:06+00:00"
+    },
+    {
+      "text": "Report: Caleb Williams did not suffer major hamstring injury, not ruled out for Week 3 - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXc2YkdjTmdLVklkZzdqUmRnN0l6UjVUR2hRaDFHZ1VZZ0lCdHZWTTRCM0VCUDZPelE2cjhKVjZSMy02VjI1N3ZNSXJLNXh5NElHZGltek1yelllbEttWi1tS2VXT2ZSX3lOdFRkc1RXSzQ2QzJxTl83Rll4ZENWUS01NW9rVGlrNW5ieHpTNnlJcGdLVU54cWlSTXJCTzdhOHdLRk12S25zSHJXTHVzd3FsSDlhdWNzY1JOUWw5VGJFSk1pLVBUUFkzNl93WFAyRlZkemRNZnJWc3J0SzBj?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T16:05:57+00:00"
+    },
+    {
+      "text": "He Was The Times’s Moscow Chief. My Grandmother Was His Censor.",
+      "url": "https://www.nytimes.com/2026/09/21/opinion/gessen-censorship-nyt-175.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T15:57:13+00:00"
+    },
+    {
+      "text": "Why AMD Stock Is Rising Fast Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDdUdVFHZ0xMTnpWY3hkelN5QnJsMi1XYVdHRWQ1ZGtMeXhWR1lHSHFrMUNnalJpQ0RrNEhhYTNJX2FqVDVPOFF3WjBTV3VyS3kwUkFzR0kwSGs5M2tVTFNlN1N5U1NsYU5RREd5cHRkSXpDUGZVUDdzbXZhQkJWejFpNDQ3UGI5OFV4V0pSRzgtUGds?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T15:23:00+00:00"
+    },
+    {
+      "text": "Elif Eralp: A leftist leader with Turkish roots dubbed ‘Germany’s Mamdani’ - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkdLcTZwN0JDTkpUODRWbWM4SDN0SkZHWHhjUlpUcVExbzllWlFhd1JZcFp5LU5wS21IMzVoYXJkQ01JTEdiTkhuRldHR0ZtYTI2SDdOTXdFcTY4OC1UV2Y0bDFFR0g4cHdjQ0U0aVlSLXpoVVUyakFuZFRQY3poaDYwejVyVEk0RENVdG1XaFQ5TUhtc0RXMmtQOXhxYUctWmlLVXJOdmMzZE8ya0hwTnI3b9IBuAFBVV95cUxOTnBVeTluU1pQeDYyME04QjZrX0Z6eXFwNEFrMDd0Z2tuNHlXNkVQMXpHT0s2MXNpN0FSaGhORHg5c1JMeTRBU2E2UTJadXhyM3FLdlNxVmIwdFd5bFVmbE1IMzg0MFdpcWF0UEoybnZYSm1aajNIbFJNRi0zSnFHclA4eUtuZlZvTWhneFNVTEkwNFJYc0dBeFVVMDVRZEFyaFYyMGNzcjBuNHVBVGNjU3JoSGlmdGJ6?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T14:58:10+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Republicans Enter Final Midterm Stretch With a Significant Financial Edge",
+      "url": "https://www.nytimes.com/2026/09/21/us/politics/republicans-midterm-fundraising-maga-inc-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T16:29:12+00:00"
+    },
+    {
+      "text": "Paramount to Resolve Antitrust Lawsuit, Clearing the Way for Warner Bros. Acquisition",
+      "url": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T16:10:01+00:00"
+    },
+    {
+      "text": "‘Destiny’ Lives: All Content To Be Unvaulted And Future Games Planned - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUhCSHRwOG5WTFdZRkpWenhZRnV1cm1JcjRYNWFoT293eUd0aXVoSDZfWE8wd1VpVWZLYkJ1Tl9nNEsybV9Kd2hvUmdicnYtaXExSkc4VXpYdWlDc1g2bWd6azZPWTNNeXBKZERMVUpfVTNrdERUUEZNMHM1Q2YzMHQ5d3l1dHlGZTZ3Q3dGMHM1dnp1YlRPTWI2ZFpfU2p5OWVqeTdza2dla25QSVVuRGk0eXVENG5E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T16:02:52+00:00"
+    },
+    {
+      "text": "Senior GOP appropriator pours cold water on funding Trump’s arch - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV181OGREaS1yV1ZKcXRkMGZJU2F0SDJkTUJJUldFS195dGtXRHFiWWxQZDR0MnpRMVdMTmhSMDlJU1VuenNWNU5iWW5hWUtMLXZhc0hQQ2s4SFVSVDZlRm9lS2pyMnlPQXktVkk3V29HU2psekRPMkprX1BDODcySkVjVUJKRHhBRVRGZ0ZVRQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T15:53:53+00:00"
+    },
+    {
+      "text": "It’s Raining Boxes: Amazon Drones Overwhelm a Texas Suburb",
+      "url": "https://www.nytimes.com/2026/09/21/us/politics/amazon-drone-delivery-texas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T15:11:22+00:00"
     },
     {
       "text": "China Promised to Buy More U.S. Farm Goods. It Hasn’t Happened.",
@@ -93,119 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T09:03:17+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Your Politics Questions",
-      "url": "https://www.nytimes.com/2026/09/21/briefing/your-politics-questions.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T10:37:39+00:00"
-    },
-    {
-      "text": "News outlets Trump banned from White House announce lawsuit - Politico",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzRrWDNMZmV1a0tIZWdzRU02Z0xTQ05uYlRpcktaZV9CSGFta3ZwQVBuOVpZcHg3cXVHb0QtZFVNOVZHeHJHVUNTTUdWZkJ1ZXBELThZYVBCRVA4dWo3OHp6cERERFFzSG16T19FVndZVkZhSVFxMXA4akpNNXRlMTdXYlNsSm5QYkVxZUY2em9TQUxYNzdfMWphd29UMkw5TTAxUkZvX2FBcjV0MGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T10:09:00+00:00"
-    },
-    {
-      "text": "ICE agent shoots and wounds man in Texas as locals demand answers - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYS0pXUkZ3X0JVbHNVZVIyczlFdlFnbG9iMngyYzR3ZFoxX19DRG1kemlWMHFtcEZMNi1LcVNMZ1ZsbHVSbURjX1FSemFGcjBHVVJVQmZoTm9pSkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T09:24:45+00:00"
-    },
-    {
-      "text": "U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.",
-      "url": "https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T09:04:28+00:00"
-    },
-    {
-      "text": "Can Democrats Reclaim the Christian Moral High Ground?",
-      "url": "https://www.nytimes.com/2026/09/21/magazine/talarico-christian-pastors-democrats.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T09:03:34+00:00"
-    },
-    {
-      "text": "Challenges to Identity, Real and Imagined, Drive Europe’s Far Right",
-      "url": "https://www.nytimes.com/2026/09/21/world/europe/germany-afd-far-right.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T09:02:23+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "White House Removes CNN From TV Pool Duties",
-      "url": "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T10:27:56+00:00"
-    },
-    {
-      "text": "Trump’s New Middle East Dilemma, and How DraftKings Uses A.I. to Target Gamblers",
-      "url": "https://www.nytimes.com/2026/09/21/podcasts/the-headlines/trumps-saudi-dilemma-draftkings-ai-gamblers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T10:00:11+00:00"
-    },
-    {
-      "text": "Denmark says NATO shares responsibility for Arctic security under Greenland deal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3B2X0hTRmlsNkhMcVZYRF8zOEZWMFpQLUtPMkExQzJ1UUEwdS16S2h0bklnNDIzcm9NTC1Ja0thVllkTmJad21EM3ZjQjUzVGtUZ2p4VDBZRHd0QmNWMWhmRTQwR2N4QnhYaUpsVXVBd2E2bEZQeXN2Z0pzYWc2cVY2dE1ZNGFyUUJfMFdGTHRYRzdPMElNOS02SFhwU0w3djlaOGhDUlEwRUFEVHFkN0xXdGNHZFBha0dmTmhLc01ic00?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T09:06:30+00:00"
-    },
-    {
-      "text": "Ro Khanna Is the Left’s Busiest Midterm Surrogate. Can He Raise His Own Profile, Too?",
-      "url": "https://www.nytimes.com/2026/09/21/us/politics/ro-khanna-is-the-lefts-busiest-midterm-surrogate-can-he-raise-his-own-profile-too.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T09:03:45+00:00"
-    },
-    {
-      "text": "White House Plan to Subsidize Stay-at-Home Parents Divides Conservatives",
-      "url": "https://www.nytimes.com/2026/09/21/us/politics/conservatives-stay-at-home-subsidy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T09:03:17+00:00"
-    },
-    {
-      "text": "Hideo Kojima Says Sony Dropped PHYSINT During a Zoom Call and Gave No Reason - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXBUS1B3YXhDYUNyeXFGejYtR3FfTFJpM3ZpRXVjR2VsSk5XSWMxQmdzVEV3TnFEMDd5T044al9LdzV6MEhWRFJmaEZHdzBKRDZCUFY1VmVxX1I2RnRqSkI5a3lrdHlDYUp6SE9PZGQ3SDcwZ0dZZlJZV1JKOU9hSlZqQk44NkFJdm5oTW9LTWVuS1pIelVPb2o5VzctUEpidUx1OHRzVzRjdHA5bENYTdIBtgFBVV95cUxPWU5PdkYxY0RrcjVYalNJX1hGZ1ZqY1o0cWpReUFJQWpwWkpIQVJNdGMwUjlJenh4M3pYU2V4VXdpeGpLOEhia0xuVFBzRlJCdlZjcUZ0ZXlWLWg1eG9SY2lWR1hxaDFwWFBfb2hDdDJGU2ZnZmdiRzk5NXNYaUJkb0hON3FIRU0wa2RQb2gxY1RYQktxWkFQdE4xUTdidHhxRTdwb0hramRNajNHMWF5eFE4dmtSdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T09:02:15+00:00"
+      "time": "2026-09-21T14:49:27+00:00"
     }
   ]
 }
