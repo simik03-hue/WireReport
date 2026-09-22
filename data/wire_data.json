@@ -1,175 +1,34 @@
 {
-  "generated_at": "2026-09-22T10:02:45.959522+00:00",
+  "generated_at": "2026-09-22T14:58:39.590136+00:00",
   "lead": {
-    "text": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-    "url": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+    "text": "Autopsy shows Hayden Panettiere died from a drug overdose",
+    "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
     "lean": "center",
     "topic": "world",
     "sourceNote": "UK public broadcaster.",
-    "time": "2026-09-22T10:01:29+00:00",
+    "time": "2026-09-22T14:57:37+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Newsom eyes 2028 as Democrats weigh their political future",
-      "url": "https://thehill.com/homenews/campaign/fight-for-2028/6102239-gavin-newsom-2028-democratic-party-future-live-discussion/",
+      "text": "California senators call for probe into Trump administration election operation",
+      "url": "https://thehill.com/homenews/senate/6103744-california-senators-probe-trump-voter-data/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-22T10:00:00+00:00"
+      "time": "2026-09-22T14:56:25+00:00"
     },
     {
-      "text": "Trump floods the zone with press ban, triumphal arch, Kennedy Center",
-      "url": "https://thehill.com/homenews/administration/6102803-trump-economy-midterm-concerns/",
+      "text": "Trump tells CNN's Collins 'you shouldn't be here' on way into UN",
+      "url": "https://thehill.com/homenews/administration/6103823-trump-collins-white-house-un-assembly/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-22T10:00:00+00:00"
-    },
-    {
-      "text": "Republicans walk a Trump tightrope heading into midterms",
-      "url": "https://thehill.com/homenews/house/6102813-gop-lawmakers-distance-trump-midterms/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-22T10:00:00+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Videos Reveal New Details About ICE Shooting in Austin",
-      "url": "https://www.nytimes.com/2026/09/22/us/ice-shooting-austin-texas-videos.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:25:46+00:00"
-    },
-    {
-      "text": "The National Book Awards Are No Longer National",
-      "url": "https://www.nytimes.com/2026/09/22/opinion/national-book-awards-dei.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:03:24+00:00"
-    },
-    {
-      "text": "The Big Threat Has Been Climate Change. Now Comes A.I.",
-      "url": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:02:26+00:00"
-    },
-    {
-      "text": "‘I Was Sold a Bill of Goods’: Americans and the Distrust Election",
-      "url": "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:01:33+00:00"
-    },
-    {
-      "text": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release - Motorsport.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcG5Va2pZOV9tS2hNVjMweldna2xkVWJPT2NXUDUyZWQzb3NaV00tckoyNVhTc21vbjBZSEhLYUMwV2J0dllEU3Y1bklSMjhETmJQNTlmanJBWFdnZGZ1U05ESTk1WVdtdTZOZnRCYjkzWURzVW14bllsWjBUTnJLRGcxTmtXb2E0QUxIZXlXc1ExZFNIeGpObDJCX2hwTjFwVk8wQVFzdWI3NHJfeTlPUFdWd2RkelZ0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-22T08:00:03+00:00"
-    },
-    {
-      "text": "Late Night Responds to Trump’s White House Press Ban",
-      "url": "https://www.nytimes.com/2026/09/22/arts/television/late-night-trump-white-house-press-ban.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T07:11:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "The ‘Kid’ Takes Over: David Ellison Becomes a Hollywood Colossus",
-      "url": "https://www.nytimes.com/2026/09/22/business/media/david-ellison-hollywood-mega-mogul.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:03:36+00:00"
-    },
-    {
-      "text": "Will Alexandria Ocasio-Cortez Run for President in 2028? Here’s What She Said.",
-      "url": "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:03:21+00:00"
-    },
-    {
-      "text": "How Trump Has Cracked Down on Dissent Since the Killing of Charlie Kirk",
-      "url": "https://www.nytimes.com/2026/09/22/us/charlie-kirk-trump-free-speech.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:01:48+00:00"
-    },
-    {
-      "text": "The Premier League season so far: The biggest surprises, letdowns and who should be most worried? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHh2ZXo3NFBtQS1tdDY3c292ZWg4ZjBLRUpfcFJ3UHpIUTIxTEZBZmVNNWhQbjU2U25ZalZFZVZianhhNXdQTGhtN3VvMjhRSzRlVTFReDVCaFlQX2E1NUxzSFVUNEN5WjJGWng3LWZkWUFybXNlTWRlSGFWMXA0a0F2NkM2ZEsx?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-22T08:33:12+00:00"
-    },
-    {
-      "text": "Japan Meets With Trump, Hoping to Get His Help on China",
-      "url": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T07:58:46+00:00"
-    },
-    {
-      "text": "Flights halted at several major airports in Northeast due to tech problems - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNVl0WXR5aF8xYTJPWUQtdW9fb1RERXBLd05lQTFyMG9nYmdvWEJ3a2FRaE11ZnI3cDl4RFZGYnBwRDlHVi11QzlseFdPNjB3ZmJqLWFhMkVoRXYyNDYyZkR0NHczNTVQRW5JQXdNWGhmeTNzQ0Q4QWZ3RkpsdjNjUWUzUHQ1ZldPdFpJRHBqY21rMFBoVTVlRTZEMTYxVXA5X1NEc2ExbDEzVk1LOXlsaXVWbWNLNUZjejJ3RDExUzU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-22T06:55:51+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "What to Know About Recent A.I. Hacks",
-      "url": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:03:32+00:00"
-    },
-    {
-      "text": "Many Democrats Are Avoiding Kamala Harris. Abdul El-Sayed Is Welcoming Her.",
-      "url": "https://www.nytimes.com/2026/09/22/us/politics/kamala-harris-el-sayed-michigan-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:02:37+00:00"
+      "time": "2026-09-22T14:54:45+00:00"
     },
     {
       "text": "New Hope for Diagnosing C.T.E. in Brain Injured Patients",
@@ -178,34 +37,175 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T09:01:36+00:00"
-    },
+      "time": "2026-09-22T14:51:56+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "Specter of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
-      "url": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
+      "text": "Hayden Panettiere Died From Toxic Effects of Fentanyl and Other Drugs",
+      "url": "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-22T08:31:59+00:00"
+      "time": "2026-09-22T14:50:46+00:00"
     },
     {
-      "text": "Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzN4WHlXSmNOUWI0eURvTzVLYVlIb3otWEZCSmUxb0N4YzMzTlJnM2dCWVh3UXNrQlN6TW1JU3MxZnRjT3NLdG5HYVFSbFZGUFRER2FwSjZoVTd4Smh2cnlwSjhVdTJwVy1jaWplU2FaaUIwT1UtRVppUmJlWFlFNnlhbE5OY0tma0RYOVc0QTVGeWxmMkoxbkRRamxPbV8zLUtEcm1Ca3hiMEdVcnNYOGFn?oc=5",
+      "text": "‘The fault lines in our world are widening’, António Guterres warns as world leaders gather for UN General Assembly– live updates - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVdWT084RlVDOEFDaFZDblR1b0ZBZVlpdzFkMXd5RzZISlBEaTNjN0dldEtrdW83c2hOYkoxUUpDYVY3UTN2SmhtQnpvaVJrQXA1ZFRjdUpsVnFrcUwxXzlnQjhTWkRPdHZIOUZQVmFPRVpjb0tEcXk5OTI0aU5qX0dzUWt0b19STFdXcW94NEJRUHpiMUlSVFVtcHhUTXVHcVJCQlR0emVJV2JYcEtic2x4VEpVWV9uYVZpRldhWTlaemRBQjlJeExXWTE0RHV0UktpZ3hiVk5qbWNvNHBmcWtCamc4dw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-22T07:51:21+00:00"
+      "time": "2026-09-22T14:43:26+00:00"
     },
     {
-      "text": "No criminal charges in the death of Nolan Wells: Grand jury report - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjd2dVF6bC1hN2JuZmhwSlRUeFVXTktHQmxuWmdLVnUtSDFVTVZlN2xoRWVaNzVPTWFBSHAyT2R5dkJzek11R250Q0VIM0Y0Rjg4MEV4TFpTRjUzbW5HVDJkbE9LQUhYX2djX09QdFd4SUUxSlNIeXJpb2RVd1BXalNxeFlvNVpkbU9ra0w2bEl0c1JZVnI5bFNn0gGfAUFVX3lxTE9Qcm9Gd3VkZXZDRU9hdjdMRzd3VmlxbE9JOHgyNnE4UFlBaUFzeG1lWXFFUEQxVXR5WDgyZTR3OS1mMkVBdHZQbFZ0TzdBMmJWbEVHM1U3OE9xWnRvQTRBTU5yUUxma3o1VVpKV1oxcVdIemJXWkpUdGdsdFc4OWZEREtMOHJJb0NFMkZRaWxobmZnSktkMXU0RlZpUGhDcw?oc=5",
+      "text": "Hayden Panettiere Cause of Death Revealed as Toxic Effects of Fentanyl and More; Death Ruled an Accident - Variety",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1F4cXVaMzVoLWRDQ19mdTZVSXVrT1Ixbm9tdlVCOVFmbjNXdzlQcFNPN3FQRWRJcnRqMWtWUEhZRUVuNUxJUkplOUdfQUJWYUZCWmNKNjhvTW1JZGlpTldaUFRNb0JIWWU4N0xVdDIwbVJwdHVVVGd0T0N5Q24zcy15RjV3NTZZcmlsbnVybUw4TFgxZ2p0SDVUQmF6QQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-22T05:19:51+00:00"
+      "time": "2026-09-22T14:13:00+00:00"
+    },
+    {
+      "text": "Will Alexandria Ocasio-Cortez Run for President in 2028? Here’s What She Said.",
+      "url": "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-22T13:46:14+00:00"
+    },
+    {
+      "text": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMERWWS1XMjZudmVXeUJ1ek0tYUJCb2ZrMnB5RVFzTXhsRkVqVEdBdzVObkxPQWxDc1FwTklZT29EVGplRGlyWUF1MFNfTVpKTGxsZWpWQVFuV3p2MGdsWGQ3dExxWUVGWkk5cUNJcHZ3Nk5UdXF4ZlAtblh2NkpFRHRBZEpJZ2ZkMGhReVM2S0d6T1RWWWdOcldCV0w?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-22T13:01:18+00:00"
+    },
+    {
+      "text": "How the pro-nicotine ‘wellness’ movement rebranded an addictive drug - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVmlSUGg1WEpmeU5fRkFlYXFOMnF4VWFTV1RqXzFzTjNVU3BYZktvRWVqc3B0Tl8tYmctVDJvdkFaRVIxdWdqeWVqdWNKczR2Z1VTWmxGcXZtTlJmM0NPNGRleDVQMUxhbHRydTFlTEpELUlUeFpCR01fVFp0eERWWmgxdzJrMWFHM1RSWXkwX2x1N3BwV0d4Y1pUS1dPRE9kZkxr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-22T12:47:48+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "How Unions Are Confronting A.I. Threats in the Workplace",
+      "url": "https://www.nytimes.com/2026/09/22/business/economy/unions-ai-negotiations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-22T14:46:21+00:00"
+    },
+    {
+      "text": "What’s Next for Paramount",
+      "url": "https://www.nytimes.com/2026/09/22/business/dealbook/paramount-warner-deal-settlement.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-22T14:33:00+00:00"
+    },
+    {
+      "text": "PFT’s Week 3 2026 NFL power rankings - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzBMcXNTeUVBdVFOVFdJUlB0QjIzQ21GVHZndlFZdXBtcWl6NmNJSHJBbGZpY2IwdWJ5TGJ5dzhfR2hTeEJaQXRURThHVmRqMjhRT1lJZmRJUmFXTmJkT3FZcngya0RpOWhheVpMeE1ieWg0Mm5xcjZlS3NLN3dULUtLWnRvSTNVMlFLbnBSX2xWNXVQcDVKX2VsYk5KZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-22T13:50:40+00:00"
+    },
+    {
+      "text": "Book Review: “Swan Song: Diana, My Sister,” by Charles Spencer",
+      "url": "https://www.nytimes.com/2026/09/22/books/review/charles-spencer-swan-song.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-22T13:29:29+00:00"
+    },
+    {
+      "text": "Sonos Beam Ultra Review: A Huge Atmos Upgrade For $699 - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JdlJqWHJoX01QWUJ4OFd1a09GQWhlQUNxV3QwbzVMa01PaTVYWVJ1TXVxLVFlcF9zeDh0VWQzSnZhTUViRTlVX2pfTjhMb3VvOEVIemdMWkJSTmlWSVZLNDRPekYzcmhy?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "text": "Stock futures are little changed after S&P 500 posts best day since early August: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRd2pYcnJRNEl1Q2pSVC1KRGh6anprbmd3eEtVUU52amNUY29wWFJyR0dWYkxnZ2Q1ZDUtZnFMVl9XNmZVVFNoS2lUSll5X25Ha1hka1ZYQUVKUTQ4Qm1ib0NzSEhPX3c2Y1czV0xGSzlKZWhBZkcw0gF8QVVfeXFMT2xqbHVMN21IMHgtZGp3VFRGajI2cTZfemNnUTZhcDNQWVZnMlg4T1c0QWMyNjRHdjZGa3o5VjhxUHRhUlBtUkVZQ2I5ZzRUREYxRlZ1NjVHSTRhZS1wNXlybTM2QWt0cjZud0h6R0R3VlZDNjNVdVFydFA1dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-22T12:35:39+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Takeaways From Charles Spencer’s Memoir, “Swan Song,” About Princess Diana",
+      "url": "https://www.nytimes.com/2026/09/22/books/review/takeaways-charles-spencer-memoir-diana.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-22T14:43:42+00:00"
+    },
+    {
+      "text": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit",
+      "url": "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-22T14:15:13+00:00"
+    },
+    {
+      "text": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+      "url": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-22T13:48:05+00:00"
+    },
+    {
+      "text": "Death of 27-year-old Presley Gerber being investigated as suspected overdose - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVdEZnJ5SzNxaHUzOHl3WE4wUmQxNmc1Z0o3VHREcGZ2Q1NVSXVodFV3eTA1ejdCbmRlekw0c3prbXoycDY3Z1Nyb3VaWG9zUlRfeEFfellwTFgxbmx3VDlza2FLOUdQY1dDNFA1NlA0dnhEX00zd3BZNUVfLThvZnV3ZUwzNURkcHJvREppd0pXV0xQbk9pQ01vSWo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-22T13:29:00+00:00"
+    },
+    {
+      "text": "Sri Lanka court convicts 14 over deadly Easter bombings - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnA2QXNaUFhSellSZUZyVjdGVE13dEI5UmJKbWlmQ0Nfd3V2aEkwdHhtT3ZONnpSSDQ2MjY3Tl9xSHBsNWJzWW1naDZHYWo0WWxTOTV3Q2k2aEV0VGpqS05NcGJoTDhlbFlGYXNNQ0NPSGRPQ24zVHU5OU9MN1ZJbG4wdmJXR1hFZTIxZmpOcVJmcEdNSFMtVWt4ejLSAaIBQVVfeXFMTWJoSTFCbGY4alBNTjlwMGw2QjhIbzVobkRZT29YeTFVcFktUEliRFNvTXF0Mzk0amVVQnZZeGtCWnlpYlV6cXdwSGNVaDVqOEZqVERMTktvOWJRV0VfdVhlMjB2R2RIeTRkajRDY0FwWDdTb2syLU1uTThvS2RHVGQzQ2JGUnowdWc1R0dZeUJXOTQ0SUlIR1dLVU5Fa2FzdVJR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-22T12:51:10+00:00"
+    },
+    {
+      "text": "White House press ban - what is the pool and why is it in a row with Trump? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAybGVBQnJrOFJiSDlPWDZrTDdDWWdWSXhSR1lFbDI1WFhMMEMtX2FiNlNQVW1rUzdZRHlQSjQybDdPbXMzZ013OGI3RVhnYzQtVG9vZHhCOC1KRWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-22T12:26:31+00:00"
     }
   ]
 }
