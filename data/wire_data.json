@@ -1,211 +1,211 @@
 {
-  "generated_at": "2026-09-21T21:06:31.267840+00:00",
+  "generated_at": "2026-09-22T00:09:35.545884+00:00",
   "lead": {
-    "text": "Technical Problems Ground Flights at Major East Coast Airports",
-    "url": "https://www.nytimes.com/2026/09/21/us/east-coast-flights-ground-stop-communication-failure.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-09-21T21:04:40+00:00",
+    "text": "UN panel calls for guardrails on AI as current safeguards are 'unraveling'",
+    "url": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/",
+    "source": "The Hill",
+    "lean": "center",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-09-22T00:08:36+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
-      "url": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Stock futures are little changed after S&P 500 posts best day since early August: Live updates",
+      "url": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-21T23:53:31+00:00"
+    },
+    {
+      "text": "Shooting near Ontario synagogue on Yom Kippur leaves police officer wounded, man critically injured - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGdCOUhDcHJVWHEzV3ljTmw1d3NSalhwNVpIcHlHaURYYmYwM29qODJSdTk0MkI1SXBDaHlCSUZ0eWM3WEFHYmwwNndIRVp0UEgtNlJjeVIwRzg0VjA4MWYtRlA4QUdyTlYzd3UyR1lmMnRZV1hZekxQN0pHbHRJS2lzckE?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-09-21T23:39:49+00:00"
+    },
+    {
+      "text": "Stock Market Today: Dow Opens Higher as Oil Prices Fall — Live Updates - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9GTktGNDJ3TmRkQW9Fbk51TWJadS1aVnNEYUwydEgwb0NCLVQ2NHJjQ19aTUloUVJWSk9wVklRcmxhMVFBTDFCV2RQRHFNRy1RNVFMcHM4T2wxVjB5dlVjMGZmdXBkTmNVNFZxb0NpRTg1aGFEeWx3amk2MndtVTRIQVpKaVk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T21:04:34+00:00"
-    },
-    {
-      "text": "Fed official warns inflation is still too high",
-      "url": "https://thehill.com/newsletters/business-economy/6102706-fed-official-warns-inflation-still-too-high/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-21T21:02:20+00:00"
-    },
-    {
-      "text": "Austin officials condemn ICE shooting of Venezuelan man, call for independent investigation",
-      "url": "https://thehill.com/homenews/state-watch/6102194-austin-officials-condemn-ice-shooting-of-venezuelan-man-call-for-independent-investigation/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-21T20:58:40+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T23:39:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Paramount to Settle States’ Lawsuit, Clearing Way for Warner Bros. Merger",
+      "text": "Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal",
+      "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T23:37:58+00:00"
+    },
+    {
+      "text": "Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
+      "url": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T23:08:34+00:00"
+    },
+    {
+      "text": "Giants vs. Rams predictions, odds, time: Week 2 'Monday Night Football' picks, NFL best bets by proven model - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd3Yydk5fc1F0TENwalp5LTNfa25UbjJRSGNKeXBCYUlkcVN3YXkxOGcyUjdRUTRsMXdudUdvOUZwTGY0N1hBN1Rzb3BzSmp5OGJzR1lkbGN4NWVIYWxsNXBRN0U5LWNvcmFvN1JwMDlRUEVLeHRFcWQwbGxsRTBVY2xfTllGQUxxZzFiaG1fWU80Vm95TjRZZkhYcjdFU1h5WWlySmtvUnM4MWR1WHNCZVA2OWlRa0tOa2xHVVh1bnpLYmNMRVFhWko4MWZzcWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T22:51:45+00:00"
+    },
+    {
+      "text": "Chiefs coach suggests Taylor Swift has sparked Travis Kelce's performance in first two weeks of season - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0JrbUN3cHlpaE5HZzhBUVBCdlpoclZRMUZfc3Z5dXFQXzhob0tfOHJPLVh5VFNmbHFoSGdXTG5ZSVYwakE2NlZZZ0pSLVNvUVJVX1RDODNDQWM0TG82U3ZvbEJKNUJFZHFzTUtxNzdvYzk3VXZMRXpVbjZpci0tR0VDYmRaTTNRNUFLNkxMemE1Q0pBOUZUbnNEdlpBQUpmRFRUM0ZscHl6d3RQM3p4T3hLWTVldmhPR0dEbUpocnQzUG9ERm1IYQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T22:36:36+00:00"
+    },
+    {
+      "text": "Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger",
       "url": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T20:53:58+00:00"
+      "time": "2026-09-21T22:04:38+00:00"
     },
     {
-      "text": "What Is the White House Press Pool, and Why Did It Suspend TV Coverage of Trump?",
-      "url": "https://www.nytimes.com/2026/09/21/business/white-house-press-pool-trump.html",
+      "text": "After Crucial Paramount Agreement Come Relief, Anger and Concern",
+      "url": "https://www.nytimes.com/2026/09/21/movies/paramount-agreement-reaction.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T20:37:58+00:00"
-    },
-    {
-      "text": "Wall Street rallies as AI optimism reignites and Treasury yields retreat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T20:01:13+00:00"
-    },
-    {
-      "text": "Flights halted out of Newark and Philadelphia after air traffic equipment failure - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUpNbUNCaGlXTVVEQmZiR0lnaUxjRVNKTzJfV2Z0X0hrbjVIOUF4ZS1hSzYtRFdId2JEOUdrZzFkbFMwMl9wbkEwNGhWVGIyODNwWklmb0tITnFORzhCeUtudWJITWpDX29Hc2pMc1o1UFVTV2dWTTBicG43MlBGM1VYU2JtMDhpOUhKY1N2WVNMSGpJbHc1UDg1SXJPLUpEdkhJTWxZaHhiNVk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T19:44:51+00:00"
-    },
-    {
-      "text": "Cindy Crawford’s son, model Presley Gerber, dies at 27 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXY1VXIyRU5BWERWb2k0UUxwa2ZtWTRDYWVKcDZUTFo3cnJFSVI0cWlVWmFUNF9kcS12N1lKN1ZMZGVTd1NPV05mejh5ZVphMlRnRDQ4SktUbDZaQ3dqSjEwT2JtT2ZaSUZFNXRVQ0pNd3hpVUx1dmJGNElZUEZDZjVtUEtUTVU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T18:38:21+00:00"
-    },
-    {
-      "text": "Rare September nor’easter could bring rain, wind and waves to East Coast - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDBkNUkycUgtU1ZqX29mMHZ6ZGI1WG91TWROX3dwclVRTkhxeGF4U3Q2R01nSW81VC1YNVRHSmlrMmhwV3dOUHd6TjJGQzJfZ2JtN19pc3ljZzg0VlpSRnFjd0dJTGlMX2tvVTVLZWZPbG5iN3l1SVBwOU96M3ZBMlJjNGY1YzdhYkFzc1NNSUY2OEZ5TEVwTGswVjNzU0lXd1p5UVlSRGNlUGs5cGRXeG1HSGI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T17:41:07+00:00"
+      "time": "2026-09-21T21:52:37+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Jury convicts Vermont man of attempted murder in shooting of 3 Palestinian students - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYk82V2poZ2xwNEFHSTczZlRZZ2NrZ2lCc0haNHBLeGsxWFpnM0tIOWhudGZ3bjlnckJ6UXFVSHljRTNQb3cwUGt5aFpmN0c5OGhiUkxMWTVISURneWFmQzJJa0xDQjlEMEh0TWRoXzNBSWxSZjZsY3JtdTU4Nlc2emFmWC02Qmp6Vk15bmtBR0g0RXdmMElPOUFRZWdsUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T20:44:00+00:00"
-    },
-    {
-      "text": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ubFp5Ym5LZlJnZXUzWng1X2dCbDA1c1gxT2c0QXBTcFhPSkV1YnozNEZtS2hkeDV4SnQ2aGVUODZRVTl6YW9NYko2dVYzQzBWQmJ5dy1uN29zOGM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T20:26:41+00:00"
-    },
-    {
-      "text": "This Is the Thinking Behind Trump’s Puzzling Foreign Policy",
-      "url": "https://www.nytimes.com/2026/09/21/opinion/trump-intellectuals-western-civilization.html",
+      "text": "At 92, the Bard of Bollywood Is Still Writing About Love",
+      "url": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T19:59:32+00:00"
+      "time": "2026-09-21T23:27:57+00:00"
     },
     {
-      "text": "California billionaire tax loses ground in new poll - Politico",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekRMeGs2aGlvSHFPbzc1X3Q0M1FTUzVBSlBWTFA5M283OVVsWl9WNE01T3hJeEZBekRRR2RJUnNrYVRRajBncHh6REViYUFRVlN1b2VHekJFa0JIc1pTeXZTZFZjYTBqRlJObzB1V3dLS3ZKRURIdTF5Z2J4NWFfQ2FvTEF5ZEkyd1lIcVgzTk1HMXNNUHlpQWQ3UWxwVG8?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T19:36:00+00:00"
-    },
-    {
-      "text": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
-      "url": "https://www.nytimes.com/2026/09/20/world/asia/philippines-bataan-nuclear-power-plant.html",
+      "text": "Trump and Mamdani Show Their Unlikely Rapport, This Time in New York",
+      "url": "https://www.nytimes.com/2026/09/21/nyregion/trump-mamdani-meeting-nyc.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T18:33:08+00:00"
+      "time": "2026-09-21T23:06:24+00:00"
     },
     {
-      "text": "Taylor Frankie Paul Quits 'Secret Lives of Mormon Wives' - Variety",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGp6SF8xSGFRWDFLWTZWM3Jscy11cXhjWkxabl9Kd2RiV2ZNaEltT25mVDZqVnNOWE9GT2FPUDZ4VnVJVEdSQ29RX3pKY2t0WDdzRHl2dkx2ZDcxOGx0OEV0QTNSWnhjRVQxOWhndkVyd1BXY0o1dEpPVFNPVzlVMFVxdGw4c0FhbGtTTkFoZjNuN0NuZWdjVlBMZ2s?oc=5",
+      "text": "Technical Problems Ground Flights at Major East Coast Airports",
+      "url": "https://www.nytimes.com/2026/09/21/us/east-coast-flights-ground-stop-communication-failure.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T22:48:31+00:00"
+    },
+    {
+      "text": "America Is Blundering Toward War With China",
+      "url": "https://www.nytimes.com/2026/09/21/opinion/america-china-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T22:35:51+00:00"
+    },
+    {
+      "text": "CNN’s Future Will Include an Editorial Oversight Board",
+      "url": "https://www.nytimes.com/2026/09/21/business/media/cnn-cbs-paramount-david-ellison.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-21T21:56:00+00:00"
+    },
+    {
+      "text": "Presley Gerber had checked into rehab hours before his death, source says - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3pxNkRhR1AyV0Z1azFVWGRBM0xqQ01ybU1ndFczaXdQZHFscnZTajkzZDNRTTlnMmFDdUFjbTJCRlc5Z01FcDBNSUJqMGRIdG9mUWRSdTNUWU1ySXNqV19LX1pWaGk2QXNRVWFWVWJ3LVNXTlkxU1VNOXUwUXRhcWR6MGdiakF2c0t0TFpFLTlHOVU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T17:31:00+00:00"
+      "time": "2026-09-21T21:47:44+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Mountains That Helped Complex Life Flourish May Lie Hidden Beneath Antarctic Ice - ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEtjMzFSNk81Qi1RdFhDOFA3elRCY1lvM2w2LW8wNGI1d3BILUludFNraTZwZHdDZHQ0NURpNXpfTHdNLU5qcmpURnBPTG1MdVBhYUd2M2NCM0ZjQldHaGdkTE1STHg3Y2RfS2JlaTVndG9oTHQxSTNtMmdJRUR2ZUt3ZmowZm9YY1p1ZTgzbDM3S29PUGhBYWQyV0FoallvSFU3dkQyZXljS1lWQWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T20:42:16+00:00"
-    },
-    {
-      "text": "Wall Street Is Growing Skeptical of the Data Center Boom",
-      "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+      "text": "Appeals Court Sides With Missouri Republicans on Redrawn House Map",
+      "url": "https://www.nytimes.com/2026/09/21/us/missouri-redistricting-decision.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T20:04:39+00:00"
+      "time": "2026-09-21T23:19:12+00:00"
     },
     {
-      "text": "CNN, MS NOW and Politico sue Trump over White House ban - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3FsUG96RnAzaEhYRG9WdFdhckY0NFFOT0hYWF9TSWx1XzlCTHJidFN5d3VvcHh0MUZmTjctZXl0QlA3M3dlbmRTaGR1WlZOUktIdVRGYXNTemczVFhnNExmSV9OOFRQdlRYU0xJYmMtWVhUU09vNTE0Nmc2Nm45MzIwa3ZtOVo5cHl6YWZXanNwallBQXhoalJ6Q2czRVVrRzZVbW84a09OdmhVdzRad3pyQnR5Z3NkeXdMXw?oc=5",
+      "text": "Live Updates: Mamdani and Trump Discuss Immigration and Affordability at Gracie Mansion - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzTDhUUTd3YWpTT2hOOThkeHZldlFhQXY1Q2lZZ2w2VFJ2LXEzMGN1d3JNLUQ3TVRrYVJLYll4VjFKc21IVXIwTHVYcVczRUtrcjRlZW5tLWJKQUNIR2pIYmhfN21NOFdqbGZYZFJrbDFySUQybElueEowbTdrTGs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T19:52:06+00:00"
+      "time": "2026-09-21T23:06:24+00:00"
     },
     {
-      "text": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjlZVF83amhsMWNiQjBfMGJTRlBqT1laZUN0NHBPU1lveU91YWxiTF95Qnkzc0ZSVE1SSXg0bFB1aXBJVG42YlkwakFESXV4OWF2YU53NHk2MC16Rk95WXhaTEVTeUEzMmhUZV8tRURvZ2hGeDlyb0ltUjZRbjIxbnQwVHRFejN0VkppeGZjR1lES2ptQ3M3WjZiaEk3eUNHc3FGVTZVcG1rQXFqcU9STlZ0OXlPS3dTb2JxS3dlWQ?oc=5",
+      "text": "Appeals court revives GOP gerrymander in Missouri that Supreme Court killed off twice - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdC1SVU5XRy1rbUt6Qy1NZDZodXZkOTRRTUdOUEdad3U3bmtYZnBEd1l2LURObEpSS01ZV3VwejRWQWpRR3M5XzVjUjFBX214dDE3aDFJaWhlMWhFeWM1ZEhmUFljS2ZXbE1PMUlyWE5RNFYxTndmd0E5Sy05UzZWWnZ2M2Y?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T19:04:00+00:00"
+      "time": "2026-09-21T22:39:00+00:00"
     },
     {
-      "text": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
-      "url": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html",
+      "text": "Flights delayed at major US airports after cable cut by construction workers - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50cTI1X1N2Rkt5T1ZUQTlaSE5CX0pFX1o4SjJiRjJnd21qemlRM2lrU1lDM2hwMUh0OGxfU0RsRnhPc3p2bnZibldRLVpGNTNXSGtnMmNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-21T22:33:29+00:00"
+    },
+    {
+      "text": "Paramount Cleared to Buy Warner Bros.",
+      "url": "https://www.nytimes.com/2026/09/21/briefing/paramount-cnn-houthis.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-21T18:00:12+00:00"
+      "time": "2026-09-21T21:54:51+00:00"
     },
     {
-      "text": "Lunar orbiter spots ‘once-in-a-lifetime’ new crater on the moon - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LcDFvczM3ZEo0UTVkZmlMQzRSSnJxcEpvN0pJclpWTGtQVUpwd1hqX0FnUWgyTHVGOUxnWUF2TnB0QndOS3dQYV9vUWNYVjVwdkxhMEE0b0RyME5DSGw3MUJHaTlhSC13MzQzVy1OMThha3hodmhpUFlB?oc=5",
+      "text": "Paramount reaches settlement with states in $110bn Warner Bros merger - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54OTRSU3J3TjNNcTczM1JlYkhxZGF1VUZ2QTJxLUJMU3BlcWNaZkJsUnBBcnVYTmM1SEFWWFByc1RKS2hfT2ZUcHRGSDlEYU5yUVBwb3hjU3BBbUk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-21T17:17:04+00:00"
+      "time": "2026-09-21T21:34:32+00:00"
     }
   ]
 }
