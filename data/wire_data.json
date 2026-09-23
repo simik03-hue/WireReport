@@ -1,138 +1,17 @@
 {
-  "generated_at": "2026-09-23T10:02:20.898628+00:00",
+  "generated_at": "2026-09-23T15:03:40.774387+00:00",
   "lead": {
-    "text": "Oil prices mixed after U.S. and Iran talk for hours at UN meeting",
-    "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
-    "source": "CNBC",
+    "text": "Federal unions owe workers more transparency. Congress can help.",
+    "url": "https://thehill.com/opinion/congress-blog/labor/6104591-congress-federal-union-accountability/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-23T09:50:27+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-09-23T15:00:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
-    {
-      "text": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-23T09:48:50+00:00"
-    },
-    {
-      "text": "‘It’s Really Busy Out There’: Storms in the Pacific Threaten Hawaii and Mexico",
-      "url": "https://www.nytimes.com/2026/09/23/weather/pacific-hurricanes-hawaii-polo.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:30:05+00:00"
-    },
-    {
-      "text": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
-      "url": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-23T09:22:51+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Trump Praises Burnham as ‘Natural Business Person’ After First Meeting",
-      "url": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:15:00+00:00"
-    },
-    {
-      "text": "Jensen Huang vs. the A.I. Doomers",
-      "url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:02:02+00:00"
-    },
-    {
-      "text": "Chris Wright Sells Trump’s ‘Energy Dominance’ Vision",
-      "url": "https://www.nytimes.com/2026/09/23/climate/the-former-fracking-executive-selling-trumps-energy-dominance-vision.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:00:25+00:00"
-    },
-    {
-      "text": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHlfaF85em55RjZHa3VUZnlpME1GTnNQTmdxdFRiYktLd2Y1c1ZpQUNPUF9ma1RqSFE1QVJJdXRYM21ZUGJfWEhNVDBVMHk2OGNMSFpYMVB2cVg2Tk92aUgzQkxSWGlhYVZjUDdyMTg5dnVFNFQyTlRqanFxRzFLS0twcXZEcFk0RlR6M0hhdlU4ajNhdURycVdfTWRnQ0pYR0h2SzBieTJBVmo3d3FmeWhyaVpiZzZOMm84?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-23T07:15:00+00:00"
-    },
-    {
-      "text": "How Ukraine’s devastating attacks on Putin’s oil refineries brought the war to Russia’s doorstep - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSWZRRGRpXzJPdVlsZTVQRjlDUWRUN25Hd1dKTzFwcGNzR0lOX2dKZzUwNnZ4UmlQa1hoNHk1cW56Si1zMERkdGhHaVZ4QnVHcVJWa1I0UDZkLVY5UGQ5TU9rWEhLdzc5QmFyN1Rqby1hTzRpYVlhSUkwQ056QS16U2tpWkhVdWVHMDJ0OHdIUzZIN3BHTDdWN2dwTVQxWks4Q2I0UlZvTHZQdEMwc2F4Tg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-23T05:29:00+00:00"
-    },
-    {
-      "text": "Discord’s age verification era is upon us, despite community backlash - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFNRZG1pWlpoTldqaFlvb0luQTFSYTc1OUdxR0U2QTFOdTZCRGZSV21kMDlFcDM5S3dqMGQtMWQ2SDlITFIxRWpfZGI2NDNJelVsSlNsRkZfY1ctM3FYenFzaVdjdXdyZ1BEMGUxWnMtUklnaTlsRmFNcG8tdzFGQXRwWnJPMk9uOTNqZ2o5WDZKN2QzWHhRSzJsLVFkN3hqcTR2Mw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-23T03:31:12+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "MrBeast and Rajiv Shah: We’ve Seen What Video Can Do. Let’s Use It for Good.",
-      "url": "https://www.nytimes.com/2026/09/23/opinion/mrbeast-rajiv-shah-video.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:03:09+00:00"
-    },
-    {
-      "text": "The Big Beautiful Bill Is Starting to Bite Before the Election",
-      "url": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:01:02+00:00"
-    },
-    {
-      "text": "How China’s Leader Plans to Win the Future With A.I.",
-      "url": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:00:09+00:00"
-    },
-    {
-      "text": "Stock futures inch higher after Nasdaq Composite posts fresh record: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00VzhGUlU1QW9UTWpKMjZBZTJMZHcwUnB1NEs2eFJaT1FjWkI5LW9QZXEyZWpwNDBvYUVPMHBpM0FKQjVvb0dvSkVkSW5UVWduTjRYU1l5WkFQenF5ZVh2NWo2cVZDWlJIN0JsdHhJMXFVVGZtNGxZ0gF8QVVfeXFMT3R0cmRNcXl3RkMwVklPZE9IcnNvOEhYTV93YmlQT1dtcWVtODhrVmdaY3ZPRllnYktPSWRDckN0eW1MYVhuaTYxVHpJZ1dGUUd5NHRTb2VKbXFSR0FpQUppaGQ3ODhxd3dQOUNOc0VsbVAxU3dwbzRubWVmcQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-23T06:25:47+00:00"
-    },
     {
       "text": "White House Defends Trump’s Ban on CNN, MS NOW and Politico in Court Filing",
       "url": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html",
@@ -140,27 +19,63 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T05:06:39+00:00"
+      "time": "2026-09-23T14:58:08+00:00"
     },
     {
-      "text": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pbVVoX0NwMllscXRwUEEyRFlkOHlHNm9KOWgyVHdreWJXeGZzeGtLTVNsYlhJUUJTbnpTYmkzYVdmTFdtOFZwajFxUmhwQmFZT1FOVVplNkFvRXRRNUFXWWdkajNGVl9OX09vWmh6cV9qUnllMVk0dlhn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-23T03:23:00+00:00"
+      "text": "Bond market losses may offer a sizable tax savings opportunity to investors right now",
+      "url": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-23T14:57:10+00:00"
+    },
+    {
+      "text": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-23T14:55:51+00:00"
     }
   ],
-  "col3": [
+  "col1": [
     {
-      "text": "Why Germany’s Leader Merz Is Struggling to Sway Voters",
-      "url": "https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html",
+      "text": "The Midterms Are the First Big Test for a New Movement",
+      "url": "https://www.nytimes.com/2026/09/23/opinion/independents-midterms-democrats.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:02:24+00:00"
+      "time": "2026-09-23T14:47:50+00:00"
+    },
+    {
+      "text": "Iran's president blames U.S., Israel for global instability in defiant UN speech - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU1BITTg2X284SVBlRmFFUUFzeDN1YlBOWEcteDN1S0tmZmx5R0F2WjQwS1ExcUVwRmVQc3dVd09rcExFbUZGTlZvbG5rSDl0R0hyaGQtMldodEdWTTNZZVFDd2NEMVpMV3IwLVdOcExBNVZSbTRoUdIBfkFVX3lxTE80bGdjQXNYNldKemZVSUlCOGVucVBvZjdSb3VLZlk0SWM0SHU4ZWFSdEU4d0FTUVpVOEtUN3YydGY2WTZXSjhkSzl5QXdfTWRyWUtqRzhGZVhUM3F5YU9PekxnckZHUG1VcXd3QlBiLWQ3RVJZaHBmZXVnOWtJUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-23T14:28:33+00:00"
+    },
+    {
+      "text": "How Scientists Contained a Threat That Could Have Destroyed Humanity",
+      "url": "https://www.nytimes.com/2026/09/23/us/asilomar-dna-ai-self-regulation-laws.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-23T13:57:58+00:00"
+    },
+    {
+      "text": "US judge blocks deportation of DoorDash driver shot by ICE - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qR1Q2UUhOYVVweDI3Uktwc2ZadV9WRG9XM3RwS2pWMW1YNXhHeWVKdVpSRTh2MWlPUzlBOWlCREhkUGxxT0VhaFcwSzlMc0MwS1FIb3RuTzRwcFU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-23T13:40:24+00:00"
     },
     {
       "text": "They Kept Outsiders Away for 500 Years. Their World Is About to Change.",
@@ -169,25 +84,101 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T09:00:44+00:00"
+      "time": "2026-09-23T13:14:49+00:00"
     },
     {
-      "text": "Hurricane Polo grows into powerful Category 5 storm off Mexico's Pacific coast. See its path. - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVF6bUt6V0pRbUpYWExSNVg3bW40U29uTlFpb0hoaUxwMWZITmF6UUxTM1RtS2U3emlmd3o0STZLcG5uLWYxdnA3Q01qenhwaFF5NjNVOUZjaWJTVHZxSmV0UGEzeXgtNlVRdDJfZzlPOXhQaVRCbVRRZjRhMklBTG9tZjg5UjVoYVVIV29vUVJWdw?oc=5",
+      "text": "Possible measles exposure at Busch Stadium, local St. Louis-area businesses - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNThsUzZyU096RVlhRDFPMUNBZmlpUE5qa1dDWlFxZlg1TENJV0NjSFdKcFBmazQwbTBlUjZDY2M3OEdfdERTQUJyVFVBT19JcmVUSUMwVUxad05ET29PZ2pTcTlpcXBoaDZ2d1ZGTnNaNk80bVA4ZDA4QW15UURfU1hRUUxXcENpazlyQlZNVkNSaDcyVGlMTHZpcG3SAaIBQVVfeXFMTkFpNnZsblZIMWdHeVJHcHgzc3Q3dHdBWlJVVC1KeEJIdFVRTVhvajFfdDB0dTY3dUtHZURYbkwyOU5wRnVFTV9waHJTdEpMTC1PdmZJcHQyVUR1NmN1bm14dkpzank4SU1YbldOTUFqamQ5QWRUTlFRUE8yT2g1M0JxTHc3Wll0LWhFOGF5RXlwTzlBeDE3LW04RFJMRTZCdzdR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-23T08:25:42+00:00"
+      "time": "2026-09-23T12:37:27+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Americans are drinking less since the pandemic began, but one group bucks the trend - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGU4a045OTNXeklFQzZlSkl0RXFwbjN0ZXB1QWEzLXVPQndLSjRHcGM1QTNMb1c0a3loNEwxM2hKREJGSXRoMmp1d2MzemU4ckI0akwwTlBIaWhpS25kS3Bqc1Z3Uy0zQTR2a2hyVmJiOFd6Ml9mOFQ3UThuZWQ2My1SX1ZUQWdxUE1tanVMRUxTSThGOEJIbnpydURPanZMcEE5ZTBhdDYtbUhOMV9XX0lTVXBFZUZKUEpCdQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-23T14:32:32+00:00"
     },
     {
-      "text": "Seth Meyers Prefers Trump Without Audio",
-      "url": "https://www.nytimes.com/2026/09/23/arts/television/seth-meyers-trump-press-pool.html",
+      "text": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T06:04:47+00:00"
+      "time": "2026-09-23T14:27:32+00:00"
+    },
+    {
+      "text": "Week 3 NFL odds, picks, predictions: Computer model backs Lions and 49ers - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT1lkQ1g5YzFUN0ZSMkhjTnlVLU8tLXlnZ3JKVHdQNjlkX2I4RU5acEQ2OGN3VkNMVlhIaUxBT0U3MFk0MExucFVfQUJRSTN4YnQzTVJUYURXUTVRVGw4Q2RVOWpWWXpCVTZBY0JZS0dEZE1KRHFVTVhUWjliSzJxMzBfLU5fbUU5RzQzQVVkV29kaEJBbDJF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-23T13:45:42+00:00"
+    },
+    {
+      "text": "‘It’s Really Busy Out There’: Storms in the Pacific Threaten Hawaii and Mexico",
+      "url": "https://www.nytimes.com/2026/09/23/weather/pacific-hurricanes-hawaii-polo.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-23T13:18:09+00:00"
+    },
+    {
+      "text": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWldlMVpZSnpITEpGeUJnQXk5QkRDclZWSk5Fb2F6SDljX3pIN1ROeEg1VWJCR2NoZE5CTnpNVWNJOU1EZC1lRjUtYkJqaUcwMUk0cERBZWFzdmhhQ0xwSDcxUzRrRWFHV2lNRENuXzl0NEVGM1cteGRQN3VNX0ZTeWlwVlk4T1RyeFdjY1YwMUJYRWNBYlNjQks4alNiNHRvYUktclF5RG9WSThZNmU5bXF4a3U?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-23T13:05:00+00:00"
+    },
+    {
+      "text": "China's Xi kicks off state visit to Washington on Wednesday with a rare planeside welcome from Trump - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RkaG5qaGdHbDlPcmdKVDdEMG5mdTlRa0tIQ3llODRmeGtlY0xuWmV1U1Jxd3lHQzI3ZjlFMHVLSzF1ODc2YmIzcjE5aDVDTHpUUTFiYU95Unh4Z01tc29pN21Kcm1JTGRxdE9PUWlrdTFiV0hVS1dQb3VuakxyV24wNWQySlBwUFBCbEc3V3d6VnVLTFpCX05Cc1NfcGJU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-23T12:28:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "One Big Beautiful Bill Is Starting to Bite Before the Election",
+      "url": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-23T14:30:52+00:00"
+    },
+    {
+      "text": "Yemen’s Houthis, Threatening Global Oil, Are Increasingly Supplied by China - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUVwRUtldkxBbUR1NUIyWkFYb3lMZDVRUThtR2drLVlZb0dUVFVqZF9NSFJTVEp6b05jWFBzRkZRcHdnS0xUNmVPdXIwVEQ4aEpUY1pPWXpoa1YyMWlGQjZIZm41bG1XUUxvaHdKbHpuM0l0cnp1VTVtRUFYRnZzQzNlWDBEeHphZGdKQXk5X2p4NW1rdTZRNFJ1ajN3Vld1eG5YTW5YT2pGSHo1TUNKNUVIUlhsSFNyanY0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-23T14:08:00+00:00"
+    },
+    {
+      "text": "Trump Praises Burnham as ‘Natural Business Person’ After First Meeting",
+      "url": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-23T13:41:05+00:00"
     },
     {
       "text": "Dispute Over Missouri’s Congressional Map Again Returns to Supreme Court",
@@ -196,16 +187,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-23T03:59:20+00:00"
+      "time": "2026-09-23T13:16:14+00:00"
     },
     {
-      "text": "Trump says he backs diesel export ban to curb soaring energy costs - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WWjhXb2lxMkhCaDhhMU9OTnVzUUhHVWNiaXJhUHpIOFgwcFlsWS1zQk54ZHZwS1hNTkJfVUdRWl9WOEZudTJERkFrWUVzMGxsMlZpWmdyVGs3TnRJRW50ZmlmTFVsaUNtZmg2aHFSdTVFY1BYY2NCUVg4QQ?oc=5",
+      "text": "Chris Wright Sells Trump’s ‘Energy Dominance’ Vision",
+      "url": "https://www.nytimes.com/2026/09/23/climate/the-former-fracking-executive-selling-trumps-energy-dominance-vision.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-23T12:50:29+00:00"
+    },
+    {
+      "text": "Stock futures edge lower after Nasdaq posts fresh record: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00VzhGUlU1QW9UTWpKMjZBZTJMZHcwUnB1NEs2eFJaT1FjWkI5LW9QZXEyZWpwNDBvYUVPMHBpM0FKQjVvb0dvSkVkSW5UVWduTjRYU1l5WkFQenF5ZVh2NWo2cVZDWlJIN0JsdHhJMXFVVGZtNGxZ0gF8QVVfeXFMT3R0cmRNcXl3RkMwVklPZE9IcnNvOEhYTV93YmlQT1dtcWVtODhrVmdaY3ZPRllnYktPSWRDckN0eW1MYVhuaTYxVHpJZ1dGUUd5NHRTb2VKbXFSR0FpQUppaGQ3ODhxd3dQOUNOc0VsbVAxU3dwbzRubWVmcQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-23T03:19:00+00:00"
+      "time": "2026-09-23T12:25:46+00:00"
     }
   ]
 }
