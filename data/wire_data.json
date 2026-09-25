@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:31:02.558883+00:00",
+  "generated_at": "2026-09-25T01:57:07.738586+00:00",
   "lead": {
     "text": "Stock futures are little changed as Dow heads for fourth straight losing week: Live updates",
     "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
@@ -7,84 +7,48 @@
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-09-24T23:29:44+00:00",
+    "time": "2026-09-25T01:52:09+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Live updates: Xi, Trump meet at dinner for high-stakes talks; UN delegates walk out of Netanyahu's remarks",
-      "url": "https://thehill.com/homenews/administration/6107815-live-updates-trump-xi-summit-media-ban-ruling-fda/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-24T23:21:55+00:00"
-    },
-    {
-      "text": "Trump to Host Xi for State Dinner After Summit Meeting: Live Updates - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2VkRU5jVDhybFQyR1U5VldYcjJXbnRkWVgwMHM5LWEzaFFQU3oyWUlhaDg3MGNZa0llMW5PQ1N0WlUtZDZKci1OTHRwbHN5a1FobElIOVFKVXM5dXBTX01sWG1kQW5oc1REY19OR1l4YTRtemhRMk44cmk5TnhwUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Dale Caldwell, New Jersey’s Lt. Governor, Violated Workplace Policies, Report Finds",
+      "url": "https://www.nytimes.com/2026/09/24/nyregion/dale-caldwell-ethics-report-new-jersey-mikie-sherrill.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T23:19:14+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-25T01:52:08+00:00"
     },
     {
-      "text": "Hundreds of thousands expected in Paris for Pope's visit",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+      "url": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-24T23:17:00+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-25T01:50:12+00:00"
+    },
+    {
+      "text": "Edward Lehner, Who Made Dog Owners Pick ‘It’ Up, Dies at 93",
+      "url": "https://www.nytimes.com/2026/09/24/nyregion/edward-h-lehner-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-25T01:34:32+00:00"
     }
   ],
   "col1": [
     {
-      "text": "White House Restores Access for CNN, MS NOW and Politico",
-      "url": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html",
+      "text": "Full Guest List for Trump’s State Dinner With Xi",
+      "url": "https://www.nytimes.com/2026/09/24/us/politics/full-guest-list-trump-state-dinner-xi.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T23:07:20+00:00"
-    },
-    {
-      "text": "Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery.",
-      "url": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T22:12:48+00:00"
-    },
-    {
-      "text": "Live Updates: Trump hosting China's Xi at White House as they navigate AI, trade tensions and Taiwan - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T22:03:00+00:00"
-    },
-    {
-      "text": "Exclusive | MGM Resorts Eyeing Bid for Barry Diller’s People Incorporated - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWNGTmstTVNqZ25EZmNTNzIxUnBlY0VmZGlYbnJNQ01oQlNrWVRNcFdSQm9URF9xNW9zcjItczZvSF9PRDVGeklZQ0QtUm5TRHNaSVdzSXphVFBLaWZoeG1MQUd2OTQ2SmFUd01sZE5NTGpPbUJxb2VDZnphU0ZVSTA3amRVblJiVkZNcHc3Q3JhQmFBUDZ4MTNZRTYteEVNdG5lNl9BaEhncXRmVWt3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T21:38:00+00:00"
-    },
-    {
-      "text": "Netherlands 1-1 Germany (Sep 24, 2026) Game Analysis - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XRGYxNkoyalJ4XzZVcVJ2aEVuVHlmbm5rWnZRdzJ0YUl5R0lpbzhuTEgtMmFlS3R5SDdtdlRsZjJBa3RyVTJPQUdhVmJBbGZkSHRXbFFGbmVrVnRCTlRaLUllYw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T21:26:56+00:00"
+      "time": "2026-09-25T01:25:35+00:00"
     },
     {
       "text": "Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech",
@@ -93,119 +57,155 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T21:09:02+00:00"
+      "time": "2026-09-25T00:57:28+00:00"
+    },
+    {
+      "text": "Netherlands 1-1 Germany (Sep 24, 2026) Game Analysis - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XRGYxNkoyalJ4XzZVcVJ2aEVuVHlmbm5rWnZRdzJ0YUl5R0lpbzhuTEgtMmFlS3R5SDdtdlRsZjJBa3RyVTJPQUdhVmJBbGZkSHRXbFFGbmVrVnRCTlRaLUllYw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T00:33:45+00:00"
+    },
+    {
+      "text": "Unused Tents and Uneaten Food: Watchdog Finds ‘Waste’ in Immigration Crackdown",
+      "url": "https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-25T00:00:24+00:00"
+    },
+    {
+      "text": "California Supreme Court rules sheriff must return seized ballots - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbE5hWGRjWWxsNWVpT0M0MENPTm9CclpTRmp4LU5tQjFYYndhMUZXbmRmTDZ3WEZreDBuTW5SNEpKQWtwTzVqOXl2TWRQYUdidjhpcDcwUUZ3WHZrN0RuRGdHVnNQMW9HYkJxS1ZjLXB3V2Zka0JSdExQeFZpUnJxbWNLUFBqQWczbHlxX2twbmZxT05SUEJBSlV4Nldrd1E2cTBqcmR3Vms0eG5kb2c0UktzZmhUYkdN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-24T23:48:17+00:00"
+    },
+    {
+      "text": "Hundreds of thousands expected in Paris for Pope's visit - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRk9qcHgtYXlLam9kaElOenBEU09ac0Mta2psT18tWGE3ZWZmNHRYQVRpb1pkc1MxVnBoWUlvN0stTENqcjhBU3BrZlpPYXB3NTZzWnd3ZUdhTFk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-24T23:17:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market",
-      "url": "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html",
+      "text": "‘America’s Bishop’ Was Beatified. 50,000 Catholics Showed Up.",
+      "url": "https://www.nytimes.com/2026/09/24/us/fulton-sheen-catholic-saint.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T22:52:13+00:00"
+      "time": "2026-09-25T01:09:43+00:00"
     },
     {
-      "text": "Trump Administration Asks Supreme Court to Allow Deportations to Third Countries",
-      "url": "https://www.nytimes.com/2026/09/24/us/politics/trump-supreme-court-third-country-deportations.html",
+      "text": "Iran Proposes 7-Day Plan to End War",
+      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T22:11:17+00:00"
+      "time": "2026-09-25T00:47:23+00:00"
     },
     {
-      "text": "Republicans in Red-State Races Are Starting to Break From Trump",
-      "url": "https://www.nytimes.com/video/us/politics/100000011170300/republicans-in-red-state-races-are-starting-to-break-from-trump.html",
+      "text": "About 100 Are Arrested in Protests Against Netanyahu",
+      "url": "https://www.nytimes.com/2026/09/24/nyregion/un-protest-netanyahu-israel-gaza.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T21:49:16+00:00"
+      "time": "2026-09-25T00:03:00+00:00"
     },
     {
-      "text": "Trump Hosts China’s Leader for a State Visit",
-      "url": "https://www.nytimes.com/2026/09/24/briefing/trump-xi-state-visit-mortgage-rates.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T21:36:19+00:00"
-    },
-    {
-      "text": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5",
+      "text": "Survivor of 2024 Trump rally assassination attempt has died - WTAE",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVThNcERycDU2WnJ2OVJQOExjbHR4MUVJUFdhWmRtMHhJX2R0bUpTejJmcXU2Z3VtM3RZTERxWDI4S2xuM2Z3enZJQlFHSEp6U0s2eVpUendjMFZRLWxlcV93T3pqMEJhYlZLZ1FQRHE3VTZ3NXB5emZfVWI4Vk5QYWlwT2p3UmJtU1JURi1FSWl3bXlo?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T21:17:08+00:00"
+      "time": "2026-09-24T23:52:00+00:00"
     },
     {
-      "text": "Strokes nearly double among adults under a certain age in disturbing trend - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemdDcmRWSVZ6bUdmMDdTMnF6a1c0RVpBMlhmZkVvdlJ0TXl4UVZKMUZIOWV3U2lUb05fc05xSnpOaGkyVmk5U0gtV3hVN2Q1dVo3TVdvdHpjVk82eExxT3RvTVBLNVMxX3QtLU4tRUtFYTRJZWU0elFXZ2p1a3ZIYlNaTkV1THFKcDZxWWRHbmVyNzkzYXRNdjNB0gGfAUFVX3lxTE9tZXVzaWc3YWs4bGg3ak1JSVNDYUMtbGR1eGxtSVl1S0d0S2dkTUhudUxQcVZMLS1uT0hxVkdpcFBZS3NXbmNkNnEwLVhZX3hmOE05X0FtOHdhSFJzNTJ0SDFzSWdMaGxNdmpKUkZER3NDQkxraW0yZFp2b1M1MjB6UmFnMHAya202WVJFVnVDak5ra0NFOGtJMU01N3JMMA?oc=5",
+      "text": "Oracle on the hook to pay data centre investors even if site has no electricity - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRnZrNVVKTGFRazBJWHdDXzMwYnM0dWp2SUlhcENBS09rTnAxOGpwSkN2NzBfemtQZ0l0RG1JcEluYWh6enZlLXdqRVBXRWMxR2xuLXBtbWF1X2w4RFFUOGp6SHlxZ2ZUMU5UVml1MFdEYl9ydTl3LS14OXVocTBCbENLMUc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T21:03:33+00:00"
+      "time": "2026-09-24T23:47:35+00:00"
+    },
+    {
+      "text": "White House Restores Access for CNN, MS NOW and Politico",
+      "url": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-24T23:07:20+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Bob Pettit, N.B.A. Great for the Hawks, Dies at 93",
-      "url": "https://www.nytimes.com/2026/09/24/obituaries/bob-pettit-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T22:36:01+00:00"
-    },
-    {
-      "text": "Florida Charges 20 People with Voter Fraud",
-      "url": "https://www.nytimes.com/2026/09/24/us/florida-illegal-voting-charges-noncitizens-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T22:08:43+00:00"
-    },
-    {
-      "text": "Bob Pettit, NBA’s first Most Valuable Player, dies at 93 - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTNSRGpBWVp1LXdneFlZV1lCUTBEV21LR0JBa1NDQlNScDJwYlZJbF9HYzhCZHlNRGpBczlCVE1kS09kc1c0RVdUb29fXzBXN1F1S1h1RjVDX2FjcVFNZnVIaGdRbnNvdHNWUGRxM0dOeDgtdXdvaG5VeEZBZzhUdFN1U09WazVfbGNFLUM2Rnd3cjJVWFV1OFRR?oc=5",
+      "text": "Live Updates: Trump hosting China's Xi at White House as they navigate AI, trade tensions and Taiwan - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T21:46:26+00:00"
+      "time": "2026-09-25T01:06:00+00:00"
     },
     {
-      "text": "Macklemore announces Free Palestine tour to benefit humanitarian aid organisations - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlBSSVZENWVfSVFCWVR6em1xZnllR2JMNmRRZl8tRzZpck9BcjVlbDNkX252STFHcU9OZlNrQTVwMEdrZWVsVk1OQ01rRTEzSHNLOHdnQm1MWHhqMFFHUndXZ25USUJ2UE1HMGNrTHBYQ0ZtU3BoaTMtSTE2cDJOZmdRMXB0TWxZYU9OS0pyZjY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T21:36:00+00:00"
-    },
-    {
-      "text": "Netanyahu defends Israeli military actions in Middle East in UN speech - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBySEh2UG50RGxCa2FsLVVBYUhuZVpRcXFPaUhqS2FDTHNkOFJrOElmVnl1MVR4cjVwekpSTHNMb2NnV0Nzb21HcEMzenI2ekEwc2hkdDVXT0xnV1k?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-24T21:09:41+00:00"
-    },
-    {
-      "text": "In Alaska, Rowdy Members of Congress Are a Tradition",
-      "url": "https://www.nytimes.com/2026/09/24/us/politics/mary-peltola-alaska-congress.html",
+      "text": "Netanyahu, Addressing U.N., Denounces Israel’s Critics as ‘Moral Cowards’",
+      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-24T20:55:30+00:00"
+      "time": "2026-09-25T00:40:57+00:00"
+    },
+    {
+      "text": "Nearly 170,000 pounds of raw meat recalled for false inspection labels - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFpaTmpFcnd3elQwWGJ1dEtJX3UxSm9JaVo0UUg2ejE0V0JxN29ham5EakQzRG5EczU3Q3UwWms1a1dhYWVLM2RDdVR4UE5QVTltSzl2OGJJeXlYY3A3Z1dBR0RtaUZSSndZVkoyOXhBS1cybENxNEJmMWpOa0g1VGtUbXRzaFRsaG5IblNYSHBtV2ZPVnZUVF82a3FBYzJVczdWcmMxSUJZQmUyS2I1T09n?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T00:01:29+00:00"
+    },
+    {
+      "text": "Heavy rains hit Mexico as Hurricane Polo tracks offshore, expected to make landfall on Sunday night - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVU95VGViSGRjU1RCWGRXWXllUGFFZlVxams2bTQ5U2RjZHFJcEQ3TXA0M1ZjTkJDMWdOSkhwdlVteHVqb1JzNkwwVnoyODN4aXFVS0JLUWNRUm9oWVFweV9uOTlUR2N2eV92aFp3UnFTVjhFUTNhdzF4bmdvRE1Zd3BVZkx1Y3dHTTdkQzZLZjRxa0JZam0tdHdrNHhfQ1RpeTlRTF85dWJEaXdDdTJiYUpqZEh3QnM1dmU2eTN3MUZQNXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-24T23:48:33+00:00"
+    },
+    {
+      "text": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-24T23:23:00+00:00"
+    },
+    {
+      "text": "Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PaUNqV3pYSS1PWW1EMmI3cXh6TU00X0RVazl1OGs0dEdHMUdKcmVnVzF5ZFZUWjh4MHFTRnY5S3kyOFZ1V1VNQWNoaWRQTFVtVnZlZ3dYMjNhbDI3dGIxaUtFNUVWZ2dPTVhiVGtpZ2FFZFgzTlExdFdRV0ZEZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-24T22:52:13+00:00"
     }
   ]
 }
