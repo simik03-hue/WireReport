@@ -1,158 +1,35 @@
 {
-  "generated_at": "2026-09-25T21:28:38.133817+00:00",
+  "generated_at": "2026-09-26T00:07:32.834602+00:00",
   "lead": {
-    "text": "Report shows Utah Valley University had several security issues on day of Charlie Kirk assassination",
-    "url": "https://thehill.com/homenews/state-watch/6112409-uvu-report-charlie-kirk-assassination/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-25T21:24:59+00:00",
+    "text": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+    "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-25T23:55:30+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Consumer confidence hits 4-month low",
-      "url": "https://thehill.com/newsletters/business-economy/6112397-consumer-confidence-hits-4-month-low/",
+      "text": "Are Ethiopians marching back to war in Tigray?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-25T23:42:39+00:00"
+    },
+    {
+      "text": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
+      "url": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-25T21:17:36+00:00"
+      "time": "2026-09-25T23:36:03+00:00"
     },
-    {
-      "text": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
-      "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-25T21:06:24+00:00"
-    },
-    {
-      "text": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
-      "url": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-25T21:02:20+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T20:50:00+00:00"
-    },
-    {
-      "text": "China’s Xi Snubs a Troubled U.N. for Trump, Drowning Out Its Big Week",
-      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T20:30:27+00:00"
-    },
-    {
-      "text": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T20:11:40+00:00"
-    },
-    {
-      "text": "Ed Sheeran shows at Gillette Stadium are canceled due to weather - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ19zblc5YXVsOUJ6WmlqT1p4OUJqTGxRcWJ4LW02RW9GQTV1bmpBSjU3ZVUySy12Y3FWQUwtZlFnLUNEejRiZGZhRVA2UElnRmdxX09hZTdoMHg0cUJzNGlFQ1BHOWNHSV9nQ2o0ZXozTm9sYWJEOVJmQnhZUWZVMmxGMXhxa2wxUXljMXJrZzYzQzEydkhjM2FKc3ROV1M0b0lzOEdhOTBHZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T20:03:00+00:00"
-    },
-    {
-      "text": "Supreme Court Allows Use of Trump Administration’s Expansive Database for Voter Screening",
-      "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-citizenship-voter-lists.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T19:34:48+00:00"
-    },
-    {
-      "text": "Dining With A.I. Moguls, Billionaires and Xi Jinping, Trump Went Off Script",
-      "url": "https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T19:07:03+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Bracing for Midterm Losses, Republicans in Congress Try a Pre-election Pivot",
-      "url": "https://www.nytimes.com/2026/09/25/us/politics/republicans-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T20:45:15+00:00"
-    },
-    {
-      "text": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector",
-      "url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T20:26:49+00:00"
-    },
-    {
-      "text": "Midterm Elections Updates: Trump Heads to Deep-Red States While Bypassing Battlegrounds - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LYmNjQVdiWlhhUDJVckw5dE93RDBKSmtnalIwc1ZOSXN4Zl90dnlRTzdjdi0wSW4tbndGT3M5WVQ4NlR1MU9EWGt4b0VheWdBUnFfcVpUYjRTRHdRbDljMHNqSUlvaFFuSGRKVkhMeUo1UVBUOGdvZ3hmWlo?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T20:09:56+00:00"
-    },
-    {
-      "text": "Supreme Court restores Trump's mass voter verification system - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUJNR0o2X0F6cklkVHU5T1RDYTB3WFhsWXkxT3gxRE9NbHZSbEtMZTU4UU54eURxd1VxdGJzYkVxMk43dER3a2FvSVhaeTc4UlNNdVFzV0tOMWxPeWFma0N6bzFzcFA3aGJCdXhKczJXVWh2c1A0TVlOcDlJMlJNdXZmR18xR2ZjV29ISXNuT3I0SEk4YUgxMG9WNWFRYnRqQ3FpQg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T19:46:34+00:00"
-    },
-    {
-      "text": "Here’s How Trump Is Building a National Citizenship Database to Check Voters",
-      "url": "https://www.nytimes.com/2026/09/25/us/politics/what-to-know-citizenship-database.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T19:15:11+00:00"
-    },
-    {
-      "text": "At least 13 dead after military plane crashes in desperate emergency landing near houses as army generals killed - the-sun.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlWmdTYVpNN29EZnRyMGVwSXd3b3drRkdUcUFZRVVKTUgySFJPV19tN2NWOTZwWEtTTkdXZnlSelNWM3JwZU4yNk5LVnZrcVlEVjBSQlFlRjRCN1dpSVRYMmxLRXZNXzJNZnBKLWVreGhidUtXdzY3bm1XYjlaNHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T18:59:55+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "Florida counties declare emergency over ‘wildly unusual’ dengue outbreak - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZMa1FVM3B1dzhnTHN6bW8zZW5XNGNmRXIydnZRX2FSX0s0ZWZzVUlEMDFzTFJEeWNhanVIeXF6Qi1Tdl9JcEJaMmJMb2NrVWk2Tjhhb0kzZ0F6ZUw2c2NQZlk5eEoxd2tqTzRoOGV2dEJncWs4S3N1d1ZBbnFkdW5YbDF4cl9GQVpqZXdVTWVHQ19sTzhyZU5lYjJBVGVzSkNmSzJBaTRlbGRxQkhsQTh5YVcxdHB3c0F0NQ?oc=5",
@@ -160,52 +37,175 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T20:33:12+00:00"
-    },
+      "time": "2026-09-25T23:33:12+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T20:19:52+00:00"
-    },
-    {
-      "text": "Kennedy Center Shelved Repairs Now Cited for Closure, Whistle-Blowers Say",
-      "url": "https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html",
+      "text": "China’s Xi Snubs a Troubled U.N. for Trump, Overshadowing Its Big Week",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T20:05:56+00:00"
+      "time": "2026-09-25T23:06:57+00:00"
     },
     {
-      "text": "South Carolinians: Do You Have a Short-Term, High-Interest Personal Loan? Share Your Bills.",
-      "url": "https://www.nytimes.com/2026/09/25/us/south-carolinians-do-you-have-a-short-term-high-interest-personal-loan-share-your-bills.html",
+      "text": "Saudi Arabia Open to Possibly Developing Nuclear Weapons",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/saudi-arabia-nuclear-weapons.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-25T19:36:38+00:00"
+      "time": "2026-09-25T22:51:30+00:00"
     },
     {
-      "text": "Manchester City charges: Premier League clubs planning legal action in response to guilty verdicts - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmVIeWZJN3ZiWVo5endhc0JUbThDeXE5RW9ibjdEeWNsX2ZHeDBSSko1a3JWNjNYUWE3YzNXOHZhaWphaldwSlVNVHh4MWRlU092VGpPMG9HWlNGenVlM1EtSkpJVFpUa0FuOW1TckN4aVJQWmQ3QndzY3pIR2lyRG9oZkFBeS1GZEVyc2FsTUVoa2xY?oc=5",
+      "text": "Chile seizes more than 200 fossils of extinct mollusks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEtPRjdQeHVpdlg4aVlBZWcxOU5RdmhtdjBuM2hHZWt3TkxmM25UbUFiVEExb0w0ZFhFZENzb2N1TmN1cHZac2xWdmxYNC1CTXJCTndmdHJ1UU5RRk5LMU55TTBzTlVManB1djFsWmlReTZCQnA4UEJnYlZDYWwwOXg3NllSM2tfeUZYbExMbkJQM1QzaTFKVXdPTQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T19:14:19+00:00"
+      "time": "2026-09-25T22:41:22+00:00"
     },
     {
-      "text": "The harvest moon pairs up with Saturn for a 2-for-1 celestial display - KSL.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmpqbm1jUGY5eDRQNjNlcFNrc3VYcW1TQmpqRkxuWEhVcWo3XzdWQl9GemxKMmo2NXJrbl9ETDZZdW9qQzNIZFlxUXBZeVB2ZkUtMEc2T1NaM2ZiREg3RF9WNzNrR01PczVJcXFsd3QtQmo0UDlSVThWNXJqLTRYdE5VelBKT25fVXE0QlAyTy1zdFJnZlR6UE94cm5rejdZeEVrY2J2dVRXQQ?oc=5",
+      "text": "U.S. Rejects U.N. Declaration on Preparing for Future Pandemics",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-25T22:15:58+00:00"
+    },
+    {
+      "text": "Supreme Court Allows Tool to Screen Voters",
+      "url": "https://www.nytimes.com/2026/09/25/briefing/supreme-court-database-east-coast-storm.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-25T21:51:47+00:00"
+    },
+    {
+      "text": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-25T21:36:39+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "ICE Raids in Beef Country Raise Fears of Higher Prices",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/ice-raids-kansas-texas-oklahoma-beef-prices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-25T23:01:44+00:00"
+    },
+    {
+      "text": "New Mexico jury finds Facebook liable for deceiving users about privacy protections - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWG40YndwZnVtdGtfVGxGd01iWWxMcUlSNEVTYzR3bVJETERWMFFlMGVoUnFUWUZZbUVLMTEtTW14VEtLQmdqbVIxQlN6OHdYQkc5ZEZkZlY4VnVzVy1Qemc5WTRIUkFtWjRra0s3UWt0ck1Bblk2WkhtWUxENXNTVTgxMmxUaEpoLTloRzV3eGFCYl9YU0RPd1ZjeFdyck9JMXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-25T18:47:15+00:00"
+      "time": "2026-09-25T22:46:00+00:00"
+    },
+    {
+      "text": "Presidents Cup: International team bounces back, sweeps foursomes matches to take lead at Medinah as U.S. struggles - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVXVqVS1haDFVajNpZlpTekdGbllpYVlkcEszQ0RCSlUwM2RrV0FxTjJ6QnFIakJ5OS15NHZkNFJoZDB6Z0pCSTlBRG5nc2NodS1semkyUnpYQ1hiZ1p6YXB2Sk5vRF9uRWdQTmk3NUoxX1RBMGRrMG1qNi1jcHk2eGpndnhKbFlaaE12bEhLeDVESXZTdk5tWEZ1M3Y4aG5MelhUYkZvWVBYb2JMQ2pRUXQ1STgxbFJockE1OHBvZWhZNnpVSGRCc00zMWtvU2pJc2lrNzZ1bjEwVFhJc2xOdGg0LVhGSEFZc3kwSEtqMWR4MHBudVJfd0puSTROLWFwcGNtZDYtenNCZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T22:24:21+00:00"
+    },
+    {
+      "text": "Supreme Court blocks Trump-backed Missouri congressional map - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSG50OTdCUGVKd2ZLYlV5cmtTMHhMU1o0cXBEOU55OUN3azRWTjBxbjR6UEw0RHB4Sm95LU1NTkc4TTlydVc1Q0JzamF1UHBNdExEOURZNy1vR1piRnhDdTk2VWNiamNySS0tVVJsWjRaOGZvNVl2RWFIMDNDcDFuVFFOLUpmTnlaMnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T22:06:16+00:00"
+    },
+    {
+      "text": "Viral moment brings humor to painful Packers performance in loss to the Falcons - WLUK",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWpLN0lXRkpMVUtBNFp3SkRnbEZBVmVQdmlRbjdBVkp2M21NcThPbTVJRTlPdE5rSXRkM1lGc2pwNk4wVElFeFBQMzc2RFBhcjFBMTlqLUV6dzBlQldCVEdQTFJaOEN6Q0NQdWhmN0o0NEZiV183Tk1YZEFqOUthRHF5N0d1ZEtfRmR5dmQzOFBSeFpWaGF4U3ItWEJpUVkwUE9Bb0RGWFcycU5mYTlYNGN3Zm0xeEdKRGlNWjhvcS1OVExnVzEybkVpRUdyY1lReGZ3ckk5QWRTUWQ5UEtUZERBUnJTYTVLZ3RYTG1OaHpQNTlqczJKaEhZUkxKaWh0T0ZWeW12azNmM2JhUGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T21:49:07+00:00"
+    },
+    {
+      "text": "Tracking the nor'easter: Millions brace for this weekend's powerful storm - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmswMFFuZzEzOVpkNHBTVnJYYmtqaXBYbE9xVTh0OEt0dzE3cXRCY0RpaHVqOXotQmhrb2pWOHBHZXRJT2ttT2NLWEozanlvZUtFdHNyR0otWDk2TllrVTlLa0dlUzZ5bDB5OGwzVTFmMTJnb3ZDUGJHNVRtSmoxdm9hMENNLXBQelB3c3V0WXhCRWpxcUpsRVptTXg1MjZI0gGmAUFVX3lxTE5xU3Rhb1BVME5mbW1XTjhIbnd0UEpJT3lLM0pGTWhvYjZic0Izb21pdkRLbDQ5V2pYUG9VY2l3amJxZGJuRzFrNS00UjRFMDlUb3FpYnNyNXM1VmZkQUEwdmU3eVZYUURVQmxYem9Mbk9WOGhRMlM3T2Q3RjY4dHpNTG9wWElLYnVKdmhKYWlsTndWYUIwU3pYZG41UTYtU0pRLUNpaEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T21:19:14+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T22:55:00+00:00"
+    },
+    {
+      "text": "The Major Social Media Platforms Are All Rejecting Paid Ads for Alex Gibney’s ‘Musk’ (Exclusive) - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmV0LU0zeG9OUnU2Sllwa05wYVdWYmEzTm9QaHJBYTNzWS12Q3c5SHRuMnNteU5CYi1SdGNLT0FIMlZ1WGtGbXc0MWZNd0piS3U3R01hWUFqM2pXZXJUQUdaQzhiX0JPc1Brd2Q0N2ZLbTh3RHk3WHEtc0xzRTJ3RVFaX3UtSEE2Z2dtam11T3ZpNmFKUGxFNUdFamUxR044MzV6RmhXdnhsWUVodTVKMndMM0RPWk0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T22:45:45+00:00"
+    },
+    {
+      "text": "Stock Market Today: Bond Yields Drop With Oil Prices Near End of Volatile Week — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJlV1lCRUFaS3NFZVdBQ0pzbGZWS0xieVRwbHUtaHRMSTJJU0xqT25TQjg1R2M4OU5UTHNFQ3F5enpXNkpCMmZUWVNFOVJ2NWVxN25QeWxLVkJGdVlVVmx0cDFxdFBwVkZwcy1ZM3pGSXpnVzVmMDBjNUs5R1NjZWNPalFfTEk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T22:22:00+00:00"
+    },
+    {
+      "text": "Iran offers US deal to reopen Strait of Hormuz in seven days - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Z0pMeUNRaTNfWUlMQmJEWE1mcW04c09tZERDRTR0aFRicWJ0b1pLczlhQ2lYMGZDTFlBMXMya3ZrOHdwcmRqTk5PQzZiODFFNndGTm1iT1NBc1U?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T21:57:23+00:00"
+    },
+    {
+      "text": "As Xi Leaves Washington, Divisions Still Simmer Beneath the Surface",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/trump-xi-state-visit.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-25T21:46:26+00:00"
+    },
+    {
+      "text": "New Jersey lieutenant governor resigns after release of damaging ethics report - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXYtcEZNUEdhRWxQb0hWaXVodGVhNDVrWFNxX1JJaGxBQkhFV01lVmRfbDBad2JnYnN5XzltclhiNVZtSEVGdWVNRDNIVGNZWW50RTVSWFJfLWl1Yk1xOEVHeERMa0pDcDlsc1lSYlhrd2NoTW1VNDJTV3lXZmgzc2RjeWlxV1h4cnV1X29DNU5Vd0p2RFNBR3pKZ3JmZXJ3UDBoVHB2Q1RXb1J0WXUw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-25T21:18:02+00:00"
     }
   ]
 }
