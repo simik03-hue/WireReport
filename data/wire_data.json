@@ -1,54 +1,90 @@
 {
-  "generated_at": "2026-09-27T18:14:51.697058+00:00",
+  "generated_at": "2026-09-27T21:27:28.001592+00:00",
   "lead": {
-    "text": "Trump calls arrests of UK men on suspicion of terror offenses 'fantastic'",
-    "url": "https://thehill.com/homenews/administration/6113865-trump-praises-uk-arrests-raf-plot/",
+    "text": "Anthropic CEO Dario Amodei to have private White House dinner with Trump",
+    "url": "https://thehill.com/policy/technology/6114077-trump-anthropic-ceo-meeting/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-27T17:54:49+00:00",
+    "time": "2026-09-27T21:16:40+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Lanning denounces ‘disgusting’ late hit that sends Oregon QB Dante Moore to hospital - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVozWlFRNjBlNWdFVjVIMmxyc25yNDQ4ZW5ndXUxVlFPRks0VDdGdGZ4b29zLXhyMS1sYkxCRExCcE5CVzJma0dvN3N1TkMwaE5VM0JDVEl2anduWUFkQm1QMF9tLVlGWHdJYkdPbFRuaGdDSDdnVnE0d25YTDNsYjdDVWtiZzliY1RmYVhtYkpPdGVOaUR6alFiOFFhWHczU2NiQXFn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T17:33:00+00:00"
+      "text": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-27T21:00:06+00:00"
     },
     {
-      "text": "Live updates: Trump says US 'better than ever before' at Presidents Cup; Blanche defends White House media ban",
-      "url": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/",
+      "text": "Dems vow to confront Israel on violence against Palestinians: ‘Out of control’",
+      "url": "https://thehill.com/homenews/house/6112471-democrats-to-confront-netanyahu-israel-west-bank/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-27T17:31:00+00:00"
+      "time": "2026-09-27T21:00:00+00:00"
     },
     {
-      "text": "OpenAI Agents Hit U.S. Government Websites - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjB6N2NpT3I2TmpaUlN1b1pxNjJUTVMtUlNNX2JuNDhaR0xPNGNHSy1GMi1XSDl5T29CVnF1WGlRODRQall4a3lva1ZJU1hyUDA4d1dTWU13LTFjRXExRUZvbUdtNDNrVmYtb2dnblpFRmZpUWtZTEJLNzVNTzZiOUR4Zmp0TlN1?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?",
+      "url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T17:28:45+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T20:57:44+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VNX0kyN2M4aXM5VzRkdUluMTRvNU1XOERTWUw4cHR4TkJhYTdTOUlqR25QNDFzc19OTGZ3WU93c1RrZ3FTRjI1ekduc0E4YjRDQXpyU1BFRERHZ0xMVTAzUWVQV2o0Q0Q5MnJ0X1FxMEJmX29MWFhFZmQ1TUNmQW4tUHFOOFc2Zlp6czBlTFdMWmM3d2g1SFNB?oc=5",
+      "text": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
+      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T20:52:53+00:00"
+    },
+    {
+      "text": "'SNL' spoofs Trump and Mamdani bromance, skewers Natalie Harp - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONVRrbE5CYzlRazczV1ExaF9ySHQwWDhIYk5wczhPbWxuaWJicWZwcXViVUZqU210c0YyOGlNcUVCRVFvc3BiOGk4SXNQWTBrdVFuWE5PWkZkMXZHNUxmbFdGS0x3RE9HV3Rfd3gyWEEwMEwydkFvd29BUjlHdk56OEdnTm9KeVhRYmFuR2NmVUpUclFVRXRocWpBdnpmS3pQdWFlMU5DY005RDBZMXZrOGQ2RUtmTF9ITTdCc0d0XzhHQWdSbVkxcVo0d3U?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T17:21:34+00:00"
+      "time": "2026-09-27T19:57:00+00:00"
+    },
+    {
+      "text": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+      "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T19:50:24+00:00"
+    },
+    {
+      "text": "Amodei critics target Trump with hit piece before White House dinner - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1BGNXMwVjN2cld4Y1lKNDVDUXFkUnhobW50SE5xaDlJWjhWeHFnR2Yxc29IcVZjdEFiWkd6cFpRZjBqRFcwdTZjaXd5VVh6OG42azdkaTdsZ0JjRXVwcERod1FhdDZ5TGVMRjVfRmNRSl8wbnBPaFhDSkpkODE4UnZR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T18:58:30+00:00"
+    },
+    {
+      "text": "OpenAI agents tried to ‘bruteforce’ a UN website - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVRjTmdjdnpYT3VIdE14OEh1QmNSc041UkN6NFVuMjJlUFBQdVlVVTB1TFVwenFWa01BMFJMd0VGNnJ0b0x6RXJ1ck52VUUwMDYzWEloQlFFa0NObmVHUklDTnFwdklsaTRXc09EUlNWamdNM3Bkd3cxbnptUXVzWHZ6MEgtUVhjM0I1UzZnN2tRMVBwaFJXdXJGOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T17:21:07+00:00"
     },
     {
       "text": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
@@ -58,45 +94,45 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-09-27T16:47:53+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "‘Avengers: Endgame Encore’ Scores Massive $86 Million Globally - Variety",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFVBME9uTm84RjY0d2ZwaHAwWFdPSC1kVVFwMVRFWVQ1cGdtanNyci1xeUR0VWZ5eEQ2ZzhUR25WTmZFLVpBRVhOb0ZHSkFIbUZybUIwV2xxRzFaWG1CVjRBVERyT0V5WjhwRWw1NEJ6OHRMUTh6OXhtVERrUW41cTMzUnZCU3FwQ0J6dlVZOXRSNFp3SnJoa3Q5OUJvS29vVHBLRzAyTG5uYWlTQmQ0eWpmTll3WkEyTXM4VVpfWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T16:16:00+00:00"
-    },
-    {
-      "text": "5 Men Arrested on Suspicion of Terrorism Near RAF Fairford, Air Base Used by U.S. in Iran War",
+      "text": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
       "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T15:19:19+00:00"
+      "time": "2026-09-27T20:20:19+00:00"
     },
     {
-      "text": "Blanche says president has right to restrict access to White House and Air Force One - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3lTN3RJYm1ndDQ4SkRjLVJibDdWa2l4YzB0S1M1cVVfMTBzNWJBNHhsUHU5clMyVlpINWJxWnR0Y1NsdFRiNTIwQUY0VS1SaGsxRXFmWlZPQndhTk56US1HUThVaXI3WEI5MktnQm53cWJtVjQ3TVZJck96NDk5Z0dGQ3J5RlN5eFdZZA?oc=5",
+      "text": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSUVsMFM4WGF1c1NReGpTcWN6OXZQWFR3ZHJoR0p6MmtPYWR4N0RmSWFJcGdFMUdaemVpODhabzV0ZE5iTFlDNDVvUDAtc2IyMVVSNklTMWVXT1RqdlVTY3BMZDRuRGhjYlZybzRTQ19sT3Nld1JYQkE4Z2dTR3dDYXB3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T14:38:00+00:00"
+      "time": "2026-09-27T19:55:00+00:00"
     },
     {
-      "text": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXpqejBESDFab0V0cC1EaEFFN0pVdk5SanJRcXRMMnhWSk5xdURna1ZadUdSUkFCSFExMGxOckNxQWctSzgzcU1adDFJcGxtUC1ndC03UDJ0WWtRaTZ3SG1UcVZDQzVPaXk1ZW1sNEViSmlEdUZGTE5FbWRmTTRHVTVGMGNHdWpIVEU3U0lZeGRGeDcwckl3cGxNbjE2RE10MXRWcGdCc3lkX2s5amc?oc=5",
+      "text": "Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajVfLXo0QUJYM3FjWldGS25aQ2dsYnJ5QXB0NFpuQWFETmRGcVdhTFpfZTRaeENKTktaVHZ6RF8tcTBoZGozTmYtdWRTR3JkbXdoelZXblVHMEN6UlVpSmhteFV6YUx3dTByN255b0NhU2VXNjRmUkcxcC1QdWJkc3E3SkVvWmg4cjNGM1lqOXhUNkJiWkh0T21abXpKNUE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T14:10:16+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-09-27T19:37:00+00:00"
+    },
+    {
+      "text": "USC suspends LB Stephens one game after hit on Oregon QB Moore - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWhDa0lfOU04M2dHU0FuNEt0b3Z5QWJub29XZXJLaXRXbVhsUmxYa21PeElMWkRfMUg2Zng5ZmtrY0l2R1RZOEkyMVY3SWJzWEliREpFSmFveUFvRU1HN242WDhwbXhmVHlGbERtYTkwSkUyYTRJeTk0UVRKcHhleVRxanFWY2MybnN3c1V6dURmLVdSc0VTM1VPSm92VTh1TW5KRWk4R0NXWWFNRmd0Uw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T18:30:00+00:00"
+    },
     {
       "text": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
       "url": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
@@ -107,105 +143,69 @@
       "time": "2026-09-27T17:17:43+00:00"
     },
     {
-      "text": "Pope blasts assisted dying as 'false compassion' at French shrine known for miraculous cures - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGNkWi1oNWFZak1oTmlybWllMDVHMXlMMzhCYUxGMGhJeWNqbHBFaHV6eHNBZGdhaUNlWjVpcFdTdXNtTDZVLWR3bTRJcHlXR1VZV3JqLWpXbS15WXduWmdjdThmeFQ1Qkh4eVZaZ3BrdzZGRWxEaGJOaU1vWHI4VVREbThpM0V6OV9uZ2Y1WTNya0toZVZzblB4YTN1NGR1Y2hqcHd5Szg?oc=5",
+      "text": "White House airs another government-funded ad, this time with Trump warning of ‘final battle’ - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVBacDNSTEsxemZPY1NtZ2FoREZBZXpMV0c4RU9PVTZmSmtpRWtvQmlSRXZGbEZfYmNYQWtOSGYzMzZjbGMtd1pucFRJeS1zWW4zaW50alFBLWF4YnAxZm9RUFJKRHQ0ajBKYUZ5aEw2YmpXOGpIV1VEVGZNRjlmc1MtZ2s?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T16:39:00+00:00"
-    },
-    {
-      "text": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
-      "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T16:07:26+00:00"
-    },
-    {
-      "text": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
-      "url": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T15:16:22+00:00"
-    },
-    {
-      "text": "Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajVfLXo0QUJYM3FjWldGS25aQ2dsYnJ5QXB0NFpuQWFETmRGcVdhTFpfZTRaeENKTktaVHZ6RF8tcTBoZGozTmYtdWRTR3JkbXdoelZXblVHMEN6UlVpSmhteFV6YUx3dTByN255b0NhU2VXNjRmUkcxcC1QdWJkc3E3SkVvWmg4cjNGM1lqOXhUNkJiWkh0T21abXpKNUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T14:26:00+00:00"
-    },
-    {
-      "text": "Two mass shootings in South Africa leave 27 dead - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OcFRmTXRXMWwwbU1EajhqRUl1SXdfLWtsa0pXTzU4bTBOY21jVHp6Ui1PRUU5TmlVQmNPVDZkWC1wOFFBS1o5azZZdE9yT1RLbjctRXZJMmN6UzQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T14:09:22+00:00"
+      "time": "2026-09-27T16:37:47+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Live updates: Powerful nor’easter lashes East Coast with rain, flooding and wind - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KQTF4ZkhIeHpQWlFBTTJuRTNfQW9wbldWR2l2Uk1rRERKd05NVVZDTEpWRWl2dFdnM3lYV1NSTThxamk0OFpTeGhjdThkUldKVzBnRVUtS1FodVlxWUNvV2tDNE9yRWRuTEo3MUFQUVRSV3I2VWRFVTNCRWw?oc=5",
+      "text": "Sheriff’s office: 11 wounded at Macon park; two teens in critical condition - WGXA",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUFnTTVqRGI4TXNnbGRNZEQ3TVRtbmdkY2xQS0dZWk1MWWctSlllOGoxMHEzUHZGLXVJYUtKMnI5eGhyTzNzaWxpSTBIYzd2dlM2UmxST1Y5amMxUkhwV19PSkxseDIteHotRnoyQ0lTUHhyWjRSYi1NNWo3UWdQc1JvRldBaXZtV3IxekgzYXhzU3ltVFhCVTRZTFlMSmt3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T17:04:00+00:00"
+      "time": "2026-09-27T20:05:35+00:00"
     },
     {
-      "text": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSUVsMFM4WGF1c1NReGpTcWN6OXZQWFR3ZHJoR0p6MmtPYWR4N0RmSWFJcGdFMUdaemVpODhabzV0ZE5iTFlDNDVvUDAtc2IyMVVSNklTMWVXT1RqdlVTY3BMZDRuRGhjYlZybzRTQ19sT3Nld1JYQkE4Z2dTR3dDYXB3?oc=5",
+      "text": "Patriots bench Drake Maye after 3-turnover outing against Jaguars - Pats Pulpit",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNclJVTVcweVVNQU1ndUxhZE1KMXRUNDJGREJpT2cxTDB6UEtPOTZWS01FaXVnUDdmYzNFOGQ3TWFwMU5yVHV3QUVqaUNqcDlxa2lfLU0yWUdkck9URGtUREJsdnh5aHNjNEZEcjBMYS04NUlNT3lzTEtCU1Zaa3dLcGZxeXZlV2NtSU9fdDViQ01scEliYkxOODc3cUxSM01aNHpxZ3hVZ0l5a1pKcFJhN2NzSXBwejJ1NjBjd0w1a1NFdHM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T16:29:00+00:00"
+      "time": "2026-09-27T19:50:42+00:00"
     },
     {
-      "text": "UK's Burnham pledges to fight next election on social care reform - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZjNEFENnpUa0RvNmFIYTRuU05YWFJNdVJpX3o4VzFYRGZTVXdEYXdVeHFINUI1SzVCSE5FM3ZGWWVGRUlQTjlwZGZHNDlTYV9Vcjk4Qlh2TnA3b012SzN1X0JrWjE2SU9FMHFxeFVhNUlSb240VENjU0RyQWM5ZEFBRWdEVm9hLTJQMklzdWNUVlRnSVFVdXRZN2pPTnMya3dlVHZB?oc=5",
+      "text": "Pennsylvania Measles Outbreak Grows to Nearly 900 Cases - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGNrYUJ3aHgzTnRNLTJpTVZ5OW5lZHVneWpvMG9WaDdTenphVFFtR1NVZXB6clRyc0NzbVBKUXRBUDhtY0t2czJBS2oySFFYT1laeWFnSTlkekNXd0xhUEhiRUdTOFJoczhWODVJUjJEQzJPZkk3MGlZakZtRkFCR3QwNTA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T15:40:26+00:00"
+      "time": "2026-09-27T19:17:09+00:00"
     },
     {
-      "text": "Why Travis Kelce Isn’t Joining Taylor Swift at the VMAs 2026 as She Receives Major Honor - Yahoo News UK",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVUtyT3FjLXZYSWlaNnVfTXpJZ0F4V1NaT01QbUlzbnJfZ24wNGFldWJOWG9oRFZfVzVGY2JvSVNITHlXVnptMVBDVHZuN0VIUTZzZF9aYU9qTmhMQzZQOUJxcGNjRk84WDRnQ0tlU3U?oc=5",
+      "text": "Bill Gates says an AI ‘kill switch’ isn’t enough - politico.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkx2MFZsUm1zS3p2OVktN210cV9PMHdubGRDcHNaWEFfVjhQRWlvQVZnY3UzeGQyTXVLVTV4blRjVUNVVTk1cW1USFFjOVhSX044a0J3WC1adW50aUZneXhvVHRpUFMwcVpjZWd1RG1QOUN5TVo5Zm50bWJ3RzZ4ZA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T15:14:54+00:00"
+      "time": "2026-09-27T17:35:00+00:00"
     },
     {
-      "text": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wZ2EzQXUxU3Bsa3k3QWxzMWY4bmx2eWd5RTZ6YWxxbGp2LW1jdms3MUNpRG5oQnRicFc2WjJPUE8tM21BclA1eldHSy05T0tsQ1piUUJRVWlTakNiNU5sM3JpUVY1OWJLQzA1UTZ5S3M5N05WZ2w3SGE0aHA?oc=5",
+      "text": "‘Avengers Endgame: Encore’ Powers $86M WW Re-Release Opening Ahead Of ‘Doomsday’ Global Domination - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1U4VEFGeGFHLW5OT191Q1VIR3p5VlBwbWJVNWo1ZjI4TWoyNmtweVZvUnBoTmEwaHFqMW5UQ1lPd0hrVXFOMVV5dWFhUzNob2Yzcmt3cUpZTFo4a01ZSHFBdTJoV0F1QklDeDlyVXJVVV84MVdEeURLbHVWNDRya1BvQ2NyendNLThmbzJTRXJrWXd5?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T14:20:05+00:00"
+      "time": "2026-09-27T16:57:00+00:00"
     },
     {
-      "text": "Meta’s VR Glasses Are What the Apple Vision Pro Should Have Been - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjk0Q2VnTVNKdm1ubXYwSHdGSFlHcDRUN29YWkh5NmU0MjR5cGt1b0xJM21vTWE3aHFBTmhVaThPUXBNTXpiLUY3OFZTYUZPd21KQ2VmZklCU1c4R295cTZVMlpCMkFZblRUUGRDeGd1Q3dTZ2RaU1puQmFWeXJWLXJDSWNma0U1T1NGR1VQZWI1NEEzc3Fsczk3VEtteTMxMDZvV3ppUWd6UU9yZzQza0o3UFFiUmhSb00xbGpUa0NCQ19udmxxOGI2UUtZSDhW?oc=5",
+      "text": "Why Travis Kelce Won't Be Attending the 2026 VMAs With Taylor Swift - E! News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEpZNl9lU2ZJQ1J3N0stUUt5eTlmbE5BWl91ZVNxMWt6RXVjOG1SYy1vNVdsUnl1eFA5Vjh1Rm0xZWFzM25rZnh2V1BsSXRvVWk2aWVjakVHRWdXaGFPZWdFOTV5aWx0ZE1lMjRxZmVIZTNTVXFMbmdTVm5zbXBEZkVlclIwSTE2ZDdJMk1pM1FPeXBYV1hRWDM0SnZ5dGxo?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T14:00:01+00:00"
+      "time": "2026-09-27T16:11:00+00:00"
     }
   ]
 }
