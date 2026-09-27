@@ -1,81 +1,166 @@
 {
-  "generated_at": "2026-09-27T01:51:47.484317+00:00",
+  "generated_at": "2026-09-27T07:58:47.855394+00:00",
   "lead": {
-    "text": "Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
-    "url": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-09-27T01:23:02+00:00",
+    "text": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+    "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-09-27T07:44:11+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Likely Piece of 1884 Shipwreck Washes Ashore in Nantucket During Nor’easter",
-      "url": "https://www.nytimes.com/2026/09/26/nyregion/shipwreck-nantucket-noreaster.html",
+      "text": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "url": "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-27T07:13:12+00:00"
+    },
+    {
+      "text": "Maybe We Should Leave Birds Alone",
+      "url": "https://www.nytimes.com/2026/09/27/opinion/birds-feeding-britain-parasite.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T01:04:42+00:00"
+      "time": "2026-09-27T06:39:25+00:00"
     },
     {
-      "text": "Misfits Boxing results: Henry Cejudo upsets Javon Walton; Tony Ferguson wins again on bizarre night - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOWNRVk0xSnNtcHk5aDJEa2o5SEhMOWQ0TmY5aFczYmNPMzVLQTFzOGsxRmppbXpQRE9EeTlRZDAwT2xxZ2daNlBKMTl0d3BJRVF6VEV6R0JyVTR2dnAwSXU4a3FPaWpiYVNNa1JsekVQZ1daQXhkSTlKd3pIMHhnS1NCYi1MbnA2dU9QSVgzRlAySTJvTndBWW1fMzQwMlZ4c1U0ZnpzVzUyVi1iN3YwZGE4dDZYMGVNczJDVWRJWF9acWo4VVFBcERBV1RVYVBhVGZjazNlRU5MSWhQN2Jic2RxTTBMODV4R0pVYkFqRGU5bFU?oc=5",
+      "text": "USC loses to Oregon in yet another broken promise of the Lincoln Riley era - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYlM2YVJRSlBEVmYxUHVHUGFwOUtqZVdTMWt2ZEpraFVuOUp6TUd5ZzloVTZwdnBmNmY2TTF2RDBNd25qQWVYbVg1SEhLQkxwcFRQT0NnNlB5V1BDc3JDSzUyaGprMXZETVp3eENPT3FIdzk3eUI0bEtkZlptQzdxSUdPV3VvZkdJXzE2Sk5BaEtaUHZzU2RxT05OSjBWVXpkX0psam15azJnZXoyMmNjLXFHUUlLX3BHTlE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T01:04:00+00:00"
-    },
-    {
-      "text": "NAZA film-makers address threats at documentary’s New York City premiere - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEhXMEZEeWZwU1dXR29aZVJFdzlLc1hkTTZHQzdZUEFOQmFHWUNrQnJ4RzZtOFFvRXk5cEZCT2ZDWHBKMjhtYVNRVU9wQk5DalZqQ081Zm9lWGktQVltSXQ4WHpsMmlQQVVLMXhDWUFfdE85RVp1b0hLejZEaVVYM0l2WQ?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-09-27T00:49:00+00:00"
+      "time": "2026-09-27T06:34:57+00:00"
     }
   ],
   "col1": [
     {
-      "text": "A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnlUcl9RcFhzRHVKTHdsMkNjUGxybUU4dTQ0YldldnFkQ0FpSnNpT3RCTnZhb0RRa0pZZW1Zc2JNeXRTdm5VZTUyMElFT3o1ZzFVSzlCbUI1RVkxbkpadmc0VDFVR1JhZzhCVDl0bndqODk5SWl2S0QteHFWQkR4YTgzQ2lEazFEYTJpNFNSaDlGdGQyZE9YU2c1eTQzaHg4RVU0NHh2UHhOOUh3dUZ0eg?oc=5",
+      "text": "UFC Vegas 121: Raoni Barcelos stretchered out, hospitalized after scary fifth-round KO by Raul Rosas Jr. - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYjBYTmZMcEdZMG9WOTFQeUhXTUZlQ0JzTDJTRlNCUzN4dk5ISnAtUzlfOGZ6OXc3Ri1OTTFLWjhEdTlVTzd2SUl1MUJqZTdxd0RrYktMUHNHQlRDZmhtcVFtRGpsSUhkT3Z2b0NQMTdITE5iX29VTktFTzQ5UDJLaDFxOTdJQmRRSFNfS2tmeG9RUVZNWENjLVpxR2kxd1FaSHQ5dG8wZ1hPWUZWU01oeXlmV3A5WFdhaDhEdmstNHUya2tILWNsb2tlYW9FallYVXNQV1lRMVMwUDdLS0YxNS1fbmVrcE1N?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T00:31:35+00:00"
+      "time": "2026-09-27T06:15:00+00:00"
     },
     {
-      "text": "Trump tells female MS Now reporter to ‘be quiet’ amid questions on press pool ban - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbkNMcDNlcFJTb19pSVlxNTd4bVVjSUQ0YWhkLXpNYUpRMlg0bVZONlgyX0FpaXpCdWhROG8xREw5ajRpYUZsMjVSRExDSnhhODkwbGhNcmJpRjBHRng4XzFRZzRraXN4SGJ6QnR2eUxGcWE2b3U5QkJ5WWdvZ05pcm9R?oc=5",
+      "text": "NYT Strands hints, answers for September 26, 2026 - mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnaEJ6eGF2bE82WXFjOGFEV3J5djluWnQzeVdtbFExaUNyMkVTamhiSUdkQjluaDQ0T09aUW13NVNpOFFtV0x5TzBIdm9XYjhScU9KWVVmejkxX0NDZkFDMW5uOTdra3BkNU1uQ2dWNVFOaVdFeTRubA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T23:41:00+00:00"
+      "time": "2026-09-27T05:12:23+00:00"
     },
     {
-      "text": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWx0bFpIWjhrWmo5ODhSTzZ2U3hyYXhuLTQ3eEVFWk9vdGJZWC1nNHNoS1B3NVVKTUJBWjZRWnhiU2hNbnd2M1lpeG8zdHJjd05uQXlaQTJ2OGJiVHdqY2JKd0VTUEVNMWZhQlN6eHVMVF9RUDB2SW1vTE0teHlFaC1PaDBQY3NjUEs5aGhyT1ZNV3FjMG1XcUV1V2d4QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+      "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T23:18:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T04:01:24+00:00"
     },
     {
-      "text": "Xi visit delivers coal deal, tariff talks — and plenty of unresolved issues - Politico",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTMFZHdmJyVEZFU3RXOURfOVpzLVZKV0pLWHdFNTRMY3pGV01BZklSY0xMUk1DZDdKVU5JQU9qeFMydzhWZ3pRMTRjS3ZoWFA0b2ZKakhEZTNBZFpNaGd1OUZmYW9nMkNJZUUzRXM3dnFiM1pEckVfaHJySDhxbGM?oc=5",
+      "text": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T23:05:00+00:00"
+      "time": "2026-09-27T03:30:46+00:00"
+    },
+    {
+      "text": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+      "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T02:40:41+00:00"
+    },
+    {
+      "text": "A Storied Indian Business Empire Is Being Torn Apart by Infighting - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmRwdlpxTlZDbkUyZllWTjEtNWl4dlhyNXo2cTRHYTZPa3U1NkRIU0JhMEdQUUVrVTJSMGRfWWxNV3VhWnJyTzRmamh4VlA1YVdNY0xUamU1cVVtUThYRkRpSHB0a1R6YkxFM3NIMmtJaFF6cHZ3YWUwYnJxR1JfTktOLVpsanBpc255Y05xUDRoNUNZb1ZEVjdPUUw2MzhybW1F?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T02:00:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
+      "url": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T05:38:02+00:00"
+    },
+    {
+      "text": "Host Jalen Brunson gets assist from Knicks on 'SNL' premiere - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMzk2eG1BX05YWW9JcWhSemVSNDl4a3drS1FQZ3ZNbkNva19RZmctZlFJUE04M2t1Z2lGQUFMNWhVUEl3aHgycFNXSmoyc1BjX0Q0dFFPWTlFZDVmalo0Ri1Bc3NFZ3l4UndmenVtSnVtMmZrajk4Z3FFVmM4QnlDOGNzUUxGSzBjZmFSSV82Qy10dXgzX3hjSEM1WQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T04:26:00+00:00"
+    },
+    {
+      "text": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGhjdXRNUGtqV0dwdUpYZFkwMXptRGNJbnd3SUVDMkZTSFJyTGFzVHJKWHZPemF1aEowQk1SdlNIWkpSZ2xpb1pmVmVUdVl5NkF5SXJaeFJjNVNNcHBpWEpKd1NxUlFTb2VwYUNtcXBuNVlGM0U1NHc0YjVTZGNRQVJlUE05VGtxWXhFcFV2WVZBWGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T04:01:13+00:00"
+    },
+    {
+      "text": "Trump Promotes Criticism of Republican Who Broke With Him on Immigration",
+      "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-salazar-immigration-criticism.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T03:12:09+00:00"
+    },
+    {
+      "text": "OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T02:33:00+00:00"
+    },
+    {
+      "text": "Iowa football stuns Michigan 20-19 | Leistikow's 4 takeaways - Hawk Central",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPajZVajV5ckdCc0lWXzROU3lEMC1MM1QzOTlqdmtCaV9tN0VqSW1WdldlamdyVVVraDF3Z05XTVdNRUhwQ2dHVUdGdGRCMWFsU2o3RWd2dGoxTUpaTjNnZFBoVDE4Y0NSOFpFUDU1aFpUV1g4c2JWS2FZWUtnYWYxVzZoNlRyZXpkdi05cUotcjluNlhNdk43cnZiQXk2bE1QWFZ2LUhlcTBYS2N1MWkyT0NOeFVfUHROOWJZZTFya0t6RXpHa2h1NTZfN3JISm45MC14STFR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T01:48:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Hurricane Nolo skirts Hawaii but powerful winds and flooding remain threats - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LOTgxaHBzMXlGZ1B6STViS2pZT2h3MElZWENia2lzSTU4dUJlT3BEVE5zQWtINGxUblhUVE9nLU5fX0ltUHFGMkJNY1pvRUxzNnlLaXctUDRpWndKcm1nY05VN0pqSkltLXlqMXB1UGNxRHNFWGRz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T05:13:00+00:00"
     },
     {
       "text": "Prime Day Hasn’t Started Yet, but I’ve Already Found Deals Worth Buying - WIRED",
@@ -84,128 +169,43 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T22:09:00+00:00"
+      "time": "2026-09-27T04:18:26+00:00"
     },
     {
-      "text": "Mother of woman found hanging in tree shocked as police say body was staged - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xQUk3MFRXWTdKdGJDN001NzFkQm9XemJZNW9ROWxlaWxCYzhMZzNaZ2FFQ2I3RXZiMENUcU5XZ21pSzJwOGExb1RXSFlqa25KUG9qN2FkbWpfOFE?oc=5",
+      "text": "Trump administration considers building baseball park in Grand Teton National Park - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVFhTm4ycnVQYVVHWTZTMVMyOEFRMERMYTVKUXU5MjRycmQwU1NWUXE0bjg0eHVjVGU2cFB5SnZKWWprcEszTW42TXBrRHlMdmlySy05WTBwb1pYNHpiN2VLR2VsZ2haeU5tekg4MmxqZHlwTmNqLU1aOF9nT1hZQm9EaFBISHlPMTdxbUdMYm1wNUxFOFBtYm1GSFU2dWppdjNvcGxoa3pTejRfeEE5dGNCRjhYYVFkQ2Y0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T21:13:13+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
-      "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T00:30:52+00:00"
+      "time": "2026-09-27T03:50:51+00:00"
     },
     {
-      "text": "Trump turns on Salazar after Florida Republican challenges his immigration crackdown - Politico",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTVIN2JySEdVOEtXY3BNeWdzbVBKbnZWSnVnUjFOcW1YNm1xT0tVUmFyTFlJTnNKcG1Tbl9MenJIOVBDMmhfVE12VEE5aUdKSjVKMEI5cGpsazk0cy1ZOEpTNjRZY0puQ0pEbDRZVFRCSVZjTzl5bjN6T21OZkZXYkhqUmhZN3VTYVRrYUZNdTUtbmhSRzJ0angteUk?oc=5",
+      "text": "‘Star Wars’ Is Continuing Skywalker Saga With ‘Spider-Man’ Director Jon Watts - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdldCdFpid2dCRER4elJ5aEpiSThWR2hRZk5qdnN2c29ZNDlKOFhqYkNZUUVlMjFDUFpieGsySVVwb2NRRFI3MXduemd3UjhqVlpuUDg3NmVYSWRkcy16eGo0MFBubTc0ZnVoQ2V3Q3RXM2d2OTh0LXRtN3VFTUk1QkduQzB4a19uVTR6eGJlTmk5WTNLXzQtM3hWcw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T23:34:00+00:00"
+      "time": "2026-09-27T03:07:00+00:00"
     },
     {
-      "text": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVcwVXpranllUGhnazJBdy0wYUlyaWVabzY1azRDejFVRDVmaFUtdGxIRXZVN0ljSllBUUtIWTF0eW5HVS1ISzBGdWRjYXJQTXY4WWFqR3NtOHBGdktkME1uVWliRTdxVnRZWmxZWlFwb2lvTnJXMTQ1RHkydm9MN2Z1X1pxUHFrMXN4alB3?oc=5",
+      "text": "Lawmakers slam Trump’s move to cancel $810M in funding approved by Congress - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXVETWhHaVFMQlVkMnZ2alg5REZhdmlBT01qc0xHdlBlbjJOWV9DSlllOWxXT0N6RTYzRklKZlZvZ2pYZ002YjFQeHZYZUNkY2hmcWJvdjNSb0ZucE9wQ2hpZXlDUWJxVGNPTVZfWEJoQjhncTN3MU92SnNRV2J3QkV2dHVROUF0d0xTdEVOcjhOSTc5aHI3UmZLQXNlaEQ2dUFvTElja20tU0pEbExubnhMbzdGaFo1M25B?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T23:15:00+00:00"
+      "time": "2026-09-27T02:26:34+00:00"
     },
     {
-      "text": "Trump Administration Plans to Gut Clean Car Rules",
-      "url": "https://www.nytimes.com/2026/09/26/climate/trump-fuel-economy-car-rules.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-26T22:55:14+00:00"
-    },
-    {
-      "text": "The Full 12 Rounds - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yMEpJT0w3R2puaVItNzNPVlpSMjdReVRxaGcxdjh0UXh0ckFQTDNPT0lWNFdDaHdHY3FZOXdlRWx2UjFKUC0yajd2SzROQnh1VGQzMDZLbi1FdmRkNXotcVBrQlR3NjVoLXBjNEFmWG1leFA4VTlxRTBocXRWbEU?oc=5",
+      "text": "College football winners, losers in Week 4: Iowa emerges as Big Ten title threat, John Mateer struggles again - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXVOWTJNZ01vcGJfMzhyS1ktR29FNU5aYy1RTUNyUTFVR0t0YjZXMWxMbEdmeHhpLWlHUHRHd0x5dldNWV9xVW1xd2VPUUhES2xYaHFYZTgtLVU0LXBWTFlKWUZRMVBrTDIyRnRLMjRnTGRvSWptcnlhRUNIVEhRVzdRMEtaakpnR0ItSnpKSWlCMGdkNk5RZkFtbzAtUWtXREJNeFlVcWw5SWRHVGNEVTZDRQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T22:00:05+00:00"
-    },
-    {
-      "text": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-26T21:02:42+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T00:12:53+00:00"
-    },
-    {
-      "text": "Iowa-Michigan winners, losers include Hank Brown after last-play touchdown pass - usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnZRX2F2NGNzZzRUSmFGMlVEMWdWdHVoamtMX29WN290SXFvRVZxWHFTVGhVRWVuNFNWeXZ6c25vM1lhWUtHbEt4UUJYT0JtelloeFNQU2pGaWt0MVV1X2Q0TElic244U1pzMUFxN3BwLXA4ZE14NVZFRzN5ZWE2dTRZNVdiMkhXQzJuVnY2YkpFVlo1WGJWT0ktZGZmbjZiSV8ybHB5dkVQSlVwX0x6VUgyTlh1UFRCU3M2QS1B?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T23:24:00+00:00"
-    },
-    {
-      "text": "No. 1 Texas, Arch Manning outlast No. 14 Tennessee: How Horns survived Vols’ late surge - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnc1Ykplbl8tYlVDUEYyVlNQU2ZWT3Y1SnIweUtBYi1HdG1UTWRNMnQ4S2U4Vk5WZHR0dU9ZR1NPUnFNV01fdDQzbFpKTlJKRkdWVlI0cC1JWEZOc0Y0Z1lObDdhakVoYkg4MkhTdkdwd2VTUjVZQ0tNRDloeDdrbUNtSURObDJpUEJieklpZ1FTNDV0VGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T23:13:24+00:00"
-    },
-    {
-      "text": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEJFcjNvV3FnbnMyU21pVDFZV1k0TzFRajdDb0hHaVlrcFZlWThrTDZqdEwtQjdsOUdGeWR4c0JUdE1BMEFzamc5SmtfT3FUWVB2Tm1aa3daSWRoM3JqUl8zMVZkLWdfVm8wdXoyNzBmXzRRYnBvdGptV08xYkFYT1VmZ21wSUlvRHppckpmWXhUdWpCX0Z4RVhaNA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T22:35:00+00:00"
-    },
-    {
-      "text": "Woolly mammoth to be resurrected with the help of AI: scientists - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWg5NjdLX0wzblpOSmZ1dl84MDVKWnlvM0hTMkpkMjdzQWZadnhSOUxfN1ZLZVNJemhxTWtnZ3B6YmUxWGNoazlzTlY2OEpQRzkwN1VfdjZWZU5DVUxxLXNaQVFuTjRXcDJ0b0xpb3dNRFA5YnVxcGpqY002c1NpUlJrYnozdWlwbl9VcGVjQkduUW9mUXVlSE9oVXYxaUFEMXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T21:48:00+00:00"
-    },
-    {
-      "text": "Hurricane Nolo expected to bring heavy rain as it skirts Hawaii’s Big Island - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjE4b0dGeVFxdjBwSGpZamVtSXk3Q3JKVG85b1JORm5KZzRFTmxZQlFxYUQ5MGZJWE1zSFdmejRENmpqRDR1RzByQ1Vqd3NhWVlXWE9uNm95bDI4VG41OFlXVU9kYmloVE1yS3h0Qm9QNDBEbGIyYjEyVklPU0gycWxEcThOVERfYmxpZTlHdjMtSXRwSUhLRktEak14c2RIcUhTZU9ocEpNUGFHRmtDUW05LTg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-26T20:52:00+00:00"
+      "time": "2026-09-27T01:26:37+00:00"
     }
   ]
 }
