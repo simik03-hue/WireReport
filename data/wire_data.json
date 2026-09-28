@@ -1,90 +1,110 @@
 {
-  "generated_at": "2026-09-28T11:44:30.868375+00:00",
+  "generated_at": "2026-09-28T18:46:00.563852+00:00",
   "lead": {
-    "text": "Stock futures drop to start the week as oil prices and Treasury yields rise: Live updates",
-    "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-28T11:38:27+00:00",
+    "text": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
+    "url": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-28T18:43:57+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S.",
-      "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+      "text": "Stocks making the biggest moves midday: MongoDB, Boeing, Kodiak Sciences, Roblox, Nvidia & more",
+      "url": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-midday-mdb-ba-kod-rblx-nvda.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-09-28T11:32:02+00:00"
+      "time": "2026-09-28T18:43:50+00:00"
     },
     {
-      "text": "The national debt should be the number one issue in this year's election",
-      "url": "https://thehill.com/opinion/finance/6111791-federal-spending-crisis-solutions/",
+      "text": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+      "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-28T18:41:51+00:00"
+    },
+    {
+      "text": "US aircraft carrier deploys to Middle East to relieve USS George Washington",
+      "url": "https://thehill.com/policy/defense/6115812-uss-theodore-roosevelt-middle-east-bound-iran-war/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-28T11:30:00+00:00"
-    },
-    {
-      "text": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
-      "url": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-28T11:29:38+00:00"
+      "time": "2026-09-28T18:41:25+00:00"
     }
   ],
   "col1": [
     {
-      "text": "China and the U.S. Pledge to Cut Tariffs on $60 Billion in Goods",
-      "url": "https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html",
+      "text": "Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees",
+      "url": "https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T11:28:27+00:00"
+      "time": "2026-09-28T18:39:14+00:00"
     },
     {
-      "text": "Live Updates: Iran says Trump must choose between war or diplomacy as talks expected to resume this week - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWE0SmFYMGplRWp0MEtWY3Fia2dlSW1QTEQxa2hyQTBHdE9MU213SFhMRU5EaGZQaUZSV0hlLWhjWWpZMHFuSWQ0MjhlczBvbVFvSkVNRDgxT0pHN0dOd2l0WS1TNGE5OEpiWG5YODg1cDRXZnpjZXBVQ1c3SXFJTEFxYjM?oc=5",
+      "text": "Cornell Sexual Assault Investigation to Be Reopened",
+      "url": "https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T18:07:59+00:00"
+    },
+    {
+      "text": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmdWRXZBTWhBR2puTlBtS1hiWEF3NnVZWlZ6WWF3SzB0Nm5hb0ZFdzh3RGtYNVBVcVA5ZjNscnpKbG5GeXUxaVBFODROaXR6QmtCUTZKaUJyS0g3ZVNMYjF5czh3ZE9LTWU1TnFKanVlcmN3ZjlOQjhoNllubGhEMk5JS0ZYNVRydmtha3Azd3JKRzNtZnRXRG1DOERmY3NnSTFIS3RuY0xvTnFsNWNvZFhwTlVzMzg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-28T10:44:00+00:00"
+      "time": "2026-09-28T17:57:00+00:00"
     },
     {
-      "text": "Stock Market Today: Rejected Iran Truce Pushes Oil, Yields Higher; Dow Futures Slip — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXE5MUh0WU03bjJHMmlXVGN2Y2hTVnAxNzN0SUVLN3lFTHJoOTdlcmxwMlhVeWJ2M19RZXpzaTc1cE5JdnRYN0lHaFNWd0hMWEtzSVBIcG8tbkN0X2xoWmJfNUFELWY2dzJuYklxUlFRVU56eFV0Q0xSUnNZWktFdlZZc2t5UVU?oc=5",
+      "text": "Andrew Bailey, a Deputy Director at the F.B.I., Leaves His Job",
+      "url": "https://www.nytimes.com/2026/09/28/us/politics/andrew-bailey-fbi-patel-bongino.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T17:40:04+00:00"
+    },
+    {
+      "text": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
+      "url": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T17:11:27+00:00"
+    },
+    {
+      "text": "Apple Releases iOS 27.0.1 With Face ID Bug Fix - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91MG1yRlE5NUZYRm9Fc2NDQVpTd1hoOGpEZWwwOFV5bFFzWGdlOEF6U1l6d0lCSkQzWVVBeTZfMC1uMGMyME9LYmVxM0E4WEdaX0Y5YmY3dGFxc05jR2JLaXRIaTVLb0owT2NvYjFMWE8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-28T10:33:00+00:00"
-    },
+      "time": "2026-09-28T17:09:47+00:00"
+    }
+  ],
+  "col2": [
     {
-      "text": "Unanswered questions loom following alled UK terror plot arrests - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMzNPcUczY0hOWVQxQmx4cGIxU05aQ1hMdWhYckhqMS1kY2Jyc0VDeU9PYjdBNXV1ZGlxQzFxZXNfY0ctcC01TnJqM3RCa2lONW1kRzY5aXc5VnBDaFAyejNMQWp2Rl9jWkhCN1piNU55MlExVDZReW5qbTRKSUdrY25USEd2OXJGUjg1TGozSTI3cmc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Trump Sharply Scales Back Fuel Economy Rules for New Cars",
+      "url": "https://www.nytimes.com/2026/09/28/climate/trump-gas-cars-mileage-standards.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-28T10:12:51+00:00"
-    },
-    {
-      "text": "The dangerous assumption people make about aging — and how you can prevent a silent but potentially deadly disease - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjdpZzRnbVdYYUxSbE8yWThpdlhxNWpxZWRkcFZFNGJKREFoQjdsbEkxcEFxOTdtM1BKS0FheThpcnJKVi0wWXBaY0hFdDd5a1VkaGw1UzQ2RjM0WVhCOW5mRUhOTDJYS2Y0Tl9VSklZMzc4Ri1RNUdQcHdhNmlHdEhfenpMaHVoMFBNbTFCbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-28T10:00:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T18:29:45+00:00"
     },
     {
       "text": "Affordability Is a Winning Message for Democrats. But There’s an Even Better One.",
@@ -93,119 +113,99 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T09:03:31+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
-      "url": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T11:09:31+00:00"
+      "time": "2026-09-28T18:03:55+00:00"
     },
     {
-      "text": "Protein in Every Food",
-      "url": "https://www.nytimes.com/2026/09/28/briefing/protein-in-every-food.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T10:41:11+00:00"
-    },
-    {
-      "text": "Possible Foiled Terror Attack at U.K Air Base Used by U.S. Raises Questions Over Security",
+      "text": "Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base",
       "url": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T10:29:12+00:00"
+      "time": "2026-09-28T17:53:47+00:00"
     },
     {
-      "text": "Who’s Winning the Race for Congress?",
+      "text": "Stocks fall to start the week as Treasury yields rise once again: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfcHBSWXRJblRwTG9LU2FTa2padU81clRCNUE5aVFMSHRsMEVXNWVKd1RINFM2VjhCSFNyOUVEVTBFTkgxeG5NSVBPWXZnWkE5Zi1fWTE1c042R2diaGNaUG52Qm1Zbjc5TVlSdTRWRlFKQ21laXJF0gF8QVVfeXFMUF9sSmc0eVlfc0psUWhFVUc3WVNwWFZlSldzSUtXamRDd0VKQTRqRjMxSWNGSEdTZDJBWEVtS0JkVThUV1I5cVFCNHV4UjZxQVcwR09qRnRRVHBFeTR6Qk84WEY5Y05vZlNZNU5NQnYxV0ZTSlJsSi1VNkQtVw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T17:24:53+00:00"
+    },
+    {
+      "text": "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center",
+      "url": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T17:10:20+00:00"
+    },
+    {
+      "text": "Min Jin Lee Was Underestimated for Half Her Life. Then She Started to Write.",
+      "url": "https://www.nytimes.com/2026/09/28/magazine/min-jin-lee-american-hagwon.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T17:06:37+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "In reversal, Justice Samuel Alito steps aside from major climate case - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREM2X2ZCSkdfNnFScktPdkxRMGtQMHhwUGgxWlZPdC1yVGhadzQ3bWpJZzVrXzBQT3Q3NjRXZm9PZ0hsa3BwUlNrenVnbXJKVWxDcl9rbWd0b29CaW5HNUU1ZXlHX0kxemVsWGJGOEw3elhnVDlWNnlPYXVKck5uT0V1Z2lEWGJlVEtaazgzcEZiVGdMbjVEY3UySGE2SXR0Q3VhRGlnTC1fbVFxTmpDVVRR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T18:10:42+00:00"
+    },
+    {
+      "text": "Who’s Winning the Race for Congress? 2026 Midterm Elections",
       "url": "https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T10:04:09+00:00"
+      "time": "2026-09-28T17:58:25+00:00"
     },
     {
-      "text": "How Scientists Can Shape Public Opinion Over A.I. Risks",
-      "url": "https://www.nytimes.com/2026/09/28/business/ai-scientists-protests.html",
+      "text": "‘Showgirls’: The Gratuitous, Surreal Bomb That Was Maybe Brilliant",
+      "url": "https://www.nytimes.com/2026/09/28/movies/showgirls-elizabeth-berkley-verhoeven.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T09:05:13+00:00"
+      "time": "2026-09-28T17:49:55+00:00"
     },
     {
-      "text": "Trump’s Tariffs Push Canadian Companies to Look Past American Links",
-      "url": "https://www.nytimes.com/2026/09/28/business/trump-tariffs-canada-diversify.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T09:03:13+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "30 Ideas for Fixing U.S. Schools, Ranked by Experts",
-      "url": "https://www.nytimes.com/2026/09/28/upshot/ideas-fixing-schools-ranked.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T10:47:29+00:00"
-    },
-    {
-      "text": "What time will SpaceX launch its 1st orbital Starship test on Flight 14 on Sept. 28? (Full mission timeline) - Space",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlZWVGNKTVZnZ0JrVTI2QjA2ODZJanN1RE00b0FLYVJkRXhwVHNWcjVIVUtxUzdCeXJ5SGJHRE1PVzM3MDNiU3FjaV9INDBLMk9vUkc1MnE0NmY0NEEweThaRDd4R2M3VGFreG9MWWRTT3dtaUlOeG1RZEpad2xhaEM4UkYtc0ZJWkhkeGdXVUltcXdidzVZTHI2VnRMMTc2ZUliZXBpcENoUGVfdkQ4ZFBCam4?oc=5",
+      "text": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHNBUUJQNHp0ZS04eThmNWdpWkhmdE9MOWpoY3dJRjV4NWhuc3ZIX0NFUXB6ZEEwdHlMbHd3SkhzejYxNF9Tcy03QXloQ0hiZVpMWk5mUTBsQi1XQ29ySGNsMk5DSzNkRXZaZDRXRVR3WUdxeTZ0ZHozTVA3VUNWSWx0b3dZWW15Vm00LWRHb3BDNGM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-28T10:34:11+00:00"
+      "time": "2026-09-28T17:14:25+00:00"
     },
     {
-      "text": "The Xbox Series X Can Now Play PlayStation 5 Games - Here's How - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXprZjRhN0RhSWN3QjhyNDA2dTdkTnFVTjMzMlBKd1U5VkJfMkQxT1JQblpoNnRyOWNScjBfRWJNenY1b1d2ZW5CNEJONm5aMWNVdzZneDhKb2JXZTRsWXZwc2FJbGpIQmtkbzkzRU1xd0x2RmN5b0F3ZVlyUWFtVTR3?oc=5",
+      "text": "Possible Terrorist Plot at RAF Fairford Air Base in U.K.: What We Know",
+      "url": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T17:10:01+00:00"
+    },
+    {
+      "text": "NFL Week 3 Sunday aftermath: Tyler Loop's heroics, Drake Maye concerns, Brock Purdy's MVP form - NFL.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2JmTndhWXQzMDNlR0NwbThMVy1YRWJRTklRSi0yb1Fpbktkc2RyXzRBNU9zUGs0QThNT2ItQUZLb21iU0xOTFNJMlQtdHBCVUNaM2ZLQ1ljNkNEajVwbTN1NThSYjBoYVFQc3pUTEdEMVdhYjB4STM2MHZQQW9OVlpqeTF2R1Bqd2wwdUhBcWZGMUNNV2otY2d3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-28T10:17:00+00:00"
-    },
-    {
-      "text": "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town",
-      "url": "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T10:00:17+00:00"
-    },
-    {
-      "text": "How Do You Open a Dolly Parton Hotel Without Dolly Parton?",
-      "url": "https://www.nytimes.com/2026/09/28/travel/dolly-parton-songteller-hotel-nashville.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T09:04:17+00:00"
-    },
-    {
-      "text": "What We Saw in One Venezuelan Gold Town",
-      "url": "https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-28T09:02:29+00:00"
+      "time": "2026-09-28T16:59:06+00:00"
     }
   ]
 }
