@@ -1,25 +1,128 @@
 {
-  "generated_at": "2026-09-27T23:55:02.406898+00:00",
+  "generated_at": "2026-09-28T05:08:20.978881+00:00",
   "lead": {
-    "text": "Stock futures slip after winning week on Wall Street: Live updates",
-    "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-27T23:40:24+00:00",
+    "text": "Tom Kean Jr. Backs Trump on Iran and Tariffs, if Not Local Issues",
+    "url": "https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-28T04:31:38+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "One dead as nor'easter storm pummels New York and New Jersey",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "NFL Week 3 grades for all 32 teams: Ravens get 'B+' for wild Rio win, Raiders earn 'A-' for beating Saints - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFVkVFQ1Y3g5MjRaVDNsSm5JZWdoOEZ1NHgtSG5hOGx1LUU3YTlsaVc4dm4yZVVEOFF0TG1acDdSem9qZW1PcEVNd3JFMkItSDFIX2xYMXAwUmpvbE1Va3B6QS1iNVQ3SnAxWk50NlJOQjNuR0NZaUl2NnFHSjJhOUtIYXhqRzI3X1NCbnRKSTE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T04:20:00+00:00"
+    },
+    {
+      "text": "Nor’easter Weakens but Remains a Threat",
+      "url": "https://www.nytimes.com/2026/09/27/well/noreaster-weakens-but-remains-a-threat.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T04:05:57+00:00"
+    },
+    {
+      "text": "Stock futures slip after winning week on Wall Street: Live updates",
+      "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-09-27T23:37:26+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-28T04:05:45+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "SpaceX prepares to send Starship rocket to orbit for first time - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2RkMkI4ZlBkTUhDYWZkZVBWa0M1c2JVZ2NMS1FuMkhqa3RjSERxMi1XWXNLUkNJZTNJaUMzZ2hJbWtGV19ES1RJazJ2YlVLTGpGQnpEcFFPaENXeUdyUVZZUlJkT1hJUWVISjhHQW5wb0JueUR3QjJoS3dXS3lBeUktQTAzLWN6TGd6VjVIem9EZ1IwekdLaUtHNFJtNHhkclHSAacBQVVfeXFMTy1yTXk1Qk0wcEZ2QnhELWJQOVZtaEZFUHozUFd6TnNqNjFmNTVaNW1qRk41Yi1GeW8tZXhXMnlhZjVUQWFsSzJPZEVvNUtONjQxVTlsRkItbUI3aHVtVUtsdl9QbWJxSWxKd3FYcGhNR3Fkb3JtZTFxNXpRaGlHRTJZdGlwbE5CNzF5bkZmbjcxSlN5LUNqNVJYZ1Fvc3NhUzNaN1U3cWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T04:01:01+00:00"
+    },
+    {
+      "text": "Benjamin Satterley Dies One Day After Match: AEW Wrestler Known As “Pac” Was 40 - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHViV3NXRU11QURLN0lXd18xWEs4Y0VySmthdXJBQUtNUk1CTEh4UzE4cjlYckdJM1IwN2NiM0VPU3drbUU3ZmlJZ25lck9xYXlSNklKOTRXZnlHR3hfUHBzY2k5Zk9SQTRqanZaeDIyME02aVAxaWVQRXZ6QXgxQ2dXZEhCQTdl?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T03:29:00+00:00"
+    },
+    {
+      "text": "Taylor Swift premieres music video for 'Patient Zero' at the VMAs - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTNuUDYxT3JGYXdrUktRb29uM2tlemhPQ2UybDNfYzdfZzg3M1NNbWZtbDZGMEhabFRvWEVjbEJYUkxkcWNBTllqY3Y5N0RJenRRanNCTkk1b2dsTWd0ZFlIUUx1Q3QwQjVxUUtJVUVHQnpNbGRrcExobEl6N1FJWk5Qb0FxUldnU0FMaHc4NUx2a3RpYVBhLWl0bkFaenNkUEpqN2Jxd3RzTi0tZmp1c1hlR1gxQUlLbEV6Rm44dnpEZ1F3UGFR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T02:18:00+00:00"
+    },
+    {
+      "text": "Walmart vows not to use customer data for personalized pricing: 'We won't do it' - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnJSVTIyLVFYOC1vUFhieUV5cTZqN245cmRTeHJrVnNWT0JyTWJlMWVMeERsc0l3WEl4N2NpVmtTNDhTRTgtNHQ1X1gtQlIwMElxbWREYnFTYWNkRzlDMG1acmxOSXl3a3AwOUc2U0hmV0drTnM1aXV5R2xtbHhzSVcxMUE1c2FYaWp2ZEZVaWphUVE2TzFqYVQ1bUQ0cGhXRFFZZ1JJb9IBrAFBVV95cUxQNHhDYW95cXBQeEpORVhlT21ZWFZKMXJkcmJaUzdCeXJJRkpzMnRkeTBkSWNiNjRSR1RkdmVVMjJHMUJqdTdnblJ4Z3hlZGwxa2xseWpHNU04NnJITUVXOXJpUXFUVm1VMEhjdjlTaFZhTFYyV2VaOU1CNFJNS3VaWmlpdTU3QzR5Qy1SVkRuXzVtSGFKZDRyTExISnc4NU1jLUJwT2hXYVVGS2Jf?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T23:57:00+00:00"
+    },
+    {
+      "text": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
+      "url": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T23:02:13+00:00"
+    },
+    {
+      "text": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
+      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-27T22:12:22+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Here Are All the 2026 MTV VMAs Winners: Full List - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vYVRuSDZCR1JhcXpZRUxQWWZpeWVYdTNwX0NDY0NiNURjbF9Gd04wZEdyU0xCdmJXUHFDRmh5eENOZ0cwSHJ0YU5xNXpWRzE2OGlDdnBsbzBFc01CWXQ0bTlPX2w5UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T03:33:45+00:00"
+    },
+    {
+      "text": "White House expands taxpayer-paid ad campaign boosting Trump - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXhWMktSSF9XWkdfZm92cWticXh4YjRrdnBSRDE3UzdlQ2FZUG9MMS1TaGJ4NDNJNHRrY2gydS1oNVlSd29TTWxZdTVESXhCTERWMlJBSjhSeE9scy1reWtLOGJpZUdKLUNpN1dUaFh4bGg4ZlVWVFFIZXJEaW9xbWdueFBKQ2xjZEhqaFEzdFVjeUxheWdsY2JSNE1YLV81Q0FjWU5TaHJ1cnJ1NnBKQXNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T03:00:54+00:00"
+    },
+    {
+      "text": "Ravens beat Cowboys 34-31 on final play in Brazil - nbcsports.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0ZyOU9XcGNhZEJNMGUzMFMzSjZTSlJwSWVrajNDTGV6Nk04SGYzeHhzSGV3Q1FvMHRzclg4Yko1Y0lzWXRyUFY0ckRZbkhFa3BUQUR2cmVMc0V1WFRZbUtvek9ubEx3RWZGZ1lCQVdMclk4LXVPYnR3enFtODJrSlhFbnNHOGhlUTFEMGVmNjIyU0hsTkYwal9aZ1JNWjAwMGV3MGMwRXBmOW9md0pIUw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T00:03:23+00:00"
     },
     {
       "text": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
@@ -31,33 +134,13 @@
       "time": "2026-09-27T23:33:39+00:00"
     },
     {
-      "text": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
-      "url": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-27T23:33:21+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "MTV VMAs 2026 Red Carpet Outfits: See What the Stars Are Wearing - TODAY.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHhNOWxOaENELTk5dHNtSVIzck5JRF83RmNTY1Vxb2txbGl0SVdzOXZMbjBjTU5RZTlTV3loZzFuT0dWWE5yNTJ6ZmRLU0RrVzVqbzhvM1g5VHE4X0tKcXNRU0gzUjBCQlJxcUNVb29adDU5SkJ1NFBtR2pEYVBXYW1MSm53aE5RbllEcXlB?oc=5",
+      "text": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNODM1VjBnUGM5YlU2UlZueXNfeXVmcmtGb1ViSzNEUzg3bkhPbF85ZjRFU3lia001V1c4NTRqejVoel96b2VUZGZoN0NYNXBnRmJJWGVDLXNCRmhaVzczd1QwNXZlZFQ1eld3LS1BVXYwWkdHN3h3OGl2aFdKSUtnYW1wS2Z4T1BNeUhZYm0wRWRKejBHTXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T23:29:58+00:00"
-    },
-    {
-      "text": "NFL Week 3 winners, losers: Commanders spring season's biggest upset, Drake Maye's miserable start continues - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQlVMbE1DVVF4MU5Sc1JNclhiVEhXZ1JEbmNyaGpGVDJKZm04emVpZEk1TGlGMDc2VVhoZGRCeWdmeFVrM0lWdi1qQzlkM2hvY2RzVEdsS2pLeTl0ZVQ0dE5xRTJyZjRMelVlcnhTSmlqZDNMQ0RLR1NFY0E4c3ZTSTk4ZTF5bGJQcXdCLVdHOE80RF9paWE5NmQwQUxkWGc1OWtxYkpyYXNReGtN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T22:18:59+00:00"
+      "time": "2026-09-27T22:59:00+00:00"
     },
     {
       "text": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
@@ -67,44 +150,44 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-27T22:11:12+00:00"
-    },
-    {
-      "text": "Phillies avoid disaster, clinch NL's final wild-card spot after near-collapse ahead of D-backs - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUHdWRXFxc2cxNWxORkgxWXZTS21PRndncHppTXlBTmtodGpGRTdVLWlETlcxVzNLZTZEYVZXMmNWQWg3X1dxSF9MRzU4bHU0ZGpMX1hoUlU0TFVpbVVNRGR6aVpUYjFFNWdNbEhwOVJUMXpYRl94bU5WbzdQYTRBbXpxUlhCV25yeDRTMU9aN21YUjhCaFVfSDFiSS1vOTJpRVB5TmhvaGZNeERiYzByNl9uTndjVldadk0xZ05IT3dPU3BNSmt3TDdvRUJwNmtTd2JoTUxCcVZZblEt?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T21:20:01+00:00"
-    },
-    {
-      "text": "USC suspends Desman Stephens II one game for Dante Moore incident - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdXN6LU5RT19xb3NrdXZUTEwtWmtWT3V1S1Q2MVVtZFVVX2Z5SlpBTjRMTG9PYmlnNVdreE1PWEQzUms3c2R3M05hLVdBeWw2U19zMHZOUVl0djVqVnd1cklXWDRzVzlGLUI4OXJxWi1kVThlSWZGZFI0cXFXSmVTYVg2RGU0aXYxX24tQTNlQ0dpMWJjUWhaRUJERWw5YlFXSGhiRDRKcEFBcEMzLWl3YnRUdEFFRlJueFJaN05zaWhadTQ3eHc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T21:03:53+00:00"
-    },
-    {
-      "text": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
-      "url": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T20:20:19+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
-      "url": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "NYT Strands hints, answers for September 27, 2026 - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Xd3NDdi1KWk5OTVk5OUJHNHROdy1NN3pWbU5XT0l1VUVRaFRlcWlvdEU5S3pTQkM1a21OMGdNNmJQTExUelJsaThRVmNwN2wtVlhIaEVUVi1UVU5qb250cWliaTVYeGNIRHRscmZXb1FHcWw5NV9SSw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T23:02:12+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T03:30:05+00:00"
+    },
+    {
+      "text": "Bo Nix throws two TD passes, two-point conversions, Broncos-Rams tied at 16-16 - nbcsports.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOV9HY3BuU0FiOUZyYmtna3A5cWd4NEl6ckp2NlV0MVluMnVCX01WNmFMSW9PQkhTSUttWVNrdGhxdDQwUTMzeG1EaWY3QVUtd3dJcmdNbjJPbkpSRk9ZWlBEMkRpZ1J0djlmT045T2xWQUs5TEoxUTB6em1fM05ncnR2cXc4S21CSGU4cnFtZl9tZnRETzJLay05eEtoX0FHSlNrZDlWcUJmc1dsSzlBM3NHVGlSbEZ5enJUTUhwSV83b2wzRXhiR0c2YnJLeEp3V1lscg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-28T02:50:59+00:00"
+    },
+    {
+      "text": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iS25pUWtaQlhIVkNyU2oyYjg1enVuSE9EV3VvR1RnM1NkeUFBTzNoZW1WZDhkTERTQm5WZmUyYkxMczhLLUVXaExhMEhyc3RCcHlxZHMxNk5JSjNJamZmSklPTXVHWWhwVE80YWR2Y3ZZS0FKakFTQzhGQWhmd9IBgwFBVV95cUxPRkh5X0phRnhfLXYzbGtUbXU2UTA0UVowTU5hTzZKNzJEZHZ2SUZXb1VwSUR5M2lwU0x4Qk9EUU9XeW9pREVrdmRMZjVRZXM1MWZ1NFR0d2xaS0Vzc3dWUnQzVWFfUUE2WTdDcC0xSzZETm1VZ0w0N2pCQjJvbXFjLV9UNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T23:58:57+00:00"
+    },
+    {
+      "text": "You need £17,000 for a first home - here's how to do it - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NdWFUejRJTUppWUpPcFhKZnE3VXdnXzhxV3I1Ynk0TnNZYWVtMTRhZTNaVkRlMU43bExLR0V4S2tmYnE5SEZyT1hhVXlEcW54TkpVVzN1VmlVU1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-27T23:20:43+00:00"
     },
     {
       "text": "Dario Amodei of Anthropic to Dine With Trump at White House",
@@ -116,96 +199,13 @@
       "time": "2026-09-27T22:12:24+00:00"
     },
     {
-      "text": "Drake Maye: Patriots offense, own play 'unacceptable' - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTBKT0FEZm5GWE5TaDFpLXdzV3BuQ2o4RTB0LUpreC13WGgwbU0xYVNUQkd6M2I5eTc0Rl8wX3BYTlFkV2lXeWluekctMWFpVGp2a2tMWlRNT3d1TmY2M0Y1ZExrQTNnR0JJS3pjVGI4alNsY0xYT0RVNmM5LU1WdUsyU2h6NTlCb2N3R01ZQmZ4VlRxeW5SWjVn?oc=5",
+      "text": "Deadly storm hits the Northeast, and five arrested on terrorism charge near a U.S. air base: Weekend Rundown - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcFpiVm9ScHMtbXNsOTQ3RFFOU28xUjJlM0s2Q21MU3ZsdWFRdjhnb3liNVdOeXpVcHFpLXVJQ1E2S1BKREhzbHNuVnR6MmQwWHpEQXZWVU1NbUFscXlCcThaVU5UYlcwd3p1NTlfSHlqZko0VHRBZUoxQnliLW5xTFZB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T21:52:00+00:00"
-    },
-    {
-      "text": "Serbia's President Vucic resigns ahead of October parliamentary elections - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmcySFNmNWFxcDFQOEl6OU1UYy1MZ2RmcE9TU2V5N1FUYVhidncyRVRHZEtxbl9yU2Rpbi1yc0pVcmtyajlhaHFkakFqZFBPTlY3UFFObnl5aDZOcmVOajRKQzNYb2FCd2JmZnJ6clNjV0d5T0tmN1o1a0hGUDFQeHFRWi1Ba01KZDdXOG1YamVNT3RBUTRnX1RDRmNaQXhscnRYcXlON3RpdjQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T21:18:33+00:00"
-    },
-    {
-      "text": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?",
-      "url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T20:57:44+00:00"
-    },
-    {
-      "text": "Five arrested as counter-terror police investigate major incident near RAF Fairford - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LdVFyTGVoRUlMa2dnUEZuN3V6R0laazhIT2N2a0lXUUhpd1FFa0xFUGt3U1U1T2dwRU9NcGdhMmtESENTWDlCTDVVTjRmeEI2dGpfX1NNRzRUNFk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T20:10:51+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Oil rebounds after Trump rejects Iran peace deal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3FBcU1hWkxSdzlSbHdGdkJEbDR0REJsckozLWtuZGRwbXJvNU1kVnFMendhelM2Q3plNUFlUm1yZTljZDFiMEQwZjVDcWt2X011c193RWUtWTVlcEE4bjBKSWtYZ1A5MnhXS2hUSlVCN0lPcjhTRmNBc2V4ZERrclRaVW45NUl0cmtsb1g2d0s3SFB5NDRPc0lnRzVSZHZ2S0E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T22:25:29+00:00"
-    },
-    {
-      "text": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
-      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-27T22:12:22+00:00"
-    },
-    {
-      "text": "Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTZVb3hzWXBQeHRhaVVONlNmN1hHZXpwWVl2c085NnlhWlVwaFNvd2pFclRpZDhvTWd1aDhpU0N3cFd3LWxCb01SQnY0MHUzMnpPZHRTd2xvRUFkOUQyUnBlZ0lSemNjQXhQM0dVYnZFX3NfTnA0ZjEyTmZhNUZUNXI4Rk1rVFFvQjlrMVBJSEo5TTgyVHYtQWFfOWNwY2RSekdpZ0prUHRXOTZUc2lCUkhn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T21:21:00+00:00"
-    },
-    {
-      "text": "‘Please fight’: How an elderly woman’s eviction put Spain’s housing crisis in the spotlight - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmhtdG5WUVNGLUdnMTE5cVU3dEJsWktGUVZySlMwZmNGcHpNZ2gyQjJ2UzRBLTQ3YlpPdUNzVGYzN3RPSkw1bENDSFhieDFaNDAtT0UwV05LWnhDbUY2b2RDMWt2ZnczVms0bG54cVdPQ2xfWklLakh4NjVOUUlXUVFMWTEycTNTVnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T21:09:11+00:00"
-    },
-    {
-      "text": "Georgia park mass shooting wounds 11 teens at birthday party - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmVnWUQ5Q0JYOHJHRFZQbzhKLW8zNHRDRVZNRF9HdF9kRFRuZW9KRFJKMWRxTUdRVlFLdUtwVUlOSXUzNjBORGNEdlVTS2VscEpnN3ktUlRLV0ZOeEgxWjlVOXNyMVd1WnhocUhGTkk1MDFScmwzd2VvaGc4c1ktYU5NdXBhRl90?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T20:25:29+00:00"
-    },
-    {
-      "text": "Walmart says it's not using personal information to set prices as it expands digital shelf labels - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm5IeVVqMlkzLWFCbm1VbXJ1YmxidUdsVDVEQjNwQmR1dHgtTXNkblRpbzJ0N0drSnRBVkNHREZiMUIyWUE1WTdEc0Y2NXhoLW8xamFtcGdSYzZBRzlmTWFMTzhfRGdsbmIyajd4TTJJN3ZURDZXb2M4Sk5LeWdyNmtteDdVekxKWFRldFl1X1ZVcnZYVEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-27T19:59:00+00:00"
+      "time": "2026-09-27T22:05:30+00:00"
     }
   ]
 }
