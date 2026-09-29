@@ -1,54 +1,128 @@
 {
-  "generated_at": "2026-09-29T17:02:32.858712+00:00",
+  "generated_at": "2026-09-29T21:25:34.407251+00:00",
   "lead": {
-    "text": "OpenAI DevDay live updates: Sam Altman prepares to deliver opening keynote",
-    "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+    "text": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+    "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-09-29T17:01:48+00:00",
+    "time": "2026-09-29T21:18:27+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Body Camera Captured Incident Between ICE Agent and Driver in Austin",
-      "url": "https://www.nytimes.com/2026/09/29/us/ice-shooting-doordash-driver-austin-body-camera.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T17:01:21+00:00"
-    },
-    {
-      "text": "A better path forward for Head Start",
-      "url": "https://thehill.com/opinion/education/6116358-head-start-access-decline/",
-      "source": "The Hill",
+      "text": "Former American Idol contestant and pastor found guilty of murdering wife",
+      "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-29T17:00:00+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-29T21:16:17+00:00"
     },
     {
-      "text": "Mamdani Announces Plan to Fight Antisemitism, Without Discussing Israel",
-      "url": "https://www.nytimes.com/2026/09/29/nyregion/mamdani-antisemitism-report-nyc.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T16:59:32+00:00"
+      "text": "Trump’s proposed diesel export ban spurs fear of energy crunch in Europe - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPajNGemVzZDFBQjBNU0FLVzhrT1ZtU2Vrc0xiR3dBRC1PM2J1VzVidjd4dG9HVDJPSDJUdFluV2w5cFQ2b251Tm1VU05oMVF6X1dfRnRWc0VfTWpQMTFOVzZQOXZjS1A2c21PLTZlQk1TdXNkRG9kVzJCN2VCNHJzcGQyZ19mRHVaV2lmN2lmbGJKOHN4UHNTTVdubURpSF9tb0tuN0ZLcmxqYVozS1ZkSkluY0hZbnhN?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-09-29T21:12:14+00:00"
+    },
+    {
+      "text": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-29T21:09:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Jack Smith defends Trump probes in Senate hearing filled with GOP insults - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclhzR1k3UEU1NldIcnBrc3BoWUdrVDgyaW1Td084X3FBb2pZVFVJWkFWamJPVmxfZXVtcDY4R1N5eDhsVUZ4a19fcV9rV2FCaENjcmZXTmVJaHNIRUE4cXNHOWZPVUZrdE5vRnRpVnh6VDRqYzdLUmhnUWZEa09LbGRoYm1GM05Ra21GakJyaW83dzFVdDVGTjI4UGdtemZRUnRlVVowRjNZcGhVV3pLMnRDOFRhNU9XUVczbUQzOS1wMkE0STQwV3dldXVnZw?oc=5",
+      "text": "Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over",
+      "url": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-29T21:08:53+00:00"
+    },
+    {
+      "text": "Supreme Court Allows Rapid Third-Country Deportations, for Now",
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-29T20:16:27+00:00"
+    },
+    {
+      "text": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falters",
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-29T20:02:15+00:00"
+    },
+    {
+      "text": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models",
+      "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-29T19:34:42+00:00"
+    },
+    {
+      "text": "U.S. Supreme Court sides with Trump administration in third-country deportations - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmhLMkhXRUVScHFoZ2VCbFJoS1FkcWl1d0MtZ0wwZC00elJqZHZKYUVMUzZsYTJMRGIzOWs5RVViR1MzSlJxZGVIXy1VaWN1blJsSWtJUGlLUTdDLTlRWE1wX1RWQlZLRFEwQ0dBaUVDN2ExWE82QTJRT2lyNWF5Ty1iYUhrclZwV2RqVWVldGVxcUU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T16:30:13+00:00"
+      "time": "2026-09-29T19:19:37+00:00"
+    },
+    {
+      "text": "Texts about alleged Cornell gang-rape released after investigation reopened - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkVpcjdoRUZMQ2FsRHc0YVZCVUp3LVF6bkk3eFNPTjR0dG1NYk9nZkc5TEUzMnlmVC1xYmpMTktNYkp3U21wbnlUZFYyWXRrX3ZmRDNXb1dWTXpOUXFHWGcwSWItLXFlYV9nX0hvTUM4QTA4MjAzMkhQdGx1M0E2dGg3dGxZTHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-29T19:01:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Trump Is Going Viral in the Worst Ways",
+      "url": "https://www.nytimes.com/2026/09/29/opinion/trump-mideast-diplomacy-iran-ai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-29T21:00:06+00:00"
+    },
+    {
+      "text": "Dengue fever outbreak triggers states of emergency in 3 southern counties - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTktmZG9lZEJsSTh3eDc1MTNKQS11SjBmQnRZX1prZFIzV050c0UxTThqVEdkYTdON1BaX0xidWJuaG11WkRkd1J6QTBscFppSEVTbmdDZ3QyS3JVZVpJUzBYcFNKZEhPMG9NX2JRcFVZdXM5TnY1SVlFZEwwMXN2dUhCbXduYk5wcGdDN3pvLXNPMEpRczg4bGtxTjZOb2fSAaQBQVVfeXFMUHhnSkZWWDN0U0k5UVBCdGNYbW5HbU51d0lXa2NFeDdYZVlRX0sxXzhJTU1vZWZlaXJhU3pjbVJaUkk2NGk4N1pCQjZOUkZraS04UDRKTUd6S3JTZnpMTlM5Q0ZqWFRHdUk3VGlmLW8zXy10RDZkdHJJRFNZSWlwbWRYc2hrT0pnbklGR1RhSUVhMnVwMzIzRnI2X1VkYUN6b2NhTUg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-29T20:04:38+00:00"
+    },
+    {
+      "text": "Curry Barker’s Next Movie ‘Anything But Ghosts’ Sets May 2027 Release - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlEtR2NvVFFMQUNrdkZkaFFnV0J3OHJOckxoUEplWU9vbk1UZHowUE0zaFRqQ3o2VTc1V0hKNzNZV3FyNU9QRXVxV0sybEZOSTdCSDlpTjFqMVZoVEMwRE9TY0p4VlQ1cFVxbTF2YVp6Rmx5NjVUSC1wUUtWUk1USkZvRjM5U2VTZmFvLXM2TQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-29T20:02:00+00:00"
     },
     {
       "text": "Cornell University Rape Investigation: What We Know",
@@ -57,155 +131,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T16:19:05+00:00"
+      "time": "2026-09-29T19:32:01+00:00"
     },
     {
-      "text": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
-      "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T16:03:12+00:00"
-    },
-    {
-      "text": "Affordable Alternatives To Sonos Speakers - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUg2cmktT215NHk3WThtNFV1eG02X3hwUkZROU9BYl9Fbl9NcmVkbnRJbWZ2XzJITmJQOGl4Q1dlVTlpZmxFZ1l5VVh0b3lKVEpVUW1feTFQQWtXcFBBYklrcTA5b2hBVnhUZEUyV1VyaTBaUDdpdzJ5NkJiZElRag?oc=5",
+      "text": "'Digger' Confronts Negative Reviews: New Ad Defends Tom Cruise Movie - Variety",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEo2S0RmNlpnd0x0Mjh5cmMxQTFhUGNOZGY5dFRqbUwxNmY5aDIwOFp0enJ1dnp6RGJ2VmZ2Y1hkTDhfSnkzSU82NW15d2lqTDBGaWtocFpyR3huS0JKelN3c2xxMkUxQ3VmOWREWDJjejlrSjduSWtuc3lXZmlSdkE3U29fcnBaZnA5cg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T15:30:00+00:00"
+      "time": "2026-09-29T19:13:00+00:00"
     },
     {
-      "text": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdk5UaXVRTjRnUlV1ejhlNTlrbnp5OERqckFYcVFUX09EU1Zobjh4VVItd1U1Q0hlZ1NaaTVGdFNTd2tscUUzQWZ4bFRoUWZzMlhZV1BTaElhYjVZYWZNSVpidWVLY0lhQXZmZDhsRVV2NkVSR0dSMVFjbTVfcVdtWGY3ekJXQjR4LUx3Sk0ybE5rM0FwVjRfSDlZQUJhSHA4R2lhcTAxaklkZHpHUjBUSjNaSTdPZXBuTnZvY2dHcG1zQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T15:23:00+00:00"
-    },
-    {
-      "text": "A Tough Ad Reminds Nebraska Voters About a Brutal Crime and a Pardon",
-      "url": "https://www.nytimes.com/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html",
+      "text": "Trump Has Become Just Another Disappointing Politician",
+      "url": "https://www.nytimes.com/2026/09/29/opinion/trump-republicans-economy-midterms.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T14:43:57+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
-      "url": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T16:29:22+00:00"
-    },
-    {
-      "text": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T16:15:17+00:00"
-    },
-    {
-      "text": "Digger review: Tom Cruise takes the 'biggest risk of his career' in this 'love-it-or-hate-it' folly ★★★★☆ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRRHZlY3BLWlJkczdCUzBCX0oyQU5uQW5NbGxFWkowWXM4V21taThsMkEtZlctM3gxMzc3YmNSWU56WE1HYnhIWVFkUXQ4X3dhTGhYcmZ6MGstV0VQaDVDMGdkVXAzekRzRVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T16:01:23+00:00"
-    },
-    {
-      "text": "Live: Lindsay Clancy in court for first time since murder mistrial - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUm41S0RzbnZPUUFNbmlKcGFLZWFhemRFejFjaEEyT1BLelBwbGRCeF9IWDZEYXNxclkteUU1OTh1WWdUaFFEblRJQ1ZIclR3Y1VnTzZ3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T15:26:58+00:00"
-    },
-    {
-      "text": "Mideast Oil Exports Rebound Even as Prices Remain Elevated",
-      "url": "https://www.nytimes.com/2026/09/29/business/oil-exports-strait-of-hormuz.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T15:03:40+00:00"
-    },
-    {
-      "text": "Severely disabled toddler euthanized in the Netherlands under new rules on the controversial practice - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnRKdkFFNmJQejdndTRRVkVBa0FoeHN0RFRfS3d3SklETzlJc3ltM3RYMS1GeE9kZk1MVk5QRmRBOE55eUJEYUFvSXVPMGVZbkpjVUFGU3U3OUxXdUtwN3R1dXJYY3ZOUFpFYUtlNjh5bzhpS0dGU0FzbTBEQ2cyZEFoX2xpQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T14:36:00+00:00"
+      "time": "2026-09-29T19:00:06+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Dartmouth Provost Is the Latest College Professor Examined for A.I. Use",
-      "url": "https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html",
+      "text": "Caleb Flynn, former ‘American Idol’ singer, found guilty of wife’s murder - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFlTemR4ekNFLXhQOHRjRXgyY1VhUE1kcG51TjdhYTVVelBVMGIzdWFScmhZLVJtQzBacmgxeXBuTjBRTWlyd1VDRHhzTDhEbFZILVJyMkNfVU12YkFhVDR1MUd0WTdOeTJOOF9uT0x0VHg0bWJxX0x2MW82VG9MZmcydTVnVXFpOUNYbEltRHJvMUpZd3pFUkV3UFpCSUZ6a1RmUG5aY1JaU0NXcUxXRmVrVUEwVkpXYkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-29T20:27:52+00:00"
+    },
+    {
+      "text": "CDC updates measles toll, now counts 2 deaths - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjVYZ1JndXc4dWw3cXlEVXVERUdzZFpUdEtIZHJCSGRhZU5QVG5xV3Rmb1BTbms3SkZSbXhJakJVbjVGR3REVDFkanhSdEp3TmtkdGxmVFFuN3NaZkJiTzlsd0Jpa1VwRi13aGc2OHNuOEV3Q2J2c0lObVB0SFVxVzRlMHlHdjI0b2lVMHBaTWtvc2h5VUlENHlR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-29T20:02:35+00:00"
+    },
+    {
+      "text": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+      "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T16:28:09+00:00"
+      "time": "2026-09-29T19:55:20+00:00"
     },
     {
-      "text": "Stock futures move higher as oil and rates ease, tech shares gain: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52VGJIVWQ2MTdhY1B1a0ZxMEUwVFlraXdZbGJRRHVWcUNDOHB5QWhJTGx6d1lDTGVid09sVlpBLUV4YTA0eVdUUVU2Y1h4eEZodHVJczdGa1dRckVmU1R1WldFUWItMDR2N3pZR003Z2ZHZTRxeWow0gF8QVVfeXFMT0dRNTNjTElzNUlEQmhmaWR6UXNBVmFxR2lkVklGU2JNSXZjWUNwRTlDa05ZUWJHbjlFZk41N3BiT3RIak01R3k5UU9VWEpRSzJMVWVXSGhQQ0NodjRkTUdCTHlPZGFzTnlKQzBKeFlrSlNWcklVS3JJTkVQMg?oc=5",
+      "text": "Man City guilty of using 'sham' deals to distort finances, Premier League says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0QzWWRSUWRHcU1jbzctM0hpVXc3UW1NbEFMejJWRHJhZmFMdmFZY3MwZ2Y2elluREM5ekd1RHF4SlFXemZKNHZUb2VTLXM4bFFJQWxPcURGVWxidk9ORmlaRGF0T0tURi1CQTV6QlZQU2lQM2kxVll4eUQxS2NGMm9tWENmcWcxTDVMcEE1ajVKa2ZrNUdBMUkyVTMySzN3aUlRbkR0OVpxZ3lwRzZTR095WDhCMzVRcmJzSHhRQk5CQmpnQlJsX253?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T16:06:00+00:00"
+      "time": "2026-09-29T19:24:35+00:00"
     },
     {
-      "text": "Phillies-Braves position-by-position breakdown - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTg3ZzY2c3kzZ1ZINWxSVU9jaVBBbmJacVNXMktpMzJtS2dqOUM3VTl3VFI3V1lkLVpMTVBybjZBRmp6WG1vZUhUUzYwby0xWlVHd3VacU94bkk3R3VTS3BVcGFiRzQ5MVJ3OVpUTHpSXzBMd3VDZVNzOHJfeVRsRWh0TnZBR3R60gGUAUFVX3lxTE1qT000MDYzejNjYXZrWWU4bVl5SWRyYTMtQWxWS3VxdVZmWE9JZklFZ2Y1OTFEQUxud2NuaC1yRUwydnFDSlhpc2tBMExQTzNRM3JHT0gxRXBWMWNPQ3dVcjlFdTRhSFlQN0lBT1g1X0twMkJzR1BQSnhNZm5PampEUWU1ZzlscFVQdEtvNWYyWnZPRy0?oc=5",
+      "text": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHBONDg5dFhPOTJQVmlqNWFOSXd1TUVXMm53VDM4S1d1U0xqcC02cVd2cjNEbFhySDE2U1UyMmM3ZXJvRndWTG53OWdOYkR0aFBNREJPUXRkbmZQZTlLc1NyY0Raak1sRm5uVDV1eFk0d3FDcWdVS3R0clRDRi1ZNkx30gGHAUFVX3lxTE4wZ3djLWNRbHRiN19uMFFkaWJhdWN6VldUQWdCdVJFZ2YyVEdkZWdQcE5DdFZIMEp3c2hQTDBETko1UHp5ajlfM2FvRmlweFAyMEpROUplUWVFbXB6Z0JRNm9HdE5ycTBJQTNtZ21OSWd2YV9QUkR4NjBsa1ZUd1ZKcEVObXZFdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T15:33:29+00:00"
+      "time": "2026-09-29T19:05:35+00:00"
     },
     {
-      "text": "ICE Plans 5,000 New Hires to Help With Deportation Drive",
-      "url": "https://www.nytimes.com/2026/09/29/us/ice-hiring-immigration-enforcement-vetting.html",
+      "text": "Man Shot by ICE Agent in Austin Is Charged With Assault",
+      "url": "https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T15:23:36+00:00"
-    },
-    {
-      "text": "Life-threatening flash floods may soon hit the Southwest, driven by Polo remnants - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjg1ZUhyUzlYTWRfTHhjQXBCWVd0clNaZjBXZG5vc056bmFfbjQ0dTdJLWh0d1RlNlhMQzFnZWo4OUs0cGNDbG82Wnp5aXl4WXFoVnd0bWVHR3c0VjJocFZoY29SSmloZWhtQTNER1p0RTZub3BSeTI2bFF1b0RqbVJLR0VCUFdDZHpha21UQ1lZTEdRaHViUXFEX25FV18wYVBJNXdwNmxuRzM2YUtKZ21aOC1vczI3ZS0xQXNNS2w5Rk14d1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T14:49:32+00:00"
-    },
-    {
-      "text": "US prosecutors reopen case of alleged gang rape at Cornell University - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNG9SdnFBTldtWEJZcjZydzJ1anRZRTZOcFhzY2lwWEVVS2NPV19qTFFXc190UVBEVkYxbEhiMmZMSFZXdlEwR1hHWWhZTnlWbjQzUHd5QmdKMnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T14:25:12+00:00"
+      "time": "2026-09-29T18:56:04+00:00"
     }
   ]
 }
