@@ -1,63 +1,54 @@
 {
-  "generated_at": "2026-09-30T12:41:00.262882+00:00",
+  "generated_at": "2026-09-30T18:09:16.643021+00:00",
   "lead": {
-    "text": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-    "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
-    "source": "CNBC",
+    "text": "DOJ seeks to censure judges who spokes to NYT about Minnesota immigration raids",
+    "url": "https://thehill.com/homenews/6120701-minnesota-judges-immigration-controversy/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-09-30T12:38:05+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-09-30T18:01:58+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Raskin rips Schmitt questioning of Jack Smith: 'He's basically disgraced himself'",
-      "url": "https://thehill.com/homenews/house/6119619-jamie-raskin-eric-schmitt-basketball-mix-up-jack-smith-hearing-criticism/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-30T12:35:14+00:00"
-    },
-    {
-      "text": "Vying for Undecideds, L.A. Mayor Candidates Talk Affordability and Israel",
-      "url": "https://www.nytimes.com/2026/09/30/us/politics/los-angeles-mayor-bass-raman.html",
+      "text": "Fed’s Watchdog Finds No Misconduct or Illegal Activity in Costly Renovations",
+      "url": "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T12:34:57+00:00"
+      "time": "2026-09-30T18:00:01+00:00"
     },
     {
-      "text": "An anti-American president seeks a fourth term in Brazil",
-      "url": "https://thehill.com/opinion/international/6118080-brazil-election-lula-bolsonaro/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-30T12:30:00+00:00"
+      "text": "Pilot on Tel Aviv-bound flight tried to crash plane after cockpit stabbing, Netanyahu says - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHEtV1MwTWhVbF9HT2tjVUpkaEpHVTVRSWU3NFhoYkN3bVpTYk1BQWlXU21Jc0FxMkVXX0tJcUw4aGUwOXR6UW5KQjB3OHhJcXBJcDFFY2p4MXJvU0ZjUFp3dmh2LUFRODV3N3lrR3lGMjg4SVEtWllYWGFjMEtSUThvN2VTQTJmRUotdmpid0hzX0p2TVY3YTNOOUVDSFN3WWhFTUhhR21hSmFBOFJCalA2QURFVEE5VC1ya3p3?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-09-30T17:57:26+00:00"
+    },
+    {
+      "text": "Democrats Block Stock-Trading Bill, Denying the G.O.P. a Pre-Midterm Win",
+      "url": "https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-30T17:57:08+00:00"
     }
   ],
   "col1": [
     {
-      "text": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
+      "text": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
+      "url": "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T12:29:23+00:00"
-    },
-    {
-      "text": "This leg condition that’s overlooked in women can raise heart attack, stroke risk - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHFhUG1aUTZfTUo4OHpZZ2gyc1Z1ck9FVTV1MnlOWFJlWHk2d20tX0FmWHRvOFZOSDFscEJ4R1VpQlNqczF6aXNOX1BzSHhnNnBvdlltTGp3UUV1ZHNnMnlCUEMxRTBiMnhLMnkzeG4tQVlrdkVCRGtBbGtrQmJVTnJtdjR1WnRFVXZHUTlWVzk3VElHR005NWd6R2RNUUFSa1BHcXBHcGV2SjNNa0Q2OFlyRzNEcVh3Nkx5TXduNA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-30T12:22:26+00:00"
+      "time": "2026-09-30T17:45:34+00:00"
     },
     {
       "text": "As E-Bikes and Scooters Surge on New York Streets, So Do Fatal Crashes",
@@ -66,7 +57,54 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T11:32:08+00:00"
+      "time": "2026-09-30T17:36:42+00:00"
+    },
+    {
+      "text": "Chi Phi Fraternity Says It Acted Quickly to Expel Cornell Members",
+      "url": "https://www.nytimes.com/2026/09/30/us/cornell-university-7-chi-phi.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-30T17:27:21+00:00"
+    },
+    {
+      "text": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjZPdzBKbzhWOXVZeWNweTJQa2VuOC1vLXZqVjcwUjNfU3o0czNVbGtEQ1FOeklfanpCcDNpT1lIZnhXc1F4THlfdkJiRHVEMDA0a3pUcGQ4VHZhS2Flc21fQkJNQm5Tb1J4YXNqRWcyUy1lOVgtSllrS3c0RV9xcF9Bb2Y4cHREREhOeF80NTdOZXFy?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T17:11:01+00:00"
+    },
+    {
+      "text": "D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence",
+      "url": "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-30T16:47:14+00:00"
+    },
+    {
+      "text": "Romanian political crisis deepens as parliament rejects PM nominee - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjZNc0RfcFBsVzg0cjVXZU9FamRYbWZ5OGlvMS04c0g5NGhpV3Z2VUsyeXJyMTVhcFA4WU44VjhoNkVrSHRZUUNuaENFTnhYOFJ2WF9RcURFX0ZiOU9WQ3lXejNGOHFhYU43UC1oQzZVMzlTWk5hVmhVakNHckpuOWFWZlF4S2hCZk5NVHpGMTdOY2FUQUlsNnZvWTJVa2xuQm5mczM4NDRybTloWUNxdEg4RVpORkt2?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T15:57:59+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
+      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-30T17:41:35+00:00"
     },
     {
       "text": "American Forces Withdraw From Iraq 23 Years After Invading",
@@ -75,137 +113,99 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T11:10:01+00:00"
+      "time": "2026-09-30T17:32:35+00:00"
     },
     {
-      "text": "U.S. Withdraws From Iraq After Two Decades, and Trump Tells A.I. Giants to Police Themselves",
-      "url": "https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html",
+      "text": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T10:00:08+00:00"
+      "time": "2026-09-30T17:13:10+00:00"
     },
     {
-      "text": "In Fractious France, Politicians Agree on One Thing: Pope Leo Was a Hit",
-      "url": "https://www.nytimes.com/2026/09/30/world/europe/leo-france-pope-macron.html",
+      "text": "Court Pauses Execution of Christa Pike, Tennessee’s Lone Woman on Death Row",
+      "url": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T09:07:16+00:00"
+      "time": "2026-09-30T17:01:42+00:00"
+    },
+    {
+      "text": "Another Day of Pounding Rain Raises Flooding Fears in Texas",
+      "url": "https://www.nytimes.com/2026/09/30/weather/texas-flood-rain-forecast.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-30T16:26:00+00:00"
+    },
+    {
+      "text": "GOP senator urges ICE to dial back enforcement sweeps - Politico",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXNMa1ViUDd1UjVQcXpQS2lOSlJseEt4bHNBN29uWUxyd3JnTVBJcGZSaEFlb0h2S2d2WkV3elE0WWd6NERnc0l1LUZjU0xzbUtmdE5CRExsaXdCM0xQRU5LdmplZlRBeG1JS0dqRG1kSTI4MUNvUVprelU2REgtdks1YXR4eVQ1Sm9jMWlJRGRRa1c5TDg3bW53ZTZwVnhneUJjVC0xOTU4NlRVNEZ6SUM3ZGg3N2dmaU13cnpnMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T15:57:32+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' - Reuters",
+      "text": "Democrats block data centers bill, derailing Senate GOP bid to act on affordability ahead of midterms - CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsdDlkbEY4a0VPUmRIcW9kUHNvR2NMZ2NEUmswZHRrX3hRa1NQRWtMSWFhckxKeEJvRjBaNlE1NUNzNDdJOGdlelZpMEpOVzFsclJUQWJPQjZLS2RaRG15NWFuY01lY1hwOTVINU1QWmN3dllYRzVtcC0tUXREQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T17:41:31+00:00"
+    },
+    {
+      "text": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-30T12:27:21+00:00"
+      "time": "2026-09-30T17:28:23+00:00"
     },
     {
-      "text": "Passenger Describes Chaos Aboard FlyDubai Flight",
-      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T11:37:41+00:00"
-    },
-    {
-      "text": "Exclusive | Ken Griffin Is Making the Largest Donation to Higher Education in U.S. History - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbVhPMy1ndDNBYjR1UUZYcjFBdzVBZ0tORFZxaGlfUy1jMHpXTzJvdVY1WkxCQUctZVl1MzRuNnJiTE5nZ0tiYl9NNC1uMjUwZy1EM0tRaklDbDg1aV9lS2lvdkN6cEFBVGQ3RnhrQ3NiMk1JMGk3ZW9nQTJfU1BmcnMzcWFuMnBFNGRtOWtQRW56dDl0TGVhenpvV3RMc0lZZWptbTJyekxKYW1Nakk4TVUtZHdtY1ZWcVFmbFoxZGNSZw?oc=5",
+      "text": "Most Americans do not believe childhood vaccines cause autism, poll finds - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1aLUpvUDEtNTVWQklqV2xXY3Bkb1R1ckI2TlMxbHNNTWpGSktOZy1raU5XZ3o3emlPbUdJcnlGcmRlb0F4U1VkWWFuUUhOMFl5TjlLLXNaZ1JBa0VKS2lsc2trMGZhajIzdVFCTVhITmRXcmJKWjZlTTcwU3pZLUd0bmxWS1NxbGJYYy1YdlE1dXdDcHNyR01icTFmbFR0OTJZUnBwY1JUTW00WVp6RDZEU0pXQ1NrZ0prTGJIWQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-30T11:25:00+00:00"
+      "time": "2026-09-30T17:12:56+00:00"
     },
     {
-      "text": "Cornell’s Sexual Assault Case",
-      "url": "https://www.nytimes.com/2026/09/30/briefing/cornells-sexual-assault-case.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T10:48:46+00:00"
-    },
-    {
-      "text": "Democratic lawmakers call for protections over third country deportations after ‘indefensible’ court ruling – US politics live - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaWRVdDhnRTBtT2dVbEdYQklHeGJwa0pxb3BMb2RPenhmbDFpSkR2SFZUN1U4RTdPRTZKdXRSUGgyVU1MQ09BVnJZV1laY1hjR0o0UTVOUEtjaEdZUWlyOURPVi1oU1FLRFVIV1ZZQ0MtMFpuc3RkdUNhQ2RhcnFQV3VidGhLc1ozRTZOeW9RNlVTa0hqNWU5dkxlQVJEMUlfT3dJX043bTVCd0ZDMUtPa2RsS2l1NmdaNUkwbWtJZHhiYW4yQzctaVRvSW5RYkNxd2pmYTRHUVE0UnZ6S0I3ak14T0pDMVNTZ1licHdLbHBDSnM?oc=5",
+      "text": "OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk0MnJrR0tQVHFrdVZSZ08tN05ZQXN5V19sRklaQVlHdFUyODNxa1JyY1JLLWRNSktuOGFPOFUwaXlXMnFLam04bDlRRXlNa055SzEwWFhOWEpZQ0s3U0FidXJwaE1ralg3bFFXTTY2ZU1MWW9kWmpQaGsya1NqVmJHVHFkRzROMWFUNU1tdW1nbjh5ZGx4OdIBngFBVV95cUxQdm0yVm05eTg4czRMbkJpWGJOTkFrZmpUYmg5aFotZjVnYUlxbWN0ek5fdWRjck1YX3h4WnBPeUpPVC1FY2xRTGNRbk9aOEh3SHFWU1ZOVmF0bXJXVXZtaHRWU0JjZDdrdG1ueGFicHBfSThDVnVIZ2lUeWhMSURnYTZnYlhEdkdzb2g3RWZQTVc5d0VQdVI5eEpsVC00UQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-30T09:49:00+00:00"
+      "time": "2026-09-30T16:52:30+00:00"
     },
     {
-      "text": "Trump’s New Tariffs Face a Familiar Court Challenge",
-      "url": "https://www.nytimes.com/2026/09/30/business/trump-tariffs-court-challenge.html",
+      "text": "Panic and Heroics on FlyDubai Flight: ‘We Felt That This Was It’",
+      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T09:03:50+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Can Trump Legally Demolish the Kennedy Center? Experts Say Not Easily.",
-      "url": "https://www.nytimes.com/2026/09/30/arts/trump-demolish-kennedy-center.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T12:25:02+00:00"
+      "time": "2026-09-30T16:19:10+00:00"
     },
     {
-      "text": "Russia threatens nuclear strikes on Nato countries over Kaliningrad - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmlvc216bjJSS194S0xxSUdjLVRYcjdTNy1KYUFUdHByLXBHZTYwU00tU0pGSks4bGNUOXZWaVJOU2NCTEktMWhJbzNHaWRVUFVFMUlXYTdEbmZ3MDFPX1VUOGlxZ3ViWFo0emJncTcwaUZkVzViWTFtczJ4RGxUakVTOXM?oc=5",
+      "text": "Actor Chad Lowe's daughter Fiona Lowe dies at 13 - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV204NENsZW4wSEdWTU9nQzZIVWJkNGRoWnBsbWNZSk1meU1VY2dFWG9rTUFzVC1LaUZSNnBnalllRmEybEVyZUdia0Q3aVdkVXJaMngzckUxVll2Yi1nYTBoRWdsMkxOSHdCZWxneUVYdUhJblh0TmphSkhoUGdUWlhuN1JFbGcwM1U3eUcxNHhlYVdoNmp2b1BjTWxZSExsZ2tpZHlTOWk2TGNxSVhCeGRRYzRELXJOV2Rz?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-30T11:35:42+00:00"
-    },
-    {
-      "text": "Apple’s “HomePad” will reportedly launch on October 13th - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDVhdEk5UFNYVVRhaVFyTGo4bmVZYWxsUEhFX3ZJTzRBNVpZS2ZpajkzMURkTGtQREtWME1HSHVma05zM2hXdzVwUV9KRDF1eGpkbWFlaGV3bzNXc3hFUlZkeXhaZnE2ZEsxTHE4U0p3anJJRTc0VE5rcGtaY05mSDN1bi10azNzRWhXcQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-30T11:11:24+00:00"
-    },
-    {
-      "text": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
-      "url": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T10:41:50+00:00"
-    },
-    {
-      "text": "Andy Burnham to fight next election on pledge to change voting system - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52YW9BN3VNYXJMU1g2N1lDTkd0TmFXOS1XZTlLVFl2cGljRmtmZmZoT0JXeENjNUM0LWtNczZNWjZJWlNBYUxpUnBXWkh0ejVNUVJxTnJ0cWZWUEk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-30T09:45:32+00:00"
-    },
-    {
-      "text": "Ken Paxton, G.O.P. Nominee in Texas, Privately Said Trump’s Convention Hurt Him",
-      "url": "https://www.nytimes.com/2026/09/30/us/politics/ken-paxton-trump-midterm-convention.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T09:03:21+00:00"
+      "time": "2026-09-30T15:43:00+00:00"
     }
   ]
 }
