@@ -1,25 +1,184 @@
 {
-  "generated_at": "2026-09-30T00:42:55.765023+00:00",
+  "generated_at": "2026-09-30T06:01:45.853487+00:00",
   "lead": {
-    "text": "Eric Cantor named new president of pharma trade group",
-    "url": "https://thehill.com/homenews/6119349-eric-cantor-phrma-president-newsletter/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-09-30T00:39:01+00:00",
+    "text": "D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence",
+    "url": "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-09-30T05:44:01+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Senate blocks Democratic effort to force report on West Bank violence",
-      "url": "https://thehill.com/homenews/senate/6119354-senate-blocks-west-bank-resolution/",
-      "source": "The Hill",
+      "text": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-09-30T00:37:21+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-09-30T05:24:52+00:00"
+    },
+    {
+      "text": "Stock futures inch higher as traders weather latest rise in Treasury yields: Live updates",
+      "url": "https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-09-30T05:23:25+00:00"
+    },
+    {
+      "text": "Jimmy Fallon Pokes Fun at America’s New A.I. Chatbot",
+      "url": "https://www.nytimes.com/2026/09/30/arts/television/jimmy-fallon-trump-america-ai-chatbot.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-30T05:21:13+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Los Angeles Mayoral Candidates Vie for Undecided Voters",
+      "url": "https://www.nytimes.com/2026/09/30/us/politics/los-angeles-mayor-bass-raman.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-30T04:42:37+00:00"
+    },
+    {
+      "text": "‘Dancing With the Stars’ Caps Yacht Rock Night With a Shock Elimination: See the Scores, Who Went Home - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem9TTjVfNXhLRE1tZ0UzMkRSbW9CU0tEVnFHbGYtYWZXWWg1VGh0ZFhyRlBnSXZUNnQ3ZEduam9uRXEtb0swWXA3WEhEU1VWeFNFazl1Q2hrcnZVazdUZEJmVEdOVFpUSFFDWFlfZW85SHdVWFVTbDdrVkFWN1JBeDcyUXpSMUFTYWo5eklIczlSQ1Q3TlN2SkQ3cWxCSkVFT2diel9UNUt3bHhPVnZFLUlBNzQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T02:57:05+00:00"
+    },
+    {
+      "text": "Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFg5YkdNZjdVWDAtTDFqVkkzVGpkRm5GdTRhdkFsbEo3MlpXdVVTejVqYUJ1MGZlMjlZNGJxWjFVWkc1b0pUbjBlZDhETzY4M2FqUENhNk91d3V1dUpMam5Mb2F4bDFoUWdaWC03bmM0SGMzV05qTkVFdlg2YjNFRmdCU2o5XzlyQWhCS2lfMGpHVHlVVlB1REZtQThsYnQyOU9xc3REaDVxMmd1Z0xEaVBvR3VnMEFmOFlJQjNsczdzcFFqOHRMUtIBzgFBVV95cUxNSDRkUjZ0Z0Zrem1RX1NCVG93NWxfdjhhZ2Rqdi1qR3N6djZaVzh1VEhHRVU5MFhtY0hKQ1F5OEFWYnhkYWNBNUVnWHhGcUo1NjR4Y1Yxa0x5SnhYQ05Pck1mRjd3YkhmeEFWMmxpLThtTUxnUjFaelEybVU2dWQwbENROHJRcnJJV2xCOTNpUktYYktlZHczVHZ6dy03VGNKQlBxT1JaTkl2WVFIZG8ycGFoUHhGRGZVX1czeUpDYVd5bHRhZGdJLVFtV1RtUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T01:52:00+00:00"
+    },
+    {
+      "text": "Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years",
+      "url": "https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-30T01:29:50+00:00"
+    },
+    {
+      "text": "Hidden habits that make your social anxiety worse - and how to break them - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VYnM3TWlQRXNLcjhvNFRpSTVLTS1XeGF1R19ETFI4ejhMQ0UzdVlkeW9ZSjF6SnJGWFlHMnhUOFNKWnZGRDRNbGhpY1F3ODlIZ3ZSRFZJRGI0TTA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T00:44:50+00:00"
+    },
+    {
+      "text": "Jane Doe in Cornell University case told campus police, \"I can say with 100% confidence I was raped,\" transcript shows - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEtCV0Rla3ZHZWJiRXBrMVd6OXhnZFMxYlU1UDlwTVhicVpyUUNOY0pfX1hDalZkOTNqT3liRVlWS2k1NHRsNGZObm56R2lxVk95UnN4RTdEMFNKYXJacXlkTDY2MUYxZzhpRnNSNFlHVkdxWTBSTC1PMlhwWWhWZkFwbTdfbEFsVThJTmgxd0U5TE5Ec05ielZwcmwzUlNaLU9RcnhB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T00:07:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Senator’s basketball mix-up derails ‘gotcha’ moment at Jack Smith hearing - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGJWTW41QzU1cmJDWmxVeVhod1gwWkgyOUREci1CUnB0ZGlMbjZOSHRLTnlmNUNRWlhoc1I1T3BrY1E0eDVkU2lVR1BMSFpSREZLWmJFek5nYkZsNnd3M2VNMVpLQ09RMnJySG51NEZ0OWlRZkZlMk9kOTVJTE42clBGTVpjV2tCS012R1lBSzNndHdRT2k1XzBLc2l6WjJIUnFMdDc0VWxEN2dtWUZnQUZ5MmpIcnZUTlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T03:47:30+00:00"
+    },
+    {
+      "text": "WNBA playoffs: Caitlin Clark shines in Fever win as A’ja Wilson confronts fan after Cunningham foul - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbktUU3VLVDFXUE96QTVvSE4ta0JPcUZndnJLelpWZW5kZU81bjM1RGhxU0h2cUJITVJaZlF2clZBZXQxN3l2RVNfQmx1VTFQX2RkQVV0M193Z1dsdm96R0Q4SFhJb3NYMFhKaVpXZFJWX0VYeXUzek5mYTV4T1hCSmdFS19PZU45VTY5ZWN0eTl0Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T02:44:00+00:00"
+    },
+    {
+      "text": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0gyS19NX0REZ3gwY2s4cVZxMGxlU2p1MGhJTUNHekkyNUoxaGE2YmswdUEtYTRralZwa0tkdENvS182a0FxLTBwbGZwRnoyRnYtVzBvX0R6UThiSnVMemo1Q1Z5Ull5MkFCMlFGRE5ZRnVrQ1oydV9Sbk1PR0p2ZlFJX3k4RTNvY0xiaUZKSGN0V0xOYXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T01:41:00+00:00"
+    },
+    {
+      "text": "California bans officers’ use of electric-shock gloves after ICE reveals plan to equip agents - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2N4ZXN3aVRUeEVoMW1sNHRVVXNpT1dTMExIUE1jZVNrOFpUQ3k0LVpkTHFOSmVCODZyMFlubFNQdExINExNMUhrS2JaaUJrY3psb1c0TFgwS1E1Y21FNVBscTUxTnJfS1NjLTE0VU1lMjU4VnJWcElMR2ktWlNfazgxbm93YTdKdVRXN2xubFg1dzQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T01:12:00+00:00"
+    },
+    {
+      "text": "Ellison Picks HBO Content Chief to Run Paramount-Warner Streaming Business - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSWs2d3dmcjB0UERVNEJsdTIyNjNhbWVMemRGMmI1Q3JET2wyc0c1dzhrUlZ1NVpWV0ZyMHNXZHdCaHNua0NvZGJTTWRFZGRHbGlVZjhXMVZXRWtsSHoxRmdkTUdjRVJaX2dHSDQ4NmVSWnBzWEs5bjJiUzRlcFJ0MkJzWktfUnFPbXhVSUVLTnVtM21rR0N0NTZyUE81VldwOXRXNEtScU5EUlZTTWdVWFJtUXgzbXNmUWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T00:29:00+00:00"
+    },
+    {
+      "text": "Cornell’s Chi Phi Chapter Faces Scrutiny Over Assault Accusations",
+      "url": "https://www.nytimes.com/2026/09/29/us/chi-phi-fraternity-scrutiny-cornell-accusations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-29T23:52:41+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Fiona Lowe, Daughter of Chad Lowe and Kim Painter, Dies at 13 - Variety",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEQzV240N0ZtYnNYdlh1LWNEWHJ1NXpYSlZqS0swZ2pEOVZSM29QUnIxbC1SNmY4Y0VqTU5xaTZNN1VxQ1hxb1ZGZ3FEcFkwOEszT1gyamhyZ0Y3djNXcFZfRnF3SjJTY1VaLTcwMjdFOU9JUS14TUozSW1uRkt1RDNnWlFQdGlkSmZwNmJnSzRTX1RvSVFaYmY0eXAyMVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T03:41:00+00:00"
+    },
+    {
+      "text": "Sanders ramps up his midterm play with cash boost for candidates - politico.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbl9WVFV6QWhzU01wTHZ3MUs5MTItblVXNkZMR2IxLXpkRURkWmFhMFJCRldrQ09nNm96UDR2YmZzUTQyYUEta1NXWDJPQ3VOYi1hWEV3Q1UwZTkxc3VBekRHamhNajkzNEpyWXlmU0EwWFhISlhpMHBmU2FlZE15QU1ZeFJGclhTS1Z6bkxqNlVwYmRaTFBDdEt2MWZndXVvdDFpYWdteXRSbnE0NkJCUmE0LXM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T02:01:00+00:00"
+    },
+    {
+      "text": "MLB Wild Card Series Game 1: Cubs vs. Padres, Tuesday 9/29, 9 p.m CT live! - Bleed Cubbie Blue",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjZDaU5qSXp4WkIwaVFXMFJVZVZINzJEM1A3RWRfUDNSRW1CUjZfTUZsZTUwbUNadVVYNUZCTXk2LVZYLVYycC1hWmNLZ0d1RE96VWxqZnRaamdELUota0xUcXpqMmQ1ZjRzdXFnVDY2LVRkbUtKaXd3MFNvMkdHMVN4bkRNRUFvNmNrRkRJZjBSN0Y1eVRNNE5ZNFRVcGh6V2wzNWg4TUxfNjBVWGFTdm9PUHh1Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-09-30T01:30:00+00:00"
     },
     {
       "text": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
@@ -28,19 +187,8 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T00:20:03+00:00"
+      "time": "2026-09-30T00:46:16+00:00"
     },
-    {
-      "text": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-      "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-09-30T00:19:09+00:00"
-    }
-  ],
-  "col1": [
     {
       "text": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
       "url": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html",
@@ -58,154 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-09-29T23:39:49+00:00"
-    },
-    {
-      "text": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves",
-      "url": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T23:20:43+00:00"
-    },
-    {
-      "text": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T22:53:40+00:00"
-    },
-    {
-      "text": "Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years",
-      "url": "https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T22:37:43+00:00"
-    },
-    {
-      "text": "Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now",
-      "url": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T22:20:49+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-30T00:09:48+00:00"
-    },
-    {
-      "text": "Trump and Rubio question U.K. handling of possible plot against air base after 5 men released on bail - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUU3QnVsZDBhYkhENnA3cXN3VU1uTHR0NlpaX1pJUjJEMFA2eFF3WlhGcW9WcnJZb1E4aVlEZEc5NTIyVXZaU2FmZ0NBSktGTEFvTnNwbkVJeS1PZ1R3NGluc3g3dGhBejN1blRDRUU2U1A5alg4ZXN3U013N1RIUE1SV2loWlNIcy1jUF8xYUY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T23:38:58+00:00"
-    },
-    {
-      "text": "Caleb Flynn, former ‘American Idol’ singer, found guilty of wife’s murder - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFlTemR4ekNFLXhQOHRjRXgyY1VhUE1kcG51TjdhYTVVelBVMGIzdWFScmhZLVJtQzBacmgxeXBuTjBRTWlyd1VDRHhzTDhEbFZILVJyMkNfVU12YkFhVDR1MUd0WTdOeTJOOF9uT0x0VHg0bWJxX0x2MW82VG9MZmcydTVnVXFpOUNYbEltRHJvMUpZd3pFUkV3UFpCSUZ6a1RmUG5aY1JaU0NXcUxXRmVrVUEwVkpXYkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T23:07:46+00:00"
-    },
-    {
-      "text": "Cindy Holland Leaving Paramount Ahead Of WBD Merger - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXRZZElzb1JuN2pFeEZUYUJ5d1pyQzl1VlBra0R3N1FRMWhRNzk2OW5hclFSS2I1TkxMajVYZVZxd0Z4ckxWcHdSSEVhYkhkU2hoVnpCZy1LQUdSb3Q5b1VUdW5BRmh4a3ltX2NURVFiblpCNS1ZLWtYRm80dHROd2xVMDZRTHdDdUlR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T22:50:00+00:00"
-    },
-    {
-      "text": "Trump Hosts A.I. Executives at the White House",
-      "url": "https://www.nytimes.com/2026/09/29/briefing/trump-ai-ice-hiring-surge.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T22:30:59+00:00"
-    },
-    {
-      "text": "Victor Marx, Colorado Governor Nominee With Sensational Past, Splinters the G.O.P.",
-      "url": "https://www.nytimes.com/2026/09/29/us/victor-marx-colorado-republican-governor-candidate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T22:16:01+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Cornell’s Chi Phi Chapter Faces Scrutiny Over Assault Accusations",
-      "url": "https://www.nytimes.com/2026/09/29/us/chi-phi-fraternity-scrutiny-cornell-accusations.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T23:52:41+00:00"
-    },
-    {
-      "text": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
-      "url": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T23:37:56+00:00"
-    },
-    {
-      "text": "Trump Is Going Viral in the Worst Ways",
-      "url": "https://www.nytimes.com/2026/09/29/opinion/trump-mideast-diplomacy-iran-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T23:05:00+00:00"
-    },
-    {
-      "text": "Trump, AI CEOs sign voluntary safety pact, back data center expansion - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T22:45:58+00:00"
-    },
-    {
-      "text": "CDC updates measles toll, now counts 2 deaths - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjVYZ1JndXc4dWw3cXlEVXVERUdzZFpUdEtIZHJCSGRhZU5QVG5xV3Rmb1BTbms3SkZSbXhJakJVbjVGR3REVDFkanhSdEp3TmtkdGxmVFFuN3NaZkJiTzlsd0Jpa1VwRi13aGc2OHNuOEV3Q2J2c0lObVB0SFVxVzRlMHlHdjI0b2lVMHBaTWtvc2h5VUlENHlR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-09-29T22:30:00+00:00"
-    },
-    {
-      "text": "Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over",
-      "url": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-09-29T22:01:28+00:00"
     }
   ]
 }
