@@ -1,184 +1,110 @@
 {
-  "generated_at": "2026-10-01T14:48:32.764284+00:00",
+  "generated_at": "2026-10-01T20:17:59.030629+00:00",
   "lead": {
-    "text": "Judge dismisses Reflecting Pool case against Olympian, bars DOJ from refiling charges",
-    "url": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
+    "text": "S&P 500 closes higher to start October as Treasury yields retreat from multiyear highs: Live updates",
+    "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-10-01T14:48:19+00:00",
+    "time": "2026-10-01T20:17:37+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "The Middle School Kids Trying to Make Sense of Stalin’s Tyranny",
-      "url": "https://www.nytimes.com/2026/10/01/opinion/joseph-stalin-middle-school.html",
+      "text": "U.S. Bond Yields Hit Highest Level Since 2002",
+      "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T14:44:11+00:00"
+      "time": "2026-10-01T20:17:06+00:00"
     },
     {
-      "text": "Permanent daylight saving time bill's future uncertain after Senate adjourns",
-      "url": "https://thehill.com/policy/energy-environment/6122607-permanent-daylight-saving-time-bills-future-uncertain-after-senate-adjourns/",
-      "source": "The Hill",
+      "text": "Nike earnings are out. Here are the numbers",
+      "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-01T14:43:48+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-01T20:16:50+00:00"
     },
     {
-      "text": "Trump says he regrets nominating Gorsuch, Kavanaugh and Barrett",
-      "url": "https://thehill.com/homenews/administration/6123220-supreme-court-votes-against-trump/",
-      "source": "The Hill",
+      "text": "New York City's 'click to cancel' subscription rule takes effect, joining states with similar laws",
+      "url": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-01T14:42:17+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-01T20:15:30+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?",
-      "url": "https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html",
+      "text": "Who’s to Blame When A.I. Goes Rogue?",
+      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T14:39:56+00:00"
+      "time": "2026-10-01T19:50:56+00:00"
     },
     {
-      "text": "Taking On Trump Immigration Agenda, Justices Will Review Migrant Detention Policy",
-      "url": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html",
+      "text": "Landlords Release Emails and Texts in Lawsuit Over Mamdani’s Rent Freeze",
+      "url": "https://www.nytimes.com/2026/10/01/nyregion/mamdani-rent-freeze-lawsuit-nyc.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T14:23:49+00:00"
+      "time": "2026-10-01T19:42:24+00:00"
     },
     {
-      "text": "Renee Good’s Family Sues ICE Agent and Top Officials Over Minnesota Killing",
-      "url": "https://www.nytimes.com/2026/10/01/us/renee-good-lawsuit-ice-shooting-minnesota.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T14:13:42+00:00"
-    },
-    {
-      "text": "How a Cornell Student Went From Shame to Anger",
-      "url": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T14:02:28+00:00"
-    },
-    {
-      "text": "Live Updates: Trump says \"I don't think you could ever have peace\" with Iran, threatens post-midterm attacks - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N?oc=5",
+      "text": "What happened in the failed execution of Christa Pike - and what next? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bTd4VVlQOUJubTdONERLelNaaGlmczZybUM4NkZKbFpwcS1rcHVXTUV4VzJKb0xSTWlQRmlCLTVLRVZjeGNTTnBBMnNkY21uM1ROaVd2a0RuWkU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-01T13:39:00+00:00"
+      "time": "2026-10-01T19:25:58+00:00"
     },
     {
-      "text": "What to Know About the Attempted Execution of Christa Pike",
-      "url": "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html",
+      "text": "Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms",
+      "url": "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T13:31:34+00:00"
+      "time": "2026-10-01T18:58:48+00:00"
+    },
+    {
+      "text": "Judge rules Trump can’t fire court-appointed prosecutors - Politico",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyaGJTRFlDdDJIUmZXeUZRaWFpQXBPUnpocEg3QW5tYWtKUW5IUF9ZWE9JTS1wU0ZjTEpWWVgwMVdQc2Q2SlhtX2tsRE45cUY0NW45Y01qWmE1U3JQZncwajlJdjZlYV9uNS12Qm1LeHp4YUFTV2hkVm9DR040QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-01T18:32:00+00:00"
+    },
+    {
+      "text": "British-Iranian man arrested in RAF Fairford investigation - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWhPbXhGbWNXcnNiOHhjUVNaQmZFRmYtVzhrZDUteFdxX2l0MmtHOGw3R0JqTXQ3LWE5MXBGRm5yZVRUWVlpY0NpTTVRLUxJdXpjVHZCemZKLUktNUdQcXJnRGZvb29ZLWtCN1kxeXJJWE9naEZHM3k3b0hrSVQtcm1GQjFkbVRnY3NNMnpxRQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-01T18:23:13+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Women Can Now Assess Their Breast Cancer Risk With the Help of A.I.",
-      "url": "https://www.nytimes.com/2026/10/01/well/breast-cancer-risk-ai.html",
+      "text": "Chi Phi Members Accused in Cornell Sex Assault Lawsuit Give Varying Accounts of Night",
+      "url": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T14:26:38+00:00"
-    },
-    {
-      "text": "Stock Market Today: Global Bond Selloff Eases; Yields Remain at Highs — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVS1ZRW5MZml2WVJMcVIzTHFaeXVkdlllV3paRnNqbnFsYU1UX2V5ZzUtblhaMlFSNUJqRzI4QkdPQlJGR1lFZjEtd0tYZk16MUt5eFRmd294UGFKN0dvQ01YeS1WUlh0cDRIMHRvdUx3NXdZNG1jb1pUbzVKVUJVQ2ZWaHM2SGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-01T14:15:00+00:00"
-    },
-    {
-      "text": "Rapper Rick Ross arrested in Miami Beach on felony battery by strangulation charge - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVQ3ZDYyS0hoakpLSHNRVjVPQ0dpYnJXOWJCUndYY3ZObVk1SFRKeXFZU3RxVUxKR01uUkFwS09GRW8yanVONGU0OWhuaV9hdnJVcUdYbWRiUF9kekJGRXgyejRNVDdCUEpWdUZtdG9kaTk2YkM1NGVMWkVfYmVyNGhzZzZ0MElIdE1Zbzg4N2Fxdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-01T14:10:18+00:00"
-    },
-    {
-      "text": "A Hacking Competition Shows the Power of China’s Approach to A.I.",
-      "url": "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T13:43:22+00:00"
-    },
-    {
-      "text": "Supreme Court will rule on Trump’s ICE detention policy - politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSllyY3FvR3N3VUNsODFxRUFKdy1IZVBhVDJuWmNxY2R0RVBaRC1WTVJYQ1czUDZXcm5Uazk5V3BIYlR4SS10X2o0Q0xMNXlydllMbVNUWTNmdTBBVnV4MG9FWVVLeTlYb3ZLTHZvbkRQU3VOekdTdHk1d0lFUWhDdzZPRk0zY3Nxa18w?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-01T13:38:00+00:00"
-    },
-    {
-      "text": "Why Micron’s Dazzling Earnings Report Isn’t Budging the Stock - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qYVRkMzJRd2M4d0p5dGJ2X25QblFST0JWbDIwa0JkaE0xLWVPSEgzelliSXEtMDFZVlVPMzFUVDJ4ZlhPWHl6aWQ5S0w5YmtHbkZKc0gwLVFCZUtJUjN5MGVWUkMxamJYRnVJdUxzVEJrUk5ObFpxTQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-01T13:16:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "John Roberts Retreated to His Island. Supreme Court Critics Found Him.",
-      "url": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-roberts-maine.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T14:25:03+00:00"
-    },
-    {
-      "text": "‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNDWXR3Z0dkWWpMUHNnSUxzak5BUXVHM1BId0paYmgxM013TFhnM08zcjZHV3haMFI0TjZ6QmNJN1A3VHpmcU9EOUwwU0JzbnV6ZUNpc3B5RGo1c3lqRExvNTg0bTRoVHpxcHBCZVRoUEpQM1N2SlVGUWR3eVVwcndRanMwUTdxT2R2V0I0cldjTDFZUGpwZmJwX3FfUDNvZVRlNkFDd0gzeFk3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-01T14:14:36+00:00"
-    },
-    {
-      "text": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ (8 ET, NBC/Peacock) - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1k5TlhubTV1ODNaOHc5aFFmb1R4QXVSZU5zNTlRNlo3N1laR21yc0RKbi1DV1lOMENfOWlCNjkxRnhTMi0tRmRhdU1xMVdudUpNdjVpWTl6MHpHZGJtNy00enpHZ3dyazBLZ2tFSjRhTDZoSnc0X05wRUhqNzl1c050T0FLUEo4U3Q0OFNqRUtjVTVyUzJaVUlxQ2xPMkFYRi1YT2JhcDZILXlh?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-01T14:05:35+00:00"
+      "time": "2026-10-01T19:44:08+00:00"
     },
     {
       "text": "Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped",
@@ -187,25 +113,99 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T13:40:09+00:00"
+      "time": "2026-10-01T19:41:50+00:00"
     },
     {
-      "text": "Lost in daydreams? Enraged by chewing sounds? Psychiatry is taking a closer look. - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXzF1aDM2ZFc2MzlMblBFWmRNN3dGaXJWS1djcXd2cTBNN1U4NmtRajVDSi0wYWNPWWxILUNTZFc5VzBDTW1VcjFhWm9OT0dUWnoyaWE1RUkwX0tCdWV3aUlqZGQydTJoTXNGYWlDSnJRVjkyYk1ocE1KWjhzbDctbURmbnJYQVpjekVzWGdvSHJjcXZhbGdOaFFoTDVjT2ZFZGJPdWhveG1BVU5jSU5XZDkxaXVEbi1O?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-01T13:32:45+00:00"
-    },
-    {
-      "text": "U.S. Bond Yields Hit Highest Level Since 2002",
-      "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
+      "text": "We Are Clueless About What’s Coming",
+      "url": "https://www.nytimes.com/2026/10/01/opinion/interesting-times-podcast-spencer-klavan-nick-bostrom.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-01T13:12:29+00:00"
+      "time": "2026-10-01T19:20:36+00:00"
+    },
+    {
+      "text": "Apple says iPhone Duo has ‘replaceable’ folding display layer to minimize crease - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHBibTVkekdqcWJCM3drNnZWOVdQeEtDT01ZWF85VzlpMkwtYWp2NVZmZ2M2Zjh0M0xNOVpRS004MVBYekJIQUdKNXJRLS1GUU9fTVA1aDdiZkZEUkpGOFRQOUZOSUhOVk44TkMyRmxrbzJQSjlBM0ItY0MzSGVHdXkxUlE5cTBmRERpall4M0xTX3daUFZqTmNCek5CVUZ4dHczZ29vNVFWRkVlMy1j?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-01T18:44:00+00:00"
+    },
+    {
+      "text": "‘Verity’ To Seduce $55M+ WW Opening As Box Office Braces For ‘Digger’ Impact – Global Preview - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU29TVkxfcDhpZWN4VUdIZ29xQmViR1RQWUxPZ1FTRGcycUpSX0tkVGwxaDFmYVJwMVB2dU5FbDJibGplekdDUTlWLUlTaVZPdGFuM2Q3M2JKaUF3OWtCVTZkMi1XQnNoMi1ybkxHQm13VlRUY3N4MUNBcUc2TWFjSmNR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-01T18:30:00+00:00"
+    },
+    {
+      "text": "A judge permanently dismisses former Olympian's Reflecting Pool charges - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUFpaURiS3lzZ1p4c3BmV2xFVWNjN1JjMXE5aDdOd1pmWWJlemE2elB0VTNWWjNYRlRVQ0l2UXExRW5nNkV4aG9XZFlfS1RzZS1DcVAzekdHRDlrc3FyMjZobHJzZm1YbDFuMlVNaUNkeFAyMFNzbHhkVHkzZjZsUk1Sd19pbjF0MG1NNGxUbnJ1Q3ZMaWplVHhR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-01T18:22:59+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "UK-Iranian Man Arrested in Connection to RAF Fairford Air Base Incident",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-01T19:42:50+00:00"
+    },
+    {
+      "text": "How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?",
+      "url": "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-01T19:40:53+00:00"
+    },
+    {
+      "text": "When White People Like Hannah Gann Pretend to Be Black",
+      "url": "https://www.nytimes.com/2026/10/01/opinion/hannah-gann-rachel-dolezal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-01T19:00:04+00:00"
+    },
+    {
+      "text": "What Did Christa Pike Do? What to Know About the Botched Tennessee Execution.",
+      "url": "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-01T18:32:56+00:00"
+    },
+    {
+      "text": "Stock Market Today: Global Bond Selloff Resumes; Yields Remain at Highs — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVS1ZRW5MZml2WVJMcVIzTHFaeXVkdlllV3paRnNqbnFsYU1UX2V5ZzUtblhaMlFSNUJqRzI4QkdPQlJGR1lFZjEtd0tYZk16MUt5eFRmd294UGFKN0dvQ01YeS1WUlh0cDRIMHRvdUx3NXdZNG1jb1pUbzVKVUJVQ2ZWaHM2SGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-01T18:29:00+00:00"
+    },
+    {
+      "text": "As Mortgage Rates Hit Highest Level Since 2023, Buyers Look at ARMs",
+      "url": "https://www.nytimes.com/2026/10/01/business/adjustable-mortgage-rates.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-01T18:18:36+00:00"
     }
   ]
 }
