@@ -1,146 +1,119 @@
 {
-  "generated_at": "2026-10-02T16:47:29.649329+00:00",
+  "generated_at": "2026-10-02T21:15:26.547970+00:00",
   "lead": {
-    "text": "Wall Street Journal editorial board knocks Hegseth's 'weirdos' line in speech",
-    "url": "https://thehill.com/homenews/media/6126293-wall-street-journal-editorial-board-knocks-hegseths-weirdos-line-in-speech/",
+    "text": "Judge halts contentious border construction in and near Texas’s Big Bend national park",
+    "url": "https://thehill.com/policy/energy-environment/6127037-trump-administration-border-halted-texas/",
     "source": "The Hill",
     "lean": "center",
     "topic": "politics",
     "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-02T16:40:06+00:00",
+    "time": "2026-10-02T21:09:48+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Trump shrugs off South Korea's uncertainty on $54B Alaska energy investment",
+      "url": "https://thehill.com/homenews/administration/6126997-trump-south-korea-alaska-lng/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-02T16:38:22+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-02T21:05:47+00:00"
     },
     {
-      "text": "Nvidia is a 'best in breed' stock on sale. Here's why I'm buying",
-      "url": "https://www.cnbc.com/2026/10/02/nvidia-is-a-best-in-breed-stock-on-sale-heres-why-im-buying.html",
+      "text": "Trump says he's 'worried' about Whatley in North Carolina",
+      "url": "https://thehill.com/homenews/campaign/6126981-trump-worried-whatley-roy-cooper/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-02T21:04:20+00:00"
+    },
+    {
+      "text": "Anthropic to invest $100 million to train AI engineer talent",
+      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-02T16:36:07+00:00"
-    },
-    {
-      "text": "Trump administration is paying $1.6 million a week to keep Voice of America staff on leave - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVjlSNllSNUtuQmgtQlZVZ0RmalZRa1l2VDRaVG1yblh1aUlCZ0VQRnNYWTZJQjRYODc1V2VuSUtSS3RrTEs5M2laUWh3ZDRtUVp6eFg2ck5fSTlXNHFMZVcxSzRIUXRFeVJ5QVktdUQyWTlzZGYzcl9CTDFjdlJQZlIwUzMzU2ZiMXVyTWZaUDk0M0ljLXc1Qm5zQlcwb015MjdjNlJzbl9WQmRNd2h4VHNtTTZPWEF0Ykdnb01NeTNUM0dQV3ZRUw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-02T16:32:17+00:00"
+      "time": "2026-10-02T21:03:06+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Officials giving update on Cornell University rape investigation - watch live - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NUk4bkNRTGtQLUk5dGtDcWx5cEFZeHdRX05IUjVBYkpfWlk5Mjd3aGJjTU5FZzVCVHRwTlBuMnB0N01vVE5EVXoyUjNiMGxwRFR2U25B?oc=5",
+      "text": "Judge Blocks Border Wall Construction in Big Bend in Texas",
+      "url": "https://www.nytimes.com/2026/10/02/us/border-wall-big-bend-texas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-02T21:02:19+00:00"
+    },
+    {
+      "text": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
+      "url": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-02T20:49:58+00:00"
+    },
+    {
+      "text": "Christa Pike unconscious, on a ventilator at Nashville hospital, her lawyers say - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPay0waFQtTUlPQ1YtTnZ2XzgyUG1XcFNtS1ZhYy05ZFBnY0NJcjBKYzBvbDFKaXd3OXVETkpWdENZa21iOHBob1phZm5sOVFsUzlHVlpXTlBqb1hHNUwzdUdXNEh3YUViWUVKeW05MnI2dnhkaHF4eFMxd1dBMGhSNnY5dnNaRzhfRURqWnhJLWYxTkJZTUlLOUFTT21zMkYwX3VoN1dBQjZ3RkR6NTUyS0VjWjQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-02T16:27:46+00:00"
+      "time": "2026-10-02T20:08:28+00:00"
     },
     {
-      "text": "Trump to Name Jay Clayton to Serve as A.I. Czar",
-      "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html",
+      "text": "Florida’s dengue outbreak is now the largest in the continental US in decades - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaFJOa1Y2ZEl2Rzc0Y2NRcGtibk1VeHhEZ0prTXNWQk02U1BSRmxXNWRjM05Ncy1oRVUwVGs0WWxzaEIxT1JTMkthcUxUWnlTVlhWTTZKMmJfWlZDZm1oSzBZQzB0SmlyQzBzZndCSmFHY0ZmcEpZLVJNMS1DUGhfOTMxLTdUdEgtbUNXN1pBVG93NGM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-02T19:57:00+00:00"
+    },
+    {
+      "text": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency",
+      "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T16:10:44+00:00"
+      "time": "2026-10-02T19:36:45+00:00"
     },
     {
-      "text": "Flurry of Lawsuits Shows Both Parties Preparing for Post-Election Challenges",
-      "url": "https://www.nytimes.com/2026/10/02/us/politics/lawsuits-democrats-republicans-post-election-challenges.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Musk-led war commission triggers alarms in Pentagon - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS25KZEIwRkpzLXIyYk5Yc29PTEh5V2RHWGhCVlhTZmVUTXl0NzJ2ZFk0WEpBQTJsY2U2OEc4U3lvTDh0S0pyQzlSall2UjBOZ1RZTXBqQi02Nnk0aW8xR0Y4bks5WXcwM0NRXzVlXzhYeERtc0lVZjdOcVIwN0w5amlLODNoX2c2X1QzRVRLM0RmTGs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T16:04:35+00:00"
-    },
-    {
-      "text": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase",
-      "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T15:50:13+00:00"
-    },
-    {
-      "text": "Why U.S. Diesel Is So Important to Major Trading Partners",
-      "url": "https://www.nytimes.com/2026/10/02/world/americas/us-diesel-ban-trump-mexico-europe-brazil.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T15:39:08+00:00"
-    },
-    {
-      "text": "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
-      "url": "https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T15:23:34+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-02T18:48:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Republicans Pull Money From North Carolina Senate Race As Midterm Prospects Dim",
-      "url": "https://www.nytimes.com/2026/10/02/us/midterms-election-republicans-north-carolina-kansas.html",
+      "text": "Why Cybertrucks, McMansions and ‘Greige’ Matter",
+      "url": "https://www.nytimes.com/2026/10/02/opinion/ezra-klein-podcast-debbie-millman.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T16:26:28+00:00"
+      "time": "2026-10-02T20:53:10+00:00"
     },
     {
-      "text": "Tony Romo, CBS Sports agree to part after ex-QB's DWI arrest - espn.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenlBVmRHWTJFRmFmc1pCcGNtNl9kdnc3Rm8wby1meHR6OVh4YTRGcXRnV2xXX2plRm1yb0lSRU5QNDlaeW9QVzF6SXh2TUktWUVvT05mZ2U2dDNrbnBZN0dlYk1pVFNGY3JYeWZDWGxMbEE0M0U1djNvTWZZVTNIVkc3VHZLOF9LZ2NISjBzRzBRaWxXLVp4WQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-02T16:09:00+00:00"
-    },
-    {
-      "text": "It’s Skydance: David Ellison Brands Combined Paramount-Warner Bros. With His Studio’s Title - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbXg2Z3BVQjBubW05TUZsWTFtMElhNHY3QnFYbm95UzhPMzZRend6d2RzQWtwTlEyVmhucHFDRGRqaTN6Y0lWQ0tnRzBrYzdVcnVrUFNNQThUQVJ0Vnc3NjRJbk9PZlNwQUhRUnFEZVZjTUVVcHZZWS1GdktfODBxb19rc1FtZVJUQW41SENWWDA5dmpVaWNxb0dSSDBhd1NYY1lUY1JXczl0c08tdk1jbjl4M2tvZjdOTlM0NFR0WmNLRnM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-02T16:02:28+00:00"
-    },
-    {
-      "text": "Truckers Are ‘Just Trying to Hang On’ When a Fill-Up Tops $1,000",
-      "url": "https://www.nytimes.com/2026/10/02/us/truckers-diesel-costs.html",
+      "text": "Christa Pike Unconscious and on Ventilator After Execution Attempt",
+      "url": "https://www.nytimes.com/2026/10/02/us/christa-pike-unconscious-what-next.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T15:43:20+00:00"
-    },
-    {
-      "text": "As Prospects Dim, G.O.P. Pulls Money Out of North Carolina Senate Race - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEJoX3hkdEhacjlWcHdRbF93WjFqMFM2NXFMb3I3eGI2Yl9NU3NOOEJfTDk1RzhsYzFRaU4wZXh5QmIwSVFGcERnajVCV1duRVhxQzBCbnotRl9FcHF5bHlNNElUckkyVXE0RHZtdnRmbkVfMmpEYXF2ZHZUOWg5MV9GYVZMVEhreGlhUkNzbkwzckhMQ3Nnek9n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-02T15:34:21+00:00"
+      "time": "2026-10-02T20:30:03+00:00"
     },
     {
       "text": "G7 countries to release up to 100 million barrels of diesel and crude oil reserves - NBC News",
@@ -149,63 +122,90 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-02T15:21:45+00:00"
+      "time": "2026-10-02T20:07:34+00:00"
+    },
+    {
+      "text": "Republicans Pull Money From North Carolina Senate Race As Midterm Prospects Dim",
+      "url": "https://www.nytimes.com/2026/10/02/us/midterms-election-republicans-north-carolina-kansas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-02T19:50:56+00:00"
+    },
+    {
+      "text": "Man Accused of Sex Assault Seeks to Expunge Cornell’s Finding of Related Violation",
+      "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-accused-man-punishment-appeal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-02T19:12:31+00:00"
+    },
+    {
+      "text": "Missouri Man Discovers Michael McDonald of the Doobie Brothers Is His Biological Father",
+      "url": "https://www.nytimes.com/2026/10/02/us/michael-mcdonald-doobie-brothers-biological-son.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-02T18:43:05+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
-      "url": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "text": "California Sues to Block Trump From Weakening Fuel Economy Rules",
+      "url": "https://www.nytimes.com/2026/10/02/climate/california-trump-administration-fuel-economy.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T16:17:19+00:00"
+      "time": "2026-10-02T20:51:15+00:00"
     },
     {
-      "text": "Dow jumps 400 points after weak jobs data sends yields tumbling: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5",
+      "text": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-02T16:08:20+00:00"
+      "time": "2026-10-02T20:18:00+00:00"
     },
     {
-      "text": "U.S. economy added 29,000 jobs in September, signaling a slower labor market - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdldBV2dkOERyMjBlNF9VaTVoZUU4dWdudEhJemtrZjYwLU5YcXBuLUcyNEtscFRrOUVHM3RLYlBXd0VPdUZTd1hkeUx1LVdRMDVjSDNyYUJtNWhPYXljUjNjVlpJTk5pWFBNYUFRVGZvMmd5MVZaNHNDNUltNjM3bkJSeTNGbS1aUmhsSndQdmhfWkJhaVZKcGxkcWtGaWExenF0LUt4MjR6QU0?oc=5",
+      "text": "49ers owner Jed York suspended, fined $500K after prostitution sting arrest - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXFYdG5Od3pERkl3R2NaLV96T1U5c0wwTHVfelJSOUdpeHF2bzJaSWxMZHFtbWtJRFF6M1lDRXFKakRUc0owNFpzaXlIaUlrX3NRV2J2eUxMYXQxWnlObVl5aVRzQXBNWUU2dFQ1R0ZZSHdadEdHLUlMLVpvRFNqMnJ5Ql9KWGVPZHc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-02T15:50:38+00:00"
+      "time": "2026-10-02T19:59:00+00:00"
     },
     {
-      "text": "How Flydubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-      "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Man accused of ex-minister murder charged with preparing terrorist acts against Reform UK's Nigel Farage - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDRmU2dPN3RqYTA3R2RrQ3pVWkhKampXbllGckJrQUpXRTRqcmpHS2VSTFpSeEV4WXlqbWpXTG1SNFNKYU4xeVFGS0xsLU1xbmRxdVZpVTByMDR1UTFDQXF0S20yRXRZR1YyOUw1d2NMRXhGTllfa3htQWVFYUV2aWdPZUxGazdjX0R1dndxYUNmQlQ3ZU94LWtXbDVrZ0FIeEhJWFVwNG04Z01kU1N1ZExiTU81QWJNc0hiT2hlTjZPVUE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T15:43:17+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-02T19:37:21+00:00"
     },
     {
-      "text": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
-      "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Tony Romo, CBS Sports part ways after July OWI arrest - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0JIc2t1Qno0SGZieFRwRllTNlpkYXA4dFlFdzFESGVsb2QzSzhZX3V3NGN0ajMtSmgtZGtlbFgxT2ozZFY4VzBwV2RERUJILWdCS3JmdFZGY2xtUnE2MnlSVzd4RUJWZ1FZblBkXzZvV0VrS2V2TjJxeG5WOUtuV04wbkluZTZHV0puMkJqRVM4bE5FdWpmbGkzS1pRaWtJeGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T15:25:05+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-02T18:58:22+00:00"
     },
     {
-      "text": "The Rich People Democrats Aren’t Talking About",
-      "url": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "US job growth undershoots expectations in September, but labor market remains stable - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-02T15:08:10+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-02T18:41:57+00:00"
     }
   ]
 }
