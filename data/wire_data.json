@@ -1,54 +1,166 @@
 {
-  "generated_at": "2026-10-03T15:14:50.084990+00:00",
+  "generated_at": "2026-10-03T18:44:04.029093+00:00",
   "lead": {
-    "text": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
-    "url": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-10-03T15:06:10+00:00",
+    "text": "American High School Students Are Selling Guns Bound for Cartels",
+    "url": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-03T18:40:49+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "A toddler’s wobbly walk, hand tremors send parents on a medical journey - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc05uV00tMU1aZ1kwUE1OODY5SXFJbW96WVl3QVA4YlowLWx3Y2pVZWctTVB2MFcwM3l4eDh4TG93MGI0dzBXQUw5VW1lZ1hmampvMjRRNFk0SmtNMTBzajYzSVlScTQ4S3BsT09CVlhBVzh1eW1CMHUtTEdqOFh2REhWOFVzUDZiSGoxSnZaa2k2a1VZV0FwNlhhbmtTTUdrWFlSMGN5b0hHSGdmcTFHYWxR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T15:02:59+00:00"
-    },
-    {
-      "text": "U.S. to lend $4.2 billion to Vistra to boost nuclear power output, source says",
-      "url": "https://www.cnbc.com/2026/10/03/us-vistra-loan-nuclear-power.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-03T15:00:51+00:00"
-    },
-    {
-      "text": "In Texas, Talarico’s Strength in Senate Polls Inspires a Democratic Dream",
-      "url": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html",
+      "text": "Tennessee Commissioner Resigns After Failed Execution of Christa Pike",
+      "url": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T14:45:43+00:00"
+      "time": "2026-10-03T18:23:29+00:00"
+    },
+    {
+      "text": "Medical plane with 6 on board missing off Massachusetts coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-10-03T18:06:47+00:00"
+    },
+    {
+      "text": "Breaking the tyranny of extremists",
+      "url": "https://thehill.com/opinion/campaign/6124141-urgent-gop-reform-prevents-populism/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-03T18:00:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "American High School Students Are Selling Guns Bound for Cartels",
-      "url": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
+      "text": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+      "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T14:37:31+00:00"
+      "time": "2026-10-03T17:47:09+00:00"
+    },
+    {
+      "text": "Tom Cruise’s ‘Digger’ Plunging at Box Office With Less Than $10M as ‘Verity’ Leads - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzhQVmhsVGdudzA3cFktMzhtaHZQZjJuWXJzYzYzMlZRQ0JuMkEwWnhzbGVJNGtHU2pEMi1aYlFPR2N0dUxOZ3lkUmJGTlBUNk01WWIwV2xTSWFSRmFSTnByb3dSd2FCNGpHUjlqaEd0SEY0a3ZhOENaT3o2d0ZnSXowX1JqQjJ4clM5Y05vSzloa25QdGliZjJhbXp2aGJaWjBsallnOGN2b3ducWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T17:04:08+00:00"
+    },
+    {
+      "text": "Tens of thousands protest across Spain over housing crisis - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGdrTTNEUjRjbXB0cm1ieHZUVUVhcEc4Q2JJWFdpQUlGMU1yNWljVGVPQldoSkx4V0hoTlhtXzlsWHg3XzRIbXRac1FuaFl6YThmZmRxRUd0cW0yNnR5dVQ1UzktdnMxUktCWVBjT2hQYUNhcGlWb0V3eE80UmhJSXRVYVJuMGxuMUx5TGRPLVRNZGlnd0phaWlXSUMwdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T16:20:53+00:00"
+    },
+    {
+      "text": "What the Cornell Lawsuit Reveals About Sexual Violence in America",
+      "url": "https://www.nytimes.com/2026/10/03/opinion/cornell-rape-lawsuit-politics-morality.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-03T16:04:49+00:00"
+    },
+    {
+      "text": "Tennessee Prison Chief Was Hired Despite a Trail of Troubled Executions",
+      "url": "https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-03T15:41:29+00:00"
+    },
+    {
+      "text": "Trump promises another round of checks before the midterms - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGNqZHZyeUJPYVRCbE8yTGNaZDU0MzJkZkxOLXFIc0dGWENVVzNWdG1OV08zVE02OEFwczJZR1VOcUpmaG1VcnFqOGpYZlZyTDJtcUZ1cjlsV3VwVzI0Q0E5QTNqRFFfdDFicVBMVWQxTEx1SWgxVWd4YjhDOFZCQmU1bDNZcnJQYUJhR1cyZ1Fvdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T15:07:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Trump apparently shares Tom Cotton’s phone number in push to make Daylight Saving Time permanent - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWZfTGZXSTQxREJOeEFhQzdQQUFiZEh5QUU4S2o3OXdhVDVtOTZGVzlpZ1V2TV8xdU1lRF9yc3RGWlB2SzhPN2VNZi1jaFl2NF9wU2I5d08xZ0c2Sm9BSjZuSjh1dF9QT1FRdjlWZ1NLYnpjWTc3OG12cVA5SjZacHE0OG9ocXlISGp2eENMdGhnQlExM1N1ZXNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T17:45:00+00:00"
+    },
+    {
+      "text": "What We Learned About American Teenagers Supplying Guns to Cartels",
+      "url": "https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-03T16:36:25+00:00"
+    },
+    {
+      "text": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TR0VSSlJ2THp0T2JuY19uNjBFa0NJUlY1RjhHOWtWZFdSV2M5MDdTaG1heUlCd1prd1FjalZrbmhZdDNCbXI3S2I1cHBWamVwb19acjZFLUw1bjQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T16:18:04+00:00"
+    },
+    {
+      "text": "A $28B hemp THC industry is fighting to save itself from a looming federal ban - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1g1Z3BCRzB2LWNCN01fVTZVSWVHN016WVBraVpWWHQxTjhkNG1OYmF2aDZOa2VqdC16eDNXUlNwUTJwcC1VVmNzUTFWQ2ZGOFh6enlYZFhBRkFpdS1rNWFxVlFOWm96LW52UkpVZXpwZkMzMXJjVS1EeXk5V3J4X0ZDdUpTaEZaNVlyVDYtVUFjOXBOLUVmWTNta2JnQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T16:00:00+00:00"
+    },
+    {
+      "text": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2tZX3AxeENQblRLRGd4X2JxcGNLREtUYTBiQ3ZWUFAwMUhJTGwtMmVJa1k2QTZXYUZJRWRLMnhXUU9WcWQwb25HN3NjbWFCaFBZSWpCOGFUNTZRNXVCMFR6aHV0dzd4LWRJNDdHWmluSF9lZFlDeWhyV1JJTzk3YzJUd0I0OHlMbDJlemhJeDU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T15:28:00+00:00"
+    },
+    {
+      "text": "2 Iranian men charged over alleged bomb plot to target UK Jewish community appear in court - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkVlZjN5ay1lbzVTMnhIUkc3Z1N6STlNRVAxb282OGpacVptaVFlc184eWlDQU5ubmMxWjRQWFVoQjdzaGZVbFVBSEprd3lBeEhwaUJFWTR6cW85d2thX0gxUFV4YWFwOTJNX1RZaXhza2UyTnZYbWZHT3JETnMycEh6N0tUbnBPaVJj?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T14:38:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Medical plane goes missing near Nantucket with 6 on board, authorities say - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91LTlSWUs4bmE1Z1k1WlNEV3Z2NEFXWWNwVEVCcEhhNHhvSk10LWRTaXlwZmExUEtmcklhbmZlSkpOVXlGcV96c3ZSQnp6ZjBGTWxkOHRDMmVKR05BWGw0MGxZMzd5ZkktSm1SaVduczB3TUJfOHAzSTFFLWdYYlk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T17:09:52+00:00"
     },
     {
       "text": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
@@ -57,63 +169,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T14:07:03+00:00"
+      "time": "2026-10-03T16:36:16+00:00"
     },
     {
-      "text": "Protesters across Spain demand action over housing crisis - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWM3dISGk4VU14ZGF5LXdOaDZhbFoxNlF1aXR1aDNBT0tWcF9vZUlVdlJvSkRJdUp6YVJpbDE2bjNBdjBqbEo0ZVhMWGUzd1Z2RnFyYWZ0dzhUNnc?oc=5",
+      "text": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0JETXJlUlJGblZwbTljbXFFb0JkS2REVzBWUVdPUE5uN0xSRGpVZVBpS3B3Qnh1VkFWQjdYUzdOWnFFZkd4aVRFQmViaEJkVkVzTUxUMDJKdWh5UWJfaExXMi1UbTlLd1AxVnJ2UF9BUUZFc2g0ZEFTOWJGTi1WS3h0YlNtYzFRY0FTam5WbllJVXdGbUp1S0tQcGgtdmppSHpIMGg5dUtuLVN3SjJFME9MYTNSci1maHptc3RVVVk5d3k4NmgwS0oxZUZ5alpUNmYzR09R?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T13:34:11+00:00"
-    },
-    {
-      "text": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence",
-      "url": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T13:11:48+00:00"
-    },
-    {
-      "text": "Trump’s War Empowers Extremists in Iran",
-      "url": "https://www.nytimes.com/2026/10/03/opinion/trump-empowers-iranian-extremists.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T12:27:04+00:00"
-    },
-    {
-      "text": "Max Verstappen and Lewis Hamilton go viral after \"wholesome\" Sepang F1 moment - Motorsport.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDVKT200b1JtcURNdzVXZEU1ams0VmgwdngxM2tDZXNTSHFsVXlpMEJsbHBTZzlEM1JuVm9FVTI4cWE0ZFNKSUxPY0RrYXRMMDVydWVyMmpVallPQkdibFlHWUxlQjlBMnU5MGxBdjdXcDBRMWNudUZBYko4NC0yOFBuSnh2cUs4TUl0T1hZaVlwdTlUbmNVZW8zOEdqejFNdjJBOG42WHhJb3hTSkVvMlAyeVdJR1hzUktGUA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T12:00:04+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "New Aaron Judge Rumors, Updated Injury Status for Yankees vs. Rays in 2026 MLB Playoffs - Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXplWk1WOWpFSTZvRGlXRHoxRlk5SjB5X2ZuQ3VwTm92MnQ0dXJrS1MzdkVUMTh5NmliTXd6VkZfcWVRWDZocG5NLWVGVzZZVVJzcnhMcVlZV3hDcFZNc3NaRFhmMlMyWktqZzFtOU1CcklzNGdLaENDbTlEcTR3cVZUd1N1VGNna0xSUzk1NzFwTTB3VzljdGxKUEdDc3U0NDJ6WHZhdkIzel92YXlfREpDT1hrQ0RDWUVCUG9aODc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T14:37:17+00:00"
-    },
-    {
-      "text": "High school students in Paris' deprived suburbs spark national protest movement - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1lRUU9NNzVFRk5EbFFHVnJPa25fVVZIMTFVWl9uYUpheXM5d01fWURkazFTU0RHVFc5a3otcFZHazJDQXBSNkNEemdpMVVjOXk1MHZURndvSTU4YTVPdW5sN0ZfNGJLbDBmOWQwX3NfZWktS0tBNEFOUE9hZ2JHMHhoWEhWUmt5dnFkeGQzWEhLQUJMTWNFVzd1UHRxZHJaOHctaFdZand1MnlYMGEzMDYtZFpCakM4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T14:06:33+00:00"
+      "time": "2026-10-03T16:11:49+00:00"
     },
     {
       "text": "New study suggests possible connection between GLP-1s and hair loss in men - The Washington Post",
@@ -122,81 +187,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T13:32:31+00:00"
-    },
-    {
-      "text": "US Coast Guard searching for air ambulance, carrying 6 en route to Boston, off Nantucket - The Boston Globe",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenNRaU1fc3hSMGlKRVEtTjRCcFlLd0xkMmdxZmRiM2NfcklrWlctWHlLV3lWU1ktMUtibHFiaFVrSXhVdXFfRGhwVGUwaGk1d3VYZXhTZ2FHU21FeFZjMVpURmhiX1M2RkF4eXYyWUJGblVyX0RhRFBHOUx0XzYyN1dEaw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T12:55:07+00:00"
-    },
-    {
-      "text": "Stop the Steel? Iowa approves $1.36 billion for foreign-owned steel plant in swing district less than 2 weeks before early voting - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUYxNVMxTHZsOVVKanVXYUMtV3c2OTNwdmdKOGtVcWhGVGsxQUtzcjdobWR0dndZTWdlcE4tU0NaRkdrVWJSdWN4YjdlZmR5SzNvZDRiaXlBcTFlZm1qNFpZZGFyNnM5MlY5alhkZ2cwbFVjQy01al9zajk1NWVLcQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T12:26:00+00:00"
-    },
-    {
-      "text": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-      "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T11:59:06+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Tennessee Prison Chief Was Hired Despite a Trail of Troubled Executions",
-      "url": "https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T14:21:14+00:00"
-    },
-    {
-      "text": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
-      "url": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T13:45:56+00:00"
-    },
-    {
-      "text": "Two Iranians charged over alleged plot targeting Jewish community in UK - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFF0LXF6M0dyQWhlbm1MY2lES2RiTjB5V2poQjNyVENmdVhERTB1ZGFwekFsNFpwU0YwaFF1RWtUOHV0Z1hhTkJPeUNsQjRLMnFsNU5yVlFjNG9UWXJUaDRZMzlaMGVITmJzU2tILU8xOG1uUU1SY3lDOW5pdmpZX2psMFFkSEJ5cVJyX0M5RE5SRVhNNFFtemtNaFEzdXpqd2NGX19ob29iaGNJVTJ3UUdn0gG3AUFVX3lxTE00MXNqeGk4LTB4R3FHQm4tS01ldThXRzRwRC1wUTIzbFlJeXJlVGcxV0FuUVpEOF9hRG9YVVpnd2E3X19pbEN5Z1pOSGxmMmd1dXA1TE80dTh1YjdiUTloMFJPNXZPVElyVHlMWHdiRV9sd014YmZVc1dKdFdCRkpFNE1mMENrZnN3QzEtdTlhRTd2RjBvV2RxSWJGcThDM2NMbFcycnpZNmZfckVXMHdBNFY1RC1KYw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-03T13:30:00+00:00"
-    },
-    {
-      "text": "Chris Rock Has Been Thinking About Forgiveness",
-      "url": "https://www.nytimes.com/2026/10/03/magazine/chris-rock-interview.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T12:43:34+00:00"
-    },
-    {
-      "text": "Slow Motion",
-      "url": "https://www.nytimes.com/2026/10/03/briefing/slow-motion.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T12:02:01+00:00"
+      "time": "2026-10-03T16:00:00+00:00"
     },
     {
       "text": "Democrats May Have Found the Recipe for Flipping Red-State Senate Seats",
@@ -205,7 +196,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-03T11:29:57+00:00"
+      "time": "2026-10-03T15:16:05+00:00"
+    },
+    {
+      "text": "An OpenAI safety employee has quit and is sounding the alarm - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3gyellMbU9hTVZTNnpPSjlwXzNCYTBhSjUwdFBQTmhSVjFTMmRSclM5N1BaMHBjRWtQejdpaV92YjlZVnVmT3JnaERLN2pvbUJTSWRKZ0p2WGFKTHlBZm1NNGU3aEotN0wzSUIzQlZBejZvblI1NlJpWHY3UjdKVjhaUlp0NEVQZ1FjYW1lNDByalZBUjlvaTQ2SlpKN28?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-03T14:31:56+00:00"
     }
   ]
 }
