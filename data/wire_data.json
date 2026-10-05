@@ -1,54 +1,90 @@
 {
-  "generated_at": "2026-10-04T23:31:18.984615+00:00",
+  "generated_at": "2026-10-05T02:25:30.318968+00:00",
   "lead": {
-    "text": "Rescuers suspend search for survivors after plane went missing off US coast",
-    "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
+    "url": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-10-04T23:29:18+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-10-05T02:24:07+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
+      "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-04T23:20:03+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-05T02:15:12+00:00"
     },
     {
-      "text": "Cowboys’ touchdown with 40 seconds left beats Texans 34-30 - nbcsports.com",
+      "text": "Mark Ruffalo says he’ll ‘Hulk out’ over voting rights",
+      "url": "https://thehill.com/blogs/in-the-know/6128799-mark-ruffalo-hulk-out-trump/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-05T02:01:25+00:00"
+    },
+    {
+      "text": "France to shutter up to 500 schools as more student protests called - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1NzanU2MkFPdzJUdUhiRGljSzg3b3puQkVyVzVzeTVTQXJUeVFUM0tzR25xM0lxMU9NTi1zR011aE9zWVhLNFl0MlVVUVd0NGxuSDdPdWdBYk1QZ1NCNWxpejZpcUJmU00tc2tBX3F6ejJNMDRENi0zXy1wemREQ291NG5RVUE2bFpHdUE2dVZNNkpmT1FkWFNZS2drd1ZmR0FVZ3A3bGlGMTBf0gGyAUFVX3lxTE0wdXlva2ZjTHpRcUNVeFBhRVFDb3JuY1Z0QmRCRmxyS1lOUXJ3T2hDTExXSy1BaUR5TV9OTlZfUWgzNG1waXl1WHZhQ296cDdSd3JsZGpUSGw0TUhaR2w3QmF4cE9RbUJ6RE1VUG9adHoyMGF3Qkg3RXRSRkItS24zdjhHMm9qd05uSmVZeVhIM0l6bWVDSG1scFhJQWtrQTE3aUgxZWdEU2h6Tk1ESS0tQmc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T01:58:52+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+      "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T01:22:42+00:00"
+    },
+    {
+      "text": "After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life",
+      "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T00:47:14+00:00"
+    },
+    {
+      "text": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xcldfam9VWEswdWNrb0dvcl9qdC0ycndGNGZ1UkhYRkU3LWR0SWw3UmlPVWVaNUJkSUN3M0NzMGVuRXI0b1ZaLURYRXZxWGxVeTlnenBPcW9NM1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T00:15:27+00:00"
+    },
+    {
+      "text": "Cowboys’ touchdown with 40 seconds left beats Texans 34-30 - NBC Sports",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEh2elV0d3VkRHRONzhDSEFVRy02dXFONHRiMGRxNURfeEtTbEJUMHJ5cko0VTA4WmN3VllubmsxRXJXSjRmQmE0UHJfcTRfZ1g5eGkzRVNtU09kUlhnQTVQMVJkTHdHSG1hc1ZuWGVwbW9rMUJnaTdNV0NUMXpiRm1uSmUtRTBxdHVJVEgxRXB4QTBMYXU4V2o2cFNzdkJGdGVlelV4YTRrVGxmUW00c3loUFF1WmJlTk5B?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T23:15:00+00:00"
+      "time": "2026-10-04T23:37:30+00:00"
     },
     {
-      "text": "Los Angeles Rams vs. Philadelphia Eagles Live Score and Stats - October 4, 2026 Gametracker - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtRXR2YzE0UElWUlJremRmM000X3VPdlBqSVFPRzB5T0NKb25xYUdibkdOMFVnZlBhT2lXY0NoY1g3MlEtd3AzR3p2bUR4WFVTSHdJTkJ3UFVDODlhNnE2QkhOeV9KSjlkazlXcWMzcUFOUXJVSjdQdg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
+      "url": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T23:13:27+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "How was Flydubai co-pilot cleared despite being deemed a security risk? - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFRDaFpIUFI1T1UxN3JrZ1RfNHVMVHJFYTMwaGs3ZXRnQU5UNHNWRFRBZ0h4RnFudktFdWQtSU9GeDJyd3NVLTJmNE9CbkRMYlVSX3diOEhjVEJyNVpBOS0wdXBfQ3AyRkJRVkJrelNrWFlOSWhKY2Q2YjJEaE4zNFI4SVFGdGZiUkZfVTAwZmRGNG1kRm5tVkRQT2trYlNNLWFscjdmWXVsS2VncTR4cdIBtgFBVV95cUxNYzg2X0VVQ3FrdjNsMlM2bzE0b0ZRT2NSY29hRjNFYkpDZTkzRjRfWm1hY0FTSE5WZjl0SW81VEw2VGpud2VpNWJ2TFV3SWZYYTJMS3JBMHY3RkdSaTZtbFdKWXFCMzdwdmVQSkw5Mms4NFZVNEFaRXNZbEZHNHlMU09CSkQ1VDhoeW4xTnZnbnNHUnhBZFVlOE1GMmN4aWZGaDhWU0ZVQW1lckxMQ25rUU9VbS1OZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T23:03:45+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-04T23:03:25+00:00"
     },
     {
       "text": "SNL takes aim at Trump’s Republican allies with cold open - The Washington Post",
@@ -58,6 +94,26 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-10-04T22:25:55+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Tom Cruise’s ‘Digger’ Buried at Box Office With $8M as ‘Verity’ Wins Weekend - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2xkcWg5c1ppNlJXeTBmUVpaalp6Y1ppZERXVFNUVW9DYzVQNWpjeTdWMlVrNm9SM3dfcVNxYzdHelltRXAwa3JWeG9fQkFjSGpMMDhUVkFpbHR2T29nZTJDVHBHWTZXQ204Zm1EbjVYdjZ0bzBzMkZpRWdFNEFXMVRwLTNMMjBEdDdXUy05dm9WWTJqU1h6U3RzZkU3Y3hyZWNlRm5KZE5Rd29yQkpIMjBfSQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T01:02:50+00:00"
+    },
+    {
+      "text": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T00:18:12+00:00"
     },
     {
       "text": "Christa Pike still in critical condition after botched execution, lawyer says - The Washington Post",
@@ -66,37 +122,73 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T22:00:51+00:00"
+      "time": "2026-10-04T23:57:27+00:00"
     },
     {
-      "text": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
-      "url": "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-04T21:47:03+00:00"
-    },
-    {
-      "text": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-04T21:11:09+00:00"
-    },
-    {
-      "text": "Green Party members back 'Zionism is racism' motion - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWT2lFTDYzUG1ZQnZjZWRqbGdLT2NGTklNN25acHN3eVFGTzNZQ0gyUnJmQnNrakNjWUcyTFZNZ3l2bi1kOGR1QklBbGFSUnl3aDZ5TmxwU0NGZ1U?oc=5",
+      "text": "US Marine arrested for alleged killing of a woman on Okinawa, triggers outrage from Japan - Politico",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRE5Lc0lTSmZaTmZBNmtzNWQ3ejI1M0ZQRTRKb1o3LWxaM1dKS2dvbnFaTHNOVnYtM3pUNVBOTVI0YjJYTC1ISnh3MW83My1USFdTemhSUnJLUkUxLTcyMlVfeTFuWWQ0OVJXNjV0Z2szRXROVDJyYzJ3SzNscXF3WkkxMURPVUdHUXdtc2lneV9INDJQeXJ6VEFaSGZ0ZEJRUDBsaUtxcGxvMFN1OFFaTkhKVFQ0a19PWEJBaHJWVlhhd2x2eUdObTJmT0VmOVJyMjIzQw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T20:51:36+00:00"
+      "time": "2026-10-04T23:24:00+00:00"
+    },
+    {
+      "text": "Bills report card: Josh Allen falters, secondary gets torched by Patriots - Democrat and Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOTNxTkx2NWgtLWEtRVg1RGp5YWs3LTAwMHNEMEpRSl8yTGUtUm1JZjlsajVXaFhyeThwRk9CTjlNUC11X2JTM1ZHY2prZ1NsdnYteTNHclFKVjBKZFB4d2dvN0lqVG9Ib1dDZnJiNHRTTm5aazNfak5wd1hraGpQU2o5bTZINUhuc2VVeFZjRVFyVWFpMXZTWDIydXhmREhTTUxlR3hmWGJRbkNjV1FOZGxYVXdhN3VTQ29DVVlYdmQ5S2JySGlUU1otdnFIdnZBa2Uxd3BkaFZ6ZXZjaUgxYUVvNU1WemZXZDhRSUxieXI2eV82Njhnb3FpTmZQb3E1djNTSUh1aWZraDFCUngzUFpLN1lKbXBoYnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-04T22:42:00+00:00"
+    },
+    {
+      "text": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
+      "url": "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-04T22:24:58+00:00"
     }
   ],
-  "col2": [
+  "col3": [
+    {
+      "text": "Search for Missing Medical Plane Near Nantucket Called Off. What to Know.",
+      "url": "https://www.nytimes.com/2026/10/04/us/missing-medical-plane-nantucket-what-to-know.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T00:49:20+00:00"
+    },
+    {
+      "text": "NFL roundup: Rams escape against Eagles, Chiefs win thriller but Thornton suffers gruesome injury - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdDY0NHo2TTdTTHdaRzFiVFp3LUwxVEhYN180R3JNcmxjWHVLdnd2bVB1NnJucTR4d1JpMUtxVERsNG1pcnNJOF9adGRSUTZIdVF1OXVFMk9VYm11NGRWOGZOTUljQTBuUGxNY2dGR1M0SFIwbzM1RTNfWU5GYjRPaWtwMWQ4eUU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T00:17:00+00:00"
+    },
+    {
+      "text": "Jackson Chourio walk-off single lifts Brewers to 2-0 NLDS edge - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTF9UUGhiSkxBT3ltYXpKYmpKQ0pIMUdyRmpfc3BtbFhzclVGSGt2NWFWZmJ0SDVWcWJJZXh2eWplUHktZUQ0S3k1dWVKanN2cHlVa1FKUm9LdVY5RmU5RDBzMEpBcElGVG95YjNVSHlvSjE2b1RWNW14VzNHTDhqMEVIVGotTTlidE00Wk5aRllHeVB3MWxrMkY4Z0JwazVrOFE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-04T23:46:00+00:00"
+    },
+    {
+      "text": "Today's NYT Strands Hints (and Answer) for Sunday, October 4, 2026 - Lifehacker",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWthNEwyN2ZNMEY2OWxTWWVaQUdWYlROQ2pJUVI5cy1reUI3TEFWa2tuWHBFdmlIZ0ZaQTZtc1JGb1Nub3BnYTNrWks2SUZqVTN5NXpnSl9VQW94Z0otaEdaY0JHMW9wVDdVdWFNZnFvOFZJU1NidjZsckNKc1d4d1BiMFpIRElPVHZHOVlhdDNhNEw2VFE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-04T23:16:24+00:00"
+    },
     {
       "text": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
       "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
@@ -107,105 +199,13 @@
       "time": "2026-10-04T22:34:49+00:00"
     },
     {
-      "text": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
-      "url": "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-04T22:24:58+00:00"
-    },
-    {
-      "text": "Cornell University to take ‘serious look’ at fraternities after rape allegations - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0NxOGtWRDBIZDRNVHEyU2stQnoyYnJwNVR0Si1RN1BKbW9qVmVxODBwSVV4RFdRNkJldHpMSURFZkE3OUIyWEJSY3puemF1b1B0SF95SHM4ZHgwdm9IYnhiaVA3WVRfX2FqX0N2WmI1MEVsbzR3eXRyM1ZCNWxIRXR6QmViaTVacXhJeTZUT2VJNVpteDhodk04VnlKY2poT0pfZXBibVV6aDRVUlhjVWtsNGtmb0lRWEdNNzZKOA?oc=5",
+      "text": "Milania Giudice posts birthday tribute to sister Gabriella, just months after infamous 911 call - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRTVwX2lPYzdjeDZ6UHgzQnVMLWNsV1oydTNzdm1QeGZpM1ktaC1ucUhJTFFhWWhOTDNoM2RLZUw4V0JGNXBOa1lHYWx0ZjZQem9DdG1aemtPdEZlM01yTUFyZzB0ZW92MXkwUThicWQ2WEpYTUpzMEdjTUIwMzNBY2dyNndVZTRZSnVHZlAxZ1BtcWluaHliUDF2UFBFZTNWSnJoQmIyaWhycEVMVWJEbTlkeVl3Y1hmdVFBdnlWVFhqVUlZdFhTWTQ3UTVLVU5mWUt0a29HaHc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T21:56:00+00:00"
-    },
-    {
-      "text": "Japan summons US envoy as marine arrested over Okinawa murder - aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk5hVVhEeHdBcW41SkxsWm56LTdGMlFBRkFYdWNXdmR0UUdHUlFFcUdlZGcxU1RxRXRlOFpQVjlfdVRqTkdjSEJNUDRLT2dxUDdkcXRuN05FWUE4MkNzTzM5T3ZIODZvLVFrUnRrWm53cWQ3QlAtbzltRkd1VXFoZkw5LUQ1VENlbGtyRHk1OEwtb2lxMkhDYzJlWExxS2hqaEdtONIBqgFBVV95cUxQeVFUZE1UWUZUYU9NNVFYc2tRWHE4OHYwbHRtVHRKQloxcFJWUTdIV1pSN242Z1R3cXlqZGtZMFZVUzRrX0R6VHFTTjA4MmVqbnpPSnB2ZnNpQ1NUR0dfVHZSMEtPRC01dm1JUzVZUWFmOTFtTkJHM25tRnVzazM5ZTdjYkFUblNfS0hJSU42MlJCV1VZdWpfcUJJZnhuSzJuMjdpR1RGSEdtZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T21:46:27+00:00"
-    },
-    {
-      "text": "Measles Outbreak in Amish Country Forces Some to Rethink Vaccines",
-      "url": "https://www.nytimes.com/2026/10/04/us/amish-vaccines-measles.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-04T21:00:12+00:00"
-    },
-    {
-      "text": "A Supreme Court Battle Over Climate Change Begins",
-      "url": "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-04T20:51:03+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-      "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-04T22:30:27+00:00"
-    },
-    {
-      "text": "Tom Cruise’s ‘Digger’ Buried at Box Office With $8M as ‘Verity’ Wins Weekend - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2xkcWg5c1ppNlJXeTBmUVpaalp6Y1ppZERXVFNUVW9DYzVQNWpjeTdWMlVrNm9SM3dfcVNxYzdHelltRXAwa3JWeG9fQkFjSGpMMDhUVkFpbHR2T29nZTJDVHBHWTZXQ204Zm1EbjVYdjZ0bzBzMkZpRWdFNEFXMVRwLTNMMjBEdDdXUy05dm9WWTJqU1h6U3RzZkU3Y3hyZWNlRm5KZE5Rd29yQkpIMjBfSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T22:24:09+00:00"
-    },
-    {
-      "text": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
-      "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-04T21:53:42+00:00"
-    },
-    {
-      "text": "All B-1 Bombers Returning to U.S. From U.K. Base - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXlMMHdOTEFJWjZvZFVmMnZvLTdMQ3hlcjdWNDdWX2NtMG95ZTFNeDBwQk1HUG9NQ19OQUpSQWJuUGFIQUVOVzEzUTN1OWhmSWlhcmdVa0wzbXAzTnY2a2t4bVBDTUdVcnUyVW9rM2FCWWlmbU5aYTJxak1YeHdGbnB6eG54NGR3U0NqVnpEdFU3T1ItM2c5ZA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T21:22:30+00:00"
-    },
-    {
-      "text": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T20:55:00+00:00"
-    },
-    {
-      "text": "Brazil presidential election 2026: first-round live results - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0FBUllHNWVmdEJkd2w5M3YzYVR6ZGFZX09NVTNROTRkUy1MSUpsQ3E3NkZWT1JxWnV0NzMyZVZSZWl1dmhRWlp3REF5M1ZBX1lxR0lpWFZCOHppa3p2ZHpGckw2ZTZZQ1hYT0s0R0JzMERRRTR1MGlUZnRqMkJ1NjJONW8wZXA1OW80bUdYa2JLVW54bWg3YlB1OGM4QmdUZHpMdWE3cGp5Vmg4MDVUWU9CRFg5MUdLTEx3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-04T20:28:00+00:00"
+      "time": "2026-10-04T22:22:00+00:00"
     }
   ]
 }
