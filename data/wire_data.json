@@ -1,46 +1,91 @@
 {
-  "generated_at": "2026-10-05T18:51:39.979946+00:00",
+  "generated_at": "2026-10-06T00:44:02.396685+00:00",
   "lead": {
-    "text": "Blanche defends DOJ's plan to send 1,000 monitors to polls on Election Day",
-    "url": "https://thehill.com/homenews/administration/6130081-blanche-defends-doj-election-monitors/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-05T18:47:30+00:00",
+    "text": "Trump Allows Cheaper, Dyed Diesel to Be Used in Nonfarm Vehicles",
+    "url": "https://www.nytimes.com/2026/10/05/business/trump-dyed-diesel-fuel-executive-order.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-06T00:40:38+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map",
-      "url": "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html",
+      "text": "Jeffrey Archer, Novelist Whose Real Life Rivaled His Thrillers, Dies at 86",
+      "url": "https://www.nytimes.com/2026/10/05/books/jeffrey-archer-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T18:45:00+00:00"
+      "time": "2026-10-06T00:34:54+00:00"
     },
     {
-      "text": "Nasdaq rises to fresh record high led by tech; traders eye oil and yields: Live updates",
-      "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-05T18:44:17+00:00"
+      "text": "Facing Backlash, Trump Says His Super PAC Will Pay for Taxpayer-Funded Ads",
+      "url": "https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-06T00:31:38+00:00"
     },
     {
-      "text": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
-      "url": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-05T18:43:12+00:00"
+      "text": "How Ketamine Emerged as a Key Factor in an Alleged Cornell Sex Assault",
+      "url": "https://www.nytimes.com/2026/10/05/nyregion/cornell-university-jane-doe-ketamine.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-06T00:30:02+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Cornell University Rape Investigation: What We Know",
+      "url": "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-06T00:05:27+00:00"
+    },
+    {
+      "text": "How Congo’s Ebola Epidemic Got So Bad So Quickly",
+      "url": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T23:03:25+00:00"
+    },
+    {
+      "text": "Longshot Bid to Block Paramount-Warner Bros. Discovery Merger Filed to Supreme Court - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFhBV28tMWI3UmlXWmtCeVpLc29Db1RWXzBDUEZKbXdTX0Y2Qk4xYXpvaGlZbWgzUlVOWU9YNTVOZmVrRHNFaGUtMHQ0dWVnNnhXNkNEbXhQeDEyWW05VnBQRThpOGI0OVRuWmNYWjNVMFB4RDJtRkdnYXdrY1JPVUVqemVBbVV4bm8zek42MWJWYXhacllfQWhMaGZpRWN2SzhrQWZWMnZQb0J1TUlnMEhMaWNWUVRKOWYyNVdR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T22:52:52+00:00"
+    },
+    {
+      "text": "Supreme Court grapples with case on holding Big Oil liable for climate change - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGhHVFJhcnFOdEtFUWI5cXBPM0g2dVluMmlkMDIwYURBS3dqVnJEdDZQS05vWkdZMGpCT090Z09RVTQ0d1k0OFRsZHQxOWh5T1ZjT1hvc1dHdTA0NHJIaktsMHRiTy1XbUNOdG1wOUZNS1RrUURoSDcyRkFwcjdpM2dBUkkySnptVmNheVQwTlE2YXN1TGYxVS04azRXaDN4OWtsajhZb2k3T1R0Sm9pLTZlRWw3ZVVFWlJRWUVISQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T22:25:56+00:00"
+    },
+    {
+      "text": "New Orleans Saints legend Steve Gleason reflects on his 15-year ALS fight - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1pZR0V3RjVNU1AyVEVvRTRtQ0J1cS1KNGI3dFpZY0pBeklBSkYtYnBPbFZyWFdfN2lNMXlEZkswd2lHMmJwT01vX2M4NWFlV1NlWW1kdDNJRDNjdzFYV240SVE0SzdUYjdoNWlFdXNrV1ppVnl4X0lhbmU3YmJLM3BFY25QXzVXXzl3VlpaYzhXZjVFdUoxMmpOUUZ5c1l1UmNoYzN30gGrAUFVX3lxTE0xQWdENW1yR0tpMDRid2lXQngyZGVUeXFsMGloYVVENXVzRHh2YlRld1ZpbWRnM2NJN2ZScjdaTDlKMFRIcG04a1JvQnRyZzlqeTlHQUR4TWQ0MzFvcS1lOGJVN3l2a25acElaNmdhU0RQRmpQVlFNYjlSejBoak9nNm1CX3QxZl9yR3BWaWNhMU5ZeFJOcS1reG9xbUMxaUJpdUJUeFNVU25Xcw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T21:55:46+00:00"
+    },
     {
       "text": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
       "url": "https://www.nytimes.com/2026/10/05/world/americas/bolsanaro-lula-brazil-presidency-trump.html",
@@ -48,155 +93,36 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T18:31:26+00:00"
-    },
-    {
-      "text": "Democrats Expect Record Number of Women in Party in House After Midterm Elections",
-      "url": "https://www.nytimes.com/2026/10/05/us/politics/democrats-congress-women-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T18:06:07+00:00"
-    },
-    {
-      "text": "With Trump Flailing, Some Conservatives Are Having Second Thoughts About Trumpism",
-      "url": "https://www.nytimes.com/2026/10/05/opinion/trump-conservatism-maga.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T17:30:04+00:00"
-    },
-    {
-      "text": "SpaceX To Reattempt SDA Mission, Rally Continues Amid Busy Launch Schedule - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUVGdkw2Zl84aV91TWtfWk9iT2hWN1pZS3l6TEgxZXJkaFZXMDFfcl9rZ2xBWWJuT2ZIb2gtczlFa3UzTVRydGJ6WFQ0eTlPblF5RVZhSU5nNXViT3NXLTU2S3E5QWpuV1BwTE5lM1lBTXRkV08ybHd3d1hURmpHOFNZaVY5amQwSFhVS3FxTkdaa3Q3Vl9NcGZvNEs4Nkw3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T17:20:00+00:00"
-    },
-    {
-      "text": "David Ellison Unveils Skydance Team Who Will Run Paramount-Warner Bros. Empire - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOczZpcDNjRnB6TVltZ3BXeG8zdFcxN3FjQk1zYXVXYlo0bHEweC1SQjl2NFMzNFp6cG9jbDFLczViaTVJRkswNmoxV0hKQ3VIV2V1SHFZX29DcWFsa29LWUp6N2FhZFQzeFd2RS1yS292aERxQ3lLZXFXLWpibkhqbGV2SnhtT2FfVWpoaVVrRFp1M0NIeVF5UV9BUkNzVXlFQzRVdDNHX1BFY2hLc0ZJdk1POXFBYUd5andkY0Jn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T17:15:56+00:00"
-    },
-    {
-      "text": "‘The Batman Part II’ Production Paused As Matt Reeves Steps Away For Personal Reasons - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSWp6T2cwRVVpM3BiZGhYWmFkNVB5NV9YMHBfcjY3bmdWQTJfUzRzbVByTWFzZ1I0WVlpaUxvWnZ1cnp3UWF5ajEtdV95WlZodDZwRm56RmZZWVBsMC1GZGpQYnQ1OXFZU1dIdURKalp5bHBncS1qcV9GSFl6Q1VmbUxuZTZaOVNzQWhHY2pPdjFoZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T17:00:00+00:00"
+      "time": "2026-10-05T21:42:18+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
-      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
+      "text": "As Students Protest Handling of Cornell Sexual Assault Case, a Building Is Vandalized",
+      "url": "https://www.nytimes.com/2026/10/05/nyregion/cornell-rape-case-protests-vandalism.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T18:17:01+00:00"
+      "time": "2026-10-05T23:58:12+00:00"
     },
     {
-      "text": "Scientists reveal what seven days of fasting does to the human body - ScienceDaily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUHg0SExIRkpCQUFCWUk4LVMyc1pSczBEWlZxNHFuWDRkOVM1dkhIQlh2TDBHMUQwRkdnTExNempSeklfZldjUlhRakVXbHIwcWUxQVFqMkU1TllqQk1hUThfb251VXRPbklpSkRWUQ?oc=5",
+      "text": "Brazil’s Problem Is Bigger Than Bolsonaro",
+      "url": "https://www.nytimes.com/2026/10/05/opinion/brazil-elections-bolsonaro-lula.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T22:56:31+00:00"
+    },
+    {
+      "text": "U.S. B-1 bombers evacuated from UK base because of threat of Iranian drone attack - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGVFcXp0VEluYW14M2pjWk91QUdjLWNoS25SdVBEeU1vZjZ6Y1BRSUVsaHc2aVRmR2V3elJJSHdFdUx6bGpHU01ZVUExRnVCRXpEZUYtSEVkampkVTBhZGlnM181RXVIbXZJN3NOcV8zdlc1QnpQRy0xMjlDUDkycjZfOG5sc192alU1bmp4Nk92QW1xYnRGRm1fQ0cyVGk4Q3J3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T17:41:04+00:00"
-    },
-    {
-      "text": "War With Iran Is Forcing the World to Reckon With Geography’s Power",
-      "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T17:29:57+00:00"
-    },
-    {
-      "text": "Dennis Hastert, ex-House speaker whose sex abuse admission upended legacy, dies at 84 - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2tIV3QxTGJhREFndHFxM0NmSTVweE5hcUdkZnZ1UXJCTm1vYkRYMGdya1loYWpIazlLYjNBU2pTa1lMSUd1a2EtaWt4YV8zUjNmLXY2bnhNU0xtRHdZQ1RURUJMV1BBTVE5QW05SFNjeW4yMzc0YkcydXR0OHBBanBCRmV1OVJONU54R2RYNjBvakNNYktpYWlSWkJGVjdfazV0UlJWLXVpRGFqWEE2WG5wRm5tM1hYam8zVzBXLVhPajlUakxFUVg3RkNORnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T17:16:56+00:00"
-    },
-    {
-      "text": "This Is How AIPAC Lost Its Way",
-      "url": "https://www.nytimes.com/2026/10/05/opinion/aipac-israel-lobby-netanyahu-gaza.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T17:14:14+00:00"
-    },
-    {
-      "text": "U.S. officials seeking details of reported Russian plague death, quarantines - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVGSEE3WEp6TnEyYU50aERYUHgzbU1VMTZrUG1SRnhHRE9RUkVDUVUwbVZHM3VjLUdaM2dKNmgzeTBpc3hoenpjWV90cHZZOEMxU1habm14bVJBT29Va0UyOUU1MGdiN2RXUWc1Q3pVZEQ4czNGMklEbVB6TEdHTXJXT0J3c0hFeXVidU05c3JqWnBjeG1mN1hCYWFfaUxpczRlQ3VlYjk4cHdiN0kwY3VlTmdwMkt3QnJES01zcw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T16:58:50+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government",
-      "url": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T18:16:04+00:00"
-    },
-    {
-      "text": "Burst of Attacks in Gulf Heightens Fears Over Fragile Energy Trade",
-      "url": "https://www.nytimes.com/2026/10/05/business/hormuz-saudi-iran-houthis.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T17:35:07+00:00"
-    },
-    {
-      "text": "The Campaign for Ohio’s Next Governor May Be the Ugliest in the Country",
-      "url": "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-05T17:21:18+00:00"
-    },
-    {
-      "text": "Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdU1sSmNra0JOMDFWSFR3WjdMdFBkVjZqZ1N6RXhVU2FFblZVWXY1UTlYWE8yeE5VeDh6c3pWeVQ5bk0tY0EzYk5hbUk0ano0X180WjNjXzhRSWxIUFlIV2hGNHAzSXRFQVAta2FFRWFwQlZWcUdCMWtHWi1UYkQxbzhBYThoT3NraDlGVV9iZ2lXWENzbzhxYXE0aThYT0tNVHVIeEc3X2p4dHhwWVNYZ01OaENrWXVqVFBMczFB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T17:16:00+00:00"
-    },
-    {
-      "text": "New Supreme Court term begins with a climate change case seeking to hold energy companies liable - nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1FnOFdJSE5xQXFjdUJTaFFpNG51S0JLeVhIWE4zR3BnYW1pdXlFZ1R0RzJYTENIVnUyaEZELXJFZWljVTNVMHE5OXV5dW5LZl9iSTRlTFRUYVZlZF9ESG02eUl0ZUhwVk5ralJxT2NzRFNtUmRqYnNnVjJqOGVycG1XQVFWOUZmb25aakFPUE9yWWpQVjNRdzRUeWJRaVFRWmVJZC11X2RuX3k5aDMwdzBacHRLQzFycnFsMEhZWEZOSGstTUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T17:12:12+00:00"
+      "time": "2026-10-05T22:49:19+00:00"
     },
     {
       "text": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait - Reuters",
@@ -205,7 +131,81 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-05T16:33:49+00:00"
+      "time": "2026-10-05T22:23:00+00:00"
+    },
+    {
+      "text": "Supreme Court Begins Term With Major Climate Case",
+      "url": "https://www.nytimes.com/2026/10/05/briefing/supreme-court-climate-middle-east-oil.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T21:50:15+00:00"
+    },
+    {
+      "text": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1lRbWphZzFMdnZtOTc1akUxbXh3dEVqcy1CcEFuSGFqRzZzUlpvMzVKbHppdjNoa2tTSGNKaDlXV3RCdVRLenBiYU9JcFVWRkZtSEIyNk9CeEhoWHhJdzJxQXBNMG5rWjJZdTEya1k4ejI4NnAzMjRERjRWOUcwQTlwRTd0ek1oRHJROWNkLWVCbVZwU2UxX3A3Q1daMnZhZ0ZsYTh1Mjk0NUR10gGyAUFVX3lxTE9WYklidnI0ZGZfS09RWVZEdFk5cm1pVTVBV3ppRVUzajhGZkdHQ2tDZ2tFZGo5LWt4ZUpYck56cld0S051UC1tWW1fUVpfN3ZySFpJYzZyWnlzU2p3V0xjQm5qZ2ZwNk5WZnBjOFhlNy1MNjMtS1RWaXpENVByYmFNN0RXekliVWJ6ZW9rSmZ3Z2NfRVg4dzdtQkdIVFZoajVMaUx2RTVpUXNJem9QdGxBRnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T21:42:16+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Burst of Attacks in Gulf Heightens Fears Over Fragile Energy Trade",
+      "url": "https://www.nytimes.com/2026/10/05/business/hormuz-saudi-iran-houthis.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T23:10:32+00:00"
+    },
+    {
+      "text": "NFL suspends referee Adrian Hill, line judge Jeff Seeman for unprofessional conduct toward players - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWpHR2xxbDZkNHJGR1N0Si1FeEpMbjR5eV9rMGhRWEVHNUZIaFVwUEI1NXlDTVMxZEU1elVtQlFydUJQUGdXSjU5alVYczVhbWJwVDdCVkVZLTFDSE9ub0FpVTdyYVZiZ082SzVmbS11b0pELUVRRjd4WHJtYTQ2TUhmenNDeGVWTjluVXZ6eS1wc1VXdW1obzFMSFAteXo3MVlqMVJpY0wxS2JyaGw4a1Y2Qnc3NWNDdjl4SkhGa21odTY0dENkYXhlazVzVFZnTkdvWExnLVNwY0Z4bVlUN0pQdE5HZFpkekstVEJMeXY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T22:55:35+00:00"
+    },
+    {
+      "text": "2 People, Including Winter Haven High School Student, Killed in Florida Bus Crash - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MZWlKMHdMLTVuSzd2c1ZjNGNnaHh4QWluMnJPZXY1MDE2UlZFYW9vX0lhdFJBU25Ua18zMUR1aURJb0RsQ2FrT0pGN3JaVmY3Q3l0cW5LbkFMU3F6UnU3TGxpZ0FqM2w0TUNoYkR4ZmdncmctNlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T22:35:15+00:00"
+    },
+    {
+      "text": "Amazon Launches Prime Day Discounts on AirPods, iPad, MacBook Air, and More - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FbzBkTzFhTlFiank2aFRfRE9OVzdWTFRfMDJpRF9OeHBQOGNPc3dSUXI0N1NyWG1HQ0FLLVhzT1FGQno3R3hwMWI0NUpTYmxXY0lYaXJsOFBxdllaWjgxaFN1TFJNdTBOLVNlTWEwWGFPSS1s?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T22:22:57+00:00"
+    },
+    {
+      "text": "War With Iran Is Forcing the World to Reckon With Geography’s Power",
+      "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-05T21:43:29+00:00"
+    },
+    {
+      "text": "Pennsylvania’s measles outbreak is the largest in decades in the US - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVQ5WVlhNnliWVN4dUlLS0taNVhLS0ZkRGZVMGdtakhpT1BYdmtvU202RGR4S2F0WTlqekxDSzI0aHcxeTJkaXdLX2g3WUtpcEZmQTNlQzdiRUJaWFpxbXR1ZjRGZFllMTJLYnZaYVlaRzhsNDJWa1hFbks1UXExWkRQU1FTaDFKUlB1N3RIQVdFOVk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-05T21:37:00+00:00"
     }
   ]
 }
