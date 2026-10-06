@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-10-06T06:54:49.735918+00:00",
+  "generated_at": "2026-10-06T14:06:53.099781+00:00",
   "lead": {
-    "text": "OpenAI admits response to Australian government hacks 'not good enough'",
-    "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "This struggling gaming stock is bound to bounce back, Deutsche Bank says",
+    "url": "https://www.cnbc.com/2026/10/06/this-gaming-stock-is-bound-to-bounce-back-deutsche-bank-says-.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-10-06T06:53:17+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-10-06T14:03:43+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
-      "url": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
+      "text": "Live Updates: Protests Spread Across France as Unions Join Student Demonstrations",
+      "url": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-06T14:01:24+00:00"
+    },
+    {
+      "text": "S&P 500 rises to record high as oil and yields move lower: Live updates",
+      "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-06T06:17:40+00:00"
+      "time": "2026-10-06T14:00:28+00:00"
     },
     {
-      "text": "Rays get jump as Yankees tie dubious mark with 3-error first - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmVuNlZlU0NLSUJLZkdqRkNGOGFvM0RrTzJmdVRtRFN0NzVhWTN4UzFfTzMxRTN3QkZtUTUzc2lvQmJjNVRlTERGN2h6eUkxMHNEUVlFb1p6N0gxZ1hINmRLRmRmQzR1RHhoZTVwal90TWhxVWd5N2M0WHJfZlpoWkZkRDd6bkxGVnhvTENkLVBYQzIzTWFEM1JOMUk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
+      "url": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-06T14:00:01+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Paramount Closes Its Deal for Warner Bros. Discovery",
+      "url": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T06:10:59+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-06T13:55:57+00:00"
     },
     {
       "text": "Cornell Faculty Members Signal Deep Anger With University Leaders",
@@ -37,175 +57,155 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T05:40:34+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86",
-      "url": "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T05:38:04+00:00"
+      "time": "2026-10-06T13:34:44+00:00"
     },
     {
-      "text": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
-      "url": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T04:18:00+00:00"
-    },
-    {
-      "text": "France Set for Nationwide Strikes, as School Protests Escalate",
-      "url": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T04:01:10+00:00"
-    },
-    {
-      "text": "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUndycTl2a3JFYWpFNDVPRWtKQ0Y4cDFVSXlrWUZwODdQTHoxTDBDOXBDdGRKREZMQlVlV3B6OGlOcnptU0FxZW1wSTZWcFJNNXdWUzYxV1E0UFJWMDREMUY4bFBBRXRMNmVfNDhKUGVxMVVJWm1XTWFiRlppMFFQSFNLam9jNzNiQllJM2lKRkR6cXhaRzlNOU1WQXpQUnVxcTg0?oc=5",
+      "text": "PFT’s Week 5 2026 NFL power rankings - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVlhodTBSdk5zb3NDSmVPdDVCVUdrR25sX0RmOG9PRHl5Y0t6NDBSeTNRRjVrNmhUU21DVVcwQmMtdHB3QzBrUW9abjFhczVxVEtJTHU3bV95NmZzdFJDaktCbzY3eGRQd1ZIRnJlLVJvaEVTUXNpek5MR190TXlLQ0RrVUFpUUw2d2NqOWdiRE9wd2VWOE4tdE9CMnBtdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T03:19:00+00:00"
+      "time": "2026-10-06T13:12:38+00:00"
     },
     {
-      "text": "Supreme Court grapples with case on holding Big Oil liable for climate change - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGhHVFJhcnFOdEtFUWI5cXBPM0g2dVluMmlkMDIwYURBS3dqVnJEdDZQS05vWkdZMGpCT090Z09RVTQ0d1k0OFRsZHQxOWh5T1ZjT1hvc1dHdTA0NHJIaktsMHRiTy1XbUNOdG1wOUZNS1RrUURoSDcyRkFwcjdpM2dBUkkySnptVmNheVQwTlE2YXN1TGYxVS04azRXaDN4OWtsajhZb2k3T1R0Sm9pLTZlRWw3ZVVFWlJRWUVISQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T02:23:15+00:00"
-    },
-    {
-      "text": "Hochul Declares a Measles Emergency as Cases Rise in Rural New York",
-      "url": "https://www.nytimes.com/2026/10/05/nyregion/measles-emergency-new-york-state-hochul.html",
+      "text": "German Officials Arrest Former Spy Chief on Espionage Charges",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T02:03:29+00:00"
+      "time": "2026-10-06T12:49:34+00:00"
+    },
+    {
+      "text": "Francis Halzen wins Nobel Physics Prize for Antarctic 'ghost particle' hunt - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0hVTTdSN0xhUUhTTVlvRE5ndVE5eE5jUF9rek9ldjVvendOOVNBWnkzNVFueEEwdUxBeS1TX19SeklDYWVURWZ5QW9ZWnVhdXZQNGRJMC1HMWFDY3owd0Z0bmFSUl9OcDlXdGdmQTJ0WlZpQVZrYTdQZmRBTDV0Ymw5MEVfRDE1NVlxVW9xQ0V0UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-06T12:22:31+00:00"
+    },
+    {
+      "text": "NFL suspends 2 officials for conduct toward Cardinals’ Trey McBride, Vikings’ Eric Wilson - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXZwZ2otMzhYbzI1d2t2MVo2NVZ2b1ZDNTNDbXVyVnRBVkc1MnBpOFgwOUxZbjBoTXY1LVRQTzh3bUE5OFNMeGJpUWZ2ckRRZjRhdzlqWTJJWnJMQktmRVlHb2ItczFsVENWTVhRNW1yQ1ZvODVMSHkwSzhWTjNDOHdUTUpGOG11ZGpvOWlWclpjQlhoSDdvc1UyY1VhRHZ3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-06T12:01:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Bijan Robinson, Falcons run wild against Saints in statement road victory - nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDBKVC1ZVUZIeEcyMVVKOUxMbTNlWXItaWViVDJqRUs1NS12bklBUFhhUUQ3N1lKYklxSERDM0NSMXZxdFZvVm4tY3EwUExjVEFEMUNCNFY5UTNWMGJLbWdpb2ZiUE1pSEE2bTF2Rmh5d0N5ckV6VVNqNDJtX254cEhYUmtCeWZ6?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T04:46:41+00:00"
-    },
-    {
-      "text": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
-      "url": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
+      "text": "Jeffrey Archer, Novelist Whose Real Life Rivaled His Thrillers, Dies at 86",
+      "url": "https://www.nytimes.com/2026/10/05/books/jeffrey-archer-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T04:11:58+00:00"
+      "time": "2026-10-06T13:50:30+00:00"
     },
     {
-      "text": "FIFA Found Congo Player Ineligible, Let Him Play in World Cup",
-      "url": "https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html",
+      "text": "Sources - Ravens QB Lamar Jackson dealing with ankle sprain - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3VBeEFWaE1FWElxeVEzNk1FMUZhWjBoV0U1RnJlMkFlNTBSQnFHckR0TEFyNlZQcGZWS1lBbTF0OHJDcEh6cDd2ZUMweDdSVXQ3YUprNWpPMnFNUGczWWxsTUpXNGxRNUU5Vi15NWdmRHNBRXRfRXE0X3pzYmpHVHNkSl9TTUNJTUU0MFJMeGlJTUpES2hObERGN0ZVZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-06T13:25:00+00:00"
+    },
+    {
+      "text": "Republicans fight red-state midterm chaos with hundreds of millions in late money - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGlIeUpCRldCOTFnMFVJbWZXQXVqeGZIWkZuam5uVjk0TUI2NzlNOTVRREl4TjhaUVJtbGJBa1FKQUVjRDZ6ZmwxTlVHLUpkQzE5M3RXbzhqa181cWR2ZzNUc2t5U0FFdDF6V29uUXpyRC0xMnYya3dONjZWa25ORUtyZ1pPMXp2NWN5YUdZOEJUSkszNXJ2cXlLN215R0o0VjF1Slk0MmpQUFpQdlE1Ui1UY0xwSVh1MGZiVzAtVUZSSXB2SExF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-06T13:11:07+00:00"
+    },
+    {
+      "text": "Stock futures gain on lower oil and yields with S&P 500 poised for new record close: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54SDBCVUlsR19iZW9vcGFvN3dtT1hLbDEwdGM0S2xkZ2pXam96MjdpaUp4RW5acS1YZWVMYlZmRVVOZ3BtVk42TklUTTg0VFlLUkVyRUl0aFVzbVBISW5DQWRkMHNEakdlUXEtOGg1RkRuemFWM3hB0gF8QVVfeXFMTmVlVWdLbGJqQklwY1NYVkNua3A3SHFvRnFjaVFjVGtrUTJTZVo3Q2R4aWxkSEFCXzg4dVh1MTJPZHdDV0dGWmd3VHlCdTgwUWhDWmhVbjZiMXBwU0hiQ3ZNa01Ic1V5SmZwSk05N21TSWNMU09SM1ItMExoLQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-06T12:49:33+00:00"
+    },
+    {
+      "text": "Trump’s Try, Try Again Supreme Court Strategy",
+      "url": "https://www.nytimes.com/2026/10/06/opinion/trump-supreme-court-decisions.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T04:01:06+00:00"
+      "time": "2026-10-06T12:05:39+00:00"
     },
     {
-      "text": "NFL suspends referee Adrian Hill, line judge Jeff Seeman for unprofessional conduct toward players - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWpHR2xxbDZkNHJGR1N0Si1FeEpMbjR5eV9rMGhRWEVHNUZIaFVwUEI1NXlDTVMxZEU1elVtQlFydUJQUGdXSjU5alVYczVhbWJwVDdCVkVZLTFDSE9ub0FpVTdyYVZiZ082SzVmbS11b0pELUVRRjd4WHJtYTQ2TUhmenNDeGVWTjluVXZ6eS1wc1VXdW1obzFMSFAteXo3MVlqMVJpY0wxS2JyaGw4a1Y2Qnc3NWNDdjl4SkhGa21odTY0dENkYXhlazVzVFZnTkdvWExnLVNwY0Z4bVlUN0pQdE5HZFpkekstVEJMeXY?oc=5",
+      "text": "Germany's ex-spy chief arrested for espionage and treason - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGVPUGtVUnkxZGhzSk1idV82dFpKZUVzcXFEQWNoaGltWU52b1N1R3g1c0M5ZU94LUxhcXB6bFV6VUw0WDgxQmx2Qnl3NnhmaWRSb29zdjR2OEhNeWN2NUdsOHZ6c2hiQWowQlhxRWhtU21pQnFjb2ZvRWhpbUNraTdIZ9IBgwFBVV95cUxNVERYVmpkaHdJTnBueXdVYk5VaEhMdDREUXdhUXA4WGljb2Z6TmJBMFp1Q2tLOUlFVDZCT0dxMFlzY3Y3UVBNdFlST3ZJM01lY3hzQzJZdDVvcWRGZGphWG4tTlhwQ0NWOEtyN3kwWFZWOG9qa2NuV05pQ3pwMVhhQlV4Zw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T02:50:56+00:00"
-    },
-    {
-      "text": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNF96a0dyVktsSkVyQ1pPcDdVWjZYWGtySWZzVm5aVjVBUmdpNlZWSTh5OVhHYkxEUGNjbmd6M3FzTURwa1hVM1kzbnMxSS1RZk5OOFFXLVRhN1k?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T02:22:24+00:00"
-    },
-    {
-      "text": "U.S. officials seeking details of reported Russian plague death, quarantines - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVGSEE3WEp6TnEyYU50aERYUHgzbU1VMTZrUG1SRnhHRE9RUkVDUVUwbVZHM3VjLUdaM2dKNmgzeTBpc3hoenpjWV90cHZZOEMxU1habm14bVJBT29Va0UyOUU1MGdiN2RXUWc1Q3pVZEQ4czNGMklEbVB6TEdHTXJXT0J3c0hFeXVidU05c3JqWnBjeG1mN1hCYWFfaUxpczRlQ3VlYjk4cHdiN0kwY3VlTmdwMkt3QnJES01zcw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T02:01:19+00:00"
+      "time": "2026-10-06T11:51:11+00:00"
     }
   ],
   "col3": [
     {
-      "text": "New York state declares measles disaster amid resurgence of disease in US - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhoWURHcmVRdjNWX3ZtOUU3RmQ5bnliUkNxZVVPUDhzajdYMHpKRWpxemVpU3pIV1lDc3JzM3VpMnJZWUJ3N1hJOEE5OFZ5dy1yRnJ5eF81Y1I4eTJiYzZZVGRraFRrQ1ZVVzAxSHd0OVFVMG5KMXBqdzV0QXlLcm5rSHM2VGhGVEg4T01Md0R3M0ZkZ1o2bi1idDVZMmNDWEF1cFN2NkdhY0tDbmdLQ1FLd1_SAboBQVVfeXFMT09JUnYxRzA5RURxQkNmcENCNWJnMldidzFJd2RCbUk4eEVGcmhIdHJSM2x0dklMNUlnazk3dUVRMWhITFBPLW1sbTFnN3dfZWRUTXNGTHgzaHNXZHZGTm1qZ3lBa0pVb0ZiSl9WOUdORmVQdXNjNlRpYnp2ZUd5UzRWMWxxM1lPRnZURGNWSHY5bzJDSDNVZU8zZF9HRXAwajFQQTRQaEk4UlVwOEtsc0ZHbDk1S1A2TUNB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T04:18:07+00:00"
-    },
-    {
-      "text": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
-      "url": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
+      "text": "U.S. Trade Deficit Widens in August",
+      "url": "https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T04:01:14+00:00"
+      "time": "2026-10-06T13:41:13+00:00"
     },
     {
-      "text": "As Japan’s Population Shrinks, a City Is Accused of Padding Census Numbers",
-      "url": "https://www.nytimes.com/2026/10/06/world/asia/japan-population-falsified-census.html",
+      "text": "Nobel Prize in Physics Is Awarded to Francis Halzen for Work on Neutrinos",
+      "url": "https://www.nytimes.com/2026/10/06/science/nobel-prize-physics.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-06T04:01:04+00:00"
+      "time": "2026-10-06T13:15:26+00:00"
     },
     {
-      "text": "Google nears billion-dollar deal for nuclear power from Constellation - Bloomberg (CEG:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmlHM0lHdmZGdFJaejRDcGxHX2VwejZ4MmJ2b3BfQ2VUblFUcVB6eGF3TGZvSnV2bTF1X1NwU00wd0E2VXJkWkRvRXliMFhSYnlSN1M1SVV3Uktadk1MRk02YUM3S0FRNlhpQ2tWVmk4RGVEQS1panl4NHl3MGZHdml5dXZLSEctSFVtS0R6emMySWxMYTdnckpyUXN6czl5MktqakZSVU9LX09oN0VhcG5DUjlncU9k?oc=5",
+      "text": "Done Deal: Paramount Completes Warner Bros. Takeover, Creating Hollywood Giant - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU3FwTGxpUUJXeGhuX3RhUFlVa0ctN3BaQWZvWkNRdlBySDlqYk9WQ2tCVGxVQThJWXJYVW8xX0hjQkFCRkExSy1sS1U2ZERiT1JDMk8xZ2ljcElNT2x4U2JscXpGTWZnb3N6T250R1l6ZFR1MGFxQ0tFSTFWVFdfTUhPS1c5RGxnVGtUSHJxNlRIRmU4UXdnaUFFcU5RTWlYVlBSS1pWMTgtdWxtbXQ1UmdURk1pYVZoZkZTNQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T02:38:29+00:00"
+      "time": "2026-10-06T13:05:44+00:00"
     },
     {
-      "text": "National Hurricane Center tags Invest 92-L in Gulf - WESH",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoYWd2NmlObTZvZVVVQW9CZ0NCZmV2b0ZueGp1RURaT1V0djR6Z09BOW9CUk92SHNZUjJXQkxaVEYzWUN3OXJ0N0lTLVZhY3dWS1FPbURIekF4UXh6aXFiQ3FzeFJlQ0o1MWJqMHZ3?oc=5",
+      "text": "‘Artificial’ Review: Luca Guadagnino’s Dark and Campy Tech Comedy Shows Just How Stupid the Road to Smarter AI Has Already Been - IndieWire",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWxLWHprZEgxR0liaWI5V3g2aUpPUFBfVnF1Y3JrVnM4d25VbUk3M3JYZl9MY3drVXgydE5ockMtOGxnUkdKUWhGdDQ2bmE2N3drandCVUwzQ3lreEpKNDlZN3RUVmV4YjhqYi1jWjJxekh5enZCNmZvT0NZbm9aVnl0WXRYOUc2UkI5Nkg4c294MndKeXJ2TEN3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T02:17:00+00:00"
+      "time": "2026-10-06T12:30:51+00:00"
     },
     {
-      "text": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1lRbWphZzFMdnZtOTc1akUxbXh3dEVqcy1CcEFuSGFqRzZzUlpvMzVKbHppdjNoa2tTSGNKaDlXV3RCdVRLenBiYU9JcFVWRkZtSEIyNk9CeEhoWHhJdzJxQXBNMG5rWjJZdTEya1k4ejI4NnAzMjRERjRWOUcwQTlwRTd0ek1oRHJROWNkLWVCbVZwU2UxX3A3Q1daMnZhZ0ZsYTh1Mjk0NUR10gGyAUFVX3lxTE9WYklidnI0ZGZfS09RWVZEdFk5cm1pVTVBV3ppRVUzajhGZkdHQ2tDZ2tFZGo5LWt4ZUpYck56cld0S051UC1tWW1fUVpfN3ZySFpJYzZyWnlzU2p3V0xjQm5qZ2ZwNk5WZnBjOFhlNy1MNjMtS1RWaXpENVByYmFNN0RXekliVWJ6ZW9rSmZ3Z2NfRVg4dzdtQkdIVFZoajVMaUx2RTVpUXNJem9QdGxBRnc?oc=5",
+      "text": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXWDA4bWI5U1dKaE80VF9mYnFHMkh2R1JibTkwNzhoa0ZVRzl4TFdRZ2R5WFJfd2FTeHB1LUg4cWhwZnU4cjlpNFRPZkEzZnNRZDFlSFpOaFJLN0F6aFZSZEM2bkRHRjkwZzR4YjdiX3dhREoxTkNVRWRVUDLSAYIBQVVfeXFMT0hKSERTVUUyMFV6cXpYZnpyNndVaThwMjlrcjZqSmZZOVBjaWlWZTVxbXJVb3JFWTM3T1hMZUdqQWwxeDhiVlc3LUpGaFc2VEFVbW1OR0o3TnJ1MkQyR0tIRjY1YUxsMDdYb3hGQ0xYa3pndFl0TVZNVHR2al91cnU0Zw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-06T01:56:33+00:00"
+      "time": "2026-10-06T12:04:46+00:00"
+    },
+    {
+      "text": "The Hidden Policies That Power China’s Export Boom",
+      "url": "https://www.nytimes.com/2026/10/06/business/china-exports-currency.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-06T11:45:44+00:00"
     }
   ]
 }
