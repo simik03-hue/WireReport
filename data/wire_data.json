@@ -1,137 +1,81 @@
 {
-  "generated_at": "2026-10-07T16:51:07.685311+00:00",
+  "generated_at": "2026-10-07T21:54:25.596994+00:00",
   "lead": {
-    "text": "What is kratom, herb drawing scrutiny from lawmakers?",
-    "url": "https://thehill.com/policy/healthcare/6133466-lawmakers-push-kratom-7oh-ban/",
-    "source": "The Hill",
+    "text": "Lululemon poaches Athleta CEO as new chief product officer",
+    "url": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-07T16:49:28+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-10-07T21:47:06+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Tillis backs Whatley in North Carolina Senate race",
-      "url": "https://thehill.com/homenews/campaign/6134102-tillis-backs-whatley-senate-election/",
+      "text": "El-Sayed says Netanyahu pushed US into Iran war",
+      "url": "https://thehill.com/homenews/campaign/6135050-abdul-el-sayed-netanyahu-iran-war/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-07T16:48:57+00:00"
+      "time": "2026-10-07T21:44:51+00:00"
     },
     {
-      "text": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "text": "Trump Administration Investigates Wells Fargo for Race-Based Lending",
+      "url": "https://www.nytimes.com/2026/10/07/business/trump-hud-wells-fargo.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-07T21:40:27+00:00"
+    },
+    {
+      "text": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-07T16:48:28+00:00"
-    },
-    {
-      "text": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-07T16:41:57+00:00"
+      "time": "2026-10-07T21:40:24+00:00"
     }
   ],
   "col1": [
     {
-      "text": "From Iran to the U.K., Trump Is Being Forced Into Retreat",
-      "url": "https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html",
+      "text": "The School Near Paris That Shows Why French Students Are Protesting",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-07T16:38:57+00:00"
+      "time": "2026-10-07T21:33:31+00:00"
     },
     {
-      "text": "We Want to Know: How Have Your Halloween Candy Habits Changed?",
-      "url": "https://www.nytimes.com/2026/10/07/dining/halloween-candy-prices-callout.html",
+      "text": "Stock Market Today: Dow Opens Lower, Treasury Yields Hit Fresh 24-Year Highs — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2lHZVNpMXR1TEt6VjhHNTZqbldCdmJncHA1WDZ1TXJ2TUdSbklFTmlVWnFoODM2Yy05RTJBVUQ0QU5VeG1zZlVTRFczSkdtVVlTNzRfNkpXWXBLQ2JwQ2FNVUVRUGZyTjJ3djdaUGgtdGhPOW9LVHZJcHVRMDhpVjhKUFEtV1U?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-07T20:52:00+00:00"
+    },
+    {
+      "text": "Jonathan the Giant Tortoise Is 194 Years Old. He Just Had His Genome Sequenced.",
+      "url": "https://www.nytimes.com/2026/10/07/science/jonathan-giant-tortoise-genome-aging.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-07T16:13:48+00:00"
+      "time": "2026-10-07T20:09:04+00:00"
     },
     {
-      "text": "Microsoft Surface and Windows Event 2026: All the Announcements and Analysis Live From San Francisco - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnBkU3JzdnNrbXVfYkIyV3dhZGZRbTBkMkUxTWRUTldsaGhWZmJvOHlVamgyMEdKdnM0d05fcEdkZUotc2pYNlpTM0pYSFdMMVBjMEFieGo5SEl3NVRLVE5XS1VCcXZUeUFkaHZWWnhidnRsYTE2R1Z4LVF4TjNLUEdGdk5Od1hnX0ZrTW0xU2YyZHd1X04wNGVYTQ?oc=5",
+      "text": "Exclusive: Nicolás Maduro and his wife expected to face new charges over alleged torture of Americans - CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WOUpTdmxKM3dYUHA1NTBnOHcwdFBycUNKNmlFdzFzc28xUGZYTjBaQ3U3dmlWQVFjcXg4Z1VpWmdYLUo0czk5elFhYkFrVkRpNGxoRzRsLXp3aWNvNUpxWXFWYVVRU3VZRTBQLWV0cmkxWlVWelRISkt3TQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T15:34:34+00:00"
-    },
-    {
-      "text": "Tropical Storm Isaias forms in Gulf, could reach U.S. as hurricane this weekend. See maps, possible path. - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YSjAzYmpUNnBmVUhmZFItMzRWdGdFWnJrblpMTEs1d1JvQlZmbTNuXzJ6dkh1Y1dSSlVjTWp1eUtzTGxXNnNTSVZSdlhvbzRCUFB4eEpyc0YweDFPLWxnZjM3YzNZLTRhWkhmNERHT1pzUDhvaHNhOTd3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T15:04:28+00:00"
-    },
-    {
-      "text": "Why Ken Paxton’s Estranged Wife Is Making the Case for His Senate Campaign",
-      "url": "https://www.nytimes.com/2026/10/07/us/politics/angela-paxton-texas-senate-republican.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-07T14:57:28+00:00"
-    },
-    {
-      "text": "Google experiments with an AI-powered gaming platform - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19wOXlWcGQ4Wng0d3ZtS1hiTDZvanRPVHVkemgtUEQ0OXRGeTk0NVdBallhd01WV1ZpcVp5YmhZaUZrbkF0aVVBUVFkREcxSEJBNnZWMnhuY184U2Vfb1QwQW55bHhmNVZlRm9EX1dyQm5nVkpPUEZyMjIzMDdRRHZCV3l4Nm94NUdzMzZQbVZsdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T14:36:23+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Dow falls 400 points as 10-year yield rises to highest level in 24 years: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMcmRHZjcwcGdXX1NxUXliUklxQlZWa3JwRDNzbXFzYzJCcHViTUtTekk2bmNTVDJKVUlHdkFRZlAzUnIzSFhKU0JwZUp3SzBxYnZrRXZHcm9wZWNTS0ZjZFVfa01uN3h1TUJ4TFV5UkxXNEl2Vy1j0gF8QVVfeXFMT2JydmdNdUwxSHhwUHF5b2RRbU1jdmN6NDNUcW52SjRNemlQQXVVMnNMdFpHbHdzLUV4ZFpMc2dNclhKWnBaVWVaTlpKbFdmazJLbXQzZTNUMWpOYUtnNGIwVkxKczZjSFZ0YTJXX3hud0dhbXJNYjN0NGphbA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T16:26:00+00:00"
-    },
-    {
-      "text": "Was the Human Gut Healthier in Ancient Times? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYks3MnF4WnpCTWZTWVNvX1VlSTRickZoeHVvcFJqaUM5bnV6QnI3X2hBNFVVTXh3bTFsR3ZlYVdtX2llcFJGelR1dF9RY2QwUjZVa2pkd2I3SUoyOFZqY3J5WWFsTW5jRnRIZGJpOU5BNlgxUnhGa2FZSkxqQVFMbHVaU3pldE1UeWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T15:57:07+00:00"
-    },
-    {
-      "text": "Exclusive | France Considers Issuing More Shorter-Term Debt After Bond-Market Turmoil - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWk1SE5sT0ljcEstZ21OdGdjeXZIMDg0b2ZPOXZoTThhV1ZmQjN6bjlJMW9rUF95bjdvNWlQdDVjMEtRYWtWNWNaWURpcGUyb2dIV19Hc0YwNWgtakt2YkpQOER2dGJ5NllnSTA2ajVqU2JyVkh5a016N1lXdm80dFRyUFhCb0xFR044M3JoUnA4XzVuSVBNNktZbWNkcm9qQVM2ZHNFaVBCMi02WVNKdTdQWkY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T15:13:00+00:00"
-    },
-    {
-      "text": "Three years after Oct. 7, Israeli strikes in Gaza grind on and deaths climb - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMm1kWlRJQmYxbUtXcEpCcjV6ZGdzSGRlZ1ZGaUhHMWRzc3hMb3FFQnA5Ym5zV1F3UHNhUnhPWDh2Y2U4OVZ3YWFmdVdySEc3VEIyRzI3azV2S3hrWkVrTmI1OG1GdFMxVnJqbXZJMTlkRjZLano5d01JMldGUmF4MFZEMlZNSU5uaUJCRkpHX1k3WkxObXBJVmJVRzBLcTlNb29sSnpfTXBFd2ZIZzBoYTln?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T15:02:08+00:00"
+      "time": "2026-10-07T20:05:19+00:00"
     },
     {
       "text": "If the Kennedy Center Is ‘Dangerous,’ Why Is the Symphony Rehearsing There?",
@@ -140,19 +84,8 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-07T14:57:18+00:00"
+      "time": "2026-10-07T19:55:02+00:00"
     },
-    {
-      "text": "Whistle-Blower Says I.R.S. Leaked His Tax Records in Retaliation",
-      "url": "https://www.nytimes.com/2026/10/07/business/economy/whistle-blower-irs-lawsuit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-07T14:24:48+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "August Lamm Was an Influencer. Now She Wants You to Ditch Your Smartphone.",
       "url": "https://www.nytimes.com/2026/10/07/style/august-lamm-influencer-smartphone-book.html",
@@ -160,7 +93,54 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-07T16:19:13+00:00"
+      "time": "2026-10-07T19:24:23+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-07T21:14:22+00:00"
+    },
+    {
+      "text": "Mamdani Draws Anger With Oct. 7 Statement Denouncing Israel’s Gaza Attacks",
+      "url": "https://www.nytimes.com/2026/10/07/nyregion/oct-7-anniversary-israel-nyc-mamdani.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-07T20:29:25+00:00"
+    },
+    {
+      "text": "‘The Twilight Zone’ Created a Blueprint for Surviving Our Surreal Moment",
+      "url": "https://www.nytimes.com/2026/10/07/opinion/twilight-zone-tv-america.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-07T20:06:49+00:00"
+    },
+    {
+      "text": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDJBUEV3WHRnRTl4WlNDa2lsaFNicThRU3RsOGxKRzJCV2xkd25WN3FieDRSSFZfcVZlOUJTbVBLTUotYjA5ZElTWWF6aWFacmVILUJoNFNHQkhneEdCRzJ6NGJvdUZHNjBueHRtUWlTTmtEQktwekVpRVp0d2VnZVJ3d2ViNlJWNlVGcHEyNTRYTFI0TUd1bHhMUV9iWkwzTF9sVjRMNjJuQlZsY2lNOVZR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-07T20:01:14+00:00"
+    },
+    {
+      "text": "Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-07T19:54:57+00:00"
     },
     {
       "text": "Texas Plans Execution After Botched Lethal Injection in Tennessee",
@@ -169,7 +149,54 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-07T15:44:40+00:00"
+      "time": "2026-10-07T18:57:07+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Stephen A. Smith Apologizes for Lane Johnson Retirement Comments on Mental Health - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VHVmNma3ZIQmlnb3BRdkxhRWdvemd1OUhUblplTHVzTWhUdWJoYWs0VVY2VVFrV0ZsOU1zU1FxQllocmo4dS0xeGtCUU8wTzMtamIzLTBLdGVJTkptOWJ1M1N2TjUzMmF6dnZvOGZIMmN1aENuWGxrZmJZV1FXdUVyd3lZaUQ3Tkp4S1JmQ3U3U05XeGkxU2ROMW1OdDMwTHdHYkFhWkNxZlFWcmhBTm5qdG9JOFE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-07T20:55:12+00:00"
+    },
+    {
+      "text": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEN2SzdRLWZYSFVmU1RTUTYwTFZqRE85T1d1TW9QcFRaalJSRHlOVWhlZkJfU3BrSklSWXU0LVlOTU0ybUVuN1lOZGQ0RDNlMGU0dWJwQy0tOXVLVlpnSkwxeWVZSlBodXR0WFk5UktOU0s3TXAtUlZ0NC1yNnFxeHRJMnZ3ajlOM2I2ZU04UFNtd2NncXZRVnExWFNNejdEN05B?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-07T20:22:37+00:00"
+    },
+    {
+      "text": "Christa Pike’s attorneys believed she was brain-dead before she woke up ‘to the shock of everyone’ - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pMGNhWkw4Vk9qSWJ1NXZyOTFhVUJQY3ZJdkRSdm9iRDNuQVBaOEVEaVBHTnNKbzI5T0tlQmhuWE1McDl4UUxVdGxQVzRiSHhfMHZlT2lCWmowRUFBWXgxbWtnclk0TDctODVWUFpnaFZMWDdfbVlMcE1n?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-07T20:06:00+00:00"
+    },
+    {
+      "text": "This surprising mammal fossil is giving scientists something to chew on - NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDR0M3djcjNIRUF5RmFQdXNadktqVXlKYkJ2Q0xkUmUteVJUWDh2MXFSZEtaQnJyTi11Y1JiRV9kUkNUWUUtTWhxeC1hY0hGcWtkUGJZVUctZjBSdnVhem1hanlPVkJlM3lJUE51amVlaXM0QThyV1hFaUxrekdNNWctSUZXMHB0Z01rMk9MQnlWVjVBRGZ0VUwzSXY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-07T19:59:16+00:00"
+    },
+    {
+      "text": "Fears of a Plague Outbreak in Russia: What to Know",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-07T19:43:20+00:00"
     },
     {
       "text": "Russia Says It Found No ‘Emergency’ in Plague Lab",
@@ -178,34 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-07T15:12:43+00:00"
-    },
-    {
-      "text": "Christa Pike’s lawyers in court after she regains consciousness in hospital – latest updates - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnBDYWVhNDMyajViT3dsOVoyVEFwSE90WlZBOExIcXNrLWRoX1VxYng0X1FBSnkxOEdEZ1U1ZmNNeXRVR0k0VDh6ZHF0UndZNnAzZDJrd0NTbjV0WTltdE1lQW9XallHdXhMd0ZOUmNQelV3QUF3U0h4VEk0QWQ0TzNOamF6YXJ6TkJKN1NFWnptVV81N1M1SEZqOXNhZUt0b3d4ZXpiSGtUdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T15:01:00+00:00"
-    },
-    {
-      "text": "Paxton’s latest audio leak is making things tough for national Republicans - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmV0QUJQV3hKWjY4NWJiWkd2bXNqdnE4YnVXWTZRRVg1WWhwWEhydm51UEt1UWpQS2FJMnhwQVZ3ZllzaTBfaVZmVkYzT2RUaHUySVJwTmlROUN0Z0xtT2NpMHFXQlJRTVJBWFdCYXplYWM1UXpsclVOWjJJQXZBSXA2TTJrZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T14:37:00+00:00"
-    },
-    {
-      "text": "Zelensky condemns 'vile' large-scale Russian attacks that killed 22 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdmo0MEpFTVV1M01RemJlVnhuRlJQblVuYXUtSlVLaWRORlBlRHRUMzNXZ1YtMUFVUU9XV0tTR1A0ZXBKSGdtUmxua3o1QmxPc3BGblZONWtqNXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-07T14:21:45+00:00"
+      "time": "2026-10-07T18:20:34+00:00"
     }
   ]
 }
