@@ -1,54 +1,184 @@
 {
-  "generated_at": "2026-10-09T07:56:46.211830+00:00",
+  "generated_at": "2026-10-09T15:13:00.058174+00:00",
   "lead": {
-    "text": "Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates",
-    "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-10-09T07:32:03+00:00",
+    "text": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
+    "url": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-09T15:09:43+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "The Nobel Peace Prize is set to be awarded in Norway - AP News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-10-09T07:24:00+00:00"
-    },
-    {
-      "text": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
-      "url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+      "text": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+      "url": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-09T07:23:48+00:00"
+      "time": "2026-10-09T15:08:20+00:00"
     },
     {
-      "text": "Hurricane Isaias live updates: Gulf Coast braces for dangerous storm - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWJ2WC1hT2hrZndSUXcwYTRqd0p0V1BydEN3TERLZTJBOElnbFNZS1l2dGg2NGJiNW85VXRUN0dhUDJUSndVRXFsZGZJY2x6WmFaYWhMUHBkNloySVdORWhSY0VWREk2c0pSc1VTNkVINlRQRVFDZzMxU25TQVZpYWZ3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T07:16:00+00:00"
-    }
-  ],
-  "col1": [
+      "text": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+      "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-09T15:07:46+00:00"
+    },
     {
-      "text": "Michael Kosta Slams Kimberly Guilfoyle Over Reports She Asked Donor to Pay $100,000 Bill",
-      "url": "https://www.nytimes.com/2026/10/09/arts/television/latenight-michael-kosta-kimberly-guilfoyle.html",
+      "text": "The Controversial Class That M.I.T. Is Paying a Professor Not to Teach",
+      "url": "https://www.nytimes.com/2026/10/09/us/mit-professor-michel-degraff-palestine-course.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T07:12:55+00:00"
+      "time": "2026-10-09T15:06:50+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "ICE Shooting in New York: What We Know",
+      "url": "https://www.nytimes.com/2026/10/09/nyregion/ice-shooting-nyc-bronx.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T14:42:33+00:00"
+    },
+    {
+      "text": "Hurricane Isaias is moving toward the Gulf Coast. Could it affect Alabama-Georgia football? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkZ6YTlyUzE3WnJhMG5sdWtPT0lNN3RrZ3VmTmZRUDctSG9aQXRaOV9xdXRTcXhzZUxGNzRkZ3VqcTVBTm90RmpKY1pyUEVBVXNCSVNDZU5oOUxkS2R1N1hfQVBtOUVjcERwQlFLNGl2THh1RldCcEsycGxKOFlpY1VDamlPaUVZX1Z2Z3FjTkg5MHR6Wm1WUlpGSmNaekp3YzVIQUljaw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T14:14:29+00:00"
+    },
+    {
+      "text": "Wall St climbs as oil slips; SpaceX spectrum deal weighs on telecoms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T14:10:22+00:00"
+    },
+    {
+      "text": "A week with Googlebooks: four notes from our testing so far - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T13:36:02+00:00"
+    },
+    {
+      "text": "Intelligence Isn’t Power",
+      "url": "https://www.nytimes.com/2026/10/09/opinion/ezra-klein-podcast-arvind-narayanan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T13:16:22+00:00"
+    },
+    {
+      "text": "Hugh Hefner's widow urges Jessica Biel to turn down role in Playboy film - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUI3QnFrZ0Y5LWRWSGh5ZExsSlo4dzdyWWdkTWNINXlOSkpRMWQ3MkI5WGlvZE42dDV3cHRFcFdWdXFhYnBHUkpDV3hIbWVfbW5lUnlWY3dGU1JMRGdWc1VUN1NfNFYtaVFLZ1FZdk15TnJzR2Fpc0tIeC1HaFd0ak85dW5KMnpoaDVOTndfbDNhOGJwRE5GNGM1SC0tQnlIb2E0UE1Ia1VBdE9ZNS0wamJmWUR4cHM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T12:58:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "China and Europe Agree to Deal to Limit Chinese Exports of Hybrid Cars",
+      "url": "https://www.nytimes.com/2026/10/09/business/china-european-union-trade.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T14:35:23+00:00"
+    },
+    {
+      "text": "Nobel Peace Prize goes to South African human rights pioneer Navi Pillay - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZzBrbjlqRzBha3o2X1YwQzEwbXBCNGx3Rmp6bXJYelk2TWpfTWNuM3kwSzRHZkliaWxUemo1XzhFUm1Kc1NnYy13d2V2TlhZN2JSZFZiYkM3RjNiVXNsMFhsdjZpUmZ3TlBpS0d6cmVSZnFLMUtWN1dIbFZWaWY3a1pyZG0tdUxU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T14:14:00+00:00"
+    },
+    {
+      "text": "Labour fends off the Green party in closely watched UK by-election - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkEtZVhNMkYyQnRxOTVDaHlnMWQtWmF4UndHZHdlSXlzNUVTT0FudnhHU2xDMkNkOC1UVlBzZ21rd2tiTWp3eFJudDVsOXZDWEw1bFNTNk4zQWgyUmhwMjJVVzFhOGdzaG50TGFJaDU5Y3RPMl9TMTJ6UEJXR29Wa2I2emtHLTVKSFdSTWpUOEl2QktYTGRJWFBWY25UTHpManRMaVhTWmNTTjg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T14:08:58+00:00"
+    },
+    {
+      "text": "Brian Schottenheimer considers staff changes after Cowboys' loss, Jerry Jones responds to embarrassing loss - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUZfdll3NVRxak9SX0xwUGdXSGYwM2xDWEQybk9naFJkSnNnSkxrUEkwX3ZuSjVaZ2YyVjdpTlNpS08zbVJkYjRuQmkzVlFWY1ZocVFQMkpocmpwbTBMcFNGaVBVVE5TaHZ0VzZzcHo3S3M1NzdGZ3NKQWlIejZBV1pDdXBuM2FNNkFsWFVyclV3aDBiZGwwNkszV1JDQjgxZEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T13:34:58+00:00"
+    },
+    {
+      "text": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWhNZ0JMNUo3MVlwMTl4Sm16clFCOXc3bENvWFo1SmRfYWdMamUyeHZSN0wzM0dtM1dPb2hLUlQ0WEhhdW9CZXVSa2MyQWtkVWVQWXppd1M2emZnRGlOdnkzWE16Z2cxVVJfV01aOVlnQnBja3VSWkNjRXgyMkNzMnMxZC3SAYoBQVVfeXFMT1hlM3p1NjhZbFhodUJ0eGdCbE1XTlNTZHhndXR0eGtNM1BRRDhWUzhPTjdmZ0ZPTkx3empmR09UMXc3QmZ3NHR0ZE9BRnlRTkk5VWl1a2lOQ1k0NF9xeU10RnJ2VjJGQWpVOFhOZDBvenpCMXZQSldGWHZHT05nbUhrWkFHQW1tVFBR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T13:15:51+00:00"
+    },
+    {
+      "text": "‘You’ve Lied to Me Enough.’ In Texas, MAGA Voters Are Breaking Ranks.",
+      "url": "https://www.nytimes.com/2026/10/09/opinion/gina-hinojosa-governor-texas.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T12:28:50+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "How Correspondent Banking Can Enable Sanctions Evasion",
+      "url": "https://www.nytimes.com/2026/10/09/business/correspondent-banking-russia-sanctions-evasion.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T14:29:23+00:00"
+    },
+    {
+      "text": "Trump sets up committee to investigate, potentially remove the Fed's Lisa Cook - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T14:14:00+00:00"
+    },
+    {
+      "text": "A Photo of Mussolini’s Corpse Led Page 1. How It Got There Is a Tale.",
+      "url": "https://www.nytimes.com/2026/10/08/world/europe/mussolini-corpse-photo.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T13:57:10+00:00"
     },
     {
       "text": "Fort Hood Shooter’s Execution Will Be Public and Streamed Live, Pentagon Says",
@@ -57,155 +187,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T06:03:21+00:00"
+      "time": "2026-10-09T13:29:49+00:00"
     },
     {
-      "text": "Ted Lasso star explains surprise finale twist as season 5 future looms - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHZfcnN6d3htY19yaEFjekxMSUNhcXFsc0w4cTQtaEVFcXpFNk1KbXZuRlVGSFJmYS00ck5QTjhsRXpWekZFeG5lN18xYUQ1M2ZvcHdnQXFYQzZja1BhSTRVYWYwQlFKckRRN0ExMjJZa1djM1NYYmdHcWc1dFNNMHpWZG9palFHcmlkQ3VzMFBMdmZRaU13bE9GbWNrQklMN2tLanI5SjhJekQySWpUSg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T04:56:00+00:00"
-    },
-    {
-      "text": "Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways",
-      "url": "https://www.nytimes.com/2026/10/09/us/fiery-senate-debates-in-maine-michigan-and-georgia-five-takeaways.html",
+      "text": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+      "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T04:01:07+00:00"
+      "time": "2026-10-09T13:09:48+00:00"
     },
     {
-      "text": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
-      "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T02:27:43+00:00"
-    },
-    {
-      "text": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFViVVBNRTJGQW1qTndiQ3Z5RG1BQlJIU19LcUVOaWlERGUydWxtZ0Y0XzRSTWxhOTJJTWMyN3NHYmdXT1NENWVvNjdDU01VWGttY2FYMUJzdVA3OFZDLWo3NWhhZGtpSUJhUS1ad0ZGRzJnbDlVN1E1UHhRVFVkVUZJbUJoaC1uTUNOVXJqYlVMYWp6ZXJZZkNuSHFLbFd0cnREN1Ixcks5NU9jT01kOXpR0gG3AUFVX3lxTE5MVzJ6Yl9iX3hqM3QzTUNjcEtPalVVVUFHZlZObUw3QWJUQ1ROdnZXa0JXR2VfSzJsQUFSQlg1Nm1sVi1kTk82NGdjWjA2OTU4SjdwX2h4RWtrcjJnYlZ5aFpXb1BnWm5ueWVSZ19YUWZ5LXZlYmc5R1lKU2puNVE5SWgzQkhQZ1NmdlZjbHJJa1ppdXhfRWpSdnFGaVpLejJucm4zZFNfWDROM1hnZzY5eGlESnk4OA?oc=5",
+      "text": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVlNqcnVNNU5mOGhxUE5iajdxU3psRmdDdWNEZTBGenRRT1AtTC1YcmVTbkpNTlF4SkhkY25RblUtWXlwMHlrM2RfZ2VTVUprQ183THdKTWpEb1k?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T02:03:45+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Buccaneers 24-16 Cowboys (Oct 8, 2026) Game Recap - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JRkU3Q2FtcHZkSVM3RVhSODF3Yjk0N0gzVjUzMVVRV0FHUDNBNXVVT0VfMkY2TDN3RDhQQjBzdVkwNzZ0OTlpeElBRk1NLU1CMUx2eDJraVN0aHM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T07:07:07+00:00"
-    },
-    {
-      "text": "Cristiano Ronaldo, Jorge Jesus and the 10 days that rocked Portuguese football - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnZqVUlWYXhTTFdsNjROQUpWWGFHeEUtQ3o1d1A4QnFubHFrWG9tWjR6bE83TGRrMkpNQV9uaDZtQklzaUN5eTZpMlBkWkRucjRBTThMbGhNU3VDQXY4UnR1ZEc3dmtkUUhOZy14QWM2WTNDQjhjSDdlV2o1TFNwNDhrakE5VXdJTVZrN292MXBSdFhFZmc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T05:14:53+00:00"
-    },
-    {
-      "text": "Man shot by ICE agent in New York City's Marble Hill, authorities say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3pXYkR3b2pPS2p4TDd3Q0tFSTVNbWJwejFhLXlKbmt1QkpWT1RiZEhsM3ktM1dmWjNnTDQ3WWcyb0t5VVg0a1NCSTFQZHpvZkoxbkluNm1heldUc3c0ekduMEpueW13Tm9HY1EwN1JUcEJBU3h5UjVQSURzaTc2clp0em9nd041YldKUmFQd3I0QlpqTW1VRkFON3VtT1Q2ZEhMdlhxV1NfZGc2elE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T04:23:51+00:00"
-    },
-    {
-      "text": "Not done yet! Guardians storm back to force Game 5 in Cleveland - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jcThyQXZBTl9VQXR5UlFuUzNkdzl5WjF6WllwY2xmRldoYnpvcEdQbXFvM3YtVHdoM1B5TTFQaHcyWkhtTmM5NHBYM1dRUUp1Q3p1SEZDVlBQc0VDZXRNTWJiYTV0Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T03:56:08+00:00"
-    },
-    {
-      "text": "Princeton Celebrates Anne Carson, a Nobel Prize Winner Who Was Denied Tenure",
-      "url": "https://www.nytimes.com/2026/10/08/books/anne-carson-nobel-prize-princeton-university-tenure-denied.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T02:15:30+00:00"
-    },
-    {
-      "text": "‘You’ve Hired Half the Third Reich’: 6 Key Moments From the Georgia Senate Debate - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xa3h1dUpsUFRrZWEyUXBocHVDRG1NeHg1bHZWZXJnYUNVUFZ4Um8wdkRqTWk4UFFiV0wxcF8ybHpOQlNiLTRkblhiMENVWm5yUlJaM2pGX29EZjRvdm1XWTYzYlVkU2t5bFNxRWN4Z0xaajZ6aURVUm5nSXQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T01:56:40+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "ICE Agent Shoots Man During Arrest Attempt in New York Neighborhood",
-      "url": "https://www.nytimes.com/2026/10/08/nyregion/ice-shooting-nyc-bronx.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T07:06:46+00:00"
-    },
-    {
-      "text": "Here Is How to Bring Israel Out of Isolation",
-      "url": "https://www.nytimes.com/2026/10/09/opinion/israel-elections-palestinians.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T05:00:06+00:00"
-    },
-    {
-      "text": "LeBron James scores 10 points in 18 minutes in 76ers debut - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcW51bEtnbEVGS3cyb0l2R0NuTlAyOXd2S2E0bnMxMFRVNS1WOEdmM1ZuZ3NOdzhjNmJ5VjliVk5qUTRQZ1ZKeG1ycS1mYXNWYjE4Zm5fajlWcU8xSmFxNkpwTkdMVm8wWEQ2WEhPNUd1cld3dmVTV2YwUnJPbGJvZkVkeTI0VmRuWlVERUJGdTFhd3JFckM2RXBjbmxYdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T04:08:48+00:00"
-    },
-    {
-      "text": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb1FYbml6ZWJuSDk0QmRhZmxCbzUxSzFWbUswWm9wTDFrQTNmZVdPeDVpT0FaZ1JwSUY1TnNNejJnN2loNDhLWWVVZjd4emt4Yks4Yk0zWE1aU1NlR1F1cFdmUF9IWnE1SXdRaHRUV2h0T0xrSnVaWUpDT1dqNC1MUy1fZmRlbk5OZXV0aVR2b0EyTFhOSEU3OFJJYkQyS2o5Qm9OdWdoYlFkTTYwS3VlWnVFWW1jQlY5MGVzTWdGNFRucDV5WUI0aFRaek45Z3l1TmpNUnZfaThYaDVaTjN5YlV3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T03:27:27+00:00"
-    },
-    {
-      "text": "Christa Pike's health has seen 'profound turnaround' in last three days, lawyers say - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xb0dNRkd5RjlFRWVDQUZHUkQtN0xfX1VKcE9meS1DaERaczFWMFFGbGtLR1FDdGR4VG5DY0Z2eEZQUGYwdVlGY1IteWsxdjY3V1BZV3gtaTkzZ1k?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T02:09:45+00:00"
-    },
-    {
-      "text": "Some Palestinians Express Discomfort With Protest Targeting Mamdani",
-      "url": "https://www.nytimes.com/2026/10/08/nyregion/mamdani-nyc-october-7-vigil-protesters.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T01:09:20+00:00"
+      "time": "2026-10-09T12:24:58+00:00"
     }
   ]
 }
