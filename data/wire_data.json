@@ -1,137 +1,119 @@
 {
-  "generated_at": "2026-10-09T20:08:49.884725+00:00",
+  "generated_at": "2026-10-10T00:04:02.441008+00:00",
   "lead": {
-    "text": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-    "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-10-09T20:03:55+00:00",
+    "text": "Senate Fact Finders Decry Costs of Immigrant Detention at Guantánamo",
+    "url": "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-09T23:55:54+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
-      "url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+      "text": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjk5Q1BOX1YzazBLRXlsMjU1NU15VmVpbFI0MjhpZFpadm5PNTBIMnV0ZXBsWUVpb2VOdjBDMG52d1JnYW92T2NIeHlIdV9lTmZ6bDFDTXkxckZYSmN0Q0pVVUpGUnBRbHE4WXRnbHhSNTVNMDJtMVk2aUJyM015LTUyWEtfaXM?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-10-09T23:24:20+00:00"
+    },
+    {
+      "text": "'Life-threatening' Isaias, a major hurricane, starts to affect Gulf Coast - NPR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80TFppc3pqQ0JhWERkcFhBby0tWWlPdjhiVklQNHZNSXowdkpsZEw2OXNWUm9iTElxNkNySWd5QmJoSDZoQUhOaGdONGkxNzVhdGQwU0xtZ3Q4SnVWUi05dHBfQTFVZF84RkRuckJFWjN4X0F5SXRERg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T23:20:42+00:00"
+    },
+    {
+      "text": "Anthropic Says Its A.I. Agents Attempted to Access a Range of Government Sites",
+      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T20:03:18+00:00"
-    },
-    {
-      "text": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-      "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-09T20:03:03+00:00"
-    },
-    {
-      "text": "Dow rises 400 points on Friday as Wall Street scores winning week: Live updates",
-      "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-09T20:01:33+00:00"
+      "time": "2026-10-09T23:19:02+00:00"
     }
   ],
   "col1": [
     {
-      "text": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T19:58:50+00:00"
-    },
-    {
-      "text": "Katie Zacharia Picked as the New White House Press Secretary - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3drMkRmc2YyUGl4RkMzcXozV0xxbDk1RUlLV29TRHVKcG9rUnNoNnllQkV4V0ZQMVpzTXpLbkd3aWNuNkx2a0ZGbG9JRmwwTElXYWkyY294Rl9VT1VCOGhUd1RvYUcyYkxxNHYxZnVLQ2FKX3FrSDIwR3BhUDk4VV9VZlZpVEd1QmRNZW1yNE9TQ1RNV2VzMjBISUtqeVJBRUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T19:53:50+00:00"
-    },
-    {
-      "text": "Mike Ditka Has Died. Bears Coach Was Beloved for Winning and Shouting. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SZkdiUWNBbkY1MnJOOGpEVFdkTFkxQ1ZFY2ZCdzNEQTZ4a2pKR2tnRFNIdF9iWXRmYmJTbTcxYzM3ekdTLTA4MUhuV3pnMVJaU0pUaG9Kd2szdkJUTGRQWmE5bWRoVUtQQUdxU015QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T19:35:42+00:00"
-    },
-    {
-      "text": "Measles hits an Allegheny County school as outbreak accelerates - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenFsaHRTa2h6MnJkckY3T2V0ckpXblFMbjBHSno5WXMwQU05Qkowa2lpaFBEREFFalZWS0d6RlgzYUl5czlYYUVZbjJxYlB4LUhRMnd4ZmdWMlZ5eFdpVG1zZDdEMmtueFNPWHUyRk9zaVNfclIxdnlWQ3B4TDFLNmYwQXp3blBoV2FNdU92WEVCVWpMUDB0NmxVOGNuOFJi?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T19:23:48+00:00"
-    },
-    {
-      "text": "Vance Says He Would Not Watch Livestreamed Execution of Fort Hood Shooter",
-      "url": "https://www.nytimes.com/2026/10/09/us/politics/vance-livestream-execution.html",
+      "text": "He Left Behind Millions. Who Would Get It — His Family, or the D.S.A.?",
+      "url": "https://www.nytimes.com/2026/10/09/nyregion/nyu-professor-dsa-inheritance.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T19:13:29+00:00"
+      "time": "2026-10-09T23:02:27+00:00"
     },
     {
-      "text": "Zohran Mamdani’s Moral Obscenity",
-      "url": "https://www.nytimes.com/2026/10/09/opinion/zohran-mamdani-israel-gaza.html",
+      "text": "Trump says Russia to supply diesel to US and global markets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T22:46:34+00:00"
+    },
+    {
+      "text": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
+      "url": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T18:57:58+00:00"
+      "time": "2026-10-09T22:24:52+00:00"
+    },
+    {
+      "text": "Hurricane Isaias Nears Landfall",
+      "url": "https://www.nytimes.com/2026/10/09/briefing/isaias-nobel-ice.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T22:09:45+00:00"
+    },
+    {
+      "text": "NYPD body camera video shows aftermath of ICE agent shooting man in Marble Hill - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RSmNGRTJHS0xYWElZdG11aGhmWEFNSlptaDlNWkwzX0FQV09MZDNhWkZiZTFORmJCZjJYdFBMd2pWSzVTSDl4QlpQZU40VmZzdnpaTDB5dV8tTlRCZTU1T1g1QzlocWxnM1JkSm40OA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T21:32:04+00:00"
+    },
+    {
+      "text": "State Department watchdog probing Kimberly Guilfoyle amid alleged $100,000 demand - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjVwbi1aeGdFTWtPNkZUazlrUXo1THJXYmRjbHpYRkRRXzVTZmJZdDRaOXFwa0NUZ0hlOFd0TFFWVmZubkNxWTBaSXRCc0x5T21LRWVsREs3NDBlc1RYTWM5cVYtT3NzbE43bWs4UVo1RzJFRzZpc29XVjJvdFpSQ1A3Z0hTVE56MjF5YmJCcXlISnA4ZDlNU0J0MUFqZjBPVTNmSHV5WGxWdVpZVUpod3lXVWRkVnhvY2lFNEdrOGV1QWF1TnNpLU1vSTJ3TnB2?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T20:55:52+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Hurricane Isaias live updates: Gulf Coast evacuations expand with expected Category 3 landfall - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTJzaG5STXAtclZqTE5LcV9MTjVjQUp0SHVpNkJjeHZTOWFqZGJMdTU3dFNWajJ4X1NKV3RKdTd2MmtQYjRFNmNXdS1vZlN0Z2dJb2VIR2ZkekQ4MkJqQVZ1THJDNzhveGY2a2JEWXduUUNQcl94R25ZelZqc3k5TDV3?oc=5",
+      "text": "For Trump, a Firing Squad on Livestream Becomes the Latest Spectacle",
+      "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-firing-squad-spectacle.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T22:59:25+00:00"
+    },
+    {
+      "text": "Trump hits International Criminal Court with sanctions after Nobel goes to former judge - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnIxSGZ1cXZ1OGRKT21CTV9oa2U3WjJYSW9NS290alRJdHgxQWxxWHN5WTAwM25RTHZmTHl5WEtiRE14MEx3cGoyTHVwNWxLeHFzWmFRelNlek5SbGkwVHRSdjA4RTQ5cWNqallxamtiN3JZMm1JRFZNVk8tWmFveXJMR2U2STV2d1I2V25XMG5JRUdhNS1EdWx5bDJyUU5zcmxCSjFkbGJVUlF0YXlz?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T19:58:00+00:00"
-    },
-    {
-      "text": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
-      "url": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T19:41:19+00:00"
-    },
-    {
-      "text": "Donor Says Kimberly Guilfoyle Sought Money From Him to Cover Debt",
-      "url": "https://www.nytimes.com/2026/10/09/us/politics/kimberly-guilfoyle-donor-texts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T19:31:20+00:00"
-    },
-    {
-      "text": "Kansas Senate Race Is a Surprising New Midterm Fight",
-      "url": "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T19:23:04+00:00"
+      "time": "2026-10-09T22:32:56+00:00"
     },
     {
       "text": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
@@ -140,72 +122,90 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T19:12:08+00:00"
+      "time": "2026-10-09T22:24:25+00:00"
     },
     {
-      "text": "Top Democratic Group Pumps Millions Into Kansas Senate Race - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVdWczNVWDdMUWsyMEhRM21leG9Cakk3UUdpTk5qcURmWTA0SE4zQjgxZENGaDVHZWRyVTB5ZkJwWnZyTmFSQW9iaUVXSFFLZy1hQ3lHQld5S0l3d0JNMjZkTVpyV2JaWlMtaFc0Ri1JQU1sbUpnN0RKUmRtd0QyVWN4M1pmUk1yVHd1b3lSQXptY0tjS3NmNl9n?oc=5",
+      "text": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
+      "url": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T22:04:42+00:00"
+    },
+    {
+      "text": "Paxton Said in Deposition That Donor Gave Him Stocks to Please God",
+      "url": "https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-09T21:25:46+00:00"
+    },
+    {
+      "text": "JD Vance casts doubt on firing squad execution and says he will not watch it - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qTElnYVNrNWVkMFJpcEh4SVMwZEd2b1NfU0d2UE9TRlNJVzF5dWlaOGtzbWdUZjduTm1CYVRCRGZOTUttaDVTZnJqWS1fYVpZQ0lRdHNSQmRuRk0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T18:35:44+00:00"
+      "time": "2026-10-09T20:42:11+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Want to Avoid Another Jan. 6? Defeat These Republicans.",
-      "url": "https://www.nytimes.com/2026/10/09/opinion/midterms-wisconsin-georgia-arizona.html",
+      "text": "Inside Erik Prince’s Mercenary Deal in Congo",
+      "url": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T19:55:50+00:00"
+      "time": "2026-10-09T22:55:07+00:00"
     },
     {
-      "text": "Mike Ditka, Fiery Coach of the Chicago Bears, Has Died",
-      "url": "https://www.nytimes.com/2026/10/09/sports/mike-ditka-dead.html",
+      "text": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
+      "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T19:35:42+00:00"
+      "time": "2026-10-09T22:30:39+00:00"
     },
     {
-      "text": "Powerful quake hits Panama, damages homes; canal operations normal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
+      "text": "Country singer Ella Langley cancels concert over 'serious security threat' to fans, crew - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkFmNDI5aG91bmV1bUpXYmFrXzRkWlM2b3Y5MFlGTzBUU0hiQzVhSmxCNTlPRkhQODBjVGZ1REVKaVh6SUJ2Qi1TRWxxN252VjdPZFM1eks4SGVMQ2JIVW9ZN1I0MXZCQmNad0h6TjkyWVdVS00zMGFXZGs4RDB4T2dQOHFxSGtRRWxodjFXcThwSHRia2NxWkM4SlNLWV9NaExkQXlNS0FTWVhfczNzbFJtaU1LQdIBuwFBVV95cUxNUTEycFVoVUlNMlBiczBMNGVrSXZZTHJNTVN1YkZRa1NOUVp6TkFWVzJPRHU5c3FTbHM5NWlZZTVaN1dhbzg1V3pGUHFERWV6NG1iTmlibXZ3ZGRONEhCZGM5RjVhc3hZSFFTMXBHMXF3RmRSem1fOHU0WVNCTGQ5Tm1lb1Nab2RZQ04yWU9NQzEwQ3RLU28wajFYa09wUlJYUlRPbFV0OXdxeER4TkRRSmF2ZkZwWllOeG9Z?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T19:23:55+00:00"
+      "time": "2026-10-09T22:19:21+00:00"
     },
     {
-      "text": "Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter",
-      "url": "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-09T19:15:44+00:00"
-    },
-    {
-      "text": "Trump lifts sanctions on Russian diesel, suggests US may buy amid surging fuel prices - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVm1iSTU5UlBYRUxoMUxWZ1ByWXhvWlc2R2o4QWFqeG5mNnQ4WEc3QS11YUlKZUFBZ2NQUUdaTHFKNm1SZmlsNVBxODBCSUcyM2lUUE54cFdhVnNFZURKYkJ4aXE0ak1xUExyaHBRdm9kbGs1ZWREQnRuX2VWdW9kN1FNOUs0dUVfbWJ2dHZJcw?oc=5",
+      "text": "Gail Lerner Fired From Her Own NBC Comedy ‘Newlyweds’ - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjRrWEdTcTB3N25GbmtQOXBNMkFFak5XLURPZGZ6WEhJTUlKNjlKTjNKWDI2X0VlTGxUSGpaTW1mZnJKbi1UUHlfRmRlNEtCZUNTQlgzYnZ0RzlleUtEYXQtZlNQVmNtd2Y0bmh0UGhQTEc3c2Fxdm1kSDhUWTM1cms0cnN5UFlTZGcxeTlERG9saTZKR2xTUWRTX2E1U2hi?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T19:10:00+00:00"
+      "time": "2026-10-09T21:43:23+00:00"
     },
     {
-      "text": "Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5",
+      "text": "Houthi attack on Riyadh airport killed three Saudi nationals - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEs0b2JJSTY4WW14cmV3aC1STjd5QzhRNTE0MC10RmRyRkljdmdKcFlNQWtpSWtIVmczWk11czRkQzhRS3MybWpDeWdMQmQ3d25fczh1Y19oSmY3Y3NDTDVvSkZGOHVEajJPbkd0X2RxR3hhMWFJcmxmM0hCcHZZUU1seHNMcHE1azhRYkVQY2tlN3ptM0hSQVg5SUlUci0zWUZua3pTZXJjVW9x0gGyAUFVX3lxTE03WmdZZThkRU9KRFlCWTBxaDd3c3FEVW9pdUxRX3BTSWhvdGM4LVlGZXI3VnFJOXZyUmkxanlYaDhfbE1JZjVsSzNWYzVjUVFlMGdQWWxZblctd0UxU0JxdFRJRTk1b2lRRDBNdGJZaC10MmlPU2FwYkJEZ1pLcHpuQ2o3ZmdYTVdXRF9na2s4dHNKQkdfQzJEcXZ4TENZR3VZYmVabURFMU1MVDJWTF9sQXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-09T18:27:00+00:00"
+      "time": "2026-10-09T21:22:30+00:00"
+    },
+    {
+      "text": "Mike Ditka, legendary Chicago Bears coach, dies at 86 - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTG02ODhnSEJJVVViLVVJV2VwRUZNLXE0NDdibjY3eFIyLWIxOHZoQTJfS29QdnJwLTdVWXZ2eGhtZHdHQ3BnTHBKdkRJeUV6NGhoVk04eVIxQlpvZGxuRkdiamtMNS1XMkw5WHh3YzA3eHBBejVhVU1JU1hiYmZ4V3ZVc0IxV0hwb2hsNURGMkExUjhYRjNESlV3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-09T20:36:22+00:00"
     }
   ]
 }
