@@ -1,193 +1,25 @@
 {
-  "generated_at": "2026-10-10T23:53:10.171083+00:00",
+  "generated_at": "2026-10-11T05:31:49.014760+00:00",
   "lead": {
-    "text": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-    "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-10-10T23:27:30+00:00",
+    "text": "12 killed and over 300 hurt in latest attack on Riyadh airport, Saudi authorities say - AP News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
+    "source": "Google News World",
+    "lean": "unrated",
+    "topic": "world",
+    "sourceNote": "Aggregated Google News World topic feed.",
+    "time": "2026-10-11T05:05:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
-      "url": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
+      "text": "Neuroscience Can Make Decluttering Easier",
+      "url": "https://www.nytimes.com/2026/10/11/opinion/clutter-spring-cleaning-psychology.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-10T23:22:20+00:00"
-    },
-    {
-      "text": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
-      "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-10T23:21:07+00:00"
-    },
-    {
-      "text": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-10T23:19:55+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Postgame notes: 2026 Nebraska football vs. Indiana - HuskerMax",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZkwyQkFfNEwyLWZBc2lQYnlGeDBFYWtFSmhiTE9LWmlzQVdYV2Z0bmI1VFRSVVBPQTdwYlllNGZ4Wk5GU1NXbm1rVG9FSzdYZ093MnotZ1lZQzluWW15RlUwN2t1LXBzLUwtYkxJQzNMR0hsalZvWHVRTzRHVmZ2RA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T23:01:05+00:00"
-    },
-    {
-      "text": "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia",
-      "url": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-10T22:33:15+00:00"
-    },
-    {
-      "text": "College football Week 6: Live updates, schedule, scores, rankings - NCAA.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOREVvODNZZ0w0NUh3UU5qTUlxQjI0N2pSSHVFckpPS21Fem9rd3plYUh6eEhVRnN6Q1hFSS1HbW9sUm5JNXNZblBYNDFGT1hIZ1hncWZub2I2WWJ3NkVKN0J6TzJ0OUY3UjZvazVBbHRIaVQ1TGVacldPT2dyVEVDUExnX2dqMUktcEJQem9xVWU1SGJxVXZBRlhYbFF2QV9ranBKZE4xN2RZNm5m?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T21:50:12+00:00"
-    },
-    {
-      "text": "Saudi Arabia Closes Riyadh Airport After at Least 12 Killed in Houthi Missile Attack - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3A1N0dSaEowdHRsQm11d1EzUnJneHRRYWRYa2NWU0ZfeUgwOUNzMHpNN2dVWFJQeVRZRDdYTTJ5YUtwX2YwUEprdWowUW1hYXplbjlsbnBuaTk1RUc3ZnBseDgyMFI2Q09BNllMRXVUWm52RXQ1R3ViSEZpZW1OOWlqenhMSDlPMXY2NWVzOEpHTkctQld3WWJaNVh0M05rdUhTQlBCNGl2SXVqR29UbkVNMm8wR00?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T21:26:00+00:00"
-    },
-    {
-      "text": "Why Ketamine Immobilizes Some Users",
-      "url": "https://www.nytimes.com/2026/10/10/science/ketamine-cornell-anesthesia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-10T20:38:18+00:00"
-    },
-    {
-      "text": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDVOX09LQUkyaDlaZFIzZ25jYTJzWXhXSmNTMlJuWVZpRHZ1aFJzUmdBUENRT3A2QXpvWDZTQVB2UndBa05HNjE4bDU3a1lXMzZMT1ZHU0FMeFJqUHMwRjFTbk5QUWJDWjFWdnl1QnJEM0xsbllBUlV5Z1pzMEFDaEtSSWtNbTdLc2Ntcm5ZMG1kTjVuTEtyLXNPLWpjS0g5amIyRF81YUplMmdiNGRlejNacC1Fc2ZYVVN0YTRUcTYtQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T19:50:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Pope criticizes death penalty after Hegseth announces public execution - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEJYQlBDdE1zTFVGd2drUGZraGpmanhhNU1YemNqQ1pLcXhBRXYwemIyQXM3WHZGUGJTMVJubkF1NjR4RlhjWmZTVUM3QkI5bVFkZC1DTGxQWktQeEVlcS1uczVSZkx0MFV2WXpYbUNydmI2RFZzbmttbDZJSjZFYzdfbGEtOVZBMkVMaV9yNzczc2RSVDg3TWZIWlRqcTFsOWxSVXhUOWRSNDdXZGViMW5VcU43aFU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T22:58:34+00:00"
-    },
-    {
-      "text": "Christa Pike discharged from hospital, 10 days after failed execution - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHN4STBEQUw4MjdEdnlZa0g0MnNtUzlsazVWNW1kVUJFcVNqM09XYzhFelhYSU5LeXJsdURiTkJldERtaFRhUkw2N18yd2R3aTdxU1E0NV9OOWtSNTd3Mjhnbm1JRVJ2T21vamVrcnNadXB1UWVaX2REeDZuRFJSa2d3YU5JV0p2YlBUYzU0QlFkd0JVc21PUmVhR01JTlhoaE51ZzNfUXlwNUlOYlFubmptdTNQZ3BIWlZ3dW00S2ZqbXRVd1ZOazhWVTk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T22:28:28+00:00"
-    },
-    {
-      "text": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T21:50:00+00:00"
-    },
-    {
-      "text": "America’s Gig Workers Turn to an Old-School Union - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2lVSGZ3NXlabE9IbzIyUExXcjNua2Q5MDJlb1Y5WW5mTDRLTU1TOVVIMFRsc0ZOM2tndGMxc3FDVVBRSlFaUmQyQXdOS181YjFNWVZkcnNqWEtJSW1XVzRuYV9PY1h4NWRRSjg3M2R1Uk5hUjZxWHN1UGZndmpqbFpLMmpLblZsLWZLQVVB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T21:06:00+00:00"
-    },
-    {
-      "text": "4 Killed as a Weakened Isaias Pushes Through the Southeast",
-      "url": "https://www.nytimes.com/2026/10/10/us/hurricane-isaias-florida-damage-four-killed.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-10T20:32:17+00:00"
-    },
-    {
-      "text": "Strong Northern Lights possible tonight as Geomagnetic Storm strength increases - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajZETGFqYXRtUjJ1dkRTc0lBcHl0OEtrZjJia2o3a3dMbzRMVVZ1VTdlMEVzZGdEUURYdnRJS2VjdXZHS2oyaEh5MmRBLTRoTGFhODdSaVVucFFpZVl4bFNXVWxKVmkyT1FhMUNYQ0stbi1tWGZhZXVWZVhJaEhDcVlfSUFKX0NDa0xPVWFPcmtzX2lmbWx5M2VvSGZVSVZ1cXd5OUFTNjZ0d0wwY0F2S0kzNjJyX251REo1NnNKc9IB0wFBVV95cUxPV2lpNU5mY29ZZkZCVFkyN3d5YnR4RzFOWllQM1dWNEpGV1NmN2N6TEkyNTJGS3pUQ3J3QTZRMGdfT3g1ZTNxQ3lpUm8xZHl1ZGQ2cFV3RUtoM204d1dEd0Z6YUFqa0RUXzk4ZGp4YkVOT0djajhwT1lEUkQwaWl5MzhEOHFIYlNmcWhpRU8wTWdJNk9IWkJYNlpwYXZZZlgyZ0ZSei1IY0hDSF9qaGNZdGNsUmpON2FXN0pVaTAyNmxud1VKN1poU2VuWHpfUXpaWGFJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T19:39:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "House candidate who reported rape on campaign trail on why she came forward: \"What about all the women who are victims?\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0RkSVdiRjduQVBHbU9KdE9TdFlIZzFKRU05UU82Zm1zUDEzazVBNFUzLU15SkZfS2VpTDNFSERFcTdqY3ZWbnVvR3V6UG12YzcwUmpsbU1NZzVkMnlSMXlQLV9ibDZBZnIxSG5kWXNvdV9ZcU1qSlZJdnNpQUI2V0w0R1pXNGpnbURHdDlVR1M0bVFscmhNaTlsdmR4WnFCRXl2bi02RQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T22:54:15+00:00"
-    },
-    {
-      "text": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0ZSVG5SSkJWekROWFF6Q2NVU1lXWGR4c1hzcUZfOTN6NFIzeENYUlJFX0lJb2xTTk1uVE5ITGhPbUJNUlJ6VkJaTmtaNXVYU05uZE5ydHY4bnlUbG5CWXRSTzBzb2ZjdHVhczhKVmpuNEJnZW0xWVlWSXpsRHdGWmYxVjhMMGZNRzhV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T21:54:31+00:00"
-    },
-    {
-      "text": "Tropical Storm Rachel's surf drives out Long Beach residents, briefly shuts Newport Beach beaches - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGk1bmZld3FGMEl3aUxyODJPZ3M1ODJZZ01xV2U5UHRWR1dTdnd5U1BDT1puc2ZkOXpPZTlaWDZXX2lKa0xjM3ViV0U4MEZFRnBsUFFYZkZNanJhWHNNT2dFcVZTZkdUZGsxMlhvbkh2RnBmQWFoeTBSOVZGTlNCOEV2QUdCSmFQOUw5U2JBOHhoN2o0Q2dIb3JiSzVuMHhoTjFjekltQmxiTFQyLWJTbGFGNy14UDNvdWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T21:30:00+00:00"
-    },
-    {
-      "text": "LIVE BLOG UPDATES: Texas reclaims lead in Red River Rivalry with second-quarter TD pass - KOCO",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3VjWnpNa1RLT2VnQ1daa3BSYkZkSDk2TUx3ZmJlbk9xZDJNaWVybWZRZlpYNHRvZmhDZGNQN1FNVkFiandiN2dtQnBaa0V2OThyS3djN0dCRkZicld5OTZsNm93VFl6WmhxTzNWOGY3MUtLdTI4dGZId29oc19nM185T21wZy00?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-10T21:00:00+00:00"
+      "time": "2026-10-11T05:00:05+00:00"
     },
     {
       "text": "Hurricane Simon and Tropical Storm Rachel Target Mexico as Isaias Hits Gulf",
@@ -196,16 +28,184 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-10T20:17:48+00:00"
+      "time": "2026-10-11T04:43:22+00:00"
     },
     {
-      "text": "How Cornell University Chi Phi Fraternity Members Responded After Rape Accusation",
-      "url": "https://www.nytimes.com/2026/10/10/nyregion/cornell-rape-lawsuit-fraternity-brothers.html",
+      "text": "OU football stuns No. 1 Texas with last-second Tate Sandell FG after Arch Manning INT - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ2RMSElOVUVmRFZOd200NDdxV3UwT1dCM2Y3M3YwSi1PQ19PRTJITDdBSXFJbzl4S3BfOGZnVjBQM203Nml6SGtLMXMydF9rd2hMRzNKczRHenNoSGZFTDd4OTZHNC16dnBadVMtNHF4WWJWTEg1UFNIWjRuUXZVZWU5ak5UWXotZDhMaTZIbHdBN1Nhbm11OFBxOC0zeEVrN1d1UFNPdW12QUFLWjRaSkp6VEVkQ2xfMXlDT3ktTC1weDVSOXhyLTRIWnozTm1jWEhTWHI1bXpveTh4UjRuTkZTbWhITUl6Z21uX24taw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T04:25:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Kentucky shocks LSU with second-straight walk-off two-point conversion win in overtime - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmp0VVFrYS1vai1qZ19DLXcxRVpQWFdqOVpfTXlNUU53RFZBT1Znb3FiUG9zeU9xYXRoNzZsQ0tKcnUyVkUzSEpuOGJhUDhKS3lwQUJiaEtVbS0tYUNzLTV3a3JBcUdyeWk2aXB1dHVreDYzbHZaVXBLOVpSN3NVcmVIdnE3WWdFS09TSDRHSzgxdVJYMTBWQnk4b2hjRXlJZzRsWmVVSXlTeVdxOWR0MnlBYWJUbU1f?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T03:34:23+00:00"
+    },
+    {
+      "text": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+      "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-10T19:37:38+00:00"
+      "time": "2026-10-11T02:40:52+00:00"
+    },
+    {
+      "text": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnBDVkpnZ0tLNE1lVnNQV2dJMVMyMjBfV09kZEdLN1VqTHk2TDZYQXJQZUxycENwNUROUGp0UXdBdm1XUkRyY1FNYzJ3QXMweWV4dWxqTkUxM0c3X3RpTHJyUjRIVERUQ2x2WVVtdExRTGpDNE10Q3c0NzBucjlJUFVJMFdTMVBDLVRsMnNjQXNUZ2NmUEZQaFNuZ1BSdXN5bjhxaW9sMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T02:00:00+00:00"
+    },
+    {
+      "text": "‘Tiger King’ star Carole Baskin tells Post that ‘tiger was doing nothing wrong’ when it mauled UK zoo intruder - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVVdmRHdSTXRQOHF3Wm1DTExBUFNGUG9vNXJudlA1MmpremE0T2V1QS1aQTdsTzA1dDhiY2pTVGN4dTZ6NkZaU2NNeVh4OXNITG5pYk5ZdmV3Y29yMHZjY3pxYzZNMXk1aXNoZlVtZE1aMTZfZkdDWTZVZEI5emJTT2Jfb29hdUtfUVFTZlVmcEg2bFJDM1praFYyOHh5NlZnY2t0UkQzc0VXVFFD?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T00:52:00+00:00"
+    },
+    {
+      "text": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
+      "url": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T00:01:38+00:00"
+    },
+    {
+      "text": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3A1N0dSaEowdHRsQm11d1EzUnJneHRRYWRYa2NWU0ZfeUgwOUNzMHpNN2dVWFJQeVRZRDdYTTJ5YUtwX2YwUEprdWowUW1hYXplbjlsbnBuaTk1RUc3ZnBseDgyMFI2Q09BNllMRXVUWm52RXQ1R3ViSEZpZW1OOWlqenhMSDlPMXY2NWVzOEpHTkctQld3WWJaNVh0M05rdUhTQlBCNGl2SXVqR29UbkVNMm8wR00?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-10T23:28:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Kalen DeBoer talks refs, injuries and more after Alabama loses to Georgia - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEM0dEJBMUxmSXRhLWh4YXF6c2RwUU1YQmFqSHJIODlCbmZOTWFwVG1WbDNCZUhlbDA1OUo5XzhqdGxtUmRDYjRhdzdSa1k5SjUwY3RVcWtsSlpqdjRZMHpkbjhKV2RqMjY0S3ZibE05OG9jMkQyaGZUS1JGRkEyZDJBam5Yb1F1Zkw2M3E3VTFwUU8zUXNTbHJ6TEgzNWdmWThWZ3VFNnFjZHRG?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T03:21:00+00:00"
+    },
+    {
+      "text": "A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later",
+      "url": "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T02:33:35+00:00"
+    },
+    {
+      "text": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbVFFOUgycHh5RmVhUzkwNUtXWVNBLWJSU0d4U05vN1RmY3JZb2xmM2lGbVR1OVctcjdRRS1KQzQweE91Wkx4QUNPdGQyOWpXNXlrQVNUVWtiTzQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T01:41:29+00:00"
+    },
+    {
+      "text": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+      "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T00:31:34+00:00"
+    },
+    {
+      "text": "Moderate (G2) Geomagnetic Storms Likely on 11 Oct 2026 - NOAA Space Weather Prediction Center (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2RFNE9CdldJS2FZeXNUX0lmRUUtVW5zY0NRM0tnVWpDN2RwMFVqUVFVLVRYQWVNeklZZURaWmUxMWh2TzVIcmFyN3lTTmd6aGRpc1lRZEY2LUdrQ3RwZWNCM19FdlRUVmZKMHJLby12WFRIWUkyLXJib0RBYk5GQWRkekJfa2xaV1NJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T00:00:05+00:00"
+    },
+    {
+      "text": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmk1ZktpNHpjb3RJeXhEWjlKc2tfaVdkM3g5ZXpMX20zTnBad1pnTzZ6U0JMY2xqVjBCYlRGNHFveXpXNHJqLVdQLTIxMzFfdXotdEpMdWVQNnhQOEdSbUJOSUN1NkVtRk9jWlJpNjU1YXhFS0o0c2dGd3BuUldBT1oxdUxfTl8xRFlXOGtpRldLLVNiUmctN1dLRHNXUEg2YTRNM9IBqgFBVV95cUxQa2ZfMHNqWmxTYjkxc0wzbVZ1cmhiMkNmTV9uUVpuYldfSlNxc2hTTE5qMWxxX01pSlJmV3BBMlkySjQ1UGxhN3RXbHNyTkZmQy03ZWpiY3V5UmpYZ1NWc0REbXB6WVM1ZUF2bFN2MVNyZmx2bGNmLU9lMzVNb2NKc0p4RVF6TmdCNWtDcjJDcHR6OHBFLXNvSkhOVmlVcXVGNV9GQXV2YTRodw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-10T23:03:43+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Jose Ramirez homers to complete Guardians' comeback in ALDS - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDN6WG5JM0tKckJiZUNPdDRxb1VPMkhBS2wtdDBMU1FhTThhS2x3NEhaOGN2RG9wOUNmZ0VMaGt6c3gxN2lHdjAycVYxMWROeHVFS3VhNXM1NzVoZ1N3UHctemhZTjZpMFo2RVh3UlRCdXJJVElBbldaQ0p1NmZIeVdncnp2X2w5N1NraEFvU1RXdXg4cGJJWS1SUFhhZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T02:54:00+00:00"
+    },
+    {
+      "text": "4 dead from storm as Isaias brings threat of floods across the Southeast - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNjcEJjUllNRkdDOGZjZzB2WURNaVdZSHF0cWk1RGx1R1VLRVRuSHF2TElyS09ZSENaZE1DT25KWGpZX0o5SkVmM0dYYXlSREhaUl9ET3ZlQThaNUhKalFaNU9QbkZhbThFR2N4SlhCOHV1S1E3M2pJR0hURVB4YlhaTlB5Rlk3M252S1BsM0dXZERQMk1HM0tNaWVxNWFj?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T02:19:00+00:00"
+    },
+    {
+      "text": "Tropical Storm Rachel to fuel dangerous flash flood threat in the Southwest - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnMtR2w0dllXTUR6ellKSnZ2a1JQRDhPZk04Q2pUZGRXaEdSV3IyUVVSZjR2Q1d3WElpY2ZBbV9qRXpzY09IMHNCX3VvRmZMZWFuWEFYUFpUYTRIbGZVT0IzOE5TdXlTOFFpcFhqT1F6RjJ5OXlmZTBYSmxrdnhrSFVWZnZDVG8tZFVUVjloNERZbTA3bW1WelAyZkxsUdIBowFBVV95cUxNVk55MUdIQXpFcE1JRC1kYjBKRkR2RUI1LXdXUTNpQ2lDdUVrRlEtMHY4b2JyaUZJTzlzUjJkU3NaOWg0Z2tGLTRZTEIzV3d1Zk1jejNkY19GbWlud0s0UHB0MWxoRy1ubFNlOHhvR1JPNWIzTTFGbXZmRnJrNGVIalFaRmd1RFg3aUhvQXk5ci10OVdtcEFyNVVZVlVIS085SGRN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T00:56:15+00:00"
+    },
+    {
+      "text": "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution",
+      "url": "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T00:11:51+00:00"
+    },
+    {
+      "text": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU5ZV0ZPU3NvYmI0RzBHT080MVpxajNBS2tHTkRYZUpzUlRLUF9KUnhtR3BRWWsyQ1d4Q1lMN1YwMnRiRnpjWlROQUtleE00V1ROZEwwakR0OG4waWFEZExiS2pUSEZQQzV2YkV5MVkxZmZ5V1RreUFQSnlNM3BjclRFazVmckJ3QlVMUERpcEcwcmI2N2wta3ltanR1UDIzLVhwbjNRakUzdHNNVG95V0NZZmg1N3RoTDJlaEd3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T00:00:00+00:00"
+    },
+    {
+      "text": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0xqVGwtbDRuaFVMR3JfY2FMczBGeC1BTXZKb25xajl1d29hWFBHaWpYZFNVSGw1dERESlY3US1EQWlqRjRKWUpnS1l3VW5sTG5FSzNKLU5FczNmcVJLeDlISkJYbnByMDB3b2dqakVnR2Q1ckNKRmYwN2YxYjdLWHdfZFVMd3FrZGZRUGhrUHJ3em9wYUhOX0U1QTVqbmRaNDd4cEdCdnpPSEkzSEJfNUlfTWdlT1RxRVRzRWtBaUVldlc4aGtyUVFXQmZjTGNZaGpkcFdvYkFGc1dRdlNUMjFXVEk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-10T23:02:13+00:00"
     }
   ]
 }
