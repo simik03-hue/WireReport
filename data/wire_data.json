@@ -1,119 +1,25 @@
 {
-  "generated_at": "2026-10-11T11:37:09.589836+00:00",
+  "generated_at": "2026-10-11T16:47:39.905502+00:00",
   "lead": {
-    "text": "What to Know About the Protests in India",
-    "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-10-11T11:24:43+00:00",
+    "text": "Saudi capital airport hit by second strike in two days",
+    "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-10-11T16:41:37+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-11T11:11:42+00:00"
-    },
-    {
-      "text": "Pope Leo XIV will undergo surgery to remove a nodule on his lung - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzd2TWpTUTY4aDBlZm00b1RaVHgxenRmVzBCTWYtRERQNW5EczFLcmZFUzFoV1JLdDlORVctV2NEcVctUXJaWV9veEVOWlhISUN3cFZORV81YkVBY05MSjVEUEpUVURTUEJIQlJvd3pnT3VDbzBjekY3b1Z0VDA4aUl4UXVWaUxVZkMtSndaRUdseEE3Vmx1SVNRdXo?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-10-11T11:07:00+00:00"
-    },
-    {
-      "text": "Hurricane victim's husband recalls watching wife die when tree crashed through home",
-      "url": "https://thehill.com/homenews/state-watch/6141021-hurricane-isaias-florida-fatality/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-11T11:00:54+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Four Hours and Three Minutes at Cornell",
-      "url": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
+      "text": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+      "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T11:00:17+00:00"
-    },
-    {
-      "text": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
-      "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T10:59:34+00:00"
-    },
-    {
-      "text": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
-      "url": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T09:00:53+00:00"
-    },
-    {
-      "text": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-      "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T08:55:26+00:00"
-    },
-    {
-      "text": "Man dies after tiger attack at wildlife park - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hNVE4NkdyTkFGQVVpeEh4aDBpQWRjT0FBN0xKRV9BdWtWbWg0NjNlV24zWndpRklocW45UllwTGZnZkozbi1sZWsxVDZtNmhqMUxyM3BPdmVpZjg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T06:58:54+00:00"
-    },
-    {
-      "text": "Best of Week 6: A Red River game winner and upsets galore in the SEC - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnFlRElpcEZhSXJvLXNQbDU3eWNLakdTNG9RRG9JOU9WclNUS3VucU9na0pNaHBFRlNzemhmdUduRWF4dmdxaDRJVTR6Zi1rM0FjS0RWcWw2UXUtZjZScUxyZjdNZ3EtcEd4YmF6ck1ZcEdwbTdja280WERpRDRtQjJqdWFVTGxld2xOVGVxTXFEZEtERXpTZjBpb1ZKNjBMdThuNFJsZTdnY29Qank1SHJXdVVhWnJGQTFRaXBfYm5TbXAtWTNycERTNG03dVRq?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T04:35:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Meet Sanyi, the Rooster That United a Hungarian Town",
-      "url": "https://www.nytimes.com/2026/10/11/opinion/hungary-sanyi-rooster-bekescsaba-mayor.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T11:00:05+00:00"
-    },
-    {
-      "text": "Pope Leo XIV to have surgery after lump found on lung - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02bFYwU2E4bm1XdHhfQ2VKTm9jb3ZQUVhwWGxEYmFMLVRMZVl4M243QzJYcDM0UDUzdDVsb0NwZzlTV2otUnVZT2lVSzQtanpyMVRaWGU0QVdoeDQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T10:53:52+00:00"
+      "time": "2026-10-11T16:39:28+00:00"
     },
     {
       "text": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
@@ -122,90 +28,184 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T09:00:39+00:00"
+      "time": "2026-10-11T16:28:58+00:00"
     },
     {
-      "text": "Ukraine steps up strikes on Russia’s tech infrastructure, damaging third data center in 4 days - AP News",
+      "text": "Emmer says he's 'so happy' Trump will decide whether to stream public execution",
+      "url": "https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-11T16:28:13+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+      "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T16:16:44+00:00"
+    },
+    {
+      "text": "‘The Social Reckoning’ Flops With $5.5 Million Debut, ‘Other Mommy’ Tops Box Office With $27.5 Million - Variety",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWm5PMk55QUlFa2JtWFNMSEhWVFZ2NXg3ZHp5OWJ3bnZiTFFPTk9zdG9FT0laekJfdGFTT3RQWkFpWXhHYTR5ZjR6WXFkOGl4YzRRY1R1eTZkRnlLX3pYVDUteGR6QUlrVURlX3IxSzU5REFNZ1dkZmY2Z0NhSW43Slg0c1lNLVB3TmdDOVRvMnM4OXV3bTBDN1FKbnJXX3A3NV9OMHF0bw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T15:14:00+00:00"
+    },
+    {
+      "text": "Eagles vs. Jaguars live updates, inactives, where to watch: Trevor Lawrence makes eighth London start with Jags on a hot streak - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN21mVDRZWE9VMFBkNkpURlhiMGpwZlo4cnZreDlJUFp4YTZCbmNuZ2NXWVc2bHdSZkVFc2VKX09NZjhLeHdJQ1ppR0o5UTRhQTFBaTgzMmxiSC1keWx4Ui1rMGx4RkY0a0RuWTJMa240YUVJRVgwbVBLYmNIUm1CR2s0VUJtb3RvandPNWdVTHlIa3RBbkl3UXo2ZnFQUHJfZ1pwallHSWZ4QXR5bnVTeVUxTWtUT005LTlRQjhsWUxuMnNsZGtFYndjajF6bGNmR2Y2d2lvWWNYNGdO?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T14:38:32+00:00"
+    },
+    {
+      "text": "Report: Apple 'HomeView' smart home hub will ship in November, come in four colors, A18 chip - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSzhXVTVXcW5SR09ocXl3b0ViaE51ZVpZcjJ3Sm1VeklYRmcyRzFSbl80a2RaV0owVThndi0yeU9taEhLTHdfd1NOSUt5ZG01RGt2Yy1nbmEwUUEzb0tYWmZVXzZVbmtYZEZKVlFrNzJUYUoxUGNFeDJjY25tX3NLaFVn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T14:09:00+00:00"
+    },
+    {
+      "text": "Chad Lowe, wife and kids make first public outing since Fiona’s death at nephew Matthew’s star-studded wedding - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVkRsNHc5QTA4MGtObnEzcnRBazRBSllGdndYcVp3ZFR4Y25YRlNMRTROZzJVU1JLWkdFU2xyeHdzX0NrLXo4RkhwRXlsSEdFUGFsMTA0X0ltbmRoUHdMQ1FNNE55VWlZdHpBNW5KOHVEM0RVWkdkWHIxWXF1MlU0eThYS0ZwUXNTU0VFbzQ4V25QSXJWN3VMZ0hHRmNKMTJfeXl5VHYwd2ZYX3VUdHV3alVLNlpZOGNIWDNFVGVxNW1SSU53TTNLRTA4MEZVV1J1TUNjOFppYkk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T13:40:00+00:00"
+    },
+    {
+      "text": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+      "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T13:23:37+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Why doctors are urging women to redo early genetic tests for cancer risks - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0RsWk5zR0o3SHlfVjF1Y19rSjJBQUNtWjlHZFMtUXM0cS1nMzBybklPMXFlQXVwZkoxdTlsNEhBOHJwOFlLekZHSDZnUjRkRFRkS2gwUjNrdUVsNVBMUEtHMzVIUXNLbkFJMVo1Z2drWWR5eGR6ejdnN3JLYUpxazhPWDFCb2M0eUpIMUV1eE5qdUhGdWZiSTYza1Rtam9jVzZvWjZMa1pIOFBsYm9NSGNMQXVycFc5blhheGF3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T16:02:16+00:00"
+    },
+    {
+      "text": "Trump says Russia and Ukraine reach ‘energy ceasefire’ but gives no details - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T08:33:00+00:00"
+      "time": "2026-10-11T15:03:00+00:00"
     },
     {
-      "text": "Gavin Williams again etches his name in Guardians October lore with 12 strikeouts in ALDS Game 5 vs. White Sox - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa01xVmJWbXMwMTlrelAxYXZ2akh1Q0xqLTd5SEhDR1hqVnpFc2E4VTRnQW1BZi1tU3lxV0g5SVIzS0ZWNFNQRFByOXNJYjNEY0tvWFJvWUNWcTk0VnVwUG5EZXVGSG0xdEYwWnNHR0g4cDBUWmFYUjNkVDA2TzlxbmJPWGRrUDh6OWVBM1pkVlowRU55UmsxeXJnTXpYd3c4UU5reWNsWXRIeFl3WThIQWRPMmFGVm9lbzU0TVV0b0xCUkFYWDVHczY5WDI3QlRiTVhjY1pOZFA2S2oxZEdiaEJxNDRpaEtjUVF4NnBBZ3gwQUE?oc=5",
+      "text": "Justice Department investigating major TV networks over suspending pool coverage of Trump - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSldFaXdvR2VuRkFmaWxnOThjM29peU5pcXZOV0ZRS2h0Z2lhT1FrMGNYYmM1bmV0aXRpLTYyczIxLTdpN05iNWx4TU5JdEI0SGRRZmk0YllhUkFQbXBubWtMbFpvRnZPdklMeTZpQjdLYk1wV0I1RWhtbWhjXzZsTzVKSmZZc2N4MDZfSDR0c1pFcTctbFBiZG1MNVRQQ3BXaVpnaWpaYlRqa3J1T2U2TVZoMzlmWUljWTdNNGdaU3JHN1kwQzAw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T06:12:00+00:00"
+      "time": "2026-10-11T14:37:00+00:00"
     },
     {
-      "text": "US opens antitrust probe into TV networks for halting Trump coverage - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFAzak00UHFFUWpPTWtHZE0yRzNCcVJnTDdtNUFWWVg5NDBOTWswZHZvQm1NV2lnXzhXcnpBQ0daRjJpazJZcDRQTTRGS3J5WkFXeTY3bkJjVF9KWU9kazZqZHV6UGxiWHl5ek5OLXV2Unc0OTNuZ0JmU2Nya1lMNURTdDR6UFdPUm84c3FpZE9qRnVyeXlGVkpJQW95Y2NjTkU4Si1rMjJzZ9IBrwFBVV95cUxQeDB6MmxLd2VrMjRubmk3ZmJ2S2FvM3NITTYySk5vUFlQUjk5b2ZoUHRfTVBzNlV3VzlkUFl1OWx2WFhrVGZULWNzTHdYNENtVlk2dmRSaHRZQW1xQUE5ODVpcHBCY2tqcGducmVHcjYzZUtjbzhyN3dvajl1N21uMGlKWDVYamh6UVN5NkFFTEdkM1VaQWlhRmptTGdyYVRCakx3dHFIX3ZiV2Z5RGpZ?oc=5",
+      "text": "Singapore Grand Prix results: Max Verstappen delivers masterclass drive to take victory - as it happened - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1BzR3AyaWxaa0tSX0lKb0hud3FFTzBKRllIMkJ4eUlMZ1NiQzI0SWI5U1BMUjFCSExleXZKWUNfWGdCNUYzSkNNNmpVWGw2UnZPQzJjTkxBdzdWWEtid0NKRENFNWlFNHN1OExZMHRfNm9YMml5Y2pFaHVSYlBwOUlrV20yNXA4eV9Sa0V0aGhQVTNOV1JQMEJJZTJKNjd0NUVNX2YyWmktQ2ZXdzVWYkt5NE5CZ2lRRmNBV1NrMFM0aVYxQ3o3TQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T04:33:23+00:00"
+      "time": "2026-10-11T14:06:00+00:00"
+    },
+    {
+      "text": "Pope Leo to have surgery after lump found on lung - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02bFYwU2E4bm1XdHhfQ2VKTm9jb3ZQUVhwWGxEYmFMLVRMZVl4M243QzJYcDM0UDUzdDVsb0NwZzlTV2otUnVZT2lVSzQtanpyMVRaWGU0QVdoeDQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T13:38:55+00:00"
+    },
+    {
+      "text": "Meet Sanyi, the Rooster That United a Hungarian Town",
+      "url": "https://www.nytimes.com/2026/10/11/opinion/hungary-sanyi-rooster-bekescsaba-mayor.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T13:09:48+00:00"
     }
   ],
   "col3": [
     {
-      "text": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWVoSG40NmNyb1B5YkpTVUlpc1l3b1FaYTdlczcwUURLTkt2R2FUX2dfTGFsc2pJS2lfSDY0Tzd5RUpVWjFZdEw1R0o4UUhkdEJSSWpsd0hIRTU5eTZpRkRhV2IyazRnRVc4dzk4STlZWVpobkF1am84bGtHOXZFbk9Kdk5rMU9yR0pGajk1STBYTkdGZFhVbzM1MU1hdV9Rcm11d1ZrdFdCWG96VHfSAbMBQVVfeXFMTmpLZWNQZ1RyWXk2Q0VHMUs3cUpwUGtUQVRJdGgxd01rV1RsbWg0ZkdQTGtyNTlVRFRDcXVGWU5lQTd0VXZYV0FKSlQzWDh2MmZyeWFiNlVYRHBPcTJoTnRLQVRfWFVBb09UUDduNFBfdktFM1k2UDByaFFtNnV6c1l4SHg5bXkyYXQ0a0dDU3hFUFcyUDUtdzNNMHdYTnFCbkFYa2hIeWZfd1BCTjltNktXanc?oc=5",
+      "text": "Democrat Chris Pappas says \"we're taking nothing for granted\" amid \"tough race\" in New Hampshire - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeEJGZkRxXzhfN1lyVnZSU3NWX3VKaEpMbWVFRHNCYUdLd04zQkhKc1dPSnlSdlduSWZiNkFSeC1zbllXVjhzTlEtRzNMMENqVnNpSjlZSS04UHo3MEVOMnlKUHdZRFZJcWhuMlhucTk2YkJuLXhJSkZxOFozU1RkNEhB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T11:00:05+00:00"
+      "time": "2026-10-11T15:19:52+00:00"
     },
     {
-      "text": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
-      "url": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html",
+      "text": "Taxpayer-funded pro-Trump ads to end Sunday, Border Patrol official tells court - Politico",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM0xfV2stYzdHN3BTRnZQUVlGal95V2drRU5iTElmRHp2T2hMUk92VW5oOEJXc2hBTnhiMmswcmdPSDktNGNucHNfX1B4RTd4bmdOQzRFbmk4QU1NUXQxMlIwRmxETXk5Y25UTlBjb2FkZDVYeXdudVd5ZlpaejVWWVc1blcwZ3RqZXRXVTllbnFuTk9Gb0RwMk16RjdWMVZ2YTl1RkxEZ0VFaXpTZmRXVV82NHRKUzJIQzZVYVJzVzRfQTRVNi1j?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T14:41:00+00:00"
+    },
+    {
+      "text": "Democrats Press Pentagon on Iran Civilian Deaths",
+      "url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T09:01:26+00:00"
+      "time": "2026-10-11T14:36:00+00:00"
     },
     {
-      "text": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
-      "url": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T09:00:12+00:00"
-    },
-    {
-      "text": "Head Trip festival update: Calvin Harris set canceled, venue evacuated - The Desert Sun",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZWFhdTRLNXNzYUw1dTFNYVBmbFpYNF8zZHpjeFNsTHkzRjNVWDFrZTgtRWIyTV9iM2lyLUdHR29LaDVVT3psbVY0dHV5T3VfelZBZFktaTZULUJxS3BFLXJYMFBNUEtTRGxXaER2MjFldjRZQXRzUmEyN0NJRjlPS2R5bVRDUC1vRWw1OXRxbk5YVG81T1hCY0FBeFBQTXlfYkZFekF6a2JvWFFIWTJid0lOdGVieE11dFZGeUxYTWZ4N0I2SU1HZE9sRUFFMTlSQUFZRTlUSkc4VVZ6SWZIRUpRUGxyUFBfMFBlSkNlbndOQ29FOXpmcGFza0piSmdNV19r?oc=5",
+      "text": "New York and Pennsylvania's split screen approach to measles - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEd4ajNwbnhENV9wNHBiZUxuOG5LMG1maUxvbjNNS0hFU1BZLTdLMEZ4bXpaQUdkaFA3c0l4ZTcyNklpRUNpel9SZEFpMG9BLW9hQmRFMTVTbG02QWp6bk5Kdi0zMjMtZWwtWVh2bnpzb19BZllUcGlVRTBhcl8xdGRRRzFDVmdzV0M5a3NwdmYwMWFxNnRaag?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T08:27:00+00:00"
+      "time": "2026-10-11T14:00:00+00:00"
     },
     {
-      "text": "World Bank in talks with dozens of countries about crisis aid, Banga says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUk05OEhXNFVFX2p1ck9TcEpMa0pFUjYzN2xqVUNhLTY1OV9PSnMtTWp6cE84cUhodjMtUUdzb3BtYjU5cEcydW1aYVNNR1AtRXhVdkpiQ1UxSnZYNkdvMHFUTkQtX3pvOW9NVG1EREZqRFl0UDdPeHhFUzJCQUoyMndqX1BXbDFaMlRUUGNDd2tjUjBJWDdvcWRRMXBmM2hXSzZWc2Vxd0VJU21GR1ZrZlpGQmpUa2JEQVNn?oc=5",
+      "text": "The Greatest Bull Market in Decades is About to Begin – But a Correction Comes First - I/O Fund",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDYybXlGWGJFY3VkVlAzeUEtWlAwRjhCWVRhY1dVTlNnY0NxTFhoc3dTcmwxaFlybFlSZTRqT28zNVNQeVVFemVIcmxtd0YxMElvRmNJUzdqV3lpSFd5VEg3Z0JLOE1zcHlrb2taTzBsWUI2RHJzeFloUnAyR1N1UzhNUDcwOFE5QXAxdnJB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T06:07:00+00:00"
+      "time": "2026-10-11T13:25:51+00:00"
     },
     {
-      "text": "Kalen DeBoer talks refs, injuries and more after Alabama loses to Georgia - AL.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEM0dEJBMUxmSXRhLWh4YXF6c2RwUU1YQmFqSHJIODlCbmZOTWFwVG1WbDNCZUhlbDA1OUo5XzhqdGxtUmRDYjRhdzdSa1k5SjUwY3RVcWtsSlpqdjRZMHpkbjhKV2RqMjY0S3ZibE05OG9jMkQyaGZUS1JGRkEyZDJBam5Yb1F1Zkw2M3E3VTFwUU8zUXNTbHJ6TEgzNWdmWThWZ3VFNnFjZHRG?oc=5",
+      "text": "NFL Week 5 fantasy football rankings, starts, projections: Will Shipley, Mike Gesicki and more - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNElST0dhaURoSzR5ZTh6dTktcjVYNEVjd09qalZFcGFvazY4QWNsOXczNzFWRFNkcHBsdG5CeUNYcHZiRFpPbmFjQTE3OW5VMHhoSjliYVNIa1FRNnJxVXRTR1lqcWpkOWFqdmpJVkdJME1XcFROYnVkYU8yMW92WG90VTJBd2hzaTF5TW1XUDlCX0VlbTVZcTRpR3BFM3JCZlFjZkhDdFFCQTc4NHdoU2lmbmpFUzhTTXVqTzUzZjA0aTVxWjE3ckVtSURPOENZRVZneGhQdTE3Zzg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T04:29:00+00:00"
+      "time": "2026-10-11T12:08:54+00:00"
     }
   ]
 }
