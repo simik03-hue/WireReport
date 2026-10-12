@@ -1,110 +1,34 @@
 {
-  "generated_at": "2026-10-11T20:52:49.783656+00:00",
+  "generated_at": "2026-10-12T00:25:05.508038+00:00",
   "lead": {
-    "text": "Transcript: Sen. John Barrasso on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026 - CBS News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHdUT1NyaWJPUDFtcEpJRFluYzVlMWVJVVhUM0xPcXVqVGd2VHFEM1hWMjZyeklrLXY0bzFrSm5nX2pXbDFTY3pITC1rZDlZWHlJUnQzVjZsT1NoOHZpdnc5ZkNqZFR5TjVWakYwMGdWTkY1MzlQTkdfTkFQckJvd3JiSDEyaEFNcUtvTGY5RTJzZzJnbmo1cnl5d1k5SXFJSE1uN1dMaw?oc=5",
-    "source": "Google News",
-    "lean": "unrated",
-    "topic": "top",
-    "sourceNote": "Aggregated Google News top headlines feed.",
-    "time": "2026-10-11T20:20:48+00:00",
+    "text": "Plenty is working against this market. Here's why I'm staying invested anyway",
+    "url": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-10-12T00:23:07+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Tillis says Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
-      "url": "https://thehill.com/homenews/senate/6141694-tillis-slams-trump-russia-diesel/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-11T20:20:45+00:00"
-    },
-    {
-      "text": "Justice Department investigates TV networks as White House press-access fight escalates",
-      "url": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+      "text": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates",
+      "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-11T20:18:38+00:00"
+      "time": "2026-10-12T00:15:51+00:00"
     },
     {
-      "text": "El-Sayed addresses past Obama criticism, says Democrats now 'stand on the shoulders of giants'",
-      "url": "https://thehill.com/homenews/campaign/6141365-el-sayed-obama-michigan-senate/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-11T20:13:46+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Four Hours and Three Minutes in Ithaca",
-      "url": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
+      "text": "Mamdani to Skip Columbus Day Parade. Some Italian Americans Are Glad.",
+      "url": "https://www.nytimes.com/2026/10/11/nyregion/mamdani-columbus-day-parade-nyc.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T20:12:08+00:00"
-    },
-    {
-      "text": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T19:57:48+00:00"
-    },
-    {
-      "text": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzFvT0JzYVBTcnhFT2NlVFFkbm1QaTkzWWxVYTB0RXkyR2NiZ21YeGotZHJvUDBuY0plUzlpNXpxYWdIUjdmUWt6MDRXVkdlTmVUSHNFU3ZzZENfVks3ZmxVVlByRG1zNEtDUllOUm9vRldaQTU5YnZ2eUZ0Ti10WWNyX214S3NIUjlDb0NBSVFrZzRIMWtVRVkyVE5fVGJuN1NYRy14cw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T19:31:00+00:00"
-    },
-    {
-      "text": "Sirianni's call leads to dramatic winning kick by Jaguars' Little - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENFNTZhU2UzanpmRTJKOGFwTGNXTjB2TFBtejEzTXRfYjRfcW15Yi1ocHo4MGNHa0JMdXdCd2NzYXRmSWpsWUQxSFFVWU9Tb212MEhkeEVkOEdOZk5iRDBQYjhuYVlwRmVOQkhIbXpFMmJoNmZkZElBQ1ptdVYzTUpWcmN3X1pkdndoZURVYm1xZVdzNjZOcTVXaVpocFRUbWxr?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T19:11:00+00:00"
-    },
-    {
-      "text": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
-      "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T17:59:30+00:00"
-    },
-    {
-      "text": "'SNL' host Shane Gillis accidentally drops f-bomb on live TV - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejZOUUZuajdBYW1oZGtfYTFPTDN3aVNOUFVOdUh0SHl4NmlRRE1EU25xbElkV3Z2MHpvR1JlbzVEYUl6TXhhTlN1OXFlczVzTnJTZExpR2lXQUFDaGhFakpoLWs1VXZIVXhGbXNuSTY3UVBsMzlNanFsYkFDWVQ5VTNpcjctTmlFa3U3OW8zX3UzWlpJTnhJeWd4eVdXZmw3MkJCQkVUN3dIX2N4bVhtbDdYc2NRbXZqRFRoMg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T17:19:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Tobey Maguire officiates ex-wife Jennifer Meyer's star-studded Hawaii wedding to Geoff Ogunlesi - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa05OeHpTWHNCeWdHd1paSlQ2emJudmlUZjdMX1dlbFA1SlY4d2E3OVdWWnphcjIxX016Y3h4THd4VXRMNmM2M2hWMlduYzNuM0plZWFJTEZqOE85UUZUV1VNeEZsTFh6UlNKNVpMY1FrdlF3RHJBQ0EyM3dLMjlzZlhWTVVSUk44ckRtaTJfUi0xVHJlMUpKbnB6cmh5M3BhSmJ4cTJaaXlMMnB5d1dGaFQ5MlY0M2RsMFdfQTV3bTdUR0hxTnFYV3pMVFpfdVBXV1U1bVAyb19yYmE4NFYyZ1N6c0YyZzhfSmRqdVliOE95OW4ySGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T20:05:00+00:00"
+      "time": "2026-10-11T23:51:15+00:00"
     },
     {
       "text": "Saudi and Yemeni Airports Hit in New Round of Strikes",
@@ -113,7 +37,148 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T19:45:57+00:00"
+      "time": "2026-10-11T23:45:12+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Commanders' Daniels takes blame for botched final play in OT - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYkRxZ0p4QnFVQUE4c2tQbW1wYU5PUTF1cnBHVDZvQXlqMXEwWFlOdlY1OGU0bFBQcGJ1bXZmeXlNSWN3OHdTYVlxNHVQcGFlX1FHdzlEcFliUnRNMFdXZGpqMWhDZ0VmYTdLR09YLThXd0JsYVNUZ1h0SS1zbUh3cHdkZlJUQUc2ZW80aDRRM2FqaEtPa0tTU1ViNW0tUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T23:40:27+00:00"
+    },
+    {
+      "text": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pTXNOa29VTU9DTUM2MFZOZko1TUs0cWRiOE1fUTIyYUUzcS1oTjNsLS1NMnhld2xFc1E3Y1Jac3VqOXEwUnRxTkpmNXF1dzM3WDlHTnlXVFh5M0k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T22:45:58+00:00"
+    },
+    {
+      "text": "Kelly Clarkson says a Brooklyn store snubbed her. The shop says the item she wanted wasn’t for sale. - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWg5WXh0TzQ5US02UDB1aGsyX2NaQlRfblI4OXpTSW1URG5hZVNpV05mMXJYOExrRmJWNWgzRXpLV0RtUnBiZ2ZOc1cwaTB6dFp4aVo0TTI4LWY1Mm1JSU9jTTRyTFpBTnhXeEY5MWRFVlBwbzlYbHB2RzNfSkptb2xRWDdCMk1jMlFsN3NJZkZBQkNfaVVjVDZZSkN3aWFfalpkUVdzalVya2JFOUN6Ynh3RGNRQU9RdV93MUw5NzJOTXlFcUdrcjVOZS1VZkk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T22:12:09+00:00"
+    },
+    {
+      "text": "Marvin Harrison Jr. trade: Cardinals send former top-5 pick to Texans for multiple draft choices - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWthLXVkT005TG1EOVdXbDVCUGZPMWdDLVpFWHE0YVlJaHp5bzZxUUMzekN1ZTI5Rzd4QVFmbExtQmNEQ3Z5b3BNYWY3TzNDcFR4Y1oxYmp4OExBUndOT0xRRGR0Z1dyS2tuNktpVXlDcm1EclVtYkl6c0N3YUZISWlTbGktd1pkeEhzNE1ySDNQaUJlZkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T21:16:00+00:00"
+    },
+    {
+      "text": "NFL Week 5: Instant analysis from Patriots’ 45-17 win over Raiders - Pats Pulpit",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUlAzQTY0dGpOSGxVNmpKNGI5R1oxcUZlaldYcHdKczZlRmdJZFE2OEVzY2xlVEZVM3pCa21oYTk3b1ZVQ2VBaVlqYl9ERTJMTzQzQ2U0aU44OGRURmVnNHVfTVE1WmtuZll1UjN3Tzc4eGxDSFhOSDRBdXlfR0Jqd2NsUXRyUF8zYzJnYW40eEJEcm9keElHWXlpZ0VVNlBtbFphbXZZOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T21:01:25+00:00"
+    },
+    {
+      "text": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJDaW1MekZSaXh1MVhSN2NudGd1NXlMUlBSa2xtcFRsNEN5ampBc1NQV0FZSm1LQU5WZ3pjVWQ4bDNDeGVCNUYtMFhoVnhjcXBBQk1VWURNLTRwbDZhMWxBa1BvV1VMSUFWbS1JTy0yZzFJdks1VmtnMDlHa2xnTG5zb3UybVBQMG9jVkdfNThvQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T20:51:47+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Waves From Powerful Storm Pound Beach Homes in Southern California",
+      "url": "https://www.nytimes.com/2026/10/11/us/longbeach-homes-storm-surge-rachel.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T23:28:09+00:00"
+    },
+    {
+      "text": "Four Hours and Three Minutes in Ithaca",
+      "url": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T22:23:28+00:00"
+    },
+    {
+      "text": "Hurricane Simon and Post-Tropical Storm Rachel Bring Flood Risks to Mexico and Southwestern U.S.",
+      "url": "https://www.nytimes.com/2026/10/11/weather/hurricane-simon-rachel-california.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T22:06:19+00:00"
+    },
+    {
+      "text": "Hurricane Isaias’s Aftermath in Video and Pictures",
+      "url": "https://www.nytimes.com/2026/10/11/us/hurricane-isaias-damage-photos-video.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T21:14:12+00:00"
+    },
+    {
+      "text": "Hidden clues could help predict a woman’s breast cancer risk years in advance - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamFxbEZBRDMxYnRidkppeDJEcW42VURmT3ZrWlY3am9kM3d5RE5obnp1X29nNEkzQlJoelM4d0JDRkJHaUM3eW4tTkRiOTJJVFFHM0tuWHhocV96RlZ5UWM4THZkbU5CSW1DcGpWWWpMNXJ4WHc4UkUxa2FvWU0wZWZBWmRYNWJieEROdTdSNDRCMTRWeUk3ZGJKYnQtdUEzUDdGbdIBqgFBVV95cUxORllWNkhaOGItZkJYTWxOSXNvUndrOExOclJ4U1kxM0swTVpHdkdGT2FBUDFOSmFjbG50UGJGTnNheW1JX2RpRmJmZDlSSjB4dlo0VHQ5cjV2QTBoanNtcXYzajhEZDZjbTl2cDFTNE1hRkMwRjVNWjA5T21Ra093UWhCdUhmOV84SWQ1Q1dBVlk2a1djUFFhQ2c3cjVONTFCcHF4ZFc0X1Jqdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T20:56:14+00:00"
+    },
+    {
+      "text": "Flamingos at a Florida Zoo Rode Out Hurricane Isaias in the Bathroom",
+      "url": "https://www.nytimes.com/2026/10/11/us/flamingos-isaias-zoo-bathroom-hurricane-florida.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T20:43:04+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Bipartisan group of senators demands Trump kill Russian diesel deal - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVEpMclNCcWMxNDYyQmZqbFJoemdVbEVhSHp4WUJHeWpVWXRGVDBBRUZEZm1wVUxxTDlUZUhoWXhVZ0hiUDJTZHBnYmhEd0U3U2JZZ2d4UGRMRmpVZ2FZT1F2NHFveTNwTkF5WE5xNmhpZzIzZ3IzTzBEckU5YVJ3RXpKaXBCamMyTzQ2QW1pWjZRNENzaTJoVFhsdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T22:48:00+00:00"
+    },
+    {
+      "text": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
+      "url": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-11T22:22:16+00:00"
+    },
+    {
+      "text": "Rachel downgraded from 'tropical' storm, but strong winds, rain and flooding hit Southern California - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMXhVNkFsS0c5ckVWRlVQQkZMWmFSY0dKRWJNQ0twM3pDalpsSzQzUks0Z25DZlVWemZjNThBQ2RuYVFxRXowSjlGb2RIejNXM0syckY3ODdZaTQyVGYwUlNMRi1TUW1IVkJjaXRZb191bEU3cVg4Z2NzMC05RU1RVkFna3dOZ0pTQzRsRTBIV2twQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-11T21:56:54+00:00"
     },
     {
       "text": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
@@ -122,45 +187,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T19:23:21+00:00"
-    },
-    {
-      "text": "Passenger terminal in Riyadh airport hit again, a day after deadly strike killed at least 12 - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2ZUXzc2NDROUjFFVXpwbFA1S0hXSEZ0eGlYMkdNNDQtay13MDkzc3VBZUdQZ3FDREtlelF1Ri1tbEl0eXF0ZkxsbUZkaG13T1V0RHlFWXBmZ0pFa3JsRHhUVGZJbUd4cWJnaFRsMzh6TEowM0ZQOGo4anM5MjBvcld4bU1kWlAz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T18:48:01+00:00"
-    },
-    {
-      "text": "Marvin Harrison Jr. trade is past the point of no return - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdmRGTUNBM2NHclUwLUdMYUM0bHk4Yl9OQzUtUnBTM0tWWDZPMkxDT25iVjI3YUtaX3hveW9KWVBWdGVJTnpqZXdVdUpidHEwdUJBTWlpZk5UMXZxRFZhUVVMNThLWkN6MEs2bXZTd0IxbndLbThlVmZVWkVCcXRCbGU5ZGxxTXZJWjJhRVlZQ1ZxMXFTenVoSm9hR0cxWXBFeTRBYkZLbFFyektWVHBLLTBRUzB4TUNp?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T17:51:31+00:00"
-    },
-    {
-      "text": "Bond yields closely track diesel prices now, and Trump's deal with Putin may be too little too late - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUxVZWpGSjFIWGNIZVUxWGZaeHNlRHBOSjJRYUl6U2otcjZiNzNvUlBYVThsX0tUVjVxWVVzSjA2OElSM1lsYXNLZXkxNmlra2hmWDkteXlod0FnelhWUWtEckRtM1YzeWZ0MFlMYXBNNGZqOUJuc0haTzhkbUpRLTJJbkl5TUd4VzV0TW5vbnhEbDBVWXZTQ2xHLWJYWGF5MmVDLXUydHphdVVncFIydjdSd25rVWs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T17:12:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "The tenant activist at the center of Mamdani’s housing gamble - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazhDZUowamp3VldINUphZlRsR2oyN052RWFYU2doY2pmNmxvVVJfMGhVaTdEY3g5LVVxSWY2V0xMOExrVGtQUDVwU3UtMVJheHNha1ZxTF9RX092Y2U1VXZkM2VWLW4zZkh5QmVpZnNDSlVhTzJGam8xV0NEeDllUm1GWEZtZ044TzZQcEw3Y2RDVzB4UUdn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T20:00:00+00:00"
+      "time": "2026-10-11T21:10:20+00:00"
     },
     {
       "text": "Samuel Alito and New Jersey’s Fallen Columbus Statue",
@@ -169,43 +196,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T19:31:37+00:00"
+      "time": "2026-10-11T20:55:34+00:00"
     },
     {
-      "text": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
-      "url": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T19:15:03+00:00"
-    },
-    {
-      "text": "In Unlikely Turn, Law and Order Heats Up L.A. Mayor’s Race",
-      "url": "https://www.nytimes.com/2026/10/11/us/los-angeles-mayor-policing-election.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-11T18:42:48+00:00"
-    },
-    {
-      "text": "Kelly Clarkson slams Brooklyn novelty shop for dissing her in ‘Pretty Woman’ moment - New York Daily News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWNkWFNjMUpqVHUzMXZ1a3c0aFVZanlQaS1WX2Y1dlZjX3lYUHJhTEpwdnVTQno5dFZMMnNHR2NMRTBqdG1JZVRUNHh4SThxTGZid0RidHBFdmhmd3d1M0p6Zl9qX1lFQlBaWjViMzlHSTdZaXphQnhkMllLNHNURzRGa3dJb1hJSWVfXzN2MzlzRkhhTnhycEJRVURjck9aYUVPdkdVSTdzR3g2MThrVA?oc=5",
+      "text": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T17:45:42+00:00"
-    },
-    {
-      "text": "Mullin says livestreaming Hasan execution is part of ‘restoring American values’ - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWGRDMUl5SUtTWnFDN0tBWEJsRFo5VUtuS0x4QlVSS2gyMDZwT1RyeDZEN0s4dTh3Q3dOdTloQ1ppNktCclpmaTVLQ19UUFZ2akFHbm1zRG5zOEl6aHd3aGhFZWE3dElJaEpNOUMxWXRabHdMZFBRR2FYTXgtV0dFYTlqZEQwSUhxRFdNNUJ4Sk91X1dpdHJB0gGcAUFVX3lxTE5SbDhhTmFRcS1hS2o4VnBuN1VUVzhPNk9rZ0RKelVleTVmVjJ4cGlCRkM4UFgybHZERFlnVDRSOVFvUHc0enh2dEtYTVg3NkZQMXZzNXp4eFYyNmxkSWFpV2FtTVRtbGFfdnFFN0NSOFFSaWJyZVhRaDBYUWpWRE5xUmJybFV6eG00ZmhJNzNlcnJ2TlU4bWlfbkx0bg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-11T16:46:00+00:00"
+      "time": "2026-10-11T20:26:00+00:00"
     }
   ]
 }
