@@ -1,158 +1,129 @@
 {
-  "generated_at": "2026-10-14T01:55:59.463591+00:00",
+  "generated_at": "2026-10-14T07:26:50.678275+00:00",
   "lead": {
-    "text": "Stock futures are little changed as traders await consumer inflation report: Live updates",
-    "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
-    "source": "CNBC",
+    "text": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+    "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-10-14T01:54:56+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-10-14T07:23:46+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T01:54:48+00:00"
+      "text": "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmlFV0JYa1dHTUVUclFkNUhadTZmVW9Jc2JiclI5TnI4SDlHN0c5SU5ucG90dW82cXFwM2VFZHJ3Y2JXQjBNcV9pdTI1VVRhZUcxT2ZYaUF4S2VvTDgyRS1Wd2pGRnFXbTllVnRQemlpOTNaY2I2aVktLVJTYmlHWHkycldMVVJTMW1fUWxNeGJtWU1zWVVxYThJTzN0cVdBRWZHVC1kMWFSek5Bd1ZWWlRQeFVlanNSZEE?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-10-14T07:16:33+00:00"
     },
     {
-      "text": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T01:49:34+00:00"
-    },
-    {
-      "text": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
-      "url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+      "text": "Stock futures are mixed as traders await consumer inflation report: Live updates",
+      "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-14T01:43:21+00:00"
+      "time": "2026-10-14T07:13:24+00:00"
+    },
+    {
+      "text": "Russia arrests Japanese journalist on spying charges",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-10-14T07:12:37+00:00"
     }
   ],
   "col1": [
     {
-      "text": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
-      "url": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T01:33:22+00:00"
-    },
-    {
-      "text": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
-      "url": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T00:04:56+00:00"
-    },
-    {
-      "text": "John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEdZMldycmpZdTcwUFh1WldpMDhBMlUyVDgtNlpWdkgwQkdiN0xvYklXUGRYdmI3Z0ZYX0VqN1RpR3B4d1NhTkJiQjJlbmxELTUzaUZQdEF0emZYTkZYTFNVNGpJSkxTazVhN3FzbzRKRENhZWFPWTVaaS1DODFhQU4zYUk0bk5wMUlXSDRBUjg4ck1YX0MxZ3RiRVlKTmVwZEE?oc=5",
+      "text": "Asia Stocks to Gain on Signal for Fewer Fed Hikes: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkdpWnlfNjZqMGFBMUtMU1JNdFhzem9kbFhSR3Z0Qnl0ZkVacmR6TzRSQXBvMU5SNElCUkEtWFpueWhuWWNGdUR2dkVPcVdtQmRuT1VuRVVldlhDaW1lRHhYdHF6cTQxNUJNb3F1V0ZrNWszNGlsbllLTkR0SGs1ZXo0NHY3eW9aYmxuSnZkNy1MSS1k?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T00:00:00+00:00"
+      "time": "2026-10-14T06:05:00+00:00"
     },
     {
-      "text": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5",
+      "text": "‘The Assassin(s)’ Movie Fuels South Korea’s Culture Wars",
+      "url": "https://www.nytimes.com/2026/10/14/world/asia/korea-assasin-assassins-movie.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T05:22:33+00:00"
+    },
+    {
+      "text": "Trump Hands Victories to Putin, Who Offers More War in Return",
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T05:03:25+00:00"
+    },
+    {
+      "text": "U.S. probe of Rep. Ilhan Omar focuses on birth date, citizenship papers, people familiar say - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaGFvUlZjTzNWTHRkVm10MV9OcWNrMm5WcURyR21XTjlDLWdST3VZUEFNbDJyVENuQ0t3MHo2SkFSbnl5Q25tNVFvSzEzaWtKaXdfNUQ3TkF4MGhWNF9NVkVKUjF4SzVLZWV1SFJQQTBoS3RESDJXMTFWMEJhSkJmYktMZEpyZmpXa3hEa0R2ZHZtMDcxNmxIZ0ZoQkJfQUIxaGwtV1VQbklySXoyUGRVUFlYalNtdjcyanhXSm93cFgyOWtPdzBDWGhQMA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T23:37:00+00:00"
+      "time": "2026-10-14T04:31:00+00:00"
     },
     {
-      "text": "Police Identify 42-Year Old Man Killed at Six Flags Over Georgia",
-      "url": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
+      "text": "7 Takeaways From the Second Georgia Senate Debate",
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:47:17+00:00"
+      "time": "2026-10-14T03:58:16+00:00"
     },
     {
-      "text": "Trump Aids Putin, Feuds With Ukraine",
-      "url": "https://www.nytimes.com/2026/10/13/briefing/putin-guilfoyle-gop.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Cornell suspends fraternity parties amid backlash over alleged sexual assault - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZIVlZzT0hDTklqSmVSeTV2YUUzZkU4Q2JHWmh4NnU4TmUwTC1yOXFza290YzhxeUhlUmxHa0hqZGRoWFo4RjQwVkdEVEVMWEZRU01qUDVsbDhLbkxPeWtmMXlCN29kNHNkMS12UkVuaGpSenhPbHVDTjVqUEhQYlZHdWkyeEY4Vmlr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:38:10+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T03:19:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Man who died after being ‘ejected’ from Goliath coaster at Six Flags Over Georgia was cherished teacher, school says - CNN",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTklWODB1cndLTFFPbV9ReHpLN0MzMWFzNGFWUkdPQXNYZDI3R2poZWdzNEo1NFI2bm80XzhDUVg2cWp1RktIVmUybUdXbzRqbzRfN3FMU3dqN2V5bXhObFJEQXpJd25kZnBiOFNNdlRLMXZZUkpEWTIwZnNwQTNRcEk5Qmg1WlJCSGtaM0dQN2hwMzJ2Mk4wOHNMQll6a2c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T01:16:00+00:00"
-    },
-    {
-      "text": "Ohtani will be in Dodgers' Game 3 NLCS lineup, Roberts says - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXF0YU1IOXFnUTZ5SEtUWjk2Tkh3OHgwYjVfSmtYVUh0RWQ0ZkllWFBpZkQ1NnlXUXplekZ3T05PVWE4ZHdHVEFEQkFTNWpITXVZTUIyVU1Kbk5jQzEwNjJiMGxhejgtblZlN29HNXJXM1lYdlVLc0FodWNjMThVTm93NlRwaXRZbFRCc1RYV3phOVI0OWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T00:04:00+00:00"
-    },
-    {
-      "text": "Ex-gang leader sentenced to 40 years to life in prison for Tupac Shakur murder - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUg3aUR1SllPV2ZGMm0yaU9ORTdRM1liR3NRQWhZX2JVTnkwaGZsTGY1ZmtkWFdPOFRPZWlvVEpMWUhHSjY1azhqeERrUUhkN2VvV1FlUVc4VFpCbUxWZVRXUUt5MTN4Z2ROd1VDc2hLcUJvaklWdXMxLW8yX0JaeEVxQk12eVFYSjN6UFpsX2RfM1NkYXFwcDJPOVZhSnNXYWhGaHl6dTkzYTFuMnJUVHEyNkktUzQ0V3JuNkJB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T23:59:01+00:00"
-    },
-    {
-      "text": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T23:29:36+00:00"
-    },
-    {
-      "text": "Bob Odenkirk Mourns 'Breaking Bad' Co-Star RJ Mitte Following Death: \"This Is Simply, Deeply Sad\" - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWgxNFRjUEgwYWdmcWM4VEl3cmkwd1hkQzFxQ0NiN2piWWxyQVpyWW1ISXQyQ3VzYUgxVjF0STctN1lUSHpMb3AyRmxYa1BVVnVVTHM4RmNobUJlTTY2a1M1Qlhrdk01OV9ydXdFRlFSS1ZOc2JuMTBvcDFETmV0ZnJnWVdYU3A5ZGdrRzlzeE5KQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T22:45:00+00:00"
-    },
-    {
-      "text": "Pope Leo Has Lung Cancer, Vatican Says",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+      "text": "Israelis Feel Abandoned. That’s Why They Might Turn to This Bereaved General",
+      "url": "https://www.nytimes.com/2026/10/14/opinion/netanyahu-eisenkot-israel-election.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:19:30+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-10-14T05:57:56+00:00"
+    },
+    {
+      "text": "The leap second is on the chopping block — and timekeeping could change forever - KSL",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXh5ckVrLWZ1VGZWSldZQlZ2OFpJLWtNSEdOSTBRNV9WcEVUcEZfNlp0VWFQTDh1ZURoY25LRHdlN3VRaFpNYmt3SFNYM3hmOVc1aUJSV0FKOUJadi1idzczRXdCMFNlQWw0VEdua2pKbk5yQ2pmMldsRk5FSUJnUXRFUFBsczl0ZGZaa0hkeHBicGpYNktwbmJDOEVHQ0tnLXBhbkw0QzJuSWdhVzdzSjk1aHYzQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T05:16:18+00:00"
+    },
+    {
+      "text": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
+      "url": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T04:50:55+00:00"
+    },
     {
       "text": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.",
       "url": "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html",
@@ -160,52 +131,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T00:42:18+00:00"
+      "time": "2026-10-14T04:11:45+00:00"
     },
     {
-      "text": "Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHowV1YwelBoWjkyMkx4cDdzVVd3TUpzUUlmaWctWXBLRnpZX2dOajY2Z3JHLTkwSGI5WjBBbXJxd0loQVpuNFJYSnp0UEtmZDlHVGdUUnNIQkpPMTBiTFJtYmh2TXRxUlZRemlzdE9WVzI5SnR0YWxySTE0SC1GUzZScmNmYjZqVUVZaEdEY25INUpzRXZKcWJlcms3eERZZzZaRk1wbWhEbFhJOGtDam9HdnQ4ZnJvenc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T00:02:00+00:00"
-    },
-    {
-      "text": "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html",
+      "text": "Trump Adds Another Giveaway to His Midterm Pitch: Pardons.",
+      "url": "https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T23:49:54+00:00"
+      "time": "2026-10-14T03:49:42+00:00"
     },
     {
-      "text": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NWl9xY0lPUjd0aE85Y05Bd3FrMURQOXVpRmxyMnBBVzRpeUVxMnUyRGY5Z3ExMDE0STU5R1cyUGZYdzN4b1d2cF82T2F2Wlh3Yk1OYV9GcTFDbEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T22:59:37+00:00"
-    },
-    {
-      "text": "Justice Dept. Issues Subpoenas in Ilhan Omar Investigation",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/justice-dept-ilhan-omar-subpoenas.html",
+      "text": "Five Key Moments From The Times’s Interview With Cornell’s President",
+      "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-takeaways.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:40:20+00:00"
+      "time": "2026-10-14T03:16:35+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico",
+      "url": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T05:33:02+00:00"
     },
     {
-      "text": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
+      "text": "Trump posts video of man being attacked by tiger - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObV9RWWJENGhoTTdsNzZyVTM2NkFpdlM1T3JSMmZPQ0gtaVBHTXQ4VjlxNFdncjZxVExLeXpYQTZrb1FoSVowa3pVRjQxTzFzdXZ3Q2NwZ0lYUFczQTYtZzJEMGVISUF5SzdNMTZvUkM5cmZwWi1EM19ZbHJJaFlEc05KRDVpaURCZzgzMENIbnZjX21mSjhVYWZHQjgwM0RqbXZ0TjRFbXRhdkhsRjFr?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T22:15:00+00:00"
+      "time": "2026-10-14T05:08:43+00:00"
+    },
+    {
+      "text": "Judge extends White House access to banned media outlets CNN, MS Now and Politico - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNE84dTlMaURmaG9obkVKY2tPYzdoSHRuQjFrZUQ4Szh0dzFfOFpNeVlKcVRDNXVXQXVRYU1LZTNHQ2h4ckNLc01HSzdjWmIzQUFZTHdJUFo1OTN1bGJOVWVwRllrZFhLdUtvZTVaLUJnN0RnUDhwcWpvUGx6aVlJc3lEeGhIQUNxNFlNRkRQZGFxMHUwOVVqUENSdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T04:35:46+00:00"
+    },
+    {
+      "text": "5 Takeaways From a Heated and Personal Maine Senate Debate",
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T03:59:46+00:00"
+    },
+    {
+      "text": "Jose Ramirez takes blame as miscues sink Guardians in Game 2 of ALCS vs. Rays - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTVkVVJ6ZzMtYXNYRGl0TnpDUV8yc1Z6eHYyZlhvbU5ERzJVcEE3UkF4RU42aFlTRXVSZjB4WE4zbFhTUWY5aEtWME83ZFFZbk1wQmpCRGVFbDl2Zi1iMEt6cjJxUFg1cnhYVE1PLXNULWUwNWwySHpwUVlnYkZHQlVsaGJQejBtVV82NXN3UlJhaHRqUFgwMms3Mmw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T03:49:00+00:00"
+    },
+    {
+      "text": "Dana White responds to Sean Strickland’s complaints: ‘When isn’t Sean Strickland upset about something?’ - MMA Fighting",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVWF4LTRRcWt1Rk55RTNwS1JudGV0ZkFyazdVOTdqdnBSRkVGZGd1LTJ1UmZROXJVRm95QS00VjB4X3VqZmlvejlpVzVTakpZazJYSGxrdVZpbUZHb21fS3k1WEY4OUdWb2I2dHBFTWVWZDZnTFozVzdMZkEtUG9zMjRNVG92c0pYLXJfb2VBQjJ3RzRjaEMzaTB5OC1Ga2xtd2x2Yk5aXzdaQVdPaTE0VTRPOC1haEJzWGU2S2hTN0lFWnR6QmdXY1ZQcGtvQW9sMU5V?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T02:53:00+00:00"
     }
   ]
 }
