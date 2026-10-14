@@ -1,34 +1,81 @@
 {
-  "generated_at": "2026-10-13T23:02:44.692814+00:00",
+  "generated_at": "2026-10-14T01:55:59.463591+00:00",
   "lead": {
-    "text": "Live updates: Trump set to campaign for Sullivan in Alaska; key races hold midterm debates",
-    "url": "https://thehill.com/homenews/administration/6144742-live-updates-trump-alaska-zacharia-briefing-midterm-election-debates/",
-    "source": "The Hill",
+    "text": "Stock futures are little changed as traders await consumer inflation report: Live updates",
+    "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-13T22:53:51+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-10-14T01:54:56+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "The Steep Rise and Spectacular Fall of Kimberly Guilfoyle",
+      "text": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T01:54:48+00:00"
+    },
+    {
+      "text": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
       "url": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:52:37+00:00"
+      "time": "2026-10-14T01:49:34+00:00"
     },
     {
-      "text": "Pennsylvania at the center of US measles outbreaks",
-      "url": "https://thehill.com/newsletters/healthcare/6146827-pennsylvania-measles-outbreak-deaths/",
-      "source": "The Hill",
+      "text": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
+      "url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-13T22:50:53+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-14T01:43:21+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+      "url": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T01:33:22+00:00"
+    },
+    {
+      "text": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
+      "url": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T00:04:56+00:00"
+    },
+    {
+      "text": "John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEdZMldycmpZdTcwUFh1WldpMDhBMlUyVDgtNlpWdkgwQkdiN0xvYklXUGRYdmI3Z0ZYX0VqN1RpR3B4d1NhTkJiQjJlbmxELTUzaUZQdEF0emZYTkZYTFNVNGpJSkxTazVhN3FzbzRKRENhZWFPWTVaaS1DODFhQU4zYUk0bk5wMUlXSDRBUjg4ck1YX0MxZ3RiRVlKTmVwZEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T00:00:00+00:00"
+    },
+    {
+      "text": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-13T23:37:00+00:00"
     },
     {
       "text": "Police Identify 42-Year Old Man Killed at Six Flags Over Georgia",
@@ -38,9 +85,18 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-10-13T22:47:17+00:00"
+    },
+    {
+      "text": "Trump Aids Putin, Feuds With Ukraine",
+      "url": "https://www.nytimes.com/2026/10/13/briefing/putin-guilfoyle-gop.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-13T22:38:10+00:00"
     }
   ],
-  "col1": [
+  "col2": [
     {
       "text": "Man who died after being ‘ejected’ from Goliath coaster at Six Flags Over Georgia was cherished teacher, school says - CNN",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTklWODB1cndLTFFPbV9ReHpLN0MzMWFzNGFWUkdPQXNYZDI3R2poZWdzNEo1NFI2bm80XzhDUVg2cWp1RktIVmUybUdXbzRqbzRfN3FMU3dqN2V5bXhObFJEQXpJd25kZnBiOFNNdlRLMXZZUkpEWTIwZnNwQTNRcEk5Qmg1WlJCSGtaM0dQN2hwMzJ2Mk4wOHNMQll6a2c?oc=5",
@@ -48,7 +104,43 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T22:46:00+00:00"
+      "time": "2026-10-14T01:16:00+00:00"
+    },
+    {
+      "text": "Ohtani will be in Dodgers' Game 3 NLCS lineup, Roberts says - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXF0YU1IOXFnUTZ5SEtUWjk2Tkh3OHgwYjVfSmtYVUh0RWQ0ZkllWFBpZkQ1NnlXUXplekZ3T05PVWE4ZHdHVEFEQkFTNWpITXVZTUIyVU1Kbk5jQzEwNjJiMGxhejgtblZlN29HNXJXM1lYdlVLc0FodWNjMThVTm93NlRwaXRZbFRCc1RYV3phOVI0OWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T00:04:00+00:00"
+    },
+    {
+      "text": "Ex-gang leader sentenced to 40 years to life in prison for Tupac Shakur murder - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUg3aUR1SllPV2ZGMm0yaU9ORTdRM1liR3NRQWhZX2JVTnkwaGZsTGY1ZmtkWFdPOFRPZWlvVEpMWUhHSjY1azhqeERrUUhkN2VvV1FlUVc4VFpCbUxWZVRXUUt5MTN4Z2ROd1VDc2hLcUJvaklWdXMxLW8yX0JaeEVxQk12eVFYSjN6UFpsX2RfM1NkYXFwcDJPOVZhSnNXYWhGaHl6dTkzYTFuMnJUVHEyNkktUzQ0V3JuNkJB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-13T23:59:01+00:00"
+    },
+    {
+      "text": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-13T23:29:36+00:00"
+    },
+    {
+      "text": "Bob Odenkirk Mourns 'Breaking Bad' Co-Star RJ Mitte Following Death: \"This Is Simply, Deeply Sad\" - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWgxNFRjUEgwYWdmcWM4VEl3cmkwd1hkQzFxQ0NiN2piWWxyQVpyWW1ISXQyQ3VzYUgxVjF0STctN1lUSHpMb3AyRmxYa1BVVnVVTHM4RmNobUJlTTY2a1M1Qlhrdk01OV9ydXdFRlFSS1ZOc2JuMTBvcDFETmV0ZnJnWVdYU3A5ZGdrRzlzeE5KQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-13T22:45:00+00:00"
     },
     {
       "text": "Pope Leo Has Lung Cancer, Vatican Says",
@@ -58,45 +150,45 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-10-13T22:19:30+00:00"
-    },
+    }
+  ],
+  "col3": [
     {
-      "text": "Pete Hegseth’s Bloodlust Doesn’t Hide His Military Failures",
-      "url": "https://www.nytimes.com/2026/10/13/opinion/hegseth-livestream-firing-squad-execution.html",
+      "text": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.",
+      "url": "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:04:12+00:00"
+      "time": "2026-10-14T00:42:18+00:00"
     },
     {
-      "text": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
-      "url": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T21:55:45+00:00"
-    },
-    {
-      "text": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+      "text": "Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHowV1YwelBoWjkyMkx4cDdzVVd3TUpzUUlmaWctWXBLRnpZX2dOajY2Z3JHLTkwSGI5WjBBbXJxd0loQVpuNFJYSnp0UEtmZDlHVGdUUnNIQkpPMTBiTFJtYmh2TXRxUlZRemlzdE9WVzI5SnR0YWxySTE0SC1GUzZScmNmYjZqVUVZaEdEY25INUpzRXZKcWJlcms3eERZZzZaRk1wbWhEbFhJOGtDam9HdnQ4ZnJvenc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T21:26:04+00:00"
+      "time": "2026-10-14T00:02:00+00:00"
     },
     {
-      "text": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
+      "text": "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
+      "url": "https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T21:17:34+00:00"
-    }
-  ],
-  "col2": [
+      "time": "2026-10-13T23:49:54+00:00"
+    },
+    {
+      "text": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NWl9xY0lPUjd0aE85Y05Bd3FrMURQOXVpRmxyMnBBVzRpeUVxMnUyRGY5Z3ExMDE0STU5R1cyUGZYdzN4b1d2cF82T2F2Wlh3Yk1OYV9GcTFDbEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-13T22:59:37+00:00"
+    },
     {
       "text": "Justice Dept. Issues Subpoenas in Ilhan Omar Investigation",
       "url": "https://www.nytimes.com/2026/10/13/us/politics/justice-dept-ilhan-omar-subpoenas.html",
@@ -107,105 +199,13 @@
       "time": "2026-10-13T22:40:20+00:00"
     },
     {
-      "text": "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:18:50+00:00"
-    },
-    {
-      "text": "What to Know About Pope Leo’s Lung Cancer Diagnosis",
-      "url": "https://www.nytimes.com/2026/10/13/well/pope-leo-lung-cancer-adenocarcinoma.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:03:02+00:00"
-    },
-    {
-      "text": "Cornell Bans Fraternity Parties and Adds Sexual Assault Investigators",
-      "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T21:27:39+00:00"
-    },
-    {
-      "text": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
-      "url": "https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T21:22:06+00:00"
-    },
-    {
-      "text": "Atlético 2-0 Man United (Oct 13, 2026) Game Analysis - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10UlZCRHVkSGItdWRWUm5jbFJtNnVNS3ZrdWpoLUlrTFBRZFM4TEE5ODFMcTVOQ05Ld2JrUHVjc3Q3c21qaFhtbjVtZk1YaHpScHRjdF9VaXlfcW9KYU1uSklNQQ?oc=5",
+      "text": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T21:06:53+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Trump Aids Putin, Feuds With Ukraine",
-      "url": "https://www.nytimes.com/2026/10/13/briefing/putin-guilfoyle-gop.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T22:38:10+00:00"
-    },
-    {
-      "text": "Vatican says pope’s lung nodule surgery was successfully completed - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm9fcTBnZ2hJdE9Jb3hlNDAtTzlYeGdleGlwSFgxZUctblh3SVZPMjUyMGNEdjVxSE15bnZGLUJWRmM5eGdXcEpUOFhfeDQtcTRKU29oWVNsbk1yVUhGWV9IVFBmVDZGeHVMRlNOSEc2WDdieDNJMFFIS0xCR3VrbDJyX3lFZzEzd1Jwd3ZiMU5YTGc2RDUyZU5jNXFiVGxuSkNhZnROYWI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-13T22:07:54+00:00"
-    },
-    {
-      "text": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T21:56:15+00:00"
-    },
-    {
-      "text": "We Know How to Fix Homelessness. Why Don’t More Cities Do It?",
-      "url": "https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T21:26:43+00:00"
-    },
-    {
-      "text": "James Dolan, a Former Hochul Supporter, Goes All In on Her G.O.P. Rival",
-      "url": "https://www.nytimes.com/2026/10/13/nyregion/james-dolan-bruce-blakeman-governor-hochul.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T21:19:09+00:00"
-    },
-    {
-      "text": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-13T20:31:14+00:00"
+      "time": "2026-10-13T22:15:00+00:00"
     }
   ]
 }
