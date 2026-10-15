@@ -1,25 +1,54 @@
 {
-  "generated_at": "2026-10-15T00:08:54.326678+00:00",
+  "generated_at": "2026-10-15T04:47:00.917357+00:00",
   "lead": {
-    "text": "The Brooklyn Toy Store at the Center of the Kelly Clarkson Online Frenzy",
-    "url": "https://www.nytimes.com/2026/10/14/nyregion/kelly-clarkson-art-of-play-feud.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-10-14T23:45:12+00:00",
+    "text": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+    "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-10-15T04:30:08+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "S&P 500 futures fall as traders await more U.S. economic data: Live updates",
+      "text": "S&P 500 futures fall ahead of more U.S. economic data; South Korea's Kospi slides 7%: Live updates",
       "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-14T23:40:59+00:00"
+      "time": "2026-10-15T04:25:10+00:00"
+    },
+    {
+      "text": "Election Dispatches: Talarico Remains Ahead in Texas Senate Race, Polls Show, but His Lead Has Narrowed - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wNmdtWGQxTVkyNlVEWmd2Yldza3pvd0NpYkp3bHFsWlcxbkNUeTdIQi1qWGlnNlkyQ1k4ZlFuUDdEX3FSRnVUNHBGWUt5el8tT0FGbHVaVjNOVU9STHlrZEV6c3M0TmVCakNCVGo2QlFXYWNxZWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-15T04:22:00+00:00"
+    },
+    {
+      "text": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-10-15T04:19:17+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "While Leo Recovers From Lung Surgery, the Church Runs on Autopilot",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-15T04:01:15+00:00"
     },
     {
       "text": "Iranian attacks sink two ships in Strait of Hormuz - The Washington Post",
@@ -28,75 +57,138 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T23:30:55+00:00"
+      "time": "2026-10-15T03:36:29+00:00"
     },
     {
-      "text": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T23:30:02+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "There’s a New Great Pumpkin to Rule Them All",
-      "url": "https://www.nytimes.com/2026/10/14/us/rhode-island-giant-pumpkin-world-record.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T23:28:36+00:00"
-    },
-    {
-      "text": "Surprise Democratic Donor Blitzes Senate Races in Republican-Leaning States With Ads",
-      "url": "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T22:56:22+00:00"
-    },
-    {
-      "text": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
-      "url": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T22:38:04+00:00"
-    },
-    {
-      "text": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
-      "url": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T22:20:50+00:00"
-    },
-    {
-      "text": "CoreWeave Stock Sinks. The Credit Market Is Flashing a Warning Sign. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvd3VrcEJNdlpYclptNE9EVFdQOEFUV3NOel9JaXBqOThVVDRTSVZTMklhc2xLaVljZVZ5amJmeE5KMUhoYVpKYm5CSTBtMXhxNG5KMHgwTm1CNXVFaGllcE0ybEpYaTZiSjdmZnpDUU5WTkhVNllKaQ?oc=5",
+      "text": "White House defends new press secretary amid questions about her legal credentials - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOLVZYOG9mRkJoeWJxQ3RZeEVRTEM3SS1DSUFtdWtid2RkdGFjNWsydlFJckVIem5GZkVUZzlEMnpqLUMyM2l5R2tYWXZTNmVKVll4OUdIV0lweE0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T22:11:00+00:00"
+      "time": "2026-10-15T03:03:16+00:00"
     },
     {
-      "text": "Shohei Ohtani dropped to sixth in Dodgers' lineup against Brewers in NLCS Game 3 - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUxmTWN6bmUtUVJwYm9GdjN0WFBlc1lnT2VaTDZub0Z3dEg0bVFaTmlaRW5oRzBsYk1xQXdhdzRrV09TS0h4ck9QWVpCRmRXMjdkSlVoSTVKamtEcUItYUZvMVZqckQzUi1PWDJPVUZQcktPSTJmUHlOOUtaNzJyZEt4UkZSZWNmYk5iUnhnaG00THh4c0otMTNodGxFMTN5?oc=5",
+      "text": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FZmRzbXctbWRSSWt1RG5mUDZDb1V0UkMwTVYwREpidThQTVlvYWMzRGZvSGJfTFNjNEFjWGxfeHJfenQzTmoyYUY4MHV2RW9VUFh3SEdlRWgzbUE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T21:46:00+00:00"
+      "time": "2026-10-15T02:26:07+00:00"
+    },
+    {
+      "text": "Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWVpMUFEeDIzNVZsN1hTVlFCbTJXWm1qRHh6RUgyczJVUF9Ha3FLblZOVzVaS2QtSDJDMDRIaUFrRzRkZmlOaTR4OFVVcml1Z21NWXhDUjl6SmZtWkE0SFVHRmszbnYwRU5oRFVCTHVNQm15dkNSRWo4dGl0Y3lnSmZBZWx6Z3hZRVVBMWJ2eWxLeENhd3NZNmppLVRxNlF2Qmlv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-15T01:40:06+00:00"
+    },
+    {
+      "text": "Cornell’s President Grilled by Faculty Senate Over Handling of Crisis",
+      "url": "https://www.nytimes.com/2026/10/14/nyregion/cornell-president-faculty-senate-lawsuit-response.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-15T00:40:18+00:00"
     }
   ],
   "col2": [
+    {
+      "text": "Diddy injured in prison fight with notorious drug kingpin: Reports - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBczN5alBLNy0xWEF6bWhad3JUVFBDQlZSaC1hYi1GREVzTjVneDNwRWo5QWdRYkEtQXpGNmR6bzU1QzFabmF5eF9XeXQ0bm94SW5uXzBCYk5RSFdWN0tKN0pBbGc1Y0lZX3Q4UTF1TFBlWVgyMFRfeklPLWVUUdIBgwFBVV95cUxORXRvSjFCTWJjM2JCQ09fa0ljZ3l4WWJSUk5CM2lpekFoVkJXTXVKNkllUW85elN4dVJvREFERW9yR3Joa0FLd3owUl9HN3RBY0oyS1dYcDJMVGcwbTVFZzhmejR4WUVPNklLMUNaOTgyckd4SjE2MkNZMW1FV0hXSEVFWQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-15T03:43:18+00:00"
+    },
+    {
+      "text": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
+      "url": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-15T03:32:59+00:00"
+    },
+    {
+      "text": "The Brooklyn Toy Store at the Center of the Kelly Clarkson Online Frenzy",
+      "url": "https://www.nytimes.com/2026/10/14/nyregion/kelly-clarkson-art-of-play-feud.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-15T02:56:32+00:00"
+    },
+    {
+      "text": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
+      "url": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-15T02:08:59+00:00"
+    },
+    {
+      "text": "Bradley Chubb explains his side of altercation with Alaric Jackson - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVlyZG5BdWZ6bGJwS2w1Rml4M0hZMC1sZEtHdGpNNzY4TnZNNGU4emV3SnplNFViVWNYeGNMRmNfcW9HRVBVZ3ZMS2RUajJIcUVmNWJoc3V4RUwyc2FQQ3V5SGxXN2VtYnd3dVBiUGlrYjE5NE92Q0JQVmt0Q3lxaWhrZEVxZG41ZUFqc29ncmRqY0J6RkVyNXkwb1ZJZnJPRlRvVWxUbTZBd2hvV2VUS09uZWd5WUhqT2pzNWZwOU03bzF0ZFNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-15T01:30:01+00:00"
+    },
+    {
+      "text": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rR2RzSXRUc3FsRlkwNUMxYXJTZWM5R1ZLUDhUbkV1YjZZdFN1eFpTeGpwckFIM0RaeV9nMndQNzZsYkw1TERZM1JZUV9mNWNQb1VBdWRZMXNvVS01Mklvc3Qzc1pKNzdxbFE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-15T00:20:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Chourio's history-making 1st-pitch HR comes 1 year to the day after he did the same thing! - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1JKMEIwbUZNWEt2bm5UUFEyajVGeXQwY0h1b0R3YlhHRUZfNjdsUmJ3TnhUbkVEUWlXOUtBOGZqdlVmMkdBaGR2eE9EV1VYQ2I2Ry14ZnJ4VGd6SjJkMFdLSURTUTJvc0xBa3pjN09OeWVkNnpaSEdtd3pOT2hzQlNTTk1SN19o?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-15T03:38:37+00:00"
+    },
+    {
+      "text": "The Crisis Playbook for Universities in Trouble",
+      "url": "https://www.nytimes.com/2026/10/14/us/cornell-crisis-playbook-universities-colleges.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-15T03:09:05+00:00"
+    },
+    {
+      "text": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-15T02:27:52+00:00"
+    },
+    {
+      "text": "AI giant Anthropic sees revenue surge ahead of stock market listing - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUHRCTEVSeENpRVNzbEZTb1IyNEw4aHpsTFFWTnFBY3RxNngzVFRJZEhNelQ1NnZJcG9QanVId2FPX3Znem55WEJ6N0hJNVJlZFpEVFBkYW0xYmM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-15T01:56:32+00:00"
+    },
     {
       "text": "The Trump Administration and the Shrinking Number of Women in Top Roles",
       "url": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
@@ -104,108 +196,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T23:24:52+00:00"
+      "time": "2026-10-15T01:05:46+00:00"
     },
     {
-      "text": "Florida man arrested on murder charge in ex-fiancée's 2011 disappearance - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWNnT0RuNnU4WThDck1WTmlBbVI5VWU1QUFicXFrWmlZRzM1YjFMTHVwQ25VLUVNSE8ydnRGaUZFejhJQXdmbkxLajdRc3dNTjV2UzNjaFJLWmk1ZXlyMmcxSE1VOFJNVy1HTFJUX1RPWHJuNVQtUGdaQnV2dkJzRjZLd0I3SldJN1JCdkZUMUlLeG82bzBMbnd2RGs5UUtKUkpmSmk4VngyZjZGUUJLY1NCeDVUU1pKRFBaTmhDTC0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T22:51:12+00:00"
-    },
-    {
-      "text": "Why So Many People Still Are Not Screened for Lung Cancer",
-      "url": "https://www.nytimes.com/2026/10/14/well/pope-lung-cancer-screening.html",
+      "text": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+      "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T22:33:50+00:00"
-    },
-    {
-      "text": "OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmtHYm1YMVdnQ3pLY2FuRGNMX3hCVzNhc2k1SVJLa1VQQnJZanVFaTAxQlBpcjY1M21uc1R1WnhubTdibzVGeXhWcVpTeHJCb2hJLW5OaDZiSkVZU29NMmxtVWtvaGlBTGJTeDBpbzU2YnFvU2g5TkE5RERYM2JpakpsQXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T22:19:48+00:00"
-    },
-    {
-      "text": "The Plaza Hotel to Close for Yearslong Renovation in 2027",
-      "url": "https://www.nytimes.com/2026/10/14/nyregion/the-plaza-hotel-closes-temporarily-nyc.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T22:09:21+00:00"
-    },
-    {
-      "text": "Soaring Energy Prices Push Inflation Higher",
-      "url": "https://www.nytimes.com/2026/10/14/briefing/soaring-energy-prices-push-inflation-higher.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T21:44:53+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "U.S. Continues to Provide Intelligence to Ukraine, Officials Say",
-      "url": "https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T23:11:19+00:00"
-    },
-    {
-      "text": "U.S. Is Sending Hundreds of Troops to Latin America",
-      "url": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T22:49:04+00:00"
-    },
-    {
-      "text": "Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmxJYVNyVzk0TVpjbU9Ea3FOMndGeGE5Vk5felFlYTYtaTBNVGpmYlAzVFd4WVY2WDBYNGdtZ3Q4UTktN1BBbDJVX3ZyUUZINFZWMTFpNUZGcjFHdk11ZEljQ0laME9qMkNhN01sajRVU29DUUQ2c2l3SG5HR203Z2pyZTdKTmJtQmJPZHY1NDA2MXBIVGtJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T22:22:00+00:00"
-    },
-    {
-      "text": "Intrinsic physicochemical activity at microplastic–water interfaces - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fck5CSEpva1pzSkJlWG85MVZVbllYUjA3UUlxSUZxYlRYU2dpdXFlZFVMOHhkOGRveEtWWGU3ZW1JMnFlSmdtazJHdzhpTHdwRmJTY1RCTDdSWXBkdXJj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T22:18:45+00:00"
-    },
-    {
-      "text": "Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T21:52:20+00:00"
-    },
-    {
-      "text": "Measles cases surge past 150 in Kentucky; big outbreak identified in one county - WLKY",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUZxWHF0UnU3TGtPeXFUMk9nZ2lhVUxjNV9vNXpOTU9PdXRSckhmNjhWVEt1UnJncFZPal92S25vRkU4Z1ZDb3hMZWxyY3NHcklJSlpnSm5LLUM2Tll6OTRBVDF4QlByWmRPa3pHaHZVYWoxTnJFUU1SenNjUjdSZjBmTHA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T21:44:00+00:00"
+      "time": "2026-10-14T23:57:26+00:00"
     }
   ]
 }
