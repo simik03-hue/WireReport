@@ -1,102 +1,64 @@
 {
-  "generated_at": "2026-10-14T21:44:48.973558+00:00",
+  "generated_at": "2026-10-15T00:08:54.326678+00:00",
   "lead": {
-    "text": "Justice Department faces legal threats after pushing California to match voter list with USB drive",
-    "url": "https://thehill.com/homenews/state-watch/6149368-voting-rights-group-warns-doj-citizenship-usb-drive/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-14T21:43:38+00:00",
+    "text": "The Brooklyn Toy Store at the Center of the Kelly Clarkson Online Frenzy",
+    "url": "https://www.nytimes.com/2026/10/14/nyregion/kelly-clarkson-art-of-play-feud.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-14T23:45:12+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Democrats ask for AI air traffic control tool pause until questions answered",
-      "url": "https://thehill.com/homenews/house/6149330-lawmakers-challenge-smart-ai-rollout/",
-      "source": "The Hill",
+      "text": "S&P 500 futures fall as traders await more U.S. economic data: Live updates",
+      "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-14T21:40:25+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-14T23:40:59+00:00"
     },
     {
-      "text": "An A.I. Manifesto to End All A.I. Manifestoes",
-      "url": "https://www.nytimes.com/2026/10/14/opinion/artificial-intelligence-ai-manifesto.html",
+      "text": "Iranian attacks sink two ships in Strait of Hormuz - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T23:30:55+00:00"
+    },
+    {
+      "text": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T21:37:30+00:00"
-    },
-    {
-      "text": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
-      "url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T21:30:57+00:00"
+      "time": "2026-10-14T23:30:02+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
-      "url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
+      "text": "There’s a New Great Pumpkin to Rule Them All",
+      "url": "https://www.nytimes.com/2026/10/14/us/rhode-island-giant-pumpkin-world-record.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T21:25:25+00:00"
+      "time": "2026-10-14T23:28:36+00:00"
     },
     {
-      "text": "SpaceX rocket launch causes stunning ‘jellyfish cloud’ visible off US east coast - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzg5WF95OVh5dmpfZ1RfTl95Q2w1eUd3dDQtVEhNZF9CS29NbDB1S21GTVQ0RmVWZVIwWHItaDVCM2ZDRVgyVnVtOEFGaHQ1em9vNHFmd2lWSlF2aG1NSjg4WFEtSWRfQkU0YWQ2MVVITmV6enhHZWoxT2FTQ2ZOWUR6MzZWOGwxWGxvbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T20:39:00+00:00"
-    },
-    {
-      "text": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
-      "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
+      "text": "Surprise Democratic Donor Blitzes Senate Races in Republican-Leaning States With Ads",
+      "url": "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T20:22:19+00:00"
+      "time": "2026-10-14T22:56:22+00:00"
     },
-    {
-      "text": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTkpha2hYakFfbkFlY3F2Znd0QUFIMmZTSkxUZ0xvbndxRTk2THBtNVNPU2I2dzdzRXZkZmtQZUoybnRWaUVaeEY2V2RjQjZ5c3dmU0ZXaG5TVEk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T20:09:05+00:00"
-    },
-    {
-      "text": "How exactly do microplastics damage the body? New research offers an answer - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFl1bFVxb2VySFBEQXJWOFJraTNJRFNBbkFTN2w5TTFuR0lSREltUUZ6VjAtNUN5bVU3TEl5R1BUV0t1QXpCWmx0YjIwckJsZ2gtMERqV1BPanhMNm1zeE1MU002OC1zazFiM2d3V3hPOTNqY3NyZTJEeEwzOU5MZWhYYTc3SFBxdmc5YjNuVU1yQmM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T19:19:50+00:00"
-    },
-    {
-      "text": "Diddy injured in prison fight with notorious drug kingpin: Reports - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBczN5alBLNy0xWEF6bWhad3JUVFBDQlZSaC1hYi1GREVzTjVneDNwRWo5QWdRYkEtQXpGNmR6bzU1QzFabmF5eF9XeXQ0bm94SW5uXzBCYk5RSFdWN0tKN0pBbGc1Y0lZX3Q4UTF1TFBlWVgyMFRfeklPLWVUUdIBgwFBVV95cUxORXRvSjFCTWJjM2JCQ09fa0ljZ3l4WWJSUk5CM2lpekFoVkJXTXVKNkllUW85elN4dVJvREFERW9yR3Joa0FLd3owUl9HN3RBY0oyS1dYcDJMVGcwbTVFZzhmejR4WUVPNklLMUNaOTgyckd4SjE2MkNZMW1FV0hXSEVFWQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T19:02:38+00:00"
-    }
-  ],
-  "col2": [
     {
       "text": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
       "url": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
@@ -104,43 +66,101 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T21:23:45+00:00"
+      "time": "2026-10-14T22:38:04+00:00"
     },
     {
-      "text": "DOJ demands California review voting rolls in 2 days, threatens legal action - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2lzdldrWU1TTnQyZXRhbkgweF9rMFVxM3EtT2x2eUd2QlpUbkxOOUt6RzFMYldQWFRWMWRseDFJOHNMVDJET1g4ZWhKYzB4ZjNqTDZVUTNRc093bllkcHJOYkRxU1AtblZUczRGWUxNTDdCdEhuT1dYREdaMnhDNERCQUZUam05cFlvX3VKYmxpTl9vX1BCWUZBY0lFdDlaU1B3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T20:31:00+00:00"
-    },
-    {
-      "text": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T20:19:18+00:00"
-    },
-    {
-      "text": "Fact-Checking Senate Debates in Georgia, Maine and Michigan",
-      "url": "https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html",
+      "text": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+      "url": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T20:06:04+00:00"
+      "time": "2026-10-14T22:20:50+00:00"
     },
     {
-      "text": "Week 6 NFL odds, picks, predictions: Computer model backs Patriots and Cardinals - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFRKZXpPNVZRQmZDanh3MWNocnV4dmtFWlh0ajQ1aGVCWEZQRGJsWWUzUkwzUnVGTmYzOEdiQ2pRMVV3ZmhxNzVJSloyWlZiNmpGTVVKdVExakRTcVQyREFtN2VDWGpNMjAxOGhhY2kwLVNXUUZaak4yZ21BQTBPdlpiVFRlZUNBZ3JzamxkSGlsOHNpbDdJYlI4T0c?oc=5",
+      "text": "CoreWeave Stock Sinks. The Credit Market Is Flashing a Warning Sign. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvd3VrcEJNdlpYclptNE9EVFdQOEFUV3NOel9JaXBqOThVVDRTSVZTMklhc2xLaVljZVZ5amJmeE5KMUhoYVpKYm5CSTBtMXhxNG5KMHgwTm1CNXVFaGllcE0ybEpYaTZiSjdmZnpDUU5WTkhVNllKaQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T19:19:17+00:00"
+      "time": "2026-10-14T22:11:00+00:00"
+    },
+    {
+      "text": "Shohei Ohtani dropped to sixth in Dodgers' lineup against Brewers in NLCS Game 3 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUxmTWN6bmUtUVJwYm9GdjN0WFBlc1lnT2VaTDZub0Z3dEg0bVFaTmlaRW5oRzBsYk1xQXdhdzRrV09TS0h4ck9QWVpCRmRXMjdkSlVoSTVKamtEcUItYUZvMVZqckQzUi1PWDJPVUZQcktPSTJmUHlOOUtaNzJyZEt4UkZSZWNmYk5iUnhnaG00THh4c0otMTNodGxFMTN5?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T21:46:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "The Trump Administration and the Shrinking Number of Women in Top Roles",
+      "url": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T23:24:52+00:00"
+    },
+    {
+      "text": "Florida man arrested on murder charge in ex-fiancée's 2011 disappearance - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWNnT0RuNnU4WThDck1WTmlBbVI5VWU1QUFicXFrWmlZRzM1YjFMTHVwQ25VLUVNSE8ydnRGaUZFejhJQXdmbkxLajdRc3dNTjV2UzNjaFJLWmk1ZXlyMmcxSE1VOFJNVy1HTFJUX1RPWHJuNVQtUGdaQnV2dkJzRjZLd0I3SldJN1JCdkZUMUlLeG82bzBMbnd2RGs5UUtKUkpmSmk4VngyZjZGUUJLY1NCeDVUU1pKRFBaTmhDTC0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T22:51:12+00:00"
+    },
+    {
+      "text": "Why So Many People Still Are Not Screened for Lung Cancer",
+      "url": "https://www.nytimes.com/2026/10/14/well/pope-lung-cancer-screening.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T22:33:50+00:00"
+    },
+    {
+      "text": "OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmtHYm1YMVdnQ3pLY2FuRGNMX3hCVzNhc2k1SVJLa1VQQnJZanVFaTAxQlBpcjY1M21uc1R1WnhubTdibzVGeXhWcVpTeHJCb2hJLW5OaDZiSkVZU29NMmxtVWtvaGlBTGJTeDBpbzU2YnFvU2g5TkE5RERYM2JpakpsQXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-14T22:19:48+00:00"
+    },
+    {
+      "text": "The Plaza Hotel to Close for Yearslong Renovation in 2027",
+      "url": "https://www.nytimes.com/2026/10/14/nyregion/the-plaza-hotel-closes-temporarily-nyc.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T22:09:21+00:00"
+    },
+    {
+      "text": "Soaring Energy Prices Push Inflation Higher",
+      "url": "https://www.nytimes.com/2026/10/14/briefing/soaring-energy-prices-push-inflation-higher.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T21:44:53+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "U.S. Continues to Provide Intelligence to Ukraine, Officials Say",
+      "url": "https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-14T23:11:19+00:00"
     },
     {
       "text": "U.S. Is Sending Hundreds of Troops to Latin America",
@@ -149,63 +169,43 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T19:00:26+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T20:47:48+00:00"
+      "time": "2026-10-14T22:49:04+00:00"
     },
     {
-      "text": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHdxWXlmN2ZYWklDT2FlREFOVjhVN3VqWTNJX084YW0tVktrMVY4UTUxa3hMa2Y5M1BvZkRHdUhmSjE5LUNsbTJUSGQxZDJEdF9kaVB2T0l3T0RUSFZhTW9iODktOVZpMmpTMFN3ZXVRV2dfWXY5Vy1iM2FxSm0ySXN3?oc=5",
+      "text": "Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmxJYVNyVzk0TVpjbU9Ea3FOMndGeGE5Vk5felFlYTYtaTBNVGpmYlAzVFd4WVY2WDBYNGdtZ3Q4UTktN1BBbDJVX3ZyUUZINFZWMTFpNUZGcjFHdk11ZEljQ0laME9qMkNhN01sajRVU29DUUQ2c2l3SG5HR203Z2pyZTdKTmJtQmJPZHY1NDA2MXBIVGtJ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T20:25:09+00:00"
+      "time": "2026-10-14T22:22:00+00:00"
     },
     {
-      "text": "'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market acting 'irrationally' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUVycnpSdEl3N1l6b1k4R2FXSTJHcW1Sa2hSbFJMWThxOXg5OVFjSzNLcEpiSVVObktpdVBSZkRjYU81b0Y4bTdXaTZFejhMU0Rfb1dxeTBPRW9jd0FGMnJPbTlSSHF1MFNPamlLQndFSVJaSkdZSkpXY2w0RzZjSmVwYm1tdjZ3R2tLblRkdzBEaUZ6UG9IM2x0U3hKOGowUEh1UXV0YjJJeDZRNjYySzlDcUJ1cE5DejBVVDlkOU1MdFVPRGR0V1Fsd1QwUGdzWXBrVG1VVzZBYmQ4?oc=5",
+      "text": "Intrinsic physicochemical activity at microplastic–water interfaces - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fck5CSEpva1pzSkJlWG85MVZVbllYUjA3UUlxSUZxYlRYU2dpdXFlZFVMOHhkOGRveEtWWGU3ZW1JMnFlSmdtazJHdzhpTHdwRmJTY1RCTDdSWXBkdXJj?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T20:09:47+00:00"
+      "time": "2026-10-14T22:18:45+00:00"
     },
     {
-      "text": "Sally Rooney’s Books Pulled in U.K. Over Her Support of Pro-Palestinian Group",
+      "text": "Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action",
       "url": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-14T19:45:59+00:00"
+      "time": "2026-10-14T21:52:20+00:00"
     },
     {
-      "text": "Feds seized Rep. Ilhan Omar’s phone, subpoenaed family members in immigration status probe - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc3JLbHpQdmhZY2ZyY3RpZlJIS1k4aXdkZDZEWGxhTzRMVFpUY1A0ajZvT3E2bUR3RFROTnh1SjZaTGxDNzJqcC1aQ1c3dG44TEdTLUNzWDd2V0oyUjBIY1hWWFgzSk1XQzNUaTctQ3VxTzNTdnRmcXdPNk00VUZCaEpKbzc4SWJuYkxKRjVYUEI2Rl9qaW04Y3g0Mk91UktqLVlZLVdseEUwRTRxUVdXV0pRUGZJSXlCRXM2bEhUbzRBUmkydWZ0NHBRSkhwTFFy?oc=5",
+      "text": "Measles cases surge past 150 in Kentucky; big outbreak identified in one county - WLKY",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUZxWHF0UnU3TGtPeXFUMk9nZ2lhVUxjNV9vNXpOTU9PdXRSckhmNjhWVEt1UnJncFZPal92S25vRkU4Z1ZDb3hMZWxyY3NHcklJSlpnSm5LLUM2Tll6OTRBVDF4QlByWmRPa3pHaHZVYWoxTnJFUU1SenNjUjdSZjBmTHA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T19:10:16+00:00"
-    },
-    {
-      "text": "Pope Leo’s cancer diagnosis brings uncertainty to the Vatican - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFUwaDRkZjlVWjFUS3hrbHBYeHBEQlAwQmlWbmFCdVBNTFVkamlkb1JMZGtxMk1paFNOMkZMeTR4Vy12QTFYejUzVTM5X2xMZUJYZkpyaGdIZU9HMmtMNVVNaDZXeFNvM0VxQjdUMlRoWkQxamJWUjdmeWcxakp2NGQ3azVmUW04LUpWNG85eFRLUmxZRXYzQV9DajMyelQtWGhEaA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-14T18:55:36+00:00"
+      "time": "2026-10-14T21:44:00+00:00"
     }
   ]
 }
