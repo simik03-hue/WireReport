@@ -1,63 +1,90 @@
 {
-  "generated_at": "2026-10-16T04:42:24.111878+00:00",
+  "generated_at": "2026-10-16T09:19:51.465711+00:00",
   "lead": {
-    "text": "Trump’s Democracy-for-Diesel Deal Shames Us All",
-    "url": "https://www.nytimes.com/2026/10/15/opinion/trump-russia-oil-putin.html",
+    "text": "Trump’s Attempt to Deport Ilhan Omar Is Another Leap Toward the Abyss",
+    "url": "https://www.nytimes.com/2026/10/16/opinion/ilhan-omar-deportation-trump.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-10-16T04:30:00+00:00",
+    "time": "2026-10-16T09:04:40+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-16T04:29:27+00:00"
-    },
-    {
-      "text": "S&P 500 futures are little changed as index heads for losing week: Live updates",
-      "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-16T04:18:33+00:00"
-    },
-    {
-      "text": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
-      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-16T04:08:27+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "The Sexual Abuse Crisis in Paris’s Public Schools",
-      "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+      "text": "This Texas Region Flipped for Trump. Will It Stay Red?",
+      "url": "https://www.nytimes.com/2026/10/16/opinion/texas-border-voters-midterms-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-16T04:01:07+00:00"
+      "time": "2026-10-16T09:02:17+00:00"
     },
     {
-      "text": "Who's to blame for Dodgers' shocking NLCS loss vs. Brewers? Five places to point fingers - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0FOUkhSb24wZU5PLXJTU01FdmZRaVAtZEdWN1Z3RXNRbHA2M3NMQmxTalB5Nm1jUWxrNnVnSUdiODVGdjQ4SHlGbGd4R0YyTlZRS1NOX0VKUGtsRERvSHg2UXNWNUY5Wk5GbnlTakg1LVpvVGRiT2JmVGw1ZUpIdlUtR2JvWnBxTHpHM29ab0Y?oc=5",
+      "text": "Why some Gen Z voters who backed Trump now regret their decision",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-10-16T09:00:00+00:00"
+    },
+    {
+      "text": "Do Americans own the president's papers? Appeals court to weigh in",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-10-16T09:00:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Teen shooter kills 3 children, teacher in Oregon elementary school before being shot by bystander - CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56TDBxdnR3ZVZaNk96U3ZOelhDbk5mb0pUdnpHZHNxYXlSQWxlOUlDcUg1ekhZc0hvOXV3aUZ0WE9EdnJaN09FTU5NbnJsODdtM1YtNmgtUGh3LTRLOG9NS2QxSXZMVGpORFFZMnJYdWs3SHFEUC1rUkswdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-16T03:38:00+00:00"
+      "time": "2026-10-16T08:35:00+00:00"
+    },
+    {
+      "text": "Warsh Vows Price Stability as A.I. Delivers ‘Shock’ to Economy",
+      "url": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-16T07:41:36+00:00"
+    },
+    {
+      "text": "Trump sues California to prevent counting 20,000 voters' ballots - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGNhY25NcDRWSDBLSHBaMVBjczhISW5aQmZwWnBja0VhS2dMdkhwSkRmYlNLSmk5X0M4a3JwelFwV1A1eUNQSUVxOWYwVmRQMnhERW1jMExqVlBab3dIbWUyVU1iRHZLS0E0TUtlWnJLMl9LbGp6VXFaT0JxaXFwZkV3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-16T06:06:47+00:00"
+    },
+    {
+      "text": "Elon Musk Spends Heavily to Back Ken Paxton’s Senate Bid in Texas",
+      "url": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-16T04:51:17+00:00"
+    },
+    {
+      "text": "El Niño Threatens Global Sugar Supply",
+      "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-16T04:00:14+00:00"
     },
     {
       "text": "Brewers sweep Dodgers to reach World Series for first time since 1982 - NBC News",
@@ -67,44 +94,100 @@
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
       "time": "2026-10-16T03:08:00+00:00"
-    },
-    {
-      "text": "Katie Zacharia Admits Failing Bar, but Defends Calling Herself a Lawyer",
-      "url": "https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-16T02:17:05+00:00"
-    },
-    {
-      "text": "Why Did Netflix Boot Bela Bajaria? - Variety",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzNlelJjVncyOTM1c01JVEVKZTRMOXVVSnJ4bGR2Q0xoY2F6V0M0MW9PVl90NHRDWm0wcTlBamlYRWJSd01IdzN3QWJlQlI1TW5VbkRvRFNMYTItRTVYaDlhRUZoSGVoazNYVEZTdkZmVThneEJRS3U3OUZRWDFyV0hqSHYwZWZVSXItbU5n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-16T01:43:00+00:00"
-    },
-    {
-      "text": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
-      "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-16T01:02:09+00:00"
     }
   ],
   "col2": [
     {
-      "text": "El Niño Threatens Global Sugar Supply",
-      "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+      "text": "The Sexual Abuse Crisis in Paris’s Public Schools",
+      "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-16T04:00:14+00:00"
+      "time": "2026-10-16T08:22:08+00:00"
+    },
+    {
+      "text": "Fish, Oil and Corruption: 6 Takeaways From Alaska’s Senate Debate",
+      "url": "https://www.nytimes.com/2026/10/16/us/politics/alaska-senate-debate-peltola-sullivan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-16T07:28:02+00:00"
+    },
+    {
+      "text": "Why Bad News in the Bond Market May Be Good News for Investors",
+      "url": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-16T05:07:20+00:00"
+    },
+    {
+      "text": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-16T04:08:27+00:00"
+    },
+    {
+      "text": "At High-Powered Dinner, Lots of Love for Tisch, Less for Mayor",
+      "url": "https://www.nytimes.com/2026/10/15/nyregion/tisch-mamdani-alfred-e-smith-dinner.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-16T03:53:43+00:00"
+    },
+    {
+      "text": "5 Takeaways From the Senate Debate in Maine",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-16T03:05:19+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "'Well, it worked': Elon Musk unveils new Tesla Roadster that can fly - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnNOZmlaWkd4S1ZVaU10cjlkRUduODVTbElEemg3a1ZlZndPNktVMy1WTTY0YThQNzNuZEtzU3lMNUNZaThoeW5zT3p6ZEdsYkxVUGlMVnowSUYwdWhUby10YVFWc1FyLWEwekVrT3IwSWljbnN5UmR1Y29tX0xrT19VQXFkdXM0TkZBa2ZyYThubWNBVmdxYVR0Mzk5Yk1SQVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-16T07:47:52+00:00"
+    },
+    {
+      "text": "Dodgers tip cap to Brewers as title reign ends in NLCS sweep - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpLbHdQc3hCaUVmRi1ZNDJyano0LS1qaTRUSzU5V1Zaa1dIb21aU1VsYUI0dGVJVzQwNXF6amQ0Z1hlQi1CSlhhMkJnTzUwRlFQMkNUSEVTemlMLXcxamI1TEFObkVoc0tLOWlHcnBmdFp1YnlNU1J4M05CTTRxTnUyWDlzazYwUGdTSkN2Mlp2X25PVEFwdldWNms?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-16T06:58:58+00:00"
+    },
+    {
+      "text": "Katie Zacharia confirms she didn’t pass the bar exam - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUW1SMjNXbi15QmZPZzMtVXUzQmVKelVralo2N2ZIaXBDczJHMTc0MjRlalJfVkZoWkQ5YmJtNjFZRTM5aV9rallkd0R0SXpIWUxpOHlCX0dYRkZZa1lOc2c4aEFjckhJTGNkNlk2bnh6bnhxbFZ0VlhKbGNrVWFtRzlRckxWQXRiXzlfTVg5YXI1WkNtTGM2QmNRUHhSdWpzb2RFUkNJRDRiYXZzb2Z2T0hiWGo2Vm1kdU1wZFgyaEVKTGx2RFJnVW1xVzNWQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-16T05:00:00+00:00"
+    },
+    {
+      "text": "Thursday Night Football: Broncos beat Seahawks 17-14 in overtime - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFB6MkpLaVhJY2NKWFZVSVMwVF85NEVJLVp6bFp3czNFMHFaZUFacV9KM3RmYnljWFdPSjI3ZFNkS2EyNWdDaEl1X2l6SjhHMGpmMm5BVnNqODJnTFdyY1l6cHNhZmNpVGNOeUxibGI1OTVlM2JqYVg3Z0IzR1JXV00xYTBkWWlsMEhlQlVBcGhoVFdEWFgycW41ZnJmRjlWZzNIQlprMngzc1lieFdEWkZqYzlSMnZGeGE3ZDVsUUxGY0k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-16T04:00:28+00:00"
     },
     {
       "text": "In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country",
@@ -116,96 +199,13 @@
       "time": "2026-10-16T03:16:51+00:00"
     },
     {
-      "text": "5 Takeaways From the Senate Debate in Maine",
-      "url": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-16T03:05:19+00:00"
-    },
-    {
-      "text": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
-      "url": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-16T01:55:49+00:00"
-    },
-    {
-      "text": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTW82d0tNak54YmxNWWhTV1RMNTBtOWZXbjY4RFZCRmhoYTNmODRKaFAwTHZ2a29UN3hveE1KalV5NHVaSlBySmtJZmJCRFctdkQySkIyd1hqbk1md0hScndMaDd2TE40ekRsU3NmalJLTmlNbmRlcVBJV2tTcXg1UGpTbXBrdWllLVFiN211MmdvZw?oc=5",
+      "text": "At least 30 children killed in Pakistan school roof collapse - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0RUVDEwSW03NVo4Tlo0bkNwYl9mR1BrVU5aR3FCWjhqSGlJY0h3TUxYTWd6MzZZTWxlT0xnQTNUVXdUSG5ldmJ3X2xXQklhTUdSMFFCdEI5eVJZYXRmQUlSNTlab3B5VVpkT1pqQnRwbUM0d2I4QkFxZThQdHVydG41THo4ci0zc0Jqc05xQUlQNDJBQVVrdWQzTnliRjA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-16T01:28:00+00:00"
-    },
-    {
-      "text": "Oops, Apple's Website Just Hinted at iPad Mini 8 - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91X2JaSlNUaUNyT0pGYWMzXzVxQmIyN2JqMXdwekhxNnVDay05SHRZRVhVWW5SZ1hwMG9EbjRqR0diSjVYV2VadU5iSHZxMm42VU1LYWxGZWR0MEhnM3RqU2RpSXNfY3ZjbFBDekRTZWpSclpoOWVCVC1Jb0RWdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-16T00:27:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "At High-Powered Dinner, Lots of Love for Tisch, Less for Mayor",
-      "url": "https://www.nytimes.com/2026/10/15/nyregion/tisch-mamdani-alfred-e-smith-dinner.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-16T03:53:43+00:00"
-    },
-    {
-      "text": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-16T03:11:00+00:00"
-    },
-    {
-      "text": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
-      "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-16T02:22:17+00:00"
-    },
-    {
-      "text": "Trump cancels Hegseth’s plan to live-stream Fort Hood shooter’s execution - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0ZORHZZWGZOckxJMEEycklIZk1vaUgxNmNsUGZ5dVlIMXV3R1RGU3dWVnk3U3RIR0FDMU9OdmE3VWUwbGs5Ny0yZE5CWENHNUdHQlNXeGV3V2tPbDl2Q2E3Qi1hVE9yWjhMT0ZpdUc4dFY4anBDeDZqdVZMSzdFSjhVX0lIN1JLRE5GY1RWQjhfYnNxajNVbnVNVnhsV282M0dyZ19NYmpDT0d2OTllS0ZZNWlzWTc2Y2MzQTVUbjBLQUdYaC1rbQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-16T01:47:45+00:00"
-    },
-    {
-      "text": "Trump names scapegoats as Republicans sweat in Texas - Axios",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xV0JXWWRwbXd5R3pvd1VFX2NQQmh6RXZNSlduaHRrSUNrTlpVUHRtNXNlcUZtcHVSckgzMDQxSjNjNFVOTk5LWGVrNnJWZmZvOXZmalAyYUU1TndrdFd5dTE1bFhibUJNOXJSUGR5OGJCWXh5TGtQT1Z4eUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-16T01:08:47+00:00"
-    },
-    {
-      "text": "Houthi Missiles Strike Government Headquarters in Yemen - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWFDdHFfLVg4dEdlTkhlN2NxQ3lnbEZvX3hRQ2FUU2ktTzFfQnFpd001ZzJMU01tcjNpaThxVGI2VFBLLV8xQTFfNFQzZHE4ZWU1OGdRV25rYU5uanhVblVfN2FFZ0JLeXljTC1qRUl5eV9MZ3JYQ3lkbFd4cE9TVEdwODhobzZB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-16T00:14:38+00:00"
+      "time": "2026-10-16T02:50:33+00:00"
     }
   ]
 }
