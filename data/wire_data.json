@@ -1,54 +1,202 @@
 {
-  "generated_at": "2026-10-18T13:54:11.214293+00:00",
+  "generated_at": "2026-10-18T17:13:38.525077+00:00",
   "lead": {
-    "text": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-    "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-10-18T13:52:24+00:00",
+    "text": "The Man Who Taught Us How to Pay Attention",
+    "url": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-18T17:09:09+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "France in Shock After Protests Devolve Into Riots",
+      "text": "We must fix our broken prison system",
+      "url": "https://thehill.com/opinion/criminal-justice/6155359-us-recidivism-reform-first-step-act/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-18T17:00:00+00:00"
+    },
+    {
+      "text": "Bessent says Zelensky 'should be careful' with 'reckless' comments that US slowed down Starlink",
+      "url": "https://thehill.com/policy/defense/6156614-bessent-warns-zelensky-starlink/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-18T16:48:46+00:00"
+    },
+    {
+      "text": "Pepsi was a small town’s biggest employer. Layoffs left it blindsided. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanBhTU1rMy00V3JjVl9fVUhlWGJGUlJLT1VfSnF1MDN5UG5Db1p5TkNVUWs3M01NOTBnMlJvdloxTy1ZYzdiZ2ZCRTdCMVJUbloxU2M1Vm9DOHB2Rjlwb25QUERwQzk0VVhZZ2xuWG9CZkM2RTRhNWFyQnUyZWlXOVhmbkN6QTc3X0VoZjZEdVV2ZnhEY2dQc0RuWXpFM1plSTNyQUVyU0ZueVIxT19qZFpFMA?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-10-18T16:46:26+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+      "url": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T16:29:44+00:00"
+    },
+    {
+      "text": "Trump endorses Netanyahu in Israeli election - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T16:10:37+00:00"
+    },
+    {
+      "text": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T15:45:49+00:00"
+    },
+    {
+      "text": "Apple Reveals iPhone Duo's Battery Capacity - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OeV9oSTA4cm5GaGVzdjF2RHpkN25Qcld1amV4WmhjaXk5SHR4UFV5ZkFlN0tkdVdPdW9HTUVnN1p6b05mWXg5WWVEYkZaWXpBMHBzSndyZmpDTnNEalQzcnFvSGdwVEhveTdQbk5lZnEyT0E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T15:06:57+00:00"
+    },
+    {
+      "text": "Eric Dane Daughter Saved Him from Drowning During ALS Battle, Revealed in Posthumous Book - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlRzLWFqeENvVFBtc05ZYmdFeWhveWlOWFVnVjJBSzhRbmRnMW1OeDRJZy1SeDFNY0RuQUNzV09jdVlwS3dpNUx2eEJ4d2htcTQyaUdqbG52QzYxZElwQ0M3RnV5czdKdzF1aFFWVzdaa0hRdXRIbEdlSHlkQTI2U09n?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T14:35:37+00:00"
+    },
+    {
+      "text": "4 red flags – and 1 truth – amid the peptide hype - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHI2THBQNThoX1VDdFE5azJwYXN0Q1ByQU14TGRhOHZoR2xrenVPOUNHbFJ1MWM2aU8teWdsOXgwV0FtQTlyem1LWUNtWS15RHhlUS1oSDhhWEh5X2lmUFBUTDFEVjV5ZG5tczdvQUt3TFlxbXItdlhuS3JNekZJeFdRcmdZTzA4TE84Q1RMNlNIQnlRYW1QTGRvOG1SaU0ydVFwYTdYdUxhWkNvWEE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T14:15:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
+      "url": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T16:29:22+00:00"
+    },
+    {
+      "text": "Caleb Williams officially active for the Bears on Sunday - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTlsOEFNMHdyODBBdmt4V1NJamltYU1URnk3R3lsY0FvZ1cwY2lRV0x6NzBhcU8tZ2w5RVc3U1BEd01lSGxSUmE0cTN4T3RPOTR6RTZrWTJNaHNCQkdGNzhZLVVzMEtpUWIwWEkwYU45bnlmV0o3a2o0OThEMkRwc1RpMHgtZG5jTGZLWFFOQVp3VnhQUEdHc3F1cmk4SGF5dC1STlZmNkM5dXYzdWVtSF9zMUhQSVUwT1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T15:53:39+00:00"
+    },
+    {
+      "text": "How a Dominican Man Became an ICE Target Before the NYC Shooting",
+      "url": "https://www.nytimes.com/2026/10/18/nyregion/nyc-ice-shooting-oscar-belgal.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T15:20:06+00:00"
+    },
+    {
+      "text": "Several dead or injured in major fire at Canada military base - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWHRGVC1QUWJZNHBZTl9jR3FMWUZ4bXFxcjBrZzdvNlZqX2V0WWRpVTNHRUIzbmdwbVd2VkUzQnhCNFJ6RlBfdnhTb255UkpIbkVwcl9aaWNQa0k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T15:01:16+00:00"
+    },
+    {
+      "text": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXy12Z19Ua3JWOXpwdmtMWFdaaElhUVZMR2xZZGJrc2JsRmJKVGVHbFRfSXdrSHNNWDg2Q1pJTlpQNC1qNlZ3UE9Rb2o5MDNNY1dQSHFKdTZRdE9FMDc0VW5QN29MNXFueEdqbk9HcV93N2NfaHFmcHVBbVVzN2ctNDlUemVvYmN1VXFOZg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T14:33:37+00:00"
+    },
+    {
+      "text": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T13:47:43+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "2 dead, 11 hurt after truck strikes crowd at Kansas youth soccer game - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWE0cDdXbVU5XzdYSXFaMVNzTXZ2TC1KNndlSGFvcm5NamthVGFwb1ptSTVwTHNKd1drWmJsRHRMT2lYS0JpV0hSUVFpZVNSUDlmWGhrUUZwRjhaQzVuM2NhVVJlcDNYcU1NYUpTNmF1MFVfdmN5cXdDam1KNzNKaloySXBOM1hzSjk1OXpaWlRLOVlRdk1wLXU3NWN2eHUwZlRNaU5FRmxMTXNBQzdrSGdR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T16:23:00+00:00"
+    },
+    {
+      "text": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
       "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T13:45:01+00:00"
+      "time": "2026-10-18T15:48:40+00:00"
     },
     {
-      "text": "Dental floss is shedding potentially harmful chemicals - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUTNaVmpBR1pnSmI5UmNKZnVMRllLTVhjaS1NRzNzTzJsUTJWaXZFVDhPMjh0clpXMXEtSEhqT1BvQ3daMmY4b1VmS255RlRPaC1mOEV0R1ZVR1NsTTRKalVkZHlUcTBDN3M3WW5VWmpnNXJxTEE3dzZmQnZuNTVHcVRGbl85OUdqRjFjbVlVTEF2djdENFZEM2RNRjE2UzFWNC1sWFI1X2lhcER2OTZTalFvOVRsVkJyVXc?oc=5",
-      "source": "Google News Business",
-      "lean": "unrated",
-      "topic": "business",
-      "sourceNote": "Aggregated Google News Business topic feed.",
-      "time": "2026-10-18T13:32:55+00:00"
-    },
-    {
-      "text": "In Texas Senate race, Ted Cruz tries to push Ken Paxton across the finish line - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlZVGxKdW1mQzVPTzhTRzhNcmJlU3JaekkzeWJnRFdpNFIzT1AyOG13c3NtMlczUHZFUHllcG1SVUt4UjlJWlQwMEVxbTdPS1puX2pDelBUeUx3ZGFndTJ2eG41NWhWSExfX3lRNzZJYVIwbVM0R1ZwWmtDd25KM3BBMHZwVEc4bUpyRW5VdWRGNHRDall4X196RGJMbmxSQWloNjdyOWM5Z2VuMnN0ZlhDbUlRWUhBUmI0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T13:32:52+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
-      "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+      "text": "Why Are There Protests in France?",
+      "url": "https://www.nytimes.com/article/france-student-protests-why.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T13:25:50+00:00"
+      "time": "2026-10-18T15:15:49+00:00"
+    },
+    {
+      "text": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGxoemZ1SU5mT0NtVU56WWxPclZWWXZ3Vlc2TkpJOVlIaUw5T3luaDlkVVE0YlJqOXRTUmJ5anI3eHdqTEdJemtKRGtxUmNaN2U3Z21CWUQ0UEVLSUdZX3UtZVlFRzBQSHZmTWRQTFJtWmNrcHg2NDkxX1RBRy1BVkRMZEtnU3BfR0dYSWk3M01RZlowenZCT0QwZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T14:36:00+00:00"
+    },
+    {
+      "text": "Zelenskyy: Not right to 'compare me and Putin' - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzh4TFc4UkUweDIwb05YNWJZY1pQeEoxUUQ0b3NZTm93TFdIQTNZbnhyR3ZDaW9jbXVVak40N182S201NnNON0VGR0xnYlFrOUctZDAxd2dWRk1NN19oT3hQMEdmc2Z5WTU0UnNvMGZmNGxtTVJQd1N6LXFFRXppTUFObzdXYV9FT3c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T14:31:00+00:00"
     },
     {
       "text": "Japan to launch world-first mission to collect samples from Martian moon - The Guardian",
@@ -57,155 +205,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T12:18:00+00:00"
-    },
-    {
-      "text": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
-      "url": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T11:58:06+00:00"
-    },
-    {
-      "text": "I Teach at a Business School. It’s Time to Shut Them Down.",
-      "url": "https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T11:52:03+00:00"
-    },
-    {
-      "text": "France reels after ‘unprecedented’ violent riots - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3BIb2ljSzVqUmtCTzBxZHdqd3cwUFdnalJqU3RPNGZVSjZYMW52ZmpXYTZ5cTBXTlV6b05DcUh1aHl2blhDU2M2U1lONGR2RHJSdG1RSzlfWFlwMW9tbHNiQmwtY0U4RkdNVDhzNHFENG5nbnBGWnpKQnFuSjRBbnF0OU8?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T11:03:32+00:00"
-    },
-    {
-      "text": "A compassionate teacher and her young students: What we know about the victims of the Bend school shooting - CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hTGxXMFZaeWFWcUJSMlhHRmlGUGlPQzZJRE9uRlE1RFBob0VxTlg3S25XUTNRZUhNMkpVVmRCd2M0c3dGRl9TZEpHYV80RXh6UjRBWEVEMV9qMERJZllOU0pTaDVNd2tYdmlTd2h3RE9pdTFiM2VGQw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T10:30:44+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
-      "url": "https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T13:05:18+00:00"
-    },
-    {
-      "text": "5 Takeaways From The Times’s Re-Examination of the O.J. Simpson Case",
-      "url": "https://www.nytimes.com/2026/10/18/us/oj-simpson-case-takeaways.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T12:06:33+00:00"
-    },
-    {
-      "text": "Oil facilities hit in deadly overnight attack on St Petersburg - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aZHpqZ094WFBRcGU2MlVrc3U5RTRsX2ZXa1VzZjdUbGNrQmt0TkZTaHRPOUhPd1RzMXlrVHV1cDN3SE0wR3BiVjF0dWdJRXpTQVl4b1VhckJoZVk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T11:57:49+00:00"
-    },
-    {
-      "text": "Pope Leo welcomed back as he delivers Angelus prayer days after lung cancer surgery - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVNteUN2andocFh0cm1IeGNsTzVoTUJaSFVYZURkWl9INGgtdlM0OUI0RG5BTGZQM0duYkY3c0ZrbERGaDVWdFFYai1SU0x6YUpPaHJKMS1IQmkzM1Y5c1BwQkhNNU5BOEFTQ2k2Q1d0NS1mX0d0aFpQRGw1MDVKSGc5V2hVVjhSQUl2N1puNjlhdzFaeWlnRW9pQzg0Tm9ndEhjU3huNHdBeGPSAbABQVVfeXFMUGM2blpHczBLUjJ1RTIwWXR4bHN0OVN6eVhtRGotY1hTMzE3VWRPVVF6ZWFHWTM4eTdQeGRuOUZQWHo3R0tWQ0ozUmVmb3JaejRNMEY3MUZSRllZUEFBbTRTMm1JQUM3Z1JwS3pONFo5N2VMZGxlRE04YVc2SnRDbExVUE02cEZySDdxUTZwS25OY2lPNlZ2bnpyRWNmM0lKX0hyeGZpdndwY0pwYVRpTDg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T11:42:43+00:00"
-    },
-    {
-      "text": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHJQV0pDWVJrb2FhdVAwOG1pdmFsb01KaHBST3hmQmZCSGcwZVEwYUUtR0xIeWoya3ZYLW1jdnk5aE0yVmRnYllWTGJSUnZ0Z1Zwc2xDRXFEd0hvanhpMVM5MWhiWERhS2JQNW9Xc3ZFeFRXRzdMd3A3VFliTGxvdnZmRVJac1FVYlk0TjBzQ09GOEVKQ3doSlpUb2txU210dGxIZA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T11:00:00+00:00"
-    },
-    {
-      "text": "Congo confirms Ebola outbreak has spread to eighth province - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjVqWTdwRmJJenVaNWxPNGNIZ2Q3a0RuMVNCOVFyXzZYTjA0WW15OF9lR1pLUVlQamlndV91UVJWRnpjbDNERTQxdEJDb3R6Sm9NWTNrSkVRcjFGSXktd3RuZG14TmdDb1VicEl2RjVTMkRQUnlYYVhhVTdrU3duY3RfTnM3LU9SZndETG0xTWc4dk9SbEVObGVPRmwwSDNBWVRLUzhKZ19TZ0ZwWm5lcFRKcE1ob2JvYXBFYThkazdBeDA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T10:04:49+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
-      "url": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T12:20:44+00:00"
-    },
-    {
-      "text": "One word explains how Tennessee upset Alabama. Josh Heuepl says it out loud - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTjY0R0hiYmtZV0EwUm9sM3kzYUI3blJ5MWxGUUE2b245Q1plSG42ODY1dTh3X1FYSlFkREFwVWNOTGhBOEFjWVo0aXoxYTFfbDdodmpKMk40RHZSTzlzbzJXUHdGU3FFMkpVRGxmQ2ROVmVES2Z5QXFVSTZmQjRIMkJ4eUxYWEN1ZkV6SWoyTXRjeGN6aFN1M1dZbk9meEpSdndKcEV5WTJXdUw5SDhBOEJiRll6dFptdWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T12:02:00+00:00"
-    },
-    {
-      "text": "Major fire breaks out in Alberta after deadly incident at Canadian military base - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdFJGUGVNYmQ1ZlJFamV3NWRjMU5oUDVmcUJkVDBMcVNyeVotaGlwTlVRNEU1aFg1eUxHUnBKYmxGby1ZTmFEVjMyMmNMTmJEVi0xMFhwSmxCTEx5Um9PbWhTeFdoM2RVVk54OG9sellqWlRvejIxNGJWQ1pJSHgtTExUa05xWnZoUWVkMlFOREh2RnFSN0RHQmxvRHBUZW5GSEo0VTMwTENlWGs4VEg1M0xPdUltQ0lSZXBtRjBSeHZjWkJnT3VsS0Rn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T11:54:00+00:00"
-    },
-    {
-      "text": "O.J.’s Accomplice?",
-      "url": "https://www.nytimes.com/2026/10/18/briefing/ojs-accomplice.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T11:36:35+00:00"
-    },
-    {
-      "text": "Why Are There Protests in France?",
-      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T10:53:45+00:00"
-    },
-    {
-      "text": "College Football Rankings: Historic Upset-Filled Week 7 Flips Top 25 Upside Down - FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzdrR0FtZ01UamIydUtjeHBiaTlIUzlvZjlBWGJUb0JmR0I1STZ6a0NCZENtZjNpVlo2ZFR0OXZNdGdWVDhPcEh1eEdvS19kMFJxU1F0bFV2Skp1aXQ2ZjVuMlAxSHRpdjRZQWRKUjNZd1RDOEdJT0dYUGRiT0U4ajlqdS12dnh1WDZQQzIwUDFJRV95YmdxUlpDdEljUklWTlFlVGE1VU81d9IBqgFBVV95cUxNNnVQTVdFVjRKaVY5MHRSS2FReERjSFRWN1V6ZzItTjJRZDg1SGhiRGZzX3J0cEVTMk1Ba0QtaXJEa0VIZ0pxTFRZOW5aTEpPV3lyd2xvXzJHWTlDZ2dVcHdJVV95SUMzcXh5NE9SVU9JNjNsdWJLYkcxWHpHdFp4M0dTN2tKRVp3di1WWGd3UzRqRHBTZUJXUUlSSUVhZjNjTmFZNjJmMmNpZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T10:02:43+00:00"
+      "time": "2026-10-18T13:35:00+00:00"
     }
   ]
 }
