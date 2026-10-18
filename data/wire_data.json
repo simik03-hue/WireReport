@@ -1,46 +1,17 @@
 {
-  "generated_at": "2026-10-18T09:55:22.268486+00:00",
+  "generated_at": "2026-10-18T13:54:11.214293+00:00",
   "lead": {
-    "text": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
-    "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-10-18T09:53:00+00:00",
+    "text": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+    "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-10-18T13:52:24+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
-    {
-      "text": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-10-18T09:00:00+00:00"
-    },
-    {
-      "text": "Several dead or injured in major fire at Canada military base",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-18T08:52:41+00:00"
-    },
-    {
-      "text": "At Least 19 Dead After Stampede at Indian Religious Event - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOW00OC1EMEJnZ1hDYkMwaFNzYkw2WlBqcHpiN1NNWUZCOGZxZGpnR1BwSUtuYW15R1ZkX2llUEN1NFdNZ3BpSWI3bGtVc1JSd1VVT3V2ZWQ1aVA5bGtIOS00THNkN3JwWnd1WnRmaEF2NnNUVEJOcFF6emh3QmIyZUhPX2FtX0U?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-10-18T08:47:00+00:00"
-    }
-  ],
-  "col1": [
     {
       "text": "France in Shock After Protests Devolve Into Riots",
       "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
@@ -48,55 +19,37 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T08:44:26+00:00"
+      "time": "2026-10-18T13:45:01+00:00"
     },
     {
-      "text": "Major fire breaks out in Alberta after deadly incident at Canadian military base - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
+      "text": "Dental floss is shedding potentially harmful chemicals - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUTNaVmpBR1pnSmI5UmNKZnVMRllLTVhjaS1NRzNzTzJsUTJWaXZFVDhPMjh0clpXMXEtSEhqT1BvQ3daMmY4b1VmS255RlRPaC1mOEV0R1ZVR1NsTTRKalVkZHlUcTBDN3M3WW5VWmpnNXJxTEE3dzZmQnZuNTVHcVRGbl85OUdqRjFjbVlVTEF2djdENFZEM2RNRjE2UzFWNC1sWFI1X2lhcER2OTZTalFvOVRsVkJyVXc?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-10-18T13:32:55+00:00"
+    },
+    {
+      "text": "In Texas Senate race, Ted Cruz tries to push Ken Paxton across the finish line - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlZVGxKdW1mQzVPTzhTRzhNcmJlU3JaekkzeWJnRFdpNFIzT1AyOG13c3NtMlczUHZFUHllcG1SVUt4UjlJWlQwMEVxbTdPS1puX2pDelBUeUx3ZGFndTJ2eG41NWhWSExfX3lRNzZJYVIwbVM0R1ZwWmtDd25KM3BBMHZwVEc4bUpyRW5VdWRGNHRDall4X196RGJMbmxSQWloNjdyOWM5Z2VuMnN0ZlhDbUlRWUhBUmI0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T07:51:00+00:00"
-    },
-    {
-      "text": "College football scores, results: Auburn upsets Georgia, Florida takes down Texas, BYU knocks off Notre Dame during wild Week 7 - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNT0lKVl9iUTNaYW1tWGhtNG5RWkYzQWd6el9acDZOZkNGV1c5blA4YXZ2RHJyRUFwcUZfaW4yNlExS3k4cHBUNnlqZ3kzdmVoNmRyajNQaG42STRFcDhsNXZrLU9jOVFmRmlEdVVXcVd2YUh1bGlQQlhUQkdOQXBBQkJpeXhrUzJncVJvMmRQTmRVMTBFQWxkVkstRjloWjFsTVp5a2pGcXdxaEVIclF2OU51NFBURWZPN0syLW90cUE0dFIxU2k0eXBlbklsZ1paUGE4by11TFRhYm5NYXRMUWtHODRfMXgwby1KNjhrc0VySThLaFVmLWE0cUhUdnlpbV84?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T06:14:00+00:00"
-    },
-    {
-      "text": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
-      "url": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T05:42:51+00:00"
-    },
-    {
-      "text": "The Man Who Taught Us How to Pay Attention",
-      "url": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T04:01:05+00:00"
-    },
-    {
-      "text": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T03:38:00+00:00"
+      "time": "2026-10-18T13:32:52+00:00"
     }
   ],
-  "col2": [
+  "col1": [
+    {
+      "text": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+      "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T13:25:50+00:00"
+    },
     {
       "text": "Japan to launch world-first mission to collect samples from Martian moon - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSU1COWt3SGtqMW4zUFh1VVY0N1RWeGJlVjh3aFFfTkdPSV9KMC1sQVFRVzNuSWRsNzJRdkVQLWluci1UNUoxTU5qZVpoUHlwcmhWaU8wWnBSYXJ6aWpldE1acG9VRi1NT2tBZTY4T3FmNTJ1SS1iTWNyQ3RTaUc1Q2staEQ3elEtNHRUNS1KUQ?oc=5",
@@ -104,72 +57,16 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T08:12:00+00:00"
+      "time": "2026-10-18T12:18:00+00:00"
     },
     {
-      "text": "Truck drives through soccer field during game in Kansas, killing 2 and hospitalizing 11 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN21KT3N5VjVzVFVna0lUMTJSdUJXek83VmRmS3pzcEpST2gtXzVlMzJicjBQTnQ3Ym05cmhzSFpqNHFpWDNISnNFeFdrdERlWlkzb1lTaFlseWJPREVGeUpibV9iNkpLdklpY1llNjlyWHVZcDhyWDBMS3pHbXJta0hMOWJzQXZnVHhhUnVYX0toRDNkOFJucy1uaUVTRWY4Vlhj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T07:22:00+00:00"
-    },
-    {
-      "text": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibzBDeFpmYzZjSU9OQ09Fc1J5MFZKUG1tOUZmZWtJOEZZRzR1aGRZQzNaWHNsZ1ZzVzJJbnBvV2RtQ0VnblpoN2NaRHlIUndHRVh4N1paMXRiSk0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T05:56:20+00:00"
-    },
-    {
-      "text": "Horoscope for Sunday, 10/18/26 by Christopher Renstrom - SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUs3Z2VIbEtoVEFwUDdab1B6QlpWMW5IcXY2S2dkUFNLYjEwTnJtdXhwQng4aWRHMk8zeTJNMzJQOVp1OGxnUmNZdXFlZHZCdlRKTmhmd0FJNExOdGRGaXVYemhIZmZwSm9FN1owakU1MkJ4Y1hMMW02U1k3ZGVLRVZaUk5jWVYxTFdpXzNTTlNIT1psYlVjLUI3TnJIaWF0OVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T05:09:48+00:00"
-    },
-    {
-      "text": "European diplomats attacked in West Bank a day after beating of Post photographer - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVRQVkt2NVFCMG16ZmVhbmRvSTdsY2tLSlk5RTk1Mk5VbmdxSGI1TmNYOHRvWjNtay1Cc3otam10ckYzMjRsMmtvcmpQY0VJVm11b1h2Q0J6REpDUV9GM1ZMQjBrbElobDJjc2dTNGhTaHp1X0hRSVRHRko3OUE2Nkxnai00b0tBd0hMX1hCRGMtMTNZQ3N1YmhONC1naldZbXkyT2ppZUk1Z052SDRTaEdOc2plN1V1UnFKb3Bhdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T04:00:33+00:00"
-    },
-    {
-      "text": "Video: Mike Malott knocks out Joaquin Buckley with nasty knee to the face at UFC Edmonton - MMA Fighting",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1NBajZiblh6TjhfT21QOEdQT1YwYkdCOHlmY0JkQW9oeFpnSGRSX3g4ejdGTkVYcE1FdHRSdUVNeDFJMWNxczlJWml0VnJhYmRSNTZZeW5sS1dJYWlIMFJ1a3p3Skk1YzJ2VGNxUWx3TUEyYjNES19NcUhpVDhWMXo4N1dBQU1tLXRKWGZsdHI4ek9ROXB6QWpNOW1ubEFPZG1nLUhQWV9ld01UN0tXWlZGY1FTSFJUZDJVbXB5VmIteDROYXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T02:58:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
-      "url": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+      "text": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+      "url": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T08:04:51+00:00"
-    },
-    {
-      "text": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T07:07:00+00:00"
+      "time": "2026-10-18T11:58:06+00:00"
     },
     {
       "text": "I Teach at a Business School. It’s Time to Shut Them Down.",
@@ -178,34 +75,137 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T05:45:12+00:00"
+      "time": "2026-10-18T11:52:03+00:00"
     },
     {
-      "text": "UK police rule out probe into Palestine Action post by PM adviser’s wife - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1phN1pfRTVRRW9LRndtajV6X2RwOTBmQ2JWeGg4SHU3MUVuOEQ3a1FEU1U3aTNxejBQU2wwMFBjU3VjSkRLc1JwTlRLajRPdHZURjBKajl5WG9LemxJVzlocmZnakRoRWJuSXNVVHNjOWNKc1RlS3pLSWE4dmtZUnhmSm9CTkFzUFYyYkxlc2lvZjA3VXBHQjA3cVVCc2JQSWZzbVk5eHIwWm1EdjlXWEt5SdIBuAFBVV95cUxQeEs2R1diMjJYcVNfUlFaMGIzd2lFZkd6QjJJX1dqeHVvbDVUeG1VTXZGR2RXU25QRGFab1FaWXQxLUVSNFBYRjJvdU52b2ZQVU91cG45ZmwycnpLSGk2ZHJvZ0FmYWxJNEJ5NU9kbjRxenR3Ukk3RlJwNG1LbzcxcUdDbklZMV9mVWNCUzl1ZDVqLUYyTE1OLVZ3TVY3RTRaX05TM3J6aWxJSFNBSzktYkNsT3Y0OUlR?oc=5",
+      "text": "France reels after ‘unprecedented’ violent riots - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3BIb2ljSzVqUmtCTzBxZHdqd3cwUFdnalJqU3RPNGZVSjZYMW52ZmpXYTZ5cTBXTlV6b05DcUh1aHl2blhDU2M2U1lONGR2RHJSdG1RSzlfWFlwMW9tbHNiQmwtY0U4RkdNVDhzNHFENG5nbnBGWnpKQnFuSjRBbnF0OU8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T04:58:22+00:00"
+      "time": "2026-10-18T11:03:32+00:00"
     },
     {
-      "text": "Notre Dame gets screwed, twice, on \"final\" play at BYU - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWZRakNtLUxaSEpxTzBKY0tZQkRmNmpGZW5yWDNxSXNzOVZnandMNzZ5dm9VWEx5RHAxX0dmank3M1I5QTJXQkRfdklfOUlkamRzYlhpRkJQdUZKSjhRSHB2UnAxbmVPcDFzNFZwc2NQVlJ3QlZMRVlrSEJsc2pJbzc0ajJXTmxhck1lYkZLYVN1WWtkN3R1VDROSFF4dzBqY29pNEMwWkU3TlZJcXMwSENB?oc=5",
+      "text": "A compassionate teacher and her young students: What we know about the victims of the Bend school shooting - CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hTGxXMFZaeWFWcUJSMlhHRmlGUGlPQzZJRE9uRlE1RFBob0VxTlg3S25XUTNRZUhNMkpVVmRCd2M0c3dGRl9TZEpHYV80RXh6UjRBWEVEMV9qMERJZllOU0pTaDVNd2tYdmlTd2h3RE9pdTFiM2VGQw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T03:47:32+00:00"
+      "time": "2026-10-18T10:30:44+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
+      "url": "https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T13:05:18+00:00"
     },
     {
-      "text": "DNA from chewed gum links elusive Washington state murder suspect to two cold case killings - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnJ6VFhRdWRwd3JDcGREWnFUOTdrSHFSSGE5dlpjTDdIM1RUQkp4eG16U2hKd2REU3hDbnJoT0pVbXJVUjZMd0puTFhBVjJabFZTcS13eHZrbGlJdXk0NWo4MEZwSVpoWkl5RHV1c25pMEVSeTZ4SEI4ZjlGZVN1Q1Y5T0psa0wwdFlwcjFiSzY2SndJQjVqWjRSQUJxTDFOSHp3Q2RtZFRKQ3NFSVRGYkI2ZEYxVk1VT3ZCMFBn?oc=5",
+      "text": "5 Takeaways From The Times’s Re-Examination of the O.J. Simpson Case",
+      "url": "https://www.nytimes.com/2026/10/18/us/oj-simpson-case-takeaways.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T12:06:33+00:00"
+    },
+    {
+      "text": "Oil facilities hit in deadly overnight attack on St Petersburg - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aZHpqZ094WFBRcGU2MlVrc3U5RTRsX2ZXa1VzZjdUbGNrQmt0TkZTaHRPOUhPd1RzMXlrVHV1cDN3SE0wR3BiVjF0dWdJRXpTQVl4b1VhckJoZVk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T02:57:00+00:00"
+      "time": "2026-10-18T11:57:49+00:00"
+    },
+    {
+      "text": "Pope Leo welcomed back as he delivers Angelus prayer days after lung cancer surgery - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVNteUN2andocFh0cm1IeGNsTzVoTUJaSFVYZURkWl9INGgtdlM0OUI0RG5BTGZQM0duYkY3c0ZrbERGaDVWdFFYai1SU0x6YUpPaHJKMS1IQmkzM1Y5c1BwQkhNNU5BOEFTQ2k2Q1d0NS1mX0d0aFpQRGw1MDVKSGc5V2hVVjhSQUl2N1puNjlhdzFaeWlnRW9pQzg0Tm9ndEhjU3huNHdBeGPSAbABQVVfeXFMUGM2blpHczBLUjJ1RTIwWXR4bHN0OVN6eVhtRGotY1hTMzE3VWRPVVF6ZWFHWTM4eTdQeGRuOUZQWHo3R0tWQ0ozUmVmb3JaejRNMEY3MUZSRllZUEFBbTRTMm1JQUM3Z1JwS3pONFo5N2VMZGxlRE04YVc2SnRDbExVUE02cEZySDdxUTZwS25OY2lPNlZ2bnpyRWNmM0lKX0hyeGZpdndwY0pwYVRpTDg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T11:42:43+00:00"
+    },
+    {
+      "text": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHJQV0pDWVJrb2FhdVAwOG1pdmFsb01KaHBST3hmQmZCSGcwZVEwYUUtR0xIeWoya3ZYLW1jdnk5aE0yVmRnYllWTGJSUnZ0Z1Zwc2xDRXFEd0hvanhpMVM5MWhiWERhS2JQNW9Xc3ZFeFRXRzdMd3A3VFliTGxvdnZmRVJac1FVYlk0TjBzQ09GOEVKQ3doSlpUb2txU210dGxIZA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T11:00:00+00:00"
+    },
+    {
+      "text": "Congo confirms Ebola outbreak has spread to eighth province - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjVqWTdwRmJJenVaNWxPNGNIZ2Q3a0RuMVNCOVFyXzZYTjA0WW15OF9lR1pLUVlQamlndV91UVJWRnpjbDNERTQxdEJDb3R6Sm9NWTNrSkVRcjFGSXktd3RuZG14TmdDb1VicEl2RjVTMkRQUnlYYVhhVTdrU3duY3RfTnM3LU9SZndETG0xTWc4dk9SbEVObGVPRmwwSDNBWVRLUzhKZ19TZ0ZwWm5lcFRKcE1ob2JvYXBFYThkazdBeDA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T10:04:49+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
+      "url": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T12:20:44+00:00"
+    },
+    {
+      "text": "One word explains how Tennessee upset Alabama. Josh Heuepl says it out loud - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTjY0R0hiYmtZV0EwUm9sM3kzYUI3blJ5MWxGUUE2b245Q1plSG42ODY1dTh3X1FYSlFkREFwVWNOTGhBOEFjWVo0aXoxYTFfbDdodmpKMk40RHZSTzlzbzJXUHdGU3FFMkpVRGxmQ2ROVmVES2Z5QXFVSTZmQjRIMkJ4eUxYWEN1ZkV6SWoyTXRjeGN6aFN1M1dZbk9meEpSdndKcEV5WTJXdUw5SDhBOEJiRll6dFptdWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T12:02:00+00:00"
+    },
+    {
+      "text": "Major fire breaks out in Alberta after deadly incident at Canadian military base - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdFJGUGVNYmQ1ZlJFamV3NWRjMU5oUDVmcUJkVDBMcVNyeVotaGlwTlVRNEU1aFg1eUxHUnBKYmxGby1ZTmFEVjMyMmNMTmJEVi0xMFhwSmxCTEx5Um9PbWhTeFdoM2RVVk54OG9sellqWlRvejIxNGJWQ1pJSHgtTExUa05xWnZoUWVkMlFOREh2RnFSN0RHQmxvRHBUZW5GSEo0VTMwTENlWGs4VEg1M0xPdUltQ0lSZXBtRjBSeHZjWkJnT3VsS0Rn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T11:54:00+00:00"
+    },
+    {
+      "text": "O.J.’s Accomplice?",
+      "url": "https://www.nytimes.com/2026/10/18/briefing/ojs-accomplice.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T11:36:35+00:00"
+    },
+    {
+      "text": "Why Are There Protests in France?",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T10:53:45+00:00"
+    },
+    {
+      "text": "College Football Rankings: Historic Upset-Filled Week 7 Flips Top 25 Upside Down - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzdrR0FtZ01UamIydUtjeHBiaTlIUzlvZjlBWGJUb0JmR0I1STZ6a0NCZENtZjNpVlo2ZFR0OXZNdGdWVDhPcEh1eEdvS19kMFJxU1F0bFV2Skp1aXQ2ZjVuMlAxSHRpdjRZQWRKUjNZd1RDOEdJT0dYUGRiT0U4ajlqdS12dnh1WDZQQzIwUDFJRV95YmdxUlpDdEljUklWTlFlVGE1VU81d9IBqgFBVV95cUxNNnVQTVdFVjRKaVY5MHRSS2FReERjSFRWN1V6ZzItTjJRZDg1SGhiRGZzX3J0cEVTMk1Ba0QtaXJEa0VIZ0pxTFRZOW5aTEpPV3lyd2xvXzJHWTlDZ2dVcHdJVV95SUMzcXh5NE9SVU9JNjNsdWJLYkcxWHpHdFp4M0dTN2tKRVp3di1WWGd3UzRqRHBTZUJXUUlSSUVhZjNjTmFZNjJmMmNpZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T10:02:43+00:00"
     }
   ]
 }
