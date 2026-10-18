@@ -1,35 +1,46 @@
 {
-  "generated_at": "2026-10-18T19:28:26.005735+00:00",
+  "generated_at": "2026-10-18T21:47:10.044732+00:00",
   "lead": {
-    "text": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
-    "url": "https://www.cnbc.com/2026/10/18/macron-tv-speech-protests-riots.html",
-    "source": "CNBC",
+    "text": "What we know so far about deadly fire at Canadian military base",
+    "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-10-18T19:16:12+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-10-18T21:37:56+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Week 6 NFL schedule, scores, live updates: Cam Skattebo doesn't have single touch in first half amid fumble struggles; Caleb Williams shines in return from hamstring injury - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmlPbEdCRFFLS3R3YnM3dklmam0xNnFRUGtZYnRaazBRanI1S2xvZG9PcHBKR2c1VkNfUGpObl8tdGVadXFQdjVqak1zclJiTlNzeExQZ1ZZNFkwY1lIbFJ4TWZhT3dDc1FsTkdURThfeEhXNldLTW9WR0ViM1ZldFRockp6TE5BWmJZU3kyZmJSNkx5eWZTa1Y3OVd0WnJiMUY4ZENsMHY0Q2UtdHZwMTVqckZDN3djbzRfcnpOR2RYMG8?oc=5",
+      "text": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
+      "url": "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T21:25:35+00:00"
+    },
+    {
+      "text": "2026 Midterm Elections: Trump Rallies Republicans - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T19:01:17+00:00"
+      "time": "2026-10-18T21:22:45+00:00"
     },
     {
-      "text": "Bessent says dropping oil prices before 2026 ends 'will depend' on Iran conflict",
-      "url": "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/",
+      "text": "El-Sayed criticizes implications of 'Muslim Brotherhood' question",
+      "url": "https://thehill.com/homenews/campaign/6156871-abdul-el-sayed-muslim-brotherhood-response/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-18T18:58:55+00:00"
-    },
+      "time": "2026-10-18T21:20:57+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
       "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
@@ -37,18 +48,128 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T18:55:50+00:00"
+      "time": "2026-10-18T21:04:41+00:00"
+    },
+    {
+      "text": "Week 6 NFL schedule, scores, live updates: Cam Skattebo doesn't have single touch in first half amid fumble struggles; Caleb Williams shines in return from hamstring injury - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmlPbEdCRFFLS3R3YnM3dklmam0xNnFRUGtZYnRaazBRanI1S2xvZG9PcHBKR2c1VkNfUGpObl8tdGVadXFQdjVqak1zclJiTlNzeExQZ1ZZNFkwY1lIbFJ4TWZhT3dDc1FsTkdURThfeEhXNldLTW9WR0ViM1ZldFRockp6TE5BWmJZU3kyZmJSNkx5eWZTa1Y3OVd0WnJiMUY4ZENsMHY0Q2UtdHZwMTVqckZDN3djbzRfcnpOR2RYMG8?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T20:55:22+00:00"
+    },
+    {
+      "text": "Congo’s fast-moving Ebola outbreak spreads to eighth province - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDFUV0ljVE9zeHVqYXBscDdFZUkyUDdKcndSelI3TTdiQ0NXeTQybDV6TlVSbndla21ac0xVVGwzRFhYYkRiUk15Wm1ucmdzZnlMYXQyd2pSdk5qekgtSVNqN2FWaW54eUxzNEs4TGtQZUNtc0JFeVBmTXJOQWZoMWNUWm41YkI3blE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T19:50:00+00:00"
+    },
+    {
+      "text": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T19:40:28+00:00"
+    },
+    {
+      "text": "Travis Hunter stars in Jaguars' loss, is 1st with INT and TD catch since 2002 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDJLLUJfb0puNmxsSDA5VTVQX2dEdkJ3bFlkTTBZX2R2Nm1CU1BpdjlWbkNxRmdTMDNoNno3Q2J0V3k5cVVwMkQ2c3ZvNnZ5Wnd0UjB5c1E2OTl6Rnp3ZXZQMGJ0RkROVWhKYXZDTVdHYVByc0I1Tmc3SlI4dnJ1dFU4VTJhQ1RvM0ktVnRIaVUtTU5zTDFaLQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T19:21:00+00:00"
+    },
+    {
+      "text": "Trump announces plans to renovate D.C. golf course amid legal battle - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFlxdVVXXzQxOW4tTzByYW9Vdkh4Sm45UkRCdDVHaTRodkJyNHRzb2w5TVY0UVd4bDl2eGpIOWdKcUZZM2lzMjZVLXBhb3pEd1dsYWpWMmxRRi1iMFpFbVhaQkN0cVBqN1BXVFJ1bjM1dVI4a3FiVEZ4TC1Nd2xqRmRRdWJaNFFQRUYybkZGanViMjBiZV8yelIzYjFmUWFWMW1Mc0ZKMVlxaVVMT05tVHNvN3BRQmMtV1FLZjJWM0U?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T19:00:21+00:00"
     }
   ],
-  "col1": [
+  "col2": [
     {
-      "text": "The Old World Order Is Over. This Is What Could Come Next.",
-      "url": "https://www.nytimes.com/2026/10/18/opinion/america-world-order-democracy-trump.html",
+      "text": "Key Players in the O.J. Simpson Trial",
+      "url": "https://www.nytimes.com/2026/10/18/us/key-players-in-the-oj-simpson-trial.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T18:43:07+00:00"
+      "time": "2026-10-18T21:00:39+00:00"
+    },
+    {
+      "text": "Migrants From Ukraine and Sudan to Keep Deportation Protections for Now",
+      "url": "https://www.nytimes.com/2026/10/18/us/politics/ukraine-sudan-tps-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T20:14:32+00:00"
+    },
+    {
+      "text": "2028 Presidential ‘Shadow Primary’ Descends on the Midterm Elections",
+      "url": "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T19:47:09+00:00"
+    },
+    {
+      "text": "Trump approval hits record low, handing Democrats a clear midterm edge - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkJrME56Z1A3aVBwazIzNTA5ekFNUDFtRzAyaTgteUo1cU4yOElmOFJwYzB4WUVkR3hoWk5QYk9kbDRJR3AtWm91VEZfRnUyQzBQeVk1czBkWGhhNXZwWjNtUk1NdVpRcG1DMGZTZ2swcU5lQmFESzR5Y2h6ak1OdWhKQ0kxTERscDBPcGZlWWVleFdPczNVOWdlYkdkQUtick1oanByQlkxXzJKWi1hRDNDYXlFekVlaG1r?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T19:24:49+00:00"
+    },
+    {
+      "text": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+      "url": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-18T19:11:55+00:00"
+    },
+    {
+      "text": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway. - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNal9zN3ZsaVg1TkVYRF9Xd1dMMmE1Slk0ZWE1ZG0ycTkzX2FzbXA4R0dBTGNYcWk5UnA2dERqcmc2RllaY1J4VXozbEdkWHZTUk02WkxQRmxMUUJVQXY3U3JuMG1OcEtmc2x1R3oxVmRoMnBialA4UXlfSXpSVkh1RHVWNHJ6R3c?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T18:48:37+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Trump endorses Netanyahu in close Israeli election - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T20:55:47+00:00"
+    },
+    {
+      "text": "AP Top 25 poll: Miami takes over at No. 1, BYU surges to No. 2 in college football rankings - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1BhZS1tTjhmUHg1ZHhYazQ1QW5vYzVmbVBDeWszdlRYSHM4dXRfcmZQbU1YTVYtZ044MEtad0VERFFvSU9UOTF4Z09FUlpyNGdyOHl5WFFvTG15OWtHWHZjUklVNVFKWWJkeWhwUGdOYWh4dWRfUDF3UlQ2TnZCaUctRDRNZEFLT01FbTIxUnFlV0tJRWwtTEpR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-18T19:58:00+00:00"
     },
     {
       "text": "Canadian military base fire: Death toll confirmed and cause under investigation - BBC",
@@ -57,155 +178,34 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T17:48:53+00:00"
+      "time": "2026-10-18T19:42:37+00:00"
     },
     {
-      "text": "Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUFGdW1wMm8wTlN3aG1kM3lJVDJpOXBNcE5EQ2RQeTJwYXFQeS1jYko0cWJQY1Z1blBFWFVCWEFBZk5NdmlJMHNvSElVSEI0bXZNSGlLU1IyQzFWNm14YmVsYzZ0d0xpU2tScWUyVlpXR015UnBiLXdUY25TWlhqQ3RzSFhwSTVBZjBUcWVRY3FXcjN6dFBJaFFrTGwwRkU?oc=5",
+      "text": "Cindy Crawford, Kaia Gerber Break Their Silence on Presley Gerber’s Death: “A Sweet, Beautiful Soul” - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHBraVNIQmtrXy1LM1RPZV8yUnltOUFRMmlVbC0xMXdQWWhuWGx4SXBGRFZselV0V2dtb3EwTHNvdVVQNWlSMFIxc0JXaXZfa0tNSklVRTBSdUtWaWtnUk41dWNFZUtabXBQbVdnZ0NmbmdiZFRkbU1ra2pkTWJFTHJFRm5aSnJQak5xZUROTW51aFI0OVMzSURYSzRJNTh0N2EyRjhiWXd5cnhobEpV?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T17:16:00+00:00"
+      "time": "2026-10-18T19:21:04+00:00"
     },
     {
-      "text": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHM2bUxWN1RkMHBLVC0yc3VtNE1WV1dGSDlvUy1oQXhXZmhCYm82Q0ZrXzdWOUNkemtuLUxTSmVQOE0weVBZTU4zYjhGN29FUWYwa0NyTlJCNENVR1ZMX0NmVnJyZi1uR3pPal9DalVpSXhwcFFMXzBIMW9zQ1ktNlFEUW5YMHZocUVVcFoxYUo2blpVaE1PS3JjaDFkLWgyT0VyQUY4YU13RWJoUFpNQjVaaTd5Rllo?oc=5",
+      "text": "Semi-Truck Rollover Spills Dozens of Cattle Across Downtown Kansas City - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kOXd3c2NQeEc1bmMtMlhQbV9oVzVSOFRUel9xQXVKb0l5dk1lUXNzbXZzTXk0WG9QMUdnZmNzZ25wSVRUcnFqSElMZ09UQ3lFV3RtNGJRNkZoNzdlZnk2UUQ2ZGNyNmhLd3BVLWM2YnFONVU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T17:00:00+00:00"
+      "time": "2026-10-18T19:05:55+00:00"
     },
     {
-      "text": "Destructive protests sweep across France, with buildings burned and hundreds detained - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkxVSTcyeG5GWU5fZU9YQ2l4em1TNDFGT1BpT19ldXhOMEx0azNBc3lUVERoT0ZZUmNnWU9BbXFtRlBjS21PcXY3VUF6STdOQi1RQ2hyanNSaUFXQlY0bnI5bTFmTS13MnpxYjMtdmVMUVZrd3NiY0hlS29TZzgzTTdyWlNRUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T16:38:54+00:00"
-    },
-    {
-      "text": "Infectious disease veterans call for clearer federal message on measles - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXhlUl9yNWJaQ3I0emJacWhPdE5xY0dpZ0YzVG1EUjVvUjZBUDlKeDNrMWY0TUJmU0RuakpmcXQzb1FIOGRsdHJULXlJdndVSzl0ZjZXN0dMX1lDWVJJa1dKQmxBb3lkT2F2M08xV3BtcmRfUEVTRGFmNWpmYTF3ZEQwd0dhbGvSAYwBQVVfeXFMUHNNOWpmWGhMWjFaVXdERmlWcE1oOXRsUTByQTVmZlJjbWgtVHlTZmkxbmRQRDVxaWs5ak9tYUZQdjJBSF83aVpNT0lTVWhoeXd2a3BmeWZPVklvWlRoNEFtdUJPWTRWcXlIZ2Zvc2h3LVdoOEV1Rlh3aDJNU1hlUk9rSDk0eEw4Q2dHSjk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T16:00:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "2026 Midterm Elections: Trump Rallies Republicans - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObm9FYWtTdVB6dUxkVDlaY0c1NFd2X21QaDNVRVZ2UUp3X0NkQTh5YTZPYW1qR19obGEzdWFENjNnWno4WVFlRjdxbW9nSG1pMFBRQlRBOUJ2QS13TnhLM0VEdXZZcEgzcGZMSzRIb2pSNWVibVhuOHRoNjRrWTNSeFhVV3ZGMEVfdVN2R2xqNFprbkFYTkd6UWE1NA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T18:27:22+00:00"
-    },
-    {
-      "text": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
-      "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+      "text": "The Old World Order Is Over. This Is What Could Come Next.",
+      "url": "https://www.nytimes.com/2026/10/18/opinion/america-world-order-democracy-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T17:43:02+00:00"
-    },
-    {
-      "text": "The Man Who Taught Us How to Pay Attention",
-      "url": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T17:09:09+00:00"
-    },
-    {
-      "text": "Academy Museum Gala 2026 Inside Photos: Taylor Swift Performs, Curry Barker Chats With John Carpenter & More - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWlyT21vYy1Yb1ZRVmxPQlZZM3ZjcTVXYTVidEJLOUtsUGxpZUgtWVBYOG9QdU9ZbDQxbWdISlNQQkRJVUJpaW1kVktzLUxUTzJYb1FQS1J0Q3pvQ2NTM0UwWklyeE4yWjRaQjRkNkNYQWlhR043QUlLRTczVFRRdmNLVzFWVlcyTEluN0ZpRWFhdVQ5T0xEUjVUOGdPbUkyQl9WbUx5RXp5OENad0pweUpBZ3VSZ0M4dmpSbVBYREFvZ0VjeHhIVWV2Y1A5aGM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T16:50:00+00:00"
-    },
-    {
-      "text": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
-      "url": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-18T16:29:22+00:00"
-    },
-    {
-      "text": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T15:59:30+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Y2TlI4ZG1BWW5tQi00ZmMzNUZGaHJuaHhqRThzaU5LcG0wYWJaUlk0MzJ3OGpBdDlkN0lrX25PVXl6andKZm54aERjWHpCRXk1eXQwcEM5ejRDYUxJdVl3SlhMdVUzZVhxYXlaTkFUZ3ljMEtyRFFsRjNNMUlrQWNBd3pndTZOOVdJSmtCM0tvanZp?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T17:54:24+00:00"
-    },
-    {
-      "text": "Cindy Crawford and Rande Gerber break silence after son Presley’s tragic death: ‘We are beyond heartbroken’ - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUE9aM0F6SWVGTGVzUmVGN3NYS05DUXhtN0Z6WEg0NnVoVHM3dkIyVGxiV29iRUJBWHVSaVlEcHAzRHBpR1RXYTJqM2VuS1ZhcmtRVGR2YkNOSlZYOC1fYWh5ZjY0Tlh3Ni1Lbk5MMzVtZjdMUGVYMDFyX3lQLWhCUjRZVXpiazBRVXhZX2tZc1pZSWViWEE0aHgyenhfdGIyd1BfdDR6VkU3dUExUVM1ZkVTeE95VVZxLTlkODg4TWtvdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T17:40:00+00:00"
-    },
-    {
-      "text": "Coaches Poll top 25: Georgia, Alabama, Texas slide; Miami No. 1 in Week 8 college football rankings - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPek1QeGRmLWxGWHNSQkJ3U183MU9fRFVRLXdKRUdZNzZJZ0NzT3dUaGo3ckN1SjBPZVp4OF9XcXIwUWt3amFaNHpwMU5ta012bUFMSGdwT3hYQjNZa2MtREZ4MF9yUmM1cFMtMHVzdlZkc05SejhvMXJwZHA1bVBaTkh5dF82NWpoNnVTem9tTVhhVkNESjlzY2tFenZSekJheHVRdzJtbXBSWmlQUkMtSjVMWFBoUndLZGI2NXh6RE5KcWlYQ3ZYQw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T17:01:00+00:00"
-    },
-    {
-      "text": "Trump says he will close historic D.C. golf course for 15 months of renovations - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVhPQVcwX2ZZYm8zUE1fM0tUcEYxMmZ3NG9aT3lEMXVnc2pYdTBCVEdKS1lRVGh3QmVXRTUwQjZqTk1wbEI1cHVZc18yeTRRMnBZQ1A5UmdqLXEySnZVSFlPLVJmZHNELWRyekhSaFhLRHRTRnN4clhLN295RGx1MzFSemVVVUJDRFVuSHoxbGV1M2lwb0kzRG54MlFvX0tqenBVMHFoUUZNa29ncmlpa2NHak0yRDg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T16:46:41+00:00"
-    },
-    {
-      "text": "Scientists discover a way to reverse coral bleaching at record speed - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSHlwQTE3aDFUMUZyQmpzLTA1R0FkbXk5WHpSakxKeWp1REVDS0EyWXA5dU9LcGpSRl85cEFqdmJVV25WU3JxamwtRnpDRUp5SVRsdkwxZm9SN09PVkVBbHctRjFBQ1JQdndj?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T16:00:01+00:00"
-    },
-    {
-      "text": "Caleb Williams officially active for the Bears on Sunday - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTlsOEFNMHdyODBBdmt4V1NJamltYU1URnk3R3lsY0FvZ1cwY2lRV0x6NzBhcU8tZ2w5RVc3U1BEd01lSGxSUmE0cTN4T3RPOTR6RTZrWTJNaHNCQkdGNzhZLVVzMEtpUWIwWEkwYU45bnlmV0o3a2o0OThEMkRwc1RpMHgtZG5jTGZLWFFOQVp3VnhQUEdHc3F1cmk4SGF5dC1STlZmNkM5dXYzdWVtSF9zMUhQSVUwT1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-18T15:53:39+00:00"
+      "time": "2026-10-18T18:43:07+00:00"
     }
   ]
 }
