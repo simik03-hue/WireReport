@@ -1,110 +1,137 @@
 {
-  "generated_at": "2026-10-19T04:47:20.767286+00:00",
+  "generated_at": "2026-10-19T10:39:25.385721+00:00",
   "lead": {
-    "text": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
-    "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+    "text": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+    "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-10-19T04:46:26+00:00",
+    "time": "2026-10-19T10:37:43+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-      "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+      "text": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+      "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-19T04:36:39+00:00"
+      "time": "2026-10-19T10:36:47+00:00"
     },
     {
-      "text": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "text": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-19T04:30:59+00:00"
+      "time": "2026-10-19T10:33:12+00:00"
     },
     {
-      "text": "Strong Exports Stabilize China’s Economic Growth in Official Statistics",
-      "url": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
+      "text": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
+      "url": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T04:21:14+00:00"
+      "time": "2026-10-19T10:30:59+00:00"
     }
   ],
   "col1": [
     {
-      "text": "2028 Presidential ‘Shadow Primary’ Descends on the Midterm Elections",
-      "url": "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html",
+      "text": "Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market",
+      "url": "https://www.nytimes.com/2026/10/19/podcasts/the-headlines/israel-elections-gold-global-market.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T04:04:39+00:00"
+      "time": "2026-10-19T10:00:08+00:00"
     },
     {
-      "text": "Trump plans to begin DC golf course renovation in defiance of judge’s order - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1NhS1lmelhfS2hqNDhMejlnVjVfeWNnQjBjZ3phTUJsMHlVcWlBM095aC1EWnU0TnZKdmtRek5mZHZUMnk1OG55Y2lJRDBVTVRldDZWTUNObmJGMTFCbHV6RE1vVjNQRkdoRmdQQnFGTjhZVGgxaEozRERsQlpqM3drR1B6QQ?oc=5",
+      "text": "French Government-Bond Yields Rise on Protests, Budget Concerns; Treasury Yields Fall - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T03:19:00+00:00"
+      "time": "2026-10-19T09:21:00+00:00"
     },
     {
-      "text": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEJCSHJCeWRoX05HaTVfaElIWE11RVVPQkE2bzk1dUVjVm1ZT3JMRFV3Wm9GdjVXOGZSMEc5T2MzVlkzdk9hXzVQaGRmUVdTSXV4a1RxemFyUXVhS0c1cWE0eEZ4c2RvRG5hMUVVZ1JabldKcXVnRnlXUWFDZlQ4c0NtZG1CNEpVLTl5aHdtSGZHZ19YdlpZOXp0QW11Q3p4eEx2R2xsMlh5dk1OenRqS1lTSE5xUdIBuwFBVV95cUxQUG1DbHYyV01VRGEwR1BKOWtXWnJ4dFZqZDBCbnZMb19vV3E1Y0NabzJqZGt5Y3NSS05JT3QyR2xnOXprX2NnR3FxbWc3dk5EYXRfRzdwLTRBX21YUXFHdlZnc2F5Wm1zbkI4REk4ejk2VmFIVm94X01TMWp0SUJ1dVNvWEZjSzVlVndwTlpSUEJ0OTFXcXE2Qnk1LVlEVXRPSjNVQUhSc0hfbVpJY2w4dm1Zalg4QkIwNHpZ?oc=5",
+      "text": "Who’s Winning the Race for Congress?",
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/whos-winning-the-race-for-congress.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T09:03:47+00:00"
+    },
+    {
+      "text": "How Did Life Arise? Three Turning Points in Early Evolution",
+      "url": "https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T09:01:35+00:00"
+    },
+    {
+      "text": "How a Trillion-Dollar Industry Launders Illegal Gold",
+      "url": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T09:00:39+00:00"
+    },
+    {
+      "text": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HbFJwRngzU3pDcVBXWDRFNkVpcDJNc1RGR1RQWF81S19DMlk5WUhxdUREWWhVaHF4blA1aHZPakNFWTBlWTJPXzdUXzZ1Rm13cDZlVFpyQ21hemtsdWxMUlh0eXgzS25nSGZCWGtsVXpqMFJHd2Yw0gF8QVVfeXFMTUZvN0xGZEdUVnJjWFhMb2d1SnNvOERHV2lRREpINzJFM1JrNi1sM0FMV2Z4UnpGVVdZNmR5OTE2S1I3VGZwTVVQZkFhSF8tRWtDOWJ3cDB3bnNSaFRubkJNMXVuVkl3TWhIa2VscHBweU1RRHBjNnd3d0xTTg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T03:01:43+00:00"
-    },
-    {
-      "text": "China's economic growth picks up as AI boom boosts exports - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T02:03:04+00:00"
-    },
-    {
-      "text": "Anthropic commits 5% of shares to ‘public benefit’ fund - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2JvZ2g1OThBaW5LcmtjTU5ENmJqaUZsWmRmS2JSem85U0p1am8yWkFpenBDU0M1bkhyZ3dTUEk4R19MMGlPNUxMMHFzekRMcVNEVHRHQ0VPQnVUdE1QVmlTU19FdzUyT2hRUS11RmZpLUZveXRISTVDVGRTY0Y5U0RiZkw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T01:36:09+00:00"
-    },
-    {
-      "text": "Here’s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFVLRG1RZzM3T05RR3kzc0lXamo1bHRVampXaDdpRHAxX21qN0c3QnhwMFMyR2pWZFRTUEJYTUM0cmluaS1QRm5hN0tkbHl5VFVuNUxLT0Nhalh4MGRMVF9iNFpUOGNkb2h3NHB2N0h4RVR3MHZqSTZNdFgyaFlzdTFQdkg2QTMxNkpsSFdReU5HcnR4RWZzbE9TNmdJWkQwSHppcUNRcDNRdFZqb0djU2hCdk5RZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T01:22:21+00:00"
+      "time": "2026-10-19T08:57:35+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Cowboys vs. Packers live updates, inactives, where to watch: Dak Prescott, Jordan Love face off on 'Sunday Night Football' in Week 6 - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbGhUNi1SM21LVEJhSWV5OXFKUUR3YmMybzNtWDNsRlNKWEktV3luUU1rTE9NTUpvMl8xMkpZRjBkNFk4WTlLSTdqOUtXWXdyMWx3ZUowajFyNzZQSWdQTWNQLWhGemRwRnpJTFUyVTFpRWlmS0J3X09BVzZzNGVXMjBVMmFIT1R0V2Fsb2xkeFoyak9adllrc0tMNk11bEd5SVZkbXM5bU9sQUdZYnc3UTltVU9pVE9IdXBENWl0RlpEQmtXWnM4T09RZW1xVlRQejdIeUxJQmwzUXJ4SzNid3NZNGRJUm5udXc?oc=5",
+      "text": "Spain's rush to clear Ceuta migrant backlog raises rights concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhVRndKQndRWEM0aUtFR1FmbU9HRDRmNFlwWkZtVE9ZdWR6UWp2Z2ZsOGw3b3JDXzZXOVJoelRQa1NIRUFPVmlySWRDTTJfT0theUFWOXFiZGdfLWtRelM3OHNSLVB3SUtvLWZSNVZIaUZkNFN3d3JkbHQxMDRXX19ZT0xkNVd6MmxKQ3kyWV95TWVhcy1qdnVMMWdoblUyaFg5NC14WjB5d1NOZUV1UQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T03:45:00+00:00"
+      "time": "2026-10-19T09:57:24+00:00"
+    },
+    {
+      "text": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+      "url": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T09:15:28+00:00"
+    },
+    {
+      "text": "Republicans in Ohio Are Worried About Turnout. Here’s What They’re Doing About it.",
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T09:03:44+00:00"
+    },
+    {
+      "text": "At a Last-Hope Health Clinic, Desperation, Kindness and Fear for What’s Next",
+      "url": "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T09:01:35+00:00"
     },
     {
       "text": "Huge Riots and Anti-Government Protests in France: What to Know - The New York Times",
@@ -113,99 +140,72 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T03:13:59+00:00"
+      "time": "2026-10-19T08:59:26+00:00"
     },
     {
-      "text": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
-      "url": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T02:55:13+00:00"
-    },
-    {
-      "text": "Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM19uejBXQV9UYlQ0ZlFpMFFxYkM3WFY1aWlac3NVWUxFMUxqMzlCTE9DSl9JMlJXRHBPcnN6LVI4Xzl0OHBHYjVKME5jOFcwcFo4VnctUlpRUk1WRkhPczhHWDh2Tl9JeTVaLXU2X2dXVDNKd2dKdU5pcHhOWjRTYktfbV8tRjd3RFpNdXdfZnlxM19QYlRSanZVX0hRUlJBa0V0aFpTNGFUZExoSWs4S0Y0dmZMcUUt?oc=5",
+      "text": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history - Eurogamer.net",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUc3R1lkbWx0dlRqbV9LZjlzS0w5dzJsY3o4OWVQWkpfZjRtOUhkVkdfbVNMakdiQTJVM1F5UFVWLWtVaEZnbS0xN2JVZEgwaHFxb1d2U3BQOFVTWEl6MHBKT3ZOVGVxVDVOVTBURFF4R2ZQMFZRcGI0R3lqQjZsZ19PcVNJM0ZicDR0RA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T02:00:00+00:00"
-    },
-    {
-      "text": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUh4N3NhSDRZWHJKOVpSQ1NXN0hhWWxUSjVPcWp3TWhTUFRYQzNYNzVFUGZiUVJhSmxvZHAzZ0pUMG5iX1JnUTkwb1psQ2dJQlhlMEhHVXlBbVNPNW9jY1hrMkEwYzBlcDRxNUg1MEpLdUN6a3hCM3A2Vk5NZVJ2SkhMV0ZPWGswczN6eGNrUzE5QnUyaF9SV19IRGNxTUxWQ3VVcFl4cHFiUjdoSzJlSDlSSnlXV1JVVTZnetIBwgFBVV95cUxPb290emNuV2lDTjdrTDdQRVlTVHYwOHRUOWZCM1VhM3lMQnFINDFwOXMxWUh1TU1PUy1QY0xZal93U2dDbklkZk9zZnNSRkh3OW9DTW1pZEV2YjBUdkg1ZmZTcTJXYnZjemt1RG5qbkZJQ0FpeGgtbmp6ZkZjSFNZcy1fWldKTkF6eE1UdTNjZjhXaGd1bGlJRVFlUUxqVTlCTU1rMjJwOFRyQXpZMTFBRXZ6SlNMN2ZTbVNFMFRIM2J0Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T01:31:21+00:00"
-    },
-    {
-      "text": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
-      "url": "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T01:15:46+00:00"
+      "time": "2026-10-19T08:36:43+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Bills 33-30 Raiders (Oct 18, 2026) Game Recap - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUOU1fVUVhQU9SMjVQenQ1MXBfdXUtMWxtUWFCQjBQdVF0ZnE4RW8yNlJJQjZGV2xRN1RKSW9MN3N0eGpUUlJKRXlwV09wVWpKVE1jcGFuZHNfNzA?oc=5",
+      "text": "Steelers report card: Germie Bernard and DK Metcalf step up in the win over the Buccaneers - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRVajFaRVhDMkdBM01qRHJockVzTXV2X0RXaWdBcEppQ3VNRHJ4ZUN6N2dIejVDX2FjQlVGblM0d0xaNnBvMW1GNmFRUnVCMUE3a2dDWS1sdE5pbXUtU0dIeERwNzVqeEJBUjB3dXpLMUU2ODBrZ2RqcHR4TmlDSFkxNHdvQ3RpTEZGcXpyTmM5M2IwanBnemRNS3J5VGdsVnZQN2R2SmlCWlB0OTE1bUFvOXU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T03:37:35+00:00"
+      "time": "2026-10-19T09:47:57+00:00"
     },
     {
-      "text": "Larry David Mocks the D.S.A. Some Are Not Amused.",
-      "url": "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html",
+      "text": "Ellie Kemper: Nora Ephron Wrote to Amuse Herself",
+      "url": "https://www.nytimes.com/2026/10/19/opinion/kemper-ephron-nyt-175.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T03:09:48+00:00"
+      "time": "2026-10-19T09:03:55+00:00"
     },
     {
-      "text": "NYT Strands hints, answers for October 18, 2026 - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91NXBpQTVSRXFQLTBTeERmYjBXSFNfUHpTa0FVUzh1RkVnaUY4eVpkNGpGNVg1azk4Y214RUNXWXlxVU84WDFtT08tQk1yY003OWt1V09NUjByS2hyVXhlSGR0NzJmenN5QjNEMV9QVEpBTU1ONEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T02:04:11+00:00"
-    },
-    {
-      "text": "Talarico Kicks Off Campaign Tour of Texas as Senate Election Looms",
-      "url": "https://www.nytimes.com/2026/10/18/us/talarico-senate-campaign-tour-texas.html",
+      "text": "The Republican Party Is a Mess. It Will Emerge Stronger for It.",
+      "url": "https://www.nytimes.com/2026/10/19/opinion/republican-party-trump-future.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T01:42:29+00:00"
+      "time": "2026-10-19T09:01:42+00:00"
     },
     {
-      "text": "Caitlin Clark and Taylor Swift spotted together again cheering on Travis Kelce at Chiefs game - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlRGdVdKX3hEclgzVlRzU3RDQ1o4djV1S2NfaXdIU2U3VWUwVkdCZ0ptY2ZIbmN5YWs1TXRMYzMxcmZGc3IyUjNKTGFTQVg2WjNGOWdOLTlWN1JheTdkQ2ladVFPT0FTaGJ0cFd4dlRkblBRZFNpOFhVRUJKYlJub3lkLTFjVkNFbWlNZWZZcnZnZDUxWGNOc2h5bk5kbW0yRUhJM1VrM3E2OGhPSjhPTmN4ODlZRnc?oc=5",
+      "text": "To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look",
+      "url": "https://www.nytimes.com/2026/10/19/world/africa/gold-regulators-not-looking.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T09:01:24+00:00"
+    },
+    {
+      "text": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
+      "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T08:58:44+00:00"
+    },
+    {
+      "text": "Independent MP Helen Haines critically injured in attack near electorate office - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeW11YjlxNEowd0NtUGpENFpFLWtqdGV0dTRIT2oycTk1cUhNTC1CYVZsZExTQ0RaRHBmQTB4cUVOQW5sWU5MZmtZelQxTFY1ZHhLWjg3azd5elRLTVAwTWw1bFZib2RRV3J4VUkxRkVVQnJ5MWtfelE2WTF3ajFMV0xSMl9HdjZsd25yLTVoQ0FqNm5XYXEzcjh6dGdzd1M3UWttNW5qWkx5OFljSEFnVnhTM0tBamU1RjI1ZVhEVTlzSVRuTW5PSg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T01:23:52+00:00"
-    },
-    {
-      "text": "What we know so far about deadly fire at Canadian military base - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T00:49:14+00:00"
+      "time": "2026-10-19T08:35:00+00:00"
     }
   ]
 }
