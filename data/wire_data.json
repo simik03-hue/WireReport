@@ -1,25 +1,146 @@
 {
-  "generated_at": "2026-10-19T21:34:21.209198+00:00",
+  "generated_at": "2026-10-20T00:42:32.173324+00:00",
   "lead": {
-    "text": "House Democrat calls out colleagues over 'dangerous' Piker",
-    "url": "https://thehill.com/homenews/media/6159066-craig-criticizes-hasan-piker/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-19T21:33:36+00:00",
+    "text": "Applying to High School in New York City Is a Soul-Destroying Nightmare",
+    "url": "https://www.nytimes.com/2026/10/19/opinion/high-school-new-york-city-application.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-20T00:34:45+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump gives contentious New York pipeline a Defense Production Act boost",
-      "url": "https://thehill.com/policy/energy-environment/6159109-trump-boosts-constitution-pipeline/",
-      "source": "The Hill",
+      "text": "Man Who Died in ICE Custody in Texas Was Denied Medicine, Daughter Says",
+      "url": "https://www.nytimes.com/2026/10/19/us/ice-death-laredo-texas-medicine.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-20T00:31:30+00:00"
+    },
+    {
+      "text": "Russian Satellite Makes a Menacing Approach to Another Craft in Orbit",
+      "url": "https://www.nytimes.com/2026/10/19/science/russia-satellite-kosmos-2612.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-20T00:24:26+00:00"
+    },
+    {
+      "text": "US church on frontline of battle against drug known as 'tranq'",
+      "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-19T21:29:41+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-10-20T00:02:32+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Australian prime minister says lawmaker critically injured by car is ‘no accident’ - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTTBSLXh6S2JGYWxxTC1fSmFWaS0yRFVuMXhZeUhCZF9oOWtFckREd2htWXZBUXgxRU5oaVM2NGFUSWU3Zm9tWDduOUptSkZ1SnJLQl9tYURxV0w4Ynd1MjlQVnR0bjRaTWFXWXpJZU40SlhGcm1sZkEyZ1c5VklYR0lnVFNDSXBoY0tUNFR2QnpaOWM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-19T23:58:00+00:00"
+    },
+    {
+      "text": "‘You Can See Everything’ Sets Oscar Campaigns for Best Picture, Supporting Actress and More Categories - Variety",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2ZCVm1ZdXBVS2tZdkxoMnNpN0E5R1FVbFFmZjhpQmtBaV9hMzVrWDZHbVdDSExEOUdQNDM1WEFiczRTSXFOZnd4N05EYjd0ckM3cjhFZUN5TllEaEtjaGZMYmhhTVZSQmdRM1F6S0xMTXlRWUF0cGxFOC1pM0lnSU4xdkpOU2JycUNId0p5a181NFBVUWlCMXAyN2RRZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-19T23:20:00+00:00"
+    },
+    {
+      "text": "Mississippi AG says police shooting that killed 1-year-old was ‘justified’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY19Ub284R3pBUTJWc2N6UFVmY0VSVHB5dXhrQy1Wd0tDUTVrZ3oxTFEyczZnUlN5ZW1waVFBU3JPQ2g4TlpIQlZvZGdUcHlLRlh2M1RpTmJiLVRZMTh5YUN1Zk55M05lWUI5eW5RbkJETXp6LW9EMVdJWFhRZGRyZUNiOW03U1dCVlhnVHBLc3dSSTlxWVZSS3luY252MFRlT3haS3pKMmNwbWJTc3BReFYzTk9zUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-19T22:38:31+00:00"
+    },
+    {
+      "text": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTlaOERZUlY5VWJ2SU9oN3N0dktEY0VGVElIYnBwejdHS1loc3k2a2RRUXdZdmJudnpxc3lLdTJjY1pYQnZFNUhtYXJ0dXBZQ0xiX3g1V1hiOEJtYW9UazRZZWo0VzM2WGtISHRkVWFWTHBDYmxGNjN3V1p3akdWT1pqZTdtdGZLWGNVNWlwZERaY0E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-19T21:56:37+00:00"
+    },
+    {
+      "text": "Lakers waive former first-round pick Dalton Knecht - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORG1IU3U3T01rLVBfRW9BbFFEWHFGYjRKTkxqYmZLMzVPWVFxZmkwT0xuektOcDYxX0lLMmM0YjBSWHF2OHJBYWhOUzdUNEdrTVlZR1hCZnh1V0ExRk1scEtWMGdMVHdrV0VzQ3NCZGZjSVRmRjJzdk1FOUhseWxxOVJvdlVKTDA4Y2doWjgxZmZSc2tWbjdJM29rTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-19T21:36:00+00:00"
+    },
+    {
+      "text": "Musk Vows to Give Each U.S. Child a SpaceX Share - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnEzdmRoVkFpTFdKZnNNTjBrUXVkdXVUOUp5cmVoYzlscUFydDd2SWpKYjhta080R3ZQTFlwY0FHX0wtWVVjTDR1T3dxZUNyaC1JcXlsSm9hOHFJdjlUY0hXNWF3QTBaX3I4SHdLeGlET3NBVjlMSHc3WGVBZEdva25Uc1ZZUmpZWjlhN093?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-19T21:21:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Bend Residents Want Accountability. Oregon’s Gun Laws Make It Hard.",
+      "url": "https://www.nytimes.com/2026/10/19/us/bend-school-shooting-accountability.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T23:31:57+00:00"
+    },
+    {
+      "text": "Gun used in Oregon elementary school shooting was birthday gift from shooter's mom, sources say - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcE1SejJWLXd1MHZkcy1vWVRNWjJuU015emlabFFUZmh1eGdXejRsOTc1WF9laXF5NTRfOWh2ajFfSlR1YnZ6MWpBeVJ4d3VmR0pMWVNINks2a3NmNDRMeU1XWlcyVHVXd1YtT01CR3ZYc01RTzk5c0tpazZUTllROHo3Tl9jSENJSWFDaXNyVm1zWDFv?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-19T23:14:00+00:00"
+    },
+    {
+      "text": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
+      "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T22:20:21+00:00"
+    },
+    {
+      "text": "France Imposes Curfews",
+      "url": "https://www.nytimes.com/2026/10/19/briefing/france-imposes-curfews.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-19T21:54:15+00:00"
+    },
+    {
+      "text": "Christiane Amanpour Says She Is Leaving CNN After 43 Years - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3UxVXBvek5tV0l6aUFYT3RQbE5tc0hyREZ4SW9VbmU1SjVxZTlqY1NTMW1uS2tsSURUdUNrVUNMS0ZXZ2E3a0VzNmlWcExaZ2tPOE43X0NmbG5CSWtHSXhlYTJvRlR3ZHFkQU5SRTljV3BPaFViRmdsTGdsLXp1SzczUVA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-19T21:31:55+00:00"
     },
     {
       "text": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
@@ -29,147 +150,26 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-10-19T21:17:42+00:00"
-    },
-    {
-      "text": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-19T21:12:30+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T21:04:40+00:00"
-    },
-    {
-      "text": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T20:34:25+00:00"
-    },
-    {
-      "text": "Stock Market Today: S&P 500 and Nasdaq close higher as tech stocks surged, but the Dow slips as yields rise - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVc5SllmY19RT3VJLWpubDJLYUZ1UE5mTkVaZTlTYm93cUZBQ1M4cWZtRG1aNEhQcTZyUS1yVElZd0NJY2lkbmprMjVMRndENWc4enRDZ2JRT1ZqTzN5SmRHVWVxRnlSY3hsakxUREc0ZDFTYTRZSUh2WnhzSWtnellHYktCOTBvcVRteDZ2YXA0SktEVG4xS3hpdDBtcV9xMms2ZXpIWVpiYlpHOWRJUk54dWxFQjA1bGpB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T20:21:00+00:00"
-    },
-    {
-      "text": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-      "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T19:54:36+00:00"
-    },
-    {
-      "text": "Dan Patrick: Colts will explore hiring Peyton Manning as G.M. - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZU1qa1A1dXo0X2pQOVo2MGd0RFRHQVpyalBqbG1RNEd0TmI3RGU3RjhlZDBNU055TW8zT3lxSmFOYjhoZ3lBYm1JMXdReTBmd21SaXVVOUJzR2J6OXpNVG9Nbk9oWFRoRmFLOXQ3bFpHMXFfd1lrMUtOT0dIaENZdGRwazJvQnpIaDdTamczRTlWY0FHa2hzX0hQOUtEcDNxRDRFNl83b1BUTHVPS3Z0TjNUbWVkX2pZYjM2SWln?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T19:26:47+00:00"
-    },
-    {
-      "text": "Why Are There Protests in France?",
-      "url": "https://www.nytimes.com/article/france-student-protests-why.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T18:59:37+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Why There’s No Relief From High Beef Prices",
-      "url": "https://www.nytimes.com/2026/10/19/opinion/beef-prices-cattle-farmers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T20:48:29+00:00"
-    },
-    {
-      "text": "Mahmoud Khalil Appeals to Supreme Court to Halt Deportation",
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T20:31:52+00:00"
-    },
-    {
-      "text": "Germany's Merz urges AI investment ahead of Nvidia deal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT09KR2R3TjktZGltSk9PMGtKcGVMeFBuSmR5eTVkMERSbkVuc0d5bGhnanJ2WloyWUtULU1PTkFVQlNhaklmWmJESHF2cEV0Q01YQ3NBb3RxWklLQlNLelBEMzVBSF9nZ09Uc0FjLUhHUmhOeUF1Z0pObndUclVjT0s2Q3Fka2Z6dWltWC1MQ0g5cmo0V1dUeFY0M3hEOE5aSzV3RjdZZ2JFUTU4TEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T20:07:55+00:00"
-    },
-    {
-      "text": "Trump signs order creating NIH division, task force for women's health - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2VsVk52ZWdORHhkWkF3NEJYTnV2WUpaandvdjJlMGdfOWQxdUw4MXh5RGIyb1I5YklYZUUzOUpTWEJ1d09QU2xfMXBIZ2xSSEFxMmJMZ19PVnFUR3dyZlNfUXFNNngtSUp4X25JLXUwNVh6LVVheERvU1U2dE9aVTV1NnRvWjNqRGNGNGJ3Y3dONVZoQ1dOaTF2MEEwX0ZTSGY0ejBIRnVxbXM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T19:47:13+00:00"
-    },
-    {
-      "text": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
-      "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T19:25:50+00:00"
-    },
-    {
-      "text": "DoJ charges 28 green card holders in California over alleged voter fraud - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHk0ak02bEpVa1loOUs0eU14dXVmSngyZlM4UEJZYTFTT2NyekR4NzEyQlBEZFZ6aTF6cmNPT0lIRDJtOEotNnFYMTdPNVFYOFRReUlZTzJoUHZEZ0RYMGJIT3pCQXpRNUdQVEFGSEdaZWk0aHNrblVIWFdidkk2YWZWd0ZvVnhIOW9Zd0dB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T18:52:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterms-republican-political-ads.html",
+      "text": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T20:35:14+00:00"
+      "time": "2026-10-19T23:24:54+00:00"
     },
     {
-      "text": "Try these 4 things for healthier knees - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1hENmhOX1pac1FzU1E5dEFPS2tKLXhQZDJtNWpqMzBfdlNETTREQkY2YXJSYjhSVkJZazJhYVhkdmFVcUhja1o2bnJLejl6dG5Pdk81ZEdqblpKaEtqOU1zdXZFbGpKTll3TThiZnlYQ0VacGVFQjRCNW95S29uS1VLOFVxSl9TVjVZb09rZw?oc=5",
+      "text": "Pennsylvania issues alert on congenital measles—something US hasn’t seen for decades - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTZxd09wVXZPNTJ2TTR2Wl8yMDZJT3BWVTdIZTRXNTFVQzVfWU5ueGUyQUxiOGhnYjV2S2hMUzRGVDdpVTFHUk85MFgzQlFxU3pTc1FSenB5aXRMZXNQTGFQX3YxazNMQndiSUI1ODk3amVPcW1ELUpPdWFHRzNVNVdkQ1Q5M1lkckVHQ2pnWHJyR0VsZG5Cb2RGemZqcFdqMnVNTF8taEozTVVjdzZYU0c2aGlhU2k3UTZfNjV5NXc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T20:30:00+00:00"
+      "time": "2026-10-19T22:44:26+00:00"
     },
     {
       "text": "The Republican Party Is a Mess. It Will Emerge Stronger for It.",
@@ -178,34 +178,34 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-19T20:03:09+00:00"
+      "time": "2026-10-19T22:03:18+00:00"
     },
     {
-      "text": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8?oc=5",
+      "text": "DOJ Charges 28 California Residents With Voting-Related Crimes Amid Trump’s Voter Fraud Push - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGFnd0pFQW12VHVoR204NnlmM1A4YzN5N1FqYXo5RC1NNEVUd0J5TUhfTTlVd0xYWWZoa0p6SU1lTmdGV181VjRlTllPbXNtai1wWXVxZWgtMW04U1F2aHlqakxPSjJMeGFWbjJ6ZW40T0VzS0YydkI3UEFKNVljS3JYNF9JQUg2Vl96RlNaOWsyc0JuUE13cjV1bw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T19:43:00+00:00"
+      "time": "2026-10-19T21:49:41+00:00"
     },
     {
-      "text": "Over three dozen Congress members’ offices targeted with white powder envelopes - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV0xXQlc4d2Vad09BUDdsSWt2bzFXTFNXOTJwUFVhenZQMGpNT29IMDlKcEtxMk9xalZwMy1wTEZyS2daWVBKWXdsZGFVTFpFVk5Ob29PcmF6T05wRW1xOC1NODhHMkoxVHYwZVl0UjFlQmwzeTZNS29FOERhYU5pWHphUTE5UQ?oc=5",
+      "text": "Burnham vows end to 'rip-off parking charges' under new rules - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tbW1CaE9vYTNCaFk1YlVpVE01Q09jZ0Vma0lDVE1kMW1nekZueV9jbUh2bWJDX1NYNmNDdDIwaENWamViZlRmeXN1RjJiMGcxbGE0djQ4dk5zTm8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T19:08:00+00:00"
+      "time": "2026-10-19T21:30:06+00:00"
     },
     {
-      "text": "Massachusetts Republican lieutenant governor candidate suspends campaign after OUI arrest - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMnRlaU9SaWxFbC1mbWJ3WDczV3E5U1FsenFCMDNVSzl3eWNBcTJVMmlaaEg4SXpuLUptMnFaTkdoeXd4OGZfRG1XbjA0djVNMXJtLXQza2U0S1hGSkxmYXFVOEN2NnRXYXpsb1dER1F1T2ZEWi1zWjRRTEV3QzdQV1JKV0ZHcjRmSzVhWVdKOUZlUWtLUk1NY1RNaUhyVlgxT3AtOGhCTzVfa0s5M0pDSkRuTUFRX2ZXY3F5Wkpzb3hfaXRIVkk0?oc=5",
+      "text": "Curfew imposed in parts of central Paris and other cities after rioting across France - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KbTV4RU1RUG1XSzBGSjZULVZ6a0R4SVF6dEwyWXFYbS1iSktHNmY0MGdaZTI2REYtX2NOOUZMUHEzRmdLUld0R2RUY0dsS0pGU1ZUbTFxMXFCNEE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-19T18:52:00+00:00"
+      "time": "2026-10-19T21:14:53+00:00"
     }
   ]
 }
