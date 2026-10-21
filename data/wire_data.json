@@ -1,17 +1,82 @@
 {
-  "generated_at": "2026-10-20T22:42:36.828849+00:00",
+  "generated_at": "2026-10-21T01:02:31.313847+00:00",
   "lead": {
-    "text": "White House relies on existing laws to regulate AI",
-    "url": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/",
-    "source": "The Hill",
+    "text": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
+    "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-20T22:37:24+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-10-21T01:00:17+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Trump snaps at White House reporter: 'Are you a sick person?'",
+      "url": "https://thehill.com/homenews/media/6161621-trump-snaps-at-white-house-reporter-are-you-a-sick-person/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-21T00:51:22+00:00"
+    },
+    {
+      "text": "Japan exports post huge miss in September as growth slows to 16.7%",
+      "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-21T00:44:16+00:00"
+    },
+    {
+      "text": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
+      "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-21T00:42:08+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "What to know about Jalen Hurts' condition after blood clots found in Eagles star's lungs, leg - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ndjItVDFQMEl2YkljYzhKRjM4UzB0eDZ1cmN1Y2NzNVFiSlhqN0JGYllVNldPcE5xX21TeVJfbzM2RHNEamtybVd4NE1KT1lDOUl5NnFRc214c19McTFzdEtsQlY3QzZFdU5WalBoc0Vkdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T00:27:36+00:00"
+    },
+    {
+      "text": "Canada Said No, Again",
+      "url": "https://www.nytimes.com/2026/10/20/opinion/canada-alberta-referendum-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T00:04:38+00:00"
+    },
+    {
+      "text": "LeBron Showed Up Ready for Business in a Double-Breasted Suit - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXlNRnQzWVhTSDd4WlQwVHc1VmRDNktHR1hacEx5SXFmWkNYSzhXNkNPbDIxRFFUTTBYbTFVSzJSV1hrY0NMQWdmNVZIRVYwbTk5enBOanpRcS0yMWhMQWdCRjN2RVFDcUo5aTBGR0Nya1phU3ZXcHhTRi1LX0hlcy1mZTFucHozbWlEU3pkVy1MR1lyaUFYTmNKVWJsdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-20T23:47:52+00:00"
+    },
+    {
+      "text": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+      "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-20T23:18:31+00:00"
+    },
     {
       "text": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
       "url": "https://www.nytimes.com/2026/10/20/us/paxton-talarico-fort-worth-tarrant-county-texas.html",
@@ -22,25 +87,52 @@
       "time": "2026-10-20T22:32:41+00:00"
     },
     {
-      "text": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-20T22:29:45+00:00"
+      "text": "Trump Announces Plans to Spend Another $100 Million by Election Day",
+      "url": "https://www.nytimes.com/2026/10/20/briefing/trump-midterm-spending.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-20T21:56:19+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+      "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T00:24:59+00:00"
     },
     {
-      "text": "Dow jumps 500 points as earnings optimism steadies market: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBY1V6N2VkbVphNU1oUUROTEx2aUtNQk9XeDl3SlRyUGlmWWFNX3B1NjU0SXB6Z08zeldvRW8tZVdWQ3lxRnNGelJSdURXdHdEQ0lRTllocmNfS1BkX2lDalYzS1AySDNUNk5Rc2tDbk1SdVZsbHRj0gF8QVVfeXFMUDhUeVpneWk2eWtPSVpkcE5EY3pZeV92cG9CZFpwaDVrT09sY2Y1VTVNc2VfcWNid29pZ2RzNTYwY3VWQkx2X2h3ZlUzQWRPXzlpWWotY0ZkM184THhJNkxhYTJHNVRvZ3hESG4wZGVna25sWEU0UDZBZnpqRw?oc=5",
+      "text": "U.S. Begins Disclosing C.I.A. Interview Reports From Scrutiny of Post-9/11 Torture",
+      "url": "https://www.nytimes.com/2026/10/20/us/politics/cia-interview-reports-sept-11-torture.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T00:00:36+00:00"
+    },
+    {
+      "text": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1BXVEVrSUZFeXd0V1NuRDd6dXh3cGdXVndLZWJUYTU2N3VDWFZWTlRjLUhNM3p5TDBFdEFpWDZLYzFCNTQzODN4ZGV1Vk91S0U3MmM5SUZOVmFuM2o1dFNULWc0LTFWY1V6VnpUOUozUHg2SG9yQ0lEVnFIbDJyX1hsYjl1VHB4bVVSN1lTOXV5VFBZSzVCRUREa2tlaFZHTjAtMlRmc3E3a21INVN6cDh3TGlib1M0YklzQmpCWU5VczlvTnZxM0xkaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T22:25:48+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-10-20T23:38:00+00:00"
+    },
+    {
+      "text": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-20T23:08:19+00:00"
+    },
     {
       "text": "Art Basel Paris Preview Draws Interest Despite Protests",
       "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
@@ -51,22 +143,42 @@
       "time": "2026-10-20T22:15:23+00:00"
     },
     {
-      "text": "FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWh5TEc3UFM1REZCazFzeGJpZTFXblJEdE9wWWFrU2RzbnFKVnRYQTV6MS10V21tVElVaW9jLTlMc3d2YnRSU0drVlR0RWxvam1SUUdHWGRaMG01OUZaM2RFd2lsZmFnc2NLVHBwbm5KOVhSa3ZiZjJfd2NycXRZdFF4SExsWXFlcGQ2NUdCMTIzMmlndlpISHd2RElFVk1nelNV?oc=5",
+      "text": "SpaceX revenue soars 161% as AI business grows - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUW42cVZpUURGandxQ3ZwZkRJZFBwWS13OUM3UHVRR0ozNU1QVVRfNVdSam01QS05V2NqbjIxZXU5em9GeW9Tdi1pVHNjMnBMNl93RkM4NHduRURENm5EbDhaa25UVzNCakxpbGhKdkdGb1lEVl9wbVo2WFl1ODM5dG9GUjRnQUJ2YUczLUxXaGpyY0Zm0gGaAUFVX3lxTFBYc0ZDUEx2ZzdrdFVROFRLTE9IODZNZmhibGhqX19nMHdyM2k4QURCXzFIR3k0QmVWYjRwN2lSUmRUY1lnSDI4VGd1NnpESUhaeGcxSkVCVnphSERuOEdYUmw0emlOMmI3TXhQOG1kVFI0QjBwMDJYczUtMmZ3dUR5WW5oM0V5TTBObjRiRWt1OHdtcEtfdy1EZGc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T21:44:00+00:00"
-    },
+      "time": "2026-10-20T21:44:43+00:00"
+    }
+  ],
+  "col3": [
     {
-      "text": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
-      "url": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
+      "text": "Christina Applegate Says Her MS Was Misdiagnosed",
+      "url": "https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T21:21:15+00:00"
+      "time": "2026-10-21T00:12:10+00:00"
+    },
+    {
+      "text": "N.B.A. Tunnel Walk: LeBron James, Jalen Brunson, Karl-Anthony Towns and More",
+      "url": "https://www.nytimes.com/2026/10/20/style/lebron-james-jalen-brunson-tunnel-walk-76ers-knicks.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-20T23:47:53+00:00"
+    },
+    {
+      "text": "Christina Applegate reveals she was misdiagnosed with multiple sclerosis: \"Not happy at all\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2d6TkpsUDc2dWx0M3FWaW9RdFdHcktwWnU4Q013WUcyUGhJcHF4U0c0WUV6NWFIeEZmdG1Ka19jbE14eElyWktWajVuN3cycjlleTBtUjcyVHFEelU5am1GVWh1UmFZOVRYbElIblNDNDBYUFFBM2pTSEIwMFJJblRjaFJySTNr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-20T23:32:26+00:00"
     },
     {
       "text": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
@@ -75,137 +187,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T21:01:35+00:00"
+      "time": "2026-10-20T22:39:40+00:00"
     },
     {
-      "text": "Trump Says He Asked Putin to Release an American Jailed in Russia",
-      "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-russia-prisoner-stephen-hubbard.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T20:47:51+00:00"
-    },
-    {
-      "text": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes - 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQ19JanpPUTE2OF9PcWVQc3dxSWFXM3dBenJiSjRwMV9WRE10OUJPSV9DUVR4djJoclM5YUZmV2ZMY1N5MWFOYzhIQlZ5SnFOUFZMVkFoUUxsb294NG5aazMyeTNnRkhGSWJRNFhaZ1o?oc=5",
+      "text": "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3 - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUlmWHN2WXhyNEpYYjJuSEUxdF90a0t4Zk8zZ2RkM3BxbHB1cHhuVlU5QWVGc21Nd0ZSZmVCVER2MlBIZDNGNXdDVUpkSWxzM3pKYjdQRG80VzBRak5QRVU5YlVrLVJ3ajg2dEJWQVliVXVhSnFGbEExbXVJZ1lEUm1mM3NLNU9JQTBiWDlQSm1JbXdJdWxWNWRyNmpVQjc0ZXfSAacBQVVfeXFMTkJjckY3a1ljdGtobGRRQnhreTBTZEJxS2lXNzNmNTh4ZWhIeHZVNDRzT3JLNEhIUHdpN1Y5Mk9DM2lxMXoydEVORlA5SGpCT1NJTVI4SFBwUTBiblphMVNUbkNtdFlldVJWMmg1YTVCV2VrbTRmMnNwVlpfYTY3Ym00RzlWVmtiVjhRb2VnN1BRaTloSWZYUk16c3pDQjM0Ulhnb0pPNVE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T20:31:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Christina Applegate Says Her MS Was Misdiagnosed",
-      "url": "https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T22:07:05+00:00"
+      "time": "2026-10-20T22:08:05+00:00"
     },
     {
-      "text": "SpaceX quarterly revenue jumps, beats estimates as AI business surges - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+      "text": "FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWh5TEc3UFM1REZCazFzeGJpZTFXblJEdE9wWWFrU2RzbnFKVnRYQTV6MS10V21tVElVaW9jLTlMc3d2YnRSU0drVlR0RWxvam1SUUdHWGRaMG01OUZaM2RFd2lsZmFnc2NLVHBwbm5KOVhSa3ZiZjJfd2NycXRZdFF4SExsWXFlcGQ2NUdCMTIzMmlndlpISHd2RElFVk1nelNV?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T21:39:23+00:00"
-    },
-    {
-      "text": "Midterm Updates: Trump Says He Plans to Spend at Least $400 Million by Election Day - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbzVycFRfYUVpU2g5WlpDcHFXWUdhcHBsTzJLRXItNDl6WEZ3bVBZdkhRVmFFNzJxaExReGtNZHZqQzVFZ0h0VGdDMjR4ZGlnMEMyWHFCeTg3cUljcF9IU0VCOVp4R00xU05RbVR3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T21:14:38+00:00"
-    },
-    {
-      "text": "Trump Pushes to Evict White House Press Corps",
-      "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T20:59:43+00:00"
-    },
-    {
-      "text": "Why Zelensky Took the Gloves Off This Time With Trump",
-      "url": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T20:39:58+00:00"
-    },
-    {
-      "text": "Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier",
-      "url": "https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T20:21:55+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1BXVEVrSUZFeXd0V1NuRDd6dXh3cGdXVndLZWJUYTU2N3VDWFZWTlRjLUhNM3p5TDBFdEFpWDZLYzFCNTQzODN4ZGV1Vk91S0U3MmM5SUZOVmFuM2o1dFNULWc0LTFWY1V6VnpUOUozUHg2SG9yQ0lEVnFIbDJyX1hsYjl1VHB4bVVSN1lTOXV5VFBZSzVCRUREa2tlaFZHTjAtMlRmc3E3a21INVN6cDh3TGlib1M0YklzQmpCWU5VczlvTnZxM0xkaw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T21:58:00+00:00"
-    },
-    {
-      "text": "If Democrats Win Congress, Could the G.O.P. Refuse to Seat Them?",
-      "url": "https://www.nytimes.com/2026/10/20/us/politics/democrats-republicans-congress-midterm-elections.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T21:32:34+00:00"
-    },
-    {
-      "text": "Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T21:07:30+00:00"
-    },
-    {
-      "text": "Trump’s Betrayal of Ukraine",
-      "url": "https://www.nytimes.com/2026/10/20/opinion/russia-ukraine-trump-us.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T20:57:29+00:00"
-    },
-    {
-      "text": "Alabama Gov. Kay Ivey spares death row inmate, citing doubts about evidence - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzZNRWN2eHhMZVh6N2RSdHo1OTN4b1FDV2o2eEJwWkEzdGhjVC12ckRHaGRpQTBpUjRRTHgyVFUzNzktdGtmUDk5MWVCSVE4dm8xM082eHpaZi1aSUJadjN0NldrS3RoV21UUUVNM2lUeEVtaHoyTlRYUENiOXdwR0o4Ny1wdHRJalNrY1lyRDdTUjN3ZmlGX0s4b1RwTTdjbXgyQnpIb1drZmltR2thOXNoLTJOdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T20:34:15+00:00"
-    },
-    {
-      "text": "Microsoft, AMD announces FSR 4.1 support for Xbox Series X|S and Xbox Ally - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOF9GcVJoUnlMLUs0a2NPdDkxV0R5cjJhX2N5NE05R0hoOGZsS0ZiQU03ZGh3bGhQd1NVTV9jOEVoNFNaZEFoT1h1U1k1TDN1a2pJVjFOc0Z2QWF5dTNMb0JvaW94OF93QmRVV0JqWTZZbUVFbGdYNVRyZFhPMDQtVUU2UzBJQldVMk5YRi1hdV9zYUpwUFJRZGozNlB4eEVhSDRad1JLTUVBcE1ZbUFqZDFHS0xLUVlUUTViRkxQc3h3RFU3U3BVekpybGlRVGRjOVdKTnBnRGFibkMtUWU5czJOeUFPUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T19:57:37+00:00"
+      "time": "2026-10-20T21:44:00+00:00"
     }
   ]
 }
