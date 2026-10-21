@@ -1,184 +1,72 @@
 {
-  "generated_at": "2026-10-21T11:56:25.035689+00:00",
+  "generated_at": "2026-10-21T17:03:51.828811+00:00",
   "lead": {
-    "text": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-    "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+    "text": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+    "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-10-21T11:54:28+00:00",
+    "time": "2026-10-21T17:02:41+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-      "source": "CNBC",
+      "text": "Family of prison officer killed by IRA receives state apology",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-21T11:51:56+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-10-21T16:58:16+00:00"
     },
     {
-      "text": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
-      "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+      "text": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
+      "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-21T11:51:37+00:00"
+      "time": "2026-10-21T16:55:51+00:00"
     },
     {
-      "text": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
-      "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html",
-      "source": "CNBC",
+      "text": "Vance 'disgusted' by Republicans decrying Ramaswamy ad with Acton's mother",
+      "url": "https://thehill.com/homenews/campaign/6163244-vance-criticizes-gop-ramaswamy-ad/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-21T11:49:11+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-21T16:54:26+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+      "text": "What We Saw at Fast-Track Trials of Riot Suspects in France",
+      "url": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T11:48:32+00:00"
+      "time": "2026-10-21T16:47:25+00:00"
     },
     {
-      "text": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-      "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T11:13:09+00:00"
-    },
-    {
-      "text": "What It Took for Nikole Hannah-Jones to Write About Her Daughter’s Distress",
-      "url": "https://www.nytimes.com/2026/10/20/insider/what-it-took-for-nikole-hannah-jones-to-write-about-her-daughters-distress.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T10:16:47+00:00"
-    },
-    {
-      "text": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
-      "url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:24:47+00:00"
-    },
-    {
-      "text": "In Six Decades of Public Life, I Never Thought I Would Write This Piece",
-      "url": "https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:02:15+00:00"
-    },
-    {
-      "text": "Inside the World of Dark Nutrition",
-      "url": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:01:02+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Federal agents knock on doors to track down possible noncitizen voters ahead of midterms - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TNlJmMHdySWlKeDlTNG92VGdYTE5lUmZtcGstY0RveGQ3c01vXzlTa3h0RHJyVXRfZGQ1eU9CQUVBN2UtaG12VjhXQlFZeGdWaHZXamJKWFV4TVFqSVE1LUh0MjlCWGhUelZUQTh2ejVpdlVvOVE?oc=5",
+      "text": "Stock Market Today: Nasdaq Opens Higher; SpaceX Shares Surge on Tesla Deal Talks — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmtVSC1FUS1RTWFJU2t1bmFXenNxZHRsM0ZlRklRb3Fuajh2eXFDLWItTmpKTzZaU25lNzJ3dFZyR01BaXVIY01fbFNXVUVySHZOU0NYelhRSzQtSDlTOF9SWVQ1aUFxUGJKT0lzUExaOW9nNkZFYXpjcFNqT2c4QjE3SXRPdGs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-21T11:23:20+00:00"
+      "time": "2026-10-21T16:25:00+00:00"
     },
     {
-      "text": "Idaho Falls",
-      "url": "https://www.nytimes.com/2026/10/21/briefing/idaho-womens-health.html",
+      "text": "Brad Lander Is Detained by Israeli Military in West Bank During Volunteer Trip",
+      "url": "https://www.nytimes.com/2026/10/21/nyregion/brad-lander-west-bank-idf-detained.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T10:58:01+00:00"
-    },
-    {
-      "text": "America’s Utility Bill Crisis, and Trump’s Approval Rating Hits a New Low",
-      "url": "https://www.nytimes.com/2026/10/21/podcasts/the-headlines/utility-bill-costs-trump-approval-rating.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T10:00:09+00:00"
-    },
-    {
-      "text": "Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds",
-      "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:03:22+00:00"
-    },
-    {
-      "text": "A Battle for Control of India’s Biggest Business Empire",
-      "url": "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:01:54+00:00"
-    },
-    {
-      "text": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
-      "url": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:00:24+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Netflix stock sinks after streamer's Q3 earnings, Q4 revenue forecast falls short of estimates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-21T11:23:11+00:00"
-    },
-    {
-      "text": "Russia frees retired American teacher as Trump envoy meets with Putin - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-21T10:54:39+00:00"
-    },
-    {
-      "text": "Democrats Have a Wide Lead in Our New Poll as Trump Slides",
-      "url": "https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:36:35+00:00"
+      "time": "2026-10-21T16:00:32+00:00"
     },
     {
       "text": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
@@ -187,25 +75,137 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:02:16+00:00"
+      "time": "2026-10-21T15:42:11+00:00"
     },
     {
-      "text": "How to Lower Your Alzheimer’s Risk if You Have the APOE4 Gene Variant",
-      "url": "https://www.nytimes.com/2026/10/21/well/mind/alzheimers-apoe4-reduce-risk.html",
+      "text": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
+      "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:01:49+00:00"
+      "time": "2026-10-21T15:26:40+00:00"
     },
     {
-      "text": "Why a Mother Writes ‘Son’ Across Stockholm",
+      "text": "‘You Can See Everything’ Just Broke A 20-Year Box Office Record - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2dmbmJ5S01iRmpuYmdPUnpoVUt6bDM4Y0x3QkJBd2pIVTBqUDRyalh6UE8yRDV0Zy1aUE9SOUxrbDJPdFZuUEFnSzVJMC0xV2JPbEdaWl9SaXA3enBKVlFWTkpKX0U4dVBURWYtSk9fMU9DdmlXZnpaXzFZbVVTVHJKS3E4aVhaWU90UjI0dWxtMlFNUjNjQWtHbE4xR2lFQk4zOFd1M3NqSTZTRDd3cHF3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T14:59:37+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "In Trump’s World of International Diplomacy, Insults Are a One-Way Street",
+      "url": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T16:44:14+00:00"
+    },
+    {
+      "text": "In Six Decades of Public Life, I Never Thought I Would Write This Piece",
+      "url": "https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T16:21:45+00:00"
+    },
+    {
+      "text": "Source: Giants turning to J.J. McCarthy as QB1 this week against Texans - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkRfU0p3Q3Z2UzJKWWNmSGtEWDg1UVlFMXprb3JCVUtaSjdXN0RBS0kwSGZ5bk9kd09TMnFhNVBHdVYyeE5MbzhFeml3U3dIeng3ZmdNa3Z1NDlrekhfYll0T1oxdDF0QU1NRjJUV2I4M3FncjU2eFBIelYxNnFsM3lJUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T15:59:00+00:00"
+    },
+    {
+      "text": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+      "url": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T15:40:41+00:00"
+    },
+    {
+      "text": "Supreme Court rejects Trump policy restricting treatment for transgender prison inmates - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWs3Zi1ieUwzYjAzMlQ1M2F2aHFYUklrbDhoU3ZpYW0wQ2JNdG5rVlNVSUJJR25FaWEwazJrNmM5dU8zS0RxRHF1Y1F3ZVF0aDFUV2ltQXFibnBfaFNSYnJzMUY0blN5SUtOUzI0R0tpVTM4d1IzQnRTbkFJZ1ZoN2tiX2R5MWRsTlJmLW5YcWdxMFhCTTJzMVplY1NHNk56c2lHM1U3Zk9MNWNTZHY5bg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T15:21:46+00:00"
+    },
+    {
+      "text": "Toledo chemical explosion prompts evacuations and shelter-in-place orders - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHc4UXBwOHp3ZklSQ005by0tU0pGNG5ZRlhUUm42RnFtQnNwN3ljdEFJbWE0WWdvbDVWdzE4TFdMZGVSYlNEUm90SDJWdE9aN01jYkFNZ2tNTmpPT1NXWVZrMjc5TTdPRjBfWGxWbHNHUmV6aE5rSjRyMTV6QVVnMmhVdmY5Sk1GTEpTWVROS2l0M0hYN1hlaHU1eU82ODFOSm9lTGFxVlUzakJTUjhRcnVZSHZfX1U?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T14:45:45+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "A Mother Searches for Her Son, One Graffiti Tag at a Time",
       "url": "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T09:00:17+00:00"
+      "time": "2026-10-21T16:43:35+00:00"
+    },
+    {
+      "text": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+      "url": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T16:09:30+00:00"
+    },
+    {
+      "text": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
+      "url": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T15:55:16+00:00"
+    },
+    {
+      "text": "Apple Music unveils new design rebrand, with logo ‘made by sound’ - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3k3aGhKNE1JMWNNYmt3U2UxelBfV3Y3TWVYSnBiTTRuaHF2ak5YZ01Udm1TOFZaeWVOaU1zUDBaOGN4cjJSQ01tZUdVckRDRElWMXA5b2NYbUpCanVCaG80eHBPSThuN2NTT3Bkc1JfM2ktZ2J4b2JmcDl5aExXQ3V4SzVHS3c4SFBzZVN4cUd5TTZrb1JmeEFn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T15:35:00+00:00"
+    },
+    {
+      "text": "Titans player Jordan Elliott got angry at teammate, went to his car for a gun and ended up unemployed - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaURObk11dERMN1VEbk5zeXlwUHJ3enBxcHpOeXNhQ1hBTWNnbFB2TWpmRzhzaDVhbm5vQXdqVTRpWEktOEdRM1VJYnhuSXg3QTB3VFoyaHFFUHJRQ2dLYm5zdGp4dFo1TWVoLTl1UVNyYnNSa3FVemkyQ3owZmd5NVUzZzI0bXdWSEdPV3RkMWZlOGpLU1NldmRCNHdVNXh4Q0Rta2c2N0FWNnRfR2VKbjdB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T15:10:17+00:00"
+    },
+    {
+      "text": "China’s Free A.I. Models Are Thrown Into Uncertainty",
+      "url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T14:43:43+00:00"
     }
   ]
 }
