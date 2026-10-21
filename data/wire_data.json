@@ -1,72 +1,175 @@
 {
-  "generated_at": "2026-10-21T01:02:31.313847+00:00",
+  "generated_at": "2026-10-21T06:04:57.832173+00:00",
   "lead": {
-    "text": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
-    "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "Elon Musk considering Tesla-SpaceX merger",
+    "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-10-21T01:00:17+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-10-21T05:48:46+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump snaps at White House reporter: 'Are you a sick person?'",
-      "url": "https://thehill.com/homenews/media/6161621-trump-snaps-at-white-house-reporter-are-you-a-sick-person/",
-      "source": "The Hill",
+      "text": "Pakistan arrests man hunted by US over $126m postage fraud case",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-21T00:51:22+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-10-21T05:46:33+00:00"
     },
     {
-      "text": "Japan exports post huge miss in September as growth slows to 16.7%",
-      "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+      "text": "Samsung, SK Hynix upgrading China plants to make more advanced chips, people say: Reuters",
+      "url": "https://www.cnbc.com/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-21T00:44:16+00:00"
+      "time": "2026-10-21T05:44:34+00:00"
     },
     {
-      "text": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
-      "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+      "text": "Oil prices climb as traders assess Middle East developments",
+      "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-21T00:42:08+00:00"
+      "time": "2026-10-21T05:27:19+00:00"
     }
   ],
   "col1": [
     {
-      "text": "What to know about Jalen Hurts' condition after blood clots found in Eagles star's lungs, leg - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ndjItVDFQMEl2YkljYzhKRjM4UzB0eDZ1cmN1Y2NzNVFiSlhqN0JGYllVNldPcE5xX21TeVJfbzM2RHNEamtybVd4NE1KT1lDOUl5NnFRc214c19McTFzdEtsQlY3QzZFdU5WalBoc0Vkdw?oc=5",
+      "text": "Knicks’ banner night turns sour in loss to LeBron James, Sixers - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUozQUl2TmJpRTNUNFZ2TUFoSThEUlFvOGE0VUJNaU9XbjZPOS1YckMzU29vVVJLSFIxazFkWHZ4Tm9WdExsVUg1b2tqMHZMekpQQnNES1ZiZ2tnWlFtLWs2WFFmWUhDTkdFZFprM29teHhDbktRdU5WMFl3R3dyZGgtSGYxTkJ5cG9CWUdIc2UwYW4tMkkteV9PckJrQmhPbEJqMQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-21T00:27:36+00:00"
+      "time": "2026-10-21T05:13:39+00:00"
     },
     {
-      "text": "Canada Said No, Again",
-      "url": "https://www.nytimes.com/2026/10/20/opinion/canada-alberta-referendum-trump.html",
+      "text": "Election Dispatches: Vast Sums Flood Races as Republicans Try Fending Off Democratic Charge - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbzVycFRfYUVpU2g5WlpDcHFXWUdhcHBsTzJLRXItNDl6WEZ3bVBZdkhRVmFFNzJxaExReGtNZHZqQzVFZ0h0VGdDMjR4ZGlnMEMyWHFCeTg3cUljcF9IU0VCOVp4R00xU05RbVR3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T04:41:00+00:00"
+    },
+    {
+      "text": "UK to Headphone Dodgers on Trains: Shush",
+      "url": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T00:04:38+00:00"
+      "time": "2026-10-21T04:01:05+00:00"
     },
     {
-      "text": "LeBron Showed Up Ready for Business in a Double-Breasted Suit - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXlNRnQzWVhTSDd4WlQwVHc1VmRDNktHR1hacEx5SXFmWkNYSzhXNkNPbDIxRFFUTTBYbTFVSzJSV1hrY0NMQWdmNVZIRVYwbTk5enBOanpRcS0yMWhMQWdCRjN2RVFDcUo5aTBGR0Nya1phU3ZXcHhTRi1LX0hlcy1mZTFucHozbWlEU3pkVy1MR1lyaUFYTmNKVWJsdw?oc=5",
+      "text": "As Private Equity Scales Up Small Restaurants, Customers Push Back",
+      "url": "https://www.nytimes.com/2026/10/20/dining/private-equity-restaurant-deals.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T03:47:35+00:00"
+    },
+    {
+      "text": "Trump Wields an Unprecedented $277 Million in Final Midterm Stretch",
+      "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-midterms.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T03:14:58+00:00"
+    },
+    {
+      "text": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOend6bmNZeGZJazFRU0dOZTRQNkFLZ0NCejZ1QXVYRWhvX1ZNWVdVX3pWcjZsRG5FZG5lX0NhaGhCYUd2dWo2S1l4R0ZPZzQ1UkR1UWRrWEx2QV81QTNDLTRWQmtBNGpDeVA1NTZnajVXUUQzNlZ3UkVwVVVMcXd5X2NnY095WlZ2dFMw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T23:47:52+00:00"
+      "time": "2026-10-21T02:15:50+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Emissions Gap Report Identifies U.S. as Outlier Among G20 Nations",
+      "url": "https://www.nytimes.com/2026/10/21/climate/united-states-climate-pledge-emissions-gap-report.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T05:00:06+00:00"
+    },
+    {
+      "text": "Modi Seeks to Calm Allies by Shackling Gen Z Protests",
+      "url": "https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T04:26:11+00:00"
+    },
+    {
+      "text": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OcXdwQnZ5LWxrMElfTGl2Z1MtRnhOVzBmdTZaYms5cVdPXzlQekFlYVdrUzFqMlc3RVBvWG00aE1ibTF2cTJZSUhyMVpaY2ppTkRCYXpQVjhvMmM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T03:59:18+00:00"
+    },
+    {
+      "text": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNjJLczlPMVp6NnExc09JTmE0SmNaTHM0RGdnNTJGQVo1X1dndzV3MUUyMEJ5ZFpRbm5aU0RkQnpkRzhqalZEU05WVlhmTUszbk5CSlJuOTZOMlk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T03:45:52+00:00"
+    },
+    {
+      "text": "Grab the Tissues, It’s Dedication Night on ‘Dancing With the Stars’: See the Scores, Who Went Home - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEVSM2VmVkFwdXZjRF9JWlB0LUUwa0ZGM2ljdk1VTlRtTVdadkRvbUdzZUtpN09mNDN3Q1Nyc1FjeDg0dTNDem10ejZXSExJak16NWxfcW50YWNvNTR6U0w2TnloaVJqS3Rla0VmLUVWa1NNVzM5M2J4QWZLV1B2dmYycWc4d2N3bl9BNzVQVmRBVklkRmNXR25EeGVOOTVlNFB4SjV1ZHNjS1lJWTZBSVdiSDY?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T02:42:09+00:00"
+    },
+    {
+      "text": "PHP maintainers tell Web devs to prepare themselves for critical security patches - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDZITTFKZHdQSEwzb1IwZFBBdlpvRTN6VkRsRG15UkdlUzc3WXJhdWxXbkNZMW5sbTk3UkFWODNLVGxqc1BYdmUyOWxRTVJtYXJENFRuQ3c5RjVLVGRyMk9ZZkxhYkRWNVp1ZjhkaGdaY0s3emY0Wm5HekVtWDZVR1lQXzNtZjNsZE1ZMk00V2sxd3FNQzlmQUdTaG1QOXg1T2t4Yk10OFhaVXBhaGhhRVg2eVVKVFJIOWxCYkx3aEc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T02:12:18+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Serbia Is Going Through an Extraordinary Experiment",
+      "url": "https://www.nytimes.com/2026/10/21/opinion/serbia-elections-students-vucic.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-21T05:00:06+00:00"
+    },
+    {
+      "text": "Elon Musk says SpaceX and Tesla exploring largest merger in history - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWtPa2VhQnBubUJ2TExKcTBrNDdibllGd0d1MFVid0J2UWRGNEh4M2Z1bWh2WHBtdk1fS2p6Y1B0YnVBVlZPRGU0dUg1SFRWdjVicnRla1I3UjU5TWhJbXB4N0pmQklKVnVTX1h0OFF6NlM3OWM0VWVqcTlpMVVsOUw4X01IM0txY0lTbktZeUx0UXlsdGg3T1ZGckJ1U2ItekFvX3RjONIBrAFBVV95cUxOV0hPV2JOVEc4dDhtWGUtUHh5aUpQb2J1WXAxbVEyZjhWc093X3hoMUdQdlNBZEpkU1J3VmhGdDFOdVlvYjFSZVNvbE5vMGNUVVkzUFZ6QjkzMXFPZjBxTnQ5TVpZMnhuVm80VTJOTVp5YzZxNDZlcHRhNG9PbFUzWlV2YWhVazlQUDB6M1JPdGk5WlByQnh4OFdicUd1ZkZfdmJCRFI3RWZPb1BB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-21T04:07:30+00:00"
     },
     {
       "text": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
@@ -75,137 +178,34 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T23:18:31+00:00"
+      "time": "2026-10-21T03:58:26+00:00"
     },
     {
-      "text": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
-      "url": "https://www.nytimes.com/2026/10/20/us/paxton-talarico-fort-worth-tarrant-county-texas.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T22:32:41+00:00"
-    },
-    {
-      "text": "Trump Announces Plans to Spend Another $100 Million by Election Day",
-      "url": "https://www.nytimes.com/2026/10/20/briefing/trump-midterm-spending.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T21:56:19+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
-      "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T00:24:59+00:00"
-    },
-    {
-      "text": "U.S. Begins Disclosing C.I.A. Interview Reports From Scrutiny of Post-9/11 Torture",
-      "url": "https://www.nytimes.com/2026/10/20/us/politics/cia-interview-reports-sept-11-torture.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T00:00:36+00:00"
-    },
-    {
-      "text": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1BXVEVrSUZFeXd0V1NuRDd6dXh3cGdXVndLZWJUYTU2N3VDWFZWTlRjLUhNM3p5TDBFdEFpWDZLYzFCNTQzODN4ZGV1Vk91S0U3MmM5SUZOVmFuM2o1dFNULWc0LTFWY1V6VnpUOUozUHg2SG9yQ0lEVnFIbDJyX1hsYjl1VHB4bVVSN1lTOXV5VFBZSzVCRUREa2tlaFZHTjAtMlRmc3E3a21INVN6cDh3TGlib1M0YklzQmpCWU5VczlvTnZxM0xkaw?oc=5",
+      "text": "Ohio governor’s race in uproar over ad featuring Democrat’s estranged mother - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3dmcEk3N3ZMY1A1WVNEMVNmVkJxbVZmcmhzRkl1eTRKNU9BdmJyWVo0YnpJdW1TU3NueDRyZGlLTGxCT19tVGkzMTFsaF9wVnZOQ05YU0VoNkJsVjFoX2NWdW50Q3Z2WEtxUllYSDNVWll4NmptZEZfU1djdFYtT1RPTS1DTVZaNDA1Z09jdzhvS3dMZHczeWd6anRHLUthRFM5VmMtbUUxZWFWZExPSEVMalROQVZpUjJOdVFXcVlCbUtu?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T23:38:00+00:00"
+      "time": "2026-10-21T03:41:59+00:00"
     },
     {
-      "text": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
+      "text": "Tyler Cameron fiancée Tate Madden reveals pregnancy on 'DWTS' Dedication Night - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUxVX3hib1RVRk5paGNvTUltUDB0cnJHcmI1T2w3MmZNUmwwSHpYVXl0dlEteTlIRUl5SnBEWUVVb0ZvQW5vTkVFemdvaldZSWx4YWMteEk3R1QzLTB3Q2huOFF1cklFQjVVbzhlY3RDdDYyYjZZVFowdHBraHlsS0lnUjgyaWxRYjhubGNKbnZ4OERIUWRRdlFqT1AtNmNtOVBtdWNXc1FPWEc3TldXaWhHWWFqSkxFY0lDUTd5NjdUUmRoWG8xVWNEb3hOTVZ5SUpYNnZmczhaUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T23:08:19+00:00"
+      "time": "2026-10-21T02:31:00+00:00"
     },
     {
-      "text": "Art Basel Paris Preview Draws Interest Despite Protests",
-      "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T22:15:23+00:00"
-    },
-    {
-      "text": "SpaceX revenue soars 161% as AI business grows - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUW42cVZpUURGandxQ3ZwZkRJZFBwWS13OUM3UHVRR0ozNU1QVVRfNVdSam01QS05V2NqbjIxZXU5em9GeW9Tdi1pVHNjMnBMNl93RkM4NHduRURENm5EbDhaa25UVzNCakxpbGhKdkdGb1lEVl9wbVo2WFl1ODM5dG9GUjRnQUJ2YUczLUxXaGpyY0Zm0gGaAUFVX3lxTFBYc0ZDUEx2ZzdrdFVROFRLTE9IODZNZmhibGhqX19nMHdyM2k4QURCXzFIR3k0QmVWYjRwN2lSUmRUY1lnSDI4VGd1NnpESUhaeGcxSkVCVnphSERuOEdYUmw0emlOMmI3TXhQOG1kVFI0QjBwMDJYczUtMmZ3dUR5WW5oM0V5TTBObjRiRWt1OHdtcEtfdy1EZGc?oc=5",
+      "text": "A.J. Brown sends prayers, support to Jalen Hurts - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlRPWFlod05iWTF3Z01NRG5zZGxvdDR0UTFLNGVmY01MTmM0Ylh5eWhvRi1xelBhOHhsQldiWjNQWDRlbkZsdnNScW9lMXphU08xUXJDY0hBV0tIMEtzbGkyLVZobmR3dm5NOVlicGd2eTB5R2dnaWhiNFNWMVIzSlE1WEpMVmNMU0d2c2JXRXl5Ny14UERIYUhPTEI1RUhFOVhrNEpmYkhDNXVI?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T21:44:43+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Christina Applegate Says Her MS Was Misdiagnosed",
-      "url": "https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-21T00:12:10+00:00"
-    },
-    {
-      "text": "N.B.A. Tunnel Walk: LeBron James, Jalen Brunson, Karl-Anthony Towns and More",
-      "url": "https://www.nytimes.com/2026/10/20/style/lebron-james-jalen-brunson-tunnel-walk-76ers-knicks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T23:47:53+00:00"
-    },
-    {
-      "text": "Christina Applegate reveals she was misdiagnosed with multiple sclerosis: \"Not happy at all\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2d6TkpsUDc2dWx0M3FWaW9RdFdHcktwWnU4Q013WUcyUGhJcHF4U0c0WUV6NWFIeEZmdG1Ka19jbE14eElyWktWajVuN3cycjlleTBtUjcyVHFEelU5am1GVWh1UmFZOVRYbElIblNDNDBYUFFBM2pTSEIwMFJJblRjaFJySTNr?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T23:32:26+00:00"
-    },
-    {
-      "text": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
-      "url": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-20T22:39:40+00:00"
-    },
-    {
-      "text": "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3 - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUlmWHN2WXhyNEpYYjJuSEUxdF90a0t4Zk8zZ2RkM3BxbHB1cHhuVlU5QWVGc21Nd0ZSZmVCVER2MlBIZDNGNXdDVUpkSWxzM3pKYjdQRG80VzBRak5QRVU5YlVrLVJ3ajg2dEJWQVliVXVhSnFGbEExbXVJZ1lEUm1mM3NLNU9JQTBiWDlQSm1JbXdJdWxWNWRyNmpVQjc0ZXfSAacBQVVfeXFMTkJjckY3a1ljdGtobGRRQnhreTBTZEJxS2lXNzNmNTh4ZWhIeHZVNDRzT3JLNEhIUHdpN1Y5Mk9DM2lxMXoydEVORlA5SGpCT1NJTVI4SFBwUTBiblphMVNUbkNtdFlldVJWMmg1YTVCV2VrbTRmMnNwVlpfYTY3Ym00RzlWVmtiVjhRb2VnN1BRaTloSWZYUk16c3pDQjM0Ulhnb0pPNVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T22:08:05+00:00"
-    },
-    {
-      "text": "FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWh5TEc3UFM1REZCazFzeGJpZTFXblJEdE9wWWFrU2RzbnFKVnRYQTV6MS10V21tVElVaW9jLTlMc3d2YnRSU0drVlR0RWxvam1SUUdHWGRaMG01OUZaM2RFd2lsZmFnc2NLVHBwbm5KOVhSa3ZiZjJfd2NycXRZdFF4SExsWXFlcGQ2NUdCMTIzMmlndlpISHd2RElFVk1nelNV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-20T21:44:00+00:00"
+      "time": "2026-10-21T01:46:28+00:00"
     }
   ]
 }
