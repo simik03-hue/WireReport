@@ -1,166 +1,54 @@
 {
-  "generated_at": "2026-10-23T10:08:44.834573+00:00",
+  "generated_at": "2026-10-23T15:08:43.703746+00:00",
   "lead": {
-    "text": "GOP pushes for oversight of Musk’s dominance of space",
-    "url": "https://thehill.com/homenews/senate/6166981-rep-lawmakers-scrutinize-spacex-monopoly/",
-    "source": "The Hill",
+    "text": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-23T10:00:00+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-10-23T15:06:27+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "The Memo: Trump backs controversial Ohio ad, pouring fuel on midterm campaign fires",
-      "url": "https://thehill.com/homenews/analysis/6167069-ramaswamy-acton-family-ad-row/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-23T10:00:00+00:00"
-    },
-    {
-      "text": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-23T09:44:40+00:00"
-    },
-    {
-      "text": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
-      "url": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+      "text": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-10-23T09:41:01+00:00"
+      "time": "2026-10-23T15:04:33+00:00"
+    },
+    {
+      "text": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-23T15:04:09+00:00"
+    },
+    {
+      "text": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
+      "url": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-23T15:00:49+00:00"
     }
   ],
   "col1": [
     {
-      "text": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
-      "url": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:30:47+00:00"
-    },
-    {
-      "text": "In Final Surge of Vast Midterm Spending, Parties Make Last-Ditch Appeals",
-      "url": "https://www.nytimes.com/2026/10/23/us/midterm-campaign-finance.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:03:16+00:00"
-    },
-    {
-      "text": "Is This Economy Trump’s Fault?",
-      "url": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:02:47+00:00"
-    },
-    {
-      "text": "Military Boards Are Defying Orders and Letting Trans Troops Serve",
-      "url": "https://www.nytimes.com/2026/10/23/us/trans-troops-military-boards-retain.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:01:30+00:00"
-    },
-    {
-      "text": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-      "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:00:35+00:00"
-    },
-    {
-      "text": "‘Clayface’ Aims to Give DC Studios a Box Office Win as ‘You Can See Everything’ Stays Strong - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDhtNzE2UHJoRVVnYkF1M3M0cl81V1ZTdE8zVk9LZ1Rsel9KaUVYQ1RSbjhnSlFuQ2xhek5hNW4wWlpQWmRWcV83R2NhU1ByZEZ5aGpYdzZrTktwNWNnZjhhR2J6TWI3cFE5WlhONFBhTzJ6ZzZuVE5kUVAxU3ZGMml5Zm1DX21hUllDazJTOHNqSDJ3UklrQlczU0x0UHJma0E4Wkw5dGhTSkJLT3pxMTU0YW9PQ2V0VjdFbVJB?oc=5",
+      "text": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-23T08:20:47+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:28:42+00:00"
-    },
-    {
-      "text": "Most Voters Believe the Midterm Elections Will Be Accurate, Poll Finds",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/election-integrity-trust-poll.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:03:11+00:00"
-    },
-    {
-      "text": "Does Congress Need to Approve the Arch? Trump Says It Did 100 Years Ago.",
-      "url": "https://www.nytimes.com/2026/10/23/upshot/arch-trump-washington-history.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:02:30+00:00"
-    },
-    {
-      "text": "The Bukeleization of Latin America Has Arrived",
-      "url": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:01:10+00:00"
-    },
-    {
-      "text": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3dwb0R4Z1VVa2VJenltT3B4WWEzS0xsc2Q5SmY0eEEwNy1FN2J6RlZDZE1DaUhzOTdKeHNuckEtMkJvYk0yS2VfRmtBQmhuT3VpcU5CMDFPWlBIYWRDU25XaU51SHJ5cVF2NHkxNGdLb3AtVkpuaHhOR2ZpQjk3aWd2Ni1NY04zM1dLNUxYVlctdWZnUE1RR1N5Q1dsUzF3em1pWjlqUUxpQS1p?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-23T08:47:00+00:00"
-    },
-    {
-      "text": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
-      "url": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T07:52:27+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "What Ramaswamy’s Vile Ad Reveals About the Future of Conservatism",
-      "url": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:04:31+00:00"
+      "time": "2026-10-23T14:53:53+00:00"
     },
     {
       "text": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
@@ -169,43 +57,155 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:03:00+00:00"
+      "time": "2026-10-23T14:23:35+00:00"
     },
     {
-      "text": "The Michigan Senate Race Keeps Getting Nastier",
-      "url": "https://www.nytimes.com/2026/10/23/us/rogers-michigan-republican-senate.html",
+      "text": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:02:16+00:00"
+      "time": "2026-10-23T13:58:18+00:00"
     },
     {
-      "text": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-      "url": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html",
+      "text": "Ebola patient in Nigeria did not visit DR Congo, escalating concern over spread of virus - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzBWdl9jbWlWeklwQk03R1pkTXM4TlFPOWM3TUdQYUFYb3dJR3J3TzU4Sm5KY1BOQnA1ZXdBY1hsNFNNU2hPQjRBOEI1QVNrTUM2a3dZTWpIODdpa2Y2TXhzd2RjNTVwTy1QSlNGUFFTVy1YSnBCYk1Nb3NSeTJLUWJYTUFtYm54THhvUDJWYU5EZk1XNTBjSHNSRUhyMGRfQVVxVmRCdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-23T13:51:00+00:00"
+    },
+    {
+      "text": "Seven shot dead by gunmen at church funeral in Jordan, state media say - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PaUdRVmRXdUhxR3haU3dtY0ZUbm96Y2RrYVFQdGd6RVJGR3o3eFMxSldjR3FvQURrdzJONDhmRUNhVDd3TDh2UzVndUtGcG0tNTFoLTlnOXhSaFk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-23T13:12:15+00:00"
+    },
+    {
+      "text": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-23T09:00:38+00:00"
-    },
+      "time": "2026-10-23T13:00:17+00:00"
+    }
+  ],
+  "col2": [
     {
-      "text": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGVVVVZBVjRRcTNYSXJlNS0tV0E5MkEwOVlGcTh3anZ1eC16ZEdSYmp5ODRIcUo1T3BkU01vNkpTTmJxOUFELVFUUG9SS0o2SDNSWHQ5bE9PVGp3a29vLUROenZwc2FBTnhMQ3VOR1B4SVJiZjFvaDV6TjMwUlg3dUlQcmlkdUJXZU5PbXE2YWtrZXN1?oc=5",
+      "text": "Dow tumbles more than 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-23T08:43:39+00:00"
+      "time": "2026-10-23T14:45:36+00:00"
     },
     {
-      "text": "What is Shamonda, the livestock virus found for the first time in a person in France? - CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRm5DYV9aYW9YNHdXMnJsSEtmRzAtQ2x3emZXVktTSWd0OVhhWk5fZGkwSEVMSzdNUmNlaGo2Nkd5WXB4eTVFSXo5Q29FSFVESzU0a0RBMFBKY1lMV3FyaEFOZXdVNXVtbXZ3SHVMcw?oc=5",
+      "text": "France Plans to Bolster Police Presence, Expecting New Protests",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-23T14:18:29+00:00"
+    },
+    {
+      "text": "Drivers Are Livid After Vote to Ban NYC’s Horse Carriages",
+      "url": "https://www.nytimes.com/2026/10/23/nyregion/horse-carriage-vote-drivers-city-council.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-23T13:57:30+00:00"
+    },
+    {
+      "text": "There Are Solutions to This Crazy Economy. Voters Will Hate Them.",
+      "url": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-23T13:17:49+00:00"
+    },
+    {
+      "text": "Trump Asked Musk to Reverse Starshield Restrictions on Ukraine",
+      "url": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-23T13:05:59+00:00"
+    },
+    {
+      "text": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders.",
+      "url": "https://www.nytimes.com/2026/10/23/us/trans-troops-military-boards-retain.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-23T12:55:22+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-23T07:00:15+00:00"
+      "time": "2026-10-23T14:32:19+00:00"
+    },
+    {
+      "text": "Review of iPhone Duo: A New Chapter That Redefines a Smartphone’s Purpose",
+      "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-23T14:01:46+00:00"
+    },
+    {
+      "text": "Israel orders ‘full lockdown’ of occupied West Bank after 2 soldiers killed in shooting attack - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3dwb0R4Z1VVa2VJenltT3B4WWEzS0xsc2Q5SmY0eEEwNy1FN2J6RlZDZE1DaUhzOTdKeHNuckEtMkJvYk0yS2VfRmtBQmhuT3VpcU5CMDFPWlBIYWRDU25XaU51SHJ5cVF2NHkxNGdLb3AtVkpuaHhOR2ZpQjk3aWd2Ni1NY04zM1dLNUxYVlctdWZnUE1RR1N5Q1dsUzF3em1pWjlqUUxpQS1p?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-23T13:56:25+00:00"
+    },
+    {
+      "text": "Dave Regan Pushed the Billionaire Tax Hard. Now He Faces a Union Inquiry. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUi1XcktRbDZKV3pYdU9jOXhzbnVSR04tVEszaUp4d1pQYW5PVThIYmFXU1hvZzFpLTlPY3BRQVRCbFFrMkx1amIyckR5VWdseDRJYkZkZGdOb2xWVW1XczBjeXE0QVJTVXlWVXFVV0RfaEdhdFNHWVJpUmhjT3Q2eXotV0NPNGpNc05FQlBPUzg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-23T13:17:41+00:00"
+    },
+    {
+      "text": "The Bukeleization of Latin America Has Arrived",
+      "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-23T13:05:25+00:00"
+    },
+    {
+      "text": "Midterms, rift with moms may be 'death knell' of MAHA-Trump alliance - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUVWVHAwUDZMNDlDOEtFaFRzWU5uTFdFUWotYnlaVldYWE9EdVhZM01BTU9mbWJjaW1zXzk0dFVGQmt4VEo4UUUtMkh4cnQxS2lJSlpHSkNlTDk5M1V6eFdsZmNmdlJZNnROakk0Rm1zNk5pUkZ2QU5yZk9VdDNTcS1BNG5SMFNFT2FTQmFTSS1HX3FqRUc1c2NGLThxbFVkWmUycGJFS24?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-23T12:45:00+00:00"
     }
   ]
 }
