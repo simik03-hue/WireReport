@@ -1,54 +1,81 @@
 {
-  "generated_at": "2026-10-24T05:57:07.701070+00:00",
+  "generated_at": "2026-10-24T10:47:32.471887+00:00",
   "lead": {
-    "text": "How Brazil's changing working class is reshaping the presidential race",
-    "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+    "text": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+    "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
     "lean": "center",
     "topic": "world",
     "sourceNote": "UK public broadcaster.",
-    "time": "2026-10-24T05:05:44+00:00",
+    "time": "2026-10-24T10:22:34+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "The rise of AI election ads in US midterms campaign",
-      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+      "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-24T05:03:44+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-24T10:00:01+00:00"
     },
     {
-      "text": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlJoOXZ4OHV6X3hNUTFnWnJveU5VWEVNWGhSMTRueHdwV09qZlowMkI5VlROQ0hKcUNXSHBkWmlyYmVIVUpENVhTc1BYRHVjU1R1Ymx2MDVWMHJVdmR1YzVjRWlQMzJuSXMwV3lZSmlYcDY4Ul9aMXcwYzZqS01CSkJuWXdWSmV4alE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T04:42:00+00:00"
+      "text": "Early voting surges in battleground states as Democrats outpace GOP gains",
+      "url": "https://thehill.com/homenews/campaign/6169626-early-voting-battleground-states-democrats-republicans/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-24T10:00:00+00:00"
     },
     {
-      "text": "Uh-oh: iPhone Duo displays are reportedly cracking along the hinge on launch day - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWo5aWVDeFFyQWpNQ28zU2xNRUQ2R25MRlVGenRUeUU4OVZJYUFKUHJpZlJHdDNqYVdnbE9rWWtmRjY3THBIV2dkMnhoRXlzTHlOcjBRN3VDYkxGU3NkZ2xQUkNkQUE4QTZseURUTnRiME05bFYzQ2hScWNmaERETEN3RnRobERS?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T04:39:42+00:00"
+      "text": "Why a blue wave might miss Minnesota's Senate race",
+      "url": "https://thehill.com/homenews/campaign/6169517-minnesota-senate-flanagan-tafoya/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-24T10:00:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million",
-      "url": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
+      "text": "Outside Chance",
+      "url": "https://www.nytimes.com/2026/10/24/briefing/outside-chance.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T04:12:17+00:00"
+      "time": "2026-10-24T09:22:22+00:00"
+    },
+    {
+      "text": "How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans",
+      "url": "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-24T09:03:21+00:00"
+    },
+    {
+      "text": "They Were Accused of Illegal Fishing. They Ended Up in ICE Detention.",
+      "url": "https://www.nytimes.com/2026/10/24/us/politics/fishing-immigration-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-24T09:00:48+00:00"
+    },
+    {
+      "text": "Dem Star Erupts at Fox News Host in Fiery On-Air Clash - The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlNuU2FSMVJzbHlFVnNVYzFaOFlwcndBTGpDVjIzbGw0TWRWSVJHeGI5WWF1RmM3Z3JPd2J4MTFIZUxBT3ZiT21jUHRzZ0Eyb2JQbXRhdHc0bjMyM3NCSUJ4VVI1TGEwVWlxcXhocERCVFdKSmNBbGdSeERZTGw1LXBsMnlUWXVHbUNIXw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-24T07:10:13+00:00"
     },
     {
       "text": "Hegseth’s staff tried to block troops’ participation in Paris NFL game - The Washington Post",
@@ -57,63 +84,101 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T03:06:37+00:00"
+      "time": "2026-10-24T05:34:29+00:00"
     },
     {
-      "text": "Trump rolls back some Canada tariffs as midterm election approaches - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5",
+      "text": "Horoscope for Saturday, October 24, 2026 - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGtDMkFnREE0ZlAtT1BKa01pU2dDQ1F3dnNJd3Y3dGJDY0hJM3NwZVg5REpDY24xOGNtN3FoQXFsa0MyLTFIVkJ6VnJDdVQySkNBcXQxUEFtaS1VZWxYT3M1ZnpPTEtndUdVdkpFOF9NaEJmd1NkMUlCOG9pVllKcHhSMDBUWloxODZZXzV3VW5JbkI4c3dr?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T02:35:57+00:00"
-    },
-    {
-      "text": "Rays vs. Brewers live updates, lineups, where to watch: Nick Martinez, Jacob Misiorowski open World Series as both teams chase first title - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUW1leTA3aG5GTmU2aDVKdzRxUWh3dThyMHNnanFEOGxKaFNMM2VfcTBtRDBSSzdEekVNZHUxMTQzamZzNk5YT3N4RE1YZmFTeWM0X29NcGM5NWczd2RsbkxxWmgxMmdMV1ZPNEJzakNnNzZodWxrNGVkSU1zRXFCNEpiZUJwb2NjZjJydjZ5YXdvTC1kSWwzbDNudklJdUlIUUZwMnJTZGo5Z1p1aXNoMm92Umc2YnVCMUNQQy1mMmpvY1AwNU94ZGs1M003WWtSZjhtRkJrdTBud213Z3JVMzk2bG14YzVQTGEzTDlVR1IyTUU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T02:32:00+00:00"
-    },
-    {
-      "text": "Argentinian judge drops fraud investigation into Milei over crypto scandal - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHU5M3hnTDZhTGdwWFFRZ1EyNEFyV1hkX1JNTEpUdEQtdmc0TE5GMExYbEdhTVNPLUVFWmRfTG85YXV4akRTOWdCajFoeUFzZzQ1SmU1eVl2RVdINDYta3ZQR3h1SnN4UjQycjVlcUJMRGFfQ1phZHBCY2t0bC1OWDA4eU5RcHlJbllsdkxGaVRNRkhKem9NNElqMlBRMEVjMXR4TUVUdFV1Y1I3YlFfcVRFX1UzVm_SAbwBQVVfeXFMUDh6NC1xQjFZM0tzeEc5SE9YVGlpZUFsUU1vVlVnd0lhWXBpSXdyLWFGYjlCVXQzdE5EYV9zbU11ZGc0T0xaanlGM0dJZnVjcG1IbE5kRDZRSzdZRUwzZ3RXTUhIRVRHUjhKdzFFcDA0anJ5eXdwdEthM0NrQ29KeVNhOGU0RS1wOXN1TFh6cndVN2FxTkxpOERwXzR6dXBJSFlEQS1zcnVWak5aWUZyWWhPQklDZUUwcGlhZGs?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T01:32:15+00:00"
-    },
-    {
-      "text": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T00:43:00+00:00"
+      "time": "2026-10-24T05:01:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "How Defiant Youth Are Testing India’s Idea of Democracy",
-      "url": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
+      "text": "Gina Hinojosa Believes She’s the One Who Can Finally Flip Texas",
+      "url": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T04:01:08+00:00"
+      "time": "2026-10-24T09:15:04+00:00"
     },
     {
-      "text": "Former FBI officials charged with lying to Congress about Hunter Biden laptop inquiry - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc0pJTXdtekptdERlb0dybl9DMGZDa1doWllUS0Rsa0VXeVQ5S2JmRVhiNWNnTElhR3FsbHFRUFQ0c0hjcmUzNXM5aEZmQnd5RXJYSzI5bndraW1LV0RfUFBmU0NXeGx4cUZJb3hGZzRVY0w5anh2U2c3ZWxfRmVqTE1pcUNHZS1KMG1WbWFYRjQ0X3RacFBqUHFjQXJ5YUh0MGpSZmJrWE4zZnZzZnhrLWozTGpRUnZ6WklVbzdqNUx4SlhMbkpDX3dJZThhcXg3V2xjQVBJdHBrU2s?oc=5",
+      "text": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+      "url": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-24T09:01:26+00:00"
+    },
+    {
+      "text": "Iran trying harder to target US personnel in Middle East, intelligence chief warns - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWDNRWTNxMkEyVlFfSEZmUVlPVlNncENwMDBNck1XNDRWZzEzVDV0VVdzQUx5UW1wZVpwSnN5ZUxlUERKb20ycjUtNExTX1pOeDZva1BiTVFxZUk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T02:52:21+00:00"
+      "time": "2026-10-24T07:36:02+00:00"
+    },
+    {
+      "text": "Suspect arrested after fire \"completely engulfed\" Hitler's Eagle's Nest mountain retreat in Germany - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWhCLU9qbEdCaTQtbVJ6b2FKMzZ3SmF6aGtvWkVIWTFJdDdQRUU5NjdDNWlfMi1kU1VWNTcwQ3BvZ3VnLVg5YTlXTHlRMUJ4UEVWQVlpbjZURFQxd2hFNm9BWm1XT3hmbWNaYzZJRWYyRFBiaVVZWkdXTDhKOEtERQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-24T06:46:59+00:00"
+    },
+    {
+      "text": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNFhxdS03S1JqNTRNczFyclducXpZaG5pdFhCZFZmS1dOU3hxYjZHamZHeC1zTXl3QUJHMXljbXB5Vzlkdk9CMnhjTFFkWjAtczFiWWEyNXZYalFqdm90TGZNZzVGS1dzOHZ1YWVVdWxOYWV3S0pTcG5GUmZveEZoOXE4U1F0dVVOTDA0N2N1LWhDZHltczRBb9IBngFBVV95cUxQNHVUWDRMTnRVUWdwR1pNVThpa096VGV2TEdLMDlBNDJaclZkeURlanMtcHRBYVJQSTF0RkJYZ0NWRUtRSXEwMXVkOFZ6QlZyVXpBdkt5ZW91cnRpbGl5REFNeTF0YjJvOFJyd1RGeHNuSVlldklPYXUwbmh1Y0N6NnJaY0YzYmtibS1vaTlEM1JjeHYzVnhZUzd3ZktxZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-24T05:31:37+00:00"
+    },
+    {
+      "text": "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million",
+      "url": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-24T04:12:17+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Looting Left Damage and Fear on Paradise Street in Marseille",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-24T09:04:28+00:00"
+    },
+    {
+      "text": "How Trump Gave the Worst Polluters a Free Pass",
+      "url": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-24T09:01:00+00:00"
+    },
+    {
+      "text": "Paris shuts museums and police deploy in big numbers for new protests across France - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-24T07:25:00+00:00"
     },
     {
       "text": "Justice Dept. Demands That California Counties Help Identify Noncitizen Voters",
@@ -122,90 +187,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T02:35:37+00:00"
+      "time": "2026-10-24T06:21:05+00:00"
     },
     {
-      "text": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+      "text": "World Series 2026: Brewers jump ahead of Rays early, Jacob Misiorowski and bullpen secure 1-0 series lead - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUW1leTA3aG5GTmU2aDVKdzRxUWh3dThyMHNnanFEOGxKaFNMM2VfcTBtRDBSSzdEekVNZHUxMTQzamZzNk5YT3N4RE1YZmFTeWM0X29NcGM5NWczd2RsbkxxWmgxMmdMV1ZPNEJzakNnNzZodWxrNGVkSU1zRXFCNEpiZUJwb2NjZjJydjZ5YXdvTC1kSWwzbDNudklJdUlIUUZwMnJTZGo5Z1p1aXNoMm92Umc2YnVCMUNQQy1mMmpvY1AwNU94ZGs1M003WWtSZjhtRkJrdTBud213Z3JVMzk2bG14YzVQTGEzTDlVR1IyTUU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-24T05:04:00+00:00"
+    },
+    {
+      "text": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T02:15:51+00:00"
-    },
-    {
-      "text": "Dengue cases in Florida continued to climb after emergency declared - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHNwLVM1YmE3MGlGeVNZdnFmZTdZYUtFSVVtVUtvTW83dTZXWmhaWldJSDhOekRWOXdiSTNEejRkWmpOWm8wTWlJTHNjREladVhzSFRjYmdHaWhUUjhWTUR6LWlfSjJfTE8tSWtKSGdIOTZPclZSb1dRVTVEbjdIZmk1dXlYMk81R25VZHFRMUFyQUhXVDVjRVNZc05qd3ljeVc1b3BPQ1AwMXphYXM1Tw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T01:25:33+00:00"
-    },
-    {
-      "text": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad - Axios",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNeTEzZmFLRm96a0wwNXV4bTBDU3JHX3Qtc0x3TnVKOW1PbFJ4c1FyNFNncVR0VkpLeUwyX2xGenAwU281WEpFZWRYdTNVaVIxbFRuaFBMRFNWaVI5ZFJBeHhyRll3QWs5aDJYQUtMQUdMMWpnalRPclZ3aDd4dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T00:23:34+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T03:46:54+00:00"
-    },
-    {
-      "text": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnZ3Y2dPX1lNWkprR3Nnc3FZQjdWRW5aNzYwRGZJbmFfNlZfcE8xQWxmUlZ6U0ZQQlhpem1IM0VnZ2N4M3B0dHlQeVFqZ1M3V1JlLUpxczJ3TVM5RmZlemxfMkFSQzdUMGpxX2J5dGctTURuUnNhX1V3Tkx4ME1TRTFQaHpnTXNrb2d0QlMtelJFcEd0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T02:45:00+00:00"
-    },
-    {
-      "text": "Vanessa Trump says she is ‘cancer-free’ six months after diagnosis - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmlLWlR5ZXNWOXBDbkpYNVJta3UzTlNKbmExT3drcmJ3NHljMGRsd0lMUkE0R1M2UDhRc3k0anR5N0MwNkRlU0JMdk1ELU9vQktsSjVnM1daWEVHbDRJTEhHZEstRVRpdTB1bmhjbk9yeVNjaG5yMDZ5eDlEOEl6Q05tMWZLMEVoUTQtWnlvOFhxQ1NrTklwRklnenc4NzZ4SE9BTmFGanBrQkZTZ2tYc1drV29ISU11RlRVNWNvWU81clU?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T02:33:00+00:00"
-    },
-    {
-      "text": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T01:39:28+00:00"
-    },
-    {
-      "text": "DOJ gives local California registrars 48 hours to quarantine suspected noncitizen ballots - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFhpeWpaTkg0TXo1QWhkNndIZVg3NmtIWS1oS0E0Q0JSRVRZMmwyTTNnWjE5S3RrYW0tRURKTGlwYWhLV0FtSVRKRHNXaU9NS09EeXd1ZWttaFVKdzZzTTRaVTZHRUM0NnJMSmVqOUR3NUZtWG9aLTkyZEhRZWU1eDh1dEhxY2Mwa0Nqd2pn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T01:11:35+00:00"
-    },
-    {
-      "text": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUNnR1RPd3VXa0hoTW1USmVib3RXRVNMbjI3R2NwNDhtYkV4YU10azF5U0VVUEZWQXFRdFdlaUg1eWFDRkZTZi04UUJ6MmtEem5YdUhra0lCX2trOEtSWGIydnpjQXotNDBZVHdXT2lOeWlKenNnWC1CS3NBNVhQOW9KNmJWZTNoTlZkUEd0c01XTWs1M3dTbkstZVpCNjVROE5r?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T00:00:00+00:00"
+      "time": "2026-10-24T04:01:09+00:00"
     }
   ]
 }
