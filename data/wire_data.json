@@ -1,119 +1,25 @@
 {
-  "generated_at": "2026-10-25T00:29:13.982593+00:00",
+  "generated_at": "2026-10-25T05:12:53.539127+00:00",
   "lead": {
-    "text": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
-    "url": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-24T23:48:11+00:00",
+    "text": "The Grace We Seek but Have Forgotten",
+    "url": "https://www.nytimes.com/2026/10/25/opinion/the-grace-we-seek-but-have-forgotten.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-25T05:00:05+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-      "url": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T23:39:51+00:00"
-    },
-    {
-      "text": "4 Bodies Found in Haiti Are Thought to Be Those of Missing Salvadoran Soldiers - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB?oc=5",
-      "source": "Google News World",
-      "lean": "unrated",
-      "topic": "world",
-      "sourceNote": "Aggregated Google News World topic feed.",
-      "time": "2026-10-24T23:38:34+00:00"
-    },
-    {
-      "text": "Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ?oc=5",
+      "text": "Brewers rally vs. Rays in Game 2 to take 2-0 lead in World Series - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVJxNTRqYXctTUJpNEVsOVlmSVZsWjlQOE5QN1V4VlgwS2RnMDhmRGl3c3ZraHZwWXJzMmYwelhLVjFuZHREVEZBRnk4M3RyRUgwN29jVXdEVkQtWi1UUlAwdmx6ZVAyb0tKdFVkM3IySGxELVNFSTd4TTFPdzV5c1dLelptWnpPbU1kRXZ2OW8wZUl2V2l1dHRqMUc3RjBkY3c?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T23:33:24+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Kimi Antonelli seizes F1 US GP pole and chance to seal first world title - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGNYN0tuMkh5VFYyVk9tb1lpMVR4WEpqNGtJNGZnUHRlWGVzVVpFWkd0QTYyTExNa3huUzQ2UWlOYWRVb2l2UHZHQl84V1FSNC1wbEl2V05iUXFqMi01NEdkWWZGcm9ibURtZ1lFcWpJN1hrczdkYm9uNDFXNWRXVTZXTG9qRnNWV2pmNzdSUWhiOEN4bzF3a1UxUlYxb3BuU3JlN2F1OUlGa0VqVkxFMzNiTDhYOUtKX3c?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T23:05:00+00:00"
-    },
-    {
-      "text": "Alexander Volkanovski, Petr Yan solidify their greatness at UFC 333 - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnM2SlUzLXVpSV9pdmtWWWJrazJHcGhEcTlkR1dJVlE5TXFzUjJqZk5FU2piSE1NVEEzZDNXNEJsQlVZX2tDQnVlTEZqNFIzZFBHcE5IQWY1ZUx6OVI4UEtGOWlSVWU3SUxvaTYteGpYeEMyVm9nQlZHOVpyUF8zRVJmdGM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T22:42:00+00:00"
-    },
-    {
-      "text": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T21:23:15+00:00"
-    },
-    {
-      "text": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T20:23:00+00:00"
-    },
-    {
-      "text": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZktSc2RSY2JDQVNhQkI5WEhvUG15SHlWdEhGbk42WFc5THhVcWIxS3htNk9QUE42dUlUbnpFWURac3d4eTl1MVl4SHN2SlhtSUVZS3RtTjJTSHZTOEw4TXZrMmdMQTN0MERVLUdlNFo0alh4SFZQdmN4TEdHcndkellR0gGHAUFVX3lxTFBXRGhHS2Y3YUEtVHNISUV5NENROVFzN1lRNm84aDREUnBsbHhoTUstVGpTdS1QcnJZamdTczJtT0taUVc0Q1ZwSVRnWFRUcElraE1oTW9nSjhmQVNBeEtLRWhfY3BWcjlvb0daemRSS09qem1RMTk5MkRCTGxFcnpIWmxucHZwOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T19:57:24+00:00"
-    },
-    {
-      "text": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGtZV2dzVnFHdnRVZmFBYzJHMHkxcXItUkh4dENHTTdZOFF3a3RTZENWYWU3aVFfdnpWM282d1RtTjlNMjcxdDUtODNfOTZzSkNoX05jWWltYURKaEhPWmx5RTYzQmFDQnF5YnpSbEFUei1KRURRS194alN5eU44RUhsX18?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T18:27:42+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Trump set to announce Audi plan to build US factory in Georgia, source says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T22:52:30+00:00"
-    },
-    {
-      "text": "The Eyes of Elizabeth Holmes",
-      "url": "https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T22:36:41+00:00"
+      "time": "2026-10-25T04:17:30+00:00"
     },
     {
       "text": "Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC",
@@ -122,45 +28,175 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T21:09:27+00:00"
+      "time": "2026-10-25T04:16:52+00:00"
     },
     {
-      "text": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
+      "text": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnk5QXFZSUVHb3U0WEhGVFZ6YWUwYVdNdFgtOUNqS2VvSTBiYjJXVktNVGhNak5VQnBBSUdXOWxXM29pMkRXWW1OM3JZMlQzS1JQZmd3VTd3VnBFVm9ma3drTzFJTGZiTExQdXpFakhBUVh0TjZRTjRuSUtCbDV4VF9HdHRCR04xVzR2Qld5anpQRHVfVGtwSHhaeU1wdTVuQzhtWmRkM2t0TE5USE1WVNIBtgFBVV95cUxPazFHLUVrT2l3VF9wNWtMZHRXdWVJUlRmRkpESVhpTTNFVVltSXRuSFgwNVZCM1F2WTZlbmVfWG9EdFhvclplVExQQ2ZDbDlteTN3OWQ5dFZiX29GV3VFS1dmTkhFNzNMZXktdXJMbFVKRmRTZEVtU1J3TVpMcTJZOFg4SlhfR0lXY2dTYUFVQkw0MlV0M2Y3c2RnTDZVQkNOWFJsQnZoR2tSQjJKUl9rY3NQNVRaQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T20:16:00+00:00"
+      "time": "2026-10-25T04:07:30+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Texas Tech no longer controls its destiny after disastrous Cincinnati loss - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVDM1cVlnZDJsMW85enZyby1rTDJNMjc2dXRSeTh4UEZOSzhDZGVFdWxhNExjN1JRaG9yRXhORWdtMTd3VlQ5aVFHLUlNcTk0UURodmxFaFlfR18xM0ZqbXB1Z2JEVWRrUGhvdGItZWZueXlURFZKLThWenNPWjZMZDgtaWFmV3VFcFRXQnhIUUtsYlN3bU5WR0RYRjhIbEZVVG1hMGpoY0ZqdFR2ODJ0QjU2NmREMGllMExFOVNZODloN2h2RFBIdUJnNGR2ODRLOWVoZEhtaXJydDNVXy0yT0p5bw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T03:39:00+00:00"
     },
     {
-      "text": "Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands",
-      "url": "https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html",
+      "text": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+      "url": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T19:21:11+00:00"
+      "time": "2026-10-25T02:39:57+00:00"
     },
     {
-      "text": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+      "text": "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGt1SlVnaVJySEY0YnFSWkdhTjNSeWtxRGxTXzk3MWUtRjVIT0FFVmd5WUhjOENRUTlOMGxpOF9mY2Q4Y1c0V3FaSzJQRGxyVmEzc0J3RElpSHhzRzRTTjhyOWQySWZuWHFsUTEzdTBJcE5QRjFMdFFYXzJlUzlnQ3FDdE1TZXlxQlFFU2xfRkhEdDNhM2pobGZIU3NDOWp0MGFabFBYeWIyd3pubE1KbWZ0ems5dw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T01:55:00+00:00"
+    },
+    {
+      "text": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDVYTzZTdEFTcUxhY0thYmxKcUIxUW9KekZaMEU0YnNPSHZkN01vMjlGazVfZXVKYUlOSXV2bWVPTjdDMEZmTVhyZGtYN1BvQ0kwVzhlaVdJZEhyNG85a01lQWtIT1lzLS1uaDFhVVY2MThfdlo5d1B6U3hwVlJVVXA5VGhQS1FJNlR4X19KaU1EWmUtbEJxcW13MmRoZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T01:05:00+00:00"
+    },
+    {
+      "text": "NC State fires Dave Doeren, school’s winningest football coach, after Stanford loss - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FT3Z6S2FkcWVLanU0eWdBTWVXbWJZV3p0eUFiNTVwS2ZpZE00Z1VYbElrSnhDeHRxVFBqQmJaNUVVajFrbE1xMlN5bGFBd3hDbkk0NU1XTnZDNHY5YmVJZGpjdG1GVDFSajJaUmx3Y3lRMmRIQS1UZUl3ZlU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T00:45:56+00:00"
+    },
+    {
+      "text": "The PHP developer who became the unsung hero of the internet - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LdS1LRWVpT2JkYXRKYUhhRF9OZGdzTEJSWUllclhPek1Wd2ZqUU5GeTR4b29TckJkVndpQzIyLU9IT1BfOVVFRnI0VXlEeVVGV0FaZFcyMUdBVEU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-24T23:05:06+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "No. 19 Texas blows 21-point halftime lead but still does enough to beat No. 7 Ole Miss - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZXp5ZndQQ0h6WDFPU0JXQVlCMzRXUWhKYXhVVE5OU2g5OFpTSWptejdCMUVJY2pwbzQ4T1ROVmRuVmdkLUtWNkY0ckFxUHhyUW1KejhQRG9NN0l1bEU4OFFXSjNwYWRsNkduTE9fSDEtb0JfLVFFU2JfclZFSEE2VlprRDZFdHJsUHpyeVVOM1duMWhRYmhld3dXNGxTcnpMOEMzVk5QaTJkMzhyWVgxLVU4Ym1NOTRLY294Szg2MGgzNUFEdnAyMWluaXc2LXcwdVVVbEJKQkhRT0J4UTdzUHg0c1gyeUN6YV9paFN5d0FORHZmbnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T03:33:00+00:00"
+    },
+    {
+      "text": "Former President Barack Obama tells Detroit 'change is in the air' - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVXJWcW1yN092MTRUNVhubjhQdS1FcWR0M29iZGt1aEdtd0Zqa1lsOXRCSmZSbVBvN1R6S2Q5WWFtNTJ5Ukt0Y2JHZXBObDBjbWF6RUVKcWRjZzFQS1NyQ0NFMHJ1UW5KNUVCMmFCZFl6ck5WNFZXYUMzaFEyYldSNFRHY09QQlEwVTVtNENORlRJclUzTnFHSWRLa1F5UWZQXy14S1hrWVU0YWVtUWltY1V0N1RoZnNkenN5Snh3UG4yVTIzZ05ocC1zRkhCSlNkTks0dGVzcVhidnc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T02:04:00+00:00"
+    },
+    {
+      "text": "Italy’s Young Protesters Return to the Streets",
+      "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T18:24:42+00:00"
+      "time": "2026-10-25T01:26:08+00:00"
+    },
+    {
+      "text": "Iranians Face Anxious Wait as Threat of Attack Looms",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T00:51:45+00:00"
+    },
+    {
+      "text": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T00:10:07+00:00"
+    },
+    {
+      "text": "Palestinian families displaced as Israeli forces demolish Hebron homes - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMEdmMlZaSzhHcFgtaEdjZlNkQ29JdlE3VEVRaGxyd3J2ZktQeHF0NC1RRTlnaVJKTHNBdlZwNmRVM2JSZ3ljbzY5cmdDWVRBbXJZZXRZYzEweWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-24T23:02:06+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Quarterbacks underwhelm (again) as Indiana holds on to beat Michigan in OT - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXFGRUxrSGh4VmFseVdBS3FqekNOUnhMZkRZc1FFRDczZnRjak05VVZrS0RGbUEtQzd4YmVPQzRCVUZJRTk1MUFCTTVxNWVjUzZDbWVaUHIzZjlmYUkxVVd5dzlJSnlWUkVpQTk2RFB0TG9WLWpkajlRbFBoYWMwbXdONzVxcFJEOEZxdjRpX3Y2MWFnSXR5OVZqUE9OUDBXd3o1V1ZxOVNHUQ?oc=5",
+      "text": "Tom Brady dating supermodel Candice Swanepoel: report - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzZCQ3l5M2w1WGxZbFc4bnJYWXZhN2VoUXdlMGN5Y0tiSTczbGVRNmo4RWtuS1dWX0tXOVI4NS1KaXJLNHMxR3oxbldVVzFSOGhZeklVR0tyM1BMWEVEZGoteUs5VFcxQlF5ZWRGYVNXWDVOUHA0bTl2LUVZNjVIREV1dUY1bXliQ3czYWtibkZRM2RXdnNEV1psRklCc1FY?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T22:48:20+00:00"
+      "time": "2026-10-25T03:12:24+00:00"
+    },
+    {
+      "text": "Alabama man says he found wife with a self-inflicted gunshot to the head. Security cameras tell another story. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNangtVXQ3bnNSYjVISkZKRUNJYnh0MkZIVUVhSDZzVE9LUlhTbGE1T28xNGZuUEl1QWJPQmZtLUwtbUx5WldBUTVhNGdSMzBTV3dhN3RjSmJ4WHRvYXlRLThxWktGS2pLRlAzamtJSUpnQkJ1ZGpaMUVDZU5KSHJZbzd5aDlwYWt6WE1rRV9vSldmUTdESW5SSG85OTR6Y0xFcDJ5Z2tQekIwYmRhZ2JzTGQzY1JCQmpac3hONQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T01:58:00+00:00"
+    },
+    {
+      "text": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+      "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T01:06:17+00:00"
+    },
+    {
+      "text": "Musk says he was behind Starlink’s slowdown in Ukraine - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1Rpb1ZDekZxMzNKM2NrVzdfZ0pWN3ZYMXgtdndmcElLLWhBY29jdERMU0JKT3E5NVlrbXYyTUR2UzhkaHFMQVZBMlQ5M3MwbkhVYmZKa0xNaTRvTUFaakJtbEh5SHZMQ0VCZlBINk50Q1hYczhua3B0UmFNbWFGQXRYaEpNTmvSAYwBQVVfeXFMT1BTWFp1UXAyQ2E2TTZWMHBpcGFkMHJvRTdsd0ZTaEc5TmtwZkNZQnpaMHU0TmJBSWVoRkNMaTZvYkljS1RDaDExUWFsQlhVbE9FWEU3SjMwSVBtOGx2RkJCWHpfVm85VE5HdEY5d3p6Wl9wdmJnX1RvdVhsQnRpUncwR2Z3V2tmWkdENTk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T00:49:23+00:00"
+    },
+    {
+      "text": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0puX1NRVG50eGxudnI2VW50VmxWbUtFTVo5U0cyTUJnNXUwRTBwRlFUMU9obVBHUkMwTEhlUGllQjNWVkM0aldyNVVwZjhrbldRRWkyd1ZaUDNSMm5FSm9ZNGJBRGF5X09jeDZMU0dGa1M0enJndVlSLTFqT3ZIclVTMnJKV2F0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-24T23:48:55+00:00"
     },
     {
       "text": "In Alaska, Some Early Voting Sites in Rural Villages Have Not Yet Opened",
@@ -170,42 +206,6 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-10-24T22:06:45+00:00"
-    },
-    {
-      "text": "Texas Tech’s $30 million roster runs into a buzzsaw as Cincinnati delivers Sorsby revenge in Top-10 upset - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYi1oTTJaQWNrU1ZZLUdMQmVkUkdyMHF2UXJ3WGtPVzgzRHAxY0xVcTdLcVdQRG92eFNhX1JuUG9CYkRLNW9BQ0VhOE9XalBQN3VUUThjNnRoNUlEeUhfdUFiT29GTndSLW8tU25BVm5Tc1ZJZGl1bzRLVi1sbm5WRW03MjdjT011bmVTOHR2WXAzb2RwSFNGa01IQnBHRlcyc3dwUEhCb3BsTmNjRElmdWtjeTcxUDZ4R3JRTXV1aVRqNy1zS0hVeGRPd0xVUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T20:46:37+00:00"
-    },
-    {
-      "text": "Bulldozers tear down home as Israel cracks down in the West Bank - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0RKbWFORDR0RFhLamxya284YUxWQnBUa3J6LU55QUlMRlFpblhpal9aVXA2QTJSQ2k4OElNNmZhd3kwQk5Xa3NFTWhpZUZEQzAyOUkwZFY2aUMwVkZ4MklDMV81N001b3lCZ2tyS1c4eHc5QUtBOWJab0VYSjRDSGtYbzRqOGpMTDdxYUhxTkM4akdRXzhv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T20:00:40+00:00"
-    },
-    {
-      "text": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmMyVGFaQTZkQWdEM2x5SjJTSXRLaVQ5VjNBcGhhU2w3WU9nb3FkZExxLXJ6d2JhY1drM0kwRkRRcHlFcEE5T1YwMkpWSjRzdjN0Znl5M203S2kzTHd4LS1yM2JCVEhpc1FBSm0zMmtYOFhyOFFpZkp6YnoxdjREZnhsRGthM21PeVAtS1Y3TWFfbHFhZnR1ZUVlMVBWSkkwOWF6emE1VDA5QmNXd2dr?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-24T19:00:00+00:00"
-    },
-    {
-      "text": "She Planned to Protest Trump. She Didn’t Plan on Getting Punched.",
-      "url": "https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-24T18:08:58+00:00"
     }
   ]
 }
