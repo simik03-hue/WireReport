@@ -1,203 +1,158 @@
 {
-  "generated_at": "2026-10-25T09:54:10.558388+00:00",
+  "generated_at": "2026-10-25T14:14:30.073882+00:00",
   "lead": {
-    "text": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-    "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+    "text": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+    "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-10-25T09:28:35+00:00",
+    "time": "2026-10-25T14:08:51+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
-      "url": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+      "text": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-25T09:24:25+00:00"
+      "time": "2026-10-25T14:05:17+00:00"
     },
     {
-      "text": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "How Trump learned to stop worrying and love space science",
+      "url": "https://thehill.com/opinion/technology/6168963-trump-saves-nasa-venus-probes/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-25T09:00:00+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-25T14:00:00+00:00"
     },
     {
-      "text": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
-      "source": "NPR Politics",
-      "lean": "left",
+      "text": "Trump calls Murkowski a 'disgrace' to Alaska, criticizes ranked choice voting",
+      "url": "https://thehill.com/homenews/state-watch/6170659-trump-attacks-murkowski-ranked-choice-voting/",
+      "source": "The Hill",
+      "lean": "center",
       "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-10-25T09:00:00+00:00"
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-25T13:53:24+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Serbia votes in election pitting longtime leader against student movement - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTZyWHFhamhrX1VNUjFBeEhCLXBfbUJsYmpkZVlkdHQyTnc3cndpS3lNOWZacEJpdVVTX2tELU1zZ3JMQmNReDBDVkpYSk5uaHNJREVTQnAyMDBwUFoxU1didGlZTUtxXzU4VEhJN1B2dE9HTk9hcVRGdDlQUlFlSlY2WWhid3E5OW05U3IzM3Bkc0RIcUdEVzQ4MGNsTkdDdEFBQjZtLXExOGRYWHBFSFJGUE5Bd9IBuwFBVV95cUxOOHhGSl84cS16WHQ5OXRLMWstQThSOUtralY0YnBKTmF4bDZIVURSTHJMb0VGXzZ4NElKQm9LeG83d0czMDBhSGpjSURONFpKMHpTWTBuSFV1NFBBQThkVHlzZkVXZlBfUmNzQUhDdDNBY1ltRHh0dmwwMVRGMHFaY3c1QWJtUEFQQldzdDFvakdHbkFIb1RkUXhCTUhOTG90dlNGdFhiaFlCTmxYaHRfcWFqX01tRW5uRjNv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+      "url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T08:08:35+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T13:51:21+00:00"
     },
     {
-      "text": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0d3Z0QwR1hSYzFramJkSlNLMGpjcW5BdDdUTldHZDROeWxHYnBodHpNSWM1TGlZREhWVVRXZTJlTHZhYUR1TzFDb0xHMzc5ZmlnVTUxZldXeUZGTHYydlhtOGVBNl91Und4V3hUVC1VeVZLZkd3MXNSbk1WdUdyTTVEUXJ3Y3Uzdy1NVHVjZ0hpMlNENm5V?oc=5",
+      "text": "Elon Musk says SpaceX closed Ukraine Starlink ‘loophole,’ while Kyiv denies breaching terms - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXBvdGNZdU9CMWpZMWZsSUhGekE3Wkg2M1JVSDlYRTlQM1BTVjRqNGVfbl9vbThtRnh0TXA1eUxOdWhoRDNicXRmVkJ6aVlRdkRaM2tESVg5R1gyRFFzWlZFMXpmcXNmTjlrdmd0Z0JmVDZDTnk2VEdvN3R4WktndktYdG03SmNReDJaN1R5UzNZdTk2LTRGb2lUaDZTQUtmSmlHRGNQQjdJZXJoR0NBdEpWd0VnQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T06:39:00+00:00"
+      "time": "2026-10-25T13:32:53+00:00"
     },
     {
-      "text": "Texas, Arch Manning pull off gritty win after blowing 21-point lead to Ole Miss - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVdjWWhfel95TGFCWDhZbjN4MmdCZ1hpRzhQb2ZCMkhsRXZfMVVJSXFsQnM4Z1RrM0hQY0JOUkdYUmVpZmpKTFF6STNNQzRBaVlHaWtkS3VmaVN3RXBIdmxFOWVoT1lhQzhkRl9xVXBlSFljN0xnS0J5bjRrUVFCQXZiZEwyV051ZENzNE5MdHVQY014c0xQWDBqV0ZXMV9oenc?oc=5",
+      "text": "College football Top 25 scores and results for Week 8: No. 2 BYU, Texas Tech stunned - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXI4Ujh5YkwydlVHTlAwM3huMmdNWTctRi12d0hlWHFhaHVEeVF2dzJSbVN3TWZPV0o0bmZGX0hsNFBxNWw4bmZmVXhfUEtPemZXRWtlVTZ3NXhUamVBM2puVU42UFFuRHpSTk92a3BfOXdCX3BjZmdtbEhrR01VNjlwNm8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T05:09:00+00:00"
+      "time": "2026-10-25T11:52:41+00:00"
     },
     {
-      "text": "11 people shot near Florida university stadium in Tallahassee - CNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ncjRfWHlVVlZRMTVsN3MzenBBX3ZUZmVBdWxKQVJidVhpM0t4MWxSUlRLMjZhRGdVM3RoanktM2JUaU9yZzh3QW95WFdWd0FTQzFfSzFybzJPNnNfMHY3R1M4T1ZScFkyWHJsc1lzVjZFdHpOS2lYcy1aQWY0Wk0?oc=5",
+      "text": "Thanksgiving-inspired Lay's chips to hit stores. See festive flavors - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUgxcnN6TlEycEI5dkE5RW5qOWxfYjFwZnpZbzB3MXNyMzZ5T3BZaWFwSkZaRFZ5MlhtU0VKTGdHdlF3Uk1EMURvd2FyRHBIQ0t1aWp2aG9uaEVjWVlrR0hadlVNZWxQeDNQRmFMdXdaVFNyeTJwaGVZSGZSWFc3YW13ZE5GQkc5TGdRa3V0eW53NWZWT0lIWndqYmgtWjN2MFVyR2ZlS0F0WXYxbnJPUjFQOTh0dFVJ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T04:51:10+00:00"
+      "time": "2026-10-25T11:04:00+00:00"
     },
     {
-      "text": "Texas Tech no longer controls its destiny after disastrous Cincinnati loss - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVDM1cVlnZDJsMW85enZyby1rTDJNMjc2dXRSeTh4UEZOSzhDZGVFdWxhNExjN1JRaG9yRXhORWdtMTd3VlQ5aVFHLUlNcTk0UURodmxFaFlfR18xM0ZqbXB1Z2JEVWRrUGhvdGItZWZueXlURFZKLThWenNPWjZMZDgtaWFmV3VFcFRXQnhIUUtsYlN3bU5WR0RYRjhIbEZVVG1hMGpoY0ZqdFR2ODJ0QjU2NmREMGllMExFOVNZODloN2h2RFBIdUJnNGR2ODRLOWVoZEhtaXJydDNVXy0yT0p5bw?oc=5",
+      "text": "For years, relatives didn’t know their uncle had died. Later they learned a police officer allegedly stole his house and identity. - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0NtcXdGdFFUMmdvX3ZvVHlXSlpFaWI0ekZSeHZ2Zk1Hc1l5TDVqZE5abEttYzNHTVJpWFhWTXo0Z25hWEE5TVVMODZXcWhRX1AydDFkU3lKbEVEVzlnLUliQjY2SnlldlkzYWtIWFVIYXphcUh2UURzQXRJNEF1aXZnVFpzTlhiajBRWGZSZmtTWmZwOHRfb3JZbWJnTXJpX2hLLVgzNUNLQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T03:39:00+00:00"
+      "time": "2026-10-25T11:00:00+00:00"
     },
     {
-      "text": "Meghan broke contact with father in letter citing abuse claims - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYRGl0eDV0VGw4OVo3amlna1I5SmZQYlJsUUhwNXVYbVRaeUJEeXVJU3N3QnhJaVFtS2lnU1RobzQ0dzNtNkw5TkVia2NvYldlbGxZWldWQlYxUHM?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Netanyahu Won the Middle East and Lost the World",
+      "url": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T01:44:19+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T10:00:17+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXpjc1dIWmk3TUlEaVotOHQ5bjNTZnBlVnh0Z2l0VmNXS1h4NHh5YXRrNnBXYVhDNGllZHFZdzcyb05ZYXVqWkNOV2NUZWFQRGE2dHFVdUxvcDVxVklEZFJYQTVrRlc3RWhoTzU2RUphLXJmYTNtbWRLMjFoM1pudkpQS3Yta2hYbGc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T07:15:00+00:00"
-    },
-    {
-      "text": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkVsalZwb1d3eTlaOXl4UUxWdXlxTXpoVnIybGNFOGVzSklnUFpWUVNuZC0yOTVSc2RpaFFHQnYtTXhwLTRLMjBuRjRjeHZKXzZXR3pNbUFyRHE3bHViWFVmOVRIaUtCVk81UWZFZHVhdk50bXVNRXgtd0RReWhxZXYzd3A3b01ERVM0dGtRaWczNGFMZnplYnd2enJaQWlWdkU2eV9nMWVMT3FHQzEwMWZtVTNubU1TZGNaTmg1VjZfZEd3NkZ4QUY5VQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T05:21:11+00:00"
-    },
-    {
-      "text": "Horoscope for Sunday, October 25, 2026 - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzhDLTFvTW9fYmZhMDdDTXlWeHdzMXp5YmhocmlvUnhtZGhhR01GdFBzNDgyUjA2X0U3cXAzVEtHd2NxYUdfdDNfX2J0OTd1NDkwNVlQV0hOZFZnajZuamlXYzdXQTdMSGhXUTR2T0FMV1VPVTRRd0tDajlOSXFhejZHbXFEQkhFNVJoRUxWMWRKV0Nn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T05:01:00+00:00"
-    },
-    {
-      "text": "Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdVB3VzZ5U3JiUXVrMFFYQ1d3VzNpd2F0R2NKcUIxdUxiWHVyd19FOUhJbi1HMFNrOUIzbTI2NTRsdjZWX0V1RXlvZUxGYTdUVTlOYlZfOTUyTTA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T04:16:52+00:00"
-    },
-    {
-      "text": "In Tennessee, a man's murder and his wife's death feed into the local legend of a \"cursed\" mansion - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlhrRW9sQk9VeWVBRFpzR2Jfd08wOFd4Yk5rbWFEV2ZxQTljX0FkVFBNZWRlOFdGM3U3eXpGdjItNDJ2ZWVNNXNIdFpydXdxRUwyN002RE1oaWFFd1RvSm1yWUlfYWdTNDlmbjBHaDU4MzBBdEFMeEVKNUl3ZnV0UVJBUFFzdnMwUWQ3SVRWQWFtLWJkX2ZrZlp5YUZ2RDZiSW80ZUlGTFA0MUZwOFJHNkxhWms?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T03:01:00+00:00"
-    },
-    {
-      "text": "Italy’s Young Protesters Return to the Streets",
-      "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+      "text": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
+      "url": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-25T01:26:08+00:00"
+      "time": "2026-10-25T13:42:54+00:00"
+    },
+    {
+      "text": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+      "url": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T12:59:20+00:00"
+    },
+    {
+      "text": "One Agent’s Doubts",
+      "url": "https://www.nytimes.com/2026/10/25/briefing/deportation-doubts.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T11:43:05+00:00"
+    },
+    {
+      "text": "Trump administration has pushed off 13% of Americans enrolled in food stamps - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02dEtZVDhDT1A4SkpMNlVObGpCYmZLenJtb1hZdnlhR3hWYUdLVjJ4RXU5VXRad1oyUlV4ZVJfM1lLeTNpT216ODd3RDBOOEhYR0J0ajNkSEc2YzBpbnFUZHFvQVhBUDlYMkFNSmE0aUZWd0RRYWszUg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T11:01:00+00:00"
+    },
+    {
+      "text": "The Governor’s Race That 2028 Democrats Need to Watch - Politico",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWd6bnhubkpTdURuNVljUHo3aHN4VlFTVWV2eE05YnNJTHpWeWRPQnRQcGZvbkFWdjlIcV96NnYtS2RidzF2VkN4LXdIMm5vRXY1dVhBZVNoSkJ4MkpvdmJNbTRKV3BFM1djMmcxLV9LWnEwalpjaWh1OEJwZE1YVzllRTJfQ0ZwTEg5Z1A4enQ1aHdFVmlwODJodWJlQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T11:00:00+00:00"
+    },
+    {
+      "text": "A chance to see the orange hunter’s moon and a peek at Saturn, too - CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWHAtZV8ydWlCb09BYVpUcDBxTEJzQnJSTkRTOVF6WmlwMXQ4dk1xdzNfYVNTT3pWc1V4Wlc0S1kzdkd0RFZrU3FWRl9NWnFpOGJVUE5KRUJnYkhEbDNrUnhCekJNZzVickVrOGoxRzM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T10:00:15+00:00"
     }
   ],
   "col3": [
-    {
-      "text": "Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjBPZ3dxSHBGNGpJN0dCX1JYT09lUDgyQW1SSUZKRHNRWF90SW5NVENhZEtQRHZjUzYyVnVYLXdRWkxuVmt2RGtTSDVSalVrVURxbFlTQzZ5UFd3b2dxelVhVkNuS3J6cmF2Y2h4NEJfQWNsSklmZk1MSWxtbEFOb3lIUTV0RzNwenNCZVVYUGxSUVZIblpUS2VYdzMxZ1RX?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T07:14:00+00:00"
-    },
-    {
-      "text": "Iranians Face Anxious Wait as Threat of Attack Looms",
-      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-25T05:14:43+00:00"
-    },
-    {
-      "text": "The Grace We Seek but Have Forgotten",
-      "url": "https://www.nytimes.com/2026/10/25/opinion/the-grace-we-seek-but-have-forgotten.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-25T05:00:05+00:00"
-    },
-    {
-      "text": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnk5QXFZSUVHb3U0WEhGVFZ6YWUwYVdNdFgtOUNqS2VvSTBiYjJXVktNVGhNak5VQnBBSUdXOWxXM29pMkRXWW1OM3JZMlQzS1JQZmd3VTd3VnBFVm9ma3drTzFJTGZiTExQdXpFakhBUVh0TjZRTjRuSUtCbDV4VF9HdHRCR04xVzR2Qld5anpQRHVfVGtwSHhaeU1wdTVuQzhtWmRkM2t0TE5USE1WVNIBtgFBVV95cUxPazFHLUVrT2l3VF9wNWtMZHRXdWVJUlRmRkpESVhpTTNFVVltSXRuSFgwNVZCM1F2WTZlbmVfWG9EdFhvclplVExQQ2ZDbDlteTN3OWQ5dFZiX29GV3VFS1dmTkhFNzNMZXktdXJMbFVKRmRTZEVtU1J3TVpMcTJZOFg4SlhfR0lXY2dTYUFVQkw0MlV0M2Y3c2RnTDZVQkNOWFJsQnZoR2tSQjJKUl9rY3NQNVRaQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T04:11:11+00:00"
-    },
-    {
-      "text": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-25T02:22:00+00:00"
-    },
     {
       "text": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
       "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
@@ -205,7 +160,52 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-25T01:06:17+00:00"
+      "time": "2026-10-25T13:38:36+00:00"
+    },
+    {
+      "text": "Introducing a New Way to Understand the Election: Times Voter Trends",
+      "url": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T12:41:07+00:00"
+    },
+    {
+      "text": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+      "url": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T11:11:21+00:00"
+    },
+    {
+      "text": "Thomas L. Friedman: We Just Set Off the Second Big Bang",
+      "url": "https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-25T11:00:04+00:00"
+    },
+    {
+      "text": "More than 1,300 arrested as clashes follow another day of mass protests across France - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdVB3VzZ5U3JiUXVrMFFYQ1d3VzNpd2F0R2NKcUIxdUxiWHVyd19FOUhJbi1HMFNrOUIzbTI2NTRsdjZWX0V1RXlvZUxGYTdUVTlOYlZfOTUyTTA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T10:38:15+00:00"
+    },
+    {
+      "text": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0FWSjZSQk00MUpCR1dOMktqZW85ZVNiQi1ZbEY0WXR4ajZKY0ZWMzJCMUVuSEg5MXJqcFVlN19KWDhaMGMzbWxhaEFUZ25mRlVfZzBGT2ZHTG9hMkRCeFFUaUY4c3ZJWHgza2dMUVFXVFl2dmJEVDFlaE4yZzVNX3JKOHpPYl9ZX296TjVQS21DMVFq?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-25T09:29:00+00:00"
     }
   ]
 }
