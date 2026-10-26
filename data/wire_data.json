@@ -1,158 +1,147 @@
 {
-  "generated_at": "2026-10-26T11:27:44.353658+00:00",
+  "generated_at": "2026-10-26T17:36:30.033668+00:00",
   "lead": {
-    "text": "Meta launches $35 billion stock offering to fund AI expansion",
-    "url": "https://www.cnbc.com/2026/10/26/meta-35-billion-stock-offering-ai-expansion.html",
+    "text": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+    "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-10-26T11:19:02+00:00",
+    "time": "2026-10-26T17:36:07+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
-      "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
-      "source": "NPR Politics",
-      "lean": "left",
+      "text": "Anthropic IPO live updates: S-1 notes risk of 'material revenue losses' from DOD, Trump actions",
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-26T17:32:59+00:00"
+    },
+    {
+      "text": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
+      "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-26T17:29:37+00:00"
+    },
+    {
+      "text": "Pulte vows action against ‘abusive monopolies’ in mortgage market",
+      "url": "https://thehill.com/business/6172844-fhfa-director-challenges-fico-monopoly/",
+      "source": "The Hill",
+      "lean": "center",
       "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-10-26T11:11:00+00:00"
-    },
-    {
-      "text": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
-      "url": "https://www.cnbc.com/2026/10/26/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-with-aws.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-26T11:09:08+00:00"
-    },
-    {
-      "text": "Stock futures tick higher as oil prices drop to begin the week: Live updates",
-      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-26T11:07:01+00:00"
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-10-26T17:29:11+00:00"
     }
   ],
   "col1": [
     {
-      "text": "12 injured, including 6 children, in shooting near Florida A&M University, police say - WESH",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNnZBbjZxTjhpekFaQWxzRnVTWm1ZbHEzazlXRC1hUklILWdRS2hubFl1aEIxQzFWam5EWTN0U1U0bkVuVllVVmZvcjF3OGZ0WC1vemFxdnZzcEM4aXdvWXlQcTU5MFN0NE9YZDdBVk5BVnlER2thQ3ZOYUR5RHJZUmliVVdmamdLRUgwUHA2U2ktVXZMdEFVRGdWbUJPSUk?oc=5",
+      "text": "NFL news, live updates: Raiders considering changes; Christian McCaffrey will be 'alright' after thigh injury - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42MkIxWGxUSXVRS3p5aU5BbHlOM1VQX2hCT1dfVS1NMEV6Sk82QWtYYkJWR3EwTEt5c0QtdWxQb3Y3a00tQ0RSemhXdHpncEtzYVQ1R2FfSzFkZXlzSVF2dDZnMEdOdjExbjZYcFFvcXk3ak50ZkFtRGJOcmw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T11:04:00+00:00"
+      "time": "2026-10-26T17:19:49+00:00"
     },
     {
-      "text": "A shock in Brazil sends stocks plunging, while neoclouds take another hit - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KUnJwODJMVjVHQXB1WnM1M1pXSDYtNWlaR2JTNnkySW44d211eWh0ZjhsRDJ4aDNUSC00bDlJQmJrREtJazJuUld1VWJ1ZGl5TlhOeTlBNlA1dVNRSzhUUGZOMzNtNHM2M0R6RVp6ak5fR0pqd0Rv0gF8QVVfeXFMUHdCeElfZGUtT0tSX3BzeFFfU1ZXdGk2Y0Q4Zl9Mb2RmQ1U2TDVGYzAwMkEwQzZHWVI0SWM4bVJPV2gxWjNiejlPb3lZZ0IyV1J3akJ3UlRJSlNiamNGN3R1SnZUVzAyM3JSeGhoUkRSZE0zYUdRX0o5Q29lbw?oc=5",
+      "text": "Can Marissa Mayer, Yahoo’s Former CEO, Help Fix A.I.’s Gender Problem?",
+      "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-26T17:01:25+00:00"
+    },
+    {
+      "text": "EQT to buy Range Resources in all-stock Appalachian blockbuster deal - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEJ3S3lRWHFIM3g0V2FEVVIwYl9INnZqX3o5cjVZZGlhWEVicFAxbjdhQUhacEVPLTR5S0d0cF90UWthNVJsajVSeVl0dldvcFFHRmdhRTlwUlRLSlhjTWd0MS1xSTR1YmthM3ZBQmc3ZXB6bmhXN0JvQXUzTE5iT0JEVTZnTnN0SjBQUmp2cFhaUHlOX0tDWUthWFkwWEtoUDdGdU42ekxyYWNzNGc3VTFSSQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T10:39:46+00:00"
+      "time": "2026-10-26T16:49:48+00:00"
     },
     {
-      "text": "Israeli Jews Across the Spectrum Face an Election of Fears",
-      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T10:30:57+00:00"
-    },
-    {
-      "text": "Brazil’s Election Defies a Right-Wing Trend, and Trump’s Midterm Attacks Enter a New Phase",
-      "url": "https://www.nytimes.com/2026/10/26/podcasts/the-headlines/brazil-election-trumps-midterm-attacks.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T10:00:19+00:00"
-    },
-    {
-      "text": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T09:58:09+00:00"
-    },
-    {
-      "text": "World shares mostly advance after a decline on Wall Street, and oil prices fall more than 1% - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGVDbFMzWWNkWEw1NzNQRUJLek52UWF2ZUh1dDVXM2FHNXhYekVEOUpNejc5djNNX0hTWDZiLVpaWUNnaGZ6b29iMS0wNHM0M0Y1eG9MdC1yVUVpTV9QbDlieDVrS3NLemIzTFdPOHFRTG1JSEpzbEc5MFR2aUhRMmFpSGJaZDJRV1d6bW1hUlVJUDdUSkFkMg?oc=5",
+      "text": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T09:26:00+00:00"
+      "time": "2026-10-26T16:07:00+00:00"
+    },
+    {
+      "text": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-26T15:52:06+00:00"
+    },
+    {
+      "text": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-26T15:02:03+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Israel’s Future",
-      "url": "https://www.nytimes.com/2026/10/26/briefing/israels-future.html",
+      "text": "Walter Koenig, Chekov on Original ‘Star Trek,’ Dies at 90 - Variety",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzRuTXpkZFBmQkJKWVJJWl9LSnpDdTJXSHI1NkRfRU9oS2RQZGNzcXFrOGJOQ2dWSnB1dHVFY0xIRnJ4aklMVjdkM3lnUnU1ZFQ3NE1hbVBheURBdkg2cC1RbTlMazBYbnZHNk5HdnpIbC1LN3FnTXRfODBMUVFwLVJkNGdva1Jxbmc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-26T17:19:35+00:00"
+    },
+    {
+      "text": "Why Some People Are Using Apps to Make Friends",
+      "url": "https://www.nytimes.com/2026/10/26/business/friendship-apps.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T10:51:33+00:00"
+      "time": "2026-10-26T16:56:25+00:00"
     },
     {
-      "text": "Mike Tomlin supports Dan Campbell’s late fourth-down decision - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDBITDU5TkxvVnR3TnJKc0MwSWlqU0ZkMlJ0VmxaTmFXRGI4aFpxbU9ZdTVrc2dWdno0MlIzeHA2bnJKd0l1SVZkNDhRbHRaZmtpWGV1eFZjMXZkNl9Ba1ppY2xGbnBwb1NEUElETU8yWVBOektYWUpObU9wWm8zb0pCU1h3Y09tVXVNWmY0NlB6enA2M0diQjRCc2hWa3NoQWJsOW5XZWo0Q2w3OHdmcDFESUtpekNoVmpEUDV1RQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T10:33:58+00:00"
-    },
-    {
-      "text": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T10:23:09+00:00"
-    },
-    {
-      "text": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act. - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNElkN0NkWXJ6ZTZOMVZRVVFoSGFqeFNzRGl6MXpadHdpbzkyWXB4dVJ0ZmlMeGpTbjVRdFVDZERVWS1zZ2F4OUhlTUFpb2pEd0paTWdzdHR5TkVEcndOMTVFNG14cFYzWVNxUS1WczhPb3B6OWc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T10:00:15+00:00"
-    },
-    {
-      "text": "How war, security and coalition math are shaping the Israeli election - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHZNR2V4OUk0a0E1RXBydWs4MG44VU1vaGJyR0RQT0MyblExdkFNaXVtYXlTd2Z0TnNzNVpHazcxU2dLUklqVFJiUmxHcC03N05Yei1UVEVfcDgwR3lYTU12c0pIR0NTVHVhYzhUWDd0MkJMaVhXclJnUU5iRk1PUGV6cE8tc19tUkHSAY8BQVVfeXFMUE1wZ3BGVllfUUFwbnRYblpSX0xhVkxsWVc4ZFhPbUhRU1JYLTRVSDdzVGVoOHBoOXV0SnVkMk5fMFVEU2tVMHdXb3Y0dFdiSFJYdmdMOXJPQlJVZldVQV9PUjYwWlFRMGVVdjczTGhfamI0QzJ4NkwyZzREbV9SUWRnaGd6bnlVU01fbkNjdlE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T09:46:59+00:00"
-    },
-    {
-      "text": "Who’s Winning the Race for Congress?",
-      "url": "https://www.nytimes.com/2026/10/26/us/politics/whos-winning-the-race-for-congress.html",
+      "text": "Trump Administration Unlawfully Fired Maurene Comey, Judge Rules",
+      "url": "https://www.nytimes.com/2026/10/26/nyregion/maurene-comey-firing-doj-trump-epstein.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T09:02:28+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-10-26T16:42:08+00:00"
+    },
+    {
+      "text": "Netanyahu pushed for Iran strike before election but Trump refused, CNN says - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSllVZTRWSlotR3pRbDliYldYLWFOMy1jNUtSRHVCVDNUQWN4MTFPYVdzUEU0T2ZhZE95czU2aWVLd3FXNU1fX2ZqMTVTdDdmQnQwYjFBQ3ZxbmRNU1NVM2J6Wk10d0RIWEYyT2hobzlyblNfSmRDN0hPZmx4RGxDaWN0MERQWVREa3JKVVdNbW4yZ21qWGtraURZcEh1YTZNZGhLSDktV2J5d9IBrwFBVV95cUxPdHRXNUhRc213aVBLeVkwWlBWTlZQMTBxTmYwS2NpRnF3dFZfTVpmcXN4aGdiRFBBakdxMFFfLXozd25MVzRFbmNnVmlaTXJRcWs4cV9WbFlac0VrMENjYlZIS3VfR0x5YzAxTHIzNTR5SmJhbnVxUUsySE4zb1FORllTWkdtWE5oeXVsMHBiYklvbGVuem5EQ0RmMlJESWtHbU5ES0tqdWpvX0dLMFM4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-26T16:01:40+00:00"
+    },
+    {
+      "text": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
+      "url": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-26T15:34:58+00:00"
+    },
     {
       "text": "I Went to India and Found It Has Lessons for Us All",
       "url": "https://www.nytimes.com/2026/10/26/opinion/india-modi-students-protests.html",
@@ -160,52 +149,63 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T10:41:48+00:00"
-    },
+      "time": "2026-10-26T14:58:11+00:00"
+    }
+  ],
+  "col3": [
     {
-      "text": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
-      "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
+      "text": "Marci Webber Killed Her Child. When Should the Mental Hospital Free Her?",
+      "url": "https://www.nytimes.com/2026/10/25/us/marci-webber-mental-hospital-lindsay-clancy.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T10:31:14+00:00"
+      "time": "2026-10-26T17:16:21+00:00"
     },
     {
-      "text": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Flu Activity is Ramping Up Early This Year. Is a Mutated H1N1 Strain to Blame? - TODAY.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmh4bFdPQ2ROeFVPdmNyNVZsc0Y4VFVONGpTcllwekEzeWR2VGYyV3BTNkRoQ2dTS19fc2VJZFpzSklKcmxpRjU2bW1lWkxFQkk0bmhlUW0tV29sTU1Wa3pXcG9pTXVSdDZQeC1tU1YyUGZieF80eDBmNkoySnU4Y0tGVm5ObGI2V2hMT3ktQUEzdF9OT1pJSTNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T10:00:51+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-26T16:50:09+00:00"
     },
     {
-      "text": "Eric Bauza, Modern Voice of ‘Looney Toons’ Stars, Dies at 46 - The New York Times",
+      "text": "Eric Bauza, Modern Voice of ‘Looney Tunes’ Stars, Dies at 46 - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pbGNYbFpZbWJyNlJYVGsyLVNQMEJhREJQd3BEU3ZIczdVcWpzVnJ1WTFGTnJMa3l4cDFsdUFCS21xRmtCQ08xQ3p1dTNSd0pfaElmOUZTc3IzOTk0UGxlbEZkQXluTWRYSlhaYTBVNzhvdWQ3bElOTEhsaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T10:00:11+00:00"
+      "time": "2026-10-26T16:39:34+00:00"
     },
     {
-      "text": "NFL’s most pleasant surprises: How real are Steelers, Browns, Giants, Vikings? Pick Six - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcElXSjNYN2R5R1FEWW5mNnhhYl9xUGpOV2NBanp2NzVSdDRENmdwVHh2eW5kSmg2ZDBjNnZ1RURMbjdfbV9OcWlfemc0YmZjLTM1MXJjMFhya3poR0htQU9qOFV5dG9PdmFWWk02VFFqTXhFa3JxYnNQXzVrTHRaSzJJZy0yeWZOLWFsbkFPYlRVanNockNWMEhB?oc=5",
+      "text": "Microsoft offers voluntary buyouts to 60,000 employees - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNklNQlZSV0JkMk95ODdwQ3Fac1ZNbHJWMUFsMjIwbFB1UndnS29RNFNNcXN6X3FGVEx4dEFYWWtnQkhwMU5SQ1NHa2ZmVDZlMmZfT0F4VHRfelNCOWFvYnBwMV9SWkVMZ1pRTTNwNTh2NzNTWXlwVQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-26T09:30:27+00:00"
+      "time": "2026-10-26T15:52:10+00:00"
     },
     {
-      "text": "What’s Riding on Anthropic Going Public? Nearly Everything.",
-      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+      "text": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
+      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-26T09:02:15+00:00"
+      "time": "2026-10-26T15:24:56+00:00"
+    },
+    {
+      "text": "What Should the Rules for A.I. Companies Actually Be?",
+      "url": "https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-26T14:52:24+00:00"
     }
   ]
 }
