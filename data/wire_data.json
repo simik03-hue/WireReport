@@ -1,34 +1,110 @@
 {
-  "generated_at": "2026-10-29T00:20:54.105849+00:00",
+  "generated_at": "2026-10-29T06:20:11.106331+00:00",
   "lead": {
-    "text": "Kilmeade, Hume say Vance 'not as popular as he thinks he is' ahead of 2028",
-    "url": "https://thehill.com/homenews/campaign/6179914-vance-2028-presidential-prospects/",
-    "source": "The Hill",
+    "text": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-29T00:09:16+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-10-29T06:03:35+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia. - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenkwSDRmaEptYkdleHhOYU9IZjVZTzFsUGtFdWIwaTUxMXNJa21uaTJHaDhyU3ZRSkRVMHV4ek03VDBYYjRmb3RIU0NHQVFEUFJ2aHA4U3JIT3lna0swekpudHp6aFFBdlBGc21YWHlMdFdMVENTbEdyOU1WdmxveG51MkY5ZzMycHZSMUhDTTRIUmNPVE45ckJhX2s3OTVJVnJlcA?oc=5",
+      "text": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-29T06:01:06+00:00"
+    },
+    {
+      "text": "Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-29T05:58:42+00:00"
+    },
+    {
+      "text": "US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-10-29T05:36:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "In Michigan, El-Sayed Faces Heat From Former Primary Rival as Election Nears",
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/stevens-el-sayed-senate-democrats-michigan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-29T05:21:51+00:00"
+    },
+    {
+      "text": "The Milwaukee Brewers win the first World Series title in franchise history, defeating Tampa in 5 games - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tSHZxeTZyWW55UU9jbU9EX3RyVFU3cEZ0c2h3YzBKSngzOHVraDNKZXZXaUlkZjZLMEhtbEpRVmNMT2RWQXJhZV9DaHBmUGxFeExVT21TUE9xaXNvR2VNTzUwMC04WmktN0Q2NmlnT2R0bG9m?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-29T00:00:00+00:00"
+      "time": "2026-10-29T04:46:00+00:00"
     },
     {
-      "text": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
-      "url": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-28T23:38:00+00:00"
+      "text": "Report on recruiting a ‘spoiler’ shakes up Senate race in Alaska - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDM5UFczdUxtS0llTnRxQjJPWHdTTWtFVVVyMXdUY0ZGWDlkVThnUjRjSWM2QmFiQTVFVV9tNFhkb3gybjhqYzVjTGZjX2Y4Tjd1UzZUOVVPV09PZGIxTkxXTnVaMGNYY25TeEtoMldydVJjMnJxSk93N2UyUWNvWWVvUVVxellJcHdmdVA2YWFCa1AydmZ0cHVQWGFnUmcxVU1R?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T04:07:23+00:00"
+    },
+    {
+      "text": "NYT Connections hints and answers for October 28. Tips to solve 'Connections' #1235. - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWFXUUFmME5vckVCTDVPMml6NXk2bG9PRE5MU0NjQUctdEplcmpEU0RIZi1YQ3FZaXRQLURicUl6Q09HaWtNMGJHTXBWTmlseUM5SlVMWUVhME5DSHFDQjdZVnkyRkVEUGZPN0h4RDd0eXpsWDFxRzJzejQzYjlQS2NOazY5blFSNHpjcQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T03:23:53+00:00"
+    },
+    {
+      "text": "Fire briefly triggers emergency at South Carolina lab on former nuclear weapons site - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDAxY2NBSVRWbGNQUFlwWWVORTYwb05JQmhTdFRSOXJadmJNNU05cjEyOVRmbUxPTXoxdTRzM05kM25lUUJIZ3N4aTZfTEduWDltYlBSZzE2ZkFRVEY2b2tmWTdWMjJTZXhaRXFJMm9pcE0tdU8tRkZIdTdnM2IzZzBIS3pGU1ZIVDRDMHNGbVFqWXEzWmxN?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T03:10:00+00:00"
+    },
+    {
+      "text": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-29T02:15:19+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Europe Is on Edge, and It’s Not Going to End",
+      "url": "https://www.nytimes.com/2026/10/29/opinion/europe-protests-youth-france.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-29T05:00:06+00:00"
     },
     {
       "text": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
@@ -37,175 +113,99 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T23:35:45+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-10-29T04:30:48+00:00"
+    },
     {
-      "text": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
-      "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+      "text": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/a-ukrainian-city-in-the-kill-zone-relishes-a-moment-of-peace.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T23:17:30+00:00"
+      "time": "2026-10-29T04:01:08+00:00"
     },
     {
-      "text": "Microsoft Quarterly Profit Soars as Cloud Growth Accelerates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObG1JUFZyWEVVeTdxNHJ3djFId2dCZDY3Vkc3Qnc4Vzh1NVFKTXN2cVFEcWdrbEtSdlE5Y1VfQUV6aDE3M1BscVgzVFJXVWZ5R01XQnpjb0FGb2dmTVFEWFhlWGFBUm52dlZzTXhhZ081RzF2dWNWT3U0RU1tejhYZXdSQjA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T23:12:00+00:00"
-    },
-    {
-      "text": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
-      "url": "https://www.nytimes.com/2026/10/28/us/politics/keisha-lance-bottoms-atlanta-mayor.html",
+      "text": "Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.",
+      "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T22:44:59+00:00"
+      "time": "2026-10-29T03:16:41+00:00"
     },
     {
-      "text": "Worried About A.I. Taking Your Job? This Is for You.",
-      "url": "https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T21:45:40+00:00"
-    },
-    {
-      "text": "Weil Gotshal law firm plans to dissolve, capping dizzying fall - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzgyYWZsbS1ZLW56X1VfZFR5R3JfbENsQmxVbTc3QXVOM2VGMlRaSmREcTJ6UEI2OWJEeE9lN0ZsNXNDRHJPRG9wbnMyN2VyUVJYeUQ5b0tFLVc1STFzM0FXYjRQSlRvZ1FPZG9OQ25QX1BTTTh2TzNRTG1NcVBJQXVyRXlzcm5nS1hjdlptOWQyM2Q5Z3pILXhkWXdFRG0tUU1mMzZZbXB4Z056Q19xUQ?oc=5",
+      "text": "A US cruise ship suspends a global voyage in Asia due to fuel costs, stranding 200 passengers - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWI4RUhjcG1nTkdOMzYyQ1NMNTBqWTFCNTlhWjlMMFNnYlZMc3ZMMHpfWGQyZnAxd2ViT2hwSU1uS1FleDl1V0ZkTENPSFdBYVpSR1kxN2k5S2lzbHd4ZUowMkdZRjZhaV9VSS1scERpUTR2dG9xMjJiYlJMZ2hDY2JXc0dyaWJNTHUyRXpqUDFxUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T21:30:42+00:00"
+      "time": "2026-10-29T03:04:00+00:00"
     },
     {
-      "text": "Sexism has plagued surfing for generations. A rape allegation has led to a reckoning - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGlZbWx4NmVKUDkzOVRxMTJ0SGpacTNMbjdGMERiVFFiUDlBazNhblRPMkhHQ0dFZ1ZrcTB5dm52ZDRiSzBrSW5HQWZ1RlR6dEdxUlpwWmczTXhLeDROREN6c2lrTUZCb29ZeFNGNnlXbEQwd20yTE1tRF9TSko2SDllTVJyRVRIQ3BESFpuSnQxTTA?oc=5",
+      "text": "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SalhOeEdhMFUtUWRnVl90YWlHLU90SGt2cmJ2b1Y4aDRmRVZJV3VGS3haNkpEa28wcDMzbGR4dTRtZnNvbUM1WDBDeGtsUkNIN1dOUDdtNXgzV0xaZ3R5ZTk4SEhmRzYyR0dtcGp4RFFEVHA3YzNZ0gF8QVVfeXFMT25jby1VNlpYNGp3ekVGUEVKd29Lanc1bndoVFluRGk0WmhrU08zNDVpVFhOazVlMVE5RkhadGM4VEFhaWREaXJpb09WR0U2LVNHVXBma2NpWHNKUURmVi1hZXNqRXlrZGNUMndNZlFzV2JIdEJfa1hNTkNjYQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T21:23:27+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
-      "url": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T23:16:58+00:00"
-    },
-    {
-      "text": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-      "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T23:04:44+00:00"
-    },
-    {
-      "text": "Former Head of ‘Star Wars’ Studio to Lead L.A. Olympic Ceremonies - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3RRUWhiS3luWGVTUFFFT3RIYlN4c0E1LWhqYlA4eEF0M3M1c0tqMFlTbm10Rno4TWw5X1JJT0FEdW9KLUZvM0stQWlJd3FhQjhXeGxPVGs5X191dDBPN1hnTUhaXzkzM2FueUJaRlNyRWtNT1lpQjFuU1Bxa2hFcHowV0xYRmxablU4LWxPdlJxNWdMYVVNVk1R?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T22:42:28+00:00"
-    },
-    {
-      "text": "A Ballot-Stacking Effort in Alaska",
-      "url": "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T21:40:48+00:00"
-    },
-    {
-      "text": "Alaska Senate spoiler scheme under scrutiny; Trump in Ohio for final-week push - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblRObTVJNWtTSEhNSWFxMThSak5vZVFka0xtZTk4WVlvdDg3akVhMG5HdDZXb0EwaHVqemd1SjFuaEM5aEpmVWVOZXJOS2ZhNVNMSEVsMDg1NmxXT3FjNm5XLXlwb0ZhVkFiOHMwQTMzRWt2dFpoOVVSNTNUZ0c3S3RKcTUzR3pNdVVXc1J1M1I?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T21:28:46+00:00"
-    },
-    {
-      "text": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T21:21:00+00:00"
+      "time": "2026-10-29T02:14:53+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Cornell Faculty Senate Moves Ahead With No-Confidence Vote Over Handling of Rape Case",
-      "url": "https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html",
+      "text": "Brewers' William Contreras eighth catcher to earn World Series MVP honors - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcnY0M000S2Y2eHg2ZlFBZzBQRGsxOWs2YjN4TzRlRFhNUmdQUFowQ3NGUWkwREh6czhIRU5uUDVGdnRMS2x4Z183Q2I1NUdLQzRnbmNnWkFlTDFlQ1E1VDBhZm1TTFlKXzBjaE5xSjRwNTFDRlpLTVR6T3BLZl9ZUXQ1ZzJ5amRRTm9lN2hvUGFFRzF6LUtTT2Q2OF9Rem1HdXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T04:53:00+00:00"
+    },
+    {
+      "text": "What we know so far about deadly Spain train crash - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZnNqRWV1SjZMemxDT0pIX1Bqd00zbEdoS1djUWk1aGZYTkxoVm1hTm5GM3p5UV83RFF5clBUWTdBU3YxaDhmVlNuZENPUGhVTDRVLXE5WURSdHM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T04:08:28+00:00"
+    },
+    {
+      "text": "President Trump returns to Ohio for midterm rally - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGJ1UDB3OFZhODc4R2FKRG92MTBEWmZXMzlpYUo4bHNjaG1NTEgtb2liclJNUjdSWlRxV0VGVlhsLVY4UG5faDNpeG40UTBmZjRCcXd4UXJ0MFppdmRBZktwVTFvQkstNkQyTjJtNjBPcVZPcUZGelUzZkVsbTVsMUpjbW15UGo4aVlZem1hMGtYZXZtVHlvNG91ZHdnOHVQNWZOak9KQ2stV2xfSmd1UXNnS2Q0R1ZKaGxMVVltdUhObjR0bGZ2TTBxVEZqSXhfbmJ6N1dIYVR2akRMNEtjMDlqQjYzdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T03:35:00+00:00"
+    },
+    {
+      "text": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
+      "url": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T23:13:03+00:00"
+      "time": "2026-10-29T03:14:32+00:00"
     },
     {
-      "text": "Huerta Is Remembered as a Labor Champion With a Multidimensional Legacy",
-      "url": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html",
+      "text": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
+      "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-28T23:03:31+00:00"
+      "time": "2026-10-29T02:27:45+00:00"
     },
     {
-      "text": "Dolores Huerta, activist and labor leader who advocated for farmworkers, dies at 96 - KCRA",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42Y1ZQNkNkZFVkTmVIX2haRmdqaXR4S1IxQTVHaWpUNEI4dGZ5LThoZ29iRENRcEhyVU1RYnhGOTYybUt6MHdtSjJpYUdvdXZzZ1VjNG5mWlBWRTg0dDNaOVFVTFVZUk1HN1NlS1h3Mm8?oc=5",
+      "text": "LeBron James orchestrates, Joel Embiid dominates as Sixers stage another dramatic comeback - PhillyVoice",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ2dOb1J6Ui1wcWNaaDU1eW1wZFRzU01SSGVpd1FlSE9BdDhvdzBsa3IwVm9sZEljYXliODdJUk5hYTZMM1gxWWtGamkyLWoxUVNEam43Y2VCdVVjaktheWs1V2lwNzlYZ3lCcWpKQ0QzLVVJZzVoMC1kRVdDbmpHd190d3JQbFdzQnhuZjNVQng2amFZMlFaT3R3S1dETXRBUnJsdkdocXlqTTNrMnBBbXJqSkJIOFcxRF8tcV9Wbm5qaXEzME5uVXliWTJ2clVl?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T21:59:35+00:00"
-    },
-    {
-      "text": "Election polls in New Zealand continue to show no clear outcome - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV195V053Xzk0NjBOR2hydFBDYWw4QkNsVDNIekZsTkViakRHNGEybTd1M2otSF9jZmtmTWNFX0daSVA5bDRmV1JlSWNhRmdLdDR2SWRPQnJ1REhmY3hncHc2UzAzQ0wtOU1vTDdBN3B2VXlSRlR5cUJWLWhybUVuQVJPYmd0RWlYOUlzOWxsQmROQUdrV1phUUVsNDRsdFhqeGwxOWpHNTNWWUVlYWc0c2pn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T21:30:48+00:00"
-    },
-    {
-      "text": "Conservative influencers charged with unlawful voting after ‘Muslim garb’ election stunt - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObG55dXFwZHZaWGVVdXFWQTZZZ014SElaT0E3N1FhalBNaU5RT1h3M3ZucjVoM1oyLThTUTlWMk5xY1Z6OVVXVGxfT1I4bkFraEZHdWlocVZqMzFTUVRxM1dycmhTQ1FRclpzMVlHc1VMRDQtOTVCWXpQNGlGM0tLckEwdVF3TlJnUnc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T21:24:00+00:00"
-    },
-    {
-      "text": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YQmFuLW9rWEs4YkU2d1FUcXE0ekh3NEJwSjNPcElkZU54Nzlyd2k3VG1lNFdZcmw5MnVCX1hrbTlvdWlqSU0zMVVVRjV1WGZvNGpvS3pIRk0tYVk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-28T21:16:30+00:00"
+      "time": "2026-10-29T02:00:35+00:00"
     }
   ]
 }
