@@ -1,17 +1,46 @@
 {
-  "generated_at": "2026-10-29T13:35:56.263241+00:00",
+  "generated_at": "2026-10-29T19:16:23.472820+00:00",
   "lead": {
-    "text": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates",
-    "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+    "text": "Some Polymarket user funds stolen by hackers, exchange referring matter to UK authorities",
+    "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-10-29T13:34:49+00:00",
+    "time": "2026-10-29T19:15:32+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates",
+      "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-10-29T19:10:20+00:00"
+    },
+    {
+      "text": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-29T19:10:07+00:00"
+    },
+    {
+      "text": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnhRUXZJSkhiOTc5RWpkbF9kOElXRi1Ha2tLMkVUMVZSZGpjQW9MZG42S0RnUEI0TmpJM25VOUY2ODc2b1BpUzdjRFpvbEhMM0h5QTNhbHdwT3oyN2hoVjRFZUkxTzdEWlk3WHNOVG5UdEk4cE5fZG1CaUh6ZHZoQ09lek5FWXhVWjR5c3RBUnJiRVpHWW5Qamw5NUVrVDduaVFfX3VGWVA1WGoweGJLeDNSQU51ZWx2?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-10-29T19:04:46+00:00"
+    }
+  ],
+  "col1": [
     {
       "text": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
       "url": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
@@ -19,193 +48,164 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T13:31:26+00:00"
+      "time": "2026-10-29T18:55:42+00:00"
     },
     {
-      "text": "European Central Bank keeps key interest rate on hold at 2.5%",
-      "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-29T13:30:06+00:00"
+      "text": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEZlUUZDV0lCZXVLRkpodmN6VnF4WWtHdHpqNmVhWnFLZUZlNS1CUUlSWEpOR2lUTzBjSExoNm5KLWtTOVA1dzk3dmZSSTM5MWVpRmJxZDIzRlowTW1OYS16VVJzUkpNd1FMX19OZ0c4T0dNc1c4aXlaRzZWZlhqMjUxX0RweVJWVlhxZnRoaG5WbEJ5?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T18:52:07+00:00"
     },
     {
-      "text": "Regulate AI, but don't hand the 21st century to China",
-      "url": "https://thehill.com/opinion/technology/6178430-proposed-bans-vs-self-regulation-ai/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-10-29T13:30:00+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Christine Lagarde to Step Down as President of European Central Bank",
-      "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html",
+      "text": "Deport Immigrants? Oh Yes. But Not This Guy.",
+      "url": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T13:28:16+00:00"
+      "time": "2026-10-29T18:03:31+00:00"
     },
     {
-      "text": "Inflation Accelerated in October, PCE Index Shows",
-      "url": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Robust consumer spending, AI-related investment power US economy in third quarter - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T13:11:39+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T17:42:58+00:00"
     },
     {
-      "text": "Can Porn Ever Be Ethical?",
-      "url": "https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "At least 14 people killed in Russian attack on Dnipro train station - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T12:38:08+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T17:27:56+00:00"
     },
     {
-      "text": "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage",
-      "url": "https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Barbara Barrie, Oscar-nominated actor, dies with medical assistance at 95 - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS0ZZaFFKUjZ4NDF6cHZxNmY3R2NEcllTZ3VYRTBDSWlfVTZ4OEU1R0Etb2xSRDdxUHlzbHFWYmYzcjhUbUlKR2tUdnJzY1d1dUJhUDJ6WjBabWU5V3pmQURVQkZyRnNlS3pqa1NkODl2ZS1ld3A5aFB1NEl6cVBULVk1NGlxbTBNMEtqSmlRSDdzc0k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T12:30:09+00:00"
-    },
-    {
-      "text": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
-      "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T12:18:45+00:00"
-    },
-    {
-      "text": "Russian Strike on Ukrainian Train Station Kills 13",
-      "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T12:06:10+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T16:22:10+00:00"
     }
   ],
   "col2": [
     {
-      "text": "U.S. GDP Increased 3.4% in Third Quarter",
-      "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+      "text": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+      "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T13:24:46+00:00"
+      "time": "2026-10-29T18:53:47+00:00"
     },
     {
-      "text": "The Red States That Could Decide the Senate",
-      "url": "https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html",
+      "text": "Taryn Simon Fills Guggenheim With Evidence in ‘Father Country I Do Love You’",
+      "url": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T13:00:24+00:00"
+      "time": "2026-10-29T18:37:31+00:00"
     },
     {
-      "text": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising. - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM2lGRUFlcF9Idy1xbjFtMGN0LWVNNlh6V09GMjRrTmpaMTBDSC1kWG9mNl9XbWs2SkE2ZS1xRk14Sl8zMHIza2RHLU04cDR6YnhxVVMtTHFFby1hU0FsNENPMDhlaktaMjMxdm4tUWtWeXZJdlRtbGxWS1drb25MRlRoc3FoY2lmdnBOQU9QSjF0Z3QxSnFvNFZTYnJmVHBqQllWRnAtSk53Q25QeFNWclRIWlRPYl9CMHdNVGFwR3A5NU00cE1qRXFRX19namJuUGFNYlI5Yw?oc=5",
+      "text": "Halle Berry Leaves Court After Custody Battle Loss - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbkFzcmFlNDBNVy1tSm14VEFQdmwyeHBERE1ZQ0JXTzRwODdUTVpudUlZRFEwUHhseUN0YUwzSXRpYWZ0ZnQzTnV4VnA1QnpGc3FOa3lEcE9yUHhWTVZBeWlVN2NsUGtjcGVoamNyTUlQaXZ3SmNfSExoanlSSHdnMGNJQ0huOWNuQ1pqV3ZWUWVFbXRl?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-29T12:36:00+00:00"
+      "time": "2026-10-29T17:59:17+00:00"
     },
     {
-      "text": "Oscar nominee Barbara Barrie dies by medically assisted suicide at 95 - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNkZRa2VScWtBT3FsRjNHd3lLRVIwaHdVdXh0cFpqbXhpVGt2d3FOX0dKcGY2aWlZWjZjdnl3RXhiVXZ3X0dFWF9jYTBCekt2dkxRcW4zWkd5U2dpYXN0eVd1d0FJRjJfM2REZ2hIVVhPT0lHemQxaXFzZkhUdGFWOG1XZ1BvdDN6VDJKekVCYWVPQ1FNZ3ZCV0RPQXJyNzdkTWRXdko1NFJXckVlVUFuZVhwSkt5ckRUd0Z6a20zUQ?oc=5",
+      "text": "U.S. citizens included on Justice Department list of 400 alleged noncitizens, Washington state says - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGJrTUVLUUgxcDhQU0I4U2RHZlJfNFdGMlhWNzlacmoyOFhuRlpKOUVEY0ltWGxLMnBiLTNldFFRUE0tMW1sa1d4LU1TdHlfVlZvTXM4N2lDTkpRMi1PV0pqYlVHdFZwT2FSaVZHY3RjMnBtQTJLVmxvUEhGMkJYVC1PYm94Mkkwc0syVzVQOHF4Y1VMMkZIb2ZNOUE1TEt4Q3p2aTc2dXNGN3J1U1Q0MkhOZENEdVNi?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-29T12:28:33+00:00"
+      "time": "2026-10-29T17:30:40+00:00"
     },
     {
-      "text": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
-      "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+      "text": "I Can Hear Everything",
+      "url": "https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T12:18:23+00:00"
+      "time": "2026-10-29T17:00:33+00:00"
     },
     {
-      "text": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BNWM4cXhpbzZsRHFDSVFoRTRTYzRxSGFCemNRR1lNQU5fMHpGSDJBbDFwcnJDeFdWajdfV2laR2NDSzEtVmRjRW1FM0JoTFA4VzZZakRoNGpjR0U?oc=5",
+      "text": "These 4 germs are becoming an urgent threat, and they resist treatment - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY1FaTlZkRjhXVE50bDlHZXB6T2toZWhMei03WGhRaU5tZGt2THIzcVkwWndqc3l1SFdFMVAtS1ZiVU1QdGdLT2RHYWZYWFlUOWtwNkVGVmlSVzJuZEdFT3RqS2VWcm83V0ltakhfQUs3dk14LUw2SldiYWdWOVphWDhWRURJclR0bXprQjBxR1h1WE43NThURF9sM3VLc2JhNmdSbllOc0RaU3hzNTY3M29BV3F1aElhMVBqaTdobGx2RTA1S0FBQmRkSEo2Ulk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-29T11:53:02+00:00"
+      "time": "2026-10-29T16:19:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "U.S. G.D.P. Increased in Third Quarter - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hWjFpUjZyQ0d1ZlRFNVlnTzFDMURuVDZOZ3pqaGg2UmppclZEclgwTFNQQmNFY0JpYzdmWms0Yjd3X3RsS2pDTlZXOTNkRU9fUk0yanVlclh6UmlkYWtNWFRDQzVBMEJMWjVKYXZBSW9KOS0zRVhxVzdQMA?oc=5",
+      "text": "Stock Market Today: Nasdaq Sinks 350 Points; Google Stock's Tumble in Focus — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3ZEU2VfQkFyaEZwcGF4RkM4N3VrTXRYWlFFY1hFbFJDNk9OcWdFNnluMlVCelI4akpOWnlNZmVCNDhKdWhkQ1p1aE5Vell1NkpZM1JOakxUQUlNVko4RmRhOWhubzNkY2ttUmh0b3VlZGtvWkkwYzk1N082RERRV0FOOGljcDg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-29T13:24:46+00:00"
+      "time": "2026-10-29T18:52:16+00:00"
     },
     {
-      "text": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Alphabet stock sells off, AI jitters return - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZng1SkZyblduakt3V2JCRG1ZRFpaVV9STzdIcXhCWm5IZ3ZFRGJ3bDIyOXVRSVg5czF6N0szY0pxTm40Q2gzM2lCMkJRTldMSF9UUFB1TzFDUDFFQndIZFExX1lFQS1sQV83Sm53WHB1SDJjTzdSVUtEMGNOZ25XYzRCTnJLR1ZyZE9XSTliOTFnM0VhVnRjT3NhVjdXMVVwT1FsWEhxQzF1dzJnd19VOWZaN2tFOHZoeWljaTI1eXpENnpadHlPazhQcDBuckxJUjMyMw?oc=5",
+      "text": "U.S. Expels Cuban Diplomat After Fiery Showdown at United Nations",
+      "url": "https://www.nytimes.com/2026/10/29/us/politics/cuban-diplomat-expelled.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-29T18:37:17+00:00"
+    },
+    {
+      "text": "Four Scenarios for How the Midterms Could Go",
+      "url": "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-29T17:48:41+00:00"
+    },
+    {
+      "text": "Alaska governor orders investigation into Peltola camp after report they recruited second Dan Sullivan - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNFZvZ1VReGhhTmtsSmNXWE91QXJ0R1hjX0lVTklneXJpUjVWVmxxSjY0V0lBOWwxTXF0THpHakU1dmFrblNxUmRkc09XYk5kRlVxM1RmNVBYOEE0ZE9IdEZCdUVQcjFZeTlDUHZLU2NnbFItTlViWVNuRUllWDF6VWh5cXNWdEoxaFk0XzNFM1RISmt5dnpYUWVxaDlFVnRHTkM1NmtsZzNGZlB6LXFtb0F0T05pQ1pFWnB2cEVKV3YyNFFWQnc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-29T12:59:24+00:00"
+      "time": "2026-10-29T17:29:20+00:00"
     },
     {
-      "text": "With No Clear Winner, How Could Israel Get a Prime Minister?",
-      "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T12:30:50+00:00"
-    },
-    {
-      "text": "The Midterms May End the Trump Era. Here Are 10 Takeaways.",
-      "url": "https://www.nytimes.com/2026/10/29/opinion/trump-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T12:24:13+00:00"
-    },
-    {
-      "text": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
-      "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-29T12:12:48+00:00"
-    },
-    {
-      "text": "Judge rejects DOJ request to block California from immediately counting ballots linked to alleged noncitizens - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3N4OW9GNkVtaFZoemlHXzdwYjJYS0JpUEozUzF6SXlSZEdPbkhLSDFYdXZhZk51VTByLWlNVy1CeUZ4V2xWT2gwWVRXMGhjM0RQVGZKMzBnRXRuSDZZQ1MxelhUbkRjOEZfVWdiaVJvYjNaZlZPbzZjcjIwaFA0OUl1WkZkOW1uQzFfb3ZqdEVJcEctSVVrWkdPUTc1YzBGZl85RGctYUF0b2RicVJqX2h6MHNLS01MTnV4cm5uTzNFcHdOelRGUlowNNIB0AFBVV95cUxNNWRxSGl5TTM4a2U1Y1NiU1pFVDZmV1NrUllqeEdzMzgtWFM2MFFTbXFlcDNOYkpjZ3l1d0ViY3BqbjZUbGVBeWx6enA0bzdvTW9yVTZBUzZPZ0dHZ2JWVjBOYXc0N1lDV3RSZmtCYjV1LXNpeG9vMUhOQlM5WjlsRnVFTVI5a3FiTWRicTV5YTlCV2hTbDZISEcyeFFyekc0aW9qWTdETm56ZDRXZWo0T1NkZVVPcUdDc3NJbm9YaG0tM0k1TmdJRHZRMk5MdUNW?oc=5",
+      "text": "‘Hunger Games: Sunrise On The Reaping’ Looks Sunny On Tracking With Opening Forecasts Starting At $60M+ - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUENMaEZzVVpYQlhZMmVVZW15VUlCSkwwTDRtRDVRLTBBbWxkWjNZWVljS0h0Qm02bXFya253NENQTXU3QVFaejVCQkVfczVUZ0I5RWJxM09weTZuSWh2ejBNWGZLU1ZpSWFhR2NGM3BReXRUaE5JQ1R4WUtwVFRPNFJsbkg2N3hUNEZpRGpnUm5fZWk1bXFQYU94MjNkdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-29T11:46:48+00:00"
+      "time": "2026-10-29T16:32:00+00:00"
+    },
+    {
+      "text": "The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues. - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFYyODd3aFJia3FQYTVMTHpKcTFSOUxXNnpKNGdYbFFjc2VxNGIwT1VPRXZvdzBfNTN2bjgzQnRiNFdCUnhFQ0RWNHNxZlEycF9XdG5PVU1GS0dfYnRYMW52NkFBcl9fb1haZTRROVRWQnhYQkd4WHpyYWlWNm00RVJ3T2QteG5iZmVMeE5sR0Y?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-29T16:18:45+00:00"
     }
   ]
 }
