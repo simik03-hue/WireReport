@@ -1,137 +1,184 @@
 {
-  "generated_at": "2026-10-30T16:38:47.995040+00:00",
+  "generated_at": "2026-10-30T21:06:29.448899+00:00",
   "lead": {
-    "text": "GOP House member on 'embarrassing' SC prospects: 'Darline is dragging Rs'",
-    "url": "https://thehill.com/homenews/campaign/6184277-gop-rep-calls-south-carolina-race-embarrassing/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-30T16:36:14+00:00",
+    "text": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+    "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-10-30T20:56:17+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+      "text": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-10-30T20:55:18+00:00"
+    },
+    {
+      "text": "Elon Musk’s Endgame",
+      "url": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T16:35:49+00:00"
+      "time": "2026-10-30T20:50:30+00:00"
     },
     {
-      "text": "Binance's $6.3 billion hack: What we know and what comes next",
-      "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-30T16:31:36+00:00"
-    },
-    {
-      "text": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-      "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-10-30T16:31:15+00:00"
+      "text": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+      "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-30T20:49:26+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Binance Hack Sends Crypto Stocks Tumbling",
-      "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T16:20:35+00:00"
-    },
-    {
-      "text": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
-      "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T16:16:45+00:00"
-    },
-    {
-      "text": "I’m in ‘You Can See Everything.’ Here’s My Side of the Story.",
-      "url": "https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T15:32:31+00:00"
-    },
-    {
-      "text": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+      "text": "CDC scientists sought urgent alert on measles in pregnancy. It wasn’t approved. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0drMGMyU0FWcmIyeHlZbUFBcnlLY1JXWVltYXVEQlA0OVJhYmpXRFVoRzd5OEo0NnkzRUdzTlFpQ3QzWDE0dEJicS01R1R1X285U2VTWGVBbVhfNV9SMFFEbUNGaFgyMW1tNjhhbmhqZU1nalBmUFpvUWdxeGx2N21CQzdud3dZcXdmS0ZJS0VOWExveUNSekJnWGZBT3BDXzN6dktCSnphdkRqUDc4OFp6RjN2Zw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-30T15:12:00+00:00"
+      "time": "2026-10-30T20:45:47+00:00"
     },
     {
-      "text": "ICE agent is indicted after striking, injuring immigrant with his vehicle in Houston - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYU9nYXdZWDdrd0xVMC1QQ2YwclV5TXJKWG4tQm1FZHlpTkVyZnZOWUxxZHI3UkQ5X3phQ2Z5UFY4RHRqZWhhaGpWbVB4WWtSbnl5QnNmbW9fVko2cXFGdWVUaE9uRXg2Z18tbEhIM01EbzQ3SUREY2ZVanpfSVNueFAtU0x0SDFLLWlwNGJSX0R0T0lCRlFzcFpkVlliRTF0LVlCcU8wZzBXV012LVZF?oc=5",
+      "text": "Why the Markets Don’t Care About the Midterms",
+      "url": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-30T20:36:05+00:00"
+    },
+    {
+      "text": "‘Criminal Minds: Evolution’ To End With Season 20 On Paramount+ - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0VtcVNHU0NuNVI2S29KS3k1RjNDN3h6Z3VlTEJYd2RiaDZSbEktV0xTVmJSSFRhWGFubkpPanpGdXp3ODg4VElidjh1S0RYR2ZMTnZtOFVIcTZnSG5Va1lwcnhWUUUxcW96QnNsU2t4TnByak9vUC1XZDRZSjdxYm05QlduTHlTcjM4Y1hpVVBnd3IwQzJlVmdVNzd4MDJMZVE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-30T15:09:00+00:00"
+      "time": "2026-10-30T20:00:00+00:00"
     },
     {
-      "text": "2026 NFL trade deadline: One position of need and potential options for all 32 teams - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX25oa0NUWVpyUWFhNERGaWZiSklqSW5rc25vZHhucG12RmNHUHFNNVJ0YWd3aWc5d25kUTRiX1RLd3VFdGdvcGVySEY4R0lYSHBzVnVIcE4yZ1B3UHN3dE1EVm1POENLZ2RYRGFWb2ZWR1NVYUoycC1IandHNEtjX3pmQ1lsWS1nNV90bkdheEJPVmpKaHZ1TGdxN3E?oc=5",
+      "text": "Curry Barker Narrates a Scene From ‘Obsession’",
+      "url": "https://www.nytimes.com/2026/10/30/movies/curry-barker-obsession-scene.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-30T19:41:45+00:00"
+    },
+    {
+      "text": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
+      "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-30T18:53:37+00:00"
+    },
+    {
+      "text": "Judge opens East Potomac Park probe into potential DOJ misconduct - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTdzZzhOcHZFRzJIenRYR2NJZUQ0aHdXOHlxN0JLQ3pUcUc0UThIOElua0ppLVg4S1VMWnZVYlUwMDlRWVZQUlhlYTJaZE14MzJHd1hhZ2pPeFFJUTVxVkRvaW5GaFphc1FWYW91ODJLbXB1bVNtOEFHWERZZWNsMTB5TXY5QjQtemdjRTlYcXkxd2h0T3JPU0R3U19zX0s5UlF6clA3Qm1GTGh30gGyAUFVX3lxTE51d2Z3WnA2VzJnY0k3SHIyWFNTeW1LUGJOVk9RWWlJdGVvcXFGeF9XNF83LUNTLXpQWTRTVzZlUmdEelc0TURyMFpORzV1aFo1X3NER01RcklJWE55dmlGNGMyd2t5N0hzbm9pTEZ5aWpmTUpRaXE5VUlVLVozaUJZYUFSRV9Yd1ZCankxZXYyUlFIT0JMZkNiYjIta0hESXdoNXZsOUpRbl9Gdl8ySmVLQlE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-30T15:03:00+00:00"
+      "time": "2026-10-30T18:29:34+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Darline Graham Is ‘a Little Nervous.’ Can She Keep South Carolina’s Senate Seat Red?",
-      "url": "https://www.nytimes.com/2026/10/30/us/darline-graham-annie-andrews-south-carolina-senate.html",
+      "text": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
+      "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T16:20:29+00:00"
+      "time": "2026-10-30T20:40:47+00:00"
     },
     {
-      "text": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
-      "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T16:07:03+00:00"
-    },
-    {
-      "text": "The Trouble With This Popular Progressive Idea",
-      "url": "https://www.nytimes.com/2026/10/30/opinion/billionaire-wealth-tax-california.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T15:19:49+00:00"
-    },
-    {
-      "text": "Sir Patrick Stewart obituary - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUUhqT2RybUZral9iZUphWDRnYmt2a0FkMnF4MWVaakhiYm0wTUZCUlpxSkhMNW9tbU9sV05UTjlQRFc2bFVPN2tfUlVBU1JrNzQwWFFVUmRLMEJVa25WUDBtaTNCaXQ0WUNBbGRnWWVPdzZOdzR2SDhpd09OZGpvU01n?oc=5",
+      "text": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3d4RHVLejNUQk5KamNvZkpmVm9BT1JQUS0xQXNxaHFVVHYwYTJ4TnRIQ0I4RkUwbmR2aWQ4VXRzaDAwdmI4Q3Q4S1lFZlhqNTBxY1p6WDVGdkFxQjdPa05BYWx4TGdsempHY3YzWllDRDRxN2Z0T2w5M1FtVGcydzNaOUdRWWgzYTdfVFJQTDJZU25NOUE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-30T15:10:00+00:00"
+      "time": "2026-10-30T20:32:30+00:00"
+    },
+    {
+      "text": "Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzlsY0ZYR0tncTUtX1loanNNNWNYT3JVOUtfOXE3eTlPTGZHRkt4NUJLcVZhUGl4OFVtem5CVzU5TEhUN1VuQWN6TDdPOVkzemhNYnh1QmdteEk5RW1XODlkR3NyQzdNQjEyUFVlUkZYeldXdTVyY3NnV0ltQlp6NFZqM1p4OUpHUkhucW1OYS1vZkE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-30T20:00:00+00:00"
+    },
+    {
+      "text": "Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit",
+      "url": "https://www.nytimes.com/2026/10/30/us/politics/special-master-reyes-trump-golf.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-30T19:40:42+00:00"
+    },
+    {
+      "text": "iPhone Duo Review: One Week Later - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zbGxId0EteEJUY0w2bnpEaXFXaWtfQUEzRlo5Z2o4cXhwS3pFT1ZGb2VjejE2b3RVZmNwdDI2NEJ6NS1tdkdwOUFOamZsajJBR3RvNUowSXBhVVBfa0RoTE9yY1JPM05DUVVZakJmNWg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-30T18:46:06+00:00"
+    },
+    {
+      "text": "Christa Pike describes constant pain in first statement since her failed execution - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVm5NR0RFMnRfVl9iLTBjVjZuUXNORENJZUpkOXotbW1rTER0MDk3aG9fZ3FtM1Q5RnRVQks2SjVLVGl4Qm0yeXRVZmdBVnBiUzJ0RnhUeW9wc1RnM0ZZdFY1UnRsVFdoUENOemQ2ZnJhZFhHTkp1dnFUN3RHdEZXQnVNTW1tdy1QYkZpb0tDYXVkRG1TN1pWc3JuUVdYaXk3MkRUYUtmRmM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-30T18:10:00+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Jeffery Simmons says calling Caleb Williams \"Painted Nails\" was \"just smack talk\" - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjk2Nm9yR3FseTVYS2ZEWnRSZGZzbXdtNkItZDZXMEVmQmNMZmk4X1pacEg4UFdQWWNSLWZEYV9hakg5UU1UR3Vvc3NNSGs1clBLRk9YOU9fdEVmMTBSbEt1Nk1iMXpreFlia0I2Um83Q3hpVEhrc3ByNHctZ21TaTlwaERwZVFRN3ZDV0IwaDRsVHJUWjRXYTlLMXAwbU5GdkxKbXZIaGN5OWs3QURMU2VzcUhJSjVTV0xYTnNtQ3Nfb21lS2tqZ2pxZldWSmpkcWxyY1Vn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-30T20:37:24+00:00"
+    },
+    {
+      "text": "Christa Pike Describes Pain and Isolation After Botched Execution",
+      "url": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-30T20:30:36+00:00"
+    },
+    {
+      "text": "Marvin Shanken, Publisher of Wine Spectator and Cigar Aficionado, Has Died",
+      "url": "https://www.nytimes.com/2026/10/30/dining/drinks/marvin-shanken-wine-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-30T19:47:00+00:00"
     },
     {
       "text": "Trump uncancels weekend rallies in Iowa and Kansas with Senate control at stake - NBC News",
@@ -140,72 +187,25 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-30T15:08:00+00:00"
+      "time": "2026-10-30T19:35:00+00:00"
     },
     {
-      "text": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjhodndJTm9MRlp4bnZKWjNpSmlKa1I1VUJON1d4NnFHcVdGeVpmb0JHalhYdGFma3NjOUdJN05wWnk1U3RfenFvUi1nVENLcG91VGZFTlF4WjJpZ1RyS1I2RjEwdGJINUYtSUZmQ2NEQXpPTnE3MDJ3OXB6M3FLSWhwYnU0UVpsWHdGa1prN29ZRDBRUEtTQW03WGNZZmtV?oc=5",
+      "text": "Exxon, Chevron profits beat forecasts, refining margins surge during wars - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2JIcGhXLURlX1ZHUDVac0IwV1BuN1puU1ljMVFoMUJPNWtZQ2FFdEVMY1ZoZ3pENFUtZEpXZ0ZRU2ZLTFVobHd2XzRiaUxuRFRESXVYNm9zNUUxLWliR1A0RHpTUlNjSUxOazBFSzFvUS1HVWVJX1VGeU41WkxDSjlLTHlQX0dEd1NqUzNna0dkMEZBYmZEd1JZaHhuVElEZFBLZFR0YVQ4V3BxVkhLbGxOMzlRWjU1RmZzRA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-30T14:35:06+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
-      "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T16:17:35+00:00"
+      "time": "2026-10-30T18:45:48+00:00"
     },
     {
-      "text": "Tech Stocks Tumble, but Broader Market Is Holding On",
-      "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T15:53:05+00:00"
-    },
-    {
-      "text": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-      "url": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T15:16:55+00:00"
-    },
-    {
-      "text": "Rose-colored meteorite found in the Sahara Desert turns out to be 4.1 billion-year-old piece of Mars - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmblhVREdSUElXTm1KcGpEX0U4TmxYLVd5MXZ5OGRZd3JfRFVVaEtFNEd6RnFEV3Q5RzdhekFaNnpDcm1aSmNQaTJjZGZWUWtSYm11c1lqc1JHZ01mZW44bHZnR1RBdUMyYi10U3EtVi1pUQ?oc=5",
+      "text": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aVE5EeFJrYnZ4dC1QRk1JOFlaX1RISlFETExtSWxFaTlibzRHUU1GcDBBWndKTmQ3QU9UX21CMEw0V215Q1Nnc0tnSExDLXdtLWZ6UnR0OVRDMWM1S3c0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-30T15:09:15+00:00"
-    },
-    {
-      "text": "Spain transport minister says he won't resign over high-speed rail disaster - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ObF9kR1luX05CcDkxYjVSclhLWmJsYmNzQm1Zbi1Vb0IyTFRJZENrWVVtTkxzMUxqWjV4b1dKVXhrbmd3MlQ0Z1A1S0Z3cWVEdEp0U1dVYUZfelE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-30T15:03:39+00:00"
-    },
-    {
-      "text": "Conservation Efforts for Caucasian Leopards Show Promise",
-      "url": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-30T14:35:02+00:00"
+      "time": "2026-10-30T17:56:09+00:00"
     }
   ]
 }
