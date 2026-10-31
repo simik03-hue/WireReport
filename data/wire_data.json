@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-10-31T13:31:41.529630+00:00",
+  "generated_at": "2026-10-31T17:56:48.407289+00:00",
   "lead": {
-    "text": "Trump administration attempts to bypass restrictions on sending Afghan refugees to Afghanistan: Reports",
-    "url": "https://thehill.com/homenews/administration/6186030-trump-afghan-refugees-afghanistan/",
-    "source": "The Hill",
+    "text": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-10-31T13:26:26+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-10-31T17:53:35+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "The NYC Marathon Is as Popular as Ever. It Remains Inaccessible to Many.",
-      "url": "https://www.nytimes.com/2026/10/31/nyregion/nyc-marathon-price.html",
+      "text": "How Binance’s $6.3 Billion Hack Went Down",
+      "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T13:20:50+00:00"
+      "time": "2026-10-31T17:51:04+00:00"
     },
     {
-      "text": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
+      "text": "Canelo Alvarez vs. Christian Mbilli live results, round-by-round updates, ring walks for today's title fight - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUnRBNXNiVGRNcE90WEZBOE9WbDVVaXlpTUFLVDRmd201NWdjMmVmOFZ1Qmp5NzVrTjRWd1hkUEd1T3hENjJiVkg2dmpPQzgwOUFUaGI2XzdlX1JQaUp2TXNfQk8zaWZMcG54V21LNlVGYmpSRGs3cW1PN1pxdHlUYVZ0ZWtBd3MtVEt0LXIxZDJYNEdCZXpZSzlqYjVQVE0xeVVKbUtpeVlFeEh5QW04aHhuN2V5ZlhUS2RaVUtWUEc0bThsS2JWV044YTQ2UjMtSkhVUERBcjc3Zk5wLU5yRkpFaFdUZkxqZmRaOA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T13:12:48+00:00"
+      "time": "2026-10-31T17:45:04+00:00"
     },
     {
-      "text": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-10-31T13:12:46+00:00"
+      "text": "Thousands Expected to Protest in France on Halloween: Live Updates - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLVpZYzZlRmU2d3VWb1JHXzd4MThSUlRfVmt1NzVPVWhEWEcwOFN2dU9oT1hSMkFodG90UEdkdFNldU45Tkx0Q3c4N1U5U0kzWmpPRExqcEltempmN2hLUXZXUmJITHdvOVRQQU4xazFzVlp5MnZxeTRMYUVIek5aNi1pSWktUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-31T17:43:18+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "url": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-31T17:38:21+00:00"
+    },
     {
       "text": "Ohio State, Georgia facing upsets? College football bold predictions for Week 9 - USA Today",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjByMXlBTDRYUlFKdTN6VGRvSTg3V1lMakk3RXhfYzVJRFROdGZ2X2UtYUZacF80REs2X0twT1RwekdsbWZJZ0l4aW5sZGEwTnNFQkRucTI2Y1VrY3NGRV9SNWkyWXRUOWlScmEzUTQ3MjMwZXJyNThBcGFSbW5LaHEwMUluRDRUbVM5OTEyMW16M1FUV1dJODR4N2FjSkN6NkpwSEozcThIWWxDSkRGelVfSUoyYnBUd19iNg?oc=5",
@@ -48,119 +57,90 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T13:10:00+00:00"
+      "time": "2026-10-31T17:27:00+00:00"
     },
     {
-      "text": "Guest Column | I’m a skeletal biology researcher. Here’s what you need to know about bone loss. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDJZNVNCUEZxR0NKRER4SDJZVmY5eHpVTkFNblppemd2V0dUQUJUcGN0SFcwVWRyM0pxXzNjMGRIcXNUTlVCdkxueTEzVkJzd2FMSjdiekhjOV9WOU1rN3ptU0gxZW5vV1lOVUZCMnlHOUJWYUROWHRkSUtBeFhXdWYtZEY3OWlxaU9yd29XVnJxR0Z2X3dBSGxtRDRDc3ZReS0zcHQ1T0RKYWF4Tm4xbW02TjhINHpWdmVRVllR?oc=5",
+      "text": "Live Updates: Iran's supreme leader warns U.S., Israel against new attacks - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T12:43:06+00:00"
+      "time": "2026-10-31T17:18:00+00:00"
     },
     {
-      "text": "How Trump Is Dismantling America’s Scientific Research Machine",
-      "url": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T12:21:19+00:00"
-    },
-    {
-      "text": "Daniel J. Sullivan left his Alaska hometown before Senate election, sources say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3kxcGNCa2hHYk1QUDNCOUkxUmhqOG9Fb2RZZGtzaXFyNmExUFdJMGxPXzFOcmhEVDFwbVRzN0Q5Q1dSMnV1NF84ZzRPX19ScU4zREtpVTNnblRaMG0ybHBOcXRLOXBUN3JWNURKdzExYXRFbHljMFJPbm1wLWRxY1lHd2RDeUdrUkxqQg?oc=5",
+      "text": "1 dead, 6 others hurt in shooting at Spirit Halloween in Fairfield, police say - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3djbHFvT0xOQ1ptZWdqdzlDZS1uSjVTY3RpTnhIOXlFdll5WFkzQUllQ1RfS29qc2NYdVZWYWNHdEtSRHdlenBCay0zczhfOEFKeEVrS29TRGdOR2NWbEFFNDFPS3V1YVJEVUNPaHZMdVV1ak5WTXF2dGhmR2NtZzl6U1RXTDhmVGowQzE4MW9XTGFvbWw3Vl9n?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T11:50:04+00:00"
+      "time": "2026-10-31T16:33:43+00:00"
     },
     {
-      "text": "Taipei mayor gets angry reception at Pride after gay bar raid - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjZsazFEZmdnZlpvX1EtdzlPbFF1THhFMkkxamJpVHRfek5DYUtoemVsbnJ5X2FCNWo3eDJxOXZhRHNzS1g0YWQ5ck9vTEo0OUhpVHB6cTRSRzVrUlZGVUNXTy1QVU4tbXhINENEb0xuNDBtQkw1QjZwWXZKaloxNDRlaGNOVFR6SUNGR3M4NEpVbGN3UWRFbk04RWJWLUlUdExyanJfSVRaQQ?oc=5",
+      "text": "Poland's president accuses Tusk of forced takeover of country's top court - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1FQZ3BaNHVzYUlJRnloRE0wc0hFS2xrV3RJb2pkLXlXbXpBX1Y1eURkSUpCTVFhQjc3cWJmS2ZnNGM5eE1YTmxqN0t3cHVNM3NLMjlvSFpMMXJ4TkxjS2N6XzV6bVhlcExudmpBdzZPWHdyVHVYVExqZVVuNkdlVE1Mb1dpel8xdDNWSGlOS2o1R0tQVU5wWnE5WWJ5VmJ5cmsyYjA0cTJ0d1U?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T11:37:46+00:00"
+      "time": "2026-10-31T15:05:25+00:00"
     },
     {
-      "text": "El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDhJcXQ4S2RFaUVya0s0c01sN3o2aWNKZ2F6UHUxc0RFckdDNThMSDI1UWtQdjlSNGk2ck5MOXZTdTBNYkVRYnN4enRvS2Q2Yk1zVTlSSWtmMXZrdE1kV1dwNjVrS013QmZCUng4cEE2RnVCOW9pMnViVFNId3NyTHdHQUVuWEJNOWg0YXlPWXY2Mm1nb2xIMUgxdTM1NXY2TFFEN1RvRmtVUk9Va29UeA?oc=5",
+      "text": "Prince Louis, 8, Looks So Adorable in Never-Seen Halloween Photo Taken by Mom Kate Middleton - InStyle",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN0dpeFNFVWkxMXc1T1owUW9yTFpvU0UxeFotWnFaOENGUTVaVHVfc29rTDBWRm1EeDE2ZDNzdjBHM3RDd3g4WGlSV0RNWlcwTnJpU2lrbm1jUDJMRWJJbjd5NTlQMGZQczd2UVJaNFNuWG1zT1ZneWt4R0VRMnU2UmNxcV9aZUhxekFiRDhNeDFNT0Z0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T09:44:32+00:00"
+      "time": "2026-10-31T14:25:51+00:00"
     }
   ],
   "col2": [
     {
-      "text": "How suspected North Korean hackers swiped billions in crypto in only minutes - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHE4QnBQRF9vakp0a0VReVZFSjNOa2hmODFJOHdLTGlzSnBkRW4yei1rbkY5cFNyT0tYbmlfQ2dIZG9GN2wyaGtIZnpMNUQ2Smx1ODVKMHJZdEhnUk9WbkZhYnJ2NmkxaUNJTXZvcmpRQ2tZa1RjdEFNSjNjWUk0QXVKSlotVEtNVmI5ME5fLXIwV0k1WTdGR0VFNmVQb2VIQ0pULXZlR0JILXdqTDZSa2hwSlJTVnRBWDlzbURhV185Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T12:49:08+00:00"
-    },
-    {
-      "text": "Patrick Stewart died after a ‘brief’ journey with dementia. Is that common? - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVW9WRnROU3UtN1VTazhhZGI2S0FjVXJBRjFISHdPRnk1UmhfWlc0dHdvVDhOMXVVN3VzaVlESTFLbFpUWWVqQ2FUR3NSZ3JsQ3NCdlZGbENwYi0tYTBBSVBhWDNBbWEwbV9RRDFPeDQwY1J5RGVrMmkxUDBSeE1aZ3h3bGFHRmJ6NDBnSDAyUThGLW1DeU5NQ2JwcXBnWDd5ZElQRDJNVWdqWF9NT2tCOE9VN1h1WlhGYUNz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T12:31:21+00:00"
-    },
-    {
-      "text": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjc5eFNBTWNCTTRVd2lMeHZ2a2pfN0k0dE1xMnN0WUpLT19jUTBOLU1pNGliTTJXQTRtaWpMMm9Kdk5UU09tbjdqeU1YNGVDLW9fWVAyVlFKUTZteFBOVHVqdXRqZ0lCUUY2VENQOHpjRmFBLVFWNjlQTXRORFdQVmJucGVrR3BJVWswZ1dHcWVmSnBXbzVR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T12:03:00+00:00"
-    },
-    {
-      "text": "Brace Yourself for an ‘Unusual Election’",
-      "url": "https://www.nytimes.com/2026/10/31/opinion/midterms-races-democrats-election.html",
+      "text": "Three Midterm Races I am Watching Closely",
+      "url": "https://www.nytimes.com/2026/10/31/opinion/columnists/midterm-election-races-what-to-watch.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T11:46:38+00:00"
+      "time": "2026-10-31T17:34:23+00:00"
     },
     {
-      "text": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU9vVXZSbnhhckxtakdBUm90QXBOVWFQYnp1dnhGMzl1WjkxTkNyMWF0MXZhaGRRRmNPZzA4Z29UTDFpMlZzS3pRXzZUdkdyeEdNamEwR0RZeUE?oc=5",
+      "text": "17 Disney and Universal employees among 281 arrested in Florida sex trafficking sting, sheriff says - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmctc3U5NWs5S1dpR1JONmVvd0FJZlFzcVJ3VVp4a0lyOU5tRGk1UXh3dVRWSmtJMHhFUTRuTlpBZzJuMVV3SDBDOFA2WWd5OEFtQ3dMRmRTNkowOEw5eXRIbHFRLTkzQXhpajY0eUNHUEFDZHJnMEd1bUlUajVMdE45cGI?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T11:18:14+00:00"
+      "time": "2026-10-31T17:22:02+00:00"
     },
     {
-      "text": "Martin McDonagh Says Art Can Change the World. Just Not as Much as Murder.",
-      "url": "https://www.nytimes.com/2026/10/31/magazine/martin-mcdonagh-interview.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "PCMag’s First-Ever Gift of the Year Awards: Our Experts Select the Best Tech for Everyone on Your List - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU2cxaThBcnYzdm9sSzZsXy1wR0cyY1BISDNqd3FzM2NuMkVRUE5hX1JmRzNwV3RsQ2JKSm5nZThxREQtN09MNW5YUGNwYU9pMHBFX01BQmVNN0xTT0xyS0FJc1J2a1l1Ml9n?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T09:15:07+00:00"
-    }
-  ],
-  "col3": [
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-31T16:56:50+00:00"
+    },
     {
-      "text": "Talarico Makes Final Election Pitch to Texans: ‘You Are My Slingshot’",
-      "url": "https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html",
+      "text": "Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T12:46:44+00:00"
+      "time": "2026-10-31T15:24:29+00:00"
+    },
+    {
+      "text": "4 ways the polls could be wrong — or right — about who will win the Senate - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHpBVEpNZ1ZKOXdnZTgyeklzd2lLOVNfcXYzREl0OVlwRk1FSndTMDkzWkJRajdDTTgzMGVoR19JQ0p6Vnl5eUNVckN0cDRJZ3lycy1IV1lxeDhjQmptdkRMXzdPMmlBdmhxbkxrYU1ZNk51TmlDRTJDOWNpOW9KT3N3NmxaVTZEc2NpVklDQmpHSnJBaDYyOHNXY3ZIS2E4aWpZdnZBVUU5U3JaMmlJb2dvWWE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-31T15:02:41+00:00"
     },
     {
       "text": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
@@ -169,43 +149,63 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T12:26:58+00:00"
+      "time": "2026-10-31T14:22:20+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "How Trump Is Dismantling America’s Scientific Research Machine",
+      "url": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-31T17:32:04+00:00"
     },
     {
-      "text": "Gadi Eisenkot is the bereaved general trying to outmaneuver Netanyahu - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDZLNFNiZU1leENmdkdfc19CcW9GbTZjeG8yTHBLUHZZMkRSSi1BQ2Y5TmR3X1MxNUExZGhSOE5hNGtnR0w1M1JQMGRfU1JqajBuYlozZTdodUIxTDMyRlRkdWY2ZXNKdEl3Q0RYOE1xN3d4dUU2bXdHQlZCNWJCcFgyQXU0cFVoSG9LZmNfTi1DSnJwX0s2UUZaeFV6REJtOU9TWlNtbFJYcUJwM0dVaw?oc=5",
+      "text": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-10-31T17:18:30+00:00"
+    },
+    {
+      "text": "Box Office: ‘You Can See Everything’ Fends Off ‘Clayface’ for Top Spot on Friday With $3.56 Million - Variety",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRVdXUUpPeks4X1pyMlJSY2dhd1JSbUNqUl96RHlPOU5CMnVBSkF2NVlGVFlrcG1XdEVVWDI2SkxnV0FsbUNLZ2RfS3JzZ3NGNVRSeHNLN2F4NTNKLUNGZDVFUFRZbTFCNmF5cmplc0h0MWhMcWVjSGU0UEVVS0o0WDZsSDBpOXQtRkI1bk40VG0yUjR5UG5FTXJiZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-10-31T11:59:16+00:00"
+      "time": "2026-10-31T16:49:00+00:00"
     },
     {
-      "text": "Republicans Tried to Turn the Cheesecake Factory Against Democrats. It Flopped.",
-      "url": "https://www.nytimes.com/2026/10/31/opinion/democrats-populist-working-class.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "D.C. and Virginia sue to block Trump’s proposed triumphal arch - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTExNUU1ORVBtRDZ2N0R3R2J6OHpDS2tMbmNfOExQM2UwT3lBcUY5czZ4ZHFBZ2JnalNXb1B4MDlpUWM5eGR1ZlVVR1RGWWM2QXFmZUZrU0FIbmNrWUs4d1VSODQzeU80Q2lsUmE1cG5Cak1xTm5tdUZzSjRKNEVJdmFaN09GYmpBa0Mya0dwWXhRSm1ROVZ2T2hoMkZyM1FtUGFpcldXUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T11:45:28+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-31T15:06:03+00:00"
     },
     {
-      "text": "Stage Fright",
-      "url": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jNU5SVHJ6R1hPT1VhOS02QU9URWQwR0htNnBXeEg1UXNWOGV3T25BbTVhZXJXVDdhV3hRVy01RWItVTR4eWRSWGdWWlNTdjd5QnB4MlA5Wmw1M28?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T09:58:16+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-31T14:48:49+00:00"
     },
     {
-      "text": "Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed",
-      "url": "https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Taipei mayor gets angry reception at Pride after gay bar raid - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjZsazFEZmdnZlpvX1EtdzlPbFF1THhFMkkxamJpVHRfek5DYUtoemVsbnJ5X2FCNWo3eDJxOXZhRHNzS1g0YWQ5ck9vTEo0OUhpVHB6cTRSRzVrUlZGVUNXTy1QVU4tbXhINENEb0xuNDBtQkw1QjZwWXZKaloxNDRlaGNOVFR6SUNGR3M4NEpVbGN3UWRFbk04RWJWLUlUdExyanJfSVRaQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-10-31T09:06:09+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-10-31T14:20:44+00:00"
     }
   ]
 }
