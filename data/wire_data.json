@@ -1,46 +1,129 @@
 {
-  "generated_at": "2026-11-03T01:52:03.017495+00:00",
+  "generated_at": "2026-11-03T09:22:30.654956+00:00",
   "lead": {
-    "text": "North Korea denies being behind record $6.3bn Binance hack",
-    "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "Stock futures are mixed as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-11-03T01:23:03+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-11-03T09:18:11+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
-      "url": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
+      "text": "Brookfield targets $27 billion AI data center at power station. Energy firm Drax surges 8%",
+      "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-03T08:28:31+00:00"
+    },
+    {
+      "text": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+      "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-03T08:27:23+00:00"
+    },
+    {
+      "text": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+      "url": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T01:22:04+00:00"
-    },
+      "time": "2026-11-03T08:20:55+00:00"
+    }
+  ],
+  "col1": [
     {
-      "text": "Supreme Court rejects Trump administration push to set aside thousands of California ballots - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUTBndDdTam9fRTJHOThoRXMtenJuVDU4a05vbllPTlkxalRLWWI4VzlxTENCWGtNdDFQbC1xQ2g4MDFSZkM5RU5wNlFsM0FkaXBpM1VHR2NSRkJaRFpwWlNPVXRfUTc3WlR0WjhIa0pCNnE4SGI2WFFiMHdkbVZsVVZtdlhtNjdmQU15QW5tYXo5dlNOelVyblJwUnJnVmd5MWF3Z3hJRkZSU00?oc=5",
+      "text": "U.S. military carries out limited strikes on Iran’s Qeshm Island, U.S. officials say - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUlWcUZ0NmY5aG5Ed0pLb0JGbzdIMDhsd3U5aUVNREtrY0tCZU9JVTFsUU8weWU0OW84Z193bkNfTkVzNG5YSnFuYXJxLWlPWVVjNmZ6UlVpMU0xc0tSYWprbDNIa1pqRlQyb1ZGRC12OVZla0dSWkdkWGM2YmhwMzJxbEtQM2pyWnk5S2tpRzlOa2w5ZXZNTUI5LWhOWUlESWdKYWdXcWNWWjZKQnh6b1Z5S1k1NFk?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T01:17:00+00:00"
+      "time": "2026-11-03T08:18:00+00:00"
     },
     {
-      "text": "Democrats accuse Musk's X of favoring Polymarket",
-      "url": "https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-03T01:05:20+00:00"
+      "text": "Jimmy Kimmel Mocks the President’s ‘Pettysburg Address’",
+      "url": "https://www.nytimes.com/2026/11/03/arts/television/jimmy-kimmel-trump-midterms.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-03T07:13:47+00:00"
+    },
+    {
+      "text": "2026 election live updates as candidates make final pitches, Trump says \"we win in a landslide\" if his supporters vote - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHRC1LSTZKN2o0WnZubkhZSkw0VGZQSU9DX1Q4dmw1UGxoTE9PbmZOWm96NE1XNUVVN1hMZTRTaEd0eWR5ZVoyWWlNUnlsTDhQdUxjZWZJRXVzWnVLRFlhMDllWGFLYUZIdUhaVl9kV3pxTlppWnZXY053?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T05:48:00+00:00"
+    },
+    {
+      "text": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+      "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-03T04:10:38+00:00"
+    },
+    {
+      "text": "Asian shares are mixed as tech losses offset broader gains on Wall Street - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekRxNGUzaWpTRy1SLXpVUmlsbkNPVWMyQ3Q4WWx2eHFvRjhvUzViNUtXcGlxLVlmdlphQUc2bk5CX2ZwVmp5RnJQNTJxaVdjd0dra051ZUJNaVpQcVFVQjBPa1MtY0tEZ0N3MG9VMGJWWXZ4cXoyRzhKSm02NHJLbDdlYUpVbE4tbnhuOEZodFlmX0k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T03:51:00+00:00"
+    },
+    {
+      "text": "Australia hikes rates to 18-year high to fight inflation - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T03:32:00+00:00"
     }
   ],
-  "col1": [
+  "col2": [
+    {
+      "text": "'Dukes of Hazzard' John Schneider Admits Owing Ex-Wife Millions In Divorce Battle - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTkZDOEZDcW5EYmExYWl6dk9iREthVldIakNuUmEteW8wempGNFZCTU5PdXh0U205eEVBTkFaSDN6RmIwMVE4QWo2b242SWZONHpnOFJjbXBBcS1BNzM3Z3R6OFRkWERCZUNvV2Mtbl81UTVnYmZScFRMdWh1UWJZMkRmaUVrLVV6OS11VTlJaEJod1k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T08:00:15+00:00"
+    },
+    {
+      "text": "North Korea denies being behind $6.3bn Binance crypto hack - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dXNzM0pMSVpsb283elB0VkotaEZVbW9QVWpwZGM1VHVkaV9VWmY2dUpKNS1ITkgyZEQ1YVBzM2x3RzVpRm5BR0F2M1hXVV9ydEhsMm9ZZldSdk0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T06:22:29+00:00"
+    },
+    {
+      "text": "Jeffery Simmons, Bears' defense handle Seahawks - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1VHdVlKeHYyUDlHVlVaajQwc2lyM2wxdzhMRmhDQnF6M20tcGZlazJPVGJCRmxNV3M4YldFeFdtb05fcDBibGFnMXRRekZLQ1VjUFB6NGF6ZlllQ0JpYThZX0phdlpUR0lTeG5vbnBqeGttS0VFMlY2a1pRS0duTlVtZGZCNUlIcExRbzJfd0V5Wm9NelJXZ1QxUFhSLVlJUlNNVnIzRjVTWGc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T04:49:00+00:00"
+    },
     {
       "text": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
       "url": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
@@ -48,111 +131,64 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T01:04:46+00:00"
+      "time": "2026-11-03T03:58:04+00:00"
     },
     {
-      "text": "Apple unsure when more foldable iPhones will be available after selling out - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3anp4anRNdzRsTlNlRUprNExGelhSOEYtWDhlcjFXT0ZjLXdVN3kwS0NsQlFPbDNEZTJBc1N4bURXVDVkSzhMRTlpY19OaGpwbXo0UktoVUM3dUU?oc=5",
+      "text": "‘Dancing With the Stars’ Disney Night Makes Magic (3 Perfect Scores!) as Group Dances Return, Another Celeb Departs: See the Scores, Who Went Home - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkwxeERoMUEySDYtUmdjU3h5dk1QV011WENDRnd4WXZldTNlLWhVclBfSHpQa2lMdGlGbVBwS3plUUxvQklWa3ZXQTY5cU1JaFJQcU44TW9NM2c3OFFfdHJaN2RUUWlkSUV1aWdSVzN6V2Q0cmtpZGFZLU5aSS1JLXpwSjBnX3k1V1dkR0s0WE1zQWstMkYyQm91dENucVBuZ2FmcWpDamJ5YTdlZjhB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T00:29:00+00:00"
+      "time": "2026-11-03T03:43:51+00:00"
     },
     {
-      "text": "Don’t Be a Haley Stevens",
-      "url": "https://www.nytimes.com/2026/11/02/opinion/trump-midterms-history.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T00:23:22+00:00"
-    },
-    {
-      "text": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnVXWVlvUFpSU0FxcHVyYW1tY2l0ZVJKNHR0a3hjOG9yZE81NU9zVUtLZF9fSTdqcC1nZFQtY3RHeGh6b1lTMWotSklxUDFlTFFIRDY4X2VZNzFJR2RHWjI2enZsVmlXLTM1bVRYNkx2eC1UTk1TOU44NHlrXzBFRXB3TdIBiAFBVV95cUxOTklSTE1CRWZWUTVyemZhc05zRmt6Ui1Ld000Y3ZJWWZDTi1wajZkTWhaOXUzeXVjaWt6VU51WjkwdTROTnc2OWhMRDFYYXFMNEhSTExTamlpREo3NDdxd0xhLUpqOF9TNUxzVWlQV0JhVldFdENEU2Qyc2xhSTg0WVRzcWI0Wlgz?oc=5",
+      "text": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies - Krebs on Security",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnZ0TTB4aHV4dV90VGY0bGtnQVQtSGFGUWx6NnZHcWVWTkN4T3ZjMkJOUjhyXy1LbGZEMEZLM3dZZlZuVmc4QnVJdGlsN1dnMm5BODRneXlqeWxSaWJBX0x6bWFkcEVncjBIMTNOVjllVVUxVjd6SVpQeVhFNWM5YVV5NldXZ1g4a1BLYk4zdTVqODEyQWNhdGZPeTVOOElXYzg2bUpn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-02T23:59:00+00:00"
-    },
-    {
-      "text": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFF1WnozbUpQLUdUc0xtRWppenM3bFZfXzhrNHIyZ3BlVXVTRjRTb29YYWhOU3VyUTRqZ2VLSE54UVNONFpULTFCWFJmYzV6OFcxSG1BMUN1RzlwWU84YkdQUWFoQ1c3Q2F3LUNBc1NjRU5wM09taWgwd2E1V3JBM3o5amJVbktwYXk3MlF2cnhYa042RHJUTVNEOG9lNEo3T2JDYkE4bjREUnR2azJYdEVWcTFVSzd6YU5qdlRYNHk3X0U?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-02T23:25:00+00:00"
-    },
-    {
-      "text": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
-      "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-02T23:10:20+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Early Voting Turnout Surges",
-      "url": "https://www.nytimes.com/2026/11/02/briefing/early-voting-turnout-surges.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T00:58:40+00:00"
-    },
-    {
-      "text": "William Nordhaus Pioneered Putting a Price on Pollution",
-      "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T00:27:42+00:00"
-    },
-    {
-      "text": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
-      "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T00:22:03+00:00"
-    },
-    {
-      "text": "New York reports first measles death in more than 30 years - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkZBTG12OHh5aTBCa0FKTTYxREhxZjlnSWxCRjBjcF9BYWk3OXJ6bFV4eFl4eE1jSGhOb2pHVlc0MGJTWTlnZUp3YVFFUHBrMEtPZnJ4Q0I1MFRyNC12dFc2MTdQMDBTTjdxTVRMQ1VGVEZINkxnQ2lWdVBPdy13VkhR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-02T23:52:00+00:00"
-    },
-    {
-      "text": "Washington state resident dies from bird flu following exposure to infected cattle - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0d4NUNUbjhBbTN0TGtuakFKQV80M0JUcEFKbjVfel9LVkFuZmtfWHBNdjFVcm1LTTA4UkRlV01KSXBzbE91U1JTOEdjdXQzbERuNksyOTBqTHJtMDMzTW5yaXluVXNFZGRCTWxySDNjV0JJTkJFYk5VbWQ4eEtWUlNJWVBFZTFET0o0ZmZoaGRyWkRHcllv?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-02T23:19:00+00:00"
-    },
-    {
-      "text": "Frantic Binance Hackers Created Windfall for Fast Crypto Traders - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkgyN1RadW55aHJhVWJzX0oxYkpzNXVWdDdEYUVBRjVXOTU0d25xQ1N3YzNrYUxOcmhCQWZrNjRmUzZmTXE4aDdjMnJfNnJxNWEwMXVTYXhoVWNvNEVIOHVtcXV1eEV4bll3aXJEb09aYTFhelViRk85QnN6NmkxT1NSUEZ5dHhrdWZCZGNiU3hjTk1FX3dZeWYta3RYRHRGUzRkZklvakQzcVQxa1dwYjVnTnRWZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-02T23:03:35+00:00"
+      "time": "2026-11-03T02:44:43+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "SCOTUS rejects Trump's bid over disputed California ballots - Axios",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQVGduRmpYTnVpTDV3OWRVaHQyN1RTblRjNkhCWUZEak5vUkhfMHVla0RtSUhlRHIxVm9yOG43Z09fX1RCYkF4MUJJdU5uTGwxWnJfM3MxWlRQWnVteTNQZW9yeTl1UlpUYWZZVTNiRFZuVUJLdDRrOGhETTFhZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T07:31:03+00:00"
+    },
+    {
+      "text": "Latin America’s Swing to the Right Was Never About Trump",
+      "url": "https://www.nytimes.com/2026/11/03/opinion/lula-brazil-latin-america-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-03T06:00:07+00:00"
+    },
+    {
+      "text": "Rain clears but flood risk remains high after destructive storms swamp normally arid US Southwest - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjQ4Y1ZtaWZldkE5YXU2MjRzd1dmY2Mwd0ZON0UxMzl0aGVkZVVBUHYzcFo0S0M4cW1Ya1MzVjEzd19uYkZwQkR6WVZoNmx4Zkc4WE5zM0Z0Ynk2Rm5FWm5ZTlFyTXVmNkZSWVJ3YndwOWw5QUoxVlNOUGxEalBKUXVmX05iNVZEVEFrMnRTc3NFNDcwLVFaclRMV2hPTFdFeG95WEdrTXd6STVHdkNESk9aTXh2bjNK?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T04:38:00+00:00"
+    },
+    {
+      "text": "East Texas A&M stuns Oklahoma with historic road upset to open season, adding to Porter Moser's struggles in Norman - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPNXhFWTJmRVJfaE91VmFYbzFXNkVwVFNIZkpsM1JnRTl1ZFpIMzQzRUItRmdBV2did1NrcTY2RENqd1BXMVlqMVZVRTBWRnZRTVd1OVhGcE1KMlJxdlR3Z29jMXhKOXFwbkVZejBUMGY5bkhIVEZKM2lJbnd1dndnNWszZklQRXZzLTk0TUsweTFjMzI5UEh3T2JFU2ZocTNYSGtmSjlaN3haVlZ5TFBVbThvVG0tNy1vVkkxQ21iUTBmQ0hqQWVxNFloY3R6WXlUZGQ4MVpzaVFYTTlRR3dRRW5xQTRpeGZQR0dOLWJJVzI5OG9MM3JGTUZKVGcxNTRfZlVIalBxaTNEVmF5Y3hOLTZxR0FCZ3hwMktYaXEyTWI1d29u?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-03T03:58:00+00:00"
+    },
     {
       "text": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
       "url": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
@@ -160,52 +196,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T00:47:52+00:00"
+      "time": "2026-11-03T03:36:43+00:00"
     },
     {
-      "text": "Judge Dismisses Trump Lawsuit Demanding Harvard Admissions Data - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnZNSlltWjBMNXZHdUpKRk9VS241TVNFczFpT2QzeVZNZk1CenhVenYzbW1zSHlsT1dYcWp3cFFmeTQxaEp3TF9TelpEZi1zVWVuQzE2LXdFRUdXSUhVaG43Yl9jM0RzUlNSMzE0UkE3SXlmdFJrbk51a1hVOHNNZ19hUmxLdjUwQVVTYjNR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T00:23:28+00:00"
-    },
-    {
-      "text": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
-      "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+      "text": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
+      "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T00:14:14+00:00"
-    },
-    {
-      "text": "Investigators Looking for Cause of Florida Crash Say Ice Was ‘Certainly a Factor’",
-      "url": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-02T23:50:50+00:00"
-    },
-    {
-      "text": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
-      "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-02T23:13:58+00:00"
-    },
-    {
-      "text": "Trump’s Election Fraud Reward Raises Fears of Vigilantism, Local Officials Say",
-      "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-02T22:59:40+00:00"
+      "time": "2026-11-03T01:56:37+00:00"
     }
   ]
 }
