@@ -1,46 +1,73 @@
 {
-  "generated_at": "2026-11-03T22:28:44.049981+00:00",
+  "generated_at": "2026-11-04T02:39:32.252295+00:00",
   "lead": {
-    "text": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-    "url": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
-    "source": "CNBC",
+    "text": "Democrat Bob Brooks flips Pennsylvania House seat",
+    "url": "https://thehill.com/homenews/campaign/6176157-democrat-bob-brooks-wins-pa-district/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-11-03T22:26:20+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-11-04T02:37:18+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Midterm elections 2026 live updates: Trump’s agenda and control of Congress at stake",
-      "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-11-03T22:22:57+00:00"
-    },
-    {
-      "text": "How does inflation compare to past midterm cycles?",
-      "url": "https://thehill.com/newsletters/business-economy/6194251-how-does-inflation-compare-to-past-midterm-cycles/",
+      "text": "Luján wins second term as New Mexico senator",
+      "url": "https://thehill.com/homenews/campaign/6152365-lujan-wins-new-mexico-senate/",
       "source": "The Hill",
       "lean": "center",
       "topic": "politics",
       "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-03T22:22:10+00:00"
+      "time": "2026-11-04T02:35:29+00:00"
     },
     {
-      "text": "Democratic Iowa Senate candidate says he split his ticket",
-      "url": "https://thehill.com/homenews/6194223-iowa-senate-josh-turek-ticket-splitting/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-03T22:19:48+00:00"
+      "text": "Jon Ossoff Suddenly Looks Even More Presidential",
+      "url": "https://www.nytimes.com/2026/11/03/opinion/jon-ossoff-georgia-senate.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-04T02:35:01+00:00"
+    },
+    {
+      "text": "‘Trump Has Left Republicans in a Highly Perilous Position’: Opinion Writers Assess the Midterms",
+      "url": "https://www.nytimes.com/2026/11/03/opinion/politics/election-midterms-senate-house.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-04T02:34:50+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Midterm elections 2026 live updates: Cooper wins N.C. Senate, House control 'leans' Dem - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMWlJWVhUdU9BWjhRS2dOUTFsclRxbE9SdTlaeml6SzVBcy02WjRxMlZpNmRfSnk0Q1YteGZId0NFN18xMzcwX1ZPLTNZejBmR0Fjc1EzUE9GR2pIM2dIMHlqc3RaeE5sNTUxcGNpUmN4N3d4Wm0zZHJHTVjSAYIBQVVfeXFMUEFNNjBVQWJILWo5UVNqS0lZN0dGYWpuT081UWRILXQ0N1NFcThsRUFIQkdZcWNHRXMzSFpVdU1PeEltUFZidm9ob1B2SUFTVWw5LXFabkxMZk5aeVpKYWVvOXJDWWkwSW1IYjB3b1FyVEZUOHdLS00wQUpxOUJJeWNDQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T02:33:00+00:00"
+    },
+    {
+      "text": "Keisha Lance Bottoms wins the Georgia governor’s race, flipping the office for Democrats - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2NWd1NDclRwUHdBVF9Xd2F0WGpQRGw0NC1PYXdXa2VtX3pScEFTRXBOdWl6VUNnTHdiREZZZDBJQ0ctcUVjbzRaWkNYMDVqYldDdmdWY3FmekVpYWY1bE5NMmtEN01EVkVMV0V2OXBzX25SaVo4eXFBM1U4VlpyZklvTldoMWNrcm9Yb0NMel9zaUg5aC1Ea3Z2YzVBMVpsZkRRWHNQdjNBUHg3SDRNQm04OHdwVjVMeTkxdzM2UQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T02:04:00+00:00"
+    },
+    {
+      "text": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
+      "url": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-04T01:48:41+00:00"
+    },
     {
       "text": "How malware and a bogus job interview let attackers nab $6.3B from Binance - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGZOT1RKRGNKUm5FZ3dfY19yeWV0MGR4Y3RtdFJULUhHQVo4UG9fSF9PLVZkc3JMMzVIS1dOY1BwWUFEUEMxc3RmTWt0Rm83TEh0SGVYUUVFV2xfUWdrdXVBUEtvNEtVOFd4Q3l4OHBHUENNR0xmV0N6ZTg5Z0I3Vk9vUDYwWU1zb3pxSEE0UE15elRTajEzckJNZjBseDd2dEE3UENxSm96QTBmWlp4T05sd0hWdw?oc=5",
@@ -48,111 +75,129 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T22:14:53+00:00"
+      "time": "2026-11-04T01:14:53+00:00"
     },
     {
-      "text": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
-      "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T21:52:37+00:00"
-    },
-    {
-      "text": "As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
+      "text": "CFP Selection Committee Releases First Rankings of 2026 - College Football Playoff",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92eGtaUGFUTUlCdkVzU3FjRkdjVWNEekRkZk1aTEVobFNqbVYtZG8zcDBacndMeGJBQW1lZk81X3VXMXp5Z09HTnBzNVpla0RrcTY5VlBkT3NGcUQwNjFuWWpKQkRlazJpY2c?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T21:24:37+00:00"
+      "time": "2026-11-04T00:26:14+00:00"
     },
     {
-      "text": "The unlikely player in contentious Michigan Senate race: Stevens’s fiancé - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzdmN0hFNnJXR08xMGFaZnhiNEFwMmRsV1dZZUV1RFJBdlRhTmdCbmpnU0xNMEtVNk9WVmhndVBaNWc1UzJuVWRSRjl6b3F3bkRuVWhwWGFHZ2ZpcGMtRG9EMDZvWWhyeS1kdlN4U2hpVGJQVTB2YW5BOVBDTzQ2WEE2Vy1TOVcySVl3LTZOblZwUU9pNUNfaG1EUTVFV2s5Y0E?oc=5",
+      "text": "Matheus Cunha with two late goals and a red as Man Utd secure miraculous Roma comeback - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JDWnRnTEVxWDBFYVBUOHlMd21kdlEtckFMbGFqRFd2VTVBYW5SdWZZXzZpTzBac081bEl2YWZWVUFBTEcxN0pvcW95REdjX0JEenhzTjlfQzR6ZURndnhkNUJ0MjhPUkFlSU5QVkppWDVUb04xanpOd2c3TEdoSlJtOXB4dw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T20:32:07+00:00"
-    },
-    {
-      "text": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3JUOFNxcERackxWWldKV2twbXZOR3l4QXNiMHdZOGRUc0FyQVgwbVBvN3dzVHNvLWZISF9ZOEZyZHFzUm1ZYU1ncDdQM1hiTDZLQVdjdjRaZWlSaFNtSzk4RVdhSDBrbEQ5UzhtZUJpUTd6U0pFazAwMVg4aEpCNkVCVDdpSTRwR1NfUjJzS2g3NnlZdl9Jeg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T19:51:00+00:00"
-    },
-    {
-      "text": "Supreme Court prepared to rule that publicly funded religious schools can reject children of same-sex couples - CNN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMy1mblh0NEEwUFZMZWZpdDlXUGYwQ0lPRVNKWUxDOUNtY1RsSmNDUWdkSDEySG1xeDNWdEdpblFkOWZpZHd4UU1xd1lhSGs4VWJ6QV9QRUhSSW9fNWFXdTFINlNTU01pU29hSklEcGtCMi1Mdno1Xzg1N1ZNUE1uNmZqV1c5eDlWNjJ6SGxQSnB0M25DcFhGaE1wMUJ4QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T19:22:30+00:00"
+      "time": "2026-11-03T23:26:48+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Parts of Florida see half a year’s worth of rain in 36 hours - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdURXNVJaOUpGT1BoVG03d1cxMGZZYnY4YTZwaHZOSXY2YkFGcE9iOU9vSndiVjVBNmMzOG1JaDZHU1oxWUJKM0RaZW9XWF9sOVNoRG1tMHdlTGN3dFRKdk9lREdQQUl2RGZGRnhoc01kaVRBb1p6cW0xZ3ZUQXdtVGFVeUZGQlEtYnE4UnpHVVNKcndE?oc=5",
+      "text": "Stock futures fall as traders speculate Democrats headed for big wins in midterm elections: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nc2FkNktwbUVRcjhVVWhQaVRWeWpqX25tSHo3WWF1eW55OGZrb0ZpSHpNakQtaWRMZ0N1dXZRajEtby1lOHk2Vl9aZkdfZUc4Z1ZDYkNrZkpGSGZBT1hIdE5jZDhFNW1BU1hzdnBheTBPV0tmcjFB0gF8QVVfeXFMTW1hbnNIQUZVQlU0eEdtb2E2WTZ0OXprLWVqMFI0Nzk0U0IycTFiRjNScTBzak5Ia21WWXhKOHNxTENWRkRzaUpWYnFLM2phc29CT3BaSXpSUGE1N21vYmFsWWhWczNSdlBLTElYcm1UbjJTWktwNTJsellmMA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T22:05:49+00:00"
+      "time": "2026-11-04T02:33:00+00:00"
+    },
+    {
+      "text": "Trump turns his ire toward Fox News on election night - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBObEJ6em5IdVpBU0JfT2dHei11NEpUQmRBQWUzc1NfZWJuMHZJMHFBOE5lWDJySGo2d0p3YWxPaXVhcmg3REo4TmRNaFpiQ3NqY1lSMjFFbDk1YUd2OXp0b09OVW1KaVhBZ21ZUDJrd3VrM1pQQjk4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T01:52:59+00:00"
+    },
+    {
+      "text": "Voter poll: What have US voters named the top issues at the midterms? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPMXA2Qi1jbV9KU2ZlcGl4c013eUtlUU9HRURwZnBzaUNaYS1Nd0pkbjhFaG40MDNiLUx4Q1c5N2pQdk5FQkVZWENhQ1Vfc2pWRWRsMTItOTliRE0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T01:47:35+00:00"
+    },
+    {
+      "text": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins - NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORWtaMFlLSlItRmpfM2lVZ1RIMThqWEgtUVd3QXozd1RaZ0dLYVFESmV0cUtOV3A1THhqUlladWlEaWR1Uk01bEM3N3N5Z2pjcnFVcTBlODJOb3dlbnFRQktsZVdNczRXTzFwWXNJckJYTURlRTRqclRVOHFZOVBCejNBVGpEOFhuZWJMZk9TWQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T00:55:57+00:00"
+    },
+    {
+      "text": "Live updates on Florida midterm elections: Voters show up as time to vote ticks down - Tampa Bay Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS092NkJZS0NuTWgyei1LUk1PMlBuaG94bC1JQmVWOWhYSGRZZ0ZwZ1Q5Q0VCUm8tbDFtcGNXVHhZWTdBY1FCc045TzFhcHkyM09NLU9UZFF5UHJKY2xTdzNEZkpSR085YXJ2QmR3MTBiai16UGtrRFJjckppajFvXzFwRTdPOGZTZFJGbjlGUDFrUTY1REx1OW1paDZydUw3TlFEWmxvUUhELVJVVVE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T00:00:00+00:00"
     },
     {
       "text": "More Iranians Call for Nuclear Weapons After War With U.S.",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/on-cusp-of-renewed-war-more-iranians-are-calling-for-nuclear-weapons.html",
+      "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T21:46:32+00:00"
-    },
-    {
-      "text": "Google Will Turn Off Search for Schools That Reject A.I.",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T20:53:40+00:00"
-    },
-    {
-      "text": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMWlJWVhUdU9BWjhRS2dOUTFsclRxbE9SdTlaeml6SzVBcy02WjRxMlZpNmRfSnk0Q1YteGZId0NFN18xMzcwX1ZPLTNZejBmR0Fjc1EzUE9GR2pIM2dIMHlqc3RaeE5sNTUxcGNpUmN4N3d4Wm0zZHJHTVjSAYIBQVVfeXFMUEFNNjBVQWJILWo5UVNqS0lZN0dGYWpuT081UWRILXQ0N1NFcThsRUFIQkdZcWNHRXMzSFpVdU1PeEltUFZidm9ob1B2SUFTVWw5LXFabkxMZk5aeVpKYWVvOXJDWWkwSW1IYjB3b1FyVEZUOHdLS00wQUpxOUJJeWNDQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T20:14:00+00:00"
-    },
-    {
-      "text": "Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay",
-      "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T19:47:00+00:00"
-    },
-    {
-      "text": "Flights across Europe face disruption after false bomb threats - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T18:42:00+00:00"
+      "time": "2026-11-03T23:04:05+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "Miranda Kerr reveals why she refused to return for Victoria's Secret show - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3JleG1kT01tSlA1a0NVWG9Wd0JValE1WWhiRV9ORWxjWHVuWEg3NG9aN0g2SWVtMmVrZ1RCRHVBb0FzNDd6ZThLZ0kwY3BYbkRHV0gyaHBPV01id3M3VmMxcFVfMWt1NWdGbWF3Ui10VjRlVFZZSm5MVm4xT2VBU0JnUXdMRXA2R1ZEUEJ4Rlo4ZHhuMGtxdHpTRnV1R0NTR3ozU3htWnpLVGVSZEd3ZDBhQ01SYUxuMHNWVmJMTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T02:10:00+00:00"
+    },
+    {
+      "text": "Latest midterm election results and live updates after polls close in Southeast Texas - ABC13 Houston",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRnBwTXUxODd5RXhpQUxVUktQWmxxRHdpWlZiRlFtMWlzbE13WXpvbzlNN0NzSExxUlhuZ29hV1ljcFR4U004aHZPTHFxN0d6WVV4RVFUZDZPblVNYTVtVlIyak1iRDMxc0ZaWDEwdE1CbGoyNERtWHVrWTZNVXJEZXFidmV0N1ByMDhqR3hOTnZlMEZYVi1FWHpKbkg3dDJMZGFBQUV5cXFqWEEzY0t1QTMydGk5VUQ5ejg3SVB5dXd1WnUwWFI1dWkyUk1WT0NZUU96czVmLVI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T01:51:00+00:00"
+    },
+    {
+      "text": "Democrat Chris Pappas wins New Hampshire’s Senate race - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnpSUnJYTzBPbkVVV1ZHdXhUZDRGSXN1aGZsQ2RkSUM2M1BsTV9SUFNYSXQ4OTZQUmN2aGtINld5azNISGpaSm9ScU13OHM3NWZmT0tqT2tjOUotTHEyY01fU2FCcGFZZmJmdXpkRHFNSTR4RDlwaXpXbVRvQTZyZzRVZ0ozMjI4a1RYU3JTa3JraG51N3pZdE01bTFValBkY1RvdUFtaUxmWFdkck9mZ1hkbWJjdDhobUVfNEdwYw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-04T01:20:00+00:00"
+    },
+    {
+      "text": "Chris Murphy, Recovering From a Stroke, Remains Hospitalized on Election Day",
+      "url": "https://www.nytimes.com/2026/11/03/us/chris-murphy-stroke-hospitalization.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-04T00:41:18+00:00"
+    },
+    {
+      "text": "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site",
+      "url": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-03T23:46:52+00:00"
+    },
     {
       "text": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
       "url": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
@@ -160,52 +205,7 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T21:56:15+00:00"
-    },
-    {
-      "text": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97% - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2NPYWttRXRkSERHSVlBbkU1QzVTZEZCaW1lMHYwSEhFM3oxQnlBdTlodGNJeFpSM2E1UFZiUGdHVFRHUjNTQW95VmlYNy1jNDNDeWpNMnlOQjFhYkRuNVh3WVNrYU9zeGc0MHhGc0gzOFp0U2h3N3hqTC1BVVhMcGtZdUlMN285ckpaU2VFeUlRSU5LMnMteTctTVJSdGU5V2g3WWRTZ2VRa2JaOUVxNEFRQ0M3bVFSdmdSaDRCZ0FFYl81MzVkZlg0OA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T21:35:21+00:00"
-    },
-    {
-      "text": "King calls slave trade a 'shameful chapter' during Commonwealth address - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sdm9ZMG1ZRHZaLWNaUWpBRERPdWlfZVNsb0xsUDNpYjl6SE9yZVZuU0hqWHBxQ25ZMVF4RFQ3TE9TbjBrOFFfc3dicnRaMTRLeDRmcmJYUDlTOVE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T20:38:38+00:00"
-    },
-    {
-      "text": "Supreme Court to Hear Catholic Schools’ Challenge to Colorado Aid Rules",
-      "url": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-03T20:03:01+00:00"
-    },
-    {
-      "text": "Escaped Tennessee inmate captured, authorities say - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdm5pXzJ5aWVrVzNNMWhRck1ERVFXd25BMTlJTGpUNUZOUWVGYmQ2cHJ1N3FjUWlEYlNudGNOSVpqbzY2aUZFalRtQ0xWZFphZ3doRVBSYUhhTW8xYXZMSUhrVXp1MjhjV1B1UlByWExVa21mUGtwSW02SlJlVExZRFBadnpvdkw3dU05MUlsb05aMHZlbHh0TDN3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T19:26:26+00:00"
-    },
-    {
-      "text": "Google Curbs AI in School Accounts After Pushback - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpoOVBCTWZMaE5yTk5JeG0tX0FWdk5OZkY1d1dWQXQycUZGR2xwTks3VDlNaTJENmF6ZjM1QzFTN3QzRENuNFFlUjRqdk1FTW5WSWRDU2o3N1dEMEJsaFEzUGt2NGEyUXhXSHB6dF92R2U4d0U4SUN4UHN6LVhCNnJWamlqM2NzenBDWjAyVQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-03T18:40:14+00:00"
+      "time": "2026-11-03T23:03:45+00:00"
     }
   ]
 }
