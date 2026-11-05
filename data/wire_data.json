@@ -1,46 +1,194 @@
 {
-  "generated_at": "2026-11-05T12:07:37.951088+00:00",
+  "generated_at": "2026-11-05T20:00:05.980708+00:00",
   "lead": {
-    "text": "Bank of England hikes for the first time since the Iran war, lifting interest rate to 4%",
-    "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-11-05T12:04:49+00:00",
+    "text": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+    "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-11-05T19:57:39+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-      "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-      "source": "NPR Politics",
+      "text": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
+      "url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
+      "source": "NYT",
       "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-11-05T12:02:24+00:00"
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T19:56:52+00:00"
     },
     {
-      "text": "Ronaldo retires from Portugal duty",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
+      "text": "Ukraine continues strikes on Russian refineries in lead-up to White House meeting - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjJDSVFXTjRQMG1LcGVjOFlhSUo3d3JXTjY1SE44VVFOaGNERmtKVmx6OWo2c19kNXhaTW1JYnJlTzJmbVJRNjZIT1FoV3NpOUVuWlJBaVRaOHVla1lmXy1aNDN0S0ttbmhVYlFnMkFTdU5ZU2pkTTQ0NlhoeDhZVjVxUXlEWGFpTjRha3VHMWZEMFNkU0RJMFduZEQ0cmdJcmZGQmNVZEtRVncxRmcwdkJvRmRxZmpaakVuOXZ3?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
       "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-11-05T11:56:02+00:00"
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-11-05T19:56:17+00:00"
     },
     {
-      "text": "Sen. Kirsten Gillibrand on the Democratic Party's agenda for the next Congress",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6028837/sen-kirsten-gillibrand-on-the-democratic-partys-agenda-for-the-next-congress",
-      "source": "NPR Politics",
-      "lean": "left",
-      "topic": "politics",
-      "sourceNote": "Public radio, nonprofit newsroom.",
-      "time": "2026-11-05T11:45:30+00:00"
+      "text": "Dow tumbles 1,500 points, erasing its postelection rally; Nasdaq plummets 5%: Live updates",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-05T19:56:05+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year",
+      "url": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T19:47:23+00:00"
+    },
+    {
+      "text": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
+      "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T19:32:54+00:00"
+    },
+    {
+      "text": "Stock Market Today: Nasdaq Sinks 4% as Investors Ditch Chip, Data-Center Stocks — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0JqeUJIeUF5NWZ0RVUtVDhfSlJCMjc4U1didmsxU2lRZGdJcUZnNk90V0ZkVy1JNVZKRG10WkFySU1lREhqNUs2ZGlWZXhNRXBNMjVKWlJWajg5OWNFdG91V3VRV1B3cEkzSHNOVkFDaXRwbGJKUkRkX2lRdmtqQ0xGSTN5NVU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-05T19:06:00+00:00"
+    },
+    {
+      "text": "Wave of bomb threats against European airliners triggers diversions and tarmac searches - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVpLMmJDWHZCNXVFbGswN0Y1bTItQW5na2dweEItVTQ0Q1ZBTWltV1VDVTI0c1ZJTERYMkVXbTJ1UHhUV2owQzc2TEFzUnEyOF9aRXI5b2otNzFVRXN2d0ZtMU1vaGRzV2ZlRk9CM3ZaSTcxazBabHZsMjZUalVGZjl0X0hDQnVqYmROcWluUEhsQlVyamxNUGhiV2Q1b01keWZ4VzdOOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-05T18:41:19+00:00"
+    },
+    {
+      "text": "How Democrats Won Across the South",
+      "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T18:18:12+00:00"
+    },
+    {
+      "text": "MAGA Finally Gets What It Deserves",
+      "url": "https://www.nytimes.com/2026/11/05/opinion/maga-trump-midterms.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T17:54:36+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Infant bleeding surged last year as parents refuse vitamin K shot for newborns - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbF9lT19xQTNjOFpGV3BaQzBrU19rUGpQTkNnTS0wRmRnUkp2b3JqVHJGOUN0bVRJeG42ZUhWeUVyaEFoWU5MWnliX1p2SlVpN3BmeDFhNWt0dUZrczJnTC15NmxJaGFucjdUbWZyNElJZXB3VGxRQjM1RTctT0lVX0k4YTBEWGw1cks3clh3aTBJd0ZEQ3g0b0k0Z20yOThPR0pydkN4emVOSzRfdnhCeEg3WlQxc0kxMFBjb1p3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-05T19:45:36+00:00"
+    },
+    {
+      "text": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+      "url": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T19:32:35+00:00"
+    },
+    {
+      "text": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+      "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T18:57:11+00:00"
+    },
+    {
+      "text": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
+      "url": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T18:34:50+00:00"
+    },
+    {
+      "text": "Head of Justice Department office on Civil Rights resigns - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa19iTElYSVJUMTN6STZoSTBQVDZ4NHlPUzcxa24tZnJjc2xxY3plNzR6Q05RNEVPeWZJajFZSUhUSzFjdUNqVjZIbFR2WEthZkwwNEFKNmxLUlNUWjQxVWRocjBpRUsxbm9SNGFMY1FGQkJPTmlId2ptR1J5SnptQVQ2bmJpZkNyRDVscXJlaGM4Q0J3dEJVZXdWUFRoWkpiWFE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-05T18:01:57+00:00"
+    },
+    {
+      "text": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
+      "url": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T17:53:39+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
+      "url": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T19:38:04+00:00"
+    },
+    {
+      "text": "Postal employee arrested minutes after shooting coworkers at Des Moines post office, police say - KCCI",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZG4yZHZtZTUtaHY2WExqNkFjUlFtclVlZXIxcXFTUmp4Qzh2ZVkxUnUxVndTTC1vRkh6V09ad3cwWV9VSWpucTlFZVZMZGJ3SWJHV3dmb0I4RzJfZ3BzN1BKWjZiMEJmOUZaeUg4WGRLY3F3VWNka29TRUJXUE9qZ2VlUzJfWFp0V3NseWRtUm1uUmNiUzRWTUZCTlZvXzMxaTB0UHVEOUxzZWJMY204Zi1Iem0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-05T19:21:00+00:00"
+    },
+    {
+      "text": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T18:49:08+00:00"
+    },
+    {
+      "text": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-05T18:27:59+00:00"
+    },
     {
       "text": "New estrogen research may change how scientists think about women’s aging brains - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5",
@@ -48,164 +196,16 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-05T11:43:44+00:00"
+      "time": "2026-11-05T18:00:00+00:00"
     },
     {
-      "text": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
+      "text": "LIV Golf is done after 5 years and $5 billion spent dividing the sport - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlg0aE1pQVB1MjYweWstWUFRZTlzS2RiSEpKci1NRlVTYWM2cmxDLVF2cU5nOTZQblJseGxhLXY0aXZPRFV0aWxYUWJmZkhFOUlHQTZ6VG8xU1VYb3RoX29Wek93YVBpOFo5MU1VLTN2cGFibmlXLV9Kcng5OXdfMW5UQ2JmVW5KWDE5M3ZyZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-05T11:12:12+00:00"
-    },
-    {
-      "text": "What Democrats Plan to Do Next, and What JD Vance Says Went Wrong",
-      "url": "https://www.nytimes.com/2026/11/05/podcasts/the-headlines/democrats-midterm-elections-jd-vance-kpop.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T11:00:28+00:00"
-    },
-    {
-      "text": "Vance takes a step toward 2028 in MAGA power play - Axios",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JOThRLUYyYTJ3cTk0S2psTy1QekVEX0VnMkxiVjRVXzQ1eF9CbTAtV1hMX3otNEhoUFNrZURSLUhMUUk2VEZYRlM4ZHc0N3gxLTVPcFA3MmtTQWJNcGp5MzBzOWFrNnVvNXpR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-05T10:34:19+00:00"
-    },
-    {
-      "text": "$400 Million Lost. SpaceX Stock Tanking. Elon Musk Had a Tough Election Night.",
-      "url": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:05:02+00:00"
-    },
-    {
-      "text": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
-      "url": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:04:37+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Multiple European flights targeted by bomb threats for second time this week - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vY294UG1Kb1BMQ2E0NzhidUJPeGZ2MjJ4blVRM3JybldTeVBHYk5EYkhuM2FCdkYzRW1lT0ttZkgtQ0lPajZqS19lZ2hlZ1M1OG5XM2kxODdKZjA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-05T11:36:27+00:00"
-    },
-    {
-      "text": "The Bell Tolls for Trumpism",
-      "url": "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T11:04:32+00:00"
-    },
-    {
-      "text": "CVS announces major breakup, pharmacy expert weighs impact on consumers - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0N2MXh1T2FyVklrWTZFRUtvWEJnQjRmMzdLMmZocmxtS1l2RGhTVUFidVlQVGhVV1AtMlhjMHNSLVlWeEZoeTkzeVZId0ZDNERReUJVRlN0QkhRMHBiYkVFS2RhenRKemRHWS1lMlVqTFpsVXNYSVJkdWxKQmhmYXhXUHhFRHlCT0NMUFZ0VTdFaFc3WGtZb0pSVFBBMktRSGxwSdIBqgFBVV95cUxQVzNZVGJwUGE4cGNQb1hzT2FTOUplX2c3M1ltdVctX1MzM0hQUW5iekItTXVHdm9TOUswdzJLakg5SWF1bHE1bHdRRl9PelBJaDVWbmhtNXZCc3ExX3QwWk5na0NFb3NuQ3NUZy1KQldieXJzR19pVjdONW5mZFRaSjVZbWFWQXNWb254bWZIS2NIdHctZEdhRWxfNFU2cnRJUVdKVnJTRGtkZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-05T11:00:00+00:00"
-    },
-    {
-      "text": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
-      "url": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:23:51+00:00"
-    },
-    {
-      "text": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:04:56+00:00"
-    },
-    {
-      "text": "Tiny Chihuahuas Hold a Big Surprise: A Sliver of Coyote DNA",
-      "url": "https://www.nytimes.com/2026/11/05/science/chihuahuas-coyote-dna.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:02:53+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Dow futures surge more than 300 points after monster postelection rally: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdjFuSm1kNThIRUluMXJ1c3ZyVS1icmJDN1pVNVVOdlVVa1JwWFE3VGw0UkRfeTJqUlg3ZUotVzZPVFdCZ0tIOERPekZYbHRXSER6ZWpka2ZYV0ZQMXNuXzZ0VnBIREVTVVZtTXdZLXM4aGJOc0c40gF8QVVfeXFMTWdkU3RqWXdESzExbWxNemxOYmJQSjh1UEV5aWxqazFGaGRxazE0RUtHc3FfejNiZVFwQWlXMWRjNzlRYkdIRnB4Vjd2S3Z3Qmpia2EzNlhQRW84Q3c1NklFNUlib19EXzJpbUNieEluVnFKNkRHVDFaaDZpVQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-05T11:33:38+00:00"
-    },
-    {
-      "text": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
-      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T11:04:18+00:00"
-    },
-    {
-      "text": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
-      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:56:11+00:00"
-    },
-    {
-      "text": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
-      "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:06:44+00:00"
-    },
-    {
-      "text": "Triumphal Arch Set to Win Final Approval Despite Court Challenges",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:04:47+00:00"
-    },
-    {
-      "text": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
-      "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-05T10:00:24+00:00"
+      "time": "2026-11-05T17:42:03+00:00"
     }
   ]
 }
