@@ -1,158 +1,46 @@
 {
-  "generated_at": "2026-11-06T15:51:02.345610+00:00",
+  "generated_at": "2026-11-06T21:25:36.563618+00:00",
   "lead": {
-    "text": "Colom rips 'unlawful attack' after Hyde-Smith demands ballot preservation in Mississippi",
-    "url": "https://thehill.com/homenews/6204045-mississippi-senate-race-ballot-handling-fight/",
-    "source": "The Hill",
+    "text": "Nasdaq rebounds 1% following worst session in 18 months as traders snap up tech shares: Live updates",
+    "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-11-06T15:44:04+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-11-06T21:22:40+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
-      "url": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+      "text": "Cornell Faculty Passes Vote of No Confidence in Administration",
+      "url": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-06T21:20:42+00:00"
+    },
+    {
+      "text": "Jeffries calls Miller a 'dangerous xenophobe' after promotion: 'Fire him today'",
+      "url": "https://thehill.com/homenews/administration/6205195-jeffries-blasts-trump-miller-pick/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-11-06T21:17:03+00:00"
+    },
+    {
+      "text": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-11-06T15:42:41+00:00"
-    },
-    {
-      "text": "Two dead after bus crashes in France, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-11-06T15:33:52+00:00"
-    },
-    {
-      "text": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
-      "url": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-11-06T15:32:21+00:00"
+      "time": "2026-11-06T21:15:47+00:00"
     }
   ],
   "col1": [
-    {
-      "text": "This Is How Democrats Can Make Life More Affordable",
-      "url": "https://www.nytimes.com/2026/11/06/opinion/democrats-economy-affordability.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T15:13:16+00:00"
-    },
-    {
-      "text": "2026 midterm election live updates as Democrats flip over 40 House seats, GOP grapples with stunning losses - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW51OU1MbHRacTQybWxrSlQ1UTZVM3poWEcyQjRYc1VWaXFCRTlmSV9xYjZCMkhUQnlNTjZUcVE5QkFNaTBldFQzVy1ESUZLV183cmpicEhYVjdmcmR4RHczaXZUdmx6X19VaWsyYnlLaVQxYk81YVpBYlpmbzNMbUpUeklJNFlrcEp0YVBkMmdzWURxOWx3ZUQ2MF8?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-06T14:58:00+00:00"
-    },
-    {
-      "text": "John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89",
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T14:10:45+00:00"
-    },
-    {
-      "text": "Poised for breakout moment in Latin America, Pope Leo also faces test of health - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhTMEYwNXlmU0o2amJvbTJhZno3TF9Ua1k3bkNZc2duYXFhalc3b0tWY2dFeUJiTDU3d3VHanVaMFhTTTlRWE41M2J4aVFaY2tOdDd6azBwR1J2Xzc4UjRJY0hwLWh5Z0JMV1RORVBRbThUeTRlaGJhT04tY0JwSXk1X0pYZkRHblZmMmVOU3p4R1U1U0lybXBjTlZNc0E3SzBFaGpiRnZRYzFQUk9XLWdLNEpMZ2tq?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-06T13:53:23+00:00"
-    },
-    {
-      "text": "As Hormone Use Increases, Some Doctors Warn Slight Cancer Risk Is Being Overlooked",
-      "url": "https://www.nytimes.com/2026/11/06/well/hormone-therapy-menopause-cancer.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T13:17:54+00:00"
-    },
-    {
-      "text": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
-      "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T12:23:09+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "US job growth beats expectations in October; unemployment rate falls to 4.1% - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-06T15:08:07+00:00"
-    },
-    {
-      "text": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-      "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T14:35:42+00:00"
-    },
-    {
-      "text": "Day Drinking With the President",
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T14:07:34+00:00"
-    },
-    {
-      "text": "After These Midterms, JD Vance Is in a Bind",
-      "url": "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T13:52:58+00:00"
-    },
-    {
-      "text": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
-      "url": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T12:28:55+00:00"
-    },
-    {
-      "text": "The Enough Phone is made by and for people fed up with big screens - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56ZDFCX1RiX2dNVVNJQVlJMHBDNm9xTXpwc3MyUkw4NzNSR1A2WVVtM2x0cGc5NlBWdmtYdzMxZ1B2eW1EOXFHS1lwVS1DZDl2VWhTc3ZtNGozcS10Y0dlbjYwTmhHSU1ucEhJbTh6MTJqam9zWG1iZmpCWG5kYUk?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-06T12:00:00+00:00"
-    }
-  ],
-  "col3": [
     {
       "text": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
       "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
@@ -160,52 +48,164 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T15:07:20+00:00"
+      "time": "2026-11-06T21:11:05+00:00"
     },
     {
-      "text": "Hoax or bomb threats? What we know about flight disruptions across Europe - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEVEMW1xdkJ0RkN1eTl1UGNpdjlLeHhocUxaMG4tMDFKY0VoZ3RNOGhyZktYU1FfM08yTWI2VlVmek5OS1NnZDlZVktfdDdTMmh2LXg5NU02T1RIMExHcG9LVDRTVkkyY0diQzZSV3JxX0V4MnIxUXhlWXA5dkdkZnFTX1h5a2VWaF9QQ04tNzdrNnB4azdyRjljV0lfbERyM3JMWWd6ZEVGYVJ1c2xiNTZSVdIBuAFBVV95cUxNWGt5OFBCdjRBNzBiU0JMbGhMUzlSQV9zRWdIbXBjdU5sWmxkc01iLTd2Y3pqZmNkWXdBZ05uYWw4cVdreGdLbkp3WGhYLTBybU9zMkY2ZXFsNTdpcnBDbGgwU2xQOERScUwxTzBhMlY1QWJmb3BJZUxCdkdPNVhxdnhvRHV5OVNfRUNZdXBWOUhzRXkyVUtCV3VtRDZmcFNKbFg3NE9rUmVGM2dxZG9VanVuNjhNWUZh?oc=5",
+      "text": "Irish Illustrated Preview: No. 1 Miami (8-0) @ No. 11 Notre Dame (7-1) - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYVBRdE5UbzlSc2dOTXN6Tm5xU1NydWxiV184Sl9EV1kwRmk0RGZ4bC1yQ1pKVmt3WjVnaDIzQ25uX1NoTEtYU0xhYmVoSjJQOWdvQmFXSHNaSzBUX1BTZXNmUk1KWWVSeE14OW1rNGtLMzBNcEY1Q3pCZmptSDZCWWpVZDNUY0Rkd1pxbmNOdmVtM29MaXZLS2NBM3RsTjh4QlBpbUEtUmx0VDNrQ1RHOWNOWWt0aFZhVlFwMFhYWXZpOWM0VWQ5eG11TjdudXhIT3JmaHJmM0VGMzlPdTZSVENNM2I2c1pMelJF?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-06T14:26:37+00:00"
+      "time": "2026-11-06T21:05:11+00:00"
     },
     {
-      "text": "‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix - Variety",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPai1JZDVGNU11NEZJSUZSeWZNT1BzM29zWkFMMkJfenlUbC1kYllpNUdtVnVRdE4tYnh2eHJTYVBpOUtLU3AtcVRJSnhKY21lWVQ1QnJJWWROeVh5VjViZEJNVGJDaG45dmpTOUVuRVVDNll0b0l5MVBjTzloc2tid0RLSmlEUlYzbjJoQWxWelJQaHk4eWtHRXA0LWthZlBTYTYtc0xicw?oc=5",
+      "text": "Stephen Miller will replace Susie Wiles as Trump's chief of staff - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTG1zcnVYQ3lRbUhVNUFLSDRmLVp3SXJMc0ZudkdsMjFhMmthTlptYkg2OVBWck1zM3M4bVJlTlpWZjVBZ3lMTjNScjFzUlBDQTNHNnNtWDhadWo0amhOa0I5SWVIVXpXYWRlcXk0Zktnd3l0TDBvRW9pVHBxdlYyV0M0YVVvQXhoSmFhaGRhZUpiaGtibG93OGREaEp0TEYzdWJ3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-06T14:00:00+00:00"
+      "time": "2026-11-06T20:42:00+00:00"
     },
     {
-      "text": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
+      "text": "F1 Brazilian GP: Kimi Antonelli fastest in tricky FP2 - Motorsport.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXp1Ni04c2FpMUlURHhPV09ITVJLRWd1SFlpVkotc2R3cHFSblR3bnl5eUV6bURRZ2dQLVk2Z1BsMlJHZ20xV0lNQWluV2pmbUkyZmU5SWUtLUR0cXBKZGt6ZDRMNGJKbndCYWk1T190M2pkSE4wV01KX0dnanF4QW0tUzFWTk0?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-06T13:30:46+00:00"
+      "time": "2026-11-06T20:11:05+00:00"
     },
     {
-      "text": "Fed Up With Politics and Struggle, Young Voters Rose Up",
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html",
+      "text": "The Ruthless Ambition of Stephen Miller",
+      "url": "https://www.nytimes.com/2025/07/07/opinion/stephen-miller.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-06T12:26:55+00:00"
+      "time": "2026-11-06T19:35:37+00:00"
     },
     {
-      "text": "Tesla will stop making the Cybertruck in 2027 - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTh2YnNUSVpBMFg3eVZ1ckpLR1Zzbk1MTVp3dVhVYjRwZW9EUWlvSUV2amVvdy1hSGFvRDZ3dURmY2NXX1BmaVBMdUpkWFJOdUo3NXBGdzN3dURGUlo2YXJXWUF4QmNyUFRDbDdmc0JqWXBhZkxDcHZrc3MxcG1jMkhZZUg4VDA?oc=5",
+      "text": "The Stock Market Can Be Volatile. Here’s How to Stay Calm.",
+      "url": "https://www.nytimes.com/2026/11/06/your-money/stock-market-volatility-investments.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-06T19:20:40+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "AI stocks climb after trillions wiped from market values - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-06T11:50:10+00:00"
+      "time": "2026-11-06T21:06:25+00:00"
+    },
+    {
+      "text": "Musk says Tesla will end Cybertruck production in 2027 - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2NGswdEUycm1SMmlwV2dEZHpDQ1JzdUUxdnNJQWRnbEhxVzFHMjJmSS1jcVNwS1FLVHNZSzE1a3FTR21KRWNLb0xSYS02Z1NqSDBuZy1ra1BSNnowQ3VLeHBEUzVIYXM1TGNyMGFtamZPa3FLdWVqTkt6V19LS0E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-06T20:57:20+00:00"
+    },
+    {
+      "text": "Poised for breakout moment in Latin America, Pope Leo faces test of health - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhTMEYwNXlmU0o2amJvbTJhZno3TF9Ua1k3bkNZc2duYXFhalc3b0tWY2dFeUJiTDU3d3VHanVaMFhTTTlRWE41M2J4aVFaY2tOdDd6azBwR1J2Xzc4UjRJY0hwLWh5Z0JMV1RORVBRbThUeTRlaGJhT04tY0JwSXk1X0pYZkRHblZmMmVOU3p4R1U1U0lybXBjTlZNc0E3SzBFaGpiRnZRYzFQUk9XLWdLNEpMZ2tq?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-06T20:32:27+00:00"
+    },
+    {
+      "text": "How Farmers’ Frustration With Trump’s Policies Helped Democrats",
+      "url": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-06T20:03:40+00:00"
+    },
+    {
+      "text": "Duchess Meghan's father, Thomas Markle Sr., arrested in Florida in child pornography probe - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYTJhUDF0dl95am51ZUJURHdEc2lMNUctVV9nZTAxeW9fMUw1dVF2REp6Z3B0a0FzTURFeG8xVFRfYUoxazcwQkRZdkFEejQ2aVB1ckdKemhQRWVnYzc0OUN2aldBVXF0OE56aXdtUmRUeVpPT0pORkdLWWs5djVYSVFVQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-06T19:31:00+00:00"
+    },
+    {
+      "text": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1% - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-06T19:19:50+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-06T21:05:42+00:00"
+    },
+    {
+      "text": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-06T20:53:50+00:00"
+    },
+    {
+      "text": "Giants serious about JT, Vikings, Broncos less so - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjlRcWMxbjlnVklILXUxMnBMVWxtam9fTk93djJOekxLdEtqYVlpWlBCRnd4T3FFX1VuNkVkZjE4Y2c2TFBGLXdrTmlzNlpfSldpTV8yT1NxMjJlY0V5TmRVWjQ4cFNJM3ZvUTNkN3hRWkQ3NFRZQWgxanZNWUIweXFuT3hJX2hnMHN1Nks4M0o0XzBIQmlPRGVPZ1RZUGlzTHpEdksxSHJ3VmI5LWRsR0N4QQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-06T20:26:15+00:00"
+    },
+    {
+      "text": "Macklemore says that nine US arenas turned down his Free Palestine tour - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGR4TkdubUNncExTcmlhVnVVZVc5V3dTdjR6ODRpRUl6a1dZZmpxek9vWTRwbTBQcjRnNnJ3VmFKcEVfZnJPZTg0QnZPVmt2ZkpRbHpDZ2szb1M0SWc2eldtSk1NNWRTTjVoeERNX1Bjd2NremZ1RE9UaVREY1pBd1M4cWFVd0lvalVz?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-06T19:46:00+00:00"
+    },
+    {
+      "text": "Hegseth calls US-Iran war a 'courageous and historic effort' - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV85dG0tUVl6b1BtcWJ3XzhsQ19aUnpQblF0XzJPcER0Q1JDSDB2THBGWXdFdXM5aGZ6UmZwN1hrTm9YcDBVWW1YWTJ0Skd2TXU3U3ZGcDlYZ0FxMnRTd05obzBQaTczSm4wQndGbWlVTnJEQzd5cmZsa01iS2c0bDQza2dwRlZqcUJaOFFvWHhGeFJlQzczZFZORHIyOTEyNlVWelNLdDM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-06T19:27:10+00:00"
+    },
+    {
+      "text": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-06T19:15:55+00:00"
     }
   ]
 }
