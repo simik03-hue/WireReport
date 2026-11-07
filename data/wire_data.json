@@ -1,17 +1,91 @@
 {
-  "generated_at": "2026-11-07T18:49:21.607266+00:00",
+  "generated_at": "2026-11-07T22:38:01.731687+00:00",
   "lead": {
-    "text": "Pope Leo urges South America to bridge divides on Uruguay-Argentina border - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNld4REJFQ1RVUFd0ekQzNS1GOFItalNLYlAyVmhPVVpWN3RzdXl2ZDg3R2JoUkJiSmpMVjZVXy1taDYzNGJWd0NfVHhXdXRQb0d4LTItdTY1dTVJdDdSWUdrN25feUhFTnJOY3dncHpaRFZhT0lFelpWdFRpY0Q3djdwOGlkaXNyVHFUTDZMZGNWaVJGYUlzR05TVEltdE1jck5NdDRCeTVXVHhRZEdWNjBoUFpybzJpeGNZ?oc=5",
-    "source": "Google News",
-    "lean": "unrated",
-    "topic": "top",
-    "sourceNote": "Aggregated Google News top headlines feed.",
-    "time": "2026-11-07T18:32:13+00:00",
+    "text": "What we know so far after Krakow gun attack",
+    "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "lean": "center",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-11-07T22:27:30+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-07T22:17:52+00:00"
+    },
+    {
+      "text": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6030966/texass-blue-tsunami-has-former-texas-congressman-beto-orourke-over-the-moon",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-11-07T22:12:08+00:00"
+    },
+    {
+      "text": "President of The Heritage Foundation looks ahead to the future of the GOP",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
+      "source": "NPR Politics",
+      "lean": "left",
+      "topic": "politics",
+      "sourceNote": "Public radio, nonprofit newsroom.",
+      "time": "2026-11-07T22:12:03+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "The CDC has recorded more than 5,000 measles cases this year - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhxRWNVa2pJcVBtU1IyUWZEMnh5Z1lBc0dBT2kyZDY3bHB5Q3IxZV9OUE9LTW9FLWQtM0lYVDBObW54RVVCZ2Z4RFQzTEVxaWxwdE93eG52QXF1N016QlR4Uy1nWUhfUGNtYXQ3dGJEX0VTVnBJY1ZGTFRQdEhYcHcwM0lSY3Awb2h5cDJPU3BKSVNFRHp6bW9WU1hVb3FzN0wyQmdfZ3k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-07T21:56:57+00:00"
+    },
+    {
+      "text": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOGRPWlBpaEc3VlZGR2JmX3BiUzNDcTU2UkZ2bWtvc0d0Vlk4dUJhaHF2RkdWMjkySFdUWmlKaU9oYXltWWJfV3FCZkRaVXVNTnA0ZC1TWWRYWXM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-07T21:23:26+00:00"
+    },
+    {
+      "text": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNld4REJFQ1RVUFd0ekQzNS1GOFItalNLYlAyVmhPVVpWN3RzdXl2ZDg3R2JoUkJiSmpMVjZVXy1taDYzNGJWd0NfVHhXdXRQb0d4LTItdTY1dTVJdDdSWUdrN25feUhFTnJOY3dncHpaRFZhT0lFelpWdFRpY0Q3djdwOGlkaXNyVHFUTDZMZGNWaVJGYUlzR05TVEltdE1jck5NdDRCeTVXVHhRZEdWNjBoUFpybzJpeGNZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-07T21:04:53+00:00"
+    },
+    {
+      "text": "After the Midterms, the Average Age in the Senate Falls to 63",
+      "url": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-07T20:17:37+00:00"
+    },
+    {
+      "text": "Tesla to add Cybertruck shift to clear orders before dismantling line next year - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-07T19:09:48+00:00"
+    },
     {
       "text": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
       "url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
@@ -20,44 +94,17 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-11-07T18:29:56+00:00"
-    },
+    }
+  ],
+  "col2": [
     {
-      "text": "What we know about Krakow mass shooting so far",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-11-07T18:22:11+00:00"
-    },
-    {
-      "text": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-      "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+      "text": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-07T18:17:34+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Berkshire Hathaway accelerates stock buybacks, operating profit falls - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T17:37:38+00:00"
-    },
-    {
-      "text": "Alanis Morisette Comes Out as Pansexual at 52 - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeVFVOGR4YV91UkNDZHQ4T0YtcXB1a0EwVzhmQkhvWERvV2stR0o1SmhoVmhiRi1aeWUzbV96TTRLdnk5TTNyVVhMRm9tWXdlemlxeHA4dGo3OHM5OW1iR2hiSTRWcV84aHl4Y2p5enk4VGR5MzVXaWtUSmdRM01KUng1YzAzR1hKb1E?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T17:31:41+00:00"
+      "time": "2026-11-07T21:52:03+00:00"
     },
     {
       "text": "College football Week 10: Live updates, schedule, scores, CFP rankings - NCAA.com",
@@ -66,146 +113,99 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T16:40:17+00:00"
+      "time": "2026-11-07T21:13:06+00:00"
     },
     {
-      "text": "2 licensed skydivers die after midair collision in California - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1MweDVrdGNmcGNfWnNYR1NZSG9VV2FxWHRfNFpKYlJiREZDeXc0NDg3dV9hajhqbW9QZi1CRXFLTjJQdVE4NTFZVE5fX2FGbTNxRDctS3lmMEF3Vl9fRThtOGdpX3dxUm96b2hnUW1lVlhYX2ZWWEVxM01sajNCMXFWNUVqdmc?oc=5",
+      "text": "Israel’s president picks Yashar leader Gadi Eisenkot to form government - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0JHczRrNlAyS01zWHNUYlRNR1d4NVNQMVR3Q3VreERqZjY0QmJ5dlJsaEFoWUc4VEQxcjNxMmw2RkIydWVVSFZ3Ukg5M0lDX1EzWjJ2cmt5ZmFEOTZXWk11Zkh6OUNDc21OM29sQXVjcXgwNTZYYWdXYnZuMUNJYUtWNlJGblN2TXRZN2M1TW82VjVaUFJ3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T15:52:00+00:00"
+      "time": "2026-11-07T21:03:00+00:00"
     },
     {
-      "text": "Colom leads Mississippi Senate race, Hyde-Smith says she is 'not backing down' - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTJ6ZUFNU0dfdDIycmZ0THIxaVJVYzNtMDBrai1MZ2lNQ3NvX1dpMG5xdEZkbERQUmRwSGtyZlhiazU5QUNYZGFrSktYVE93T2ZUM0JqZE5aZm4wSGl0dnJiMERwR3VXSXo3b1hrUDJXTzlhSnJLQWRVWUFRT01ybUhPOGY2NFoyQjR0dmc1ckxJWVM3WUJZM24zUUU?oc=5",
+      "text": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-07T19:50:21+00:00"
+    },
+    {
+      "text": "Former Trump-appointed prosecutor may probe government attorney ethics in golf course case - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDZaRHNfaVJoem5LcFRtZWJBbFV3YmFwSGFJTzRqUm1IVzNINDVSMkFiWFFSMXJ3bnNkYV9MMjFFZ0R0X3l2TXBKdGU4RlZNTW93YWw4WkV3QTM4cjRyaUxHUTd3SUdXdTJEcHdfa0psWUt6dVExVzlrcmVlNXVRQTN1Y1JQNkdRV25xN3Vqd3VWaUVzOEZYMVJkSEgyN29EWWc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T15:31:41+00:00"
+      "time": "2026-11-07T18:34:00+00:00"
     },
     {
-      "text": "Paraguay's ex-President Peña faces prosecutors after impeachment, house arrest - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Why White Working-Class Voters Shifted Left in the Midterms",
+      "url": "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T14:35:30+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-07T18:22:09+00:00"
     }
   ],
-  "col2": [
+  "col3": [
     {
-      "text": "Five killed in shooting in main square of Polish city of Krakow, police say - Reuters",
+      "text": "Slotkin declines to rule out Senate leadership bid - Politico",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11M3B6Znlubld0Y185M01HTWtTc1hKdzZ4QlpPc1Etd25tQ1BOc2ZsYTJKbVdXV0xTcmZSeGczaGFYMk1jRHhmRGtleHV5eGFZVXNLRXVucGp4RTNzZmVjU2dnZ1p4OXZ1eUJKS0ZicHJkQmMtUk1tWGlqSzFZdw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-07T21:36:00+00:00"
+    },
+    {
+      "text": "Arch Manning, defense help No. 7 Texas rally past Missouri - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTBGdGZpcDRlak9BWTBURGp4RnBiS3ZoeEdhOFBTemNtbFBhd2VfZ3g3ZEd4RHU4Ujl1dkRrekVHSF92QlkxRXFTcm5nRkR4U0I0VnRtYWtGYUxDQ1FpRUkxejlXZzZ4b3BPNjMzcDdQdS1pRnNiMU8xa0lhVGM2ZmR6emdaemNYejN3SE16NlE3dmM0YjlPQzRIeXE4R3JtR0YtRE9RMjJtUkpOUXc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-07T21:06:00+00:00"
+    },
+    {
+      "text": "Poland in shock as six dead after mass shooting in Krakow - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T17:34:47+00:00"
+      "time": "2026-11-07T20:51:07+00:00"
     },
     {
-      "text": "Texas remade education in the GOP’s image. Hinojosa plans to undo it. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajN0UnE3dGV4UUdyeG5zWGVMczJNaXB2SWx5NTg0SmpCVXFVU3BVdGNBb2lJLXBGemdLSWNPb3pwZkZvdHJtN2M0bExKOWpLNlJHTXpfVmc4bVhlYk8wb2Vxa0NRNUxkTUI0SHdrS09JQU0tZFRIMWVQWHZfU2p6TURyMG5fcGhyTTZIZnJDWTk5M09fLTQwa2FnQ2tmemd1cG4zOEhITmJOaUN3Y1E?oc=5",
+      "text": "Paraguay's President Santiago Peña impeached and under house arrest - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13U2tMV01VSGd5ekZEWjNpRFh6SWhYMlFrNUNwa3Z2dkFrcmcxa29WcFNCUkNIbzZSS1NfVEtuWDJyZ1BwNV85ZW1oT2VBaUNVemNvUEdiVEJuTVE?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T17:01:43+00:00"
+      "time": "2026-11-07T19:17:22+00:00"
     },
     {
-      "text": "Schumer Is on Track to Remain Democratic Leader in Senate After Election Blowout, Aides Say",
-      "url": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-07T16:22:29+00:00"
-    },
-    {
-      "text": "Five under-the-radar MLB free agents who could make a big impact next season - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ09fbjBxT1VnTG1HLVRvTDVFSm9TWWxnN0dxaTNTZGF1TGtFZFI3SllIUTl1M2VFZHg2NC1EQkd0YjFraXhBV21YX1hrQ3VOX1FSdU1EYXppc21iaC03ZGU0NHI0U3NBemtmRGZkeUx2dzh0SEhyemNxVjNDMUFqQ1NockJCa2djejFn?oc=5",
+      "text": "Ohio State injury report: 8 players ruled out for Oregon game - 10TV",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV0k2ejAxdlZ2Q2RveF9DdGtVYVZNbEZyNmxXblFzSWEwWkJGQXE2Yk9BM09LZ0RJOVlWS19jTG5PbUhzUG9VS2dKak5vbVF6YUlaNFhtXzNURUFfdVVESWF4Nk0wLXVlOXgtNExLeUlkRlJqWkNXT3hWaC1FWjR4eldiZDVRdWdsNVRjSXM5Z01BbVY5R2hPSnVQRFBaY1hlT0ZLSzZUby1GUEFKSU1lLXVjNmFBQVdkWllvdFpSUDRva21JVXZvLXdVUHd2ZHRjb19nUFZHQUptdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T15:49:11+00:00"
+      "time": "2026-11-07T18:34:00+00:00"
     },
     {
-      "text": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTVRMjc0QnVvb205Vy1ZbG9Ta0FvUEc0TFBQUmdmQWIyZnFpVGpOWTREUXF4TFBPc3Y5VF9wSTlFQ2s4MkVtRDZFdno2dGVHQjlhcEwxZFVkUXV0QVIwOVgwR3o0d1NIODJORDFIbzI4T1cxbGJxRmYtbTBkaGdGVVNFLVRrTGJsVjd0bW9ObmhoTndvTlRXZXZzZw?oc=5",
+      "text": "Meet Stephen Miller, Trump’s new chief of staff: 5 things to know - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjMwQlVFYkVtS2dFc2FPTTFPbDh4X1RWdXhYamJTTWhjQm5SUkpKWHljWFU5Q1ppbWFkZHNBdUJqdEd1T0NxdXcwTV9VUTNHUEtoOHJPUEp4bW1qRlVTejBtbUNXcjQwa0tQMFA3UnltOG1JWTJWTVdmMUtwd2VGeURVUVZROVd6WXRHeXJHRHnSAZYBQVVfeXFMTlZLNERiX3hHYXlObUl4cjdKVHZ4M0llRVZWZGpENC1LRGpMM01pNzBWdW1ORV9kNDRhSkl0eTBWaXlyOEVYQTRIdjR3QXgxWDdKcnV1djlIYjZEb19VY1BXLW9FSGVtb21QS3UzTWpOWVlMbGRuNjVUX1JPZGNqZ3BSWGZScjlrMHhpT3RleXRsOThHQ01n?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T15:01:00+00:00"
-    },
-    {
-      "text": "Stephen Miller, Trump's new chief of staff, is the architect of his controversial immigration policies - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVR1emxyZTgtakUwQUtId0pzYUtXVWVNVS1XNWFVcFdEdzdVQ2ZUMmtyMmx0N2dTSjNtamZxQ0RiVTRNNFFBenpGTzRHWDBkUXlpQmpHQUFNTmNOT2ZLUVlVWEFyYlZQVUpTT2NzRGJ2SHQ5czktTk91WFdMV05GY25JRXQzbDNhTW9CV1pXQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T14:31:59+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "Historic voter turnout powered Democrats’ blue wave - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGRfMGhxVmxONG9RSkJyN1hhYWNNZ3BCOHpJdTVvZjF0RFdncmc2VU9xSEFGVEJXNHpIZlRvVmh6ckxtdzNLNVN0a1JmMkR4UVZlNFZPeG5TQ3lTMFFQRG50OEYzRHNEZDBPdy1PNzcxbnZCTXpKLV9XVV9wOS1MV0RtWkstbUxNSjJjM3hIamJyU1FSNUxoaTJxVGdoMDRWMmRWUw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T17:32:40+00:00"
-    },
-    {
-      "text": "We the People Finally Turn on Trump",
-      "url": "https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-07T16:47:07+00:00"
-    },
-    {
-      "text": "Box Office: 'Godzilla Minus Zero' Roars Toward Record Opening - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaFVSRWh3OGg5Z2huTzdLYVQ0M3p4UVEyYXpKRkYtWldBLWUxSWNxNkZCbE9NWlFmSlItUGQ3eG5vZ2xvT0ZwejlMQWFscVhBb1BwdWhSNXVWM3R1cGdyRWpKcThoUU9RdklZdno1cW5LN241ZXV0aXZYVjJqSk9lbVdpeG8ydEdGeGxxSW9ORQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T16:10:00+00:00"
-    },
-    {
-      "text": "Notre Dame-Miami score prediction: Can the Fighting Irish exploit Malachi Toney’s absence? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0hyc1BhV1BXZkh4ZHdyZnp1V0h6RThhMFdwUzR6VFpXSzZlUjlsbFFYbFJqRFRqX1d3dERqakhiZC1fTHcwSWx3R2trRWs1b2MxRlFOUVZtT2E4UDk1c1BYY2xWZTA1VkhvZElBZENodUdXRXJ2aFFweHZVODdIOFZsN2x5SHpSVEtaOFV6QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T15:41:14+00:00"
-    },
-    {
-      "text": "No clear winner after tight New Zealand general election - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tSWpkMnVfajZmTi1ZUnpLZ25icjhPYzRhZTVBYWR2aHZWaXBTWkVIQjZVODlEN0d0WXJMeFhBQU1XMlBqekpqQXFCR2d1Uk1iMWJfSnJnRkp4Ymc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-07T15:00:10+00:00"
-    },
-    {
-      "text": "Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’",
-      "url": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-07T13:55:57+00:00"
+      "time": "2026-11-07T18:22:00+00:00"
     }
   ]
 }
