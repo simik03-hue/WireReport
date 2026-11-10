@@ -1,211 +1,211 @@
 {
-  "generated_at": "2026-11-10T00:17:05.087139+00:00",
+  "generated_at": "2026-11-10T07:39:55.759654+00:00",
   "lead": {
-    "text": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-    "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
+    "text": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
+    "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+    "source": "CNBC",
     "lean": "center",
-    "topic": "world",
-    "sourceNote": "UK public broadcaster.",
-    "time": "2026-11-10T00:14:03+00:00",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-11-10T07:37:22+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
-      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+      "text": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+      "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-11-10T00:12:51+00:00"
+      "time": "2026-11-10T07:32:45+00:00"
     },
     {
-      "text": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "text": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+      "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-11-10T00:09:49+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-10T07:00:02+00:00"
     },
     {
-      "text": "The superpower battle over energy – and what it means for your bills",
-      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-11-10T00:08:28+00:00"
+      "text": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T06:59:00+00:00"
     }
   ],
   "col1": [
     {
-      "text": "What Is Congress’s Plan to Speed Up Energy Permits?",
-      "url": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+      "text": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+      "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T00:02:35+00:00"
+      "time": "2026-11-10T05:47:58+00:00"
     },
     {
-      "text": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T23:27:04+00:00"
-    },
-    {
-      "text": "Book Review: ‘The End of Everything,’ by M. John Harrison",
-      "url": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T23:20:05+00:00"
-    },
-    {
-      "text": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXJiaTdrLTJPT0c5MzNWQ0tldUVWWkN6MEdxU0xzSHdDUEwtQ2VrN1RpWndpUXBhb1AwN2JQZnpxeHJvY0M4US0zMnRTdDhEMDhtek51Q0lxaGV0ZDlhNFA3NllXNmlBWWpOUHI1OXZ3SEgwZEZQdVU0c2ZSc1ZZRjkzS2h2cXUtdFMwR180eDU5dWlzOVk4dUZUamNESGU5eDYwWDBFSE1mRmZBZk80VFBNS2tacW9mU2VlUHBYc1ZFZmRLWWVpaU42MA?oc=5",
+      "text": "Kevin O’Connell on potential quarterback trade: “I’ll defer to Nolan [Teasley] on that” - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ0lMeVk1azVDZzA4TDdxc1k2REVUOE1NNndONnFLMU5zeV9id1hsOEtIMW1iWkZWR0lUTUlSVDdsT1ZGTTByRFprSldfYUJoNlc3d3pFUVpJQ0VPMF85TUlRdy1xR1BLbGdhc050emNJSXh2X1JsZ0xFSFR4dW9MOFN6VEE0NmFoSDlaYjVEYnVuT2FIMXdNMDIyVzU5dWRQWUxDbGFQQjRKSl9PS3lVTGZ1QTFhX2psTkZRNExPaFlIZkZHd1FBOHJZVDM1N2kyVE9abW1tV043Zw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-09T22:46:09+00:00"
+      "time": "2026-11-10T05:30:40+00:00"
     },
     {
-      "text": "Judge Denies Request to Throw Out Lindsay Clancy’s Murder Charges",
-      "url": "https://www.nytimes.com/2026/11/09/us/lindsay-clancy-trial-motions-denied.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T22:35:24+00:00"
-    },
-    {
-      "text": "2026 NFL trade deadline live updates: Latest rumors, buzz and news in final two days to make deals - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlg2SFBUcE8ybUxZRDRZeTI4bDJSV2RieWhHQnBqdjFvZWpsc2E2amNrVkdydFI0cnA0M1MzNW1xQnBCckhLNjhUTDhKNGpNT0JlMkZLNURTb1QzWmpHMlUwY0hrNFg2ZHNyYjZacF9jYUE5eHpRS3dKQTc1MUJkVTlpSmE2R1QwMW9PbmhsM1FHRllLRnhoNGJRcERZT2t1bGtR?oc=5",
+      "text": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-09T22:27:00+00:00"
+      "time": "2026-11-10T04:58:50+00:00"
+    },
+    {
+      "text": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T04:11:08+00:00"
+    },
+    {
+      "text": "US demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T03:37:00+00:00"
+    },
+    {
+      "text": "UFC chief declines Trump's White House job offer - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUG1jd1ZaRUJkNnhvd1NTcDI5Ny1TU19ZS3BnNWJ6QWZLTkh2NWxETlpfSjRBaVhQQmlqNFVxX0ZzMDNybHZvT1hvdUR4YTFMWk5tcTFtdnQySVlabWc3eVEtWlJvamJpdVczaXg3YVFFUl9MRElPbU5IaElUcTAzcnZn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T02:35:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T23:48:34+00:00"
-    },
-    {
-      "text": "M. John Harrison’s ‘The End of Everything’ Wins Booker Prize",
-      "url": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T23:24:24+00:00"
-    },
-    {
-      "text": "James Gunn and Peter Safran are replaced as heads of DC Studios - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEF4em9xTWlJMnVyMFppeGJDYXNEaG5DUFJYNldzcndNSVdwaEp1ZGM1ZlJ2NFloeEJCOFNjVWdUR2IwVEZvcUVTdmZOT3pRdzl5TFNIYlNnaTZ6X2xaWlEyNS1oOEJDYXZLU2FSUTBiYmxTOHVnRjQzSmhkemhuZmkxU3dacmd5Sk01dEVkSWloaGVnM2pDQVNlTU1yaHdMX3hxVVRwQmNqenVRaHUxWWc0eWNPY190MldrZGtPRG1nM2ZHV09Z?oc=5",
+      "text": "'The Ocarina of Time' remake is setting Metacritic records left and right - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1BrSldWU3lCUUd5VUpXd2N3ejlSQUltVTR0Ql8tMUo5ZC1wdUFoaS1ZRzA2UjRBekhaRmZzd3J3d0w2SWgxZ1ROWjAwWVI2ejFid3hnb3hkUTdOelEzaFVOd0VVd2FfY2lkVEdnM0tmd3hSWXRDaFFCb19neUNRUHYwVjZkNnlGS2d3YQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-09T23:13:00+00:00"
+      "time": "2026-11-10T05:36:26+00:00"
     },
     {
-      "text": "At 87, Senfronia Thompson is Poised to Become the First Woman to Lead the Texas House",
-      "url": "https://www.nytimes.com/2026/11/09/us/senfronia-thompson-ms-t-texas-house.html",
+      "text": "Inside James Gunn, Peter Safran’s DC Ouster: Exec Tensions and a Fateful David Ellison Visit - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFRTNHUyMlc1X1hScXVxQ3lRWGVoYWZ1bEtSeGlVWlVMMmdUamRuNzZXYzR0a2NxVGg2OXh5dDJTdmFUeVFkNHFiNjFEZmV2ek1JRHFMaU9oMndMYndPT0FpdUkzM2Npb2w4aEVUTFE0X3hBT05KYVVqT2ZCam1zYVMzUFRDbXNncWZFQjRaTEZfZ1p3Nm9Sb2RNVkVYZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T05:01:31+00:00"
+    },
+    {
+      "text": "Earth is surrounded by millions of pieces of space junk and the problem is getting worse - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnFhWUhqbTdZQUY5azdvem94anh4NGdSaXVjVFR4MVNSWUdyMndabnRuUERaejFJMjZfWTcxems5SU4zdjVXSXU0dV92Tmc2RDZfWlUwN3VWQ25hNVZtNnZJODQxMktxTmhsVGtSbmNYWFBOTkFMZUJxWUk5ZVJleVZIbzRROXZYLVdGZUVGZlB0dWtrWU1wUEVwdndSZmNjcFFPSXItQ1FvQkxPQ0NUZXRxMk1fSmx1YVVr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T04:43:17+00:00"
+    },
+    {
+      "text": "Pochettino’s U.S. Soccer contract buyout revealed as Manchester United links intensify - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZG01X3EzUVlQYjVFc3h5a1FZNWpNTkpCci0wUUdHb2k2ZVhfRzBNZE5tMldabklQYlRVUnc0Ul9RUW56Q0NjcEpEYVVkWnlGcUFwdU5LYVlHM2Y1cm40d3I4TFBBV1ZKVUlqOHZVVGRNWEhDQ1l5ZklRWmk0eTBNS25uRV9LQm1xMU10NnpEbHY2UXpJZHM1S1gyRjdOVTY5OWl4V2Q5ci0wdVIxampuS3lTMExHdUE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T04:09:43+00:00"
+    },
+    {
+      "text": "Gary Fisketjon Has Died. He Edited Ellis, Tartt, McInerney and McCarthy.",
+      "url": "https://www.nytimes.com/2026/11/09/obituaries/gary-fisketjon-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T22:36:20+00:00"
+      "time": "2026-11-10T03:36:28+00:00"
     },
     {
-      "text": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-      "source": "NYT",
-      "lean": "left",
+      "text": "Asian stocks climb as oil prices slide ahead US CPI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
       "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T22:35:05+00:00"
-    },
-    {
-      "text": "In a Democratic Wave, Even the Long Shots Defied the Odds",
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T22:11:58+00:00"
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T02:23:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Congress Has Reined In the Presidency Before. Here’s How to Do It.",
-      "url": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
+      "text": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T05:33:25+00:00"
+    },
+    {
+      "text": "‘We Used to Be a Wealthy City’: Auto Woes Slam German Towns",
+      "url": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T23:47:28+00:00"
+      "time": "2026-11-10T05:00:10+00:00"
     },
     {
-      "text": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week’s tumult: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5",
+      "text": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkJWMXVycnFnZ1VLVnhqVVJqLXRIdEdzUFhVUFVwWG1TRE9BSGZmNTVLMUVfQzZMZkNxUnN3U25qU2pHZzltcXhTaUl3NklnRXowWlJST19PR3dFWUhONDJ2dXBwaGd0OWJtM2NRWWtUM2JNRlZPandEV3p3VlFKRGFjLTExOC1jTWtZcUVlSGFhNFU0NWh2YlA1U1Flb1o3NVZRSW4wWkQwSzQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-09T23:23:45+00:00"
+      "time": "2026-11-10T04:34:15+00:00"
     },
     {
-      "text": "Supreme Court paves way for Trump to build a section of his border wall in the Big Bend area of Texas - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnk2bHNkaTJLbFNVcWZtcVZlbUtfcnFCZktRbHFoNFZGamhYaHVycG5DOVUtakRSRFhBWENqZ3drc3UtRGoxOFB1TW13LTJtOFJ5M0xfT1g5MDdCdFVGYjlrNVlhUUh3Qml0Y0tUWVpQS3llbkNxc3NDZ3FFNDZVQXpaMDdDMV9ER0w1eVZkX09yQWMxVjhtanp2V1BMeWkzOWt2LTdRbw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-09T22:55:29+00:00"
-    },
-    {
-      "text": "The Evening: Fallout From Nvidia Revelations Continues",
-      "url": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
+      "text": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+      "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-09T22:35:34+00:00"
+      "time": "2026-11-10T04:00:06+00:00"
     },
     {
-      "text": "HBO Max-Paramount+ Bundle Set To Launch In Early 2027, David Ellison Confirms - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUtrNFdQTHh6WkJOVzBYU1hpWDlrN0NKQTJMMlp1MUpwUUNpMXFGcnFqaGdYRXJyV2tMY1VSSlhjcDRyWjNRWkItZEIzcjZDV0Jpenc4SGxHVUlFZjBfS1k1VUVPcWM5djBkTGZzS3ppUEpGek1HTGlILUN1TXJkSTF0RlF1TmdfbGZaTW5lOE5KM1JBcW45cW9MQnhwX1RIaHhPbk5R?oc=5",
+      "text": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15RFZHMGRFNHFNbVZITFItZVQwUDZWd210MnBJMUl6XzFGNzQ5ekVyaE9GN01nT1NFb0JaRUR4V1U1N2ZPV3FXSm1ZaUdlWWYxSEhpSWZUNUtYYzQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-09T22:28:00+00:00"
+      "time": "2026-11-10T02:59:42+00:00"
     },
     {
-      "text": "Sources: Jaguars acquire Eagles DT Jordan Davis in blockbuster trade - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUNYelhLeFpDQVU5VGJYSWptZ25fQ2U3aUpFNDBQSmZBazVXQnkycml1REFOdHlsb21DemJCc0Uwcmdpc0xYd1FsRHVjNEY1SnljOElSbWhad1ZJNmc4WXNlVGt4b21rYkNkV00wWll5MWt2c2JFdWRCbndIQXplc3RQeWtfY0dLQkJYald6bTlRY0lNRlBmZGlR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+      "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-09T21:57:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-10T02:13:11+00:00"
     }
   ]
 }
