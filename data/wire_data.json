@@ -1,119 +1,81 @@
 {
-  "generated_at": "2026-11-10T07:39:55.759654+00:00",
+  "generated_at": "2026-11-10T15:48:38.487628+00:00",
   "lead": {
-    "text": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
-    "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-11-10T07:37:22+00:00",
+    "text": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-11-10T15:45:06+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
-      "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+      "text": "Johnson blasts Massie's 'shameful' push to oust Hegseth",
+      "url": "https://thehill.com/homenews/house/6210718-johnson-criticizes-hegseth-impeachment/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-11-10T15:42:48+00:00"
+    },
+    {
+      "text": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-11-10T07:32:45+00:00"
+      "time": "2026-11-10T15:42:00+00:00"
     },
     {
-      "text": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-      "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+      "text": "Stocks making the biggest moves in early trading: Sanmina, Hims & Hers, Securitize & more",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-11-10T07:00:02+00:00"
+      "time": "2026-11-10T15:40:31+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-10T15:39:57+00:00"
     },
     {
-      "text": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com",
+      "text": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
+      "url": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-10T15:30:06+00:00"
+    },
+    {
+      "text": "The Impeachment Charges Against Defense Secretary Pete Hegseth, Explained",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-10T15:09:50+00:00"
+    },
+    {
+      "text": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T06:59:00+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "California Voters Reject Prop. 40 Billionaire Tax Measure",
-      "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T05:47:58+00:00"
-    },
-    {
-      "text": "Kevin O’Connell on potential quarterback trade: “I’ll defer to Nolan [Teasley] on that” - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ0lMeVk1azVDZzA4TDdxc1k2REVUOE1NNndONnFLMU5zeV9id1hsOEtIMW1iWkZWR0lUTUlSVDdsT1ZGTTByRFprSldfYUJoNlc3d3pFUVpJQ0VPMF85TUlRdy1xR1BLbGdhc050emNJSXh2X1JsZ0xFSFR4dW9MOFN6VEE0NmFoSDlaYjVEYnVuT2FIMXdNMDIyVzU5dWRQWUxDbGFQQjRKSl9PS3lVTGZ1QTFhX2psTkZRNExPaFlIZkZHd1FBOHJZVDM1N2kyVE9abW1tV043Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T05:30:40+00:00"
-    },
-    {
-      "text": "Hegseth impeachment effort begins in House, focused on Iran war - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlZ2Z0szYjlfTTBaZndNSUJHY0lLNlVGVDVpb2N2a3BTX09WR2U1cjVpWHZvNEdfQm4xLVFRM3cycmdrazk3Q25Gc05YSkgtOGF5eDROb2NfcTVZRG5yRE5hZVRKQ19XQk1INzdrTTVGZDBCbmpDOXU5NEJESHE5NHNCNGkwMUJSZVBPamlZc0M2MU9Ibng4dVJ5YjdZaE93MUd0SWtGZEt2ZHZndmpvRDZIbFROZjFJ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T04:58:50+00:00"
-    },
-    {
-      "text": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T04:11:08+00:00"
-    },
-    {
-      "text": "US demands a seat for Europe at Ukraine peace talks - POLITICO.eu",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T03:37:00+00:00"
-    },
-    {
-      "text": "UFC chief declines Trump's White House job offer - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUG1jd1ZaRUJkNnhvd1NTcDI5Ny1TU19ZS3BnNWJ6QWZLTkh2NWxETlpfSjRBaVhQQmlqNFVxX0ZzMDNybHZvT1hvdUR4YTFMWk5tcTFtdnQySVlabWc3eVEtWlJvamJpdVczaXg3YVFFUl9MRElPbU5IaElUcTAzcnZn?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T02:35:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "'The Ocarina of Time' remake is setting Metacritic records left and right - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1BrSldWU3lCUUd5VUpXd2N3ejlSQUltVTR0Ql8tMUo5ZC1wdUFoaS1ZRzA2UjRBekhaRmZzd3J3d0w2SWgxZ1ROWjAwWVI2ejFid3hnb3hkUTdOelEzaFVOd0VVd2FfY2lkVEdnM0tmd3hSWXRDaFFCb19neUNRUHYwVjZkNnlGS2d3YQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T05:36:26+00:00"
-    },
-    {
-      "text": "Inside James Gunn, Peter Safran’s DC Ouster: Exec Tensions and a Fateful David Ellison Visit - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFRTNHUyMlc1X1hScXVxQ3lRWGVoYWZ1bEtSeGlVWlVMMmdUamRuNzZXYzR0a2NxVGg2OXh5dDJTdmFUeVFkNHFiNjFEZmV2ek1JRHFMaU9oMndMYndPT0FpdUkzM2Npb2w4aEVUTFE0X3hBT05KYVVqT2ZCam1zYVMzUFRDbXNncWZFQjRaTEZfZ1p3Nm9Sb2RNVkVYZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T05:01:31+00:00"
+      "time": "2026-11-10T14:33:43+00:00"
     },
     {
       "text": "Earth is surrounded by millions of pieces of space junk and the problem is getting worse - WRAL",
@@ -122,90 +84,128 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T04:43:17+00:00"
+      "time": "2026-11-10T14:16:58+00:00"
     },
     {
-      "text": "Pochettino’s U.S. Soccer contract buyout revealed as Manchester United links intensify - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZG01X3EzUVlQYjVFc3h5a1FZNWpNTkpCci0wUUdHb2k2ZVhfRzBNZE5tMldabklQYlRVUnc0Ul9RUW56Q0NjcEpEYVVkWnlGcUFwdU5LYVlHM2Y1cm40d3I4TFBBV1ZKVUlqOHZVVGRNWEhDQ1l5ZklRWmk0eTBNS25uRV9LQm1xMU10NnpEbHY2UXpJZHM1S1gyRjdOVTY5OWl4V2Q5ci0wdVIxampuS3lTMExHdUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T04:09:43+00:00"
-    },
-    {
-      "text": "Gary Fisketjon Has Died. He Edited Ellis, Tartt, McInerney and McCarthy.",
-      "url": "https://www.nytimes.com/2026/11/09/obituaries/gary-fisketjon-dead.html",
+      "text": "Oil Prices Have Tumbled in November. Here’s Why.",
+      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T03:36:28+00:00"
+      "time": "2026-11-10T13:55:39+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "They Were Married for Decades Before the Parkinson’s Began. Then Came the Visions.",
+      "url": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-10T15:39:36+00:00"
     },
     {
-      "text": "Asian stocks climb as oil prices slide ahead US CPI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
+      "text": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T02:23:00+00:00"
+      "time": "2026-11-10T15:21:29+00:00"
+    },
+    {
+      "text": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T14:52:13+00:00"
+    },
+    {
+      "text": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN0FDMkRwcDVyZGFpV0dvRnhidUVyU1hrc2pKQzJZMmlLZDF1bHZ0dzBtMDJLOXc5T0xNYmRuS2Q4eU1QQmFqaHJ1cVg0VGkxcWN3dEZLVlo1UlQ0ckZCaW52b0lHQzVZN2N6UElySjhIWDdXWVh5T24xcmh4Zw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T14:28:00+00:00"
+    },
+    {
+      "text": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent - NPR",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFdxNDJ2b09ramZlTm9ldWtYN0doMWhveVEwRlN6a19KcnpHRU9PY2ZkWkFESXpRUk5kTnoydHNDODVJSE5OUkt1LTQ0VVVDR1A1VFdDZTlYQ0xyOEZXQ3lYeFA5QUcyMUFJWXo0UGNmU20zcC1SZF9BeDlIS2FLUnZPU194eUtiSXJBVWhMR0w3V2VtUlZwV1VrVFQ2SjE1X0lIR0NJeUlWMllUY1hqVExqQ1RVbTF0U1NqWDFKSDR5bTlQZTVNZ0p2ckNEM3h4RWpmdA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T14:16:53+00:00"
+    },
+    {
+      "text": "First snow, coldest air in months headed for eastern US in wake of storm - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2hBMlVQRDRFcktOVThJRlZUalN3S3JPRDBEVG1TLXMxMWFOOFd0dnlvNnpKV2tPTUlGQldVa1NyUWRScDN5eTFydFpPd194UlZMMjdQdkxPaU5sOGdLQm1lNUhBSHZUcUlKM3RjMGI2bEhydlZhN2dUeEYtek4yVDZkODUyaWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T13:54:31+00:00"
     }
   ],
   "col3": [
     {
-      "text": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
+      "text": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T05:33:25+00:00"
+      "time": "2026-11-10T15:32:44+00:00"
     },
     {
-      "text": "‘We Used to Be a Wealthy City’: Auto Woes Slam German Towns",
-      "url": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
+      "text": "Failure of Billionaire Tax Strikes Blow to Progressive Agenda",
+      "url": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T05:00:10+00:00"
+      "time": "2026-11-10T15:10:43+00:00"
     },
     {
-      "text": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkJWMXVycnFnZ1VLVnhqVVJqLXRIdEdzUFhVUFVwWG1TRE9BSGZmNTVLMUVfQzZMZkNxUnN3U25qU2pHZzltcXhTaUl3NklnRXowWlJST19PR3dFWUhONDJ2dXBwaGd0OWJtM2NRWWtUM2JNRlZPandEV3p3VlFKRGFjLTExOC1jTWtZcUVlSGFhNFU0NWh2YlA1U1Flb1o3NVZRSW4wWkQwSzQ?oc=5",
+      "text": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5Yy1hamRqX0RoRXRGeWNVcVYtN2ZfX3RFUUVtNGs1WmR5MG5yYXl5TlhVRHBKVXFCLUtyYjRfbTZHQlN3NEpoYmRBXzVFaFlJanloTF9XV3pjTWtLUk1zelRiZkVUTnVLcHZ6dFpsUjB4WU9wRnhhWnJ3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T04:34:15+00:00"
+      "time": "2026-11-10T14:37:09+00:00"
     },
     {
-      "text": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-      "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+      "text": "Why Nearly 2,000 Dead Seabirds Have Washed Up on the California Coast",
+      "url": "https://www.nytimes.com/2026/11/10/us/california-sea-birds-dead-el-nino.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T04:00:06+00:00"
+      "time": "2026-11-10T14:25:38+00:00"
     },
     {
-      "text": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15RFZHMGRFNHFNbVZITFItZVQwUDZWd210MnBJMUl6XzFGNzQ5ekVyaE9GN01nT1NFb0JaRUR4V1U1N2ZPV3FXSm1ZaUdlWWYxSEhpSWZUNUtYYzQ?oc=5",
+      "text": "NFL trade deadline day open thread - Buffalo Rumblings",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEVmSURMOTZUV3c1aWZzNjE3NzhzLVVsNG53QjVabnBmV0dCd0JHblpXSzBNaGhVbUoyRnR5ZHltbDNNaE9ZTERVMmtEc2piZVF3eWNtd20zNFl4R0IxRlBDX3JfNVM4QUloRVh2T0I3TE5pTm5EQ2lOTEhQTHhBQkVuVDlDaHBfc0FXM01jb29uRHdlbVdQTHNVak5HeW82?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T02:59:42+00:00"
+      "time": "2026-11-10T14:13:46+00:00"
     },
     {
-      "text": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+      "text": "Trump Administration Moves to Further Limit SNAP Eligibility, Affecting Millions",
+      "url": "https://www.nytimes.com/2026/11/10/us/snap-eligibility-food-stamps-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T02:13:11+00:00"
+      "time": "2026-11-10T13:51:51+00:00"
     }
   ]
 }
