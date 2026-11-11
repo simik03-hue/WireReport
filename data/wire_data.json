@@ -1,158 +1,176 @@
 {
-  "generated_at": "2026-11-11T08:19:48.353415+00:00",
+  "generated_at": "2026-11-11T16:30:32.036713+00:00",
   "lead": {
-    "text": "Stock futures rise as market tries to recover from Nvidia-led decline: Live updates",
-    "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-    "source": "CNBC",
+    "text": "Nvidia stock rebounds as scrutiny into Huang mounts",
+    "url": "https://thehill.com/business/6213397-nvidia-stock-rebounds-ceo-probe/",
+    "source": "The Hill",
     "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-11-11T08:19:03+00:00",
+    "topic": "politics",
+    "sourceNote": "Congressional/policy coverage.",
+    "time": "2026-11-11T16:28:22+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "From Argentina, a Warning to America’s Tech Right",
-      "url": "https://www.nytimes.com/2026/11/11/opinion/argentina-milei-ai-musk.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-11T08:15:51+00:00"
-    },
-    {
-      "text": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "text": "JetBlue unveils new first class seats to bring back profits",
+      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-11-11T07:47:54+00:00"
+      "time": "2026-11-11T16:27:18+00:00"
     },
     {
-      "text": "Car Crashes Into Crowd in Los Angeles, Killing at Least 3 Pedestrians",
-      "url": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-11T07:26:18+00:00"
+      "text": "Watch live: House Freedom Caucus charts path forward after GOP midterm losses",
+      "url": "https://thehill.com/video-clips/6213328-watch-house-freedom-caucus-gop-midterm-losses/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-11-11T16:24:08+00:00"
+    },
+    {
+      "text": "Republicans are 'going to have to have to start moving on' from Trump: Erick Erickson",
+      "url": "https://thehill.com/homenews/campaign/6213460-erick-erickson-republicans-trump-midterms/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-11-11T16:24:06+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Israel’s newly elected parliament is already moving against Netanyahu - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFlseGxLdmpRQjNQS1g3U1h1Q3I2X0dsUElDbnM2cnZYeVVRd201YWU1Rk01eTlzUzR0ZHhOYmZzLXBKeU9YbUJlZm92b2x0c1VNalJqZTFfY05xYUszTFc1VEJZYlJzYlZZSDhFZEdSeEp3SndpSUNNcEloOC1qRlliVnAtQWdGOFpjY0s4NnFPbnI4ZHhMeS0xZkw1SnFjV25GQ2d6ckxFNE9idXA1S2FHcXJqTnhW?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T07:09:25+00:00"
-    },
-    {
-      "text": "Dua Lipa, Tame Impala, SZA and Daddy Yankee to Headline 2027 Coachella Festival - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUMyblY2QUNGeHlWeXh0bFhoWlpKU2lFVm5SNVRLNnd1R3Y1bEFqSUhYdk12SlUzdzlVNmNHN1hrY0N0NVBHcHN0M0lfU2EwQzBRVk5STjhCTUNQd2p3Z0NlQVBxdU15bkZmYk9ETmM2Zm5jTHR2ejJNd2V0Y21ZN3ZkSk9vSk4ta29iU3AzS1ZWdzhvZ0o1SUl5aDUwV05zWHBsMEJCVm5SVDdrZEdvSi1NZnVpQnYz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T06:16:14+00:00"
-    },
-    {
-      "text": "Jim Jordan wins House GOP minority leader race - Axios",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDJ0ZTBiSTByYW4ycmVhb0RHQ05GWHNWUm5JR0RmQVd0WG82UkFKWWRTZUFHcGxSZzVwMWpUeGYzdzZWLXJqNVFOaENUM3MwWHE3Tm1jYWFKTFFnNDBBWTlKcGgxV202UlMyWUtnYTdmeFRoTjZ1WUlpbllvdkRlZVNUT0VUQTBrQUtfS0QtdE4yS0o1?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T05:04:00+00:00"
-    },
-    {
-      "text": "3 dead after car crashes into street vendors, pedestrians near Metro station in North Hollywood - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNelpUMUFXNGVnOUFVeVhGdWdWd21ya1daVmY4V00yNm9FLU9ha3ByR1VzQWxKMHg2bFpacGZYaTRHN3JpR044azJIellPRjlaZ01fMkNfSEtNX1dHRHhwVFJYYkttRVVnSnVDVUNsV19meFFYc2x4aXFRbU4zYzg0OGxtcFgwQdIBiwFBVV95cUxNTHFpQnZoamE0TFBMS0R0V1JIcHRVRVBFenF1X0ZjUnBPT3NQSTk0aGk2QUU1ZG44c1UydjBfS2lFSksxejlSbEJPUVNoSE8zd0YySWVWMGhJeWticlhGblZBeERFMFRCY2VBX2tJd2dFcWpXLWlkSGo0eTZIVjBpdmJ5WC1USTRzaUhN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T04:54:48+00:00"
-    },
-    {
-      "text": "Judge jails Thomas Markle, father of Meghan, after he cut off his ankle monitor - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWRHb01HTTFuYmlwb1F5Z1k1YVBYYlVHRGVaSFhFbk9nMzk3MjF0cWZEUE1JOVVwclppT0x1YmVlMGFjMGpnOEI4WWZTN1B3MVRCN2JscHFKeWdIX3JkRXB0U2twcEtZRzktbkc5ZHdHRWlVbTA3a0EtS0tsY0Eyc01HTVRBYkVVUlhmMHlLR0pDTUFnNUZ4T3VCNA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T04:01:00+00:00"
-    },
-    {
-      "text": "Alina Habba Mildon Faces Discipline Over Settlement at Trump Golf Club",
-      "url": "https://www.nytimes.com/2026/11/10/nyregion/alina-habba-ethics-new-jersey-trump.html",
+      "text": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss",
+      "url": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-11T03:30:30+00:00"
+      "time": "2026-11-11T16:09:40+00:00"
+    },
+    {
+      "text": "Somali Bodyguard Was Indicted in a Bid to Incriminate Ilhan Omar",
+      "url": "https://www.nytimes.com/2026/11/11/us/ilhan-omar-ex-bodyguard-indicted-abdullahi-mohamed.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-11T15:56:58+00:00"
+    },
+    {
+      "text": "Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-11T15:25:00+00:00"
+    },
+    {
+      "text": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
+      "url": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-11T15:10:05+00:00"
+    },
+    {
+      "text": "Capitol agenda: The left looks to Van Hollen for a shake-up - Politico",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjZvQ2M3RUwtSXhnQVM4WUs2RXdtOXlnclBfbG56SV84MGc4bHFCejFpMzVSZ2twTkZYcTBkSkJOamwyNlM4OWhiRnZqeEZsYWhsZnB0OUk5ZmJnTUFPSVdfbC1Ob3dMTTNsSU5TTUxod255bEh3S3JNTzRCY05kaXozNXR5WGZEN09ubTdIV3RHcWRtcnBZZTdobG1SQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-11T14:53:17+00:00"
+    },
+    {
+      "text": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-11T14:46:43+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T07:00:00+00:00"
-    },
-    {
-      "text": "Scoop: Commerce Department received national security warning on Nvidia CEO affair - Axios",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T05:47:11+00:00"
-    },
-    {
-      "text": "The United States Is Skipping COP31 in Turkey",
-      "url": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
+      "text": "The Moderates Who Chose Democrats. For Now.",
+      "url": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-11T05:01:06+00:00"
+      "time": "2026-11-11T16:04:44+00:00"
     },
     {
-      "text": "College Football Playoff Rankings: Georgia moves to No. 1 as Alabama, UCLA join top four in second release - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXNzcl9XZjJoODl2LXB0OHM1MDNfSG4zcERBeGhCUkRsaWZ2UENuMHNiajRRTkZLNXNVWEoxTTQwSTdUaEVRQVo5VkdfMUxhZG9Vc2c5Yy1acVE0VWdlRFNRd2RUZ2VlckR4aEc1LWtGMkdmMmRJdm9UaUlHODJkWENWNEIxQkZhVHB4alN2YU5HOFh1ZTM3ODk3QVlLbHZCRnVNQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T04:38:00+00:00"
-    },
-    {
-      "text": "Stacy Keach, Actor Who Embodied Hamlet and Mike Hammer, Dies at 85",
-      "url": "https://www.nytimes.com/2026/11/10/arts/stacy-keach-dead.html",
+      "text": "Silicon Valley Tech Allies Support Jensen Huang",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-11T03:57:21+00:00"
+      "time": "2026-11-11T15:35:00+00:00"
     },
     {
-      "text": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQ0w3OFRodTBHVUVYRTE5VUhRRjJQakJJRncwSy1qZnZTR1ZXRWZ6cmQzM25HWnppdUNDX2Z3N3VTcWVRWFc0QlpGcE1RYTQxaHNOeDR6dUE0dGc?oc=5",
+      "text": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
+      "url": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-11T15:24:19+00:00"
+    },
+    {
+      "text": "Driver in deadly North Hollywood Metro station crash held on $6 million bail - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVzJDbE1TdGpZLUhrQ3dJS2piaHBkNFZBZmxKNEVTWElna21rN3c3di01LUVSUnEwU1h0eEFWcnhlNGV6WS1feUxPeDFGR1RuRElIRzVZeHFwNU96Yjg1LVdmdnQ4Y2F2NDZpaXJxT1dGZTF4TGtMWEhIM1k5UkZlanp5aFhEbzlfMW1xdDExQmVIV2RlbExJc1NFNU10N0h0NUpQU2hpWVVqQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T03:26:42+00:00"
+      "time": "2026-11-11T15:10:00+00:00"
+    },
+    {
+      "text": "Stacy Keach, star of \"Mike Hammer\" TV series and stage, dies at 85 - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94cjNGWFpqT2lKaG5TZElsNXFiZVFTSlVweVJoRlJuSkE5Y0w3a2gwaFRzMDdrdTBVU3Fwc3ZscE5NVDNweVpMVzNVNEVDUHJpWmFmQ2hIYnhtY09KdE9mVDVrVWxIU04zWDcyQ3ZGd2xlcG50SFE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-11T14:51:21+00:00"
+    },
+    {
+      "text": "Jensen Huang’s Affair Puts His Wife in the Spotlight - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnZUcjVXMkhSOTVUZXkySjZOZWI3OU9FdWhjSkEzX3VaRTJGOWVBQzQwLUN3Z2NxeU01SXdFcGU0WDlzTGM1bDNUWDJkTDgyanJ5U25fVTVDbXdjVVdBbnN5ajBDblg2TXJ2WVRDTkh3NFVDeTN0TmFNZjVjSllIMjFTUVdRUmZx?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-11T14:46:43+00:00"
     }
   ],
   "col3": [
+    {
+      "text": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdnI2N05uOHdtZFhtb0U3MGN6bEhNN05QbE85RV81UGRMenBqY04tWXhLU1MxRzR6NWxZOUx5cnNzYmRwRFEwRWJnbi1Cc0JpMUt2aW53VEpWOFA0cEptN2xLLVB6S1RxNDlydWs5MGsySnprakktTlkwUmxqODQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-11T15:58:00+00:00"
+    },
+    {
+      "text": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-11T15:27:51+00:00"
+    },
     {
       "text": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
       "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
@@ -160,52 +178,34 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-11T06:20:03+00:00"
+      "time": "2026-11-11T15:16:11+00:00"
     },
     {
-      "text": "Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzVCd0d6RlIwWkUzOHhvZDZ5SnN3bXlfbXJ1NXBwWUVsQjZVa05zZkEyYnRkSGdjQ1lZd3hNRWM1MV9hZXVnZWltMkQxeHJRaXp0eTZIQ29jRHBqclFacnBadXpXam9NWjVIT3p3MklTdjNNQUlaQmJKbURmaGhJNmNYaFZ0cWhBa0YwamZtd3I3Z2pmQVBCdUJZeXRyM1dLNTBmdy1wc2tDYVlBdGxQNnBR?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T05:12:00+00:00"
-    },
-    {
-      "text": "Anthropic IPO valuation calculator: How much is it really worth? - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3ZJT1VnODFlMjkwVmE1Z05vaktUWmUtOGNpY19VVG1DMU9ObkZ6QndkOTlVMmVSZGR4RENBV0RwYTZzM241UXIyazhRWGRyNi1SZVNzWWNjYXBSUjlFUGdXb3U3QklJLXprbVBZLXRjdjd2dGphaEItMFVVTGR0OERfeEc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T05:00:12+00:00"
-    },
-    {
-      "text": "Connor Hellebuyck booed pregame in Winnipeg return as Jets go on to beat Devils - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRTJMa1p5QmctNEI3NkNFLWZpSVprRTFRaDdGWG8zMXpTYzJISzFQc3V0OTBqckhISkhYb2xpRTdiak1Ia0VlLUtYRk5Ba1FyYUVEQW8weGVtLVNZXzRESVQ5Q0MxdlBIOXpqX09NTk10b1V2dXh6ZFU3TlhOOEhlUE5BaUlORWJnS2FtM0xFVTVvUG9jdXlHb3FjYk1XVVZ4WlQ1Nkl6RzhGRVBJNFpra3h3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T04:21:00+00:00"
-    },
-    {
-      "text": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
-      "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+      "text": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+      "url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-11T03:57:10+00:00"
+      "time": "2026-11-11T14:57:07+00:00"
     },
     {
-      "text": "‘Dancing With the Stars’ Grammy Night Attracts Star-Studded Performances as a Frontrunner Is Eliminated: See the Scores, Who Went Home - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWdaMHQxNTgxd2JwTFlQV0k2VHlqczVaSElJTEt4dnRxb2ZLX0JMc3hKeWlGX3dUdTM0X0tFRlloQ3lIMllrX3BBdWNqaHMtWXJ3TWxEdm5PMUVLTHkzSlk4UVoyVlVhSk5TMHowdGh5YnpBdnNGMUtLSVAtWGtoR1RzZEF4bnRDSjE4dTFRNlJiZ3d4a2hYeHI0ak5pNjhEOURDYU1xZFFrX2tjRjN3?oc=5",
+      "text": "Kirk Cousins isn’t officially back in No. 8, yet - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRExVZGlOMnNIa05kc21GZ29GbG42RTNQbFcxNlpqbk5LalVvLXNHMGcxM01Gakg0R1V5U083WDVpVnNEbjd4N0VBNmthLXlJNWJnN3VzdlJkaUVnMzlqRXZIVklwc0h5dGVXa3lRYVZidlM1cHZ0RkFpRTZyYkZ3a0hjUzlITXJqT3BvRTJvNTZVUTF0d0VoM0Rac3N1MHlGYnBOY1dka3JGMG8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-11T03:26:10+00:00"
+      "time": "2026-11-11T14:47:42+00:00"
+    },
+    {
+      "text": "Pope Leo returns to Peru, his adopted homeland - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUpuTEFWN2VuSlF3TnN5Z2MyeUg4dmt5WmVYNHBIUjJLMDNaMnh2OXVibjZUT3BGZmtXT1lTSnFhX1M4dU8wYVpsNi1XX3Y5SXRObkkxSmdCQU53OFMtTkxVcTBIVEo1UE5RUHZmVnpCNV9FblhuM3QxdlVILS1pWWJ2dzEzYmRLMUoybmpneFlPeW1YYUE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-11T14:32:47+00:00"
     }
   ]
 }
