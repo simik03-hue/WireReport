@@ -1,81 +1,81 @@
 {
-  "generated_at": "2026-11-10T21:45:09.225231+00:00",
+  "generated_at": "2026-11-11T01:29:52.746349+00:00",
   "lead": {
-    "text": "Whitmer presses Trump administration on tariffs, grocery reimbursements",
-    "url": "https://thehill.com/homenews/state-watch/6211901-whitmer-demands-food-tariff-reimbursement/",
-    "source": "The Hill",
+    "text": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+    "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
     "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-11-10T21:41:40+00:00",
+    "topic": "world",
+    "sourceNote": "UK public broadcaster.",
+    "time": "2026-11-11T01:14:40+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Democrats now control majority of state legislatures. Here's the 6 they flipped",
-      "url": "https://thehill.com/homenews/state-watch/6211869-democrats-win-state-legislatures/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-10T21:38:59+00:00"
+      "text": "Israel’s newly elected parliament is already moving against Netanyahu - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFlseGxLdmpRQjNQS1g3U1h1Q3I2X0dsUElDbnM2cnZYeVVRd201YWU1Rk01eTlzUzR0ZHhOYmZzLXBKeU9YbUJlZm92b2x0c1VNalJqZTFfY05xYUszTFc1VEJZYlJzYlZZSDhFZEdSeEp3SndpSUNNcEloOC1qRlliVnAtQWdGOFpjY0s4NnFPbnI4ZHhMeS0xZkw1SnFjV25GQ2d6ckxFNE9idXA1S2FHcXJqTnhW?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-11-11T01:09:07+00:00"
     },
     {
-      "text": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-      "url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-11-10T21:37:43+00:00"
+      "text": "Stacy Keach, Actor Who Embodied Hamlet and Mike Hammer, Dies at 85",
+      "url": "https://www.nytimes.com/2026/11/10/arts/stacy-keach-dead.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-11T01:08:18+00:00"
     },
     {
-      "text": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
-      "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-      "source": "CNBC",
+      "text": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-11-10T21:36:13+00:00"
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-11-11T01:01:20+00:00"
     }
   ],
   "col1": [
     {
-      "text": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-      "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T21:26:19+00:00"
-    },
-    {
-      "text": "Will N.Y. Democrats Use Their Supermajority to Push Hochul to the Left?",
-      "url": "https://www.nytimes.com/2026/11/10/nyregion/supermajority-new-york.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T21:05:11+00:00"
-    },
-    {
-      "text": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
-      "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T20:53:41+00:00"
-    },
-    {
-      "text": "House Republicans elect Rep. Jim Jordan as their next leader following election losses - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFBKelhaVVFlZVBNM3p1ZGgzVDBEQnlHRWxDTG9EV2xKdTRfbFNsUXN3RmpqUk1NY2tKNlE1V1JsZVhuQk9xY3BEODNxT21nZnpFTDhhV3N4dHlxdnBMSjFJUUZwMzl3UUJpRDMxWTdnN0xhQWt6c1Z2VVF4ZHZpWXRoSWpQOTh2S3kzOEpKVWZ3eEFrY19yenV6dlVLS1JJNFdmNjVSTFZVU2VC?oc=5",
+      "text": "Stacy Keach Dies: ‘Mike Hammer’ Star, Film & Stage Actor Was 85 - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWeWo1VUpYcWxFY3VlTkl1OWVjOUxjX0RFWHZseUwxSzdsRm5ncW9iVHBZdWxxb3k5TWkxeVZrOVBwZE1aR0Yzb01PcDdDZHFlaFhsVTVpMnpYWlk5T3VWTWFscmpzYm5GM05ta0VYQVZrWjFmSUNIeg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T20:49:50+00:00"
+      "time": "2026-11-11T00:50:00+00:00"
+    },
+    {
+      "text": "Will Venable wins AL Manager of the Year award after huge turnaround with White Sox - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTW9INmc2WkpFM19jQ1JlRGkzSm84OWpfSHd5M01odml3VWVGVkNPaHRQemNnak55QnpSdmQ0Mll6RUY4U2I2VFRyZVpSRnAyMDJtWlMzS1ZLclFqbUxPNnFWTFBDLWl2WjFlRURrMUNzV2RYQzBTY0t3bDhxMk9XeHV2T0ZIZ01xRkxxT0g2TGJmb1dYa1R0OTNFSkVMNS1tTUd5RW9fQWFRRVRsY2xQVVFrakE2bmwzSTBEcnJtU0Z5UG5DMFNHZkY2WUZvNlhSLWpKWmZEa0NxVXR5aVo0WTlVOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-11T00:32:00+00:00"
+    },
+    {
+      "text": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+      "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-11T00:17:24+00:00"
+    },
+    {
+      "text": "Latvia, Lithuania warn of threat in airspace near Belarus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWx6TkpxdU5NeldhTTlsMTA2RklPdlVIZnYwWkZJcXVvUTkxM081UnROWUZ0Vzd0TUFwZFRQbWxLalNZUUszM3FldUlmSEpaemJLdV82NnB4Uk5mcjhMQ2h6dGVvWnpUY1d3SEc1UE9Zck1DVkVWbURmMG13VmM1R1RnNFYzT3lIOEt1TmtOdjA0bzB4MWtr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-10T23:55:47+00:00"
     },
     {
       "text": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
@@ -84,128 +84,128 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T20:37:47+00:00"
+      "time": "2026-11-10T23:48:02+00:00"
     },
     {
-      "text": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
+      "text": "Tennessee seeks to block Christa Pike's attorneys from inspecting drug used in failed execution - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzB2SXBuQ2FfU3JUWVhUOU5LWmpqc2F3TnlReTlPNWJWTVljcDJ3ZGJ4Z2lreHViOFZza01vR3cxMnhXelYyQzVtTHAzY3IxdEplVGV4OF9nV01aRzVtUkRieXdyeEtFVUE4MjlBNExzaTFtbHpqbGtaRkZTTF9iTDZfWjFKQ3MxWWJTSzZXd3JWTDloa25qa2FtSzZDX1dSVmloNWd4S3FoQQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T19:55:19+00:00"
+      "time": "2026-11-10T23:25:00+00:00"
     }
   ],
   "col2": [
     {
-      "text": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUJtNENyWm80blVZMUNHNFh2MXpxTmdMSnhmTzF5a0t0NUxWNjJFZ09ZejRoay04MzMwallkZ1hBV0ZRSGVoRG80V0xIcURMcnhyc2Y4VUM5VW9CX2RtcFdDTzBITF9FbnFMWG9SWVNVT2xXM0M3YVo3cUxPVmF4ag?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T21:19:29+00:00"
-    },
-    {
-      "text": "Colts agree to trade WR Josh Downs to Chiefs for fourth-, fifth-round picks: Source - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVlncDA4eFkyOWljNDVnZXhxa04xVFlkdlVlMVdBcjJ1bWI2ZnRvTFhpdzg5SU9ybTBtOVRBZ2lURkxwS180RWt4dUgxdnBkUUEzM2RqaWJYMVBEYWV4c1hyTzZOcXRkWHByeWI5WjFWS19iRW1FR3M4djR5ektHQzNxTGYtN3Z0WkE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T21:02:44+00:00"
-    },
-    {
-      "text": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
-      "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+      "text": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
+      "url": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T20:52:45+00:00"
+      "time": "2026-11-11T00:46:46+00:00"
     },
     {
-      "text": "Amazon and Google Will See Big Paydays from Anthropic IPO",
-      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+      "text": "Bessent Is Moved From D.C.-Area Home to Military Base Amid Iranian Threats",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T20:39:56+00:00"
+      "time": "2026-11-11T00:31:56+00:00"
     },
     {
-      "text": "Report: Despite multiple offers, Colts will not trade Jonathan Taylor - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDNMNFhyUC1ISnFGbTFFY3F6WjgtbTZPNXQ1V1lxVVdELXBKdVgxUFhiT2h6aGtaSmx5Ui11VUpKNVZjLS1McjRnWENXQzh6aG1YQng2RXAwcE9Xd2ZkUHBVOWVva2ZaWW5vanJaMkN5QWdNM3ZvZDFob29wSlZfekJFQmEwZS0zT1VzOTdQdEhRM1ROS3RFS1hMdVpkeEQ5eExCa2tfT21abEpqLWhZY19RZ2dyelpjV2J2c19ybEozSG1sTEFrOQ?oc=5",
+      "text": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-11T00:16:01+00:00"
+    },
+    {
+      "text": "Kennedy family seeks to block construction of Trump’s arch - Politico",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zeEJqQ0NHZGVEd0JFT2FhMnlia0JXOUk5Vks4ZWp5T1RpRUtBYXBXQ0dERkRvQ0xzMXQ3LU9ES0R0eEI0NmdITGg2UUlGbU5wVEFqeFhPazdpWl9VRUFUbTEtOXJMdURheURjSkR3NHlmV0E1?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T20:20:52+00:00"
+      "time": "2026-11-10T23:55:00+00:00"
     },
     {
-      "text": "Gilded statue in DC mocks Trump for ‘dodging’ Vietnam war draft over bone spurs - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2Z5UW1qRW05dlpaLTlsUm9xN1czUTBuLU1wanQ1ZElXRkJWMXFKN09sTm00dTVtTHBGUW1ncXVGT1d0THc2SnJDWE5zUFRZNWtEeGFVQmJzMnd4UmRtQWxnUkkyaGFsUVUtcGQ0WmxlUlpkRHBKTUZXWThwZ2JBMzVIVlp2X1dkTi1wck5R?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "New Research Compares Long-Term Relief From 21 Antidepressants",
+      "url": "https://www.nytimes.com/2026/11/10/well/mind/antidepressants-efficacy-work.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T19:54:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-10T23:30:23+00:00"
+    },
+    {
+      "text": "Representative María Elvira Salazar Wins Re-Election in Florida",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-10T23:24:36+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-      "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+      "text": "Republicans Turn Back Effort to Impeach Hegseth",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T21:12:38+00:00"
+      "time": "2026-11-11T00:43:15+00:00"
     },
     {
-      "text": "Stock Market Today: Yields Jump as Inflation Comes in Hotter Than Expected — Live Updates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAycGFzVmI4Q3NSQ2ZMTC1DdDR0M2R3SG1OZm1DMHZ6OG9qa3dJUllpSThRa1RlYm5uWGZrVDE1VHJZU0xJdlBFRWpZSnhzU2hUMlJ1UDdJXzFxamNqTDE5bkgwUXowRV9JdUhyckdOclgyMHlaZFE2RlZR?oc=5",
+      "text": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemcxaS1wZzZyUGhITkh5Unh5cnVndFpLa3cxc1ZwLUxVeDFmUVBjREdnVlU2NFJIMWxhYW5OX243TVhJRUVCeXFFY0ZrelJWVzMyLTJ2R1BVUnQySmtsck5xWWJNUU5RX21HMHF4bVNBMERHSGxQWEppbnJVay11dDFCb2c?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T20:59:00+00:00"
+      "time": "2026-11-11T00:30:25+00:00"
     },
     {
-      "text": "Alina Habba Mildon Loses $50 Million Contract That Enraged Trump",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
+      "text": "Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T20:51:05+00:00"
+      "time": "2026-11-11T00:11:51+00:00"
     },
     {
-      "text": "Republicans return to Washington to sift through wreckage of midterms rout - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hORHBQT2hsOVhualRUcTQ4ZmIyNHgxU2RHZ2c3aTNJRlJoNVpqb2NLbGpab1daX29ZbFRRaDFxbUZXOWNTQnkzTWxreVJJMC1sLXNmOVgtMGdsR2EtM3c1OGtqUHFTZk9hRXpuVm5sNzRMVlYza0RpdTZVbm1TdTRjZ3owcGxZcS1SSXRnVVEyd0QtZ09iUi13?oc=5",
+      "text": "Scoop: Commerce Department received national security warning on Nvidia CEO affair - Axios",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-10T20:39:00+00:00"
+      "time": "2026-11-10T23:48:33+00:00"
     },
     {
-      "text": "House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader",
+      "text": "The Evening: House Republicans Shelve Hegseth Impeachment",
+      "url": "https://www.nytimes.com/2026/11/10/briefing/hegseth-impeachment-inflation.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-10T23:26:57+00:00"
+    },
+    {
+      "text": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
       "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T20:15:22+00:00"
-    },
-    {
-      "text": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
-      "url": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-10T19:49:44+00:00"
+      "time": "2026-11-10T23:21:54+00:00"
     }
   ]
 }
