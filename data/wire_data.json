@@ -1,158 +1,129 @@
 {
-  "generated_at": "2026-11-12T20:23:35.757242+00:00",
+  "generated_at": "2026-11-13T01:24:42.850337+00:00",
   "lead": {
-    "text": "When Bernice Gottlieb Visited a Community of People With Leprosy",
-    "url": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
+    "text": "What to Know About the Deadly Building Collapse in Brooklyn",
+    "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
     "source": "NYT",
     "lean": "left",
     "topic": "top",
     "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-11-12T20:15:33+00:00",
+    "time": "2026-11-13T01:23:00+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-11-12T20:10:49+00:00"
-    },
-    {
-      "text": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "lean": "center",
-      "topic": "world",
-      "sourceNote": "UK public broadcaster.",
-      "time": "2026-11-12T20:09:16+00:00"
-    },
-    {
-      "text": "Nvidia live updates: Jensen Huang had ‘intimate relationship’ with second employee, Reuters reports",
+      "text": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
       "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-11-12T20:08:23+00:00"
+      "time": "2026-11-13T01:22:38+00:00"
+    },
+    {
+      "text": "Column | Jensen Huang’s leather jackets are juvenile delinquent drag - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2dPWm9iR0M5NTN1YUw0a3Y4S2xXdjZOOXFhS3d5am8wQm5MQWM3RHlCV1o4ZGhseGZHb0tZbVJRRkFzdjhUSE4zYW9feFZVZHZURjYxNWJEbGpyQjZtSmtTRHpkWkVvT2RZcGdoMzJHZlJQNm9maXg2QTFzVC1Rbmk1ODhINWlhMzZlUGpfejBueW9lZ19tTnc3bEpBVnBoRDB2SkxqSGhmVEk?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-11-13T01:17:26+00:00"
+    },
+    {
+      "text": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-13T01:12:10+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Why 2026 Midterm Polls Underestimated Democratic Support",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
+      "text": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
+      "url": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T20:00:06+00:00"
+      "time": "2026-11-13T01:11:13+00:00"
     },
     {
-      "text": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-      "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T19:50:28+00:00"
-    },
-    {
-      "text": "What to Know About the Deadly Building Collapse in Brooklyn",
-      "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T19:38:50+00:00"
-    },
-    {
-      "text": "Takeaways From the Times’s Report on Aviation Safety",
-      "url": "https://www.nytimes.com/2026/11/12/magazine/safety-air-travel-takeaways.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T19:31:08+00:00"
-    },
-    {
-      "text": "Gunman dead after killing 1, injuring 4 in mass shooting at gym in DC's Logan Circle - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUZMUGh2T1VCZnAxNUwwX1Rjb1ZJR1FaYllSMi10N0FwX3VTRVBBMFl6Y3J5U09Lb2tGZnl4eHlCekhBRmdFTE1XeUNyRG1NZzFVMWp3XzJYOEhWOVBuT01qTjMzblF6U3pNTVdIRGZRams5WlJjbUp0T3ZXYlRVOWNSdjBsakFWVEFLU3lSbXhkb05lbzFWSDdCdWtUdF9sbG05cmxmSndwVWxEa1dEd1AzVUw0alA1?oc=5",
+      "text": "Brooklyn building collapse in Flatbush live updates: 2 kids among 8 dead - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-12T18:56:34+00:00"
+      "time": "2026-11-13T00:52:00+00:00"
     },
     {
-      "text": "Will the Supreme Court Thwart Congressional Investigations?",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+      "text": "Wolfenstein 3 announced - Gematsu",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2ekpMUHZsNzZKYlhqTko1TVBkdTFuRGwtZDFVT0tyNUN1RldnTi1TeHB4bDBYamJZNzJBMkdtVXBCTXA0UG5KcXZaYVZhdGhyQmhXS29YblpNMXI5WUpPVDhRSzgxQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-13T00:07:59+00:00"
+    },
+    {
+      "text": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T18:27:09+00:00"
+      "time": "2026-11-12T23:40:45+00:00"
+    },
+    {
+      "text": "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
+      "url": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-12T23:16:10+00:00"
+    },
+    {
+      "text": "California Could Face 50-Foot Waves as Storms Slam Its Coast",
+      "url": "https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-12T22:53:25+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Dementia Stole His Mother’s Memories. Can Sound Help?",
-      "url": "https://www.nytimes.com/2026/11/12/opinion/dementia-memory-alaska-wilderness-sounds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T20:00:06+00:00"
-    },
-    {
-      "text": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
-      "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T19:45:26+00:00"
-    },
-    {
-      "text": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T19:38:36+00:00"
-    },
-    {
-      "text": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T19:19:40+00:00"
-    },
-    {
-      "text": "Outlook Outage: Microsoft’s Email Service Goes Down Nationwide - Variety",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaEtHWFJiNU9fN1RIckNiYW5rNVdYZkFXdUZJZnZVYVJ4M05paHNzekJER3ZuYnFxeHRnYkUtSDIyM0w3dVp0WnI2c2FVRklIRjhNSEJDRFZ3b2hDTTBrcGliT2lJVV9weDhtZV8yWlN6VDN1QWg2SF95aVFwYWtPMnBjYnd0OWhFekpKWVdn?oc=5",
+      "text": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-12T18:39:00+00:00"
+      "time": "2026-11-13T01:11:12+00:00"
     },
     {
-      "text": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNUsyR2FaTnJ1UjdrekgxZGNjWjF3R05FdlByUGNBMTNTVEZScENmZ21RQzRpcXZzc2pxa0NqZGc2WGt6UVIxZF9uSTlSa3RGeGdhZDdKQlBsNEY4Z1c3NlRGMDFsR1g2NVNPcTlPTEY3SDZyMDBtYVFjQ2JkOVA0TmMxREhjSkg5ZXFaenJ6OUdwLTJ3YWMwcG4zTGZhNUdISlZEcFQ2cFdYN0QxRG05SjQ1RTJHZzg?oc=5",
+      "text": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
+      "url": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-13T00:28:09+00:00"
+    },
+    {
+      "text": "Tim Scott summons Jensen Huang, Howard Lutnick to testify over Nvidia saga - Politico",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVVlT3dQNFpTWkczTy1LZlpDYjM4QUF5ZGxYcktzTTJPcEdiVFgwdEptekJFYW11YUJjd2UwWHhOX09paTVsbnk3NFNNZEdQYjhlNDZ3eWJZSVRncnp4R1NQTVBzRmdkWW1MdGRlbHNYeUpHaXpyaWFqNnNnSE1BTXc4MnAzOWR6WHdaXzFFQ2Z1dWFQOHFKM25XQVByWVV1cUFkTFpBV1FsdTdIMXFLZUFIdF9YaTRFam1fWHhLZ0lFbEhfaFFjcjk3V252UnpOTm1EeG12aw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-12T18:20:00+00:00"
-    }
-  ],
-  "col3": [
+      "time": "2026-11-13T00:00:58+00:00"
+    },
     {
       "text": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5",
@@ -160,52 +131,81 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-12T19:57:54+00:00"
+      "time": "2026-11-12T23:30:33+00:00"
     },
     {
-      "text": "A Frantic Search for Survivors in the Brooklyn Building Collapse",
-      "url": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html",
+      "text": "In reversal, American Cancer Society urges prostate cancer tests for all men - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGc2X2ZZMWhMTUppcFJodEt1Wk9qMTdJMHZMREpzaHdMZy1jY0RBTEhmYTI3VFMxTmk0UnpCSUtNXzkzRjJkXzJxTTF1akVlMDVSc0lQVUNwNHgzaGEwMmJPYUtSeWlvY0VqNWVMVUxKaVhrdzlYUzhMQmwtc0N2REpkM2YzalZ4QTg0Y0pOWDB3OFdKUXh0U3hfd05WV2R3LThQVmJjeUtNMlVId01Fcm1nVTFHUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-12T22:59:51+00:00"
+    },
+    {
+      "text": "Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0pOVlgwWnNYaGdxWDBWa1NFd2k4VmNHQ0liSzRNd3N6Q1dVQ0xoSk0tY2ZiVGQ3enloTHhoZTlFUjAzN3pLVk5JaWU1M3Z6bWhiVy1GcnNoQU1PZ3BxNkxYSG9Jd0hNUDU4aWxkN1BZUDdkbUU3OHJqeW5TUTlIVGRaTWpHc3RpVzdtUDRUVQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-12T22:52:49+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Cubs' Pete Crow-Armstrong, Astros' Yordan Alvarez unanimous MVP winners - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEFydXdWWlM2RlVKTk1CT0lVaHhubDFNdldWcmNGMHB4ellXb0lSSFZPd3VxRnlFc2RrbklJN3BsUVZxU0x1NGVKTnlYR2xvQldQNFpmZEtOcWpzcHpKZVhKOHFURFdnMXB2SFpDWW9rS1hvT1k4ZDNPd3AycHExX3RGVUdUMlVKU1FhSnJLXzd5VVZGbEVqdUNGaVNRWXl2MEJrYWhBQi1qQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-13T00:55:00+00:00"
+    },
+    {
+      "text": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T19:43:09+00:00"
+      "time": "2026-11-13T00:25:08+00:00"
     },
     {
-      "text": "What new prostate cancer recommendations say about who should get blood tests - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVdSUTJlUDVicDI5LVVMODd0bTdnWkpsSUtFSzRnNkx3dV9kZ1lvUDQ3UXJCbERURUszWUVPSVpiMm5iY2s4Y1NDczdQYVBYdFZHTGFTQUVEZmZKT1F0MkdMMGR4NXZRcE9iTlo1N0hTdUNpMFlwWk1odmlMdmg1OG9nY0lqejA5cmxTLWNCYXQyUjFVVVhDS2t6dUZlbl81cXA0NE9YZnVibkIzMjdoM292NUFxSnozdEQ2cFNvcTU?oc=5",
+      "text": "Live updates: 55-year-old gunman identified after 1 killed and 4 injured in DC shooting - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxRDBQN3NNZV80TkVLTktzU0V2VzdEYVIwNWRqYkhsd1lZYnRCVkxSdzZzREg0cHVPVjNLSmxwclBxRERaR2Vwb1ducldyWDQybzdfZ2M3M1R1dFBBczd2ZFhESjFEd1BaU3IyWmJhSVRDbHdt?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-12T19:32:43+00:00"
+      "time": "2026-11-12T23:57:00+00:00"
     },
     {
-      "text": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-12T19:04:30+00:00"
-    },
-    {
-      "text": "Brooklyn building collapse in Flatbush live updates: 8 dead, 18 hurt as search goes on - ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-12T18:30:00+00:00"
-    },
-    {
-      "text": "Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html",
+      "text": "I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.",
+      "url": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-12T18:18:11+00:00"
+      "time": "2026-11-12T23:26:55+00:00"
+    },
+    {
+      "text": "Mauricio Pochettino to sign two-and-a-half year contract at Manchester United - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWM3dDFyQjM0YnhlNld6d1Vfd05wclh3SHJEOUlHOW9EOE5oWll3NmlMTG5MMUtnb1Z4ZDNZSkVnRU9HcHNDZ0hqMjl5MkFmM083ejRJWkJpMldwMGVpWHFJMl9Bck9MbnVwckZBNXNZRHdHdndlR1lUQnA5cWtIeU1Jb2Zhd2ZmVFdGVzd3V2JsejhrU1RhSmcwZVZhczU3RGhsQlhWYzZnQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-12T22:57:43+00:00"
+    },
+    {
+      "text": "An A.I. Titan Resigns",
+      "url": "https://www.nytimes.com/2026/11/12/briefing/nvidia-ceo-resigns-brooklyn-collapse.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-12T22:42:57+00:00"
     }
   ]
 }
