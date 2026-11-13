@@ -1,211 +1,211 @@
 {
-  "generated_at": "2026-11-13T16:45:34.845320+00:00",
+  "generated_at": "2026-11-13T22:28:29.913721+00:00",
   "lead": {
-    "text": "How Apple became the safe ‘Costco’ of tech. Bernstein says keep buying",
-    "url": "https://www.cnbc.com/2026/11/13/how-apple-became-the-safe-costco-of-tech-bernstein-says-keep-buying.html",
+    "text": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
     "source": "CNBC",
     "lean": "center",
     "topic": "business",
     "sourceNote": "Markets and business news.",
-    "time": "2026-11-13T16:41:27+00:00",
+    "time": "2026-11-13T22:28:19+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "source": "CNBC",
+      "text": "Mullin: No indication of 'nefarious attack' on FAA as DHS investigates root cause of telecom outage",
+      "url": "https://thehill.com/policy/transportation/6219936-mullin-faa-telecommunication-outage-ground-stop/",
+      "source": "The Hill",
       "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-11-13T16:38:33+00:00"
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-11-13T22:27:18+00:00"
     },
     {
-      "text": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
-      "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+      "text": "Lutnick in hot seat over Nvidia-Megaspeed scandal",
+      "url": "https://thehill.com/newsletters/technology/6219929-lutnick-in-hot-seat-over-nvidia-megaspeed-scandal/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-11-13T22:25:02+00:00"
+    },
+    {
+      "text": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
+      "url": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T16:36:28+00:00"
+      "time": "2026-11-13T22:24:47+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Microsoft’s Global Outage and Fixes: What We Know",
+      "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-13T22:19:13+00:00"
     },
     {
-      "text": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates - CNBC",
+      "text": "Live updates: FAA issues nationwide ground stop for all flights - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-13T22:09:00+00:00"
+    },
+    {
+      "text": "Search and Rescue Underway in New Orleans After Cargo Ship Crashes Into Riverboat",
+      "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-13T21:48:48+00:00"
+    },
+    {
+      "text": "Hakeem Jeffries Pushes to Lock Down House Speakership, With No Challenger Emerging",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-13T21:28:36+00:00"
+    },
+    {
+      "text": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
+      "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-13T20:21:44+00:00"
+    },
+    {
+      "text": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-13T20:09:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "River cruise boat sinks after crash - 'Zero people unaccounted for' mayor says - WWLTV.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWlV5cmhJOU5MaGdXMHM2aW5oV3poX3g3dm9wQjlWbFo3elZoSnpmQ0dWOU5JWnBpZ1FWQzVGSkg5bEx1a011eWxaMTg1RE9zMkJJUXU0TldfZ1Ixa3QtbXB2UVd1WEVEYTJXMV8yNUVOUGpfWENYdjRHM1Z5SnJoVkhvNDF1VmpVMndDa0kyRzUtQllfbHg2Skpia1pXWjFqd2hNQ25WeGNyYkNFcUR5VHpQNVJmbnFJLTJqWGh0UW5DaU85MXRhNzhQODUtckdqZk45cGlnTHY1N05mdnNudmVqSWNidXh1YjFZWFI5YTc0TW9rT24ySEpkNTNmczg0X1RmTnBiaEo?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-13T22:18:45+00:00"
+    },
+    {
+      "text": "Inquiry Into Brooklyn Building Collapse Expands as Families Demand Answers",
+      "url": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-13T22:08:24+00:00"
+    },
+    {
+      "text": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
+      "url": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-13T21:31:49+00:00"
+    },
+    {
+      "text": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T16:35:00+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-11-13T21:22:00+00:00"
+    },
     {
-      "text": "Jensen Huang’s Fall Is Bad for Nvidia but Good for America",
-      "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia.html",
+      "text": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+      "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T16:30:07+00:00"
+      "time": "2026-11-13T20:14:05+00:00"
     },
     {
-      "text": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
-      "url": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
+      "text": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+      "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T15:45:40+00:00"
-    },
-    {
-      "text": "Microsoft Says Outage Disrupting Outlook Is Improving",
-      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T15:30:08+00:00"
-    },
-    {
-      "text": "Brooklyn D.A. Opens Criminal Inquiry Into Flatbush Building Collapse",
-      "url": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-flatbus-building-collapse-investigation.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T15:02:31+00:00"
-    },
-    {
-      "text": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE0tUnMzeG95OWFMM29VYmF2S3lkTmZ0ODFqYmw0TVhzaXE5UE5OYkJVQzdGYlVka3U4aUNRZWIyY1JEUE1JNlo4LVFVb2tBLWVseFkySXNSS1JuZmJXS2pyVU80cE5hRDdYSHE5NWd5SGw2SFk0NlVOc2NtbFlzdHNhaHhPXzdXd2lUOVVBUjVqZWFqUkFwcWN3dHFleTE4VGZlVg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T14:44:11+00:00"
-    },
-    {
-      "text": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlNPelNpMlZ1dllCNWdFUHpZcC1wLXpVVjZrYjJyZkZqdFZCZWtpYzcwa3hvNmN2cXV5elZPQ3lXRFdwaXZFT3VhMkZDWnBHZ0ppVlVMM09vNENlQWI5ak9aZFpWSTBCdHJENEM5SXN3YnpLWnZnYk9KSnJPcjE1M1E3bXI?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T13:48:56+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
-      "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T16:25:12+00:00"
-    },
-    {
-      "text": "Microsoft 365 Outage Improves Into Friday—Governments, Airlines Report Disruptions - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWVISDJ1NlJRckhTOHRNTWFMcFZkUlBFaWpJUThsenljZlpJdnliSDV4YkFXMDhFOFF0aDZzZ2xrS18wc3BWZFdIR2lncGhjSW55ZERhUURtLUdUZU1LV2xnWXJocXk2ajBSbHMtcjE2S2JFRkRXZlZYLXBQbWVHSjBMZG96Z0ltOTBZeXd5SnpId2U2UndTdXp5RjRSRG50emRER195TlNDNlVNaHRHa3BKNEtqVnctajlTUnYwZG8zaVBEWnJ1ODdXVHhvbGY5?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T15:43:00+00:00"
-    },
-    {
-      "text": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, police say - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T15:28:00+00:00"
-    },
-    {
-      "text": "Even Scott Colom’s Backers Were Skeptical. Here’s How He Won in Mississippi.",
-      "url": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T15:01:10+00:00"
-    },
-    {
-      "text": "‘We Squandered an Opportunity’: The Christian Right on Its Election Rout",
-      "url": "https://www.nytimes.com/2026/11/13/us/christian-right-collapse.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T14:20:51+00:00"
-    },
-    {
-      "text": "Taylor Swift to perform at CMAs for 1st time in 13 years - Good Morning America",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWVmSnVGM3lqU21KeVJzSF9DdnZkX2lhUklxSWt0UUtIWk9YY1JBWm5QaEZqTXJHenY2T2ZNT0dUTDRIV2tRU2VpclVpZTVGNS1sTHltaWFBTzh1RkU4R2hNVVhrWWluTkNZbVZGRlZZU3ZhS3Q5UEtWVmVzNTRIUmFBd0tHUzgyTTdHUURTMmhWNTU3TTRrdm5IZE9ObVItalJFNdIBqgFBVV95cUxPV2NvV3ozMHpBUmFnYnlIOFBrdWozYWNVMU8tYUZMenM0WXdlMGxtTDdOZ0ZRRUZWdkd3ekpKMW8ycEJqRy1PbDNXV2lmelFvOUh3VzZGWnllYTkxdU15N0VCc21UQ2RzYzlxZXRuSEoxR0RHdHVRVERGUW52OXcyd0VhY2hOWWNWYXNFZkUzb3RZU2RSQW1faXJ0Ulp2eFJzWlgwMFdoNnRHUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T13:32:00+00:00"
+      "time": "2026-11-13T19:52:01+00:00"
     }
   ],
   "col3": [
     {
-      "text": "The unfolding Jensen Huang scandal: a timeline - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmJCYlR5dlhvNXJ2UlNrcHpZZ0tCNVZLVnBmUVB2X0R5NlNpMmRESDhlUzZiVXRUWlFYQ050RmRLX0xvRkRUdnJnX3hOSUc4RGItVXRCZDlmS05CWDZWMzRYbGhheTJxN0cwNEtNSi1KYV9wUEh0a2pJLUc2V00zTGJiUnZfZDEwQnNxNWhIc2Jqa1N6TzdvV1lEZlFPblU2UGhPZg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T15:58:00+00:00"
-    },
-    {
-      "text": "Sister June Carpenter, the Oldest Shaker, Has Died",
-      "url": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
+      "text": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T15:40:39+00:00"
+      "time": "2026-11-13T22:18:02+00:00"
     },
     {
-      "text": "How the Deadly Brooklyn Building Collapse Unfolded",
-      "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
+      "text": "Measles cases nationwide top 5,400 as outbreaks spread across the US - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-13T21:59:44+00:00"
+    },
+    {
+      "text": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+      "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-13T15:21:23+00:00"
+      "time": "2026-11-13T21:28:58+00:00"
     },
     {
-      "text": "ABC announces Sam Hartman is The Bachelor - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZERMNnNQN0FqMk1yc0hrOU5HZC04ekE1ODZRY2FkVWF1WDNUZUtPNTF5VHlOWkVwc1BJb25wck5ZQjZ1bjktOEhfSDc5V3FQUE55ZnlpQ1NXd1c3cDJUUmZ4N0VXdjUzVGJUYlY2NUkwMXR1OFVvX3JOaS1pWWtXcUczTTB6QVREdGtHODFkOGFQeW1rV2swR2x5M1czQlF1Nm9Rb01B?oc=5",
+      "text": "Microsoft 365 Outage Continues: Tech Giant Has No Timeline For Recovery, Says It’s ‘Deeply Sorry’ - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0ZWZFJCWmp3MUlFMFFrRExhTldkeEs1aEt2bVJDend6Y24yck5wUHlsNF9yNERkQWNsY25va25DMnpMWFE2QmtZVy1CQnlVMjZTNlBFM1g1ak5kWjJEclk2V0IycmFKRHg1RjU2M1RVaHhwTEJUM2hZa0FXaUZRWVRZd0tpTThCZkoxeTJxZERQSFZBb1M3SWptclpVVUVxUEtzSUFTMWxLcmM4VURJbXNCQ1NZQm9fTzBnOS00eGRiV2NRVUo3Rl94QnR2TnlfMGM5dUYxRmZuVDQzZzBWRE0zb2w?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T14:56:09+00:00"
+      "time": "2026-11-13T20:28:00+00:00"
     },
     {
-      "text": "The Motorola Signature 27 Is A Beast - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZSU85cFB0UDcyUmdJTm5xU2xRN3p6RnRQZnFhczA4WVUyTFNkRkNSSXVma2hQWHVrS01keTlsLUJvZlNfMkk0N0ZnNWxZOUpmbzlFdmdwVUYzUEFmM25tZXUtN1VzUWdoQW9fcFpVR0k3Zw?oc=5",
+      "text": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGRWMi1MNTdhajFaclo1X3VPazhLeXlDa2ZadEdMOUtLV3BUbUhqTi0tWFQ4bzliekwtOHk5Y1gzaGlrdktFLUZnSEJKRFJHZ1Y1RHpjT1NQM0x1M2E0MklYZUlUWm5qdGpUYnFydjc2bF9IRmVFcERtczFScWU3djNVSXdUQ3VCdkZfSl84NkdVM0RTbWo3QnQtVmJ5cHFDblJNMzdRWnREd1dyLUVnUng5RjUwaF81VUVkcDQxMG1KWk80N1ZGZA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T14:00:00+00:00"
+      "time": "2026-11-13T20:09:01+00:00"
     },
     {
-      "text": "‘Kindergarten Cop’ child star Christian Cousins dies at just 43: ‘He was full of passion’ - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUlJVHZVVlY4QmpIdFRrUXdaUTI3R3VpbGpJQmxkc0NjcnFpTExudndZQ3lvQVlVX1c2SFJHZ1hBcTFUcVQwcEhlbjlYWC1PWGtxMlUzQ0xsTndvSnpSY0JyQUlBZG81OHNwLU5XcU9rc1M5bzktLXk2YkNWeEF0X3ZzaVpmM2tFNlRTNldXQmo5LVRBMldDaGZyR0R3N2NwaEc3QlVn?oc=5",
+      "text": "Anthropic’s Dario Amodei ‘not super fussed’ about market turmoil ahead of IPO - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTd1OTNDQlBsYUpZU2JwcjlOQlZkc2t2b3c4ZkpubWc2Q0JqekxWSmVRaDJkeTRCd29uLUNXSzRrcDVUTnVHaGVrV0dpYVFNdHBtXzZjUWdZY1FrNUo4MGl1QkFZbE05ZmhhZmR3N01PX1Z1QTZDbFc3MmFnVE9teHBxVjQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-13T13:23:00+00:00"
+      "time": "2026-11-13T19:41:26+00:00"
     }
   ]
 }
