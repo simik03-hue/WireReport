@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-11-15T20:20:24.220084+00:00",
+  "generated_at": "2026-11-16T00:16:00.533857+00:00",
   "lead": {
-    "text": "Week 10 NFL scores, live updates: Travis Kelce returns after injury scare; Aidan Hutchinson feared to have suffered season-ending knee injury in Munich - Yahoo Sports",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSC1QalVTdWhBZVd2alB0Nk52T2hmWjdmTE00bXQ1THZWcTRtT0pPanVwQ2E3cXl0c3lUcXZyNUxGWE1HcDc1am1zYTJMY1ZRNTVlbjE2dWVoakhGd25GM2IyQ0FBMVE0VjNKZDNPUUlkNDhwNnpqSnFRUVEyLXJTOUVpdGQtQ1dJWnJzTW5wbFF1NkpGVUJGajRscHB3Q1VvNmYyNURRTUJmVXZ3T0FZR3FqOXVBclpYeVFucElIVEhPNU5oQWJwQ1ZYekUyeUFxLUE?oc=5",
-    "source": "Google News",
-    "lean": "unrated",
-    "topic": "top",
-    "sourceNote": "Aggregated Google News top headlines feed.",
-    "time": "2026-11-15T20:16:04+00:00",
+    "text": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+    "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-11-16T00:11:25+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "DeSantis knocks Republicans resisting Trump judicial appointment push",
+      "url": "https://thehill.com/homenews/state-watch/6221727-desantis-knocks-republicans-resisting-trump-judicial-appointment-push/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-11-16T00:07:49+00:00"
+    },
+    {
+      "text": "Italy fines Meta $887M for accessing Android users’ photos - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0EySlV6RS15bU1oSFBQY3FVX3BWR1gzcnNlcHR5aW1oSUVEN3Z0c0twekFTRGsxLUZ2b2wzYkVrUUctLVhhaHAyMndQTUo3aUVfZ0ZnVVRUR3V2Q3NCWFFTc1Q5bkpTeVRxclBnLW91SnZqVDhJNkJTaFRPOFVnWWQ0d0FJWFhCbmVKcHhBTWdyVXhjbFdtV1pGSDZfYmE1THhFcnVRTWN5cEhkTWc?oc=5",
+      "source": "Google News Business",
+      "lean": "unrated",
+      "topic": "business",
+      "sourceNote": "Aggregated Google News Business topic feed.",
+      "time": "2026-11-16T00:01:44+00:00"
+    },
     {
       "text": "Megaspeed Says Alice Huang Left Company in August 2025",
       "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
@@ -19,54 +37,36 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-15T20:11:11+00:00"
-    },
-    {
-      "text": "Breaking News: Six individuals remain hospitalized as Mississippi river boat crash investigation continues - WDSU",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXg4VV8tVHNzbkFhQnlTQWdIOENpOEItamppNC1CdWpSNGlnNTlCdlA0TDJBM1AxV1hIemFnajh0b0ZoWkVqdWZUR1g3SGRmMmp6N05aRElXcmxUT09kWjhQSkFFRVh6Ym1zV3ZsdGhZSUV2TWZsUFo0RHM2ejdrLXAzb3JHNWZIYmhGZE5n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T19:52:00+00:00"
-    },
-    {
-      "text": "Trump breaks silence on nationwide ground stop and demands more money from Congress - PBS",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T19:44:00+00:00"
+      "time": "2026-11-16T00:01:34+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle injury - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR01VdFRKelNxMEJfSURmWFBkWlYycldkdGU2ak40aHlYZlRCNVN1SnR6Sl9uMjliZ2FqRF84RU9HV3RIeDYwNExwQjRfeVVpSFdiSTg4Q3VtR0NoWkUtd3BNUlR0MGo4dmRrcVhLZ2FHNE83Z0Y1TV9ULTFaRzRINTlKUFRMSmxpZm5YZFRVN1UtZw?oc=5",
+      "text": "Kansas City Chiefs vs. Atlanta Falcons Live Score and Stats - November 15, 2026 Gametracker - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcUlRWVFrNGYwNHgzMnJ6RkxhLVlRUjhGUzNqejN0MWhrX3VSQnRzTGozcDNWSklfWVRjNXVnMEpYbUwxUXM5UlBqbGNwUy1vYU1nNTJZby1OdjdkYTJlZnV0Y25ULV9JcUxzclpjdzlBS3pHOGNN?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T19:41:00+00:00"
+      "time": "2026-11-15T23:14:26+00:00"
     },
     {
-      "text": "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites - Spaceflight Now",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXBwbWd2b0g0V3hIb3RLVTU4Tkd6M2xtSUNDUU5Pd1B5OW9rcGVMcXdiMnJKclpldzBIS0FsZlplY2tSelFyZldnQlhrd3FtOEZsWDRSYkJjdjNEWWFPVEdET0pPNHFjSEZUaFYyZTJCaUhGcC1PYkc3M1VIZDJGdG9WWHNsZFd1X0V1V1hFT1JKR2FmNnR0dXY2eWh5b0FEVTNVWFh2SjVSRmgtQVZPY2RaMXBfVTJhTzA2UG4zV05nd0dUZTFQVUtrNFhuMzlzbU5XOWF3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T19:16:59+00:00"
-    },
-    {
-      "text": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-      "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "text": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
+      "url": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-15T18:47:49+00:00"
+      "time": "2026-11-15T23:00:40+00:00"
+    },
+    {
+      "text": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS011eWdma2F4NjhqUEdkSG1FWTEycFU3S2ZxTXROLVE0ZlVja29ZWTJsOVN5TWtzT0tlVGRieVhsQWhGNDhieFB4QWJFLWViLTRxSzZGNjFVQjVqVnhwWGc4M1Azajl5RThiUzlfa2ZxbURlYmc0dUtYVG4xeUgzdDNzWk1mc2R4bHlIOA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-15T22:18:00+00:00"
     },
     {
       "text": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
@@ -75,45 +75,45 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-15T18:17:24+00:00"
+      "time": "2026-11-15T22:06:59+00:00"
     },
     {
-      "text": "Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M Bow - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORF9XTi1kQ0d0SkdCQmNHQV9KeHRZbnl0NFVNM2UxOGZoZzN3NkdLLUoxdDM3UEMxUHVVUW9kc3JjYmt4SnEyTHM1VDVHQjlwQWc0ZUM2SjgyOHMzYThDN0Zna21kU1VURlpKbEVKYjl3UFhVdGNJYTQ1Sm1tc2xodVU2Vmc5WnY5bndQazc4U282dnRFU0hSaWdKSHg?oc=5",
+      "text": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1BkLWlMbDFENjRVUFF4MHpNa0JXTEdmSVN6Zkh5LXUzREFPNktienNqRmRJRTFQWTRuY1ozVnpuUzhJRG5MY0FMQXRjV1IyNmJCdzJfalFYS1JEalRVTS1hYjg4STJUdldQZVBhOHpRWjNzeXIxS2IyYWM0bjVORkI5QUJJOXJGcWhJMUNUblJ2cmNxX3hz?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T18:00:00+00:00"
+      "time": "2026-11-15T21:25:04+00:00"
     },
     {
-      "text": "Throngs Protest Cuts to Czech Public Broadcasting - Newser",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRjJ0MVlxOHdVdUs5Nldxd3RuVFYxZXFUMklIMVlLSktPYm5Qd1BUc3hPV0ZQUUtIUUxCMllFb2FuaEd4QmN4WmhtODNHQnluUUxyTG1PX2l6MWs5LUNPYmg0Qm95QnpoTUNKeFp3TG5ucTZoWTlpZjUxU2c1UlNNdVYtTWRqOGJTMzdLSElMNXJqNWFX?oc=5",
+      "text": "Vikings pummel Packers 30-10 in Kirk Cousins’ return - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3BMajBIZ1V4eWpadW1ia18xeXNqT04ycWV5bDRKSHhVN2Q3ZGVhMDZDdlBULUIzck4weS1vMFhQY1ZzNkI3akhycnRIQlUyNVlRRFo1VzRyaWFVSjBaOGhkMTJwbW55TllFNVhpXzYyQTlGcjlYd0hvU3QxOF9fcXNBWS01RUpxWjU4REFmTGp5S2pLU0ZYeTlXQnNyS3RHSU82SGNzaGNUcUVlN0tFQXdoYw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T17:37:00+00:00"
+      "time": "2026-11-15T21:09:05+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1ZOWlF3ZUlxWGYyZm9kX3NnZUsyNEpjYXhKaWMxY3hPbnRvSlJYeHc3ak9lejRYcHdmWjB2dk54cmMweklHdXdpVDdmRm9yNE91LWJKV2VoUC16bF9sdzRTM2NhWk5MMnBROXJ2UHA2SU0tSDNpeEZLZkxJZGg4T1laVHUyU1Fid0dtYjQ3c0tHMFRsOVp3TndoeEUzaElUSkxVT3hlOGQyZTVPZDF3emxB?oc=5",
+      "text": "England's win over Spain is the statement Tuchel's team have been waiting for - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkg5NmxsSlBHblJIZzFpWWtrLWNaM01oM2E1WDF2OU9KRzNDUWRudzFIczRTaXJoemRmMEZBeXhOWGRZWFJCcThiZE1QbGFlbWVKekZKd2h1QkRWa04wQmYwZ0xVUkVKZzhyYl9DUmNWTVRVTV9raU1HbmFMUllZRWhCMWdiSml5Ymczc2oxYng?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T19:27:40+00:00"
+      "time": "2026-11-15T23:14:00+00:00"
     },
     {
-      "text": "Jensen Huang discusses comeback as Nvidia CEO with allies - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T19:03:41+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-15T22:54:41+00:00"
     },
     {
       "text": "8 Takeaways From a Big Democratic Gathering in Denver: Democrats in Array",
@@ -122,16 +122,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-15T18:46:52+00:00"
+      "time": "2026-11-15T22:10:03+00:00"
     },
     {
-      "text": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
-      "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
+      "text": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lSFBGZkNRM3dvVllFNU9qdlVUX2JNYkFsVVdwQzBwVkdTVUEtN01meG9lczg3WktsbnpKX3E4allFQno2cW5oR2xjbzhRNzNqbll0NGRfSUVEQl9CazNhYkVjQWJuc09oOTBhS2l3VHlzQmp0cE9yRGx5MWfSAYIBQVVfeXFMT0l4NkREMWJ5ZktWQ2FlRXpzS241Ynp3Y1ZGempMWWlUWmh0VllxNTRTS1VaWjktbDVWQ2E4d1cwUFowejJySnRxTmFaa3hmSDh5MF9lYkNXVS0zYkdQLUJaVFVIbW9YZlFQRms0cnE0UWpPOF85bGw4b1djZmJHVDViUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-15T21:36:00+00:00"
+    },
+    {
+      "text": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-15T21:22:37+00:00"
+    },
+    {
+      "text": "Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEtxTVNnWUVXRlAzQmltYXZWRl8ybFR6WmlKb05PQWxaaDBTS0hyMnp6X04wd3I2Xy1WUHpnRUYtUFgyNml2NTFVeDc1T1NfcDhaU0pWc1BoSGZFdU5MZE9PN3Boem90OW9udGpYOTRfTTltMGYtaDJQZ29xQWVQY2xZYjZydnY2SWc4M3JDY3U2X0o4RlAxaWxicXNIRklrX1FDYjhtaGZLSXPSAbABQVVfeXFMTjFLSGNkSm5LMVJtUlB2S1RmMzZTWHVpUVJNbDBmYmh1azE3NEpyY0lxWXlJMEF3UGJfOEtCUUU3bk9QUlZxeGZ4eWtfal9GaDRxVk5jV0ZsajFsRTR1RlV6Z0c3UEFjU1pObkR5VXZfRkhtZXJWRmN3R3plRmF5ZjMwN1UtYjdMZ3QtaDV2QmZYYmlBYmk4c2ZKancxUlVxZGpuUlNXdlRVakR6ZlJxd1k?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-15T20:58:36+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-15T18:06:21+00:00"
+      "time": "2026-11-15T23:02:15+00:00"
+    },
+    {
+      "text": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2NoVVlfcDZSM0Mtdm5fYVpFcXY0ZFdRNG1KNl9uNXN5X3NBLUl3Mjh3Z0cyWTduQUZEa2lCODhtREFzbmJ1cmNIc3VJbndxSGIyNlYtbkg4anhJNWVIaWlSUEt3RmRCSnBKSXpoYXJPVTBYd3ZYMTVCYXF6Rjh1QzR3VUpXejRDUWFuSEE4eDRMV2NsWlF0b05XOXNtbXQtYWxRSXlxUzR2SjlvVUd5eXpMVmctbVkwZGp6ZF9BUm5kX1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-15T22:50:07+00:00"
+    },
+    {
+      "text": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers) - NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0ZqcUFTSVpadGRRM3B6OU9XYnB3dHFaQldfb25mMjNJdnh6TU55eWpCRFQ1ekRQenBITW5fSWFBR1FoZWJNY0FPMkRxM2hrU2gtay1HMGJIRGxzZTBDa3ZGM2JNQTFvSC1oWUNmOGRBUFMtQ0FfSTdUU2lhcTRydUZVTGhoaWp2OWMxdmUzQ2J0dWpXLWJYemI0YXZTQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-15T22:07:55+00:00"
+    },
+    {
+      "text": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-15T21:26:18+00:00"
+    },
+    {
+      "text": "SpaceX completes first-ever spaceship capture - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEpuQmNMLUd4TWRNTkdFSngzaTFwTWFYcWJOb294Wl8xeEVDVjJuaXFiejVjeHR4WUo5OFhUeXlMY3E5Y1RJc0ktTnhLZ1d5MFVwNUVQM0FDV1hTMUtCSWptR2NiXy1TaS11b3BuYVJFQnR1SWM0bG51X21aRGV0ZjhvUC0?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-15T21:18:02+00:00"
     },
     {
       "text": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history' - BBC",
@@ -140,72 +205,7 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T17:57:09+00:00"
-    },
-    {
-      "text": "Iran launches drone attacks against US military base in Bahrain - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T17:36:00+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "How Jeffrey Epstein Grew His Sex-Trafficking Ring",
-      "url": "https://www.nytimes.com/2026/11/15/magazine/epstein-victims-recruiting-trafficking.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-15T19:18:58+00:00"
-    },
-    {
-      "text": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-15T18:50:24+00:00"
-    },
-    {
-      "text": "US judge blocks Trump’s plan to renovate historic DC golf course - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTU1hZmdOTzU0Z2o1bHlDb01wcDNMU3h1R1B4RGpiRm9PamRydUF4cjd3dkV6ZmE1WVp1MU1WZXU0N1JnUVlqbjFYUjE3RWFuRm02Q1hYSEtkWUw2OF9EcFhYUWk4Rk5janRtaDNTWXJOYVFqTnc0UHJMNThxQzV3NjFHV1dxdWJNOV96eE9zbDJmS0dWNmFkaG1PRklTVGZ1c05LNGVpaWlMaGFFVGs1aA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T18:18:00+00:00"
-    },
-    {
-      "text": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DQmFzTVNZOTlPc2xwQXpzQl9feENmQy02aGVrUTFPUjNGOExGT3pYeUJaRmpKdzlseGpUU3RMUWZNZktkemYxdDNmajBGOGdVMWxwUklvVmxaOGFZTEZZUnFocHF2cTk2aWd5TkhFU29DNWhndGZaQjlB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T18:02:09+00:00"
-    },
-    {
-      "text": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXdaYi1Bdk8xNl9lV2lRUG4zRHBYM3VLaHBHME0wZko0OTg3RGVNMEdrTkQ5NXBWM0IzWTVma25sakc4b2pzcTFUQ2dNNVMtSjJjNlN2d0M2cERPVGtBaHZrclN2LUlqWEw1YmpyRlI5MnZ3NzM0TmVxQ1lvN0dLcm80OUNMbmFxZTFxSkJB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T17:51:46+00:00"
-    },
-    {
-      "text": "Arch Manning delivers ice-cold quote after Texas closes door on LSU's College Football Playoff dreams | OutKick - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNzQ0STZKSWlaZ2o2enZYOHhCd3ZYaGNieXhTNkQzcmU1cG01YW05bXRMRG5Pa2V6VnExRXE4MnhDeHZJV3dTU3JHQTdkdU84aEpDMnpPdk1vX18xaGdjdk1JN1llYXZSUHc5WWYxWUFISFZJbU1QSnNSNUZWbXJmb3F5QXREbHFkTkIwY0FJalVMb3hsVkVHNUtFRGNIMzRoN3puaEs4Zm81WGJDbFA1VHRSUVE3NVpUS19nZUhBRC0ydGE5d21iRg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-15T17:17:33+00:00"
+      "time": "2026-11-15T19:32:39+00:00"
     }
   ]
 }
