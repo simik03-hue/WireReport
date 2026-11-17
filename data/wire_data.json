@@ -1,25 +1,54 @@
 {
-  "generated_at": "2026-11-17T00:49:47.106838+00:00",
+  "generated_at": "2026-11-17T08:58:50.577219+00:00",
   "lead": {
-    "text": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-11-17T00:42:33+00:00",
+    "text": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+    "url": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-11-17T08:45:15+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "United Airlines Flights Resume After ‘Widespread System Outage’",
-      "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+      "text": "Stock futures are mixed after Nvidia pressures tech to start the week: Live updates",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-17T08:39:02+00:00"
+    },
+    {
+      "text": "Late Night Flies High on the F.A.A. Ground Stop",
+      "url": "https://www.nytimes.com/2026/11/17/arts/television/late-night-faa-ground-stop.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-17T00:39:03+00:00"
+      "time": "2026-11-17T08:23:55+00:00"
+    },
+    {
+      "text": "Treasury yields are broadly flat as investors await retail sales data",
+      "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-17T08:23:51+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Trump heads to Asia ahead of historic talks with Xi and Putin | CNN Politics - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ25JQjBlM1VSNTUtOE5XcGJSU05pOThhUDRZTVdwUWZEYXdTcDNYYnNDcDRMazdqMUxHV0Z3WHlMem5DNklqVnhvOTlDOGJnYVp1eWdkN3RKUFZhNzI0Q0VIMW5sUUpaT2Vnc0xoRTVYZ0NWWjNWUnF2SGc2S1A4TDkzSENTZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-17T08:16:45+00:00"
     },
     {
       "text": "CDC declined to alert risk of measles in pregnancy. A journal released the data. - The Washington Post",
@@ -28,184 +57,155 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-17T00:38:17+00:00"
+      "time": "2026-11-17T07:12:34+00:00"
     },
     {
-      "text": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
-      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-11-17T00:37:41+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Major banking outage linked to Chase, impacted Wells Fargo and BofA - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbE1uWkpadldKMlExOEdaVWtQRm5TREQzUXlEMWNOQnBlanVHblYyV1lnRUlmc2NZMVNFTnMtN0tNVXZyOUJRRzVuYy00R29WYTdxd0hPNzZWVk5JcmxPcGpmampQVEhBRldteFdtRkNocUhFTzlyZEpINTJENmR3aGJoVW1LZFRQRDZkS0x5MTQxdk9PaXFXcF9OQjNEdnpCemc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-17T00:37:00+00:00"
-    },
-    {
-      "text": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-      "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+      "text": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T23:29:54+00:00"
+      "time": "2026-11-17T06:00:12+00:00"
     },
     {
-      "text": "An Intriguing Approach to Slow Alzheimer’s Shows Mixed Results",
-      "url": "https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T23:19:37+00:00"
-    },
-    {
-      "text": "Bessent Takes Hawkish Turn in White House Debate on China",
-      "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T22:46:09+00:00"
-    },
-    {
-      "text": "NFL Wake-up Call: From Sin City to Titletown, Week 10 felt like the start of a new era - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3VhT2Z5SXUzbUpnODlHQk9JeVVvYjc1blB0aUVvcDBhZDlVQUZ5TlpaZGRQWE1SMVp5emI3WE0xRjFMelFucFg4dm90eU5nMTdWN1BmS1Q4T0pNYjJhdDlRT2FHS2wyLWJHNVV3ZDV1cjZRMk1qUl9EMU9nTDNMTEl2NFEtdWRnbkNieFBZTF95NjQ?oc=5",
+      "text": "Leonid meteor shower 2026: When and where to see it from where you live - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWW1xeW5adXM1SlAyUVl5ZXg5SnNFdGdQV1FhRFgwWHEzZWZhdEVOMDR5ZlE3UjNsNHdlRklXZFFzZGtLTm1aVm9mVWFTcW1Ia3NIV3ZTNlpld1JpamZzeGl3U0pxZzJXN3JaQ3B4QXQydUZUVnRnV3U1NVNveGVhcDQ1V3oyVi1Ld3E3UGdDcktabFFvby0xOTFKTUZJQUpuc0lybXJOUVRHUEQ4WUZGR1JB0gG3AUFVX3lxTFBSWE84blFscDNhQzNBd0lwZXkxY01rTDl4Z3JhN21UdkVRcjBLb1NoQi0wQS1LUEJpX3o3bGhMNHNsWUdIU3NZLVJ2SzFEelZ3RDRad0daRnZucDNqWGpxbHVBRnU3YTl4aXEtbDVHYnBUU2Jub2tncmNnSEJEVzhZMGVWQUMyc1VXTWpiTEpjVzJKQ1hzS0NDcDBkZ2JrMXNWN1BUZG5UVDcybHl4UlB3NFE5N1AwWQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-16T22:31:54+00:00"
+      "time": "2026-11-17T05:53:02+00:00"
     },
     {
-      "text": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Trump Will Miss Most of the ASEAN Summit",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-16T22:25:20+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-17T05:00:14+00:00"
+    },
+    {
+      "text": "Trump Administration Divide on China Policy Breaks Into Public View",
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-17T03:48:50+00:00"
     }
   ],
   "col2": [
     {
-      "text": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
+      "text": "Trump administration moves to block China from indirect access to American AI technology - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-16T23:50:00+00:00"
+      "time": "2026-11-17T07:49:00+00:00"
     },
     {
-      "text": "Report: Aidan Hutchinson has torn ACL but no additional damage - NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSU1HOVM4cWZyaXZwb3V2SEFzalRCTGI3OXhKV2ZYVlozRWV1aVdiYUNrYmR3aDJKWFZJZ185WmgxZHUwTlJScnpGNkZOZzhZMGlHTDJRdTVlYXlTbllVNEVHa2xNVlNsZEJra2lzVUZVRXBxa0d5MWc4VmZXUV9Td3QyaG5UeVVLVmg3VDNpajZKcWliVmpQemtEdnRKcXJqSDdnOWtYdlZDS0RCeGlFcjNLUV9nWG9CNE56RlIwQUY?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-16T23:24:45+00:00"
-    },
-    {
-      "text": "Tucked in a Closet, Hidden by a Coat, a Lost Work by Georgia O’Keeffe",
-      "url": "https://www.nytimes.com/2026/11/16/nyregion/found-georgia-okeeffe-painting.html",
+      "text": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
+      "url": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T23:04:31+00:00"
+      "time": "2026-11-17T07:02:17+00:00"
     },
     {
-      "text": "United Airlines has a widespread system outage just days after nationwide ground stop - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-16T22:42:00+00:00"
-    },
-    {
-      "text": "Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports",
-      "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+      "text": "Trump’s Ego Trip With Xi and Putin Will End Badly",
+      "url": "https://www.nytimes.com/2026/11/17/opinion/trump-xi-putin-summit.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T22:28:26+00:00"
+      "time": "2026-11-17T06:00:12+00:00"
     },
     {
-      "text": "Trump Backs Calls for Huang to Be Reinstated as Nvidia CEO - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZFZHJxQ1ZMaW5Ba1V4bm8taHd4bFBvYUZHWFY4SFpydml5YUVhLTRCaEFsNG9TbjY1dl9ac2tDek1DemJ0M3FwQTNtQm5aNV83RjFsZEZTNmJ2WHRJRWtHUVRDVEdnTUJtSzlaMWZfSEU2anpRSmVGcG9SUEgxN3c1WG5UcVBkdG02bmsyQkxvNlVqeEV2SDFORlA3VGNHZnpha2EyQ3V5aDVIS1E?oc=5",
+      "text": "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHIwN2lBcDlldHBCekdRZ3c1Rk4yOGFXUkNwSVRPNng5TU1uVkI3a3dqdEwzaHZ4VFVaY2FUNUVZa3ZTUDRTTF90RTlmZFp6ZG5IMWZ1TDZUM2NCcVNoRWNpR19PU1MzSDhkT05uSFFBQTBuMTNXcEZlTUgyTHJtRUZqaEJzTjdfM2dNTGlRMnZEMDIzVnhwZVYxaWVxZ0IxVlJuSUpNRHBQQTYxREhsVXFMT09WUDQ3Y3J3QW1GYWs?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-16T22:20:42+00:00"
+      "time": "2026-11-17T05:25:00+00:00"
+    },
+    {
+      "text": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+      "url": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-17T05:00:08+00:00"
+    },
+    {
+      "text": "Ray Tintori, filmmaker and boyfriend of ‘SNL’ alum Heidi Gardner, has died at 43 - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakFwLTNKcDFRZWZVTzRwQWNOc3RBVnVORTNadHAzUEsxcFpaZGEtRUZESHFlU0QxSGlCZ2p4Mmp2d1NxaFRkN3UzVW94YV93ZGxOVC1GVG5zMnZOakJ4TV83eHJRbWlTUGdSZUtSMThhSHQxeHpvekdoa240d082djdnSkJoMy1WS0tsRXJOMGlDS010Q3JTUC14eTFZejkyaXp3MzJLeDNhRDZWVDMtOXV0U1JfRTdtcVVKYjgxNA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-17T03:27:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
-      "url": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T23:39:24+00:00"
-    },
-    {
-      "text": "What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028",
-      "url": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T23:21:36+00:00"
-    },
-    {
-      "text": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say - CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ?oc=5",
+      "text": "Japan scrambles fighters after suspected Russian military planes enter airspace - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmtCLVRFdzBjenpMLTgyYlNERFZYUHRJdVJxZ1FLcjg0OW5STExmTUtwMkppRU5lY1UycnJHV01jXzBCSWdVOFdpbURCYlNzRWtzeG1KT2JkMEgzbkVxX3cxN0V5bmJ4TUZJbGV0eUxvNTRDNUdEZDJ0YkdLb01ubTBSMDI1UUJGNmh2MFJmNzJnTDVmQWc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-16T22:59:28+00:00"
+      "time": "2026-11-17T07:43:34+00:00"
     },
     {
-      "text": "Chargers vs Ravens Predictions, Odds, Expert Monday Night Football Pick - Action Network",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGlNWnhBTUUwczhSOTJsTWxoUXVqQk9PWkIyaDdyc0ZBUDE3OFB5eDJhT2g2cm9zbE1RcXFPOWt6aUp6QXgxNGdjRTQ2N3J1Y0ZaWDVGX3BRMUZ0Ujg3SzV1Y1luV2F0SHVNdm5FZEhJNHdiRk1YZ0NtZ2p3eU5XZzZIV3NmQzVNNEJ6b1JPVnpLUUJxaDQyRk5PaEN5bmM1ZEZmcnBtdERKc2o3ZUM2R3IxMTZXR3VHbjlxUi1PRk10Vm5ZU19JSzZGR2Ytdw?oc=5",
+      "text": "‘Cliff Booth’ First Reactions: Brad Pitt’s Sequel Is an ‘Absolute Triumph’ and a ‘Wildly Entertaining’ ‘Love Letter’ to Hollywood - Variety",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWtuaV9tQ0VhdG9mcHJzeTFNRTFiVkV1NmpnRUNHbG9QM29wNFl1VEl5T0tvNXhZeWx4ZWdubVphTHQyT2c4TUZuZTVrOVVnNENhSktqbi1yZU14WHlBX3o0VDdpVkx6dDRCWjQ2dlBEMXF4RXo3T0V5eVJXbzk0WnU4THlORjN6SkZFY0k4QTBmUjlDUFBoT19mY3ZlZU5GRFhDbw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-16T22:35:20+00:00"
+      "time": "2026-11-17T06:23:00+00:00"
     },
     {
-      "text": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
-      "url": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
+      "text": "What if There Is No A.I. Bubble?",
+      "url": "https://www.nytimes.com/2026/11/17/opinion/ai-bubble-workers.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T22:27:45+00:00"
+      "time": "2026-11-17T06:00:06+00:00"
     },
     {
-      "text": "10 Numbers That Might Change How You See Asia",
-      "url": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
+      "text": "They’re Young, Frustrated and Want France to Change. They Disagree on How.",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-16T22:14:09+00:00"
+      "time": "2026-11-17T05:01:07+00:00"
+    },
+    {
+      "text": "Peltola expands lead over Sullivan in latest ballot drop - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQllDWGk0S2VIdjVoc2drVXg3NmNzMHBLckhVQlhodHg1TE1wNkVhdWhYbXQtQi13VURrbW00cXIzQ0VyRGFqaWRSS2UzdVNMeWg4M2ZJdVRrd2R3cldLRnhhSG9aYXAtUXB1a0FwRG53X2RmZG1OcDl3T1Bod3liUXhHSzJ2d9IBiwFBVV95cUxOZ1lOOXU5RVVyMHlBXzAxQWhlRjlMMzhBSGlTMXVWUnNrOHRlQ1dxU05ocTdWRzBTMWdyWGRFUUphcFFsd3lzTmRLQXBvM3lKRUVuajNTRmdaQklqMndxS2t2ZUZjb1dBeWF5b3prSWpueEtzN3hqNGlhWDJReFJxMnpSanBiX3owdnR3?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-17T03:49:00+00:00"
+    },
+    {
+      "text": "Justice Alito Warns Court Overhaul Could Threaten Judicial Independence",
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-17T03:14:39+00:00"
     }
   ]
 }
