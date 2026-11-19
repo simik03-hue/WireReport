@@ -1,54 +1,184 @@
 {
-  "generated_at": "2026-11-19T04:33:28.350393+00:00",
+  "generated_at": "2026-11-19T13:57:09.581704+00:00",
   "lead": {
-    "text": "How Nvidia Chips Ended Up Within Reach of China’s Military",
-    "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
-    "source": "NYT",
-    "lean": "left",
-    "topic": "top",
-    "sourceNote": "New York Times homepage feed, long-running and stable.",
-    "time": "2026-11-19T04:13:05+00:00",
+    "text": "Stocks making the biggest moves Thursday: Palo Alto Networks, Take-Two Interactive, Everpure, Walmart & more",
+    "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
+    "source": "CNBC",
+    "lean": "center",
+    "topic": "business",
+    "sourceNote": "Markets and business news.",
+    "time": "2026-11-19T13:55:36+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Trump says people stockpiling food, water amid outages should 'relax'",
-      "url": "https://thehill.com/homenews/administration/6229375-trump-downplays-outage-concerns/",
-      "source": "The Hill",
+      "text": "Anthropic IPO live updates: Dario and Daniela Amodei arrive at Nasdaq ahead of debut",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-19T04:04:29+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-19T13:52:35+00:00"
     },
     {
-      "text": "Elbridge Colby chides Ukraine's strikes inside Russia, drawing German rebuke",
-      "url": "https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes/",
-      "source": "The Hill",
+      "text": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-19T03:59:49+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-19T13:50:42+00:00"
     },
     {
-      "text": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
-      "url": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T03:54:30+00:00"
+      "text": "An analyst explains the ‘trigger’ that prompted him to sell every stock he owns on Anthropic IPO day",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-bubble-stock-market.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-19T13:48:31+00:00"
     }
   ],
   "col1": [
     {
-      "text": "National Book Award for Nonfiction Goes to Writer Denied Visa to Attend",
-      "url": "https://www.nytimes.com/2026/11/18/books/national-book-award-for-nonfiction-goes-to-writer-denied-visa-to-attend.html",
+      "text": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T03:45:08+00:00"
+      "time": "2026-11-19T13:28:12+00:00"
+    },
+    {
+      "text": "Anthropic IPO Live: AI Giant Prepares to Start Trading at $83 a Share - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeDVOTjRXeWFBVUVZcUZmTy10dmxlX05BNm5uZjJ0RV91NnJNQXBTcjBhLXNJUnNjVXlTb1BjSGtnX3BObzBUT0EwMmRIVVFJWnZ5UlpNd0otTTZQenFkZ2xIMmx6U2s0UVRucnRaNTdhcTA5clJvNEE3OUhaX0NTMkln?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-19T13:15:00+00:00"
+    },
+    {
+      "text": "Evacuation warnings issued for some SoCal burn scar areas ahead of storm - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcHhrVmlMRHBXWm9vcERDbmNqbmVLRVJQdlJiOG9nbjIxbDBPS3NnNU9FeXl1bEJNVUJpMzhEb3pPN0w3b25ZcV9EMlFkVDAyNUVhdFZXTnZRS2tES3BJb3c2NDlPV0ttSWk1OTFrQkhOQWFtc2FwYUNZQVo3UnoxY2EtM0ozRUE2ODRIMlZ5RTZyYzJ6VU5zdmFUVVFrblNVVGtVT09DTHlTamNpV0RPWEVveElvSmxDUUlKVkNLVUY3OTNCemZ3ZEVtMA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-19T12:49:00+00:00"
+    },
+    {
+      "text": "Russian nuclear-capable bombers leave Vietnam as Putin meets world leaders in China - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3lIcFN2a09wZThTbTlVaXI1bm82RmdVSnpwSWg2U0libFNLQXZzN2loWU5VQlc1b3B1YnJRU2ZxVGdaYzNjT1J6NDlFamMyNWRhRjZXUUtsY3l1ZlotWjdKTGp2MHJ1TGxwWm1GcDBVRlhKcDRROFRvUUNYY3BmR1YzUHVfNjFjbjR6akpTbFMxdkdYTDc2cEdESHdzWm1tR1dwUC1ha3QtZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-19T12:33:00+00:00"
+    },
+    {
+      "text": "Danish lawmakers approve a security deal with Greenland and the US, hoping to finally end tensions - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXZ4T0tGUlE3by1Sd0FHU05tLW8wa1pYYWdjczhsM1NNTDh5WVVLRk4yQUhmRTR1LVpRdFBSSUpDUE56Mk5aUE5fNDNQY3lFUWtGQ2ptV2d2ZG43MWhGdjNTS0RpVXNJT1RXbm9NRjJNeU0ySmhBdXAwQUgzeVBGWDZtaTlSRW5TVTNPX3Z3SElOV3psNEpSOFQxeUR4V0llbS13dVlCTzc1dnVzaF9tZg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-19T12:11:00+00:00"
+    },
+    {
+      "text": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkZPZ1NQdzRHNmY2QW9yNHduLUNyNWM4bUJLZ2tuZWxlZWlGZDhTUGNQS0lHX08xS3doNjRlNGlZaUgzeGdUQTZseVpfYmtuaWh2UEptRGlKX0hwc2FYWVVmY3hmZXJRVGZxZnpva0VOS3Z0VXlTNjVuUXQ3eGdMZHllTWg2TjBVSGVfMDl3U1JOS1E?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-19T12:05:00+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Three MAGA Women Who Defined an Era in Congress Are Exiting",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/three-maga-women-who-defined-an-era-in-congress-are-exiting.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-19T13:27:13+00:00"
+    },
+    {
+      "text": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WV1BxNmRrQUFiOTMxd3laUEdOa2I1dzNZZWlqWnFfQW5ic05OSTJuYjhFTkpIMUprN2tyeWlEMGRmdWJEallEUVRjSnpzcXdEbTl5SXdFZEZtVWM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-19T13:07:35+00:00"
+    },
+    {
+      "text": "What to Know About the Myanmar Genocide Case at the World Court",
+      "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-19T12:44:49+00:00"
+    },
+    {
+      "text": "Boston’s Beloved Citgo Sign Returns After Rebuild, 30 Feet Higher",
+      "url": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-19T12:21:58+00:00"
+    },
+    {
+      "text": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-19T12:08:19+00:00"
+    },
+    {
+      "text": "Ella Langley sweeps Country Music Awards as Taylor Swift performs with Keith Urban - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZzVrQTVmM1R3ZUpBOEU5aHZ6dGNmU0NMeTNfaXRoRXN4cHpwYzNDZkVKZnJUcWVCYjBJTGNRQTQ2d09aLURkWm15cDR2YW9uYU5qVVpCWDZWUFU?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-19T12:01:35+00:00"
+    }
+  ],
+  "col3": [
+    {
+      "text": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-19T13:20:40+00:00"
+    },
+    {
+      "text": "How the War in Iran Will Remake the Global Energy Order",
+      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-19T12:51:17+00:00"
+    },
+    {
+      "text": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-19T12:41:50+00:00"
     },
     {
       "text": "At Gloria Steinem Memorial, Michelle Obama, Hillary Clinton and More Big Names Gather",
@@ -57,155 +187,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T03:31:11+00:00"
+      "time": "2026-11-19T12:20:02+00:00"
     },
     {
-      "text": "DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’ - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYjB2UXJGcEo1ZE0xNVhkMHU4VnU5NmNYWS1NUkRhYWVhdFdTSTRMNlUxcFRuVlF4VHVQSWVlZzR5VjNOOXZQdGR5R2lzVUM2aWZ2aVhhRkVxZDVVVzhJTTkzU29HeUVtOUxpcmIyN1lDdnFqb1ZvYQ?oc=5",
+      "text": "Walmart beats Q3 earnings expectations, raises 2026 outlook again - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1pWZE5rMzd5cjBVY0hWdU4tdVhHUnBfeUdQOWFPWDFyRVNmQXprLXQ1dHlSOFE0OFdvV3l2NDd6czJNSXRSS1ZIS3VDME9WYzRqQjMwWENnX1JkM1Q3bnJBSGRUWHctSm1pNEVpSlJuSU5Hd0JPYUFBVk9QaG9QOWh1Q1lUUXhxblNQWjRlY0E0eDREWXVMX3E0SzlqdkdGdUtkTGlKQXNuc1o2YjQ4bFVvb1kwa1ZVZWQ3d2s3MzRoX09qUnRZ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T03:12:43+00:00"
+      "time": "2026-11-19T12:08:03+00:00"
     },
     {
-      "text": "Musk says Jensen Huang is irreplaceable, regrets midterm spending - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IZzFuTWNYdk9Ic0Z4cGxSR2pBcVB1a0hMUE1icWUyYnNrYzBaOEphTmcwcDlncDJsZG5lY2Rjby1KOGZrU2liaGxNOGhPZlctcm5pOUFOeG1ZbTBYeXRjV0NZbGJUS21RbE5oYkhwYk5vSjQzdVFV0gF8QVVfeXFMTjBQalZjdEotUDUwTXJOOTdvUi0xcExrZUlNUkEtLWprdGhIdHUxb1ctUVRkaXFVczg3UWJJaC1Nalg5cW1KS2x3LVpydHMxejlJUEJYZWZiUWxKSzB4SXJSUEJEVFBJbkVqTno0STl0S2V1VDhDbEFnb1FLZA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T02:37:00+00:00"
-    },
-    {
-      "text": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
+      "text": "The Biggest Video Game Ever",
+      "url": "https://www.nytimes.com/2026/11/19/briefing/grand-theft-auto-vi.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T02:06:56+00:00"
-    },
-    {
-      "text": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazk0b19YRzZMSjFudnc5Nm4xLTNNMjQ5RDBCRDVuZjBYZzUtdzRMOGpsT1hob0lqbGNDR2hwREJGeUh6UWtGTTgxLVFmVXB4d0JWWTN4eTBqRU54VDcyTEVrYm5xdmQ4cGpLc2F3OVYxOFlrQW5Ga2ZwSEoxLTFVVTdnMUFpa0V6ZjFFSDNNU3g5VkxFeU5jbGxpYW81UDBlSk13WXMyZ21tdnplTFY2cXNvT3NobFhCVmE0?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T02:00:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
-      "url": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T03:42:19+00:00"
-    },
-    {
-      "text": "Alaska Republican Narrowly Defeats Independent House Candidate",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T03:14:27+00:00"
-    },
-    {
-      "text": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T02:54:47+00:00"
-    },
-    {
-      "text": "More than a foot of overnight rain in South Florida causes widespread flooding - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTkg5cGFfNHFJYW16d2xvamk0X3lHR0M1NE1BLW5TU2F5cEoxT2dOZ3VpWGF2N2Zab09OaEVGWXcwZVc4Ni1zM0ZwdFFhWVZVRlk1dFNvU1JhYWYzNURRWFNtNmpPNzctX200YUx5S1BqUEJhWmhBb1lWNF9yUGdzNWdRMHltMHRtV01KSi1YM2ZkclZyS05XSVpwUEI5QnBBMFpPalFfVHdHNUpRTEtNQnJIRVIzOVJNejBNSQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T02:28:59+00:00"
-    },
-    {
-      "text": "Take-Two stock jumps over 6% as Rockstar's long-awaited ‘GTA VI’ arrives after 13-year wait - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVRJakcxRmVtREpMZWJFWGZGX1NnRWJSOGtqQ0xPVE1hOWxCTkhWUkZ6ajlaTUFocnlkZlFTLVA1bWpVWHVsaS1sNVZCenZMb2lnRElCSDNVcGlmc3dSMFl4dEhMdjhlQ3VUWjAwREwxbVhvUWJQNFZfZ1ZUSjQ3aE9SeFV2NTNOYVlGNkVHUlVBa2xLYjZlR2pleF9PWGR5dkJGYm9EcF9CY2ZrVlZmTDdFSGdHUDdOQ0JVTdIBwgFBVV95cUxPV1BYV2JCalNaZURZcGYzMVVoRTAyNGtvRjYtV2MzY0kwVi1MaVhPaXV1cmFGbkhHdnpoU3pFZlVidDNvMHAzNnlKNWlIYnFjTU1FYjJmWTBLNlV0bUFOTnVqa0Z5OEtCNGtOejA1ZzBUZGJZRWVpQkh6NlhGaHNZWHhMd05lWjBTYnU5NXI2WkEtaWhxLUFNNmw5Z0poRzlXN0hvZUh1TDZhZWRXV3IzVHFJV0xORk0yVTl1NmNvMjZ3dw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T02:04:00+00:00"
-    },
-    {
-      "text": "Best Photos From 2026 CMA Awards Red Carpet: Taylor Swift, Lainey Wilson, Megan Moroney & More - Billboard",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1acVdSZlh0cUozcjNhRl91dmJZaEpEcUtOQUo1SldjY2k4clN2dUl5Ry1KX1AzVzNRdTFzUHdkampGTmFuM2hJaFFQQk9ucUxhbWJqUWFkTmdjTHBjTC1BMkZqNjRhNmo3aWVaeU1LeWlLSGp1eGpJWmF5aw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T01:56:47+00:00"
-    }
-  ],
-  "col3": [
-    {
-      "text": "She Won a Texas House Seat. Her Rival Says She Can’t Take Office. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWlRZRWM3T2Y0eU1NeWZmMmZqTDQ2OVNKX0JQMndjRkxoLUZZZEJnY09hY09NcUVqeXUxVmE5VjJ0YnphSWlMdDBwQjAyaXBkMmY4UUdKM2taUENYbzVxOVZvTEpLdmV4WlBqcUhWX0pwUGhWaWROc2ozcFRSSG91WGZvOA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T03:42:19+00:00"
-    },
-    {
-      "text": "Takeaways From the 2026 DealBook Summit",
-      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T03:12:43+00:00"
-    },
-    {
-      "text": "Van Gogh Soars to $190.4 Million at Sotheby’s After an 11th-Hour Settlement",
-      "url": "https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T02:45:05+00:00"
-    },
-    {
-      "text": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T02:20:15+00:00"
-    },
-    {
-      "text": "Storm Brings Torrential Rain and Floods to the San Francisco Bay Area",
-      "url": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-19T02:02:37+00:00"
-    },
-    {
-      "text": "Trump, Xi and Putin live: Leaders speak at APEC plenary ahead of unprecedented trilateral summit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0pSb0VvY25yd01hM3ZGMUdoQ1hJdUVhejAzZlRia095MWtkelVYaGlOZkwxTS0tdGwxQjUxYk82S2gwVFg2Y1RxYXg0SkplUE1CZmZJUlJjbTNNLVRzWk5IT3V5M09lVnRqYTZ0SE5ldGlGSXpLV21JZVBOUFhNdC02RDFpcUx2dlIzOTBoU0UwRkIyU29JdnZ2MlVNc2MwR1lQOTlB?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-19T01:25:01+00:00"
+      "time": "2026-11-19T11:56:30+00:00"
     }
   ]
 }
