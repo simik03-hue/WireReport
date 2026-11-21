@@ -1,54 +1,128 @@
 {
-  "generated_at": "2026-11-21T16:43:08.271134+00:00",
+  "generated_at": "2026-11-21T21:55:48.712631+00:00",
   "lead": {
-    "text": "Colom announces town hall in reddest county of Mississippi",
-    "url": "https://thehill.com/homenews/senate/6235221-colom-town-hall-red-itawamba-county/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-11-21T16:41:07+00:00",
+    "text": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-11-21T21:12:23+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-      "source": "CNBC",
-      "lean": "center",
-      "topic": "business",
-      "sourceNote": "Markets and business news.",
-      "time": "2026-11-21T16:40:05+00:00"
+      "text": "The Army Rejected a Safer Option to Destroy Lead-Laced Explosives in Iowa",
+      "url": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-21T21:11:16+00:00"
     },
     {
-      "text": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "text": "Trump praises Zacharia amid California state bar investigation",
+      "url": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/",
+      "source": "The Hill",
+      "lean": "center",
+      "topic": "politics",
+      "sourceNote": "Congressional/policy coverage.",
+      "time": "2026-11-21T21:07:46+00:00"
+    },
+    {
+      "text": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "lean": "center",
       "topic": "world",
       "sourceNote": "UK public broadcaster.",
-      "time": "2026-11-21T16:35:15+00:00"
-    },
-    {
-      "text": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T16:30:35+00:00"
+      "time": "2026-11-21T21:05:29+00:00"
     }
   ],
   "col1": [
     {
-      "text": "Advice to Democrats: Impeach Trump’s Cabinet",
-      "url": "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html",
+      "text": "Nebraska snaps AP Top 25 losing skid, upsets Ohio State - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHpIU2picGxpMnVwZmZFWXV5YXlEX0ZVaVpNNlIwa25rMUotYkZodVNvTnUwRzYtV2dOR1VrY0IzdFhXbEVrMmg5cWZacW0tN2d3emR4NWIxNHFsVml6eHI1aDhxWkpRRFFVY3AzLVJMelVhSzg1eVFzV1JXSHZEMnM5NjdzS2pjdXRWNHY4ZXpHVzBoTEtYVWtfb0dmbWtXaEdTZ20yM0ljWHRPSU5abEhB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T20:50:00+00:00"
+    },
+    {
+      "text": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUc5d1VEOGhMcFN4Z3ZHSm4zYjNqMWxMUEkweWR6UVlrMUQzOHBoVUtzYllmWTBoblhOcjM3dm1nVE5MOXVLeWNKelh0OXVSSS1Ld3NoSnhSdk1YTkkwU01FQ0V0ektZMHVBSldWQlExRXBveWxId3JhSGZuc3BYYkhQaldZblB0SXRDbDFMQnFIa0xXWEtzOQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T19:54:08+00:00"
+    },
+    {
+      "text": "Russian crew evacuating ship hit by drones off coast of Finland - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T18:54:35+00:00"
+    },
+    {
+      "text": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGgwZTZaQWNtSzNpRDhQajRHRHFFTDhiVXczZmUtaFJiMVdTMFcwN1dWV053c1lGY2hiUnJrNnc3X1JoREFHLWNYTG52bVk5cXhMSDlCU2NkcDVCeWhQamZsX3JXdVBYdzJSdWQ1NDlKaTE4ZzIxc3U1SE1lcnhjdm45TmtHVzBMTmI4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T18:00:00+00:00"
+    },
+    {
+      "text": "The Army Plans to Blow Up Tons of Toxic Explosives in Iowa. It Rejected a Safer Option. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiRVVwNTRDWXZubUNuR3d5QzlvX29WSzQ3a1JyVTNGTlZFRkVJaUVxLWlXaXRzUnRsbGdEMDgzanhReDdsRFhiUFQ2bFR4Vko3NjkyRUZ2ZXlxVG5UckNxMGM1WUJGdC1lY2Z4RDI2ME9TYzBSY2tpdQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T17:45:43+00:00"
+    },
+    {
+      "text": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelVkZmVoelpxa2pvdEZNMjl5ems1N1J0RFNWS0hsU01nSmpyMXp2cFF5OXp0bEMzUnhORkxub1JMeDdFdFRYWExieWYtWktVYzh3YkttSUNiYTh0Z05uYkR5RlNwamh1UFZmZ19MMGFVNGdGei1uZms2ZUx6MzFHbEtPQXlIOGhr?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T17:17:48+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "Trump Moves to Restrict Congressional Oversight of Contractors",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T16:29:19+00:00"
+      "time": "2026-11-21T20:20:24+00:00"
+    },
+    {
+      "text": "Miley Cyrus and Maxx Morando’s wedding rehearsal dinner menu revealed ahead of weekend nuptials - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWxwNHFaTnZCaVRIUTJ3clJSUHN4V3hMR0pyejRmRm9mMjVTNHhTd0ZoeXNlMkdscDBJd3BRZExscGYyV3BhV25fdVBoUU54OHB3emRhUWRidFFhN19rcVBNUlBNdFZpVHAtUUJiNWVMOFVHNm5EYl94YnhCd0E3WHlIMHpsX2NKQVVXREd2a210MU0xYU1wWU8waHlKWjhMS2ZQU1ZSWE5BVjdpV3RHMDREaENIZw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T19:53:00+00:00"
+    },
+    {
+      "text": "Live Now! UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoring - Sherdog",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnhoUF9NYktzSFRfT3F0aklnZU1qS1FnbEcySnRrUmNfa1B2SEsyTjRZcjB2OHV1SE85VlpHTHFvd0JvQk9hTHFFVnBpM1hDa2d0Sm5NUFpoN0RONnF4RmE4ZjlkMjRUcjA3ZWNEaXVkaENUYmRtTDFWbnY2MGd5UjROYU9XLWpLSVUtZU96dEFPMGoweXNaQkczeXFEMzA4blEtSUxuRUvSAa4BQVVfeXFMTmdiWlBkeWRNTk5talJJVDNXekRFMXJyX2ZMNURnTFR0LW92bEJSTWpXcVBPNU9EcjVYTFN5SUplOVQ4OEhaaWd1MVNHd1V3VEdrb2hDckE2YkhNbktQTlFscmlHajdzU3paVm1FR0JaQ3gzMVJyN3BzV0tNUXVWUmtDbjdWcUtVMFFoM050QXBSNWxIUjhORVJBT2REajY2MUNULXBPNlpVdmp1ZUNn?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T18:19:29+00:00"
     },
     {
       "text": "RFK Jr. vows to curb a measles crisis he initially underestimated - The Washington Post",
@@ -57,155 +131,81 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T16:02:49+00:00"
+      "time": "2026-11-21T18:00:00+00:00"
     },
     {
-      "text": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
-      "url": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T15:37:45+00:00"
-    },
-    {
-      "text": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OS1rb3RuN3M1WEd1ZFJTbDJDSzY2YTBwTm9Cb0lZVmdwQ2RQcUxHNXBIWnM1VVQ5eGNwNWtOUF9GUVhuYm9nbGVHTzV1a3ByajhPdUptemJSTEZWcFVKYXRIcGJWbFBwV0hNdzU3RDFMX1hYV2hMWkpTRGlOaW8?oc=5",
+      "text": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T15:02:00+00:00"
+      "time": "2026-11-21T17:26:00+00:00"
     },
     {
-      "text": "New forecast shows how El Niño will shape winter weather in US - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFFjeE1iNTd3YWhTQ0phTzV2RWM5NmJVS1JHYUQ4Vm9IclZQNUhxR3ZPOV9FZ3A0QXZ0Szl2QzFSRDhwYkhXcXRFZXB2TFZKOXN1VVVUVXNxZzh5YVdna1BaTE5JLTE5Y05EbHhUbXB0Qmg4ZEt6T1ZqQ3BJb0Q0OHVXTF9Zemt4VUxlYktYdDRfc1g0VDljdnFkZlpzV2FpaWFTS1E3NA?oc=5",
+      "text": "Monster king tides are set to flood the Bay Area. Here are days and times they’ll be highest - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEFhZ0EtSWNJRmJSY1U4TkU3cjRhbUFyQ1ZSWGNuZ3NiazBZbGlUZ2xTR3ktODlIb045dGYzdGRoRTBFemR0RXp3MDluOFpvQXRua29XOWd2OEtDRGlsSmlPNWs4LXA0ZnRLakFkeU5qbmc2ZE95MzFFeU1ydmZnTVg4NlB4MDk5cGRVbEg4OG4?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T14:04:00+00:00"
-    },
-    {
-      "text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cXdVVUc1b3ZQMTdhdXdRUWF4RFVlNTNMYlJDeWxoR0NZX3hxd3BBOEJwTzhYdDJMQnZNRkZ4TDc3c0pTN3hyX0xBbkVUanpHejhWQUJKMzR2VEE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T13:17:38+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T16:23:16+00:00"
-    },
-    {
-      "text": "International talks on controlling use of autonomous weapons collapse - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T16:01:00+00:00"
-    },
-    {
-      "text": "10 Days After Fatal Building Collapse, a Brooklyn Block Is in Limbo",
-      "url": "https://www.nytimes.com/2026/11/21/nyregion/brooklyn-building-collapse-flatbush-ave.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T15:13:21+00:00"
-    },
-    {
-      "text": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-      "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T14:09:39+00:00"
-    },
-    {
-      "text": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9odU5MVEZEWWhIZWZoR1BWdHdtOVdXOFpUQzd4NzhQRGpidjJReWVkSVN0RVdmOFhwWkRuaE1SWUlveDFRcjZ0RTZ2cTBoRU5TamNhbENrNmdHbk9zaWFpY05qSXNWUGNWUURyMWNlLWpFenlFWTF4NWN3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T13:58:33+00:00"
-    },
-    {
-      "text": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T13:00:00+00:00"
+      "time": "2026-11-21T17:08:36+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
-      "url": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T16:03:26+00:00"
-    },
-    {
-      "text": "The Sisterhood Rocks!",
-      "url": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T15:54:47+00:00"
-    },
-    {
-      "text": "GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
+      "text": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQU02N05ZSjQzY0IyYWZwc2VDSGVzeFBMWmdRLVpMR05HVUViSF9iVjh4VmUwemVaRHRuM1RTek81RXBoZHJOazNBeXpURHhTNnNUZGJRVzJsQ3U0NURZYlNEZGp6d2R1NUZrOUV6ems3ZHZZOXhkUjV5R0laNGlMcjZiQ0hhd1Njd1l6RTFJVnlVOVM5?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T15:06:24+00:00"
+      "time": "2026-11-21T19:54:42+00:00"
     },
     {
-      "text": "From ‘Stranger Things’ to Broadway, Everyone Knows Joe Keery",
-      "url": "https://www.nytimes.com/2026/11/21/theater/joe-keery-other-desert-cities-broadway.html",
+      "text": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T14:05:06+00:00"
+      "time": "2026-11-21T19:11:51+00:00"
     },
     {
-      "text": "Miley Cyrus & Maxx Morando's Rehearsal Dinner Menu Revealed in Wedding Weekend Photos - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1hrZWhNUVl5NmZTOGUtSGZ0VGV5QWtuM2NBVU1YNWpweUVsM2RMVUV1MnRWLTZTaTJmTlpSUFd1aGpOLXN6dVh4cHczV1cyVnpYcVNuSm1ycS1DZl94X0pkbVNOUlhZSTdKZlUxYklTSFRUSXVoT2FKQnRfYXZTOU9IdVhWUmI4Q2tHcndmZGRCMWhzOHk5VG53TG1BQQ?oc=5",
+      "text": "Trump orders contractors to check with White House over any congressional inquiries - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2xlUU51ZGxNY2JLV2JXdXBCVV85d3A5bjBPZXVkT05odXJrTkNPTTVXLXJ6WjdZQWdnMHI4ZUZpVTJPaVA4dU5BMXdyX0RvRVN6cUdnWkZtMXJCUG5mcEZ1ZHhpYXNGZlBpR0QwSWt2aHZjcUJQZ2VDWUw2eEpURjk0Wm1Bc0pMQnJhOUFDYXZpV0o5?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T13:27:31+00:00"
+      "time": "2026-11-21T18:08:00+00:00"
     },
     {
-      "text": "The $2.4 Billion Auction Week: Big Sales, Big Questions - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnNwUHZJRXlSRmNjZWV1VU8xNmVGc0ZoY3ZzcVNXMmMzanY3Y21GQ2lRQnRfdW02b1hVWl9BMm1vQlZ1bERFVlZOaEpkYlhKSXVTQVBOVUg1d21CeVA2VG9pQnRaOExZT2ZQMGRXalVqTW9CeVY5Z2lFbWI5aXItSWN5MkVGVllydl9jcHRVVUt1Tm9JSFNuZWxBNXdHU296c0FMcTJMX21WZ0VKOGdsUWtVTQ?oc=5",
+      "text": "Mike Waltz warns Kremlin faces 'unsustainable' losses approaching WWII scale as Trump seeks deal - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXpPZ0pLRE1EdmVFUXFIeHBEQjNBbHJSUGgwSDZLSzV4TXJ6eVVlMEpqTFJtOEp1N1gtaFlUcHF3M3BJRXJjdnAydXVFWnczRTVwbUcySF9VQUlwSndtOURNbjNRU3VNZ1VOa2xmYmVxcEJrbXdEakJqUldUdTZINHJkNUtTMkl6WUJBTWZsdEJ1d19yVldVaWlxQXRBaS11STBJN2VUUnd4U05fSW5MTU52RTduOGt5aHdyZnNR0gHDAUFVX3lxTE4wUFRSVWo2bjNuNVEzSG5uZjRhRUstZk1id3EzbnI2WXdJNUgzU0IxTHRQTU5haFdVX0puZFdERXJ4S0hJRFZVZkpGNkxmLVFpbXJYVGY3dFpXcGRaQzZpeWc3TVVrVmxLTERPcEVFNTY2THhIeFYxSkc5dGYwOTRmaGVCSlRoWWRIUmZlUUVxLVFPb0NOYVlHMWxlTTE4V201X25tY1labG1jUTNOSmZ3b0F5Q0NrMUNpcUpMOGJkX0NXOA?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T11:59:59+00:00"
+      "time": "2026-11-21T17:57:35+00:00"
+    },
+    {
+      "text": "What smart people are saying about the market sell-off ripping through tech and AI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T17:23:00+00:00"
+    },
+    {
+      "text": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated. - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjhEYkRqdG81LV9ZZm9ScHRKYTUybnFBc3NHOWQ2dTFCZURHem9fMWVKWklZMXRvNTlodjgyWm5Ca0NfLXFZWEFOdVl2LTdmODRmVXV0WERkNklXM0hPMnRha3ExS1FNS0cwM0FBcVJDbzVoS01ib3N4Wm92YWJHSUdTTVFyaUcweXVoTUU4Y2N4WHB3d0hqSktqWTRXSi1pMUs0amI3eWJwdGVUWVhjWDBHRm1tZVcyS0IwMkl5Q1BzYTNt?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-21T17:00:42+00:00"
     }
   ]
 }
