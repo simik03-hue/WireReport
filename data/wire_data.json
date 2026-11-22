@@ -1,17 +1,147 @@
 {
-  "generated_at": "2026-11-22T02:03:15.914228+00:00",
+  "generated_at": "2026-11-22T09:50:41.305952+00:00",
   "lead": {
-    "text": "Washington governor decries ‘out-of-control’ ICE at Seattle airport",
-    "url": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/",
-    "source": "The Hill",
-    "lean": "center",
-    "topic": "politics",
-    "sourceNote": "Congressional/policy coverage.",
-    "time": "2026-11-22T01:57:37+00:00",
+    "text": "Voyager 1 hit one light day but isn't sending home any data right now - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzNfZ1BhYkJTeG5vM002UFBGZXBtSUxGUV9aSkh5RFNjSzNkUWdSd2o4Q3pJRFBsVEZ6dFBaaVBSdXc0YTROXzZDQ2F4aTR2RVdOaUx4c09uSVBicGY3VEp6TnFYUVFXOGhUQVhVMlRDX19ySXJVaDNNVFE4RldXeXBJeU1QRnhsQTdTLQ?oc=5",
+    "source": "Google News",
+    "lean": "unrated",
+    "topic": "top",
+    "sourceNote": "Aggregated Google News top headlines feed.",
+    "time": "2026-11-22T09:35:26+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
+    {
+      "text": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "lean": "center",
+      "topic": "world",
+      "sourceNote": "UK public broadcaster.",
+      "time": "2026-11-22T09:20:45+00:00"
+    },
+    {
+      "text": "Putin’s Pet Project Implodes With Humiliating Scandal - The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ByMFlZWlNvc29MWGFPNHQ0UjV2T2szM28zbnp0RmVEeEppajJfNzVtSGRwYXRFNG5sVkYxdzlzcDJpSm9CZG1BcGJyUkdFVXRSRGhvNWVzb3A0Y0dsT3hvdUw5TDdzZW5QXzFLeWp0alBPNXk5QVU2cm1peTRuVjFUelpTa0R5Ymc?oc=5",
+      "source": "Google News World",
+      "lean": "unrated",
+      "topic": "world",
+      "sourceNote": "Aggregated Google News World topic feed.",
+      "time": "2026-11-22T08:15:03+00:00"
+    },
+    {
+      "text": "Turkey's final draft at UN climate talks doesn't mention the fossil fuels that cause global warming - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlZ4dzdCVnBlV0g5cDVCV19scWJkTG9RQWtiMng5NFlVb2VqSng0SmhxRGxLaUJ5aEgyTXRVMlpGVV9abXMwX19naG9EMlhjdEhaemxUTHM2bVhTdWc5Q09NMTR5Wk4yVmtlY2NFSHVncDdMWkhtU05keGJ6NXlGSTVKaFNlOVpsVl80QWE0T3ZQY0t5ZDB4YlNVUWdJZXJaZnJPZmFhb3I?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T07:56:00+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Europe Needs to Save Itself",
+      "url": "https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-22T07:23:08+00:00"
+    },
+    {
+      "text": "Tomorrow's Top 25 Today: Ohio State, Indiana, UCLA fall in college football rankings amid Big Ten chaos - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2lObU9rZmZ3WDhzRFZwbElHakF6LU9fYW1YZVBQYWZTeVFLX0ZCbWVDaVRmbVJJTDBaM2llc1J3TjUzYmlDTlpEa3dJclFYd0NFSDRmYmdMVHVlZDljcndwNURJNnRXNUlIdUp0M0RYN1E0bk1NSTg5YlAyLUE5XzNqbnljRlVvVC12aUctd2RPckpGOVNXZWprc0d5TmNHbERKQ3dKQQ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T04:39:00+00:00"
+    },
+    {
+      "text": "Powerball winning numbers for Nov. 21: $114M jackpot - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ2hoQzlEQm5wMDZJSzJXNnhReVFyRmFUTFBObWp0QnhPUVJIa0NORFlmZkpxUkh0NFduYzZsbGcyeXlPVS1hMlFVa0U5TzVzb19BeU1Na1pjQkE0YXY5aTFGTW1CS0EwXzg2LUZzNEw5UkRxazBWWm1NZWFDdG9TeUNQVzZDOHRIWnBrN1pCUHNyTjV0c2tUVFplVWthaDdfR2tJWXhmTDJxb1RLVzdZSg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T04:14:00+00:00"
+    },
+    {
+      "text": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-22T03:44:20+00:00"
+    },
+    {
+      "text": "Washington governor, union denounce ICE arrests of travelers at Seattle airport - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T03:33:00+00:00"
+    },
+    {
+      "text": "SpaceX Dragon cargo capsule returns to Earth from the ISS - Space",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnc4S3dTcWU4TkNqaFdkTTFhR3NLbWpYcUpaazFzRnlpMS1PcllMUXZieWxMa0NHSEhZUjZkQkY2b0lGSEEyQk4yNUFsUUYySzRQUWVOS2VHMkItbjNvNWtGc204T0pYZnZ6RHVTdTN5MTNtdmw5UGxhcDdXNDI2clRRaG1wMnJIaXF5VUxkNW5WLWpTM3ByZXRqNVFpaVdfcUFUSU5NNlNwQ2JQc1VzSFVYbU4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T02:18:17+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUhxZ3pTRHRkU0RtVFV0SVR5Sko5aXdTbS1JbjZaS0JjQWpMdWh2T2ZyVTRxS2w2dFhjZERJRjFYUE1PZmZic0M4bk0wcThRM2x0US01cTVubFdacDZBOEd6cEwxQkRhWUw3S1J2bEprZFkyU2tMU21Fc1U0SWJ6elZUVWc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T07:04:28+00:00"
+    },
+    {
+      "text": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-22T04:28:43+00:00"
+    },
+    {
+      "text": "These iPhone Customizations Can Make Your Lock Screen Look Cooler - BGR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrcXVEQVZXZTFub1hZbW9LM1dXRVhqYVhzWm5FaG1zLWh4UTdsajNaa2RBOGVVSTVDdTF3eFFyeFllV09NSE55Y2M3aFRpdmNWdmxJdmE3aW9kWFZDVUFFOVNlZ2JpSGRjaVI5WkVnZUNHTEhqVjM0d0Zmc202eWs?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T03:47:00+00:00"
+    },
+    {
+      "text": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T03:41:13+00:00"
+    },
+    {
+      "text": "BepiColombo finally reaches Mercury after eight-year odyssey - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QjJ2YUJJRUpaNkVLXzNvZnNJT3p0YnlSTU4yY0tabm1BVExWTnRBSC1XTUo0bmV0aTFWdFpFYVowVGc1TENTQXgxeHJOcjNCb2MzcW5OekxEajhqNGtF?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-22T02:29:15+00:00"
+    },
     {
       "text": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
       "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
@@ -20,192 +150,62 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-11-22T01:56:16+00:00"
-    },
-    {
-      "text": "ICE officers arrest at least 1 passenger boarding Alaska Airlines flight in Seattle - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTXzBRSldadmZ0TWI0bFVPRm1YRzIzLWp6YVpfak5NV3RtVWxqXzVzZVc1MExPYm5sVUl3WVFqMUdrYWR1Z1gzSzdFUUxNNW4zRmUxVEZlYnE2SHV4WXNVVE5nVDdGY3BxR3ZJemU5NjZabDZEcjZ3bi1yUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-22T01:41:00+00:00"
-    },
-    {
-      "text": "Poland says Russian missiles hit its territory; Trump calls it a mistake - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-22T01:35:19+00:00"
-    }
-  ],
-  "col1": [
-    {
-      "text": "Trump Moves to Restrict Congressional Oversight of Contractors",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-22T01:29:53+00:00"
-    },
-    {
-      "text": "No. 4 UCLA QB Ty Dieffenbach carted off with injury in 3OT loss to Michigan - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFJ5YWlhOFZESFA5NGtfZUs1UmQ1Vmt6Umo3cnVnY3M1cDJsU2hLN0RIOVFhR0pDbVg4V0pQc3hQX0NOMjYxaktMLXM3RUNucmNIaDV4NE5KRmFYM2E0NjFjRWMzbnU0T0xGTlRaUnlEZWFzRHRGM2tCd3hkOGVacTJpVWQ0YUNUa1F2ZGhIMXlPVnNQMDFScWtRbzNBdFFRbEp2NzZacFc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-22T00:20:00+00:00"
-    },
-    {
-      "text": "Monster king tides are set to flood the Bay Area. Here are days and times they’ll be highest - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEFhZ0EtSWNJRmJSY1U4TkU3cjRhbUFyQ1ZSWGNuZ3NiazBZbGlUZ2xTR3ktODlIb045dGYzdGRoRTBFemR0RXp3MDluOFpvQXRua29XOWd2OEtDRGlsSmlPNWs4LXA0ZnRLakFkeU5qbmc2ZE95MzFFeU1ydmZnTVg4NlB4MDk5cGRVbEg4OG4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T23:04:46+00:00"
-    },
-    {
-      "text": "What to Know About the Planned Explosion in Iowa",
-      "url": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T22:41:17+00:00"
-    },
-    {
-      "text": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVM0WGVYd0FwWkM5Y3ZuNmo0NHJpRVBBc2tzSXBfNVUwbG9vankwUnFaTFJ0Z2RNUEd1bzdGTTVrMkczR1VCQ2xjY3oyMk9iaW9QNV8xcjFDdkVpVEFjbl9GbjE4TEV0STJESFN5clo3VXhaWlpfb2pRMDNKdEc4dzlqWG5YaHNyUUs2NWZTRnJON254WDRVTDR2SDJYUXQxV3oybUh1REZydWFiRUxFLTV1UHByUnMxQnFVNmt1UkFnUQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T21:37:10+00:00"
-    },
-    {
-      "text": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T21:01:49+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUduVnlxQ1RUUG1Id0lhMHhXUnd1TzNRTGIwS2hCV0NFTWJSdlJXTkNLNXZyR0pfYnZMYUhraE9rS1RoN0ZmR3dDODJmakp4b193T1dBWFR1MlpJTXBORXpNMVB3N0I3U3UzOXFVWDh1ZEJVZ1dtU1RUUko5WklvcTYyN0s1ZTVH?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-22T01:15:08+00:00"
-    },
-    {
-      "text": "New pancreatic cancer drug stops tumor growth: Study - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WUljbVoySEdNdXJFSWJzZjJyM2ZUeGpiLTE1TEUtWnpsS09UT19Pakt4U2JXZ2lhZ253UVFMTVJLMmRWQTByU0pYYTNuaHhSVERISHRQM0dLNXlzV09obmNkaGpRUzdGVzVybFJfRE54bW4wSldFMlRrNTN1aXo1ZWd1QdIBiwFBVV95cUxOb2g1TUpDajZTWUJVWDl0ZktDZmFuYjhTNFBTSnZkWVctMnhYVnR5SUdjT0ZSTk41aUhhN0Fha0lVaHdJSWJTX2lpeTU5WUdsRUY1eHhfN3lQSk80dFFFeXlEd01hODdDLUVHQmFGbVhudjh6dVcwVVVKSEhfczIxOVdKMWhKNE9KRzdV?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-22T00:02:20+00:00"
-    },
-    {
-      "text": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
-      "url": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-21T22:57:09+00:00"
-    },
-    {
-      "text": "Virginia reports young child is the state’s first measles death in 2026 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk9HQklCN2x4dXV0OXM4eEtFTDdiSTlveWhiSTNYa1dPVEFTU1k3UG5fbF9pLXBrUlNDNE51QWM3YWtGWnBNWFUwU1V6RHQwemxSVnp1VU12MXkxdVQwcU9scTFNcDNNbTQ5T2ZwT2xWNHAxeVJMQ1lEQzVDS1VVSWdRMlR0U2Z3bTRvYk5EWnA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T22:07:00+00:00"
-    },
-    {
-      "text": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjVuN2FGb0pRdmlBcnlrblBxOWJfLUdkbWhkMTNxZXd5LXJFSHl3emFkYWRfeFl4a1lSZXRlZi11T1cwRmlSb3BNeTRQX1B1OFVFbEpwSDNwM1JJYlFVMEJ0WVRfczNlUU5vMzN5LTlUbWVfRFM2WS1VcXNoU0thT1gwbENyVTVranBtWU1jSjkzYjBIZTYyTE8zLUo?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T21:22:17+00:00"
-    },
-    {
-      "text": "Nebraska ends 31-game losing streak to ranked opponents: Huskers dash Ohio State's CFP hopes in milestone win - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUzdXek16aGFFZ3B0elJJTDFZYmhLMkRRTzJ1T3NGVE5PaVJSNkdZSmxyc0l4eTBoR2FaQUxvekFvUy1CdGZhWXpiQnk5T2prTlNTbGFSRjMyTkRwYmF6dFpQY0Zzb3MxUU9fOW9BMnRMRXh4OFVTZXdOMnA3N0FNUlRSa3lCVjkxTktyd3BOM2VVUnl6ZEUxN05obUhVMlRfWEpWUm94dVpkVnNEV0tuQVVrR0dVVUNvWi1XaS1uQQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T20:52:55+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Miley Cyrus marries Maxx Morando in intimate Palm Springs wedding - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmlpSHpwRGM3aVNzTG1NeDZ5NXBuSThUZTlibUNmYm9LR1k4SFBBdzgyR1RRQ2c5LWU0MU1tajRiSWZ2YnJ3Z0RJbkZhbm5hSFAyeGxURmQwSW8zV0g5aU8ycDJtc2lza2FuS0pTNGxuRlAzYnFWMFh4MEd1ZmJGX3pRcDlJNm5uT3NvVGQ5UHZxSGt0dUVRN05wZEExWko5YkttQ3hJekZVdzhtRjNkVGJR?oc=5",
+      "text": "Miley Cyrus Marries Maxx Morando in Poolside Ceremony Led by the Flaming Lips’ Wayne Coyne - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUp0dHFKVGRuLVNIUC1YSkpPLU9vbmZ4M2VwNi14M055VGFBSThIMk56dmFpWEZJMHI4ODVUUWJDMTlsNTNjZU04a2pSS2RORXhDektwZDVjdnFzUHNpUU8xRUJwLXFaWkxVZVNIQUsxak5scTA4Qmp3cnVPd0paX01lU0VGWmJ3Z2U1WmJzZzdJeExhcHRqcTc3M2hiejJWbUpB?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-22T00:46:00+00:00"
+      "time": "2026-11-22T05:24:56+00:00"
     },
     {
-      "text": "UFC Qatar bonuses: Navajo Stirling gets no-brainer $100K - MMA Junkie",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ2g4SmhIVFdpaDNaMDZPdjc2aXNBblA5RkRxV19tUHJzSjVldWRLTzg3QXlpMV93V0ZrcTQwT3ctcVpTdTFFSnFqVkszSVQ4LWh5clI2OU9US25LTWxBMUJiVEw2anZ1Qm1yOGlsOXc0SnVHYmF3SHZEQUFqd0JKNTNraHU5Q2lIR1FMZzU1Q3RSbGVYNDFWYlc2UjlmRXB0SkVWQzBudEh6bHhBcjdERzJNdy04b1J2YS1kM0tPM1hRTmh3ZE81UlRibDFRMzJkWHNOeVVQNGVEVGZ2eF9SbUdoVExoQzJfZVNwSXVTamtFY0FoNkE?oc=5",
+      "text": "More rain Saturday after days of flooding along Central Florida coast - WESH",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPME5mNHhCdVltWWxQQWxtU3BISnVoVmRIT0wxZm5Ed1lyenpQd1RZMkZiQl92TXMtNV9sZ3Z0b2VKLWVDMzJXVE5QVHE5cFNCMmR2ODg2MTJPUlhPXzhQSWVudXhXRG5CR1NXOHl0RF9iRUdsZmFROWR0QkNlZzc0MFB3?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T23:09:00+00:00"
+      "time": "2026-11-22T04:16:00+00:00"
     },
     {
-      "text": "Democrats who swept into the Senate promised change. A leadership vote is testing them early - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnJOSnBfdXFJdTl2aXIxcjZaSVlnYnE1NjdaQkRwQUYwVFFGNFR3N3hCaWMzM2pDQzFFNVhMaXZGcE83V2FfMVBheUhtcTF5eHFFbkRUbnNyLV9OV1VzWl9uM1RGeTZUQVUtNTNHWFZkM2FFaXdnMEI4eVFWcVJMZnNfLVZzTmlnbGh3OUc5MkRrUVBGSFpielBZQkZpdzFEYlhaZkhRcWdIZTU2WlZWRkkyR0Y1SUFaLVBF?oc=5",
+      "text": "Lane Kiffin credits Neyland Stadium crowd as 'loudest' he has heard on road - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNFUtdXN5VFZRN3BRQnBKbWlHTmt1a2YwT1NfZDB3a3NVM1FycGtteFoySEJodEFLN1pnbXM4WWVGdkpyNTIxdUJZYzZNY2N4ZnRvWkJhbko2dEVJUmF6aU1ZSlpPUTRVQmtaT2hBTjdteTJmLXREUTJ0dXhDaXJXRzZwYjNCMDM2S2lVc2NjczM4eWVmNGFNcUZHWm5HUDlseW1yRjFVZkFia1M2MWc3XzhscnJWSmpoNGlvbURDTFU2Yk5NZEVnY2VSNF8tRXNPbmk2QmE1eG9wSjlxSGlodmlBSjJLUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T22:49:00+00:00"
+      "time": "2026-11-22T03:44:48+00:00"
     },
     {
-      "text": "Lock of former US President George Washington's hair sells for $4,000 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR2dpZ2NvZm9LaGMtbEhsZktqOFBMYVMxZHNOVGd6NktTLTlqMWdIVmtlLS11S0RJQjU2dkw3cUpvNTZUUE40MkhHU01KbTZIREpaRlJleU9FX1k?oc=5",
+      "text": "Kansas City Current capture first NWSL trophy in 2-1 win over Washington Spirit - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjRjOWRiUXcyQWIyVWFKUzZmSXhvdjFJNGFHNFhla044R3hoalEtRUFsXzR3M2JHWnlNdFRZdDBiemxyRHJPblRYX2pRRUhfVUFrRk1KNFNaRE83RW1SOEFDYUJiZjlNWU5POUZkOEEwNC1hRG5kRlAtQ1UtZl9wYURqWUZkcTNOeDVpczJR?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T22:01:19+00:00"
+      "time": "2026-11-22T03:35:00+00:00"
     },
     {
-      "text": "Trump says FBI hack might expose Russia \"hoax\" - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qZGhVMnlWbTBqVTRJTU95ZjdFTHBEeDIyZHgtQ1pSZ3NCMDhUSGZZazZ0V0ptR0I2ZDZhSUhtUFZRNGRsN3dOMzRZenJHNGlidHB4QnBkYlVVcldoUi13ZjdlZ3g?oc=5",
+      "text": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXpOdWlXckdpLXNuT053QVpxMFlxNkVKbjRtY29vam5PSEgtdWw5VkI3T19HWkg0eGE2MUxrTUdkSlg0WGN1Z19NOHhQSDh2YVlmMHZoOTQ1UmFFQ2tqYkVrU0p2aGsxNkdydlVYOVJzTUFkVm5xcEJGMUt2ZGEwaDFzLXoxMkVibnZMcUx1MUhIZUJtS2MzTnNBbTl0Z0tfSkdoUWVaZ0V5VktzMU9OZEcweEZ2Y00xeFJDNmh2Yzg0QndsUm9NRklNWDVLSkJuU0thMnFCZmdPV2x4S0ZLdmtybVBRM3FGOHc?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T21:09:46+00:00"
+      "time": "2026-11-22T02:19:00+00:00"
     },
     {
-      "text": "Bayer reaches Roundup settlement that could cost the company billions - NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWlGNFE0V2hjbEJZVXZXMEhZRXZVbVlyeFNyWlRNQmtTUjAxNDdoM2ZITkN6elR0c043YlFaTjV6eGdSdk83VWswT1hUcmRlaWJHcVdwVWZDNGRUcmQzdWU1ZGtXeDhtM0M3MXFYMTNfR0swMWlvNVpEejBuSzJPcW5DaGU?oc=5",
+      "text": "Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzJ5Mkk0bVR3U0FIeVVxV0xfNVJSSVVGbE0xMmlEdGFmUE02bXV3TDRsZlVMZ080Ump0eFpnNjJkcHRpUmItSWN6V2x0YV9CODRSV0JKSWZHZEttMlhpazkwMTZCOW05d3RwbnpkTUV6NDg2QlU1RzFtbkM3TUk2SExmemU?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-21T20:37:35+00:00"
+      "time": "2026-11-22T01:30:53+00:00"
     }
   ]
 }
