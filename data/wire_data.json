@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-11-24T21:16:57.453630+00:00",
+  "generated_at": "2026-11-25T04:31:13.552561+00:00",
   "lead": {
-    "text": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-    "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-    "source": "CNBC",
-    "lean": "center",
-    "topic": "business",
-    "sourceNote": "Markets and business news.",
-    "time": "2026-11-24T21:16:10+00:00",
+    "text": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+    "source": "NYT",
+    "lean": "left",
+    "topic": "top",
+    "sourceNote": "New York Times homepage feed, long-running and stable.",
+    "time": "2026-11-25T04:22:46+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Nvidia shares fall more than 5% as Huang comeback rally cools",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "text": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
       "source": "CNBC",
       "lean": "center",
       "topic": "business",
       "sourceNote": "Markets and business news.",
-      "time": "2026-11-24T21:15:23+00:00"
+      "time": "2026-11-25T04:06:01+00:00"
     },
     {
-      "text": "Live updates: Huang's Nvidia return faces backlash; Iowa governor backs Army's lead detonation date",
-      "url": "https://thehill.com/homenews/administration/6238916-live-updates-jensen-huang-nvidia-donald-trump-administration-reconciliation-spending-bill-debate/",
-      "source": "The Hill",
+      "text": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "source": "CNBC",
       "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-24T21:15:00+00:00"
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-25T04:01:16+00:00"
     },
     {
-      "text": "Trump Ballroom and Other Projects Got $300 Million Donation Boost",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
+      "text": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+      "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-25T03:58:32+00:00"
+    }
+  ],
+  "col1": [
+    {
+      "text": "Why Jensen Huang Was Reinstated at Nvidia",
+      "url": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T21:14:02+00:00"
-    }
-  ],
-  "col1": [
+      "time": "2026-11-25T03:56:57+00:00"
+    },
     {
       "text": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
       "url": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
@@ -48,34 +57,81 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T21:13:20+00:00"
+      "time": "2026-11-25T03:36:32+00:00"
     },
     {
-      "text": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjBBNmluQUtFZGNIdTVyM3RqaFlvSWQxMGpaWnBEQlFGUjhJX3ZDc0J6MENrN294ZEZCVmVZbVBINVNpRndUaEdrRHhVYzdKUjVzN1ZtOWV1QXlwNW1ORlhDaXQ1MjNVYnBNU0s2Rk4welVsQmxWdGxNemJOR3gySEFhaWVaTWtsclBSYS13?oc=5",
+      "text": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T21:00:00+00:00"
+      "time": "2026-11-25T01:51:19+00:00"
     },
     {
-      "text": "Stock Market Today: Tech Stocks Slide Back After Epic Rally - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXlxSS1BVUtJb1k0ZXdNbzVmT05FbjlkNjd0dFExSGdBVkFwYXBvTVJoeGZ3dXdaOUhhOV9aYVMyblZlXzd1STVtdUhXQUZQTEVUU1NwdzlkRzV1ekVDVDFkOHBoUkNIVDFFUXJzVWRLbFpmOS0yckQ2UWM5TmRRSm5LejdvRzA?oc=5",
+      "text": "China investigates politburo star in Xi Jinping’s latest purge - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVFaWUFIS0JNSnpQQmcxM1pWcGJpc19iaklqek5GQlFKV2pLX0plWV9QS0d2Ml9KbnNsWkM0Qk1wc2E2cTdpbmo3U0M4QzlIM0xXN3p6N0VzamQxaUhwd201WVZaNzYyVm8tb25kQ280a19XeFlna1hjenR1WXE0TENqMndlalRmMGJUQlRaNEJWcjA1ZEIyU0dKSzlZWVJ1OTFFaWxn?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T20:38:00+00:00"
+      "time": "2026-11-25T01:31:00+00:00"
     },
     {
-      "text": "The Mississippi Senate Race Wasn’t Even This Year’s Biggest Upset",
-      "url": "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html",
+      "text": "4 adults and 2 kids are missing after plane crashes off Mississippi coast - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1pMNDBQT2hmMklqSk1NS1dWUjNrU21HV0FsTC1LWF9kRkVaN1Q3V0lMX3lQVVJTckd2dTRMLXJud21XdkpSMXlqbW1UQ29GWE1PdVVPdmM3aXVaZUZIUkF5aXhrazhnUEFCWTRkMHg0U2lZWGhxSHZhS2M4RmtWLWNUaV9LTzFCMldHeDhuSjRfREtrWVF2VS1JeTJQQ1VvVjRyaUIxZ3ZRdnM?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-25T00:57:00+00:00"
+    },
+    {
+      "text": "Trump Administration Pauses Joint Operations With Ecuador",
+      "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T20:19:49+00:00"
+      "time": "2026-11-25T00:42:52+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "‘Dancing With the Stars’ Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live) - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcWswLXdwUzJJMUdEYzRicGtOMEl6VVVIdFRpRExPLWZxaUhERnNNdFQ5dFRqaXBoQm1NeWpQcnZYeVNVdHF5QnZMazhYakdhZDgzV1FNcnp6MVV0ZVl1VFBTcTd5d3FwSnpHWlJuNjRmcERwazVoVjVoWWtkcE52cGc2ZDNJSjVzUWVXWGZIQW1wS1RFeHNMaW5MMS1OU3JfT1hZbDJ5d1NRUlhIUEVSaDVPM01nbzg?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-25T03:56:15+00:00"
+    },
+    {
+      "text": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-25T03:15:54+00:00"
+    },
+    {
+      "text": "Live storm updates: Record king tides leave Bay Area roads flooded - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-25T01:46:00+00:00"
+    },
+    {
+      "text": "CFP Selection Committee Issues Fourth Rankings of 2026 - College Football Playoff",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnMU1wYzZIMm1maU0ybnktOUtpd1RTQkxmVmpkQnduWmptQmRTSHRaMHBCdm5USDdnaTEtZklvV1dXdGV5SXJIaFo0UWJYNFFTQVpFdDZ4Xy1lb2NHWmptU1d3ZnNJNEhTRzlJ?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-25T01:19:47+00:00"
     },
     {
       "text": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
@@ -84,128 +140,72 @@
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T19:37:38+00:00"
+      "time": "2026-11-25T00:50:27+00:00"
     },
     {
-      "text": "Smithsonian Boss Defends Autonomy After Report of Trump Overhaul Plan",
-      "url": "https://www.nytimes.com/2026/11/24/arts/design/smithsonian-letter-lonnie-bunch-white-house.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T19:25:21+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-      "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T21:12:53+00:00"
-    },
-    {
-      "text": "An Adored Manhattan Grocery, and Seinfeld Favorite, May Close Its Doors",
-      "url": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T20:56:32+00:00"
-    },
-    {
-      "text": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
-      "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T20:34:13+00:00"
-    },
-    {
-      "text": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T19:54:59+00:00"
-    },
-    {
-      "text": "MLB free agency news, live updates: Freddy Peralta, Orioles reportedly agree on 5-year, $125M contract; Teruaki Satō agrees to 6-year deal with Cubs - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejk4SnYybzVzN3ctNE5aVjQwZUl6WmVOUE1aV2VoUnQwSnVWYW1jWEVDSU1HWTFGNV9maThkTnZabFl0QlFZVmp6SlhNWFd0bUlfN2JIMXBXaE1uTGc2R2FLRHN6TENGdmc0NTJWbDhjTWhMQldDNzg0NVNHMFVjcjY5czYza05MMVJLazF1MWZPQ0hRLU1KZjBSMUtaZw?oc=5",
+      "text": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFI1VzlDbmp2bUxGQjZBb192T2NxWTdDaGhaUVhnOVdPdkhLb1B4NVpOZkdOa3JsbTY4bmwtdW5YWTR6M3c1dnhWQkQzWlNNQnNtWTJobUUzb01Nb0V5SXpfdG13Q3ZRLWNXZjFtR25SU1pWUWxXMEgwY1JJQ3FNbDk1MzIzYV9kbHUzRWJvWENtYnlGUVBHRjlsSkdtTDdENXZwcmFVR3JkZ1RBMk9nbkUwZmhMVGRjSHRHYms3LUlBLXM?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T19:32:26+00:00"
-    },
-    {
-      "text": "Nvidia live updates: Nvidia stock falls after massive rally, Jensen Huang apologizes to employees - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnBZTkhUUGlCUVBvdW9Mam9JbGJueElLNmRUenk3eTZ2YmhXSEJhb3VCTTlrQ0xDZzF1N3pURFZFNDROVkZhOW1Mc0JxQUhGQ25rSjdWZXdxMnZNLWFaNzJfdXdFeEpUMzFQMUl3alZfWVotcFRHRGxSRzNiWHJuSlpyaXVHTld1MDFLSy1rdDJCU1F6ME9vZDB1bzB2bS1PeHpZbTg5czJrQ1lzdFRHbUlmS3JzYlFvQnRjZ2xRT3hoR1FVMUQ2a0hNMXZwNEtYckw1Q0ZYOThJMTlobXZTY3JzdDFESjBN?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T19:18:48+00:00"
+      "time": "2026-11-25T00:42:00+00:00"
     }
   ],
   "col3": [
     {
-      "text": "Live storm updates: King tide flooding submerges Bay Area roads - ABC7 Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T21:01:00+00:00"
-    },
-    {
-      "text": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
+      "text": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+      "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T20:43:53+00:00"
+      "time": "2026-11-25T03:52:08+00:00"
     },
     {
-      "text": "Trump awards Rudy Giuliani the Medal of Freedom, the nation’s highest civilian honor - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHIwRHAwVzZKa0VhWUNYdGNvdGprWkR0TzE2ejlmQ3lrVXQ2Rmo3bl8xOGJaQkRWb0lIOVl6MGJZSGlGZWVMZ05KTmhuRE1zN21RQ2U2X2dSVWZndFo2WWpxLWkwT2RKU1lKbE9ZN1l1TFBMOHBfbllqelE4Q3BnX2VQMGdDLTU5TG90YjA3elVRaTNzZVlRekhHWHFSaFdRYmdodGNvbmQ2Q2ZNVlRzWU81NUs2ZnBJQmJ1a1Y1aUpJVFRLQTE0Zw?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T20:30:25+00:00"
-    },
-    {
-      "text": "Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEVDclJRcDEtdU1wNmVoOWhUaE5WcFl1cnBJMXE5MFRNb3dzQ2NScWxGNTB5VUJUOTU0T1l0ZFB6QkdhQlpjQXBEbW9ydGR5dnRPbE1BZnNKYjNOQ0VyUHRKU1FQSU1LVG5Sak8wSmtYWXcxazktdURuZlZJYW53dDRFNlF3Q3E3U212Zk5SUnp6a0c4bzVzclRQeHpJSVViY2Q3OGkzWW53TzRlNkpGNmNmNzRmSnFYcXc?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T19:45:00+00:00"
-    },
-    {
-      "text": "Broderick Wins Tennessee House Race, Giving Democrats Largest Majority in 30 Years",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
+      "text": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
+      "url": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-24T19:26:32+00:00"
+      "time": "2026-11-25T02:06:53+00:00"
     },
     {
-      "text": "The Mortality Gap Between Black and White Americans Is Shrinking - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5",
+      "text": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjZVLVU3RnVMWXdvYUpUUkdTcVVCTjVvdkR1NG12eUNYalM5bTJVbVFndmFEZ2d1UGhUeEROM2lMcTRuMHBQQmh6amtpaWJIc0k1aHdBMEZvRUNEUndCYWJZZnIxS0x0OFNuRmgxMl90VEZKVVVwZVB2d0swTmpyQjdaejluSXRVeGNrVEMzU21zMkhIT21uSWNvM0cza1RYdkFDeW9OdVNIdGhtcW1PRTJmUQ?oc=5",
       "source": "Google News",
       "lean": "unrated",
       "topic": "top",
       "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-24T18:59:59+00:00"
+      "time": "2026-11-25T01:43:00+00:00"
+    },
+    {
+      "text": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes - Nintendo Life",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzM5R0dyLS1FWUZNVW9MTEg4UGwxMXREY3dua2lNTmxXOEJIX1Y4cF8zbllWZnFOOEFYbk9DZHhRdEs4SXZOTmh4cC1hTjhrYVEwN2gwNWJnd0NHWmNMQ0JEdzZnbHNDMHRUNE5jVWVvZEZtQnpiQVVoTzlxekFqZHdFbEtWVXZ0ZGt3RHZ3MWFDakxRYU1ONnZLanFIMUhQNlp2MlZOZUhzS0VMYkpZZHNlN3VzQ0tIQTBMeTk5MA?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-25T01:13:51+00:00"
+    },
+    {
+      "text": "The beaver supermoon glows across the globe – in pictures - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1VpTWRiYXFQWkdxRUpwTHctN1gwUThVSnM5S1hUVEdMZjVaNG5QamNGUERmUzByN2tORlVOc05nRGF4R0RPa2VkNUNDY1hLb1cwSHlhNlFGc0l6dG5YUTl1eEpRRWJNRE8zaEtfSElsQjdXbTF6bHpIVU9kenRHUDZOcEJhMGRrd1R1Y0xEVmtKQW4wdmNNNldqaUNrOVJIMG93aFBxSV9HTW11NE1iQU1TRlYxRGxlTG9mM3A5dTBFbjJuemc?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-25T00:45:00+00:00"
+    },
+    {
+      "text": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDBtR1FfWU5YMzBKWUlXWmc3YVotaWZ2eHBQTEdLd1ZJN0duSzA3RFNkQnFFM29rSXVrdnlzMk1ZYzJLbUd5dnJhYUQxb1pVYU9DT0wzMmlfSk84NW03TUZqTEtQNDNDRzQ0OWIyOWJ4OHNEdUV6c0hIWDNtRlk3WGFkbl9LbkpwNExRSS13SjFnQ0o2b0JrbjZKNHZJQmpmZ0VYMw?oc=5",
+      "source": "Google News",
+      "lean": "unrated",
+      "topic": "top",
+      "sourceNote": "Aggregated Google News top headlines feed.",
+      "time": "2026-11-25T00:21:00+00:00"
     }
   ]
 }
