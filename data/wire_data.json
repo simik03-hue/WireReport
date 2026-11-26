@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-11-25T23:39:33.778035+00:00",
+  "generated_at": "2026-11-26T05:29:55.432535+00:00",
   "lead": {
-    "text": "Russia has passed the biggest military budget since Soviet times - The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHRLYUVoclBrczZzTW1yQko0dVQtTWI1Rk1tM0YyMkNub1p5V2lqTzlpVWoxZGxPbDEzXzJjWW9VR1JPYVItdWJmSjBmMUJuNGhuVlRFNWVkZHF2UW9VdzFzNjM2aGUwM0JUN1U0LUFFcThuRHEyMGhMMzZaOVZqeDdOTWZGVXhYckxrTVZ1ZUdJT19SVTNNTEpzT3JDVlhNb2FoUXlST0ZzZ0diWEE?oc=5",
-    "source": "Google News World",
-    "lean": "unrated",
-    "topic": "world",
-    "sourceNote": "Aggregated Google News World topic feed.",
-    "time": "2026-11-25T23:24:49+00:00",
+    "text": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+    "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+    "source": "NPR Politics",
+    "lean": "left",
+    "topic": "politics",
+    "sourceNote": "Public radio, nonprofit newsroom.",
+    "time": "2026-11-26T05:23:18+00:00",
     "kicker": "DEVELOPING",
     "deck": ""
   },
   "tier2": [
     {
-      "text": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
-      "url": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
+      "text": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-26T05:16:38+00:00"
+    },
+    {
+      "text": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "source": "CNBC",
+      "lean": "center",
+      "topic": "business",
+      "sourceNote": "Markets and business news.",
+      "time": "2026-11-26T04:49:03+00:00"
+    },
+    {
+      "text": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
+      "url": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-25T23:21:58+00:00"
-    },
-    {
-      "text": "Kushner calls Putin 'grandmaster of politics'",
-      "url": "https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-25T23:20:45+00:00"
-    },
-    {
-      "text": "Inflation rises, but economic growth remains strong",
-      "url": "https://thehill.com/homenews/6244150-inflation-rises-but-economic-growth-remains-strong/",
-      "source": "The Hill",
-      "lean": "center",
-      "topic": "politics",
-      "sourceNote": "Congressional/policy coverage.",
-      "time": "2026-11-25T23:20:00+00:00"
+      "time": "2026-11-26T04:30:36+00:00"
     }
   ],
   "col1": [
+    {
+      "text": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
+      "url": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-26T03:42:51+00:00"
+    },
     {
       "text": "Veruschka Was a Supermodel Before the Term Was Invented",
       "url": "https://www.nytimes.com/2026/11/25/style/veruschka-supermodel-obituary.html",
@@ -48,7 +57,16 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-25T23:12:54+00:00"
+      "time": "2026-11-26T02:36:37+00:00"
+    },
+    {
+      "text": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+      "url": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-26T01:53:20+00:00"
     },
     {
       "text": "A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’",
@@ -60,89 +78,6 @@
       "time": "2026-11-25T23:01:32+00:00"
     },
     {
-      "text": "Setting Up the Macy’s Thanksgiving Day Parade is Quite a Process. So Is Undoing it.",
-      "url": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-parade-preparation-setup.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-25T22:35:52+00:00"
-    },
-    {
-      "text": "Macy's Thanksgiving Day Parade postponed until Saturday due to weather for first time in its 100-year history - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2NkZjRfcVlrdGdBUllZMzdjTlh5Mm9PMDJiMmhscDJickpuNnA2U0FLeUhYWTN6UFc5Y3lxM3BNczVPcGMwZURNVkU0TGlrbkt2azFrcGR3TDVVUzVCTnhleHk2UEVVVHlkNWVRUnJrVWF0VVdqUHB6WHVWTzdvaTE4TQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-25T22:18:29+00:00"
-    },
-    {
-      "text": "How the Trump administration determined Jensen Huang is not a national security threat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-25T21:55:12+00:00"
-    },
-    {
-      "text": "Andy Taylor, Duran Duran Guitarist, Dies at 65 - Variety",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTnVoY2U5WDduQ3FReGY4VnBkaS1DQk9sU0ZwZUdpU1hSbkt3QkN0eWNYbmswTWY4MWdtVm9nbjE2b1B1VlYyOXAwbmNOTUtKdXhPaXBqSVN6TTFyY3BiZHBCTG42V1NQek1nNWw3cVFpcEk3WnZKdDhlY3hLSzZkekIzdFlIWDhxdFR3THd1OA?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-25T21:24:00+00:00"
-    }
-  ],
-  "col2": [
-    {
-      "text": "After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks",
-      "url": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-25T23:09:50+00:00"
-    },
-    {
-      "text": "California’s Tides Are in ‘Uncharted Territory’ as Water Surges Higher - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dSbExTNTFPanVKLS1jbmFqLVdZekprLWkySmxqb1BOYTh5RGtwdHJmSkplb2N2alA5M3kyYlg1RXBTZ2ZSZzUwZ3JxY1Rubm51RjYwSG9vRWRmVjZ5eU5CbmVmanlyR2FGV2FPMmREN1A4MXp6cGo5dmdid0F2Rg?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-25T23:01:32+00:00"
-    },
-    {
-      "text": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume - AP News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-25T22:25:00+00:00"
-    },
-    {
-      "text": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
-      "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-25T22:16:50+00:00"
-    },
-    {
-      "text": "Thanksgiving Storm Is Expected to Hit East Coast With Heavy Rain and Flooding",
-      "url": "https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html",
-      "source": "NYT",
-      "lean": "left",
-      "topic": "top",
-      "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-25T21:53:45+00:00"
-    },
-    {
       "text": "I’m a Therapist. I Wish These Patients Would Not Cut Off Their Family Members.",
       "url": "https://www.nytimes.com/2026/11/25/opinion/politics-family-midterms-voting-holidays.html",
       "source": "NYT",
@@ -150,6 +85,71 @@
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
       "time": "2026-11-25T21:23:25+00:00"
+    },
+    {
+      "text": "The Ensemble Cast of a New York Sitcom Is Suddenly Running the Country",
+      "url": "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-25T19:58:21+00:00"
+    }
+  ],
+  "col2": [
+    {
+      "text": "The Thanksgiving Parade on Saturday. Can They Do That?",
+      "url": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-26T02:45:29+00:00"
+    },
+    {
+      "text": "Macy’s Thanksgiving Day Parade Sours Holiday Plans for Tourists",
+      "url": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-tourists.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-26T02:24:38+00:00"
+    },
+    {
+      "text": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
+      "url": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-25T23:21:58+00:00"
+    },
+    {
+      "text": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+      "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-25T21:36:24+00:00"
+    },
+    {
+      "text": "ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize",
+      "url": "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-25T21:22:54+00:00"
+    },
+    {
+      "text": "What Are King Tides, and Why Is Everyone Talking About Them?",
+      "url": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-20T22:52:15+00:00"
     }
   ],
   "col3": [
@@ -160,34 +160,25 @@
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-25T23:05:12+00:00"
+      "time": "2026-11-26T02:45:27+00:00"
     },
     {
-      "text": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEh3VHJBUW9yQzVjTncwWGNBRkN2U0wtbkJxWHpkU2JXSmE2Ukc2Q25aUXZ3ZVVsN2lPd1JUTnE4ZUNxTDNIMXEwRXJZV01ZVGVwaERxdXdjMTZjWGQxaVpXSTBIWEtoTDNhZXdBcW5ESVdvUGhiLVpXYUFUMHRJQkVWZmNDM29CUS04cUx3?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+      "url": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-25T22:43:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-26T02:01:20+00:00"
     },
     {
-      "text": "NFL Playoff Simulator: Stakes are huge for Packers-Rams, with loser likely to miss postseason - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1NOaFQ2UEFhdm1oTmZHS0w3UDdWNWd3emdla2FfTUlyMW00RkxNU3k3N3ZlR2doYmlGU05FajVBRXlnM2JUMDh6RGRQZVYwekdlRmdtV1hCb25NVHplNzFOT292QmppWkV0R25EV2lpV3ktcklwbnFxV1JfcjhPY2MtRFBZX3dycVpMX3hRLWNLRC1n?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
+      "text": "After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks",
+      "url": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
+      "source": "NYT",
+      "lean": "left",
       "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-25T22:18:48+00:00"
-    },
-    {
-      "text": "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeFBwOW1jR0JzN1RSRDlrZXdBQnJTOWFOdEJFNmxvT2VldDNXZFg3OXQyN2plWWl5eGdXN2d5aUVpX0hfeDBpWHRDTmFOLWsyZExLUzFneFN4LU9URW5VV2ZXLWMwUGVoMUh5QmtlYkRfZWpleEJpRWhmNTQ3VkpiVmZONXJTYVgxR2k5eGV6YXl0QQ?oc=5",
-      "source": "Google News",
-      "lean": "unrated",
-      "topic": "top",
-      "sourceNote": "Aggregated Google News top headlines feed.",
-      "time": "2026-11-25T21:56:00+00:00"
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-11-25T23:09:50+00:00"
     },
     {
       "text": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
@@ -199,13 +190,22 @@
       "time": "2026-11-25T21:32:42+00:00"
     },
     {
-      "text": "ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize",
-      "url": "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html",
+      "text": "Iowa Awaits All-Clear as Tests for Lead Continue",
+      "url": "https://www.nytimes.com/2026/11/25/us/iowa-detonation-lead-what-next.html",
       "source": "NYT",
       "lean": "left",
       "topic": "top",
       "sourceNote": "New York Times homepage feed, long-running and stable.",
-      "time": "2026-11-25T21:22:54+00:00"
+      "time": "2026-11-25T21:16:07+00:00"
+    },
+    {
+      "text": "Easy Thanksgiving Recipes | Thanksgiving Recipes 2025 | NYT Cooking",
+      "url": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes",
+      "source": "NYT",
+      "lean": "left",
+      "topic": "top",
+      "sourceNote": "New York Times homepage feed, long-running and stable.",
+      "time": "2026-09-28T15:01:15+00:00"
     }
   ]
 }
